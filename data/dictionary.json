@@ -1,0 +1,313 @@
+{
+  "-sk'ulya": {
+    "root": "-sk'ulya",
+    "partOfSpeech": "n",
+    "definition": "coyote",
+    "forms": [
+      {
+        "kiksht": "isk'ulya",
+        "english": "(male) coyote"
+      },
+      {
+        "kiksht": "ask'ulya",
+        "english": "female coyote"
+      },
+      {
+        "kiksht": "itsk'úlyayuks",
+        "english": "coyotes"
+      }
+    ]
+  },
+  "a-g̲agilak": {
+    "root": "a-g̲agilak",
+    "partOfSpeech": "n",
+    "definition": "woman",
+    "forms": [
+      {
+        "kiksht": "idnémshksh, iłnémshksh",
+        "english": "women"
+      }
+    ],
+    "seeAlso": [
+      "id-némshksh, it-g̲agilakkti, i-g̲agilakk'iganimx̲"
+    ]
+  },
+  "dauya": {
+    "root": "dauya",
+    "partOfSpeech": "pron",
+    "definition": "this",
+    "examples": [
+      {
+        "kiksht": "Dauya ich'axwi yunułemix kiksht ik'inułem engi.",
+        "english": "This letter isw ritten in Wasco."
+      }
+    ],
+    "notes": "This is a word for \"this\" usedwith nouns beginning with i-."
+  },
+  "gachawiqłaxit": {
+    "root": "gachawiqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "he heard about them",
+    "seeAlso": [
+      "-l-QÒA-xit"
+    ]
+  },
+  "galishgluya": {
+    "root": "galishgluya",
+    "partOfSpeech": "vb",
+    "definition": "he went to those two",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "galix̲ux̲": {
+    "root": "galix̲ux̲",
+    "partOfSpeech": "vb",
+    "definition": "he made himself, he turned himself into, he became, they[i-] did, he did himself. it[i-] came to be",
+    "examples": [
+      {
+        "kiksht": "Ik'ámunaq galix̲ux̲.",
+        "english": "He turned himself into a piece of wood. [WTI.1a1]"
+      },
+      {
+        "kiksht": "G̲aug̲au galix̲ux̲ imulagmax̲.",
+        "english": "The elks drummed. [WTI.15.4]"
+      },
+      {
+        "kiksht": "Galix̲ux̲ guatguat.",
+        "english": "He rubbed himself."
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x̲-X̲"
+    ]
+  },
+  "i-k'ámunaq": {
+    "root": "i-k'ámunaq",
+    "partOfSpeech": "n",
+    "definition": "wood, stick of wood",
+    "seeAlso": [
+      "i-k'amunak k'ámunaq [num]  hundred",
+      "-k'ámunaq"
+    ],
+    "examples": [
+      {
+        "kiksht": "íxd iak'amunaq",
+        "english": "one hundred"
+      },
+      {
+        "kiksht": "ixt inshak'amunaq k'un senmakwstłał",
+        "english": "170 of us"
+      }
+    ]
+  },
+  "id-náchk": {
+    "root": "id-náchk",
+    "partOfSpeech": "n",
+    "definition": "fish, at the time they are running plentifully, fish run",
+    "forms": [
+      {
+        "kiksht": "idianáchk",
+        "english": "salmon fisherman [HS 4/5/51]"
+      },
+      {
+        "kiksht": "Isk'ulya ishqagilak gacháwiqłaxit itshtanachk.",
+        "english": "Coyote heard about two women having the fish run."
+      }
+    ],
+    "seeAlso": [
+      "wi-nachk, -NA-chkw"
+    ]
+  },
+  "ishktälgwipchk": {
+    "root": "ishktälgwipchk",
+    "partOfSpeech": "vb",
+    "definition": "they 2 collected them from water (into it[i-]?)",
+    "examples": [
+      {
+        "kiksht": "Ishktälgwipchk wímałiamt.",
+        "english": "They 2 were collecting them from the river."
+      }
+    ],
+    "seeAlso": [
+      "-GWI-pchk"
+    ]
+  },
+  "kwapt": {
+    "root": "kwapt",
+    "partOfSpeech": "adv",
+    "definition": "then",
+    "examples": [
+      {
+        "kiksht": "Kwapt galishgluya.",
+        "english": "Then he went to them. [WTI.1a.1]"
+      },
+      {
+        "kiksht": "Dan kwapt?",
+        "english": "What else? [GT, MMc]"
+      },
+      {
+        "kiksht": "wit'a kwapt",
+        "english": "again the same, the same again"
+      },
+      {
+        "kiksht": "ag̲a kwapt",
+        "english": "and then"
+      },
+      {
+        "kiksht": "kwapt ag̲a",
+        "english": "enough, quit now"
+      },
+      {
+        "kiksht": "Ag̲a kwapt ninxatkw'a.",
+        "english": "Then I came home."
+      },
+      {
+        "kiksht": "Kwapt agałx̲uxtka ałagulul.",
+        "english": "Every once in a while she'll steal their acorns from them."
+      },
+      {
+        "kiksht": "‘Qawat idmixiúdanyuksh?' ‘Makwsht.' ‘ G̲achi saqw kwapt?' ‘Kwáptkag̲a.'",
+        "english": "‘How many horses do you have?' ‘Two.' ‘Is that all?' ‘That is all, only that many.'"
+      }
+    ],
+    "seeAlso": [
+      "makwapt, mag̲kwapt,kwáptkag̲a, kwapdix, kwabát"
+    ]
+  },
+  "qengi": {
+    "root": "qengi",
+    "partOfSpeech": "pron",
+    "definition": "what, how, what for,why, something",
+    "examples": [
+      {
+        "kiksht": "Qengi mait'a?",
+        "english": "How are you? [GT, MMc]"
+      },
+      {
+        "kiksht": "Qengi entx̲a!",
+        "english": "Do something to me! [WTI.5.3]"
+      },
+      {
+        "kiksht": "Qengi qidau?",
+        "english": "What's the matter?"
+      },
+      {
+        "kiksht": "Qengi emgúshgiwal?",
+        "english": "What are you travelling for?"
+      },
+      {
+        "kiksht": "Qengi dauya inx̲úx̲?",
+        "english": "What is this that happened to me?"
+      },
+      {
+        "kiksht": "Qengi mkix̲ax̲?",
+        "english": "What's the matter with you?"
+      },
+      {
+        "kiksht": "Qengi aish?",
+        "english": "How is it to be done?"
+      },
+      {
+        "kiksht": "Qengi ichiux̲?",
+        "english": "What did he do to him?"
+      },
+      {
+        "kiksht": "Qengi dan?",
+        "english": "What's the matter?"
+      },
+      {
+        "kiksht": "Qengimax̲ chiux̲t.",
+        "english": "He is doing everything to him."
+      },
+      {
+        "kiksht": "k'aya qengi",
+        "english": "nothing, nothing the matter"
+      },
+      {
+        "kiksht": "Qengi naqi amxmatgaba Berkeley-ba?",
+        "english": "Why don't you work at Berkeley?"
+      },
+      {
+        "kiksht": "Amuya awachi naika anuya, qengi ch'ala?",
+        "english": "You'll go or I'll go, how about it?"
+      },
+      {
+        "kiksht": "Wax anłuxwa iłk'iwaxmat awachi kwaish, qengi ch'ala?",
+        "english": "Shall I light the light now or after a while, what do you say?"
+      }
+    ],
+    "seeAlso": [
+      "qengiská, qengidnu qengi ch'ala [idiom]  \"how about it?\", \"what do you say?\""
+    ]
+  },
+  "wi-lx": {
+    "root": "wi-lx",
+    "partOfSpeech": "n",
+    "definition": "earth, ground, land, year",
+    "forms": [
+      {
+        "kiksht": "iłélx",
+        "english": "years"
+      },
+      {
+        "kiksht": "wilxmax̲",
+        "english": "lands"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Wilxpa nux̲t.",
+        "english": "I'm sitting on the ground."
+      },
+      {
+        "kiksht": "ixt wilx",
+        "english": "one year"
+      },
+      {
+        "kiksht": "daya wilx",
+        "english": "this year; this ground"
+      },
+      {
+        "kiksht": "Iwi'iwi gachiux̲ix saqw' wilx igunat.",
+        "english": "The Chinook salmon looked carefully over all the land."
+      },
+      {
+        "kiksht": "We:lx wilx igix̲ux̲ix.",
+        "english": "Ground, ground it made itself (as when after the snow melts,ground appears everywhere)"
+      }
+    ],
+    "seeAlso": [
+      "i-t'úlx, i-lxix"
+    ]
+  },
+  "wi-mał": {
+    "root": "wi-mał",
+    "partOfSpeech": "n",
+    "definition": "river, Columbia River",
+    "forms": [
+      {
+        "kiksht": "wímałmax̲",
+        "english": "rivers"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Galułx̲a wimałiamt.",
+        "english": "She went to the river."
+      },
+      {
+        "kiksht": "yaka wiimał",
+        "english": "all along the river [Dyk's transcription: yaka we:mał]"
+      },
+      {
+        "kiksht": "[Dyk]   G̲angadix galux̲wílaitix adasq'ú idelxam kana'amdmax̲ wimałba.",
+        "english": "Long ago the Wasco people lived on both sides of the Columbia River."
+      }
+    ],
+    "notes": "Comment by Phillip Kahclamat: \"Sapir said the Columbia is the only one called wimał, but I'd call the Amazon, Mississippi that.\" Apparently this word refers to large rivers. Compare wi-qał.",
+    "seeAlso": [
+      "id-mał, małn, k'amałmt, it-k'umałmt"
+    ]
+  }
+}
