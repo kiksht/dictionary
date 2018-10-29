@@ -51,3 +51,13 @@ Forms:  wˆma¬max̲ “rivers”
 Examples:  Galu¬x̲a wima¬iamt. “She went to the river.” yaka wiima¬ “all along the river” [Dyk’s transcription: yaka we:ma¬] [Dyk]   ̋angadix galux̲wˆlaitix adasq’ ̈ idelxam kana’amdmax̲ wima¬ba.  “Long ago the Wasco people lived on both sides of the Columbia River.” [GT, MMc]
 Notes:  Comment by Phillip Kahclamat: “Sapir said the Columbia is the only one called wima¬, but I’d call the Amazon, Mississippi that.” Apparently this word refers to large rivers. Compare wi-qa¬.
 See also: id-ma¬, ma¬n, k’ama¬mt, it-k’uma¬mt
+
+-x-NI [vb]  float, drift
+Forms:  yuxnˆt “he is floating (in that direction)”  itxnˆt “he was floating; he is floating (in this direction)” yuxninan “he is floating about” duxninan, tekxninan “they are floating about”  shduxninan “they 2 are floating about” [*shuxninan is not acceptable]  yuxnˆnanamchk “he floated about”  yuxwnˆchkwt “it is floating to the surface”  yagenxnˆt “he is drifting to her”  shdagelxnˆt, shagelxnˆt “they 2 are floating to her”  yagenxnˆchkwt “he is floating up to the surface toward her”  ix̲xnˆt “he is drifting away from him” [Dyk] iyugwaxnipchk “it washed ashore” [PK 9/13/56]  duxnipck “early whites” [literally "they float ashore"] [DF:?]  gayux̲uni “he drifted along” [WTI.1a1] [said of Coyote after he turned himself into a piece of wood for Swallow sisters to pick up] galuxuni “she drifted downstream” uxuni. “she is drifting downstream” [WTI.4.16]
+See also: -NI, - ̨UNI
+
+gayux̲uni [vb]  he drifted along
+See also: -NI
+
+kinwa [adv]  try, in vain, futilely, no matter
+Examples:  Kinua ik’Åmunaq galix̲ux̲. “He tried (to get them to pick him up) by turning himself into a piece of wood.” [WTI.1a1]  kinwa dan “no matter what; nothing will do” [Dyk]

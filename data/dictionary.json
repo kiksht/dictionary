@@ -18,6 +18,80 @@
       }
     ]
   },
+  "-x-NI": {
+    "root": "-x-NI",
+    "partOfSpeech": "vb",
+    "definition": "float, drift",
+    "forms": [
+      {
+        "kiksht": "yuxnít",
+        "english": "he is floating (in that direction)"
+      },
+      {
+        "kiksht": "itxnít",
+        "english": "he was floating; he is floating (in this direction)"
+      },
+      {
+        "kiksht": "yuxninan",
+        "english": "he is floating about"
+      },
+      {
+        "kiksht": "duxninan, tekxninan",
+        "english": "they are floating about"
+      },
+      {
+        "kiksht": "shduxninan",
+        "english": "they 2 are floating about [*shuxninan is not acceptable]"
+      },
+      {
+        "kiksht": "yuxnínanamchk",
+        "english": "he floated about"
+      },
+      {
+        "kiksht": "yuxwníchkwt",
+        "english": "it is floating to the surface"
+      },
+      {
+        "kiksht": "yagenxnít",
+        "english": "he is drifting to her"
+      },
+      {
+        "kiksht": "shdagelxnít, shagelxnít",
+        "english": "they 2 are floating to her"
+      },
+      {
+        "kiksht": "yagenxníchkwt",
+        "english": "he is floating up to the surface toward her"
+      },
+      {
+        "kiksht": "ix̲xnít",
+        "english": "he is drifting away from him [Dyk]"
+      },
+      {
+        "kiksht": "iyugwaxnipchk",
+        "english": "it washed ashore [PK 9/13/56]"
+      },
+      {
+        "kiksht": "duxnipck",
+        "english": "early whites [literally \"they float ashore\"]"
+      },
+      {
+        "kiksht": "[DF:?]  gayux̲uni",
+        "english": "he drifted along [WTI.1a1]"
+      },
+      {
+        "kiksht": "[said of Coyote after he turned himself into a piece of wood for Swallow sisters to pick up] galuxuni",
+        "english": "she drifted downstream"
+      },
+      {
+        "kiksht": "uxuni.",
+        "english": "she is drifting downstream"
+      }
+    ],
+    "seeAlso": [
+      "-NI, -X̲UNI"
+    ]
+  },
   "a-g̲agilak": {
     "root": "a-g̲agilak",
     "partOfSpeech": "n",
@@ -82,6 +156,14 @@
       "-X̲, -x̲-X̲"
     ]
   },
+  "gayux̲uni": {
+    "root": "gayux̲uni",
+    "partOfSpeech": "vb",
+    "definition": "he drifted along",
+    "seeAlso": [
+      "-NI"
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -131,6 +213,21 @@
     ],
     "seeAlso": [
       "-GWI-pchk"
+    ]
+  },
+  "kinwa": {
+    "root": "kinwa",
+    "partOfSpeech": "adv",
+    "definition": "try, in vain, futilely, no matter",
+    "examples": [
+      {
+        "kiksht": "Kinua ik'ámunaq galix̲ux̲.",
+        "english": "He tried (to get them to pick him up) by turning himself into a piece of wood. [WTI.1a1]"
+      },
+      {
+        "kiksht": "kinwa dan",
+        "english": "no matter what; nothing will do"
+      }
     ]
   },
   "kwapt": {
