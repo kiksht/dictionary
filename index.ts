@@ -96,6 +96,18 @@ function parseExamplesOrForms(runes: string[]): (Example | Form)[] {
             nextOpenPos = 0;
         }
 
+        for (let i = 0; ; i++) {
+            // NOTE: Grossly inefficient. This is O(n^2) in the length of `rest`.
+            let tmpPos = rest.slice(closePos + 1).indexOf("]", i);
+            if (tmpPos == -1) {
+                break;
+            } else if (tmpPos < nextOpenPos) {
+                closeBracePos = tmpPos + 1;
+                continue;
+            }
+            break;
+        }
+
         const kiksht = rest.slice(0, openPos);
         let english: string[] = [];
         if (closeBracePos < nextOpenPos) {
