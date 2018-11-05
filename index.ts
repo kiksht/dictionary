@@ -110,7 +110,10 @@ function parseExamplesOrForms(runes: string[]): (Example | Form)[] {
 
         const kiksht = rest.slice(0, openPos);
         let english: string[] = [];
-        if (closeBracePos < nextOpenPos) {
+        if (nextOpenPos == 0) {
+            english = rest.slice(openPos + 1, closePos).concat(rest.slice(closePos + 1));
+            rest = rest.slice(closePos + closeBracePos + 2);
+        } else if (closeBracePos < nextOpenPos) {
             english = rest
                 .slice(openPos + 1, closePos)
                 .concat(rest.slice(closePos + 1, closePos + closeBracePos + 2));
