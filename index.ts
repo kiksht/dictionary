@@ -21,7 +21,7 @@ interface Entry {
     definition: string;
     forms: Form[];
     examples: Example[];
-    notes: string;
+    notes: string[];
     seeAlso: string[];
 }
 
@@ -130,11 +130,11 @@ function parseSeeAlso(s: string): { seeAlso: string[] } {
     return { seeAlso: [rest] };
 }
 
-function parseNotes(s: string): { notes: string } {
+function parseNotes(s: string): { notes: string[] } {
     let rest = normalize(s)
         .replace(/^Notes:/, "")
         .trim();
-    return { notes: rest };
+    return { notes: [rest] };
 }
 
 function parse(s: string): Entry {
@@ -165,7 +165,11 @@ function parse(s: string): Entry {
                 }
             } else if (trimmed.startsWith("Notes:")) {
                 const notes = parseNotes(trimmed);
-                entry = { ...entry, ...notes };
+                if (entry.notes === undefined) {
+                    entry.notes = notes.notes;
+                } else {
+                    entry.notes = entry.notes.concat(notes.notes);
+                }
             } else {
                 throw `Unrecognized start: ${line}`;
             }

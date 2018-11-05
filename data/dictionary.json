@@ -1,4 +1,26 @@
 {
+  "- -'adau": {
+    "root": "- -'adau",
+    "partOfSpeech": "n",
+    "definition": "fond of, crazy about, favorite thing",
+    "examples": [
+      {
+        "kiksht": "Ich-'adau i'álenchish.",
+        "english": "I'm fond of oranges, I just love oranges."
+      },
+      {
+        "kiksht": "Iłka-'adau iłgui.",
+        "english": "She's fond of rasp- berries, she just loves raspberries."
+      }
+    ],
+    "notes": [
+      "The initial prefix on this word agrees with the initial prefix on the word naming the thing liked. The possessive prefix refers to the person who likes the thing named. For ex- ample: I-cha-'adau i-gunat \"She's fond of salmon\"",
+      "Clearly related to Warm Springs word átau. When the possessive prefix is a single consonant, there occurs with this word the sequence consonant+glottal stop, which other- wise is not known to occur in Wasco. (In Wasco, a glottal stop normally occurs either at the beginning of a word or between vowels, but not after another consonant.) Hence, it is almost certain that this word was borrowed from Warm Springs to Wasco rather than the other way around."
+    ],
+    "seeAlso": [
+      "adau"
+    ]
+  },
   "-sk'ulya": {
     "root": "-sk'ulya",
     "partOfSpeech": "n",
@@ -110,7 +132,9 @@
         "english": "She's going to defecate."
       }
     ],
-    "notes": "Used mostly of babies."
+    "notes": [
+      "Used mostly of babies."
+    ]
   },
   "a-g̲agilak": {
     "root": "a-g̲agilak",
@@ -181,6 +205,14 @@
       "-TÒ"
     ]
   },
+  "achelgelga": {
+    "root": "achelgelga",
+    "partOfSpeech": "vb",
+    "definition": "he will catch us",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
   "achełx̲nímax̲dixa": {
     "root": "achełx̲nímax̲dixa",
     "partOfSpeech": "vb",
@@ -205,7 +237,9 @@
         "english": "younger sisters!"
       }
     ],
-    "notes": "Probably used to address a younger sister bigger than one ad- dressed with aci.",
+    "notes": [
+      "Probably used to address a younger sister bigger than one ad- dressed with aci."
+    ],
     "seeAlso": [
       "aci, cina"
     ]
@@ -270,6 +304,92 @@
       "-X̲"
     ]
   },
+  "achiwag̲wa": {
+    "root": "achiwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "he will kill him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "achmelxádagwa": {
+    "root": "achmelxádagwa",
+    "partOfSpeech": "vb",
+    "definition": "you will get well",
+    "seeAlso": [
+      "-l-xa-TA-kw"
+    ]
+  },
+  "achmlgalg̲wa": {
+    "root": "achmlgalg̲wa",
+    "partOfSpeech": "vb",
+    "definition": "you will get burnt",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "achmux̲a": {
+    "root": "achmux̲a",
+    "partOfSpeech": "vb",
+    "definition": "he will do you",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "achnułat'amelqma": {
+    "root": "achnułat'amelqma",
+    "partOfSpeech": "vb",
+    "definition": "he will swal- low me",
+    "seeAlso": [
+      "-łat'amlq, ktułat'amlqt, gachiułat'amlq"
+    ]
+  },
+  "achtudinaya": {
+    "root": "achtudinaya",
+    "partOfSpeech": "vb",
+    "definition": "he will kill them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "achtuwálalma": {
+    "root": "achtuwálalma",
+    "partOfSpeech": "vb",
+    "definition": "he will chase them around",
+    "examples": [
+      {
+        "kiksht": "Achtudinaya idelxam iatalamqsqit amni; alma achiugwichima idelxam; achtuwalalma.",
+        "english": "He will kill the people with his battle axe; he will strike them with it; he will chase them around."
+      }
+    ],
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "achtux̲wa": {
+    "root": "achtux̲wa",
+    "partOfSpeech": "vb",
+    "definition": "he will make them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "achushgama": {
+    "root": "achushgama",
+    "partOfSpeech": "vb",
+    "definition": "he will marry her",
+    "seeAlso": [
+      "-SHKAM"
+    ]
+  },
+  "achux̲wa": {
+    "root": "achux̲wa",
+    "partOfSpeech": "vb",
+    "definition": "he will do it[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "achátshgama": {
     "root": "achátshgama",
     "partOfSpeech": "vb",
@@ -286,6 +406,92 @@
       "-x̲-LA-qłq"
     ]
   },
+  "achłelgalg̲wa": {
+    "root": "achłelgalg̲wa",
+    "partOfSpeech": "vb",
+    "definition": "they will burn",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "achłelx̲ádagwa": {
+    "root": "achłelx̲ádagwa",
+    "partOfSpeech": "vb",
+    "definition": "they will return",
+    "seeAlso": [
+      "-ch-l-x̲a-TA-kw"
+    ]
+  },
+  "achłitgalg̲wa": {
+    "root": "achłitgalg̲wa",
+    "partOfSpeech": "vb",
+    "definition": "they will burn",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "achłudina": {
+    "root": "achłudina",
+    "partOfSpeech": "vb",
+    "definition": "he will kill them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "achług̲emshta": {
+    "root": "achług̲emshta",
+    "partOfSpeech": "vb",
+    "definition": "he will drink it",
+    "seeAlso": [
+      "-QEMSHT"
+    ]
+  },
+  "achłulxama": {
+    "root": "achłulxama",
+    "partOfSpeech": "vb",
+    "definition": "he will tell him[ił-]",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "achłuwag̲wa": {
+    "root": "achłuwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "he will kill them",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "achłux̲wa": {
+    "root": "achłux̲wa",
+    "partOfSpeech": "vb",
+    "definition": "he will do it",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "achłx̲ukshtama": {
+    "root": "achłx̲ukshtama",
+    "partOfSpeech": "vb",
+    "definition": "he will go look at that of his[ił-], he will go look at what he[ił-] has done",
+    "examples": [
+      {
+        "kiksht": "Qauad idbinałx̲ ałkdux̲wa iłk'ashkash, achłx̲ukshtama iyagikshtamnił.",
+        "english": "The inspector goes to see how many wood-ropes the boy makes."
+      }
+    ],
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "achłx̲ímaya": {
+    "root": "achłx̲ímaya",
+    "partOfSpeech": "vb",
+    "definition": "he will let him[ił-] go, he will send him[ił-] off",
+    "seeAlso": [
+      "-x̲-IMA"
+    ]
+  },
   "aci": {
     "root": "aci",
     "partOfSpeech": "n",
@@ -296,9 +502,40 @@
         "english": "younger sisters!"
       }
     ],
-    "notes": "Probably used to address a sister smaller than one addressed with achi but bigger than one ad- dressed with cina.",
+    "notes": [
+      "Probably used to address a sister smaller than one addressed with achi but bigger than one ad- dressed with cina."
+    ],
     "seeAlso": [
       "cina"
+    ]
+  },
+  "adamluda": {
+    "root": "adamluda",
+    "partOfSpeech": "vb",
+    "definition": "I will give them to you",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "adamshluda": {
+    "root": "adamshluda",
+    "partOfSpeech": "vb",
+    "definition": "I will give them to you folks",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "adábaxat": {
+    "root": "adábaxat",
+    "partOfSpeech": "adv",
+    "definition": "behind the house"
+  },
+  "adámelxakwchkwaya": {
+    "root": "adámelxakwchkwaya",
+    "partOfSpeech": "vb",
+    "definition": "I will give them back to you, I will return them to you",
+    "seeAlso": [
+      "-x-KWCHKW"
     ]
   },
   "dauya": {
@@ -311,7 +548,9 @@
         "english": "This letter isw ritten in Wasco."
       }
     ],
-    "notes": "This is a word for \"this\" usedwith nouns beginning with i-."
+    "notes": [
+      "This is a word for \"this\" usedwith nouns beginning with i-."
+    ]
   },
   "gachawiqłaxit": {
     "root": "gachawiqłaxit",
@@ -597,7 +836,9 @@
         "english": "Long ago the Wasco people lived on both sides of the Columbia River."
       }
     ],
-    "notes": "Comment by Phillip Kahclamat: \"Sapir said the Columbia is the only one called wimał, but I'd call the Amazon, Mississippi that.\" Apparently this word refers to large rivers. Compare wi-qał.",
+    "notes": [
+      "Comment by Phillip Kahclamat: \"Sapir said the Columbia is the only one called wimał, but I'd call the Amazon, Mississippi that.\" Apparently this word refers to large rivers. Compare wi-qał."
+    ],
     "seeAlso": [
       "id-mał, małn, k'amałmt, it-k'umałmt"
     ]
@@ -616,6 +857,8 @@
         "english": "Oh you did me good!"
       }
     ],
-    "notes": "Most commonly a cry for help. Dyk labels it \"a woman's word.\" See also: anáaa, aláaa"
+    "notes": [
+      "Most commonly a cry for help. Dyk labels it \"a woman's word.\" See also: anáaa, aláaa"
+    ]
   }
 }
