@@ -13,7 +13,7 @@ interface Form {
     english: string;
 }
 
-type PartOfSpeech = "n" | "pron" | "vb" | "adv";
+type PartOfSpeech = "n" | "pron" | "vb" | "adv" | "part" | "interj";
 
 interface Entry {
     root: string;
@@ -40,6 +40,7 @@ const m = new Map([
     [/ ̨/g, "X̲"],
     [/ˆ/g, "í"],
     [/’/g, "'"],
+    [/‘/g, "'"],
     [/“/g, '"'],
     [/”/g, '"']
 ]);
@@ -165,6 +166,8 @@ function parse(s: string): Entry {
             } else if (trimmed.startsWith("Notes:")) {
                 const notes = parseNotes(trimmed);
                 entry = { ...entry, ...notes };
+            } else {
+                throw `Unrecognized start: ${line}`;
             }
         });
 

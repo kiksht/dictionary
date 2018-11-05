@@ -92,6 +92,26 @@
       "-NI, -X̲UNI"
     ]
   },
+  "a'a'": {
+    "root": "a'a'",
+    "partOfSpeech": "part",
+    "definition": "go to toilet to defecate",
+    "examples": [
+      {
+        "kiksht": "'a'a anx̲ux̲ama.",
+        "english": "I'm going to the toilet to defecate [PK 7/10/ 56]"
+      },
+      {
+        "kiksht": "a'a alix̲ux̲ama.",
+        "english": "He's going to defecate."
+      },
+      {
+        "kiksht": "'a'a alax̲ux̲ama",
+        "english": "She's going to defecate."
+      }
+    ],
+    "notes": "Used mostly of babies."
+  },
   "a-g̲agilak": {
     "root": "a-g̲agilak",
     "partOfSpeech": "n",
@@ -104,6 +124,181 @@
     ],
     "seeAlso": [
       "id-némshksh, it-g̲agilakkti, i-g̲agilakk'iganimx̲"
+    ]
+  },
+  "aa": {
+    "root": "aa",
+    "partOfSpeech": "part",
+    "definition": "assent, agree, decide, make up one's mind",
+    "examples": [
+      {
+        "kiksht": "Aa nigix̲ux̲.",
+        "english": "He made up his mind."
+      }
+    ]
+  },
+  "acdemluda": {
+    "root": "acdemluda",
+    "partOfSpeech": "vb",
+    "definition": "he will give them to you",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "achagelgaya": {
+    "root": "achagelgaya",
+    "partOfSpeech": "vb",
+    "definition": "he will seize her",
+    "examples": [
+      {
+        "kiksht": "Kinwa achagelgaya.",
+        "english": "He would try to seize her, but without success."
+      }
+    ],
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "achdenshlux̲a": {
+    "root": "achdenshlux̲a",
+    "partOfSpeech": "vb",
+    "definition": "he will make them for us",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "achditłama": {
+    "root": "achditłama",
+    "partOfSpeech": "vb",
+    "definition": "he will report them to him, he will come bring them to him",
+    "examples": [
+      {
+        "kiksht": "Shmanix̲ achditłama yak'ila kwapt nachdupg̲nayabåt stuxw ałx̲ux̲wa łax̲ka qi łx̲lá.",
+        "english": "If he reports to the trainer (that he has done) as many as he had appor- tioned, the one that trains is re- leased."
+      }
+    ],
+    "seeAlso": [
+      "-TÒ"
+    ]
+  },
+  "achełx̲nímax̲dixa": {
+    "root": "achełx̲nímax̲dixa",
+    "partOfSpeech": "vb",
+    "definition": "he will com- mand him[ił-]",
+    "examples": [
+      {
+        "kiksht": "Qax̲ba achełx̲nímax̲dixa kwaba ałkługwia.",
+        "english": "Wherever he will command him, there he will bring them."
+      }
+    ],
+    "seeAlso": [
+      "-x̲-NIMA"
+    ]
+  },
+  "achi": {
+    "root": "achi",
+    "partOfSpeech": "n",
+    "definition": "younger sister!",
+    "forms": [
+      {
+        "kiksht": "áchimax̲",
+        "english": "younger sisters!"
+      }
+    ],
+    "notes": "Probably used to address a younger sister bigger than one ad- dressed with aci.",
+    "seeAlso": [
+      "aci, cina"
+    ]
+  },
+  "achigelga": {
+    "root": "achigelga",
+    "partOfSpeech": "vb",
+    "definition": "he will seize him",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "achigelgaya": {
+    "root": "achigelgaya",
+    "partOfSpeech": "vb",
+    "definition": "he will seize him",
+    "examples": [
+      {
+        "kiksht": "Idiałx̲iwulx ich'inun; p'ala pu achigelgaya iqwaqwa iaxan.",
+        "english": "Eagle is strong; he could seize a grizzly- bear's son without being harmed."
+      }
+    ],
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "achiugwia": {
+    "root": "achiugwia",
+    "partOfSpeech": "vb",
+    "definition": "he will take it[i-]",
+    "seeAlso": [
+      "-GWI"
+    ]
+  },
+  "achiugwichima": {
+    "root": "achiugwichima",
+    "partOfSpeech": "vb",
+    "definition": "he will strike them with it[i-]",
+    "examples": [
+      {
+        "kiksht": "Achtudinaya idelxam iatalamqsqit amni; alma achiugwichima idelxam.",
+        "english": "He will kill the people with his battle axe; he will strike them with it."
+      }
+    ],
+    "seeAlso": [
+      "-gl-CHIM"
+    ]
+  },
+  "achiux̲a": {
+    "root": "achiux̲a",
+    "partOfSpeech": "vb",
+    "definition": "he will do it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "achiux̲wa": {
+    "root": "achiux̲wa",
+    "partOfSpeech": "vb",
+    "definition": "he will do it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "achátshgama": {
+    "root": "achátshgama",
+    "partOfSpeech": "vb",
+    "definition": "he will come to marry her",
+    "seeAlso": [
+      "-SHK"
+    ]
+  },
+  "acháx̲laqłqa": {
+    "root": "acháx̲laqłqa",
+    "partOfSpeech": "vb",
+    "definition": "he will open it[a-]",
+    "seeAlso": [
+      "-x̲-LA-qłq"
+    ]
+  },
+  "aci": {
+    "root": "aci",
+    "partOfSpeech": "n",
+    "definition": "younger sister!",
+    "forms": [
+      {
+        "kiksht": "ácimax̲",
+        "english": "younger sisters!"
+      }
+    ],
+    "notes": "Probably used to address a sister smaller than one addressed with achi but bigger than one ad- dressed with cina.",
+    "seeAlso": [
+      "cina"
     ]
   },
   "dauya": {
@@ -264,8 +459,8 @@
         "english": "Every once in a while she'll steal their acorns from them."
       },
       {
-        "kiksht": "‘Qawat idmixiúdanyuksh?' ‘Makwsht.' ‘ G̲achi saqw kwapt?' ‘Kwáptkag̲a.'",
-        "english": "‘How many horses do you have?' ‘Two.' ‘Is that all?' ‘That is all, only that many.'"
+        "kiksht": "'Qawat idmixiúdanyuksh?' 'Makwsht.' ' G̲achi saqw kwapt?' 'Kwáptkag̲a.'",
+        "english": "'How many horses do you have?' 'Two.' 'Is that all?' 'That is all, only that many.'"
       }
     ],
     "seeAlso": [
@@ -406,5 +601,21 @@
     "seeAlso": [
       "id-mał, małn, k'amałmt, it-k'umałmt"
     ]
+  },
+  "áaana": {
+    "root": "áaana",
+    "partOfSpeech": "interj",
+    "definition": "oh!, help!",
+    "examples": [
+      {
+        "kiksht": "Aaana engitx̲udinemchk!",
+        "english": "Oh help me!"
+      },
+      {
+        "kiksht": "Aaana it'uktix imnúx̲!",
+        "english": "Oh you did me good!"
+      }
+    ],
+    "notes": "Most commonly a cry for help. Dyk labels it \"a woman's word.\" See also: anáaa, aláaa"
   }
 }
