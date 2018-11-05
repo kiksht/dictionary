@@ -767,6 +767,280 @@
       "-X̲"
     ]
   },
+  "ageng̲elglaya": {
+    "root": "ageng̲elglaya",
+    "partOfSpeech": "vb",
+    "definition": "she will see me",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "agiulxama": {
+    "root": "agiulxama",
+    "partOfSpeech": "vb",
+    "definition": "she used to tell him",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "agiux̲a": {
+    "root": "agiux̲a",
+    "partOfSpeech": "vb",
+    "definition": "she will do it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "agiux̲wa": {
+    "root": "agiux̲wa",
+    "partOfSpeech": "vb",
+    "definition": "she will do him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "aglalam": {
+    "root": "aglalam",
+    "partOfSpeech": "vb",
+    "definition": "she sings",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "agmux̲wa": {
+    "root": "agmux̲wa",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] will do you",
+    "examples": [
+      {
+        "kiksht": "Walu agmux̲wa.",
+        "english": "You will be hungry (literally 'hunger will do you')."
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "agnux̲a": {
+    "root": "agnux̲a",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] will make me",
+    "examples": [
+      {
+        "kiksht": "Datł'a agunux̲a.",
+        "english": "It[a-] will make me warm."
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "agsik'lutkama": {
+    "root": "agsik'lutkama",
+    "partOfSpeech": "vb",
+    "definition": "she will look at it[i-]",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "agux̲a": {
+    "root": "agux̲a",
+    "partOfSpeech": "vb",
+    "definition": "she will make it[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ag̲a": {
+    "root": "ag̲a",
+    "partOfSpeech": "adv",
+    "definition": "now, at that time",
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt niyuya.",
+        "english": "And then he went."
+      },
+      {
+        "kiksht": "kwapt ag̲a",
+        "english": "enough, quit now"
+      },
+      {
+        "kiksht": "Ag̲a númqtim.",
+        "english": "Now I die."
+      },
+      {
+        "kiksht": "Alx̲uya ag̲a.",
+        "english": "Let's go now."
+      },
+      {
+        "kiksht": "Ag̲a atx̲uya.",
+        "english": "Now let's you and I go."
+      },
+      {
+        "kiksht": "Aichkach ag̲a nimuglaqłq?",
+        "english": "Did you recognize/remember them at that time?"
+      }
+    ]
+  },
+  "ag̲a nuk'aya": {
+    "root": "ag̲a nuk'aya",
+    "partOfSpeech": "idiom",
+    "definition": "strictly no, strictly not",
+    "examples": [
+      {
+        "kiksht": "Ag̲a nuk'aya iyag̲mshtx̲.",
+        "english": "He strictly never drinks."
+      }
+    ],
+    "seeAlso": [
+      "k'aya"
+    ]
+  },
+  "ag̲a pu": {
+    "root": "ag̲a pu",
+    "partOfSpeech": "idiom",
+    "definition": "almost, pretty near ag̲utx [n] my mother's sister!, (ma- ternal) aunt!",
+    "notes": [
+      "Used to address one's mother's sister."
+    ],
+    "seeAlso": [
+      "-g̲utx, kudash"
+    ]
+  },
+  "ag̲a łkun": {
+    "root": "ag̲a łkun",
+    "partOfSpeech": "idiom",
+    "definition": "just now"
+  },
+  "ag̲wa": {
+    "root": "ag̲wa",
+    "partOfSpeech": "n",
+    "definition": "son!",
+    "forms": [
+      {
+        "kiksht": "ag̲wamax̲",
+        "english": "sons!"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Yaxa ai gagiux̲.",
+        "english": "She said yes to him."
+      }
+    ]
+  },
+  "ai": {
+    "root": "ai",
+    "partOfSpeech": "interj",
+    "definition": "hello, hi",
+    "examples": [
+      {
+        "kiksht": "Ai, łkala.",
+        "english": "Hello, friend."
+      }
+    ]
+  },
+  "aichåsh": {
+    "root": "aichåsh",
+    "partOfSpeech": "part",
+    "definition": "cold, cool",
+    "examples": [
+      {
+        "kiksht": "Shtug̲wiłti kwadáu aichåsh.",
+        "english": "It's rainy and cold."
+      }
+    ],
+    "seeAlso": [
+      "chesh"
+    ]
+  },
+  "aichka": {
+    "root": "aichka",
+    "partOfSpeech": "pron",
+    "definition": "they",
+    "examples": [
+      {
+        "kiksht": "Aichka chi ag̲a imuglaqłq?",
+        "english": "Did you recognize them?"
+      }
+    ],
+    "notes": [
+      "Independent personal pro- noun, referring to a few people un- known to the speaker. Compare łaichka"
+    ],
+    "seeAlso": [
+      "łaichka"
+    ]
+  },
+  "aicx̲ep": {
+    "root": "aicx̲ep",
+    "partOfSpeech": "part",
+    "definition": "lack, be short of, fall short",
+    "examples": [
+      {
+        "kiksht": "Aicx̲ep icsúbna.",
+        "english": "He jumped too short, not far enough."
+      }
+    ],
+    "seeAlso": [
+      "cx̲ep, aicx̲áp"
+    ]
+  },
+  "aicx̲áp": {
+    "root": "aicx̲áp",
+    "partOfSpeech": "part",
+    "definition": "fall short",
+    "examples": [
+      {
+        "kiksht": "Aicx̲áp iyálipaq galix̲tłx̲umx̲.",
+        "english": "His rope ran out, falling somewhat short. [WTI.1m.2]"
+      },
+      {
+        "kiksht": "Qatgi gayułaitam isk'ulya aicx̲áp.",
+        "english": "Coyote landed somewhat short."
+      }
+    ]
+  },
+  "aicás": {
+    "root": "aicás",
+    "partOfSpeech": "part",
+    "definition": "somewhat cold",
+    "examples": [
+      {
+        "kiksht": "Aicás ikiax̲ix.",
+        "english": "It's getting somewhat cold (of weather)."
+      }
+    ],
+    "seeAlso": [
+      "ces, chash"
+    ]
+  },
+  "aidwulxdix": {
+    "root": "aidwulxdix",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is going down- stream",
+    "seeAlso": [
+      "-i-i-t-WULX-tix"
+    ]
+  },
+  "aigidit": {
+    "root": "aigidit",
+    "partOfSpeech": "vb",
+    "definition": "she comes toward him",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "aig̲í": {
+    "root": "aig̲í",
+    "partOfSpeech": "part",
+    "definition": "tight, too tight",
+    "notes": [
+      "Refers to bigger holes than those referred to by aiq'í."
+    ],
+    "seeAlso": [
+      "aiq'í"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
