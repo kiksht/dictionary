@@ -114,6 +114,22 @@
       "-NI, -X̲UNI"
     ]
   },
+  "Agac'ia": {
+    "root": "Agac'ia",
+    "partOfSpeech": "place",
+    "definition": "Calico Fish",
+    "notes": [
+      "A place in Cascade country, now called Lacamas. Literally \"her calico fish.\""
+    ],
+    "seeAlso": [
+      "wa-c'ia"
+    ]
+  },
+  "Agak'ak'aps": {
+    "root": "Agak'ak'aps",
+    "partOfSpeech": "place",
+    "definition": "Mt. Hood"
+  },
   "a'a'": {
     "root": "a'a'",
     "partOfSpeech": "part",
@@ -525,6 +541,146 @@
       "-T"
     ]
   },
+  "adau": {
+    "root": "adau",
+    "partOfSpeech": "part",
+    "definition": "esteem, value, think much of, treasure",
+    "examples": [
+      {
+        "kiksht": "Adáu ichiux̲.",
+        "english": "He re- spected him, held him important."
+      },
+      {
+        "kiksht": "Adau naikaba.",
+        "english": "I think much of it."
+      },
+      {
+        "kiksht": "Adau akxan.",
+        "english": "I think much of my daughter."
+      },
+      {
+        "kiksht": "adáu bama",
+        "english": "for esteem- ing, for valuing; as a keepsake"
+      },
+      {
+        "kiksht": "Adáu ichinlut.",
+        "english": "He gave it[i-] to me as a keepsake."
+      },
+      {
+        "kiksht": "Adáu agemłuxwanix.",
+        "english": "She is esteemed."
+      },
+      {
+        "kiksht": "K'aya adau atx̲ux̲a.",
+        "english": "Let's not you and I think much of each other."
+      },
+      {
+        "kiksht": "Adau engushgiwal.",
+        "english": "I'm travelling on a reverent journey."
+      },
+      {
+        "kiksht": "Adáu uxwiwaqwt.",
+        "english": "They are getting together for an important occasion (for instance, a funeral)."
+      }
+    ],
+    "notes": [
+      "Borrowed from or to Sahaptin átau."
+    ],
+    "seeAlso": [
+      "- -'adau"
+    ]
+  },
+  "adelgátgwama": {
+    "root": "adelgátgwama",
+    "partOfSpeech": "vb",
+    "definition": "they will come, they will get here"
+  },
+  "adelx̲elmux̲ma": {
+    "root": "adelx̲elmux̲ma",
+    "partOfSpeech": "vb",
+    "definition": "we will eat it[it-]",
+    "seeAlso": [
+      "-x̲l-MUX̲"
+    ]
+  },
+  "ademx̲elmux̲ma": {
+    "root": "ademx̲elmux̲ma",
+    "partOfSpeech": "vb",
+    "definition": "you will eat them",
+    "seeAlso": [
+      "-x̲l-MUX̲"
+    ]
+  },
+  "ademx̲entł'aimachgwa": {
+    "root": "ademx̲entł'aimachgwa",
+    "partOfSpeech": "vb",
+    "definition": "you will get some rest",
+    "seeAlso": [
+      "-t-x̲n-TÒ'AI-ma-chkw"
+    ]
+  },
+  "ademx̲kw'álalakwida": {
+    "root": "ademx̲kw'álalakwida",
+    "partOfSpeech": "vb",
+    "definition": "you will forget them",
+    "seeAlso": [
+      "-x̲-KW'ALALA-kw-it"
+    ]
+  },
+  "adenx̲elmux̲ma": {
+    "root": "adenx̲elmux̲ma",
+    "partOfSpeech": "vb",
+    "definition": "I will eat them",
+    "seeAlso": [
+      "-x̲l-MUX̲"
+    ]
+  },
+  "adiglaida": {
+    "root": "adiglaida",
+    "partOfSpeech": "vb",
+    "definition": "they will sit on it[i-]",
+    "seeAlso": [
+      "-LA-it"
+    ]
+  },
+  "adit": {
+    "root": "adit",
+    "partOfSpeech": "vb",
+    "definition": "she is coming",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "adix̲elmux̲ma": {
+    "root": "adix̲elmux̲ma",
+    "partOfSpeech": "vb",
+    "definition": "he will eat them",
+    "seeAlso": [
+      "-x̲l-MUX̲"
+    ]
+  },
+  "adnenk'namxida": {
+    "root": "adnenk'namxida",
+    "partOfSpeech": "vb",
+    "definition": "I would be satisfied with them, they would sat- isfy me",
+    "seeAlso": [
+      "-K'NAM"
+    ]
+  },
+  "adux̲ix̲íkłx̲a": {
+    "root": "adux̲ix̲íkłx̲a",
+    "partOfSpeech": "vb",
+    "definition": "they would tell about him",
+    "examples": [
+      {
+        "kiksht": "Adux̲ix̲ikłx̲a ikala gachudukwashkwax̲ ayágikal.",
+        "english": "They tell about a man who sent his wife (to get food)."
+      }
+    ],
+    "seeAlso": [
+      "-l-x̲i-K'A-łx̲, -l-KWÒI"
+    ]
+  },
   "adábaxat": {
     "root": "adábaxat",
     "partOfSpeech": "adv",
@@ -536,6 +692,79 @@
     "definition": "I will give them back to you, I will return them to you",
     "seeAlso": [
       "-x-KWCHKW"
+    ]
+  },
+  "adáy": {
+    "root": "adáy",
+    "partOfSpeech": "interj",
+    "definition": "oh!, look!",
+    "examples": [
+      {
+        "kiksht": "Adáy imiqw'alasup.",
+        "english": "Oh you are a fast runner!"
+      },
+      {
+        "kiksht": "Adáy shkala qadamt emduit?",
+        "english": "Hello, you 2, where are you going?"
+      },
+      {
+        "kiksht": "Adáy adé adé semxlutk!",
+        "english": "Look! Look! Look!"
+      }
+    ],
+    "notes": [
+      "Appears to express surprise, warning, or admonition."
+    ],
+    "pronunciation": "Pronounced some- what as if written in English: a-day.",
+    "seeAlso": [
+      "adí"
+    ]
+  },
+  "adí": {
+    "root": "adí",
+    "partOfSpeech": "interj",
+    "definition": "oh!, alas!",
+    "examples": [
+      {
+        "kiksht": "Adí k'aya anuya.",
+        "english": "Oh! I can't go."
+      },
+      {
+        "kiksht": "Adiadí qidau.",
+        "english": "That's the way (said to praise a child)!"
+      },
+      {
+        "kiksht": "Adí haha.",
+        "english": "Oh my goodness, I knew something would happen."
+      }
+    ],
+    "notes": [
+      "An exclamation of astonish- ment."
+    ],
+    "seeAlso": [
+      "aday"
+    ]
+  },
+  "adú": {
+    "root": "adú",
+    "partOfSpeech": "interj",
+    "definition": "ouch",
+    "notes": [
+      "Exclamation used when one gets hurt."
+    ]
+  },
+  "agemdux̲wa": {
+    "root": "agemdux̲wa",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] will do you 2",
+    "examples": [
+      {
+        "kiksht": "Walu agemdux̲wa.",
+        "english": "You 2 will be hungry."
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "dauya": {
@@ -647,6 +876,20 @@
     ],
     "seeAlso": [
       "-GWI-pchk"
+    ]
+  },
+  "it-address": {
+    "root": "it-address",
+    "partOfSpeech": "n",
+    "definition": "address",
+    "forms": [
+      {
+        "kiksht": "itkaddress",
+        "english": "my address"
+      }
+    ],
+    "notes": [
+      "Borrowed from English; an English word used with Wasco pre- fixes."
     ]
   },
   "kinwa": {

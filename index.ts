@@ -13,7 +13,7 @@ interface Form {
     english: string;
 }
 
-type PartOfSpeech = "n" | "pron" | "vb" | "adv" | "part" | "interj";
+type PartOfSpeech = "n" | "pron" | "vb" | "adv" | "part" | "interj" | "place";
 
 interface Entry {
     root: string;
@@ -23,6 +23,7 @@ interface Entry {
     examples: Example[];
     notes: string[];
     seeAlso: string[];
+    pronunciation: string;
 }
 
 interface Dictionary {
@@ -137,6 +138,13 @@ function parseNotes(s: string): { notes: string[] } {
     return { notes: [rest] };
 }
 
+function parsePronunciation(s: string): { pronunciation: string } {
+    let rest = normalize(s)
+        .replace(/^Pronunciation:/, "")
+        .trim();
+    return { pronunciation: rest };
+}
+
 function parse(s: string): Entry {
     let entry: any;
     s.trim()
@@ -170,6 +178,9 @@ function parse(s: string): Entry {
                 } else {
                     entry.notes = entry.notes.concat(notes.notes);
                 }
+            } else if (trimmed.startsWith("Pronunciation:")) {
+                const pronunciation = parsePronunciation(trimmed);
+                entry = { ...entry, ...pronunciation };
             } else {
                 throw `Unrecognized start: ${line}`;
             }
