@@ -152,6 +152,24 @@
       "Used mostly of babies."
     ]
   },
+  "a-'amush": {
+    "root": "a-'amush",
+    "partOfSpeech": "n",
+    "definition": "olivella shell",
+    "forms": [
+      {
+        "kiksht": "ish'amush",
+        "english": "2 olivella shells"
+      },
+      {
+        "kiksht": "ił'amush",
+        "english": "olivella shells [HS 11/24/ 51]"
+      }
+    ],
+    "notes": [
+      "Borrowed from (or to?) Warm Springs Sahaptin ámush. A long shell with a twist on the end. [GT 1/14/99]"
+    ]
+  },
   "a-g̲agilak": {
     "root": "a-g̲agilak",
     "partOfSpeech": "n",
@@ -164,6 +182,14 @@
     ],
     "seeAlso": [
       "id-némshksh, it-g̲agilakkti, i-g̲agilakk'iganimx̲"
+    ]
+  },
+  "a-mulal": {
+    "root": "a-mulal",
+    "partOfSpeech": "n",
+    "definition": "onion-like root, amulal amumda [vb] you will grow",
+    "seeAlso": [
+      "-MT"
     ]
   },
   "aa": {
@@ -3582,12 +3608,269 @@
       "- G̲UPT-it"
     ]
   },
+  "amuk'ídiya": {
+    "root": "amuk'ídiya",
+    "partOfSpeech": "vb",
+    "definition": "you will dress her",
+    "seeAlso": [
+      "-K'ITI"
+    ]
+  },
+  "amukłá": {
+    "root": "amukłá",
+    "partOfSpeech": "vb",
+    "definition": "you will bring it[a-]",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "amulaba": {
+    "root": "amulaba",
+    "partOfSpeech": "vb",
+    "definition": "you will dig it[a-] out",
+    "seeAlso": [
+      "-LA-pa"
+    ]
+  },
+  "amumqta": {
+    "root": "amumqta",
+    "partOfSpeech": "vb",
+    "definition": "you will die",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "amut": {
+    "root": "amut",
+    "partOfSpeech": "n",
+    "definition": "father's brother!, (paternal) uncle! , stepfather!",
+    "notes": [
+      "Used to address either one's father's brother or a stepfather."
+    ],
+    "seeAlso": [
+      "-mut"
+    ]
+  },
+  "amuxwa": {
+    "root": "amuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you will do to her",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amuya": {
+    "root": "amuya",
+    "partOfSpeech": "vb",
+    "definition": "you will go",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "amuyama": {
+    "root": "amuyama",
+    "partOfSpeech": "vb",
+    "definition": "you will arrive",
+    "seeAlso": [
+      "-I-am"
+    ]
+  },
+  "amxa(t)łikwłichgwa": {
+    "root": "amxa(t)łikwłichgwa",
+    "partOfSpeech": "vb",
+    "definition": "you will inform, you will make known",
+    "examples": [
+      {
+        "kiksht": "Shmani shan łgnukwul nagwatx amxa(t)łikw(t)łichgwa icxanba.",
+        "english": "If anyone knows me I wish that you let them know about my son. [WTIII.2.1]"
+      }
+    ]
+  },
+  "amxantkxáimaya": {
+    "root": "amxantkxáimaya",
+    "partOfSpeech": "vb",
+    "definition": "you will lay yourself on us 2, you will lie down on us 2",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "amxatkw'aya": {
+    "root": "amxatkw'aya",
+    "partOfSpeech": "vb",
+    "definition": "you will come back home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "amxelgagwa": {
+    "root": "amxelgagwa",
+    "partOfSpeech": "vb",
+    "definition": "you will turn around",
+    "seeAlso": [
+      "-xl-KA-kw"
+    ]
+  },
+  "amxeltukshmit": {
+    "root": "amxeltukshmit",
+    "partOfSpeech": "vb",
+    "definition": "nurse her!",
+    "seeAlso": [
+      "-xl-TUKSH-mit"
+    ]
+  },
+  "amxemgitga": {
+    "root": "amxemgitga",
+    "partOfSpeech": "vb",
+    "definition": "you will bet",
+    "seeAlso": [
+      "-xm-gi-TK"
+    ]
+  },
+  "amxemgábama": {
+    "root": "amxemgábama",
+    "partOfSpeech": "vb",
+    "definition": "you will go work",
+    "seeAlso": [
+      "-xm-GA-pa"
+    ]
+  },
+  "amxełxímagwa": {
+    "root": "amxełxímagwa",
+    "partOfSpeech": "vb",
+    "definition": "you will hug",
+    "examples": [
+      {
+        "kiksht": "It'ukdix pu amxełxímagwa.",
+        "english": "It would be good to hug someone. [Spilyay/Healthy Nations]"
+      }
+    ]
+  },
+  "amxg̲wada": {
+    "root": "amxg̲wada",
+    "partOfSpeech": "vb",
+    "definition": "you will take a bath",
+    "seeAlso": [
+      "- G̲WAT"
+    ]
+  },
+  "amxigeltk'ixma": {
+    "root": "amxigeltk'ixma",
+    "partOfSpeech": "vb",
+    "definition": "you will set a trap for him",
+    "seeAlso": [
+      "-x-gl-TK'I-qw"
+    ]
+  },
+  "amxigitk'ixma": {
+    "root": "amxigitk'ixma",
+    "partOfSpeech": "vb",
+    "definition": "you will set a trap for him",
+    "seeAlso": [
+      "-x-gl-TK'I-qw"
+    ]
+  },
+  "amxilax": {
+    "root": "amxilax",
+    "partOfSpeech": "vb",
+    "definition": "you are eating it[a-]",
+    "seeAlso": [
+      "-xi-LAX̲"
+    ]
+  },
+  "amxitłxelmama": {
+    "root": "amxitłxelmama",
+    "partOfSpeech": "vb",
+    "definition": "you will come to eat",
+    "seeAlso": [
+      "-x-ŁX̲LM"
+    ]
+  },
+  "amxk'ídia": {
+    "root": "amxk'ídia",
+    "partOfSpeech": "vb",
+    "definition": "you will dress your- self",
+    "seeAlso": [
+      "-K'ITI"
+    ]
+  },
+  "amxluichátgema": {
+    "root": "amxluichátgema",
+    "partOfSpeech": "vb",
+    "definition": "you will listen",
+    "seeAlso": [
+      "-xl-WICHA-tk"
+    ]
+  },
+  "amxlímaya": {
+    "root": "amxlímaya",
+    "partOfSpeech": "vb",
+    "definition": "you will shoot",
+    "seeAlso": [
+      "-x-l-IMA"
+    ]
+  },
+  "amxlúx": {
+    "root": "amxlúx",
+    "partOfSpeech": "vb",
+    "definition": "put it[a-] on!",
+    "seeAlso": [
+      "-xl-X̲"
+    ]
+  },
+  "amxqwádama": {
+    "root": "amxqwádama",
+    "partOfSpeech": "vb",
+    "definition": "you will go bathe yourself",
+    "seeAlso": [
+      "-QWAT"
+    ]
+  },
+  "amxtachgwa": {
+    "root": "amxtachgwa",
+    "partOfSpeech": "vb",
+    "definition": "you will stick your head out of water",
+    "seeAlso": [
+      "-k-TA-chkw"
+    ]
+  },
+  "amxtk'ig̲emchxugwaya": {
+    "root": "amxtk'ig̲emchxugwaya",
+    "partOfSpeech": "vb",
+    "definition": "you will ask",
+    "seeAlso": [
+      "-g̲m-CHX̲U-kw"
+    ]
+  },
+  "amxtk'ixma": {
+    "root": "amxtk'ixma",
+    "partOfSpeech": "vb",
+    "definition": "you will lay a trap",
+    "seeAlso": [
+      "-x-TK'I-qw"
+    ]
+  },
+  "amxłuxwaida": {
+    "root": "amxłuxwaida",
+    "partOfSpeech": "vb",
+    "definition": "you will think",
+    "seeAlso": [
+      "-x-ŁUXWA"
+    ]
+  },
   "amánluda": {
     "root": "amánluda",
     "partOfSpeech": "vb",
     "definition": "you will give them[a-] to me",
     "seeAlso": [
       "-T"
+    ]
+  },
+  "amúshima": {
+    "root": "amúshima",
+    "partOfSpeech": "vb",
+    "definition": "you will use it[a-]",
+    "seeAlso": [
+      "-SHIM"
     ]
   },
   "amłenluxwa": {
