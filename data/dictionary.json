@@ -2834,12 +2834,264 @@
       "-X̲"
     ]
   },
+  "ałgnuwag̲wa": {
+    "root": "ałgnuwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will kill me [WTI.1d.4], they will kill me [WTIV.1.4]",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "ałgnúgulaqłxa": {
+    "root": "ałgnúgulaqłxa",
+    "partOfSpeech": "vb",
+    "definition": "they will recog- nize me",
+    "notes": [
+      "The root -gula- is an alternate form of the root -gla-."
+    ],
+    "seeAlso": [
+      "-GULA-qłq, -GLA-qłq"
+    ]
+  },
+  "ałgnúlxama": {
+    "root": "ałgnúlxama",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] would say to me",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "ałgtxukła": {
+    "root": "ałgtxukła",
+    "partOfSpeech": "vb",
+    "definition": "they will take us 2 along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "ałgutxmida": {
+    "root": "ałgutxmida",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will set it[a-] up",
+    "seeAlso": [
+      "-TX(WI)"
+    ]
+  },
   "ałgłxátgwaya": {
     "root": "ałgłxátgwaya",
     "partOfSpeech": "vb",
     "definition": "he[ił-] will pile them up on one another",
     "seeAlso": [
       "-KWA"
+    ]
+  },
+  "ałg̲iwitxida": {
+    "root": "ałg̲iwitxida",
+    "partOfSpeech": "vb",
+    "definition": "they are going to bed, they are going to sleep",
+    "seeAlso": [
+      "-QIW-it-xit"
+    ]
+  },
+  "ałigułxa": {
+    "root": "ałigułxa",
+    "partOfSpeech": "vb",
+    "definition": "he will walk out from shore on it[i-]",
+    "seeAlso": [
+      "-ŁX̲"
+    ]
+  },
+  "ałikxichwaya": {
+    "root": "ałikxichwaya",
+    "partOfSpeech": "vb",
+    "definition": "they will discuss it[i-]",
+    "seeAlso": [
+      "-k-xi-CHU"
+    ]
+  },
+  "ałixułgwa": {
+    "root": "ałixułgwa",
+    "partOfSpeech": "vb",
+    "definition": "it would be finished",
+    "seeAlso": [
+      "-ł-x-ŁKA, -ł-x-ŁKA-xit"
+    ]
+  },
+  "ałkdubíchema": {
+    "root": "ałkdubíchema",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will obtain them (fish)",
+    "seeAlso": [
+      "-BICHEM(A)"
+    ]
+  },
+  "ałkdudínaya": {
+    "root": "ałkdudínaya",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will kill them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "ałkdugwatxaimaulxma": {
+    "root": "ałkdugwatxaimaulxma",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will haul them up onto it[it-]",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "ałkduxwa": {
+    "root": "ałkduxwa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will make them [WTII.9.2], they will do them, they will catch them [WTIV.1.3]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałkduxwama": {
+    "root": "ałkduxwama",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will go to make them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałkdúnaxła": {
+    "root": "ałkdúnaxła",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will look for it[it-]",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "ałkshuxwa": {
+    "root": "ałkshuxwa",
+    "partOfSpeech": "vb",
+    "definition": "they 2 will make them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałktúdinaya": {
+    "root": "ałktúdinaya",
+    "partOfSpeech": "vb",
+    "definition": "they will kill them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "ałkługwia": {
+    "root": "ałkługwia",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will carry them",
+    "seeAlso": [
+      "-GWI"
+    ]
+  },
+  "ałkłuxwa": {
+    "root": "ałkłuxwa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałqalma": {
+    "root": "ałqalma",
+    "partOfSpeech": "adv",
+    "definition": "later",
+    "examples": [
+      {
+        "kiksht": "Ałqalma ayamg̲elglaya.",
+        "english": "I'll see you later. [CLL16]"
+      }
+    ],
+    "notes": [
+      "A compound of ałqi \"later\" and alma \"in future.\""
+    ],
+    "seeAlso": [
+      "ałqi, alma"
+    ]
+  },
+  "ałqi": {
+    "root": "ałqi",
+    "partOfSpeech": "adv",
+    "definition": "later, after a while, for a while",
+    "examples": [
+      {
+        "kiksht": "ałqi kwaish",
+        "english": "wait a little while"
+      },
+      {
+        "kiksht": "'Atxuy(a) ag̲a.' 'Ałqi kwaish.'",
+        "english": "'Let's go now.' 'Wait a while.'"
+      },
+      {
+        "kiksht": "Ałq(i) igluya!",
+        "english": "Go to him for a while!"
+      },
+      {
+        "kiksht": "Ałqi ámigluya.",
+        "english": "You will go to him after a while, later on."
+      },
+      {
+        "kiksht": "ałq(i) ámigluya",
+        "english": "You will go to him for a while."
+      },
+      {
+        "kiksht": "Ałqi dab(a) anuya.",
+        "english": "I'll go there for a while."
+      },
+      {
+        "kiksht": "Atxuy(a) ag̲a ałqi kwaish.",
+        "english": "Let's go now, put it off for a while."
+      },
+      {
+        "kiksht": "Ałqi alidia.",
+        "english": "He won't come for some time yet."
+      },
+      {
+        "kiksht": "Ałq(i) álidia.",
+        "english": "Let him come for a while."
+      },
+      {
+        "kiksht": "Ałqi amitxa.",
+        "english": "You'll do it[i-] later."
+      },
+      {
+        "kiksht": "Diká nigikiax sqitłaq kwapt ałg̲i niyagluya.",
+        "english": "He stayed here, during which time he went to her for a while."
+      },
+      {
+        "kiksht": "ałqibet",
+        "english": "not until then"
+      },
+      {
+        "kiksht": "ałqipa anglálama",
+        "english": "not until I sing [Dyk]"
+      },
+      {
+        "kiksht": "Ałqí!",
+        "english": "Wait a while! Later! [PK 6/29/56]"
+      }
+    ],
+    "notes": [
+      "When a word beginning with a vowel follows, the -i of ałqi is elided (dropped) if it means \"for a while;\" but if it means \"later, after a while,\" the -i is retained. See examples."
+    ]
+  },
+  "ałqidiwi": {
+    "root": "ałqidiwi",
+    "partOfSpeech": "conj",
+    "definition": "just like, just as",
+    "examples": [
+      {
+        "kiksht": "Iyagalxix ixuxt ałqidiwi ilipaq.",
+        "english": "His penis is just like rope. [WTI.1c.1]"
+      }
+    ],
+    "seeAlso": [
+      "diwi, qadash"
     ]
   },
   "dauya": {
