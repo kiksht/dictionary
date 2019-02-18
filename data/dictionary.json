@@ -1671,6 +1671,221 @@
       }
     ]
   },
+  "ak'aima": {
+    "root": "ak'aima",
+    "partOfSpeech": "pron",
+    "definition": "by herself, she alone, her alone"
+  },
+  "ak'íulal": {
+    "root": "ak'íulal",
+    "partOfSpeech": "vb",
+    "definition": "she is digging"
+  },
+  "akduchxmaya": {
+    "root": "akduchxmaya",
+    "partOfSpeech": "vb",
+    "definition": "she will can them",
+    "seeAlso": [
+      "-CHXM"
+    ]
+  },
+  "akdukła": {
+    "root": "akdukła",
+    "partOfSpeech": "vb",
+    "definition": "she will take them along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "akdulaba": {
+    "root": "akdulaba",
+    "partOfSpeech": "vb",
+    "definition": "she will dig them up",
+    "seeAlso": [
+      "-LA-pa"
+    ]
+  },
+  "akduxwa": {
+    "root": "akduxwa",
+    "partOfSpeech": "vb",
+    "definition": "she will do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "akixax": {
+    "root": "akixax",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is made [WTI.4.10], it[a-] is [WTI.13.3, IV.2.15]",
+    "examples": [
+      {
+        "kiksht": "Gałalupqa aqłálgiłxal; axłélt gígwalix kwadau saqw itk'álamat amni akixax.",
+        "english": "They went into the sweathouse; it was heated below and it was all made out of stones. [WTI.4.10]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -kixax"
+    ]
+  },
+  "akshta": {
+    "root": "akshta",
+    "partOfSpeech": "interj",
+    "definition": "see here!, pay atten- tion!, take a lesson from this!, now!, see there!",
+    "examples": [
+      {
+        "kiksht": "Akshtá!",
+        "english": "See here!"
+      },
+      {
+        "kiksht": "Akshta yamtxulal.",
+        "english": "See, I told you."
+      }
+    ],
+    "notes": [
+      "Expresses reproof and admo- nition."
+    ]
+  },
+  "akstk'lutkama": {
+    "root": "akstk'lutkama",
+    "partOfSpeech": "vb",
+    "definition": "she will look at it[it-]",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "akłgelgaya": {
+    "root": "akłgelgaya",
+    "partOfSpeech": "vb",
+    "definition": "she will get it",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "akłulxama": {
+    "root": "akłulxama",
+    "partOfSpeech": "vb",
+    "definition": "she will tell them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "alaglúmaya": {
+    "root": "alaglúmaya",
+    "partOfSpeech": "vb",
+    "definition": "she will shout",
+    "seeAlso": [
+      "-k-LUMA"
+    ]
+  },
+  "alakchaxma": {
+    "root": "alakchaxma",
+    "partOfSpeech": "vb",
+    "definition": "she will cry out",
+    "seeAlso": [
+      "-k-CHAX̲"
+    ]
+  },
+  "alamxelekchwaya": {
+    "root": "alamxelekchwaya",
+    "partOfSpeech": "vb",
+    "definition": "you will let her fall",
+    "seeAlso": [
+      "-x-LK-chu, -LK-chu alamxluxa [vb] you will put it[a-] on yourself, you will wear it[a-]",
+      "-xl-X̲"
+    ]
+  },
+  "alamxłgiłxa": {
+    "root": "alamxłgiłxa",
+    "partOfSpeech": "vb",
+    "definition": "you will make fire",
+    "seeAlso": [
+      "-a-xl-KIŁX̲, -i-xl-kiłx alamxpshta [vb] you will make fire by twirling sticks",
+      "-a-x-PSHT"
+    ]
+  },
+  "alanxelmuxma": {
+    "root": "alanxelmuxma",
+    "partOfSpeech": "vb",
+    "definition": "I will eat it[a-] See also: -xl-MUX̲"
+  },
+  "alanxluxa": {
+    "root": "alanxluxa",
+    "partOfSpeech": "vb",
+    "definition": "I will put it[a-] on myself",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "alas": {
+    "root": "alas",
+    "partOfSpeech": "part",
+    "definition": "injure incurably",
+    "examples": [
+      {
+        "kiksht": "Alas ichiux.",
+        "english": "He injured him incurably."
+      },
+      {
+        "kiksht": "Alas ikiax.",
+        "english": "He is incurably injured. [Dyk]"
+      }
+    ]
+  },
+  "alaxaigatłmagwachgwayaxdix": {
+    "root": "alaxaigatłmagwachgwayaxdix",
+    "partOfSpeech": "vb",
+    "definition": "she will live, she will last",
+    "examples": [
+      {
+        "kiksht": "Alaxaigatłmagwachgwayaxdix yatłqdix kwaish kwadau aladimqda.",
+        "english": "She will live for a long time, last a long time, yet before she dies. [Dyk]"
+      }
+    ]
+  },
+  "alaxuxwa": {
+    "root": "alaxuxwa",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] will become, it[a- ] will make itself, it[a-] will be made [WTI.4.24, 11.17], she will become [WTII.1.3]",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "alałxílxuła": {
+    "root": "alałxílxuła",
+    "partOfSpeech": "vb",
+    "definition": "someone will dipnet- fish",
+    "seeAlso": [
+      "-a-xi-LXUŁ"
+    ]
+  },
+  "aláaa": {
+    "root": "aláaa",
+    "partOfSpeech": "interj",
+    "definition": "oh!",
+    "examples": [
+      {
+        "kiksht": "Alá ik'ashkash! qadamt muit?",
+        "english": "Oh, boy! where are you go- ing? [WTI.11.5]"
+      }
+    ],
+    "notes": [
+      "Expresses surprise. Dyk labels it \"a man's word.\""
+    ]
+  },
+  "aláxłaya": {
+    "root": "aláxłaya",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] will burn",
+    "examples": [
+      {
+        "kiksht": "Shpak ag̲ałax alaxuxwa, annánana aláxłaya.",
+        "english": "The sun will be strong, it will sting and burn. [WTII.11.1]"
+      }
+    ],
+    "seeAlso": [
+      "-x-ŁA"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -1814,6 +2029,17 @@
     ],
     "notes": [
       "Borrowed from English; an English word used with Wasco pre- fixes."
+    ]
+  },
+  "ił-alakásgwilit": {
+    "root": "ił-alakásgwilit",
+    "partOfSpeech": "n",
+    "definition": "mouse-colored blanket, gray blanket",
+    "notes": [
+      "Composed of alakas \"mouse\" and -lgwilit \"appearance.\""
+    ],
+    "seeAlso": [
+      "-lakas, i-lgwilit"
     ]
   },
   "kinwa": {
