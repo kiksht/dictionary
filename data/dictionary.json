@@ -4346,6 +4346,209 @@
       "-NAX̲TŁ"
     ]
   },
+  "annánana": {
+    "root": "annánana",
+    "partOfSpeech": "part",
+    "definition": "sting [Sapir], be very hot [GT, MMc 1/14/99]",
+    "examples": [
+      {
+        "kiksht": "Shpak ag̲ałax alaxuxwa, annánana aláxłaya.",
+        "english": "The sun will be strong, it will sting and burn. [WTII.11.1]"
+      }
+    ]
+  },
+  "ansgelga": {
+    "root": "ansgelga",
+    "partOfSpeech": "vb",
+    "definition": "I will get them 2",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "anshgiutga": {
+    "root": "anshgiutga",
+    "partOfSpeech": "vb",
+    "definition": "we [not including you] will bury him",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "anshgukła": {
+    "root": "anshgukła",
+    "partOfSpeech": "vb",
+    "definition": "we will take her",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "anshkdaya": {
+    "root": "anshkdaya",
+    "partOfSpeech": "vb",
+    "definition": "we will run",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "anshkduxama": {
+    "root": "anshkduxama",
+    "partOfSpeech": "vb",
+    "definition": "we will go to do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "anshkixatkw'ámida": {
+    "root": "anshkixatkw'ámida",
+    "partOfSpeech": "vb",
+    "definition": "we will bring them[i-] home",
+    "seeAlso": [
+      "-x-KW'A-mit"
+    ]
+  },
+  "anshkw'amida": {
+    "root": "anshkw'amida",
+    "partOfSpeech": "vb",
+    "definition": "I will take them 2 home",
+    "seeAlso": [
+      "-KW'A"
+    ]
+  },
+  "anshkłshguxa": {
+    "root": "anshkłshguxa",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) would do it[ish-] to them",
+    "examples": [
+      {
+        "kiksht": "Łgub anshkłshguxa iłt'úanxayuksh.",
+        "english": "We would shoot at the enemies. [WTIV.2.22]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "anshubaiwa": {
+    "root": "anshubaiwa",
+    "partOfSpeech": "vb",
+    "definition": "we will each of us go out",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "anshunaxłama": {
+    "root": "anshunaxłama",
+    "partOfSpeech": "vb",
+    "definition": "I will go look for them 2",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "anshup'álaulalma": {
+    "root": "anshup'álaulalma",
+    "partOfSpeech": "vb",
+    "definition": "we will talk",
+    "seeAlso": [
+      "-P'ALAU-lal"
+    ]
+  },
+  "anshuwag̲wa": {
+    "root": "anshuwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "I will kill them 2",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "anshuya": {
+    "root": "anshuya",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) will go",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "anshxengiglaya": {
+    "root": "anshxengiglaya",
+    "partOfSpeech": "vb",
+    "definition": "we will under- stand",
+    "examples": [
+      {
+        "kiksht": "Anshxengiglaya qengi adasq'ú idáit.",
+        "english": "We will understand what Wasco ways are. [Museum 5]"
+      }
+    ],
+    "seeAlso": [
+      "-xl-gi-GLA"
+    ]
+  },
+  "anshxshgama": {
+    "root": "anshxshgama",
+    "partOfSpeech": "vb",
+    "definition": "we will gamble",
+    "examples": [
+      {
+        "kiksht": "Ai qwatka anshxshgama; ag̲a naqi enshgíukl iłúguma, ag̲a alma qwatka anshuya.",
+        "english": "Yes, we shall gamble; although we do not know how to play bones, still we shall go. [WTI.4.7]"
+      }
+    ],
+    "seeAlso": [
+      "-x-SHKAM"
+    ]
+  },
+  "anshxuxwa": {
+    "root": "anshxuxwa",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) will do",
+    "examples": [
+      {
+        "kiksht": "Watch anshxuxwa.",
+        "english": "We will keep watch. [WTIV.2.10]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "anshxłaida": {
+    "root": "anshxłaida",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) will die",
+    "seeAlso": [
+      "-x-ŁA-it"
+    ]
+  },
+  "antgiuxwa": {
+    "root": "antgiuxwa",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) will make him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "antg̲uya": {
+    "root": "antg̲uya",
+    "partOfSpeech": "vb",
+    "definition": "I will camp overnight",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "antkłgelgaya": {
+    "root": "antkłgelgaya",
+    "partOfSpeech": "vb",
+    "definition": "let us 2 get ahold of it",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "antkłtxa": {
+    "root": "antkłtxa",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) will do her[ił-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "anáaa": {
     "root": "anáaa",
     "partOfSpeech": "interj",
@@ -4410,6 +4613,70 @@
     ],
     "seeAlso": [
       "-l-xa-TK"
+    ]
+  },
+  "anłtxa": {
+    "root": "anłtxa",
+    "partOfSpeech": "vb",
+    "definition": "I will do to it",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "anłudínaya": {
+    "root": "anłudínaya",
+    "partOfSpeech": "vb",
+    "definition": "I will kill them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "anłulxama": {
+    "root": "anłulxama",
+    "partOfSpeech": "vb",
+    "definition": "I will tell them, I will speak to them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "anłuwag̲wa": {
+    "root": "anłuwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "I will kill him[ił-]",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "anłwag̲wa": {
+    "root": "anłwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "I will kill him[ił-]",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "anłxelmama": {
+    "root": "anłxelmama",
+    "partOfSpeech": "vb",
+    "definition": "I will go eat",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "anłúdina": {
+    "root": "anłúdina",
+    "partOfSpeech": "vb",
+    "definition": "I will kill them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "anłúnaxłama": {
+    "root": "anłúnaxłama",
+    "partOfSpeech": "vb",
+    "definition": "I will go look for them",
+    "seeAlso": [
+      "-NAX̲Ł"
     ]
   },
   "ałag̲útłqt akłmín": {
