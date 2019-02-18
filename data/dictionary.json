@@ -2054,6 +2054,78 @@
       "-KW'ALALA-kw"
     ]
   },
+  "alitxmutka": {
+    "root": "alitxmutka",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) will bet it[i-]",
+    "seeAlso": [
+      "-xm-TK"
+    ]
+  },
+  "alixatxa": {
+    "root": "alixatxa",
+    "partOfSpeech": "vb",
+    "definition": "he will be, he will re- main",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "alixelgídugwa": {
+    "root": "alixelgídugwa",
+    "partOfSpeech": "vb",
+    "definition": "he is sent on errand to request bride [PK 1/6/56]",
+    "notes": [
+      "MS described this as \"a pro- posing.\" Refers to sending someone from the man's side to arrange a marriage. According to Gladys Th- ompson, this was always a man. Gladys Thompson and Madeline McInturff [6/5/98] confirm meaning as given, although uncertain of the details of the procedure. Gladys says axelgidugwaya would mean the same thing, but questioned this form \"be- cause it was always a man [who car- ried the proposal]\""
+    ]
+  },
+  "alixgyúldamida": {
+    "root": "alixgyúldamida",
+    "partOfSpeech": "vb",
+    "definition": "he will pray",
+    "seeAlso": [
+      "aluxwagwáldamida"
+    ]
+  },
+  "aliximaxida": {
+    "root": "aliximaxida",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] will be laid down",
+    "seeAlso": [
+      "-x-IMA-xit"
+    ]
+  },
+  "alixkw'aya": {
+    "root": "alixkw'aya",
+    "partOfSpeech": "vb",
+    "definition": "he will go home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "alixuxa": {
+    "root": "alixuxa",
+    "partOfSpeech": "vb",
+    "definition": "they[i-] will be",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "alixuxwa": {
+    "root": "alixuxwa",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] will become [WTI.1h.1], it[i-] will happen [WTII.11.1]",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "alixúnudama": {
+    "root": "alixúnudama",
+    "partOfSpeech": "vb",
+    "definition": "he will go to uri- nate",
+    "seeAlso": [
+      "-x-UNUT"
+    ]
+  },
   "aliłitłáidama": {
     "root": "aliłitłáidama",
     "partOfSpeech": "vb",
@@ -2089,6 +2161,148 @@
       "-X̲"
     ]
   },
+  "alkat": {
+    "root": "alkat",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is sticking in it[a-]",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "alkduxama": {
+    "root": "alkduxama",
+    "partOfSpeech": "vb",
+    "definition": "we will go to do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "alkdúshima": {
+    "root": "alkdúshima",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will use them",
+    "seeAlso": [
+      "-SHI"
+    ]
+  },
+  "alkłáyuwa": {
+    "root": "alkłáyuwa",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will move",
+    "seeAlso": [
+      "-k-ŁAYU"
+    ]
+  },
+  "alma": {
+    "root": "alma",
+    "partOfSpeech": "adv",
+    "definition": "in future, later, after",
+    "examples": [
+      {
+        "kiksht": "alma kadux",
+        "english": "tomorrow"
+      },
+      {
+        "kiksht": "Kwaish alma atgwag̲wa.",
+        "english": "Pretty soon they'll kill her."
+      },
+      {
+        "kiksht": "Alumqdima alma agashikshignubet.",
+        "english": "When she gets her fits she will do the dying."
+      },
+      {
+        "kiksht": "Alumqdima alma atxúyamabet.",
+        "english": "She will be dying when we get there."
+      },
+      {
+        "kiksht": "Achiuładanił alma atxłxelma.",
+        "english": "He will throw them one after another while/ when we eat. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Used in combination with future tense to indicate futurity (as opposed to other modal senses of future, as for instance possibility or potentiality)."
+    ]
+  },
+  "alma kadux": {
+    "root": "alma kadux",
+    "partOfSpeech": "idiom",
+    "definition": "tomorrow",
+    "seeAlso": [
+      "alma, kadux"
+    ]
+  },
+  "alqti": {
+    "root": "alqti",
+    "partOfSpeech": "vb",
+    "definition": "point to her/it[a-]!",
+    "seeAlso": [
+      "-l-QTI"
+    ]
+  },
+  "alugwagima": {
+    "root": "alugwagima",
+    "partOfSpeech": "vb",
+    "definition": "they will say",
+    "seeAlso": [
+      "-KIM, -ga-KIM"
+    ]
+  },
+  "alugwalalama": {
+    "root": "alugwalalama",
+    "partOfSpeech": "vb",
+    "definition": "they will sing",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "alugwálalma": {
+    "root": "alugwálalma",
+    "partOfSpeech": "vb",
+    "definition": "she will keep flying",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "aluq'iłxlma": {
+    "root": "aluq'iłxlma",
+    "partOfSpeech": "vb",
+    "definition": "they will eat, there will be a meal",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "aluxaxichwaya": {
+    "root": "aluxaxichwaya",
+    "partOfSpeech": "vb",
+    "definition": "they will meet, they will meet to discuss",
+    "seeAlso": [
+      "-xa-xi-CHU"
+    ]
+  },
+  "aluxełxelma": {
+    "root": "aluxełxelma",
+    "partOfSpeech": "vb",
+    "definition": "they will eat",
+    "seeAlso": [
+      "-x-ŁX̲LM"
+    ]
+  },
+  "aluxtáchgwama": {
+    "root": "aluxtáchgwama",
+    "partOfSpeech": "vb",
+    "definition": "they will come out to the surface of the water",
+    "seeAlso": [
+      "-k-TA-chkw"
+    ]
+  },
+  "aluxwakw'áyuwa": {
+    "root": "aluxwakw'áyuwa",
+    "partOfSpeech": "vb",
+    "definition": "they will each go home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
   "aláaa": {
     "root": "aláaa",
     "partOfSpeech": "interj",
@@ -2115,6 +2329,22 @@
     ],
     "seeAlso": [
       "-x-ŁA"
+    ]
+  },
+  "alłxelma": {
+    "root": "alłxelma",
+    "partOfSpeech": "vb",
+    "definition": "we will eat, let's eat",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "alłxelmama": {
+    "root": "alłxelmama",
+    "partOfSpeech": "vb",
+    "definition": "we will go eat, let's go eat",
+    "seeAlso": [
+      "-ŁX̲LM"
     ]
   },
   "dauya": {
