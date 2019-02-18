@@ -2589,6 +2589,259 @@
       "-ŁX̲LM"
     ]
   },
+  "ałag̲útłqt akłmín": {
+    "root": "ałag̲útłqt akłmín",
+    "partOfSpeech": "n",
+    "definition": "April",
+    "notes": [
+      "Means \"eighth month.\" This implies that the Wasco year began around September. Two people gave walishnan as a possible name for April. [DH]"
+    ],
+    "seeAlso": [
+      "walishnan"
+    ]
+  },
+  "ałak": {
+    "root": "ałak",
+    "partOfSpeech": "n",
+    "definition": "(paternal) aunt!, father's sister!",
+    "notes": [
+      "Used only to address father's sister, mostly by children."
+    ],
+    "seeAlso": [
+      "-łak"
+    ]
+  },
+  "ałakk'ag̲wa": {
+    "root": "ałakk'ag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "it will fit it[a-]",
+    "seeAlso": [
+      "-k-K'A-qw"
+    ]
+  },
+  "ałaktagwa": {
+    "root": "ałaktagwa",
+    "partOfSpeech": "vb",
+    "definition": "it will run up into it[a-]",
+    "seeAlso": [
+      "-TA"
+    ]
+  },
+  "ałamluxa": {
+    "root": "ałamluxa",
+    "partOfSpeech": "vb",
+    "definition": "I will do it on you",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałamluxwa": {
+    "root": "ałamluxwa",
+    "partOfSpeech": "vb",
+    "definition": "I will do it on you See also: -X̲"
+  },
+  "ałasinmakwst akłmín": {
+    "root": "ałasinmakwst akłmín",
+    "partOfSpeech": "n",
+    "definition": "March",
+    "notes": [
+      "Means \"seventh month.\" This implies that the Wasco year began around September. Sophie Brunoe gave waliwali as a possible name for March. [DH]"
+    ],
+    "seeAlso": [
+      "waliwali"
+    ]
+  },
+  "ałdia": {
+    "root": "ałdia",
+    "partOfSpeech": "vb",
+    "definition": "it will come",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "ałdimama": {
+    "root": "ałdimama",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will come",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "ałdímama": {
+    "root": "ałdímama",
+    "partOfSpeech": "vb",
+    "definition": "they will come, they will arrive",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "ałelgat": {
+    "root": "ałelgat",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is sticking in him[ił-]",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "ałem": {
+    "root": "ałem",
+    "partOfSpeech": "n",
+    "definition": "my father's sister!, (mater- nal) uncle!",
+    "notes": [
+      "Used to address one's father's sister."
+    ],
+    "seeAlso": [
+      "-ŁEM"
+    ]
+  },
+  "ałenxelg̲wada": {
+    "root": "ałenxelg̲wada",
+    "partOfSpeech": "vb",
+    "definition": "I will bathe myself in it",
+    "seeAlso": [
+      "-QWAT"
+    ]
+  },
+  "ałgaguxwa": {
+    "root": "ałgaguxwa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will do it[a-] on it[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałganlg̲ílaba": {
+    "root": "ałganlg̲ílaba",
+    "partOfSpeech": "vb",
+    "definition": "he[ił] will interpret for me",
+    "seeAlso": [
+      "-a-l- G̲ILA-pa"
+    ]
+  },
+  "ałgatxa": {
+    "root": "ałgatxa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will do it[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałgentgalmama": {
+    "root": "ałgentgalmama",
+    "partOfSpeech": "vb",
+    "definition": "they will come for me",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "ałgenwag̲wa": {
+    "root": "ałgenwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will kill me",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "ałgigatxaimaxdixa": {
+    "root": "ałgigatxaimaxdixa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will put it[i-] down on it[i-]",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "ałgima": {
+    "root": "ałgima",
+    "partOfSpeech": "vb",
+    "definition": "they will say",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "ałginluda": {
+    "root": "ałginluda",
+    "partOfSpeech": "vb",
+    "definition": "he would give it[i-] to me",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "ałgiug̲wílilxła": {
+    "root": "ałgiug̲wílilxła",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will keep tapping it[i-] [Sapir]",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "ałgiukwchanma": {
+    "root": "ałgiukwchanma",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will take it[i-] with him",
+    "seeAlso": [
+      "-KWCHAN"
+    ]
+  },
+  "ałgiuxa": {
+    "root": "ałgiuxa",
+    "partOfSpeech": "vb",
+    "definition": "they will make it",
+    "examples": [
+      {
+        "kiksht": "Kánawi shan pu ikaqmit ałgiuxa dayaba iq'ílaitix. C'em ixa!",
+        "english": "Everyone has a voice in making laws on the reservation. Vote! [Spilyay/ Vote]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałgiuxwa": {
+    "root": "ałgiuxwa",
+    "partOfSpeech": "vb",
+    "definition": "they will do it[i-] [WTI.14.4], he[ił-] will do it[i-] [WTII.9.1]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałgiúpg̲na": {
+    "root": "ałgiúpg̲na",
+    "partOfSpeech": "vb",
+    "definition": "they will call it[i-]",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "ałgiłgwa": {
+    "root": "ałgiłgwa",
+    "partOfSpeech": "vb",
+    "definition": "they will win",
+    "examples": [
+      {
+        "kiksht": "Ałgiłgwa iłúgumuba.",
+        "english": "They will win at bones. [WTI.4.8]"
+      }
+    ],
+    "seeAlso": [
+      "-ki-ŁKW"
+    ]
+  },
+  "ałgmuxwa": {
+    "root": "ałgmuxwa",
+    "partOfSpeech": "vb",
+    "definition": "it will do you",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałgłxátgwaya": {
+    "root": "ałgłxátgwaya",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will pile them up on one another",
+    "seeAlso": [
+      "-KWA"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
