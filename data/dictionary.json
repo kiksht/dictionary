@@ -5391,6 +5391,118 @@
       "-X̲"
     ]
   },
+  "aqmukła": {
+    "root": "aqmukła",
+    "partOfSpeech": "vb",
+    "definition": "we will take you",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "aqnelqłaxida": {
+    "root": "aqnelqłaxida",
+    "partOfSpeech": "vb",
+    "definition": "one will know about me",
+    "seeAlso": [
+      "-l-QŁA-xit"
+    ]
+  },
+  "aqnug̲úchgema": {
+    "root": "aqnug̲úchgema",
+    "partOfSpeech": "vb",
+    "definition": "one would wake me, I would be awakened",
+    "seeAlso": [
+      "-QUCHK, - G̲UCHQ"
+    ]
+  },
+  "aqnulxama": {
+    "root": "aqnulxama",
+    "partOfSpeech": "vb",
+    "definition": "one would tell me, I would be told",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "aqshukła": {
+    "root": "aqshukła",
+    "partOfSpeech": "vb",
+    "definition": "one will bring them 2, they 2 will be brought",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "aqshutxwichgwa": {
+    "root": "aqshutxwichgwa",
+    "partOfSpeech": "vb",
+    "definition": "one will set them 2 up, they 2 will be set up",
+    "seeAlso": [
+      "-TX(WI)"
+    ]
+  },
+  "aqshwag̲wa": {
+    "root": "aqshwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "one will kill them 2, they 2 will be killed",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "aqshxámlukwłichkwa": {
+    "root": "aqshxámlukwłichkwa",
+    "partOfSpeech": "vb",
+    "definition": "we will tell you",
+    "seeAlso": [
+      "-KWŁI"
+    ]
+  },
+  "aqsuxwa": {
+    "root": "aqsuxwa",
+    "partOfSpeech": "vb",
+    "definition": "one will make it[ish-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "aqtłá": {
+    "root": "aqtłá",
+    "partOfSpeech": "vb",
+    "definition": "touch her/it[a-]!",
+    "seeAlso": [
+      "-QTŁA"
+    ]
+  },
+  "aqugixudinma": {
+    "root": "aqugixudinma",
+    "partOfSpeech": "vb",
+    "definition": "one will help them, they will be helped",
+    "seeAlso": [
+      "-X̲UTIN"
+    ]
+  },
+  "aquqt'iłxa": {
+    "root": "aquqt'iłxa",
+    "partOfSpeech": "vb",
+    "definition": "one will push it[a-] from shore, one will push it[a-] into water",
+    "seeAlso": [
+      "-QT'I-łx"
+    ]
+  },
+  "aquxwa": {
+    "root": "aquxwa",
+    "partOfSpeech": "vb",
+    "definition": "one will do them, they will be done",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "aqwálaba": {
+    "root": "aqwálaba",
+    "partOfSpeech": "vb",
+    "definition": "one will dig her up",
+    "seeAlso": [
+      "-LA-pa"
+    ]
+  },
   "aqámluda": {
     "root": "aqámluda",
     "partOfSpeech": "vb",
@@ -5444,12 +5556,163 @@
     "partOfSpeech": "vb",
     "definition": "one will see him[ił-] See also: -g̲l-KL"
   },
+  "aqłilłxwaya": {
+    "root": "aqłilłxwaya",
+    "partOfSpeech": "vb",
+    "definition": "one will put them around him",
+    "seeAlso": [
+      "-ŁX̲WA"
+    ]
+  },
+  "aqłluda": {
+    "root": "aqłluda",
+    "partOfSpeech": "vb",
+    "definition": "one will give it",
+    "examples": [
+      {
+        "kiksht": "Iłk'askas aqłluda iłq'iyuqt iłkala.",
+        "english": "The baby will be given to an old man. [WTII.2.1]"
+      }
+    ],
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "aqług̲wánimchgwa": {
+    "root": "aqług̲wánimchgwa",
+    "partOfSpeech": "vb",
+    "definition": "one will laugh at him[ił-]",
+    "seeAlso": [
+      "- G̲ANIM"
+    ]
+  },
+  "aqłuwag̲wa": {
+    "root": "aqłuwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "one will kill them, they will be killed",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "aqłuxa": {
+    "root": "aqłuxa",
+    "partOfSpeech": "vb",
+    "definition": "one will do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "aqłuxwa": {
+    "root": "aqłuxwa",
+    "partOfSpeech": "vb",
+    "definition": "one will do him[ił-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "aqłxitpshuda": {
+    "root": "aqłxitpshuda",
+    "partOfSpeech": "vb",
+    "definition": "one will murder someone secretly, someone will be murdered secretly",
+    "seeAlso": [
+      "-PSHU-t,-xl-PSHU-t"
+    ]
+  },
   "aqłáluxwa": {
     "root": "aqłáluxwa",
     "partOfSpeech": "vb",
     "definition": "one will do them onto her",
     "seeAlso": [
       "-X̲"
+    ]
+  },
+  "asemxlutka": {
+    "root": "asemxlutka",
+    "partOfSpeech": "vb",
+    "definition": "you will look",
+    "seeAlso": [
+      "-s-xl-TK"
+    ]
+  },
+  "asha": {
+    "root": "asha",
+    "partOfSpeech": "n",
+    "definition": "daughter!",
+    "forms": [
+      {
+        "kiksht": "ashamax",
+        "english": "daughters! [Rela- tives]"
+      }
+    ]
+  },
+  "ashdalimáłxixida": {
+    "root": "ashdalimáłxixida",
+    "partOfSpeech": "vb",
+    "definition": "they 2 will fall into water and drown",
+    "seeAlso": [
+      "-a-l-IMA-łx-ixit"
+    ]
+  },
+  "ashdigílaida": {
+    "root": "ashdigílaida",
+    "partOfSpeech": "vb",
+    "definition": "they 2 will doctor him",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "ashemshxútłqa": {
+    "root": "ashemshxútłqa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will take care, you folks will watch out",
+    "seeAlso": [
+      "-sh-x-TŁQ"
+    ]
+  },
+  "ashemxélglagwachkwa": {
+    "root": "ashemxélglagwachkwa",
+    "partOfSpeech": "vb",
+    "definition": "you will take care of yourself",
+    "seeAlso": [
+      "-sh-xl-GLA-kw-chkw"
+    ]
+  },
+  "ashenxatwagwa": {
+    "root": "ashenxatwagwa",
+    "partOfSpeech": "vb",
+    "definition": "I will be busy",
+    "seeAlso": [
+      "-sh-x-WA-kw"
+    ]
+  },
+  "ashkdúxulal": {
+    "root": "ashkdúxulal",
+    "partOfSpeech": "vb",
+    "definition": "they 2 did them, they 2 made them",
+    "examples": [
+      {
+        "kiksht": "Ashkdúxulal itg̲ulul.",
+        "english": "They would gather acorns. [liter- ally: they made, did acorns] [WTI.17.1]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "asuxibúnanenxła": {
+    "root": "asuxibúnanenxła",
+    "partOfSpeech": "vb",
+    "definition": "they would jump up and down",
+    "seeAlso": [
+      "-s-xl-BNA-unenxł"
+    ]
+  },
+  "asándibaix": {
+    "root": "asándibaix",
+    "partOfSpeech": "adv",
+    "definition": "on Sunday",
+    "seeAlso": [
+      "a-sandi, sándibaix"
     ]
   },
   "ałag̲útłqt akłmín": {
