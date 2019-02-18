@@ -1850,12 +1850,243 @@
       "-X̲, -x-X̲"
     ]
   },
+  "alaxuxwax": {
+    "root": "alaxuxwax",
+    "partOfSpeech": "vb",
+    "definition": "she will do herself, she will become",
+    "notes": [
+      "The absence of the usual future suffix -a on this verb is puz- zling. It may be related to the fact that this and the two preceding verbs (which both have the usual future form) appear to be used here in the sense of \"would (repeatedly) do.\""
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
   "alałxílxuła": {
     "root": "alałxílxuła",
     "partOfSpeech": "vb",
     "definition": "someone will dipnet- fish",
     "seeAlso": [
       "-a-xi-LXUŁ"
+    ]
+  },
+  "algełgwaida": {
+    "root": "algełgwaida",
+    "partOfSpeech": "n",
+    "definition": "we will raid",
+    "seeAlso": [
+      "niqíłgadwait"
+    ]
+  },
+  "algiq'ayakwt": {
+    "root": "algiq'ayakwt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is in between",
+    "seeAlso": [
+      "-l-Q'AYA-kw"
+    ]
+  },
+  "algiq'ayakwt asablal": {
+    "root": "algiq'ayakwt asablal",
+    "partOfSpeech": "n",
+    "definition": "pie",
+    "notes": [
+      "Literally \"it-is-in-between bread.\""
+    ],
+    "seeAlso": [
+      "-l-Q'AYA-kw, algiq'ayakwt, a- sablal"
+    ]
+  },
+  "algiukshtama": {
+    "root": "algiukshtama",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will go look at him",
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "algiukshtbaya": {
+    "root": "algiukshtbaya",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will carry him out",
+    "seeAlso": [
+      "-KSHT, -PA"
+    ]
+  },
+  "algiukła": {
+    "root": "algiukła",
+    "partOfSpeech": "vb",
+    "definition": "let us take him along [WTIV.2.16], we (including you) will take him [WTI.15.2, II.1.3], we (in- cluding you) will take it[i-] [Spilyay/ Huckleberry 2]",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "algiuxa": {
+    "root": "algiuxa",
+    "partOfSpeech": "vb",
+    "definition": "we will make it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "algixt": {
+    "root": "algixt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is stuffed",
+    "seeAlso": [
+      "-l-gi-X̲T"
+    ]
+  },
+  "algixtaxa": {
+    "root": "algixtaxa",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is filled into it[a-]",
+    "notes": [
+      "This is song language, which may be different from ordinary Wasco speech."
+    ]
+  },
+  "algiúnaxła": {
+    "root": "algiúnaxła",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will look for it[i-]",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "algugwiga": {
+    "root": "algugwiga",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will get them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "algíunaxłama": {
+    "root": "algíunaxłama",
+    "partOfSpeech": "vb",
+    "definition": "let us go look for it[i-]",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "alichxałwadayaxdix": {
+    "root": "alichxałwadayaxdix",
+    "partOfSpeech": "vb",
+    "definition": "he will be sucked into the mud",
+    "seeAlso": [
+      "-t-xa-ŁADA-chu"
+    ]
+  },
+  "alidemqta": {
+    "root": "alidemqta",
+    "partOfSpeech": "vb",
+    "definition": "he will die",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "alidia": {
+    "root": "alidia",
+    "partOfSpeech": "vb",
+    "definition": "he will come",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "alidimama": {
+    "root": "alidimama",
+    "partOfSpeech": "vb",
+    "definition": "he will come",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "aligima": {
+    "root": "aligima",
+    "partOfSpeech": "vb",
+    "definition": "he will say",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "alimank'námida": {
+    "root": "alimank'námida",
+    "partOfSpeech": "vb",
+    "definition": "you will ap- prove of it[i-]",
+    "examples": [
+      {
+        "kiksht": "Shmani alimank'námida ikaqmit, kwapt c'em ixa.",
+        "english": "If you ap- prove of the law, then vote! [Spilyay/Vote]"
+      }
+    ],
+    "seeAlso": [
+      "-n-K'NAM"
+    ]
+  },
+  "alimgílaida": {
+    "root": "alimgílaida",
+    "partOfSpeech": "vb",
+    "definition": "he will doctor you",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "alimxackwda": {
+    "root": "alimxackwda",
+    "partOfSpeech": "vb",
+    "definition": "he will be caught by your trap",
+    "seeAlso": [
+      "-xa-CKWT"
+    ]
+  },
+  "alinxelmuxma": {
+    "root": "alinxelmuxma",
+    "partOfSpeech": "vb",
+    "definition": "I will eat it[i-]",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "alitkw'álalakwida": {
+    "root": "alitkw'álalakwida",
+    "partOfSpeech": "vb",
+    "definition": "he will be gone",
+    "seeAlso": [
+      "-KW'ALALA-kw"
+    ]
+  },
+  "aliłitłáidama": {
+    "root": "aliłitłáidama",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] will come to him[ił-], it[i-] will settle into his[ił-] net",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "aliłkwchwaya": {
+    "root": "aliłkwchwaya",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] will fall down aliłlutxwida [vb] he is always stand- ing around in it",
+    "examples": [
+      {
+        "kiksht": "dáminwa aliłlutxwida iłchqwaba",
+        "english": "he is always standing around in water [Bear and Crane B]"
+      }
+    ],
+    "seeAlso": [
+      "-TX(WI)"
+    ]
+  },
+  "aliłxelmuxma": {
+    "root": "aliłxelmuxma",
+    "partOfSpeech": "vb",
+    "definition": "they will eat it[i-] See also: -xl-MUX̲"
+  },
+  "aliłxluxwa": {
+    "root": "aliłxluxwa",
+    "partOfSpeech": "vb",
+    "definition": "he will do it on him- self",
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "aláaa": {
@@ -1944,6 +2175,14 @@
     "definition": "he drifted along",
     "seeAlso": [
       "-NI"
+    ]
+  },
+  "i-'álenchish": {
+    "root": "i-'álenchish",
+    "partOfSpeech": "n",
+    "definition": "orange (fruit)",
+    "notes": [
+      "Borrowed from English."
     ]
   },
   "i-k'ámunaq": {
