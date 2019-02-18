@@ -31,6 +31,7 @@ interface Dictionary {
 }
 
 const m = new Map([
+    [/Ò/g, "Ł"],
     [/¬/g, "ł"],
     [/Å/g, "á"],
     [/Å/g, "á"],
@@ -45,7 +46,7 @@ const m = new Map([
     [/’/g, "'"],
     [/‘/g, "'"],
     [/“/g, '"'],
-    [/”/g, '"']
+    [/”/g, '"'],
 ]);
 
 function normalize(s: string): string {
@@ -74,7 +75,7 @@ function parseFirst(s: string): { root: string; partOfSpeech: PartOfSpeech; defi
     return {
         root: normalize(root.join("")),
         partOfSpeech: <any>pos.join(""),
-        definition: normalize(definition.join(""))
+        definition: normalize(definition.join("")),
     };
 }
 
