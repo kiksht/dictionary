@@ -177,6 +177,145 @@
       }
     ]
   },
+  "aailgachxix": {
+    "root": "aailgachxix",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is descending to it[i-]",
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt gayułait isk'ulya daba akłmín ailgachxix.",
+        "english": "Now then Coyote sat down here (where) the moon is descending to the ground. [WTI.9.8]"
+      }
+    ],
+    "seeAlso": [
+      "-KA-chu"
+    ]
+  },
+  "aailupg̲emdix ag̲ałax": {
+    "root": "aailupg̲emdix ag̲ałax",
+    "partOfSpeech": "vb",
+    "definition": "west",
+    "notes": [
+      "Literally \"place (-ix) the-sun (ag̲ałax) it (a-) enters (-upg̲emd-) into (-l-) it (-i-; that is, the place where the sun goes when it sets).\""
+    ],
+    "seeAlso": [
+      "aitgáuwΔxdixag̲ałax"
+    ]
+  },
+  "aailáx": {
+    "root": "aailáx",
+    "partOfSpeech": "part",
+    "definition": "puzzle, deceive",
+    "examples": [
+      {
+        "kiksht": "Ailáx igixux.",
+        "english": "He was puzzled. [Dyk]"
+      },
+      {
+        "kiksht": "Ailáx enkiax.",
+        "english": "I am puzzled. [PK]"
+      }
+    ],
+    "seeAlso": [
+      "laxláx, la'ax"
+    ]
+  },
+  "aaima": {
+    "root": "aaima",
+    "partOfSpeech": "pron",
+    "definition": "only she, only her, only it[a-]",
+    "examples": [
+      {
+        "kiksht": "Aima q'áwilxshem akiax.",
+        "english": "Only she is staying at home. [DykGr 119]"
+      }
+    ]
+  },
+  "aaip'áikt": {
+    "root": "aaip'áikt",
+    "partOfSpeech": "part",
+    "definition": "steal",
+    "examples": [
+      {
+        "kiksht": "Aip'áikt imiux.",
+        "english": "You stole him. [Dyk]"
+      }
+    ],
+    "notes": [
+      "The only known use of this word is in a legend, where it refers to ghosts."
+    ]
+  },
+  "aaiłq'úp": {
+    "root": "aaiłq'úp",
+    "partOfSpeech": "part",
+    "definition": "cut off",
+    "examples": [
+      {
+        "kiksht": "Aiłq'úp c'unus, tł'axw, ixt wilxam.",
+        "english": "[He] cut off a little, threw away, one village [came into being]. [WTI.1m.6]"
+      }
+    ],
+    "seeAlso": [
+      "łq'up"
+    ]
+  },
+  "aaiłqw'áab": {
+    "root": "aaiłqw'áab",
+    "partOfSpeech": "part",
+    "definition": "cut off easily",
+    "notes": [
+      "Note from Sapir: \"-ai- denotes the ease with which the cutting was done; the over-long -a- ... implies the continuous slice-like character of the cut.\" [WT p.145]"
+    ],
+    "seeAlso": [
+      "łq'up"
+    ]
+  },
+  "aaiłqw'áp": {
+    "root": "aaiłqw'áp",
+    "partOfSpeech": "part",
+    "definition": "cut",
+    "examples": [
+      {
+        "kiksht": "Aiłqw'áb gachiux ig̲iwak.",
+        "english": "He cut the meat. [WTI.14.3]"
+      },
+      {
+        "kiksht": "Wichám aiłqw'áb alixuxwa iłianałxat.",
+        "english": "Her father will cut off his hair. [WTII.3.1]"
+      }
+    ],
+    "seeAlso": [
+      "łq'up"
+    ]
+  },
+  "aaiłál": {
+    "root": "aaiłál",
+    "partOfSpeech": "part",
+    "definition": "black",
+    "examples": [
+      {
+        "kiksht": "Aiłál gachiux iyág§chba.",
+        "english": "He just made him black on his nose. [WTI.17.14]"
+      }
+    ],
+    "seeAlso": [
+      "łal, łalłal, dałál"
+    ]
+  },
+  "aaiłáq'": {
+    "root": "aaiłáq'",
+    "partOfSpeech": "part",
+    "definition": "turn",
+    "forms": [
+      {
+        "kiksht": "Aiłáq' inuya.",
+        "english": "Turning I went. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łaq'"
+    ]
+  },
   "acdemluda": {
     "root": "acdemluda",
     "partOfSpeech": "vb",
@@ -1039,6 +1178,91 @@
     ],
     "seeAlso": [
       "aiq'í"
+    ]
+  },
+  "aik'áu": {
+    "root": "aik'áu",
+    "partOfSpeech": "part",
+    "definition": "tie, bunch up",
+    "examples": [
+      {
+        "kiksht": "Aik'áu ichiúx.",
+        "english": "He tied himup.[DykGr128]"
+      },
+      {
+        "kiksht": "Aik'áu ganshxuxwax.",
+        "english": "We got together. [WTIV.2.12]"
+      }
+    ],
+    "seeAlso": [
+      "k'au"
+    ]
+  },
+  "aik'ítłxiugwax": {
+    "root": "aik'ítłxiugwax",
+    "partOfSpeech": "vb",
+    "definition": "they[a-] each crawl about on it[i-]",
+    "seeAlso": [
+      "-ÒX̲I, -k'l-ÒX̲I"
+    ]
+  },
+  "aikwáł": {
+    "root": "aikwáł",
+    "partOfSpeech": "part",
+    "definition": "interlock neatly",
+    "examples": [
+      {
+        "kiksht": "Aikwáł gashguxix itshdapiq.",
+        "english": "They 2 interlocked their wings neatly. [WTI.2.27]"
+      }
+    ],
+    "seeAlso": [
+      "kł \"interlock\""
+    ]
+  },
+  "aikwłmadix wakshén": {
+    "root": "aikwłmadix wakshén",
+    "partOfSpeech": "n",
+    "definition": "second finger, pointing finger, fourth finger",
+    "notes": [
+      "Gladys Thompson and Madeline McInturff gave this expres- sion for both 2nd and 4th finger."
+    ],
+    "seeAlso": [
+      "wa-kshén"
+    ]
+  },
+  "ailxakwchgwa": {
+    "root": "ailxakwchgwa",
+    "partOfSpeech": "vb",
+    "definition": "give it[a-] back to him!",
+    "seeAlso": [
+      "-x-KWCHKW"
+    ]
+  },
+  "ailáp": {
+    "root": "ailáp",
+    "partOfSpeech": "part",
+    "definition": "dip (slowly), duck un- derwater (slowly)",
+    "seeAlso": [
+      "lep, daláp, dalabláp, i- k'íleblep"
+    ]
+  },
+  "ailáu": {
+    "root": "ailáu",
+    "partOfSpeech": "part",
+    "definition": "out of sight, invisible, hide, disappear",
+    "examples": [
+      {
+        "kiksht": "Ailau ichiux.",
+        "english": "He put him out of sight, made him invisible. [Dyk]"
+      },
+      {
+        "kiksht": "Ailáu isíaxus gasxúx.",
+        "english": "His eyes went out of sight. [WTI.2.13]"
+      }
+    ],
+    "seeAlso": [
+      "lau, dalauláu"
     ]
   },
   "dauya": {
