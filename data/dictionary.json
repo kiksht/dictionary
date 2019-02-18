@@ -2287,6 +2287,14 @@
       "-x-ŁX̲LM"
     ]
   },
+  "aluxiłxelma": {
+    "root": "aluxiłxelma",
+    "partOfSpeech": "vb",
+    "definition": "they will eat",
+    "seeAlso": [
+      "-x-ŁX̲LM"
+    ]
+  },
   "aluxtáchgwama": {
     "root": "aluxtáchgwama",
     "partOfSpeech": "vb",
@@ -2295,12 +2303,246 @@
       "-k-TA-chkw"
     ]
   },
+  "aluxuxa": {
+    "root": "aluxuxa",
+    "partOfSpeech": "vb",
+    "definition": "they will be made, they will become, they will be",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "aluxwagwáldamida": {
+    "root": "aluxwagwáldamida",
+    "partOfSpeech": "vb",
+    "definition": "they will pray",
+    "seeAlso": [
+      "alixgyúldamida"
+    ]
+  },
   "aluxwakw'áyuwa": {
     "root": "aluxwakw'áyuwa",
     "partOfSpeech": "vb",
     "definition": "they will each go home",
     "seeAlso": [
       "-x-KW'A"
+    ]
+  },
+  "aluxwatbúxwida": {
+    "root": "aluxwatbúxwida",
+    "partOfSpeech": "vb",
+    "definition": "it[it-] will close, it[it-] will be closed",
+    "seeAlso": [
+      "-x-PU"
+    ]
+  },
+  "aluxwatxa": {
+    "root": "aluxwatxa",
+    "partOfSpeech": "vb",
+    "definition": "they will be made (in this direction)",
+    "examples": [
+      {
+        "kiksht": "Łk'ub aluxwatxa itg̲wálala.",
+        "english": "The guns will be shot at us. [WTIV.2.9]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "aluxwánimananma": {
+    "root": "aluxwánimananma",
+    "partOfSpeech": "vb",
+    "definition": "they will point it[a-] out to one another",
+    "seeAlso": [
+      "-x-NIMA"
+    ]
+  },
+  "aluxwáłxuma": {
+    "root": "aluxwáłxuma",
+    "partOfSpeech": "vb",
+    "definition": "they will be eaten up, they will be consumed",
+    "examples": [
+      {
+        "kiksht": "Aluxwáłxuma idemshág̲amachx.",
+        "english": "Your bullets will be eaten up, you will run out of am- munition. [WTIV.2.17]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁX̲UM"
+    ]
+  },
+  "aluxwínimchgwa": {
+    "root": "aluxwínimchgwa",
+    "partOfSpeech": "vb",
+    "definition": "they will mourn",
+    "seeAlso": [
+      "-xi-NIM, aluxwínimchgwa aluxwułxelma [vb] they will eat",
+      "-x-ŁX̲LM"
+    ]
+  },
+  "alxdínaya": {
+    "root": "alxdínaya",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will fight [WTI.12.10, IV.2.17], let us fight [WTIV.2.22]",
+    "seeAlso": [
+      "-x-DINA"
+    ]
+  },
+  "alxemgaba": {
+    "root": "alxemgaba",
+    "partOfSpeech": "vb",
+    "definition": "we will work",
+    "seeAlso": [
+      "-xm-GA-pa"
+    ]
+  },
+  "alxg̲wádama": {
+    "root": "alxg̲wádama",
+    "partOfSpeech": "vb",
+    "definition": "we will go bathe (ourselves)",
+    "seeAlso": [
+      "-x- G̲WAT"
+    ]
+  },
+  "alxilaida": {
+    "root": "alxilaida",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will stay [WTIV.1.4], we will live [Mu- seum9]",
+    "seeAlso": [
+      "-xi-LA-it"
+    ]
+  },
+  "alxk'ayuwa": {
+    "root": "alxk'ayuwa",
+    "partOfSpeech": "vb",
+    "definition": "let us all go home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "alxkw'aya": {
+    "root": "alxkw'aya",
+    "partOfSpeech": "vb",
+    "definition": "let us return home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "alxkłg̲elgela": {
+    "root": "alxkłg̲elgela",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will see them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "alxkłuxwa": {
+    "root": "alxkłuxwa",
+    "partOfSpeech": "vb",
+    "definition": "let us do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "alxmuya": {
+    "root": "alxmuya",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will wrestle",
+    "seeAlso": [
+      "-x-MUI"
+    ]
+  },
+  "alxshgama": {
+    "root": "alxshgama",
+    "partOfSpeech": "vb",
+    "definition": "we(including you) will gamble",
+    "seeAlso": [
+      "-x-SHKAM"
+    ]
+  },
+  "alxuguya": {
+    "root": "alxuguya",
+    "partOfSpeech": "vb",
+    "definition": "we will pass through",
+    "examples": [
+      {
+        "kiksht": "Dauax ag̲ałax alxuguya.",
+        "english": "We will have passed through this day. [WTI.9.13]"
+      }
+    ]
+  },
+  "alxugwig̲éliudama": {
+    "root": "alxugwig̲éliudama",
+    "partOfSpeech": "vb",
+    "definition": "we will go to meet her at her house",
+    "seeAlso": [
+      "aługwig̲eliudama"
+    ]
+  },
+  "alxug̲uya": {
+    "root": "alxug̲uya",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) will camp",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "alxuwíchgwama": {
+    "root": "alxuwíchgwama",
+    "partOfSpeech": "vb",
+    "definition": "let's go pow- wow dance",
+    "seeAlso": [
+      "-WI"
+    ]
+  },
+  "alxuxa": {
+    "root": "alxuxa",
+    "partOfSpeech": "vb",
+    "definition": "we will be, we will stay See also: -X̲, -x-X̲"
+  },
+  "alxuxwa": {
+    "root": "alxuxwa",
+    "partOfSpeech": "vb",
+    "definition": "we will be, we will stay See also: -X̲, -x-X̲"
+  },
+  "alxuya": {
+    "root": "alxuya",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will go [WTI.3.8, 12.4, 15.6], let us go [WTI.13.1, IV.1.2, 2.4]",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "alxám": {
+    "root": "alxám",
+    "partOfSpeech": "vb",
+    "definition": "tell her!",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "alxłaida": {
+    "root": "alxłaida",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) will die",
+    "seeAlso": [
+      "-x-ŁA-it"
+    ]
+  },
+  "alxłxelma": {
+    "root": "alxłxelma",
+    "partOfSpeech": "vb",
+    "definition": "we will eat",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "alxłxélmama": {
+    "root": "alxłxélmama",
+    "partOfSpeech": "vb",
+    "definition": "we will go eat, let's go eat",
+    "seeAlso": [
+      "-ŁX̲LM"
     ]
   },
   "aláaa": {
