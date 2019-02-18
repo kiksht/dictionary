@@ -2589,6 +2589,41 @@
       "-ŁX̲LM"
     ]
   },
+  "am": {
+    "root": "am",
+    "partOfSpeech": "interj",
+    "definition": "oh",
+    "examples": [
+      {
+        "kiksht": "Am iyag̲elmakshti!",
+        "english": "Oh the stinker! [WTI.18.7]"
+      }
+    ]
+  },
+  "amagilaida": {
+    "root": "amagilaida",
+    "partOfSpeech": "vb",
+    "definition": "you will treat her",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "amag̲elgla": {
+    "root": "amag̲elgla",
+    "partOfSpeech": "vb",
+    "definition": "you will see her",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "amalimałxíxida": {
+    "root": "amalimałxíxida",
+    "partOfSpeech": "vb",
+    "definition": "you will fall into the water",
+    "seeAlso": [
+      "-a-l-IMA-łx"
+    ]
+  },
   "ałag̲útłqt akłmín": {
     "root": "ałag̲útłqt akłmín",
     "partOfSpeech": "n",
@@ -3094,6 +3129,207 @@
       "diwi, qadash"
     ]
   },
+  "ałshgemxagaba": {
+    "root": "ałshgemxagaba",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will work on it[ish-]",
+    "seeAlso": [
+      "-xm-KA-pa"
+    ]
+  },
+  "ałshxúłgaxida": {
+    "root": "ałshxúłgaxida",
+    "partOfSpeech": "vb",
+    "definition": "it[ish-] will be finished",
+    "seeAlso": [
+      "-ł-x-ŁKA-xit"
+    ]
+  },
+  "ałtxuida": {
+    "root": "ałtxuida",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will stand up",
+    "seeAlso": [
+      "-TX(WI)"
+    ]
+  },
+  "ałtxwida": {
+    "root": "ałtxwida",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will stand up",
+    "seeAlso": [
+      "-TX(WI)-it"
+    ]
+  },
+  "aługwashgíwagwachgwa": {
+    "root": "aługwashgíwagwachgwa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will travel over them",
+    "seeAlso": [
+      "-SHGIWA-kw"
+    ]
+  },
+  "aługwaya": {
+    "root": "aługwaya",
+    "partOfSpeech": "vb",
+    "definition": "it will fly",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "aługwig̲éliudama": {
+    "root": "aługwig̲éliudama",
+    "partOfSpeech": "vb",
+    "definition": "they will go to meet her at her house",
+    "seeAlso": [
+      "alxugwig̲éliudama"
+    ]
+  },
+  "aług̲emshta": {
+    "root": "aług̲emshta",
+    "partOfSpeech": "vb",
+    "definition": "they will drink",
+    "seeAlso": [
+      "-QEMSHT"
+    ]
+  },
+  "aług̲uya": {
+    "root": "aług̲uya",
+    "partOfSpeech": "vb",
+    "definition": "they will pass (nights)",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "ałulaida": {
+    "root": "ałulaida",
+    "partOfSpeech": "vb",
+    "definition": "they will sit",
+    "seeAlso": [
+      "-LA-it"
+    ]
+  },
+  "ałumqda": {
+    "root": "ałumqda",
+    "partOfSpeech": "vb",
+    "definition": "she[ił-] will die",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "ałumqta": {
+    "root": "ałumqta",
+    "partOfSpeech": "vb",
+    "definition": "it will die [WTI.2.24, II.2.3], he[ił-] will die [WTI.9.13], they would die [WTIV.3.2]",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "ałuya": {
+    "root": "ałuya",
+    "partOfSpeech": "vb",
+    "definition": "it will go [WTI.1c.6], he[ił- ] will go [WTII.9.2]",
+    "examples": [
+      {
+        "kiksht": "Aish k'ala amshgnuxa k'mekedesh gigwáladamt ichq'aqshtaq, qádachix iłqawulqt daława ałuya gigwáladamt wilxyamt.",
+        "english": "Just carry me on my back so that my head is downward, so that my blood will flow downward to the ground. [WTI.1c.6]"
+      }
+    ],
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "ałułaida": {
+    "root": "ałułaida",
+    "partOfSpeech": "vb",
+    "definition": "it (snow) will fall",
+    "notes": [
+      "Literally \"it will settle.\""
+    ],
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "ałxatxa": {
+    "root": "ałxatxa",
+    "partOfSpeech": "vb",
+    "definition": "it will become [WTII.7.2], they will become [WTIV.2.22]",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "ałxduma": {
+    "root": "ałxduma",
+    "partOfSpeech": "vb",
+    "definition": "she[ił-] will give birth",
+    "seeAlso": [
+      "-x-TUM"
+    ]
+  },
+  "ałxelg̲ayax": {
+    "root": "ałxelg̲ayax",
+    "partOfSpeech": "vb",
+    "definition": "he is groaning",
+    "seeAlso": [
+      "-a-xl- G̲AYA"
+    ]
+  },
+  "ałxilax": {
+    "root": "ałxilax",
+    "partOfSpeech": "vb",
+    "definition": "they are eating it[a-]",
+    "seeAlso": [
+      "-xi-LAX̲"
+    ]
+  },
+  "ałxilxuł": {
+    "root": "ałxilxuł",
+    "partOfSpeech": "vb",
+    "definition": "he will dipnet-fish",
+    "seeAlso": [
+      "-a-xi-LXUŁ"
+    ]
+  },
+  "ałxlaya": {
+    "root": "ałxlaya",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will move himself, he[ił-] will train",
+    "seeAlso": [
+      "-x-LA"
+    ]
+  },
+  "ałxuxwa": {
+    "root": "ałxuxwa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will become",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "ałxíluxwa": {
+    "root": "ałxíluxwa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] will do for him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ałxłaida": {
+    "root": "ałxłaida",
+    "partOfSpeech": "vb",
+    "definition": "they will die",
+    "seeAlso": [
+      "-x-ŁA-it, -ŁA-it"
+    ]
+  },
+  "ałxłxelma": {
+    "root": "ałxłxelma",
+    "partOfSpeech": "vb",
+    "definition": "they will eat",
+    "seeAlso": [
+      "-x-ŁX̲LM"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -3160,6 +3396,65 @@
     "definition": "orange (fruit)",
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "i-am": {
+    "root": "i-am",
+    "partOfSpeech": "n",
+    "definition": "father",
+    "forms": [
+      {
+        "kiksht": "winamsh",
+        "english": "my father [Note special form, with possessive prefix - n- and suffix -sh; compare wanaqsh (my mother).]"
+      },
+      {
+        "kiksht": "wimam",
+        "english": "your father"
+      },
+      {
+        "kiksht": "wiyam",
+        "english": "his father"
+      },
+      {
+        "kiksht": "wicham",
+        "english": "her father"
+      },
+      {
+        "kiksht": "wiłam",
+        "english": "their father"
+      },
+      {
+        "kiksht": "ishganámsh",
+        "english": "my 2 fathers"
+      },
+      {
+        "kiksht": "ichmam",
+        "english": "your 2 fathers"
+      },
+      {
+        "kiksht": "itkamksh",
+        "english": "her fa- thers"
+      },
+      {
+        "kiksht": "iłlxamksh",
+        "english": "our (your and my) fathers"
+      },
+      {
+        "kiksht": "iłłamksh",
+        "english": "their fathers [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "adatiłx itkamksh",
+        "english": "her many fathers [Dyk]"
+      }
+    ],
+    "notes": [
+      "winamsh can also be used for address."
+    ],
+    "seeAlso": [
+      "amama, mamash"
     ]
   },
   "i-k'ámunaq": {

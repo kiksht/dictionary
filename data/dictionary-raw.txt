@@ -1021,3 +1021,96 @@ Notes: When a word beginning with a vowel follows, the -i of a¬qi is elided (dr
 a¬qidiwi [conj] just like, just as
 Examples: Iyagalxix ixuxt a¬qidiwi ilipaq. “His penis is just like rope.” [WTI.1c.1]
 See also: diwi, qadash
+
+
+a¬shgemxagaba [vb] he[i¬-] will work on it[ish-]
+See also: -xm-KA-pa
+
+a¬shx ̈¬gaxida [vb] it[ish-] will be finished
+See also: -¬-x-ÒKA-xit
+
+a¬txuida [vb] he[i¬-] will stand up
+See also: -TX(WI)
+
+a¬txwida [vb] he[i¬-] will stand up
+See also: -TX(WI)-it
+
+a¬ugwashgˆwagwachgwa [vb] he[i¬-] will travel over them
+See also: -SHGIWA-kw
+
+a¬ugwaya [vb] it will fly
+See also: -KA
+
+a¬ugwi©éliudama [vb] they will go to meet her at her house
+See also: alxugwi©éliudama
+
+a¬u©emshta [vb] they will drink
+See also: -QEMSHT
+
+a¬u©uya [vb] they will pass (nights)
+See also: -QUI
+
+a¬ulaida [vb] they will sit
+See also: -LA-it
+
+a¬u¬aida [vb] it (snow) will fall
+Notes: Literally “it will settle.”
+See also: -ÒA-it
+
+a¬umqda [vb] she[i¬-] will die
+See also: -MQT
+
+a¬umqta [vb] it will die [WTI.2.24, II.2.3], he[i¬-] will die [WTI.9.13], they would die [WTIV.3.2]
+See also: -MQT
+
+a¬uya [vb] it will go [WTI.1c.6], he[i¬- ] will go [WTII.9.2]
+Examples: Aish k’ala amshgnuxa k’mekedesh gigwÅladamt ichq’aqshtaq, qÅdachix i¬qawulqt da¬awa a¬uya gigwÅladamt wilxyamt. “Just carry me on my back so that my head is downward, so that my blood will flow downward to the ground.” [WTI.1c.6]
+See also: -I
+
+a¬xatxa [vb] it will become [WTII.7.2], they will become [WTIV.2.22]
+See also: -x- ̨
+
+a¬xduma [vb] she[i¬-] will give birth
+See also: -x-TUM
+
+a¬xel©ayax [vb] he is groaning
+See also: -a-xl- ̋AYA
+
+a¬xilax [vb] they are eating it[a-]
+See also: -xi-LA ̨
+
+a¬xˆluxwa [vb] he[i¬-] will do for him
+See also: - ̨
+
+a¬xilxu¬ [vb] he will dipnet-fish
+See also: -a-xi-LXUÒ
+
+a¬xlaya [vb] he[i¬-] will move himself, he[i¬-] will train
+See also: -x-LA
+
+a¬x¬aida [vb] they will die
+See also: -x-ÒA-it, -ÒA-it
+
+a¬x¬xelma [vb] they will eat
+See also: -x-Ò ̨LM
+
+a¬xuxwa [vb] he[i¬-] will become
+See also: - ̨, -x- ̨
+
+am [interj] oh
+Examples: Am iya©elmakshti! “Oh the stinker!” [WTI.18.7]
+
+i-am [n] father
+Forms: winamsh “my father” [Note special form, with possessive prefix - n- and suffix -sh; compare wanaqsh (my mother).] wimam “your father” wiyam “his father” wicham “her father” wi¬am “their father” ishganÅmsh “my 2 fathers” ichmam “your 2 fathers” itkamksh “her fa- thers” i¬lxamksh “our (your and my) fathers” i¬¬amksh “their fathers” [Dyk]
+Examples: adati¬x itkamksh “her many fathers” [Dyk]
+Notes: winamsh can also be used for address.
+See also: amama, mamash
+
+amagilaida [vb] you will treat her
+See also: -gi-LA-it
+
+ama©elgla [vb] you will see her
+See also: -©l-KL
+
+amalima¬xˆxida [vb] you will fall into the water
+See also: -a-l-IMA-¬x
