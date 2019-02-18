@@ -32,6 +32,7 @@ interface Dictionary {
 
 const m = new Map([
     [/Ò/g, "Ł"],
+    [/Ò/g, "Ł"],
     [/¬/g, "ł"],
     [/Å/g, "á"],
     [/Å/g, "á"],
