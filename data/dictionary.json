@@ -114,6 +114,34 @@
       "-NI, -X̲UNI"
     ]
   },
+  "-ániwat": {
+    "root": "-ániwat",
+    "partOfSpeech": "adj",
+    "definition": "first",
+    "forms": [
+      {
+        "kiksht": "shtániwad",
+        "english": "they 2 first [WTI.13.8, 17.2]"
+      },
+      {
+        "kiksht": "inshániwadiksh",
+        "english": "we first [WTIV.2.9]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Aniwat axk'eskax k'ala gagiux.",
+        "english": "The youngest one carried him first. [WTI.1c.6]"
+      },
+      {
+        "kiksht": "Mániwat mia.",
+        "english": "You go first. [WTI.1e.2]"
+      }
+    ],
+    "seeAlso": [
+      "yániwadix"
+    ]
+  },
   "Agac'ia": {
     "root": "Agac'ia",
     "partOfSpeech": "place",
@@ -4131,6 +4159,193 @@
       "g̲ang̲adix"
     ]
   },
+  "anialuxa": {
+    "root": "anialuxa",
+    "partOfSpeech": "vb",
+    "definition": "I will put it[i-] into it[a- ]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "anid": {
+    "root": "anid",
+    "partOfSpeech": "vb",
+    "definition": "give it[a-] to me!",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "anigelgaya": {
+    "root": "anigelgaya",
+    "partOfSpeech": "vb",
+    "definition": "I will get it[i-] [WTI.1d.1, III.3.1], I will get him [WTI.15.1]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "anig̲eldáqłqa": {
+    "root": "anig̲eldáqłqa",
+    "partOfSpeech": "vb",
+    "definition": "I will leave him behind",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "anikłaida": {
+    "root": "anikłaida",
+    "partOfSpeech": "vb",
+    "definition": "I will sit on it[i-], I will ride (horse)",
+    "examples": [
+      {
+        "kiksht": "Anikłaida ichkiutan.",
+        "english": "I will ride my horse. [CLL8]"
+      }
+    ],
+    "seeAlso": [
+      "-k-ŁA-it"
+    ]
+  },
+  "aniluda": {
+    "root": "aniluda",
+    "partOfSpeech": "vb",
+    "definition": "I will give it[i-] to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "aniluxa": {
+    "root": "aniluxa",
+    "partOfSpeech": "vb",
+    "definition": "I will make it[i-] for him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "anitxakwchgwa": {
+    "root": "anitxakwchgwa",
+    "partOfSpeech": "vb",
+    "definition": "give it[a-] back to me!",
+    "seeAlso": [
+      "-x-KWCHKW"
+    ]
+  },
+  "aniugmak'ínuaba": {
+    "root": "aniugmak'ínuaba",
+    "partOfSpeech": "vb",
+    "definition": "I will change it[i-]",
+    "seeAlso": [
+      "-gm-K'INUA-pa"
+    ]
+  },
+  "aniug̲emchxuga": {
+    "root": "aniug̲emchxuga",
+    "partOfSpeech": "vb",
+    "definition": "I will ask him",
+    "seeAlso": [
+      "-g̲m-CHX̲U-kw"
+    ]
+  },
+  "aniulxama": {
+    "root": "aniulxama",
+    "partOfSpeech": "vb",
+    "definition": "I will tell him",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "aniunaxłama": {
+    "root": "aniunaxłama",
+    "partOfSpeech": "vb",
+    "definition": "I will go look for him",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "aniuwag̲wa": {
+    "root": "aniuwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "I will kill him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "aniuxwa": {
+    "root": "aniuxwa",
+    "partOfSpeech": "vb",
+    "definition": "I will do it[i-], I will do him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "anix": {
+    "root": "anix",
+    "partOfSpeech": "adv",
+    "definition": "first, and then, and again, finally",
+    "examples": [
+      {
+        "kiksht": "anix, anix, anix",
+        "english": "and then, and then, and then; again and again and again"
+      },
+      {
+        "kiksht": "anix mang iyak'aic",
+        "english": "first a little smaller one"
+      },
+      {
+        "kiksht": "anix daba, ag̲a yáxiba",
+        "english": "first here, then there"
+      },
+      {
+        "kiksht": "Anix iyak'aic igidimam ag̲a iyag̲atł igidimam.",
+        "english": "At first a small one came, and then, now, a large one came. [Dyk]"
+      }
+    ]
+  },
+  "anixbuaya": {
+    "root": "anixbuaya",
+    "partOfSpeech": "vb",
+    "definition": "I will close it[i-]",
+    "seeAlso": [
+      "-x-PU"
+    ]
+  },
+  "anixmishtxama": {
+    "root": "anixmishtxama",
+    "partOfSpeech": "vb",
+    "definition": "I will go borrow it[i-] from him",
+    "seeAlso": [
+      "-MISHTX̲"
+    ]
+  },
+  "aniłxuxtga": {
+    "root": "aniłxuxtga",
+    "partOfSpeech": "vb",
+    "definition": "I will steal it[i-] from him[ił-]",
+    "seeAlso": [
+      "-XTK"
+    ]
+  },
+  "aniłílagwa": {
+    "root": "aniłílagwa",
+    "partOfSpeech": "vb",
+    "definition": "I will throw it[i-] at him[ił-]",
+    "seeAlso": [
+      "-LA-kw, -l-LA-kw"
+    ]
+  },
+  "ank'ínaxtła": {
+    "root": "ank'ínaxtła",
+    "partOfSpeech": "vb",
+    "definition": "I will seek to find, I will look for",
+    "examples": [
+      {
+        "kiksht": "Ank'ínaxtła qaxb(a) uxwáqt idelxam.",
+        "english": "I will seek to find where the people are assembled to- gether. [WTI.11.1]"
+      }
+    ],
+    "seeAlso": [
+      "-NAX̲TŁ"
+    ]
+  },
   "anáaa": {
     "root": "anáaa",
     "partOfSpeech": "interj",
@@ -4152,6 +4367,49 @@
         "kiksht": "Anái idelxam idaxádinax.",
         "english": "They are a dangerous people of warriors. [WTI.1m.7]"
       }
+    ]
+  },
+  "aníii": {
+    "root": "aníii",
+    "partOfSpeech": "interj",
+    "definition": "oh!",
+    "notes": [
+      "An exclamation of fright."
+    ]
+  },
+  "aníii haha": {
+    "root": "aníii haha",
+    "partOfSpeech": "interj",
+    "definition": "oh my goodness!"
+  },
+  "anít": {
+    "root": "anít",
+    "partOfSpeech": "vb",
+    "definition": "give it[a-] to me!",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "anłgelgaya": {
+    "root": "anłgelgaya",
+    "partOfSpeech": "vb",
+    "definition": "I will take it [WTI.1d.8], I will get him[ił-] [WTII.4.1]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "anłselxátgwaya": {
+    "root": "anłselxátgwaya",
+    "partOfSpeech": "vb",
+    "definition": "I will put it[ish-] into him",
+    "examples": [
+      {
+        "kiksht": "Shan wa'au iłgnúx anłslxátgwaya shawalaptin.",
+        "english": "Whoever has challenged me, I will put cheat- grass into him. [WTI.5.4]"
+      }
+    ],
+    "seeAlso": [
+      "-l-xa-TK"
     ]
   },
   "ałag̲útłqt akłmín": {
