@@ -5210,10 +5210,183 @@
       "-T"
     ]
   },
+  "aqdulálama": {
+    "root": "aqdulálama",
+    "partOfSpeech": "vb",
+    "definition": "one will sing",
+    "seeAlso": [
+      "-LALAM"
+    ]
+  },
+  "aqduxwa": {
+    "root": "aqduxwa",
+    "partOfSpeech": "vb",
+    "definition": "one will do them [WTII.2.2], one will make them [WTII.5.1]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "aqdíluxwa": {
     "root": "aqdíluxwa",
     "partOfSpeech": "vb",
     "definition": "one will do them to him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "aqelxchmag̲wa": {
+    "root": "aqelxchmag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "one will hear us, we will be heard",
+    "examples": [
+      {
+        "kiksht": "Qadash aqelxchmag̲wa kanawá nadidanwit idlxámksh.",
+        "english": "We'll all be heard [by] all Indian people. [Spilyay/Vote]"
+      }
+    ],
+    "seeAlso": [
+      "-x-CHMA-qw"
+    ]
+  },
+  "aqemdupqnaya": {
+    "root": "aqemdupqnaya",
+    "partOfSpeech": "vb",
+    "definition": "one will say of you 2",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "aqemgemwichgwa": {
+    "root": "aqemgemwichgwa",
+    "partOfSpeech": "vb",
+    "definition": "one will dance beside you.",
+    "examples": [
+      {
+        "kiksht": "Naika ichxán klaix átgiuxa imigunat alma aqemgemwichgwa.",
+        "english": "My son, let's keep that one separate for your first catch ceremony. [Spilyay/going fishing]"
+      }
+    ],
+    "notes": [
+      "Literally \"one (-q-) will (a- -a) dance (-wi-chgw-) beside (-gm-) you (-m-).\" In its original context, refers to the dancing done at the first-fish ceremony."
+    ],
+    "seeAlso": [
+      "-WI"
+    ]
+  },
+  "aqemgílaida": {
+    "root": "aqemgílaida",
+    "partOfSpeech": "vb",
+    "definition": "one will doctor you, you will be doctored",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "aqiawixa": {
+    "root": "aqiawixa",
+    "partOfSpeech": "vb",
+    "definition": "one will make it[i-] for them [?]",
+    "examples": [
+      {
+        "kiksht": "Tłxaptłxap aqiawixa itc'émnamax.",
+        "english": "Holes are made for the staging-poles. [WTII.7.1]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "aqigatg̲wayaxdixa": {
+    "root": "aqigatg̲wayaxdixa",
+    "partOfSpeech": "vb",
+    "definition": "one will turn him over, he will be turned over",
+    "seeAlso": [
+      "-i-k-TQW-ix"
+    ]
+  },
+  "aqigelgaya": {
+    "root": "aqigelgaya",
+    "partOfSpeech": "vb",
+    "definition": "one will catch it[i-], it[i-] will be caught",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "aqikxichwaya": {
+    "root": "aqikxichwaya",
+    "partOfSpeech": "vb",
+    "definition": "one will discuss it[i-], it[i-] will be discussed",
+    "seeAlso": [
+      "-k-xi-CHU, -xi-CHU"
+    ]
+  },
+  "aqiug̲wapga": {
+    "root": "aqiug̲wapga",
+    "partOfSpeech": "vb",
+    "definition": "one will steam it[i-], it[i-] will be steamed",
+    "seeAlso": [
+      "-QAPK"
+    ]
+  },
+  "aqiug̲wilxma": {
+    "root": "aqiug̲wilxma",
+    "partOfSpeech": "vb",
+    "definition": "one will strike him",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "aqiukła": {
+    "root": "aqiukła",
+    "partOfSpeech": "vb",
+    "definition": "one will take him",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "aqiuxwa": {
+    "root": "aqiuxwa",
+    "partOfSpeech": "vb",
+    "definition": "one will do to it[i-] [WTI.1a6, II.2.1], one will make it[i-] [WTII.5.1]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "aqixlłxwaya": {
+    "root": "aqixlłxwaya",
+    "partOfSpeech": "vb",
+    "definition": "one will put it[i-] around oneself, one will wear it[i-] around one's neck",
+    "seeAlso": [
+      "-l-ŁX̲WA"
+    ]
+  },
+  "aqiáwimagwa": {
+    "root": "aqiáwimagwa",
+    "partOfSpeech": "vb",
+    "definition": "one will distribute them[i-] to them",
+    "seeAlso": [
+      "-MA-kw"
+    ]
+  },
+  "aqiútgama": {
+    "root": "aqiútgama",
+    "partOfSpeech": "vb",
+    "definition": "one will go to de- posit him",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "aqiłkxaima": {
+    "root": "aqiłkxaima",
+    "partOfSpeech": "vb",
+    "definition": "one will lay it[i-] on it",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "aqiłluxwa": {
+    "root": "aqiłluxwa",
+    "partOfSpeech": "vb",
+    "definition": "one will do it[i-] to them [WTII.2.2], one will do it[i-] onto it [WTII.2.3]",
     "seeAlso": [
       "-X̲"
     ]
@@ -5232,6 +5405,51 @@
     "definition": "one will bring it[a-], it[a-] will be brought",
     "seeAlso": [
       "-TŁ-am"
+    ]
+  },
+  "aqídwag̲wa": {
+    "root": "aqídwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "one will kill him, he will be killed",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "aqíluda": {
+    "root": "aqíluda",
+    "partOfSpeech": "vb",
+    "definition": "one will give it[i-] to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "aqłakátgwaya": {
+    "root": "aqłakátgwaya",
+    "partOfSpeech": "vb",
+    "definition": "one will pile them on it[a-], they will be piled on it[a-]",
+    "seeAlso": [
+      "-KWA"
+    ]
+  },
+  "aqłgelgaya": {
+    "root": "aqłgelgaya",
+    "partOfSpeech": "vb",
+    "definition": "one will take him[ił- ], he[ił-] will be taken",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "aqłg̲elglaya": {
+    "root": "aqłg̲elglaya",
+    "partOfSpeech": "vb",
+    "definition": "one will see him[ił-] See also: -g̲l-KL"
+  },
+  "aqłáluxwa": {
+    "root": "aqłáluxwa",
+    "partOfSpeech": "vb",
+    "definition": "one will do them onto her",
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "ałag̲útłqt akłmín": {
