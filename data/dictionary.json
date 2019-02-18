@@ -3849,12 +3849,60 @@
       "-x-TK'I-qw"
     ]
   },
+  "amxuxwa": {
+    "root": "amxuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you will become, you will make yourself",
+    "seeAlso": [
+      "-x"
+    ]
+  },
   "amxłuxwaida": {
     "root": "amxłuxwaida",
     "partOfSpeech": "vb",
     "definition": "you will think",
     "seeAlso": [
       "-x-ŁUXWA"
+    ]
+  },
+  "amyug̲wilxma": {
+    "root": "amyug̲wilxma",
+    "partOfSpeech": "vb",
+    "definition": "you will hit him",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "amyulaba": {
+    "root": "amyulaba",
+    "partOfSpeech": "vb",
+    "definition": "you will dig it[i-] out",
+    "seeAlso": [
+      "-LA-pa"
+    ]
+  },
+  "amyupg̲naya": {
+    "root": "amyupg̲naya",
+    "partOfSpeech": "vb",
+    "definition": "you will call it[i-], you will name it[i-]",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "amyutka": {
+    "root": "amyutka",
+    "partOfSpeech": "vb",
+    "definition": "you will put it[i-] away",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "amyuxa": {
+    "root": "amyuxa",
+    "partOfSpeech": "vb",
+    "definition": "you will do it[i-]",
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "amánluda": {
@@ -3932,6 +3980,178 @@
     "definition": "you will go eat",
     "seeAlso": [
       "-ŁX̲LM"
+    ]
+  },
+  "anaixemlalma": {
+    "root": "anaixemlalma",
+    "partOfSpeech": "vb",
+    "definition": "I will buy her from him",
+    "seeAlso": [
+      "-MLAL"
+    ]
+  },
+  "anakxaludaichgwa": {
+    "root": "anakxaludaichgwa",
+    "partOfSpeech": "vb",
+    "definition": "I will associ- ate with her [Sapir], I will be friendly with her [GT 1/14/99]",
+    "seeAlso": [
+      "-k-XALUDAI-chkw, i- -xalut"
+    ]
+  },
+  "anat": {
+    "root": "anat",
+    "partOfSpeech": "adv",
+    "definition": "on one side",
+    "examples": [
+      {
+        "kiksht": "Gachigelga iqtáłx; shapsháp gachiux anat; galixux ałqidiwi aq'iwiqi ichak'isił.",
+        "english": "He took a flint; he chipped it on one side; it became just like a sharp knife. [WTI.1d.7]"
+      }
+    ]
+  },
+  "anatxax": {
+    "root": "anatxax",
+    "partOfSpeech": "vb",
+    "definition": "I will do her",
+    "notes": [
+      "The absence of a final -a suf- fix in this future tense verb is un- usual. Perhaps it was elided (slurred over) before the word aish which began the following sentence."
+    ],
+    "seeAlso": [
+      "-x"
+    ]
+  },
+  "andemqta": {
+    "root": "andemqta",
+    "partOfSpeech": "vb",
+    "definition": "I will die",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "andigílaida": {
+    "root": "andigílaida",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) will doctor him",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "andugwalmama": {
+    "root": "andugwalmama",
+    "partOfSpeech": "vb",
+    "definition": "I will go get them",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "andushtxwa": {
+    "root": "andushtxwa",
+    "partOfSpeech": "vb",
+    "definition": "I will pack them",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "anduxa": {
+    "root": "anduxa",
+    "partOfSpeech": "vb",
+    "definition": "I will do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "anduxwa": {
+    "root": "anduxwa",
+    "partOfSpeech": "vb",
+    "definition": "I will do to them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "anduya": {
+    "root": "anduya",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) will go",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "andíluda": {
+    "root": "andíluda",
+    "partOfSpeech": "vb",
+    "definition": "I will give them to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "andímama": {
+    "root": "andímama",
+    "partOfSpeech": "vb",
+    "definition": "I would come",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "anelgaxlit": {
+    "root": "anelgaxlit",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is sticking me",
+    "examples": [
+      {
+        "kiksht": "Saicexcéx anelgaxlit aq'íxapdix.",
+        "english": "The needle is sticking me painfully. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-l-GA-xit"
+    ]
+  },
+  "angima": {
+    "root": "angima",
+    "partOfSpeech": "vb",
+    "definition": "I will say",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "anglalama": {
+    "root": "anglalama",
+    "partOfSpeech": "vb",
+    "definition": "I will sing",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "ang̲adix": {
+    "root": "ang̲adix",
+    "partOfSpeech": "adv",
+    "definition": "long ago",
+    "pronunciation": "áng̲adix: WT; ang̲ádix: GT, MMc 1/14/99",
+    "seeAlso": [
+      "g̲ang̲adix"
+    ]
+  },
+  "anáaa": {
+    "root": "anáaa",
+    "partOfSpeech": "interj",
+    "definition": "oh!, ouch!",
+    "notes": [
+      "A cry of pain or fright."
+    ]
+  },
+  "anái": {
+    "root": "anái",
+    "partOfSpeech": "part",
+    "definition": "danger, beware!",
+    "examples": [
+      {
+        "kiksht": "Anái ich'maxix!",
+        "english": "Danger! rattlesnake! [Dyk]"
+      },
+      {
+        "kiksht": "Anái idelxam idaxádinax.",
+        "english": "They are a dangerous people of warriors. [WTI.1m.7]"
+      }
     ]
   },
   "ałag̲útłqt akłmín": {
@@ -4700,6 +4920,27 @@
       "-NI"
     ]
   },
+  "i- -ánana": {
+    "root": "i- -ánana",
+    "partOfSpeech": "adj n",
+    "definition": "sick",
+    "forms": [
+      {
+        "kiksht": "ichánana",
+        "english": "I'm sick [said by a child]"
+      },
+      {
+        "kiksht": "imyánana",
+        "english": "you're sick [said to a child] [Dyk]"
+      }
+    ],
+    "notes": [
+      "Used only by or to children."
+    ],
+    "seeAlso": [
+      "ánana"
+    ]
+  },
   "i-'álenchish": {
     "root": "i-'álenchish",
     "partOfSpeech": "n",
@@ -5073,6 +5314,37 @@
     ],
     "notes": [
       "Most commonly a cry for help. Dyk labels it \"a woman's word.\" See also: anáaa, aláaa"
+    ]
+  },
+  "ánana(na)": {
+    "root": "ánana(na)",
+    "partOfSpeech": "interj",
+    "definition": "gee!, hurt",
+    "forms": [
+      {
+        "kiksht": "ichánana",
+        "english": "I'm sick! I'm hurt! (used by children) [DykGr 141]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Kw'ashka ánana amxuxa!",
+        "english": "Don't, you'll hurt yourself."
+      },
+      {
+        "kiksht": "Anan(a) inxux.",
+        "english": "Gee, I hurt myself."
+      },
+      {
+        "kiksht": "Anananana ixłeldix.",
+        "english": "Gee it's hot [used by older people]. [Dyk]"
+      }
+    ],
+    "notes": [
+      "A term used by old people or by children, or to children to warm them not to do something dangerous or naughty."
+    ],
+    "seeAlso": [
+      "i- -ánana"
     ]
   }
 }
