@@ -5699,6 +5699,82 @@
       "-X̲"
     ]
   },
+  "ashkg̲íłtia": {
+    "root": "ashkg̲íłtia",
+    "partOfSpeech": "vb",
+    "definition": "it will rain",
+    "seeAlso": [
+      "-sht- G̲IŁTI"
+    ]
+  },
+  "ashktaya": {
+    "root": "ashktaya",
+    "partOfSpeech": "vb",
+    "definition": "they 2 will run",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "ashkxaimat": {
+    "root": "ashkxaimat",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is lying on them 2",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "ashtugwílaida": {
+    "root": "ashtugwílaida",
+    "partOfSpeech": "vb",
+    "definition": "they 2 will doctor",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "ashxatxa": {
+    "root": "ashxatxa",
+    "partOfSpeech": "vb",
+    "definition": "it[ish-] will happen",
+    "examples": [
+      {
+        "kiksht": "Ishg̲iłti ashxatxa.",
+        "english": "It will rain. [WTIV.2.20]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "ashxemt'aiwichgwa": {
+    "root": "ashxemt'aiwichgwa",
+    "partOfSpeech": "vb",
+    "definition": "they 2 will race against each other",
+    "seeAlso": [
+      "-gm-T'A-yu-chkw"
+    ]
+  },
+  "ashxuxwa": {
+    "root": "ashxuxwa",
+    "partOfSpeech": "vb",
+    "definition": "it[ish-] will happen",
+    "examples": [
+      {
+        "kiksht": "Ashxuxwa ishg̲iłti.",
+        "english": "It will rain. [WTIV.2.2]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "ashxwkw'aya": {
+    "root": "ashxwkw'aya",
+    "partOfSpeech": "vb",
+    "definition": "they 2 will go home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
   "asuxibúnanenxła": {
     "root": "asuxibúnanenxła",
     "partOfSpeech": "vb",
@@ -5713,6 +5789,186 @@
     "definition": "on Sunday",
     "seeAlso": [
       "a-sandi, sándibaix"
+    ]
+  },
+  "atai": {
+    "root": "atai",
+    "partOfSpeech": "interj",
+    "definition": "wow!, look at that!",
+    "notes": [
+      "An expression of surprise or astonishment, as when someone comes in unexpectedly."
+    ]
+  },
+  "atgadya": {
+    "root": "atgadya",
+    "partOfSpeech": "vb",
+    "definition": "they will come",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "atgadímama": {
+    "root": "atgadímama",
+    "partOfSpeech": "vb",
+    "definition": "they will come",
+    "seeAlso": [
+      "-i, -d-I-mam"
+    ]
+  },
+  "atgeksta": {
+    "root": "atgeksta",
+    "partOfSpeech": "vb",
+    "definition": "they will be done, they will be cooked",
+    "seeAlso": [
+      "-KST"
+    ]
+  },
+  "atgia": {
+    "root": "atgia",
+    "partOfSpeech": "vb",
+    "definition": "they will go, they will come",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "atgigelgaya": {
+    "root": "atgigelgaya",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will take it[i-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "atgigílalama": {
+    "root": "atgigílalama",
+    "partOfSpeech": "vb",
+    "definition": "they will sing for him",
+    "seeAlso": [
+      "-LALAM"
+    ]
+  },
+  "atgiukła": {
+    "root": "atgiukła",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will take it[i-], we 2 will carry it[i-]",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "atgiumdámida": {
+    "root": "atgiumdámida",
+    "partOfSpeech": "vb",
+    "definition": "they will sell them[i-]",
+    "seeAlso": [
+      "-MTA"
+    ]
+  },
+  "atgiuxa": {
+    "root": "atgiuxa",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will do it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "atgiuxwa": {
+    "root": "atgiuxwa",
+    "partOfSpeech": "vb",
+    "definition": "they used to do it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "atgshugwálmama": {
+    "root": "atgshugwálmama",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) will go bring them 2 back",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "atgsuxwa": {
+    "root": "atgsuxwa",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will make them 2",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "atgugigaya": {
+    "root": "atgugigaya",
+    "partOfSpeech": "n",
+    "definition": "we 2 will catch them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "atguxwa": {
+    "root": "atguxwa",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) will make it[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "atkbaiwa": {
+    "root": "atkbaiwa",
+    "partOfSpeech": "vb",
+    "definition": "they will each go out",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "atkdaluda": {
+    "root": "atkdaluda",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will give them to her",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "atkdiluda": {
+    "root": "atkdiluda",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will give them to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "atkigelgaya": {
+    "root": "atkigelgaya",
+    "partOfSpeech": "vb",
+    "definition": "they will catch it[i-]",
+    "examples": [
+      {
+        "kiksht": "Shmanix atgadímama idlxam atkigelgaya ixq'íwalal.",
+        "english": "When the people come, they will catch fish. [WTI.1a6]"
+      }
+    ],
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "atksak'lutkama": {
+    "root": "atksak'lutkama",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will look at it[a-], let's us 2 look at it[a-]",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "atkłgelgaya": {
+    "root": "atkłgelgaya",
+    "partOfSpeech": "vb",
+    "definition": "let us 2 take it, we 2 will take it",
+    "examples": [
+      {
+        "kiksht": "Naqi atkłgelgaya iłk'ashkash, isk'ulya yaxtau.",
+        "english": "Let's not take the child, that's Coyote. [WTI.1a5]"
+      }
+    ],
+    "seeAlso": [
+      "-gl-GA"
     ]
   },
   "ałag̲útłqt akłmín": {
@@ -6419,6 +6675,24 @@
     "definition": "they will eat",
     "seeAlso": [
       "-x-ŁX̲LM"
+    ]
+  },
+  "åsht": {
+    "root": "åsht",
+    "partOfSpeech": "part",
+    "definition": "finally, at last",
+    "examples": [
+      {
+        "kiksht": "åsht igikiłq.",
+        "english": "He finally won. [Dyk]"
+      },
+      {
+        "kiksht": "åsht gashdułxuxwitx",
+        "english": "they 2 were beaten, they lost [WTI.11.8]"
+      }
+    ],
+    "notes": [
+      "Used only of winning or los- ing at games."
     ]
   },
   "dauya": {
