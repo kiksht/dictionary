@@ -3056,6 +3056,240 @@
       "-X̲"
     ]
   },
+  "amshgagelga": {
+    "root": "amshgagelga",
+    "partOfSpeech": "vb",
+    "definition": "you will take hold of it[a-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "amshgenxchmag̲wa": {
+    "root": "amshgenxchmag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will hear me",
+    "seeAlso": [
+      "-x-CHMA-qw"
+    ]
+  },
+  "amshgigelga": {
+    "root": "amshgigelga",
+    "partOfSpeech": "vb",
+    "definition": "you will take hold of him",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "amshginglutka": {
+    "root": "amshginglutka",
+    "partOfSpeech": "vb",
+    "definition": "you folks will put it[i-] away for me",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "amshgitła": {
+    "root": "amshgitła",
+    "partOfSpeech": "vb",
+    "definition": "you folks will bring them[i-]",
+    "seeAlso": [
+      "-TŁ"
+    ]
+  },
+  "amshgiubúnachgwa": {
+    "root": "amshgiubúnachgwa",
+    "partOfSpeech": "vb",
+    "definition": "you will lift him up",
+    "seeAlso": [
+      "-BUNA-chkw"
+    ]
+  },
+  "amshgiukła": {
+    "root": "amshgiukła",
+    "partOfSpeech": "vb",
+    "definition": "you folks will take him along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "amshgiupg̲na": {
+    "root": "amshgiupg̲na",
+    "partOfSpeech": "vb",
+    "definition": "you folks will call it[i-]",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "amshgiuxa": {
+    "root": "amshgiuxa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will make it[i-], you folks will do it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amshgiuxwa": {
+    "root": "amshgiuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will do him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amshgiúkshtama": {
+    "root": "amshgiúkshtama",
+    "partOfSpeech": "vb",
+    "definition": "you folks will go look for him",
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "amshgluma": {
+    "root": "amshgluma",
+    "partOfSpeech": "vb",
+    "definition": "you folks will shout",
+    "seeAlso": [
+      "-k-LUMA"
+    ]
+  },
+  "amshgnukła": {
+    "root": "amshgnukła",
+    "partOfSpeech": "vb",
+    "definition": "you folks will carry me",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "amshgnuxa": {
+    "root": "amshgnuxa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will make me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amshgáiluda": {
+    "root": "amshgáiluda",
+    "partOfSpeech": "vb",
+    "definition": "you folks will give her to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "amshgíwalma": {
+    "root": "amshgíwalma",
+    "partOfSpeech": "vb",
+    "definition": "you will travel",
+    "examples": [
+      {
+        "kiksht": "Qadash qikláix alma amshgíwalma!",
+        "english": "Be sure to have a pleasant journey! [Spilyay/Huckle- berry 4]"
+      }
+    ],
+    "seeAlso": [
+      "-SHGIWA"
+    ]
+  },
+  "amshkiugalmama": {
+    "root": "amshkiugalmama",
+    "partOfSpeech": "vb",
+    "definition": "you folks will go for him",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "amshklalama": {
+    "root": "amshklalama",
+    "partOfSpeech": "vb",
+    "definition": "you folks will sing",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "amshkshuxwa": {
+    "root": "amshkshuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you will do it[ish- ]",
+    "examples": [
+      {
+        "kiksht": "Łk'ub amshkshuxwa.",
+        "english": "You will shoot. [WTIV.2.17]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, łk'up -sh-l-X̲"
+    ]
+  },
+  "amshktugwálmama": {
+    "root": "amshktugwálmama",
+    "partOfSpeech": "vb",
+    "definition": "you folks will go get them",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "amshktuxwa": {
+    "root": "amshktuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amshkłg̲elgela": {
+    "root": "amshkłg̲elgela",
+    "partOfSpeech": "vb",
+    "definition": "you folks will see them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "amshkłuwag̲wa": {
+    "root": "amshkłuwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will kill them",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "amshkłuxwa": {
+    "root": "amshkłuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amshlukwłichgwa": {
+    "root": "amshlukwłichgwa",
+    "partOfSpeech": "vb",
+    "definition": "I will tell you folks something",
+    "seeAlso": [
+      "-KWŁI"
+    ]
+  },
+  "amshukstámita": {
+    "root": "amshukstámita",
+    "partOfSpeech": "vb",
+    "definition": "you will cook them 2",
+    "seeAlso": [
+      "-KSTA-mit"
+    ]
+  },
+  "amshuxa": {
+    "root": "amshuxa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will do it[a-], you folks will make it[a-]",
+    "examples": [
+      {
+        "kiksht": "Amshuxa aqłálgiłxal itłáulalxam.",
+        "english": "You strangers will go to the sweathouse. [WTI.4.10; perhaps implying that those addressed will make (or rebuild) the sweathouse, as was customary.]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "amsuxwa": {
     "root": "amsuxwa",
     "partOfSpeech": "vb",
