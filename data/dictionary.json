@@ -158,6 +158,14 @@
     "partOfSpeech": "place",
     "definition": "Mt. Hood"
   },
+  "At'at'ałiya": {
+    "root": "At'at'ałiya",
+    "partOfSpeech": "n",
+    "definition": "Owl Woman, Basket Woman, ogress",
+    "notes": [
+      "A legendary figure who is believed to grab children, throw them into a basket, take them home and eat them."
+    ]
+  },
   "a'a'": {
     "root": "a'a'",
     "partOfSpeech": "part",
@@ -5957,6 +5965,14 @@
       "-s-k'l-TK"
     ]
   },
+  "atksik'lutkama": {
+    "root": "atksik'lutkama",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will look at it[i-], let's us 2 look at it[i-]",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
   "atkłgelgaya": {
     "root": "atkłgelgaya",
     "partOfSpeech": "vb",
@@ -5969,6 +5985,204 @@
     ],
     "seeAlso": [
       "-gl-GA"
+    ]
+  },
+  "atpx": {
+    "root": "atpx",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is coming out, it[a-] (the sun) is rising",
+    "examples": [
+      {
+        "kiksht": "Anuy(a) atpxiamt ag̲ałax.",
+        "english": "I will go towards the rising sun. [WTI.11.9]"
+      }
+    ],
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "atxelp'alaulalma": {
+    "root": "atxelp'alaulalma",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will talk to each other",
+    "seeAlso": [
+      "-P'ALAU-lal"
+    ]
+  },
+  "atxemqta": {
+    "root": "atxemqta",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) will die",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "atxenk'ánxudama": {
+    "root": "atxenk'ánxudama",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will go fishing",
+    "seeAlso": [
+      "-xn-K'ANQUT"
+    ]
+  },
+  "atxkw'aya": {
+    "root": "atxkw'aya",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) will go home [WTI.2.16], let us 2 go home [WTI.17.12]",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "atxugwílaida": {
+    "root": "atxugwílaida",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) will doctor",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "atxug̲wa": {
+    "root": "atxug̲wa",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) will join in (a gathering)",
+    "seeAlso": [
+      "-QW"
+    ]
+  },
+  "atxutxwidama": {
+    "root": "atxutxwidama",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) will come to a stand",
+    "seeAlso": [
+      "-TX(WI)-it"
+    ]
+  },
+  "atxuya": {
+    "root": "atxuya",
+    "partOfSpeech": "vb",
+    "definition": "let us 2 go, we 2 will go",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "atxwag̲wa": {
+    "root": "atxwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) will kill each other",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "atxálutga": {
+    "root": "atxálutga",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will sweat",
+    "seeAlso": [
+      "-xa-l-u-TK"
+    ]
+  },
+  "atxámxuxwa": {
+    "root": "atxámxuxwa",
+    "partOfSpeech": "vb",
+    "definition": "they will do you",
+    "examples": [
+      {
+        "kiksht": "Kw'ash atxámxuxwa idelxam.",
+        "english": "The people will be afraid of you. [WTI.1j.4]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "atxłat'amanqma": {
+    "root": "atxłat'amanqma",
+    "partOfSpeech": "vb",
+    "definition": "we will swallow each other",
+    "seeAlso": [
+      "-łat'amlq, gachiułat'amlq, achnułat'amlqma"
+    ]
+  },
+  "atxłxélmama": {
+    "root": "atxłxélmama",
+    "partOfSpeech": "vb",
+    "definition": "we 2 will go eat",
+    "seeAlso": [
+      "-x-ŁX̲LM"
+    ]
+  },
+  "atłitłáidama": {
+    "root": "atłitłáidama",
+    "partOfSpeech": "vb",
+    "definition": "they will come to him[ił-], they will settle into his[ił-] net",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "atłúg": {
+    "root": "atłúg",
+    "partOfSpeech": "vb",
+    "definition": "give her!, bring her!",
+    "examples": [
+      {
+        "kiksht": "Atłúg amixan, alamxlkchwaya.",
+        "english": "Give us your daugh- ter, you will let her fall. [WTI.5.2]"
+      }
+    ],
+    "seeAlso": [
+      "-TŁUK"
+    ]
+  },
+  "au": {
+    "root": "au",
+    "partOfSpeech": "part",
+    "definition": "assent, say yes",
+    "examples": [
+      {
+        "kiksht": "Au gakshúx.",
+        "english": "She assented to them 2, she said yes to them 2. [WTI.2.27]"
+      },
+      {
+        "kiksht": "Au igixux.",
+        "english": "Alright, he said."
+      },
+      {
+        "kiksht": "Qidau au ixá!",
+        "english": "Alright, do it like that! [Dyk]"
+      }
+    ]
+  },
+  "awi": {
+    "root": "awi",
+    "partOfSpeech": "n",
+    "definition": "younger brother! [address]",
+    "forms": [
+      {
+        "kiksht": "awimax!",
+        "english": "younger brothers!"
+      },
+      {
+        "kiksht": "awichuxix!",
+        "english": "my dear younger brother! [Dyk]"
+      }
+    ]
+  },
+  "awikítk": {
+    "root": "awikítk",
+    "partOfSpeech": "vb",
+    "definition": "put them in!",
+    "examples": [
+      {
+        "kiksht": "Awikítk idmik'itit ichemkałba!",
+        "english": "Put your clothes in the basket!"
+      },
+      {
+        "kiksht": "Awikítk idmiximutxmat waskanba!",
+        "english": "Put your toys in the box! [Spilyay/KidTalk]"
+      }
+    ],
+    "seeAlso": [
+      "-l-ki-TK"
     ]
   },
   "ałag̲útłqt akłmín": {
@@ -6784,6 +6998,14 @@
       "Borrowed from English."
     ]
   },
+  "i-'átmupil": {
+    "root": "i-'átmupil",
+    "partOfSpeech": "n",
+    "definition": "car, automobile",
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
   "i-am": {
     "root": "i-am",
     "partOfSpeech": "n",
@@ -6898,6 +7120,14 @@
     ],
     "seeAlso": [
       "i-kaqmit"
+    ]
+  },
+  "ish-awalptin": {
+    "root": "ish-awalptin",
+    "partOfSpeech": "n",
+    "definition": "cheat-grass",
+    "notes": [
+      "This noun is shown in WTI.5.3 as shawalaptin, with an abbreviated form of the classifying prefix ish-."
     ]
   },
   "ishktälgwipchk": {
@@ -7180,6 +7410,25 @@
     ],
     "seeAlso": [
       "i- -ánana"
+    ]
+  },
+  "áwachi": {
+    "root": "áwachi",
+    "partOfSpeech": "conj",
+    "definition": "or",
+    "examples": [
+      {
+        "kiksht": "ikala áwachi ag̲agilak",
+        "english": "man or woman"
+      },
+      {
+        "kiksht": "Amuya áwachi dika amuya?",
+        "english": "Will you go or stay?"
+      },
+      {
+        "kiksht": "Amigemgíkwdia áwachi k'aya?",
+        "english": "Will you pay him or not? [Dyk] ="
+      }
     ]
   }
 }
