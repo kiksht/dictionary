@@ -2838,12 +2838,305 @@
       "-LXAM"
     ]
   },
+  "amenshg̲elgela": {
+    "root": "amenshg̲elgela",
+    "partOfSpeech": "vb",
+    "definition": "you will see us",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "amgima": {
+    "root": "amgima",
+    "partOfSpeech": "vb",
+    "definition": "you will say",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "amglúmaya": {
+    "root": "amglúmaya",
+    "partOfSpeech": "vb",
+    "definition": "you will shout",
+    "seeAlso": [
+      "-k-LUMA"
+    ]
+  },
+  "amgushgiwalma": {
+    "root": "amgushgiwalma",
+    "partOfSpeech": "vb",
+    "definition": "you will prowl up and down",
+    "seeAlso": [
+      "-k-SHGIWA"
+    ]
+  },
+  "amgushgíwalma": {
+    "root": "amgushgíwalma",
+    "partOfSpeech": "vb",
+    "definition": "you will take a walk",
+    "seeAlso": [
+      "-k-SHGIWA"
+    ]
+  },
+  "amgíluma": {
+    "root": "amgíluma",
+    "partOfSpeech": "vb",
+    "definition": "you will cry out",
+    "seeAlso": [
+      "-gi-LUMA"
+    ]
+  },
+  "amichk'ínanemchk": {
+    "root": "amichk'ínanemchk",
+    "partOfSpeech": "vb",
+    "definition": "keep picking them[a-]!",
+    "seeAlso": [
+      "-MICHK'I"
+    ]
+  },
+  "amigelgaya": {
+    "root": "amigelgaya",
+    "partOfSpeech": "vb",
+    "definition": "you will catch him",
+    "seeAlso": [
+      "-gl-KA"
+    ]
+  },
+  "amig̲elglaya": {
+    "root": "amig̲elglaya",
+    "partOfSpeech": "vb",
+    "definition": "you will see him",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "amik'lúqdia": {
+    "root": "amik'lúqdia",
+    "partOfSpeech": "vb",
+    "definition": "you will point it[i-] at it[i-]",
+    "seeAlso": [
+      "-QTI"
+    ]
+  },
+  "aminelmishtxa": {
+    "root": "aminelmishtxa",
+    "partOfSpeech": "vb",
+    "definition": "you will lend it[i- ] to me",
+    "seeAlso": [
+      "-MISHTX̲, -l-MISHTX̲"
+    ]
+  },
+  "amingutxwida": {
+    "root": "amingutxwida",
+    "partOfSpeech": "vb",
+    "definition": "you will stand on me",
+    "seeAlso": [
+      "-TX(WI)-it"
+    ]
+  },
+  "aminluda": {
+    "root": "aminluda",
+    "partOfSpeech": "vb",
+    "definition": "you will give it[i-] to me",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "aminxánaunxa": {
+    "root": "aminxánaunxa",
+    "partOfSpeech": "vb",
+    "definition": "you will look up at it[i-]",
+    "seeAlso": [
+      "-i-n-XANA-unx"
+    ]
+  },
+  "amiúxwaxdixa": {
+    "root": "amiúxwaxdixa",
+    "partOfSpeech": "vb",
+    "definition": "you will do it[i-]",
+    "examples": [
+      {
+        "kiksht": "Saqw tłxab amiúxwaxdixa.",
+        "english": "You will chop right through it[i-] (ice). [WTII.10.2]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amiłluda": {
+    "root": "amiłluda",
+    "partOfSpeech": "vb",
+    "definition": "you will give it[i-] to them",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "amkdaya": {
+    "root": "amkdaya",
+    "partOfSpeech": "vb",
+    "definition": "you will run",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "amktachgwa": {
+    "root": "amktachgwa",
+    "partOfSpeech": "vb",
+    "definition": "you will stick your head out of water",
+    "seeAlso": [
+      "-k-TA-chkw"
+    ]
+  },
+  "amni": {
+    "root": "amni",
+    "partOfSpeech": "rel",
+    "definition": "by means of",
+    "examples": [
+      {
+        "kiksht": "Achtudinaya idelxam iatalamqsqit amni.",
+        "english": "He will kill the people with his battle-axe. [WTI.4.8]"
+      }
+    ],
+    "notes": [
+      "Meaning and usage uncertain. Compare engi, which is the more usual word for this meaning. It is used postpositively (after the word it refers to), like engi."
+    ]
+  },
+  "amnukła": {
+    "root": "amnukła",
+    "partOfSpeech": "vb",
+    "definition": "you will take me",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "amnuxwa": {
+    "root": "amnuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you will do to me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amqłíwachgwa": {
+    "root": "amqłíwachgwa",
+    "partOfSpeech": "vb",
+    "definition": "you will paddle",
+    "seeAlso": [
+      "-QŁIWA"
+    ]
+  },
+  "amsenk'itka": {
+    "root": "amsenk'itka",
+    "partOfSpeech": "vb",
+    "definition": "you will look at me",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "amsgelga": {
+    "root": "amsgelga",
+    "partOfSpeech": "vb",
+    "definition": "you will get them 2",
+    "seeAlso": [
+      "-gl-KA"
+    ]
+  },
+  "amshenshguxwa": {
+    "root": "amshenshguxwa",
+    "partOfSpeech": "vb",
+    "definition": "you follks will do at us",
+    "examples": [
+      {
+        "kiksht": "Łk'ub amshenshguxwa.",
+        "english": "You folks will shoot at us. [WTIV.2.17]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amsuxwa": {
+    "root": "amsuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you will make them 2 (\"talking small\")",
+    "examples": [
+      {
+        "kiksht": "Ag̲a qadash [>kadash: Dyk] kw'ab ishmixus amsuxwa.",
+        "english": "Now just close your eyes. [WTI.9.3]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "amánluda": {
     "root": "amánluda",
     "partOfSpeech": "vb",
     "definition": "you will give them[a-] to me",
     "seeAlso": [
       "-T"
+    ]
+  },
+  "amłenluxwa": {
+    "root": "amłenluxwa",
+    "partOfSpeech": "vb",
+    "definition": "you will do it on me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amłg̲elgla": {
+    "root": "amłg̲elgla",
+    "partOfSpeech": "vb",
+    "definition": "you will see it",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "amłg̲elglaya": {
+    "root": "amłg̲elglaya",
+    "partOfSpeech": "vb",
+    "definition": "you will see them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "amłiluxáyaxdixa": {
+    "root": "amłiluxáyaxdixa",
+    "partOfSpeech": "vb",
+    "definition": "you will stick it into it[i-]"
+  },
+  "amłnluxa": {
+    "root": "amłnluxa",
+    "partOfSpeech": "vb",
+    "definition": "you will do it on me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amłulxama": {
+    "root": "amłulxama",
+    "partOfSpeech": "vb",
+    "definition": "you will tell them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amłuxwa": {
+    "root": "amłuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you will do to her[ił-] [WTI.1e.4], you will do it [WTI.18.5]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amłxelmama": {
+    "root": "amłxelmama",
+    "partOfSpeech": "vb",
+    "definition": "you will go eat",
+    "seeAlso": [
+      "-ŁX̲LM"
     ]
   },
   "ałag̲útłqt akłmín": {
