@@ -359,7 +359,6 @@ Notes: Refers to bigger holes than those referred to by aiq’ˆ.
 See also: aiq’ˆ
 
 
-
 aik’Åu [part] tie, bunch up
 Examples: Aik’Åu ichi ̈x. “He tied himup.”[DykGr128] Aik’Åu ganshxuxwax. “We got together.” [WTIV.2.12]
 See also: k’au
@@ -423,3 +422,45 @@ Examples: Aima q’Åwilxshem akiax. “Only she is staying at home.” [DykGr 
 aaip’Åikt [part] steal
 Examples: Aip’Åikt imiux. “You stole him.” [Dyk]
 Notes: The only known use of this word is in a legend, where it refers to ghosts.
+
+
+aip’Åt [part] prod, shove
+Examples: Aip’Åt ichiux. “He prod- ded him.” [DykGr 127]
+Notes: Refers to action somewhat slower than dap’Åt.
+See also: p’etp’et, dap’Åt
+
+aiq’ach [part] bite, take a big bite
+Examples: Aiq’ach gagiuqsh. “She took a good big bite of him.” [Dyk]
+Notes: Not used with verb -x “do”.
+See also: q’ach, i-qÅch
+
+aiq’ˆ [part] tight, too tight
+Examples: Iluxdix aiq’ˆ. “He is sitting tight in a hole.” Inqw’sdix aiq’ˆ. “He is in a hole too tight.” Aiq’ˆ iginqw’esdix. “It is too tight in him, caught in him.” [Dyk]
+Notes: Refers to holes in which some- thing or someone is fitted (too) tightly.
+See also: ai©ˆ
+
+aiqwÅt¬ [part] hang slowly, hang carefully
+Examples: AiqwÅt¬ gashguxix itshdapiq. “They hung their wings together slowly, carefully.” [Dyk]
+Pronunciation: The second -a- is often pronounced long.
+See also: qwut¬. daqwat¬
+
+aisdÅx [adv] circlewise, in a circle aist’Åx [part] bend, wrap about
+Examples: Aist’Åx ali¬xluxwa i¬apuchba. “He will wrap it around his buttocks.” [WTII.5.1] Aist’Åx ¬aq’ inyuxt. “By bending I made it[i-] bent.” Aist’Åx ali¬xluxa. “They wrapped it[i-] about themselves slowly.” [Dyk]
+See also: st’ex
+
+aish [part] just, only, necessarily, forced to
+Examples: Aish k’ala a¬gnuxa. “They will just pack me on their back.” [WTI.1c5] Daminwa aish uxt “She’s always sitting around.” [GT, MMc 12/30/97] Aish t¬q’upt¬q’up txa. “Just cut them (don’t bother to tear them out or anything else, just cut them).” Aish t¬’ak ixa. “Just uncover/open it[i-].” Aish anuya. “I will go, seeing I must.” Aish igiux. “She was forced to do it.” Qiuxlal aish. “Someone makes him of necessity, it has to be done.” Qidau aish. “It will have to be this way.” Qngi aish? “How is it to be done?” Iqit©wana aish. “He was per- force carried here, it was necessary to carry him.” Aish yaxkangi ‘cook’ alixuxa. “He will be forced to cook for himself.” K’ala aish gashkux gashkuk¬. “They had to take her away on their backs (because she either refused or was unable to go by her- self.” aish qix¬adalq “something that has to be towed” Aish itgaqwit anuya. “I’ll have to go on foot.” Aish idmiqwit amuya. “You’ll have to go on foot.” [Dyk]
+Notes: It may be the case that this should be considered two different words with the same sound, one meaning “just, only” and the other meaning “necessarily, forced to.” In the latter meaning, it contrasts with the concept of something being self- moving or self-chosen.
+
+aishÅxw [part] skin (gradually)
+Examples: AishÅxw gach¬ ̈x. “Gradu- ally he skinned him [person, i¬gwa¬ilx].” [WTI.9.7] AishÅxw gachiux. “Skinned, he did it to him.” [Dyk; does this mean simply “He skinned him”?]
+Notes: Does the ai- prefix add the meaning “gradually” here?
+See also: shux, saishuxshux, dashaxwshaxw
+
+id-Åit [n] ways, way of life, traditions
+Examples: ©an©atbama enshait “our ways of old, our traditions” [Museum 4]
+See also: i-kaqmit
+
+aitgÅwulxdix a©a¬ax [n] east
+Notes: Literally “where (-ix) the sun (aga¬ax) it (a-) comes up (-tgawulx-) into it (-(i)i-; that is, the sky).”
+See also: ailupgemdix a©a¬ax, -KA- wulx

@@ -1265,6 +1265,208 @@
       "lau, dalauláu"
     ]
   },
+  "aip'át": {
+    "root": "aip'át",
+    "partOfSpeech": "part",
+    "definition": "prod, shove",
+    "examples": [
+      {
+        "kiksht": "Aip'át ichiux.",
+        "english": "He prod- ded him. [DykGr 127]"
+      }
+    ],
+    "notes": [
+      "Refers to action somewhat slower than dap'át."
+    ],
+    "seeAlso": [
+      "p'etp'et, dap'át"
+    ]
+  },
+  "aiq'ach": {
+    "root": "aiq'ach",
+    "partOfSpeech": "part",
+    "definition": "bite, take a big bite",
+    "examples": [
+      {
+        "kiksht": "Aiq'ach gagiuqsh.",
+        "english": "She took a good big bite of him. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Not used with verb -x \"do\"."
+    ],
+    "seeAlso": [
+      "q'ach, i-qách"
+    ]
+  },
+  "aiq'í": {
+    "root": "aiq'í",
+    "partOfSpeech": "part",
+    "definition": "tight, too tight",
+    "examples": [
+      {
+        "kiksht": "Iluxdix aiq'í.",
+        "english": "He is sitting tight in a hole."
+      },
+      {
+        "kiksht": "Inqw'sdix aiq'í.",
+        "english": "He is in a hole too tight."
+      },
+      {
+        "kiksht": "Aiq'í iginqw'esdix.",
+        "english": "It is too tight in him, caught in him. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to holes in which some- thing or someone is fitted (too) tightly."
+    ],
+    "seeAlso": [
+      "aig̲í"
+    ]
+  },
+  "aiqwátł": {
+    "root": "aiqwátł",
+    "partOfSpeech": "part",
+    "definition": "hang slowly, hang carefully",
+    "examples": [
+      {
+        "kiksht": "Aiqwátł gashguxix itshdapiq.",
+        "english": "They hung their wings together slowly, carefully. [Dyk]"
+      }
+    ],
+    "pronunciation": "The second -a- is often pronounced long.",
+    "seeAlso": [
+      "qwutł. daqwatł"
+    ]
+  },
+  "aisdáx": {
+    "root": "aisdáx",
+    "partOfSpeech": "adv",
+    "definition": "circlewise, in a circle aist'áx [part] bend, wrap about",
+    "examples": [
+      {
+        "kiksht": "Aist'áx aliłxluxwa iłapuchba.",
+        "english": "He will wrap it around his buttocks. [WTII.5.1]"
+      },
+      {
+        "kiksht": "Aist'áx łaq' inyuxt.",
+        "english": "By bending I made it[i-] bent."
+      },
+      {
+        "kiksht": "Aist'áx aliłxluxa.",
+        "english": "They wrapped it[i-] about themselves slowly. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "st'ex"
+    ]
+  },
+  "aish": {
+    "root": "aish",
+    "partOfSpeech": "part",
+    "definition": "just, only, necessarily, forced to",
+    "examples": [
+      {
+        "kiksht": "Aish k'ala ałgnuxa.",
+        "english": "They will just pack me on their back. [WTI.1c5]"
+      },
+      {
+        "kiksht": "Daminwa aish uxt",
+        "english": "She's always sitting around. [GT, MMc 12/30/97]"
+      },
+      {
+        "kiksht": "Aish tłq'uptłq'up txa.",
+        "english": "Just cut them (don't bother to tear them out or anything else, just cut them)."
+      },
+      {
+        "kiksht": "Aish tł'ak ixa.",
+        "english": "Just uncover/open it[i-]."
+      },
+      {
+        "kiksht": "Aish anuya.",
+        "english": "I will go, seeing I must."
+      },
+      {
+        "kiksht": "Aish igiux.",
+        "english": "She was forced to do it."
+      },
+      {
+        "kiksht": "Qiuxlal aish.",
+        "english": "Someone makes him of necessity, it has to be done."
+      },
+      {
+        "kiksht": "Qidau aish.",
+        "english": "It will have to be this way."
+      },
+      {
+        "kiksht": "Qngi aish?",
+        "english": "How is it to be done?"
+      },
+      {
+        "kiksht": "Iqitg̲wana aish.",
+        "english": "He was per- force carried here, it was necessary to carry him."
+      },
+      {
+        "kiksht": "Aish yaxkangi 'cook' alixuxa.",
+        "english": "He will be forced to cook for himself."
+      },
+      {
+        "kiksht": "K'ala aish gashkux gashkukł.",
+        "english": "They had to take her away on their backs (because she either refused or was unable to go by her- self."
+      },
+      {
+        "kiksht": "aish qixładalq",
+        "english": "something that has to be towed"
+      },
+      {
+        "kiksht": "Aish itgaqwit anuya.",
+        "english": "I'll have to go on foot."
+      },
+      {
+        "kiksht": "Aish idmiqwit amuya.",
+        "english": "You'll have to go on foot. [Dyk]"
+      }
+    ],
+    "notes": [
+      "It may be the case that this should be considered two different words with the same sound, one meaning \"just, only\" and the other meaning \"necessarily, forced to.\" In the latter meaning, it contrasts with the concept of something being self- moving or self-chosen."
+    ]
+  },
+  "aisháxw": {
+    "root": "aisháxw",
+    "partOfSpeech": "part",
+    "definition": "skin (gradually)",
+    "examples": [
+      {
+        "kiksht": "Aisháxw gachłúx.",
+        "english": "Gradu- ally he skinned him [person, iłgwałilx]. [WTI.9.7]"
+      },
+      {
+        "kiksht": "Aisháxw gachiux.",
+        "english": "Skinned, he did it to him."
+      },
+      {
+        "kiksht": "[Dyk; does this mean simply",
+        "english": "He skinned him?]"
+      }
+    ],
+    "notes": [
+      "Does the ai- prefix add the meaning \"gradually\" here?"
+    ],
+    "seeAlso": [
+      "shux, saishuxshux, dashaxwshaxw"
+    ]
+  },
+  "aitgáwulxdix ag̲ałax": {
+    "root": "aitgáwulxdix ag̲ałax",
+    "partOfSpeech": "n",
+    "definition": "east",
+    "notes": [
+      "Literally \"where (-ix) the sun (agałax) it (a-) comes up (-tgawulx-) into it (-(i)i-; that is, the sky).\""
+    ],
+    "seeAlso": [
+      "ailupgemdix ag̲ałax, -KA- wulx"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -1366,6 +1568,20 @@
     ],
     "seeAlso": [
       "wi-nachk, -NA-chkw"
+    ]
+  },
+  "id-áit": {
+    "root": "id-áit",
+    "partOfSpeech": "n",
+    "definition": "ways, way of life, traditions",
+    "examples": [
+      {
+        "kiksht": "g̲ang̲atbama enshait",
+        "english": "our ways of old, our traditions [Museum 4]"
+      }
+    ],
+    "seeAlso": [
+      "i-kaqmit"
     ]
   },
   "ishktälgwipchk": {
