@@ -2624,6 +2624,228 @@
       "-a-l-IMA-łx"
     ]
   },
+  "amaluxwa": {
+    "root": "amaluxwa",
+    "partOfSpeech": "vb",
+    "definition": "you will make it[a-] for her",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amama": {
+    "root": "amama",
+    "partOfSpeech": "n",
+    "definition": "daddy!",
+    "notes": [
+      "A child's term for addressing her or his father. An alternate form is ámamash. [Dyk] This word is perhaps not in current use. [Relatives]"
+    ],
+    "seeAlso": [
+      "ámamash, mamash, i-am"
+    ]
+  },
+  "amamash": {
+    "root": "amamash",
+    "partOfSpeech": "n",
+    "definition": "daddy!",
+    "notes": [
+      "A child's term for addressing her or his father. An alternate form of ámama. [Dyk] This word is per- haps not in current use. [Relatives]"
+    ],
+    "seeAlso": [
+      "ámama, mamash, i-am"
+    ]
+  },
+  "amanelxáqwchgwaya": {
+    "root": "amanelxáqwchgwaya",
+    "partOfSpeech": "vb",
+    "definition": "you will give it[a-] back to me",
+    "seeAlso": [
+      "-xa-QWCH-kw; but see -x- KWCHKW"
+    ]
+  },
+  "amawig̲wima": {
+    "root": "amawig̲wima",
+    "partOfSpeech": "vb",
+    "definition": "you will feed them",
+    "seeAlso": [
+      "-l-QWIM"
+    ]
+  },
+  "amawik'iłxwaya": {
+    "root": "amawik'iłxwaya",
+    "partOfSpeech": "vb",
+    "definition": "you go harness (a horse)",
+    "notes": [
+      "Madeline McInturff thinks this refers not to harness as such but to putting decorations for a parade over a horse. She and Gladys Thomp- son were unable to supply other forms [1/12/99]."
+    ]
+  },
+  "amałlutxmida": {
+    "root": "amałlutxmida",
+    "partOfSpeech": "vb",
+    "definition": "you will put it[a-] down in it",
+    "examples": [
+      {
+        "kiksht": "—Winamsh, qengi aish anushimá daua alxułat. — Amałlutxmida iłchqwaba.",
+        "english": "—Dad, how do I do use this dipnet? —You put it down in the water. [Spilyay/ going fishing]"
+      }
+    ],
+    "seeAlso": [
+      "-TX(WI)-mit"
+    ]
+  },
+  "amckłk'itka": {
+    "root": "amckłk'itka",
+    "partOfSpeech": "vb",
+    "definition": "you folks will keep them",
+    "seeAlso": [
+      "-K'ITK"
+    ]
+  },
+  "amdia": {
+    "root": "amdia",
+    "partOfSpeech": "vb",
+    "definition": "you will come",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "amdigelchima": {
+    "root": "amdigelchima",
+    "partOfSpeech": "vb",
+    "definition": "you will throw them at him",
+    "seeAlso": [
+      "-CHI"
+    ]
+  },
+  "amdilukła": {
+    "root": "amdilukła",
+    "partOfSpeech": "vb",
+    "definition": "you will take them to him",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "amdugwálmama": {
+    "root": "amdugwálmama",
+    "partOfSpeech": "vb",
+    "definition": "you will go get them",
+    "examples": [
+      {
+        "kiksht": "Amdugwálmama itkwáxwalagadit kwadau iłiakach ig̲anuk.",
+        "english": "You go get the claws and Beaver's teeth. [WT1.4.3]"
+      }
+    ],
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "amdukílaba": {
+    "root": "amdukílaba",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will dig out",
+    "seeAlso": [
+      "-LA-pa"
+    ]
+  },
+  "amdukłá": {
+    "root": "amdukłá",
+    "partOfSpeech": "vb",
+    "definition": "you will bring them",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "amduqłaya": {
+    "root": "amduqłaya",
+    "partOfSpeech": "vb",
+    "definition": "you will count them",
+    "seeAlso": [
+      "-QŁA"
+    ]
+  },
+  "amdushima": {
+    "root": "amdushima",
+    "partOfSpeech": "vb",
+    "definition": "you will use them",
+    "seeAlso": [
+      "-SHIM"
+    ]
+  },
+  "amdushtxumida": {
+    "root": "amdushtxumida",
+    "partOfSpeech": "vb",
+    "definition": "you will pack them",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "amduxa": {
+    "root": "amduxa",
+    "partOfSpeech": "vb",
+    "definition": "you will do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amduxwa": {
+    "root": "amduxwa",
+    "partOfSpeech": "vb",
+    "definition": "you will do (to) it[it-] [WTI.4.6], you will do them [WTI.12.6]",
+    "examples": [
+      {
+        "kiksht": "Dauda itxwdlít ag̲a dak amduxwa.",
+        "english": "This smoke you will now remove. [WTI.4.6]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amduya": {
+    "root": "amduya",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will go",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "amduładniła": {
+    "root": "amduładniła",
+    "partOfSpeech": "vb",
+    "definition": "you will throw them around",
+    "examples": [
+      {
+        "kiksht": "Naqi amdułádniła idmikímutxmat.",
+        "english": "Don't throw your toys around. [Spilyay/KidTalk]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "amdułádaya": {
+    "root": "amdułádaya",
+    "partOfSpeech": "vb",
+    "definition": "you will throw them away, you will forget them",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "amenlxama": {
+    "root": "amenlxama",
+    "partOfSpeech": "vb",
+    "definition": "you will speak to me",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "amánluda": {
+    "root": "amánluda",
+    "partOfSpeech": "vb",
+    "definition": "you will give them[a-] to me",
+    "seeAlso": [
+      "-T"
+    ]
+  },
   "ałag̲útłqt akłmín": {
     "root": "ałag̲útłqt akłmín",
     "partOfSpeech": "n",
