@@ -3290,6 +3290,128 @@
       "-X̲"
     ]
   },
+  "amshuya": {
+    "root": "amshuya",
+    "partOfSpeech": "vb",
+    "definition": "you folks will go",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "amshxatxa": {
+    "root": "amshxatxa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will do",
+    "examples": [
+      {
+        "kiksht": "Iwi amshxatxa.",
+        "english": "You folks will look around. [WTIV.2.3]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "amshxelp'álawulalma": {
+    "root": "amshxelp'álawulalma",
+    "partOfSpeech": "vb",
+    "definition": "you folks will talk to one another",
+    "seeAlso": [
+      "-P'ALAWU"
+    ]
+  },
+  "amshxelqłáxida": {
+    "root": "amshxelqłáxida",
+    "partOfSpeech": "vb",
+    "definition": "you folks will learn",
+    "seeAlso": [
+      "-xl-QŁA-xit"
+    ]
+  },
+  "amshxitłuxwaida": {
+    "root": "amshxitłuxwaida",
+    "partOfSpeech": "vb",
+    "definition": "you will think to yourselves",
+    "seeAlso": [
+      "-ŁUXWA"
+    ]
+  },
+  "amshxkw'ayuwa": {
+    "root": "amshxkw'ayuwa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will each go home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "amshxshgama": {
+    "root": "amshxshgama",
+    "partOfSpeech": "vb",
+    "definition": "you will gamble",
+    "examples": [
+      {
+        "kiksht": "Iłúguma amshxshgama.",
+        "english": "You will gamble at bones. [WTI.4.7]"
+      }
+    ],
+    "seeAlso": [
+      "-x-SHKAM"
+    ]
+  },
+  "amshxuxwa": {
+    "root": "amshxuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will do",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "amshxwaba": {
+    "root": "amshxwaba",
+    "partOfSpeech": "vb",
+    "definition": "you folks will run out",
+    "seeAlso": [
+      "-x-WA-pa"
+    ]
+  },
+  "amshxídwichatk": {
+    "root": "amshxídwichatk",
+    "partOfSpeech": "vb",
+    "definition": "you folks will listen",
+    "seeAlso": [
+      "-xl-WICHA-tk"
+    ]
+  },
+  "amshxíg̲idwaqłxa": {
+    "root": "amshxíg̲idwaqłxa",
+    "partOfSpeech": "vb",
+    "definition": "you folks will abandon him",
+    "seeAlso": [
+      "-x-g̲l-WA-qłq"
+    ]
+  },
+  "amshxúxwama": {
+    "root": "amshxúxwama",
+    "partOfSpeech": "vb",
+    "definition": "you folks will go to do",
+    "examples": [
+      {
+        "kiksht": "G̲aug̲au amshxúxwama.",
+        "english": "You folks will go to drum. [WTI.15.6]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amshxłaida": {
+    "root": "amshxłaida",
+    "partOfSpeech": "vb",
+    "definition": "you folks will die",
+    "seeAlso": [
+      "-x-ŁA-it"
+    ]
+  },
   "amsuxwa": {
     "root": "amsuxwa",
     "partOfSpeech": "vb",
@@ -3302,6 +3424,162 @@
     ],
     "seeAlso": [
       "-X̲"
+    ]
+  },
+  "amtdímama": {
+    "root": "amtdímama",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will come",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "amtgnuxwa": {
+    "root": "amtgnuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will do me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amtgúgwiga": {
+    "root": "amtgúgwiga",
+    "partOfSpeech": "vb",
+    "definition": "you will get them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "amtia": {
+    "root": "amtia",
+    "partOfSpeech": "vb",
+    "definition": "you will come",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "amtktuxwa": {
+    "root": "amtktuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will make them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amtktuxwal": {
+    "root": "amtktuxwal",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will do to them",
+    "examples": [
+      {
+        "kiksht": "Ag̲a łga pu qama mta uxuq'íwalal nug̲w amtktuxwal?",
+        "english": "By what right, perchance, will you keep the fish to yourselves? [WTI.1a6]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amtkłnidama": {
+    "root": "amtkłnidama",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will go get her[ił-] for me",
+    "seeAlso": [
+      "-TA"
+    ]
+  },
+  "amtkługwalmama": {
+    "root": "amtkługwalmama",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will go get her[ił-]",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "amtkłukshtama": {
+    "root": "amtkłukshtama",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will look for her[ił-]",
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "amtkłuxwa": {
+    "root": "amtkłuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will do to it",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amtnitła": {
+    "root": "amtnitła",
+    "partOfSpeech": "vb",
+    "definition": "you will bring them to me",
+    "seeAlso": [
+      "-TŁ"
+    ]
+  },
+  "amtxuxwa": {
+    "root": "amtxuxwa",
+    "partOfSpeech": "vb",
+    "definition": "you 2 will do",
+    "examples": [
+      {
+        "kiksht": "Shan alma amtxuxwa!",
+        "english": "Who of you two will do it! [WTI.4.14]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "amtłluda": {
+    "root": "amtłluda",
+    "partOfSpeech": "vb",
+    "definition": "you will give them to him[ił-]",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "amugwaya": {
+    "root": "amugwaya",
+    "partOfSpeech": "vb",
+    "definition": "you will fly",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "amugwilaida": {
+    "root": "amugwilaida",
+    "partOfSpeech": "vb",
+    "definition": "you will treat her",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "amug̲igla": {
+    "root": "amug̲igla",
+    "partOfSpeech": "vb",
+    "definition": "you will see them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "amug̲wilxma": {
+    "root": "amug̲wilxma",
+    "partOfSpeech": "vb",
+    "definition": "you will hit her",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "amug̲úptida": {
+    "root": "amug̲úptida",
+    "partOfSpeech": "vb",
+    "definition": "you will fall asleep",
+    "seeAlso": [
+      "- G̲UPT-it"
     ]
   },
   "amánluda": {
