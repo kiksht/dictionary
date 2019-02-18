@@ -1974,3 +1974,47 @@ See also: -LXAM
 
 anyunÅx¬ama [vb] I will go look for him
 See also: -NA ̨Ò
+
+
+apu [n] older brother!
+Forms: Åpumax! “older brothers!” [Dyk]
+See also: apuna
+
+apuna [n] older brother!
+Forms: ap ̈namax “older brothers!” [DykGr 116]
+See also: apu
+
+apunash [n] older brother!
+Notes: A term used by children.
+See also: apu, apuna, -punash
+
+a-aq [n] mother, parent
+Forms: wanaqsh “my mother” [singular prefix, note the special form, with -n- as possessive prefix and suffix -sh] wamaq “your mother” [singular prefix] wayaq “his mother” [singular prefix] wakaq “her mother” [singular prefix] wa¬aq “their mother” [singular prefix] watxaq “our (2, including you) mother, mother of you and me” [singular prefix] wantaq “our mother, mother of the two of us (not including you)” [singular prefix] wamtaq “your mother, mother of you 2” [singular prefix] washtaq “their mother, mother of them 2” [singular prefix] walxaq “our (your and our) mother” [singular prefix] wanshaq “our (not your) mother” [singular prefix] wataq “their mother” [dual prefix] ishgnaqsh “my mother and father” [dual prefix] ishmaq “your mother and father” [dual prefix] ishyaq “his mother and father” [dual prefix] ishkaq “her mother and father” [dual prefix] i¬shtaq “their mother and father, mother and fa- ther of them 2; their mothers, moth- ers of them 2” [dual prefix] ishtxaq “your and my mother and father; your and my mothers” [dual prefix] ishentshaq “our mother and father, mother and father of us 2 (not including you); our mothers, mothers of us 2 (not including you)” [dual prefix, This form was not accepted by GT, MMc 1/12/99] ishemtaq “your mother and father, mother and fa- ther of you 2; your mothers, mothers of you 2” [dual prefix] isheshtaq “their mother and father, mother and father of them 2; their mothers, mothers of them 2” [dual prefix] ishlxaq “our (your and our) mother and father; our (your and our) 2 mothers” [dual prefix] ishenshaq “our (not including you) mother and father; our (not including you) 2 mothers” [dual prefix] ichemshaq “your mother and father, mother and father of you folks; you folks’ 2 mothers” [dual prefix] ishkaq “their mother and father; their 2 mothers” [dual prefix] with plural prefix: idelxaqksh “our (your and our) mothers” [dual prefix] idenshaqksh “our (not your) moth- ers” [dual prefix] idemshaqksh “you folks’ moth- ers” [dual prefix] it¬aqksh, itkaqksh “their moth- ers” [dual prefix] idemsha©max “you folks’ moth- ers, the mothers of each one of you” [dual prefix] i¬kaq “a mother of hers” [indefinite prefix] [Dyk]
+Examples: dala’ax i¬kaq “probably her mother” [Dyk]
+
+aqagemxÅgaba [vb] one will work at it[a-]
+See also: -gm-xa-GA-pa, -xm-GA-pa
+
+aqa©elglaya [vb] one will see it[a-], it[a-] will be seen
+See also: -©l-KL
+
+aqamidama [vb] we will go get her for you
+See also: -TA
+
+aqÅmluda [vb] we will give her to you
+See also: -T
+
+aqÅt¬ama [vb] one will bring it[a-], it[a-] will be brought
+See also: -TÒ-am
+
+aqaxilgwˆamida [vb] one will spread it[a-] out
+See also: -LGWIA-mit
+
+aqdakch’iq¬gwa [vb] one will put them crosswise on it, they will be put crosswise on it
+See also: -CH’I-q¬kw
+
+aqdenluda [vb] one will give them to me, I will be given them
+See also: -T
+
+aqdˆluxwa [vb] one will do them to him
+See also: - ̨

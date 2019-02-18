@@ -198,6 +198,143 @@
       "Borrowed from (or to?) Warm Springs Sahaptin ámush. A long shell with a twist on the end. [GT 1/14/99]"
     ]
   },
+  "a-aq": {
+    "root": "a-aq",
+    "partOfSpeech": "n",
+    "definition": "mother, parent",
+    "forms": [
+      {
+        "kiksht": "wanaqsh",
+        "english": "my mother [singular prefix, note the special form, with -n- as possessive prefix and suffix -sh]"
+      },
+      {
+        "kiksht": "wamaq",
+        "english": "your mother [singular prefix]"
+      },
+      {
+        "kiksht": "wayaq",
+        "english": "his mother [singular prefix]"
+      },
+      {
+        "kiksht": "wakaq",
+        "english": "her mother [singular prefix]"
+      },
+      {
+        "kiksht": "wałaq",
+        "english": "their mother [singular prefix]"
+      },
+      {
+        "kiksht": "watxaq",
+        "english": "our (2, including you) mother, mother of you and me [singular prefix]"
+      },
+      {
+        "kiksht": "wantaq",
+        "english": "our mother, mother of the two of us (not including you) [singular prefix]"
+      },
+      {
+        "kiksht": "wamtaq",
+        "english": "your mother, mother of you 2 [singular prefix]"
+      },
+      {
+        "kiksht": "washtaq",
+        "english": "their mother, mother of them 2 [singular prefix]"
+      },
+      {
+        "kiksht": "walxaq",
+        "english": "our (your and our) mother [singular prefix]"
+      },
+      {
+        "kiksht": "wanshaq",
+        "english": "our (not your) mother [singular prefix]"
+      },
+      {
+        "kiksht": "wataq",
+        "english": "their mother [dual prefix]"
+      },
+      {
+        "kiksht": "ishgnaqsh",
+        "english": "my mother and father [dual prefix]"
+      },
+      {
+        "kiksht": "ishmaq",
+        "english": "your mother and father [dual prefix]"
+      },
+      {
+        "kiksht": "ishyaq",
+        "english": "his mother and father [dual prefix]"
+      },
+      {
+        "kiksht": "ishkaq",
+        "english": "her mother and father [dual prefix]"
+      },
+      {
+        "kiksht": "iłshtaq",
+        "english": "their mother and father, mother and fa- ther of them 2; their mothers, moth- ers of them 2 [dual prefix]"
+      },
+      {
+        "kiksht": "ishtxaq",
+        "english": "your and my mother and father; your and my mothers [dual prefix]"
+      },
+      {
+        "kiksht": "ishentshaq",
+        "english": "our mother and father, mother and father of us 2 (not including you); our mothers, mothers of us 2 (not including you) [dual prefix, This form was not accepted by GT, MMc 1/12/99]"
+      },
+      {
+        "kiksht": "ishemtaq",
+        "english": "your mother and father, mother and fa- ther of you 2; your mothers, mothers of you 2 [dual prefix]"
+      },
+      {
+        "kiksht": "isheshtaq",
+        "english": "their mother and father, mother and father of them 2; their mothers, mothers of them 2 [dual prefix]"
+      },
+      {
+        "kiksht": "ishlxaq",
+        "english": "our (your and our) mother and father; our (your and our) 2 mothers [dual prefix]"
+      },
+      {
+        "kiksht": "ishenshaq",
+        "english": "our (not including you) mother and father; our (not including you) 2 mothers [dual prefix]"
+      },
+      {
+        "kiksht": "ichemshaq",
+        "english": "your mother and father, mother and father of you folks; you folks' 2 mothers [dual prefix]"
+      },
+      {
+        "kiksht": "ishkaq",
+        "english": "their mother and father; their 2 mothers [dual prefix]"
+      },
+      {
+        "kiksht": "with plural prefix: idelxaqksh",
+        "english": "our (your and our) mothers [dual prefix]"
+      },
+      {
+        "kiksht": "idenshaqksh",
+        "english": "our (not your) moth- ers [dual prefix]"
+      },
+      {
+        "kiksht": "idemshaqksh",
+        "english": "you folks' moth- ers [dual prefix]"
+      },
+      {
+        "kiksht": "itłaqksh, itkaqksh",
+        "english": "their moth- ers [dual prefix]"
+      },
+      {
+        "kiksht": "idemshag̲max",
+        "english": "you folks' moth- ers, the mothers of each one of you [dual prefix]"
+      },
+      {
+        "kiksht": "iłkaq",
+        "english": "a mother of hers [indefinite prefix] [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "dala'ax iłkaq",
+        "english": "probably her mother [Dyk]"
+      }
+    ]
+  },
   "a-g̲agilak": {
     "root": "a-g̲agilak",
     "partOfSpeech": "n",
@@ -4984,6 +5121,117 @@
     "definition": "I will go look for them",
     "seeAlso": [
       "-NAX̲Ł"
+    ]
+  },
+  "apu": {
+    "root": "apu",
+    "partOfSpeech": "n",
+    "definition": "older brother!",
+    "forms": [
+      {
+        "kiksht": "ápumax!",
+        "english": "older brothers! [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "apuna"
+    ]
+  },
+  "apuna": {
+    "root": "apuna",
+    "partOfSpeech": "n",
+    "definition": "older brother!",
+    "forms": [
+      {
+        "kiksht": "apúnamax",
+        "english": "older brothers! [DykGr 116]"
+      }
+    ],
+    "seeAlso": [
+      "apu"
+    ]
+  },
+  "apunash": {
+    "root": "apunash",
+    "partOfSpeech": "n",
+    "definition": "older brother!",
+    "notes": [
+      "A term used by children."
+    ],
+    "seeAlso": [
+      "apu, apuna, -punash"
+    ]
+  },
+  "aqagemxágaba": {
+    "root": "aqagemxágaba",
+    "partOfSpeech": "vb",
+    "definition": "one will work at it[a-]",
+    "seeAlso": [
+      "-gm-xa-GA-pa, -xm-GA-pa"
+    ]
+  },
+  "aqag̲elglaya": {
+    "root": "aqag̲elglaya",
+    "partOfSpeech": "vb",
+    "definition": "one will see it[a-], it[a-] will be seen",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "aqamidama": {
+    "root": "aqamidama",
+    "partOfSpeech": "vb",
+    "definition": "we will go get her for you",
+    "seeAlso": [
+      "-TA"
+    ]
+  },
+  "aqaxilgwíamida": {
+    "root": "aqaxilgwíamida",
+    "partOfSpeech": "vb",
+    "definition": "one will spread it[a-] out",
+    "seeAlso": [
+      "-LGWIA-mit"
+    ]
+  },
+  "aqdakch'iqłgwa": {
+    "root": "aqdakch'iqłgwa",
+    "partOfSpeech": "vb",
+    "definition": "one will put them crosswise on it, they will be put crosswise on it",
+    "seeAlso": [
+      "-CH'I-qłkw"
+    ]
+  },
+  "aqdenluda": {
+    "root": "aqdenluda",
+    "partOfSpeech": "vb",
+    "definition": "one will give them to me, I will be given them",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "aqdíluxwa": {
+    "root": "aqdíluxwa",
+    "partOfSpeech": "vb",
+    "definition": "one will do them to him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "aqámluda": {
+    "root": "aqámluda",
+    "partOfSpeech": "vb",
+    "definition": "we will give her to you",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "aqátłama": {
+    "root": "aqátłama",
+    "partOfSpeech": "vb",
+    "definition": "one will bring it[a-], it[a-] will be brought",
+    "seeAlso": [
+      "-TŁ-am"
     ]
   },
   "ałag̲útłqt akłmín": {
