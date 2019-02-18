@@ -4533,6 +4533,28 @@
       "-QUI"
     ]
   },
+  "antktaya": {
+    "root": "antktaya",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) will run",
+    "examples": [
+      {
+        "kiksht": "Shan antktaya?",
+        "english": "Who will run with me? [literally: Who we 2 will run?] [WTI.11.6]"
+      }
+    ],
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "antkw'álalaqwida": {
+    "root": "antkw'álalaqwida",
+    "partOfSpeech": "vb",
+    "definition": "I will be away from home",
+    "seeAlso": [
+      "-KW'ALALA-qw-it"
+    ]
+  },
   "antkłgelgaya": {
     "root": "antkłgelgaya",
     "partOfSpeech": "vb",
@@ -4547,6 +4569,291 @@
     "definition": "we 2 (not including you) will do her[ił-]",
     "seeAlso": [
       "-X̲"
+    ]
+  },
+  "antshuqidámidaba": {
+    "root": "antshuqidámidaba",
+    "partOfSpeech": "vb",
+    "definition": "I will make them break out"
+  },
+  "antxkw'aya": {
+    "root": "antxkw'aya",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) will go home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "antxmuya": {
+    "root": "antxmuya",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) will wrestle",
+    "seeAlso": [
+      "-x-MUI"
+    ]
+  },
+  "anugwaya": {
+    "root": "anugwaya",
+    "partOfSpeech": "vb",
+    "definition": "I will fly",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "anug̲uptida": {
+    "root": "anug̲uptida",
+    "partOfSpeech": "vb",
+    "definition": "I will sleep [WTI.2.18], I would fall asleep [WTII.10.1]",
+    "seeAlso": [
+      "- G̲UPT-it"
+    ]
+  },
+  "anuit": {
+    "root": "anuit",
+    "partOfSpeech": "adv",
+    "definition": "immediately",
+    "seeAlso": [
+      "nawit"
+    ]
+  },
+  "anumqta": {
+    "root": "anumqta",
+    "partOfSpeech": "vb",
+    "definition": "I will die",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "anushima": {
+    "root": "anushima",
+    "partOfSpeech": "vb",
+    "definition": "I will use it[a-]",
+    "seeAlso": [
+      "-SHIM"
+    ]
+  },
+  "anushtga": {
+    "root": "anushtga",
+    "partOfSpeech": "vb",
+    "definition": "I will copulate with her",
+    "seeAlso": [
+      "-SHTK"
+    ]
+  },
+  "anushtxwa": {
+    "root": "anushtxwa",
+    "partOfSpeech": "vb",
+    "definition": "I will carry it[a-] on my back",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "anuwag̲wa": {
+    "root": "anuwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "I will kill her",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "anuxwa": {
+    "root": "anuxwa",
+    "partOfSpeech": "vb",
+    "definition": "I will do to her",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "anuya": {
+    "root": "anuya",
+    "partOfSpeech": "vb",
+    "definition": "I will go",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "anuyama": {
+    "root": "anuyama",
+    "partOfSpeech": "vb",
+    "definition": "I will arrive",
+    "seeAlso": [
+      "-I-am"
+    ]
+  },
+  "anwit": {
+    "root": "anwit",
+    "partOfSpeech": "adv",
+    "definition": "immediately",
+    "seeAlso": [
+      "anuit, nawit"
+    ]
+  },
+  "anxaimaya": {
+    "root": "anxaimaya",
+    "partOfSpeech": "vb",
+    "definition": "I will lie down, I will go to bed",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "anxelgímlalma": {
+    "root": "anxelgímlalma",
+    "partOfSpeech": "vb",
+    "definition": "I will go shop- ping",
+    "seeAlso": [
+      "-xl-gi-MLAL"
+    ]
+  },
+  "anxelqłáxida": {
+    "root": "anxelqłáxida",
+    "partOfSpeech": "vb",
+    "definition": "I will know",
+    "seeAlso": [
+      "-xl-QŁA-xit"
+    ]
+  },
+  "anxemgaba": {
+    "root": "anxemgaba",
+    "partOfSpeech": "vb",
+    "definition": "I will work",
+    "seeAlso": [
+      "-xm-GA-pa"
+    ]
+  },
+  "anxemgábama": {
+    "root": "anxemgábama",
+    "partOfSpeech": "vb",
+    "definition": "I will go work",
+    "seeAlso": [
+      "-xm-GA-pa"
+    ]
+  },
+  "anxenk'ang̲udama": {
+    "root": "anxenk'ang̲udama",
+    "partOfSpeech": "vb",
+    "definition": "I will go fish- ing (with hook and line)",
+    "seeAlso": [
+      "-xn-K'ANQUT"
+    ]
+  },
+  "anxg̲wada": {
+    "root": "anxg̲wada",
+    "partOfSpeech": "vb",
+    "definition": "I will bathe myself",
+    "seeAlso": [
+      "-QWAT"
+    ]
+  },
+  "anxilax": {
+    "root": "anxilax",
+    "partOfSpeech": "vb",
+    "definition": "I am eating it[a-]",
+    "seeAlso": [
+      "-xi-LAX̲"
+    ]
+  },
+  "anxitqłáxida": {
+    "root": "anxitqłáxida",
+    "partOfSpeech": "vb",
+    "definition": "I will know",
+    "seeAlso": [
+      "-xl-QŁA-xit"
+    ]
+  },
+  "anxk'íchxaya": {
+    "root": "anxk'íchxaya",
+    "partOfSpeech": "vb",
+    "definition": "I will defecate",
+    "seeAlso": [
+      "-CHXA"
+    ]
+  },
+  "anxkw'aya": {
+    "root": "anxkw'aya",
+    "partOfSpeech": "vb",
+    "definition": "I will go home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "anxlachgwa": {
+    "root": "anxlachgwa",
+    "partOfSpeech": "vb",
+    "definition": "I will get up",
+    "seeAlso": [
+      "-x-LA-chkw"
+    ]
+  },
+  "anxqw'aya": {
+    "root": "anxqw'aya",
+    "partOfSpeech": "vb",
+    "definition": "I will go hunting",
+    "seeAlso": [
+      "-x-QW'A"
+    ]
+  },
+  "anxshgama": {
+    "root": "anxshgama",
+    "partOfSpeech": "vb",
+    "definition": "I will gamble",
+    "seeAlso": [
+      "-x-SHKAM"
+    ]
+  },
+  "anxuguwíchatkma": {
+    "root": "anxuguwíchatkma",
+    "partOfSpeech": "vb",
+    "definition": "I would listen to them",
+    "seeAlso": [
+      "-WICHA-tk, -x-k-WICHA-tk"
+    ]
+  },
+  "anxuxwa": {
+    "root": "anxuxwa",
+    "partOfSpeech": "vb",
+    "definition": "I will do",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "anxúqshida": {
+    "root": "anxúqshida",
+    "partOfSpeech": "vb",
+    "definition": "I will lie down to sleep",
+    "seeAlso": [
+      "-QSH-it"
+    ]
+  },
+  "anxłxelma": {
+    "root": "anxłxelma",
+    "partOfSpeech": "vb",
+    "definition": "I will eat",
+    "seeAlso": [
+      "-x-ŁX̲LM"
+    ]
+  },
+  "anyukstamida": {
+    "root": "anyukstamida",
+    "partOfSpeech": "vb",
+    "definition": "I will cook it[i-]",
+    "seeAlso": [
+      "-KSTA-mit"
+    ]
+  },
+  "anyulxámama": {
+    "root": "anyulxámama",
+    "partOfSpeech": "vb",
+    "definition": "I will go tell him",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "anyunáxłama": {
+    "root": "anyunáxłama",
+    "partOfSpeech": "vb",
+    "definition": "I will go look for him",
+    "seeAlso": [
+      "-NAX̲Ł"
     ]
   },
   "anáaa": {
