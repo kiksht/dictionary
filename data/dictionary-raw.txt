@@ -2741,3 +2741,45 @@ Forms: sbna “jump!” [GT, MMc 1/ 15/99] csubnat “he is jumping” [HS 1954]
 Examples: Gacsubna gigwaladamt. “He jumped under him.” [HS 1954]
 Pronunciation: The root -bna is often pronounced bena.
 See also: is-bnanan
+
+
+-s-BNA-cu [vb] jump down
+Forms: nicsa©nbnacu “he jumped down from it[a-]” nicsu©witbnacu “he jumped down from them (once, last week)” [Dyk]
+
+-s-a-n-BNA-¬x [vb] jump in water, jump into water
+Forms: ensanbnÅn¬x “I am jumping into water” [Dyk] tksanbnan¬x “they are jumping in(to) water” [WTI.1c.1] ¬ksanbnan¬x “they are jumping in water” [WTI.1c.2] acsenbnan¬xa “he will jump into water” insanbnÅn¬x “I jumped into water” icsanbnan¬x “he jumped into water” [GT, MMc 1/13/ 99]
+Examples: T¬bu insanbna¬x. “Splash I jumped into the water.” [Dyk]
+
+-s-xl-BNA-nan [vb] jump around
+Forms: asuxibnÅnanma “they will jump around” [GT, MMc 1/15/99]
+
+-s-BNA-pq [vb] jump in, jump into
+Forms: gacsignbnapq “he jumped in(to it[i-])” gacsawibnapq “he jumped into them (brush)” [HS 1954]
+Notes: Apparently used only with relational prefixes.
+
+-s-xl-BNA-unenx¬ [vb] jump up and down
+Forms: asuxibnaun§nx¬a “they will jump up and down (not in dancing)” asuxibnaiwaun§nx¬a “they will (one at a time) jump up and down” sixnbnaun§nx¬ “he is jumping up and down” [Dyk]
+
+-s-xl-BNA-unx [vb] jump up
+Forms: nisixitbnaunx “he jumped up (once, last week)” [Dyk]
+
+-s-BNA-unx [vb] jump up
+Forms: esbnauenx! “jump up!” [GT, MMc 1/15/99]
+Examples: Shaxel icsubnaunx. “He jumped up in the air.” [GT 12/30/ 97]
+
+is-bnanan [n] jumping
+Forms: isgabnanan “her jumping; she is a jumper” isiabnanan “his jumping; he is a jumper” [Dyk]
+See also: -s-BNA
+
+-ch-l-BU [vb] freeze, be frozen
+Forms: chnelbut “I am frozen” chnelbuni¬ “I am freezing (every now and then; or "it is trying to freeze me")” chalbut “she is frozen” chaitbut “she was frozen” chilbudix “it[i-] (ground, wilx) is frozen” chilbwÅlalix “it[i-] (ground) is freez- ing (here and there; or, at different times; or, it is trying to freeze)” ichnelbu “I froze” ich¬lbu “it froze” ichÅwibu “they froze” ichilbuix “it (ground, wilx) froze” ich¬elb ̈ni¬chk “it froze (every now and then; or ‘it tried to freeze’)” nichalbut “she was frozen (last season)” nichaitbut “she was frozen (last week)” [Dyk] chawib ̈t “everything’s frozen (liter- ally ‘they are freezing’)” [HS 7/22/ 51]
+Examples: Qamabamax chilbwÅlalix. “Everywhere it is freezing; in places it is freezing.” [Dyk] Wima¬ chilb ̈t. “The river is frozen over.” [HS 7/22/ 51]
+See also: -i-l-BWA-mit, -BU, -BWA
+
+-i-l-BWA-mit [vb] freeze [transitive] Forms: inialbwamit “I froze it[a-]” [Dyk]
+Notes: A note in Dyk says this is “not often used.”
+See also: -ch-l-BU
+
+-buchxan [rel] brother-in-law (woman speaking), sister-in-law (man speaking)
+Forms: ichbuchxan “my brother-in- law, my husband’s brother, my sister’s husband (woman speaking)” akbuchxan “my sister-in-law, my wife’s sister, my brother’s wife (man speaking)” [Dyk] ichabuchxan “her brother-in-law” ayabuchxan “his sister-in-law” [HS 7/30/54] qibuchxan! “brother-in-law! [woman speaking]; sister-in-law! [man speak- ing]” [Relatives]
+Notes: Refers to a sibling-in-law of opposite gender from the person speaking or spoken about.

@@ -128,6 +128,123 @@
       "Borrowed from English. Dif- ferent people apparently have used it with different prefixes."
     ]
   },
+  "-buchxan": {
+    "root": "-buchxan",
+    "partOfSpeech": "rel",
+    "definition": "brother-in-law (woman speaking), sister-in-law (man speaking)",
+    "forms": [
+      {
+        "kiksht": "ichbuchxan",
+        "english": "my brother-in- law, my husband's brother, my sister's husband (woman speaking)"
+      },
+      {
+        "kiksht": "akbuchxan",
+        "english": "my sister-in-law, my wife's sister, my brother's wife (man speaking) [Dyk]"
+      },
+      {
+        "kiksht": "ichabuchxan",
+        "english": "her brother-in-law"
+      },
+      {
+        "kiksht": "ayabuchxan",
+        "english": "his sister-in-law [HS 7/30/54]"
+      },
+      {
+        "kiksht": "qibuchxan!",
+        "english": "brother-in-law! [woman speaking]; sister-in-law! [man speak- ing] [Relatives]"
+      }
+    ],
+    "notes": [
+      "Refers to a sibling-in-law of opposite gender from the person speaking or spoken about."
+    ]
+  },
+  "-ch-l-BU": {
+    "root": "-ch-l-BU",
+    "partOfSpeech": "vb",
+    "definition": "freeze, be frozen",
+    "forms": [
+      {
+        "kiksht": "chnelbut",
+        "english": "I am frozen"
+      },
+      {
+        "kiksht": "chnelbunił",
+        "english": "I am freezing (every now and then; or \"it is trying to freeze me\")"
+      },
+      {
+        "kiksht": "chalbut",
+        "english": "she is frozen"
+      },
+      {
+        "kiksht": "chaitbut",
+        "english": "she was frozen"
+      },
+      {
+        "kiksht": "chilbudix",
+        "english": "it[i-] (ground, wilx) is frozen"
+      },
+      {
+        "kiksht": "chilbwálalix",
+        "english": "it[i-] (ground) is freez- ing (here and there; or, at different times; or, it is trying to freeze)"
+      },
+      {
+        "kiksht": "ichnelbu",
+        "english": "I froze"
+      },
+      {
+        "kiksht": "ichłlbu",
+        "english": "it froze"
+      },
+      {
+        "kiksht": "icháwibu",
+        "english": "they froze"
+      },
+      {
+        "kiksht": "ichilbuix",
+        "english": "it (ground, wilx) froze"
+      },
+      {
+        "kiksht": "ichłelbúniłchk",
+        "english": "it froze (every now and then; or 'it tried to freeze')"
+      },
+      {
+        "kiksht": "nichalbut",
+        "english": "she was frozen (last season)"
+      },
+      {
+        "kiksht": "nichaitbut",
+        "english": "she was frozen (last week) [Dyk]"
+      },
+      {
+        "kiksht": "chawibút",
+        "english": "everything's frozen (liter- ally 'they are freezing') [HS 7/22/ 51]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qamabamax chilbwálalix.",
+        "english": "Everywhere it is freezing; in places it is freezing. [Dyk]"
+      },
+      {
+        "kiksht": "Wimał chilbút.",
+        "english": "The river is frozen over. [HS 7/22/ 51]"
+      }
+    ],
+    "seeAlso": [
+      "-i-l-BWA-mit, -BU, -BWA"
+    ]
+  },
+  "-i-l-BWA-mit": {
+    "root": "-i-l-BWA-mit",
+    "partOfSpeech": "vb",
+    "definition": "freeze [transitive] Forms: inialbwamit \"I froze it[a-]\" [Dyk]",
+    "notes": [
+      "A note in Dyk says this is \"not often used.\""
+    ],
+    "seeAlso": [
+      "-ch-l-BU"
+    ]
+  },
   "-s-BNA": {
     "root": "-s-BNA",
     "partOfSpeech": "vb",
@@ -207,6 +324,134 @@
     "pronunciation": "The root -bna is often pronounced bena.",
     "seeAlso": [
       "is-bnanan"
+    ]
+  },
+  "-s-BNA-cu": {
+    "root": "-s-BNA-cu",
+    "partOfSpeech": "vb",
+    "definition": "jump down",
+    "forms": [
+      {
+        "kiksht": "nicsag̲nbnacu",
+        "english": "he jumped down from it[a-]"
+      },
+      {
+        "kiksht": "nicsug̲witbnacu",
+        "english": "he jumped down from them (once, last week) [Dyk]"
+      }
+    ]
+  },
+  "-s-BNA-pq": {
+    "root": "-s-BNA-pq",
+    "partOfSpeech": "vb",
+    "definition": "jump in, jump into",
+    "forms": [
+      {
+        "kiksht": "gacsignbnapq",
+        "english": "he jumped in(to it[i-])"
+      },
+      {
+        "kiksht": "gacsawibnapq",
+        "english": "he jumped into them (brush) [HS 1954]"
+      }
+    ],
+    "notes": [
+      "Apparently used only with relational prefixes."
+    ]
+  },
+  "-s-BNA-unx": {
+    "root": "-s-BNA-unx",
+    "partOfSpeech": "vb",
+    "definition": "jump up",
+    "forms": [
+      {
+        "kiksht": "esbnauenx!",
+        "english": "jump up! [GT, MMc 1/15/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Shaxel icsubnaunx.",
+        "english": "He jumped up in the air. [GT 12/30/ 97]"
+      }
+    ]
+  },
+  "-s-a-n-BNA-łx": {
+    "root": "-s-a-n-BNA-łx",
+    "partOfSpeech": "vb",
+    "definition": "jump in water, jump into water",
+    "forms": [
+      {
+        "kiksht": "ensanbnánłx",
+        "english": "I am jumping into water [Dyk]"
+      },
+      {
+        "kiksht": "tksanbnanłx",
+        "english": "they are jumping in(to) water [WTI.1c.1]"
+      },
+      {
+        "kiksht": "łksanbnanłx",
+        "english": "they are jumping in water [WTI.1c.2]"
+      },
+      {
+        "kiksht": "acsenbnanłxa",
+        "english": "he will jump into water"
+      },
+      {
+        "kiksht": "insanbnánłx",
+        "english": "I jumped into water"
+      },
+      {
+        "kiksht": "icsanbnanłx",
+        "english": "he jumped into water [GT, MMc 1/13/ 99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Tłbu insanbnałx.",
+        "english": "Splash I jumped into the water. [Dyk]"
+      }
+    ]
+  },
+  "-s-xl-BNA-nan": {
+    "root": "-s-xl-BNA-nan",
+    "partOfSpeech": "vb",
+    "definition": "jump around",
+    "forms": [
+      {
+        "kiksht": "asuxibnánanma",
+        "english": "they will jump around [GT, MMc 1/15/99]"
+      }
+    ]
+  },
+  "-s-xl-BNA-unenxł": {
+    "root": "-s-xl-BNA-unenxł",
+    "partOfSpeech": "vb",
+    "definition": "jump up and down",
+    "forms": [
+      {
+        "kiksht": "asuxibnaun§nxła",
+        "english": "they will jump up and down (not in dancing)"
+      },
+      {
+        "kiksht": "asuxibnaiwaun§nxła",
+        "english": "they will (one at a time) jump up and down"
+      },
+      {
+        "kiksht": "sixnbnaun§nxł",
+        "english": "he is jumping up and down [Dyk]"
+      }
+    ]
+  },
+  "-s-xl-BNA-unx": {
+    "root": "-s-xl-BNA-unx",
+    "partOfSpeech": "vb",
+    "definition": "jump up",
+    "forms": [
+      {
+        "kiksht": "nisixitbnaunx",
+        "english": "he jumped up (once, last week) [Dyk]"
+      }
     ]
   },
   "-sh-l-BIXWA": {
@@ -8363,6 +8608,24 @@
     ],
     "seeAlso": [
       "i-kaqmit"
+    ]
+  },
+  "is-bnanan": {
+    "root": "is-bnanan",
+    "partOfSpeech": "n",
+    "definition": "jumping",
+    "forms": [
+      {
+        "kiksht": "isgabnanan",
+        "english": "her jumping; she is a jumper"
+      },
+      {
+        "kiksht": "isiabnanan",
+        "english": "his jumping; he is a jumper [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-s-BNA"
     ]
   },
   "ish-awalptin": {
