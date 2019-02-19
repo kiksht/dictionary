@@ -114,6 +114,89 @@
       }
     ]
   },
+  "-BUN(A)-it": {
+    "root": "-BUN(A)-it",
+    "partOfSpeech": "vb",
+    "definition": "hang up",
+    "forms": [
+      {
+        "kiksht": "chiubunit",
+        "english": "he has it[i-] hung up"
+      },
+      {
+        "kiksht": "ichiubunit",
+        "english": "he hung it[i-] up [DykGr 64]"
+      }
+    ],
+    "seeAlso": [
+      "-BNA"
+    ]
+  },
+  "-BUNA, -ł-BUNA": {
+    "root": "-BUNA, -ł-BUNA",
+    "partOfSpeech": "vb",
+    "definition": "take food",
+    "forms": [
+      {
+        "kiksht": "łbuna!",
+        "english": "take food!"
+      },
+      {
+        "kiksht": "iłkłbuna",
+        "english": "they took food [PK 7/18/56]"
+      }
+    ],
+    "notes": [
+      "Apparently refers to taking food to a person's home, perhaps for a ceremonial occasion."
+    ]
+  },
+  "-BUNA-chkw": {
+    "root": "-BUNA-chkw",
+    "partOfSpeech": "vb",
+    "definition": "lift, hold up",
+    "forms": [
+      {
+        "kiksht": "anyubúnachkwa",
+        "english": "I will lift it[i-]"
+      },
+      {
+        "kiksht": "nyubúnachkwt",
+        "english": "I am lifting it[i-]; I am holding it up"
+      },
+      {
+        "kiksht": "qiubúnachkwt",
+        "english": "he is being lifted/ held up"
+      },
+      {
+        "kiksht": "ik'ibunanchk",
+        "english": "he is lifting"
+      },
+      {
+        "kiksht": "ixtk'íbunapchk",
+        "english": "He was lifting"
+      },
+      {
+        "kiksht": "iqiubúnachk",
+        "english": "he was lifted"
+      },
+      {
+        "kiksht": "ichiubunachk",
+        "english": "he lifted it[i-]"
+      },
+      {
+        "kiksht": "inyubunachk",
+        "english": "I lifted it[i-]"
+      },
+      {
+        "kiksht": "yubunachkux",
+        "english": "he is lifted, held up"
+      },
+      {
+        "kiksht": "shdubunachkux",
+        "english": "they 2 are lifted [Dyk]"
+      }
+    ]
+  },
   "-bali": {
     "root": "-bali",
     "partOfSpeech": "n",
@@ -845,6 +928,34 @@
     "partOfSpeech": "n",
     "definition": "nipple"
   },
+  "a-bukbuk": {
+    "root": "a-bukbuk",
+    "partOfSpeech": "n",
+    "definition": "chipmunk",
+    "forms": [
+      {
+        "kiksht": "ishbukbuk",
+        "english": "2 chipmunks [HS 7/54]"
+      }
+    ],
+    "notes": [
+      "Refers to a large dark brown variety of chipmunk living at higher altitudes on the west side of the Cas- cades."
+    ]
+  },
+  "a-bushel": {
+    "root": "a-bushel",
+    "partOfSpeech": "n",
+    "definition": "bushel (measurement)",
+    "examples": [
+      {
+        "kiksht": "makwsht abushel wa'au",
+        "english": "2 bushels too many [Dyk]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
   "a-bánaxa": {
     "root": "a-bánaxa",
     "partOfSpeech": "n",
@@ -854,6 +965,20 @@
     ],
     "seeAlso": [
       "a-pánag̲naq, i-bánaxa"
+    ]
+  },
+  "a-búd": {
+    "root": "a-búd",
+    "partOfSpeech": "n",
+    "definition": "boat",
+    "forms": [
+      {
+        "kiksht": "abudmax",
+        "english": "boats [Dyk]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
     ]
   },
   "a-g̲agilak": {
@@ -8114,6 +8239,67 @@
       }
     ]
   },
+  "bushiksh": {
+    "root": "bushiksh",
+    "partOfSpeech": "part",
+    "definition": "perform gift-giving ceremony",
+    "examples": [
+      {
+        "kiksht": "Bushiksh ichiux.",
+        "english": "He gave him a gift. [Dyk]"
+      },
+      {
+        "kiksht": "Bushiksh nashxuxama.",
+        "english": "We went to perform bushiksh. [JeMc 8/24/52]"
+      }
+    ],
+    "notes": [
+      "Refers to the ceremonial giv- ing of gifts by the parents of a new- born child. An alternate form of bushksh."
+    ],
+    "seeAlso": [
+      "bushksh, i-k'ibushiksh"
+    ]
+  },
+  "bushksh": {
+    "root": "bushksh",
+    "partOfSpeech": "part",
+    "definition": "perform gift-giving ceremony",
+    "examples": [
+      {
+        "kiksht": "Alma bushksh alxuxwa.",
+        "english": "We are going to perform bushksh."
+      },
+      {
+        "kiksht": "Ag̲a bushksh inkixax.",
+        "english": "I am perform- ing bushksh now."
+      },
+      {
+        "kiksht": "Bushksh alma anxuxwa.",
+        "english": "I am going to perform bushksh."
+      },
+      {
+        "kiksht": "Bushksh nałxuxwa.",
+        "english": "They have performed bushksh already. [JeMc 7/29/52]"
+      }
+    ],
+    "notes": [
+      "Refers to a ceremony of giv- ing gifts at a naming (and at other times such as first-kill, according to GT, MMc 6/4/98). Alternate forms are busks, bushiksh."
+    ],
+    "seeAlso": [
+      "busks, bushiksh"
+    ]
+  },
+  "busks": {
+    "root": "busks",
+    "partOfSpeech": "part",
+    "definition": "perform gift-giving ceremony",
+    "notes": [
+      "An alternate form of bushksh."
+    ],
+    "seeAlso": [
+      "bushksh"
+    ]
+  },
   "básayuks": {
     "root": "básayuks",
     "partOfSpeech": "n",
@@ -8483,6 +8669,14 @@
       "i- -bladax, i-p'askwal"
     ]
   },
+  "i-buipui": {
+    "root": "i-buipui",
+    "partOfSpeech": "n",
+    "definition": "tree squirrel [HS 11/24/ 51], boomer squirrel [HS 8/8/56], pine squirrel [PK 8/24/55]",
+    "seeAlso": [
+      "i-puipui"
+    ]
+  },
   "i-bábeshxu": {
     "root": "i-bábeshxu",
     "partOfSpeech": "n",
@@ -8551,6 +8745,22 @@
     "definition": "dime",
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "i-búhuqux": {
+    "root": "i-búhuqux",
+    "partOfSpeech": "n",
+    "definition": "chittum"
+  },
+  "i-búp": {
+    "root": "i-búp",
+    "partOfSpeech": "n",
+    "definition": "Canadian lynx, lynx cat",
+    "forms": [
+      {
+        "kiksht": "ishbúp",
+        "english": "2 lynx cats [HS]"
+      }
     ]
   },
   "i-k'ámunaq": {
@@ -8707,6 +8917,31 @@
     ],
     "seeAlso": [
       "it-p'aisxádagwax, it- t'uxadagwax, i-kádagwax"
+    ]
+  },
+  "it-bulmax": {
+    "root": "it-bulmax",
+    "partOfSpeech": "n",
+    "definition": "shade",
+    "examples": [
+      {
+        "kiksht": "wapisht itgabulmax",
+        "english": "the sunflower's shade [WTI.5.3]"
+      }
+    ]
+  },
+  "it-buqux": {
+    "root": "it-buqux",
+    "partOfSpeech": "n",
+    "definition": "ridge, mountain ridge [Dyk], mountains [PK 8/24/54]",
+    "forms": [
+      {
+        "kiksht": "itbúquxmax",
+        "english": "mountains [Dyk]"
+      }
+    ],
+    "notes": [
+      "Hiram Smith [8/23/52] said that this word does not refer to snowpeaks, for which a-kakan is used. PK 8/23/52, however, appar- ently said that this word could refer to the Cascades or the Andes. HS 8/ 8/56 gave this word as in effect a plural of i-bakal."
     ]
   },
   "ił-alakásgwilit": {

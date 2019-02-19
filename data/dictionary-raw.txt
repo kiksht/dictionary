@@ -2783,3 +2783,56 @@ See also: -ch-l-BU
 -buchxan [rel] brother-in-law (woman speaking), sister-in-law (man speaking)
 Forms: ichbuchxan “my brother-in- law, my husband’s brother, my sister’s husband (woman speaking)” akbuchxan “my sister-in-law, my wife’s sister, my brother’s wife (man speaking)” [Dyk] ichabuchxan “her brother-in-law” ayabuchxan “his sister-in-law” [HS 7/30/54] qibuchxan! “brother-in-law! [woman speaking]; sister-in-law! [man speak- ing]” [Relatives]
 Notes: Refers to a sibling-in-law of opposite gender from the person speaking or spoken about.
+
+
+a-b ̈d [n] boat
+Forms: abudmax “boats” [Dyk]
+Notes: Borrowed from English.
+
+i-b ̈huqux [n] chittum
+
+i-buipui [n] tree squirrel [HS 11/24/ 51], boomer squirrel [HS 8/8/56], pine squirrel [PK 8/24/55]
+See also: i-puipui
+
+a-bukbuk [n] chipmunk
+Forms: ishbukbuk “2 chipmunks” [HS 7/54]
+Notes: Refers to a large dark brown variety of chipmunk living at higher altitudes on the west side of the Cas- cades.
+
+it-bulmax [n] shade
+Examples: wapisht itgabulmax “the sunflower’s shade” [WTI.5.3]
+
+-BUNA, -¬-BUNA [vb] take food
+Forms: ¬buna! “take food!” i¬k¬buna “they took food” [PK 7/18/56]
+Notes: Apparently refers to taking food to a person’s home, perhaps for a ceremonial occasion.
+
+-BUNA-chkw [vb] lift, hold up
+Forms: anyub ̈nachkwa “I will lift it[i-]” nyub ̈nachkwt “I am lifting it[i-]; I am holding it up” qiub ̈nachkwt “he is being lifted/ held up” ik’ibunanchk “he is lifting” ixtk’ˆbunapchk “He was lifting” iqiub ̈nachk “he was lifted” ichiubunachk “he lifted it[i-]” inyubunachk “I lifted it[i-]” yubunachkux “he is lifted, held up” shdubunachkux “they 2 are lifted” [Dyk]
+
+-BUN(A)-it [vb] hang up
+Forms: chiubunit “he has it[i-] hung up” ichiubunit “he hung it[i-] up” [DykGr 64]
+See also: -BNA
+
+i-b ̈p [n] Canadian lynx, lynx cat
+Forms: ishb ̈p “2 lynx cats” [HS]
+
+it-buqux [n] ridge, mountain ridge [Dyk], mountains [PK 8/24/54]
+Forms: itb ̈quxmax “mountains” [Dyk]
+Notes: Hiram Smith [8/23/52] said that this word does not refer to snowpeaks, for which a-kakan is used. PK 8/23/52, however, appar- ently said that this word could refer to the Cascades or the Andes. HS 8/ 8/56 gave this word as in effect a plural of i-bakal.
+
+busks [part] perform gift-giving ceremony
+Notes: An alternate form of bushksh.
+See also: bushksh
+
+a-bushel [n] bushel (measurement)
+Examples: makwsht abushel wa’au “2 bushels too many” [Dyk]
+Notes: Borrowed from English.
+
+bushiksh [part] perform gift-giving ceremony
+Examples: Bushiksh ichiux. “He gave him a gift.” [Dyk] Bushiksh nashxuxama. “We went to perform bushiksh.” [JeMc 8/24/52]
+Notes: Refers to the ceremonial giv- ing of gifts by the parents of a new- born child. An alternate form of bushksh.
+See also: bushksh, i-k’ibushiksh
+
+bushksh [part] perform gift-giving ceremony
+Examples: Alma bushksh alxuxwa. “We are going to perform bushksh.” A©a bushksh inkixax. “I am perform- ing bushksh now.” Bushksh alma anxuxwa. “I am going to perform bushksh.” Bushksh na¬xuxwa. “They have performed bushksh already.” [JeMc 7/29/52]
+Notes: Refers to a ceremony of giv- ing gifts at a naming (and at other times such as first-kill, according to GT, MMc 6/4/98). Alternate forms are busks, bushiksh.
+See also: busks, bushiksh
