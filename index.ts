@@ -13,7 +13,7 @@ interface Form {
     english: string;
 }
 
-type PartOfSpeech = "n" | "pron" | "vb" | "adv" | "part" | "interj" | "place";
+type PartOfSpeech = "n" | "pron" | "vb" | "adv" | "part" | "interj" | "place" | "rel";
 
 interface Entry {
     root: string;
