@@ -21,6 +21,20 @@
       "adau"
     ]
   },
+  "-bali": {
+    "root": "-bali",
+    "partOfSpeech": "n",
+    "definition": "barley",
+    "forms": [
+      {
+        "kiksht": "iłbali",
+        "english": "barley [PK 9/5/55] abali [CJ 8/7/52, AF 7/27/54]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English. Dif- ferent people apparently have used it with different prefixes."
+    ]
+  },
   "-sk'ulya": {
     "root": "-sk'ulya",
     "partOfSpeech": "n",
@@ -341,6 +355,51 @@
         "kiksht": "dala'ax iłkaq",
         "english": "probably her mother [Dyk]"
       }
+    ]
+  },
+  "a-baks": {
+    "root": "a-baks",
+    "partOfSpeech": "n",
+    "definition": "box",
+    "examples": [
+      {
+        "kiksht": "Gwutgwut kiuxt abaks.",
+        "english": "The box is tiring him out (because it's too heavy)."
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
+    ],
+    "seeAlso": [
+      "a-bakws"
+    ]
+  },
+  "a-bakws": {
+    "root": "a-bakws",
+    "partOfSpeech": "n",
+    "definition": "box",
+    "forms": [
+      {
+        "kiksht": "iłbakws",
+        "english": "boxes [Dyk]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
+    ],
+    "seeAlso": [
+      "a-baks"
+    ]
+  },
+  "a-bánaxa": {
+    "root": "a-bánaxa",
+    "partOfSpeech": "n",
+    "definition": "apánag̲naq seeds",
+    "notes": [
+      "Burnt for their odor as a de- odorant."
+    ],
+    "seeAlso": [
+      "a-pánag̲naq, i-bánaxa"
     ]
   },
   "a-g̲agilak": {
@@ -7401,6 +7460,87 @@
       "Used only of winning or los- ing at games."
     ]
   },
+  "bama": {
+    "root": "bama",
+    "partOfSpeech": "conj",
+    "definition": "than, for, in order to",
+    "examples": [
+      {
+        "kiksht": "It'ukdi ik'ashkash ikala bam(a) itk'ámunaq.",
+        "english": "A boy is better than pieces of wood. [WTI.1a2]"
+      }
+    ]
+  },
+  "bamá": {
+    "root": "bamá",
+    "partOfSpeech": "adv",
+    "definition": "since",
+    "examples": [
+      {
+        "kiksht": "kwapt bamá",
+        "english": "since then"
+      },
+      {
+        "kiksht": "Kadux bamá nuxt.",
+        "english": "I sat since morn- ing. [Dyk]"
+      }
+    ]
+  },
+  "baq": {
+    "root": "baq",
+    "partOfSpeech": "part",
+    "definition": "turn off, leave, depart from, detour, regain consciousness, come back to life",
+    "examples": [
+      {
+        "kiksht": "Bag̲ anxuxwa.",
+        "english": "I will make a detour, turn off. [Dyk]; I will de- part. [WTI.11.9]"
+      },
+      {
+        "kiksht": "Bag̲ ayaxamxuxa.",
+        "english": "I'll depart from you, leave you."
+      },
+      {
+        "kiksht": "Baq ikiax.",
+        "english": "He is turning off."
+      },
+      {
+        "kiksht": "Bag̲ ishxlux.",
+        "english": "They 2 departed from each other; they 2 (for instance, 2 roads) departed from each other (in 2 branches), branched off from each other"
+      },
+      {
+        "kiksht": "Shxabaq ishixat.",
+        "english": "The road divided."
+      },
+      {
+        "kiksht": "Bag̲ igixux.",
+        "english": "It[i-] (for in- stance, a road) turned off; he re- gained consciousness."
+      },
+      {
+        "kiksht": "Baq ichiux.",
+        "english": "He turned him (for instance, a horse) aside."
+      },
+      {
+        "kiksht": "Baq inxúx.",
+        "english": "I turned off; I came back to life."
+      },
+      {
+        "kiksht": "Baq inxixux.",
+        "english": "I parted from him."
+      },
+      {
+        "kiksht": "Baq iyaxaxux.",
+        "english": "He parted from her."
+      },
+      {
+        "kiksht": "Baq gashuxux.",
+        "english": "They 2 parted from each other."
+      },
+      {
+        "kiksht": "Baq gashntxlúx.",
+        "english": "We 2 (not including you) parted from each other. [Dyk]"
+      }
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -7459,6 +7599,17 @@
     "definition": "he drifted along",
     "seeAlso": [
       "-NI"
+    ]
+  },
+  "i- -bagúmxch": {
+    "root": "i- -bagúmxch",
+    "partOfSpeech": "adj n",
+    "definition": "pretty",
+    "forms": [
+      {
+        "kiksht": "ichabagúmxch",
+        "english": "she is pretty [GT, MMc]"
+      }
     ]
   },
   "i- -ánana": {
@@ -7557,6 +7708,76 @@
       "amama, mamash"
     ]
   },
+  "i-bakal": {
+    "root": "i-bakal",
+    "partOfSpeech": "n",
+    "definition": "mountain ridge [Dyk, HS 6/23/56], small mountain [HS 6/23/ 56]",
+    "forms": [
+      {
+        "kiksht": "ishbakal",
+        "english": "2 small mountains [HS 6/23/56]"
+      }
+    ],
+    "seeAlso": [
+      "it-buqux"
+    ]
+  },
+  "i-balau": {
+    "root": "i-balau",
+    "partOfSpeech": "n",
+    "definition": "talking nonsense, saying what appears improbable, saying incredible things",
+    "forms": [
+      {
+        "kiksht": "idiabaumax",
+        "english": "he is one who talks of seeming wonders [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "K'ay(a) ibalau chnuxt.",
+        "english": "I mean business."
+      },
+      {
+        "kiksht": "Ibálauyamt iyug̲wíwlxtam.",
+        "english": "He got to the top from talking nonsense. [Dyk]"
+      }
+    ]
+  },
+  "i-bábeshxu": {
+    "root": "i-bábeshxu",
+    "partOfSpeech": "n",
+    "definition": "sagebrush",
+    "seeAlso": [
+      "i-bábeshxulit"
+    ]
+  },
+  "i-bábeshxulit": {
+    "root": "i-bábeshxulit",
+    "partOfSpeech": "n",
+    "definition": "sagebrush place",
+    "seeAlso": [
+      "i-bábeshxu"
+    ]
+  },
+  "i-bábesxu": {
+    "root": "i-bábesxu",
+    "partOfSpeech": "n",
+    "definition": "white-colored sage- brush with yellow flowers",
+    "notes": [
+      "This is probably just a variant form of i-bábeshxu."
+    ]
+  },
+  "i-bánaxa": {
+    "root": "i-bánaxa",
+    "partOfSpeech": "n",
+    "definition": "wipan seeds",
+    "notes": [
+      "This apparently refers to the same thing as a-bánaxa; there is thus some uncertainty as to the correct prefix."
+    ],
+    "seeAlso": [
+      "a-bánaxa"
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -7636,6 +7857,11 @@
       "-GWI-pchk"
     ]
   },
+  "it- -baishxilal": {
+    "root": "it- -baishxilal",
+    "partOfSpeech": "adj n",
+    "definition": "clumsy"
+  },
   "it-address": {
     "root": "it-address",
     "partOfSpeech": "n",
@@ -7650,6 +7876,23 @@
       "Borrowed from English; an English word used with Wasco pre- fixes."
     ]
   },
+  "it-baisxádagwax": {
+    "root": "it-baisxádagwax",
+    "partOfSpeech": "n",
+    "definition": "sin-minded per- son, untrustworthy person [PK 7/11/ 12/56], mind of obscenity [Dyk]",
+    "forms": [
+      {
+        "kiksht": "idiabaisxadagwax",
+        "english": "he is in the habit of craving for sexual gratifi- cation [Dyk]"
+      }
+    ],
+    "notes": [
+      "This is a stronger form of it- p'aisxádagwax."
+    ],
+    "seeAlso": [
+      "it-p'aisxádagwax, it- t'uxadagwax, i-kádagwax"
+    ]
+  },
   "ił-alakásgwilit": {
     "root": "ił-alakásgwilit",
     "partOfSpeech": "n",
@@ -7660,6 +7903,11 @@
     "seeAlso": [
       "-lakas, i-lgwilit"
     ]
+  },
+  "ił-báchiu": {
+    "root": "ił-báchiu",
+    "partOfSpeech": "n",
+    "definition": "Indian tobacco"
   },
   "kinwa": {
     "root": "kinwa",
@@ -7783,6 +8031,11 @@
     "seeAlso": [
       "qengiská, qengidnu qengi ch'ala [idiom]  \"how about it?\", \"what do you say?\""
     ]
+  },
+  "wa-ba": {
+    "root": "wa-ba",
+    "partOfSpeech": "n",
+    "definition": "bee, yellowjacket"
   },
   "wi-lx": {
     "root": "wi-lx",
