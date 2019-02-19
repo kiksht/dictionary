@@ -6390,6 +6390,293 @@
       "-x-ŁUXWA"
     ]
   },
+  "aya'aya": {
+    "root": "aya'aya",
+    "partOfSpeech": "part",
+    "definition": "treat well",
+    "examples": [
+      {
+        "kiksht": "Aya'aya chiuxt.",
+        "english": "He is treating him well. [Dyk]"
+      }
+    ]
+  },
+  "ayamdulxama": {
+    "root": "ayamdulxama",
+    "partOfSpeech": "vb",
+    "definition": "I will tell you 2",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "ayamgelgaya": {
+    "root": "ayamgelgaya",
+    "partOfSpeech": "vb",
+    "definition": "I will seize you",
+    "seeAlso": [
+      "-gl-KA"
+    ]
+  },
+  "ayamgelłádniłma": {
+    "root": "ayamgelłádniłma",
+    "partOfSpeech": "vb",
+    "definition": "I will throw them to you",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "ayamg̲elglaya": {
+    "root": "ayamg̲elglaya",
+    "partOfSpeech": "vb",
+    "definition": "I will see you",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ayamg̲itgelx": {
+    "root": "ayamg̲itgelx",
+    "partOfSpeech": "vb",
+    "definition": "I will see you",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ayamlg̲wima": {
+    "root": "ayamlg̲wima",
+    "partOfSpeech": "vb",
+    "definition": "I will give it[i-] to you to eat",
+    "seeAlso": [
+      "-QWIM"
+    ]
+  },
+  "ayamluda": {
+    "root": "ayamluda",
+    "partOfSpeech": "vb",
+    "definition": "I will give it[i-] to you [WTI.1i.7, 14.3, 17.2], I will give them to you [WTI.17.11]",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "ayamluxwama": {
+    "root": "ayamluxwama",
+    "partOfSpeech": "vb",
+    "definition": "I will go make it for you",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ayamlłxwaya": {
+    "root": "ayamlłxwaya",
+    "partOfSpeech": "vb",
+    "definition": "I will put it around your neck",
+    "seeAlso": [
+      "-l-ŁX̲WA"
+    ]
+  },
+  "ayamshgatg̲wama": {
+    "root": "ayamshgatg̲wama",
+    "partOfSpeech": "vb",
+    "definition": "I will come back to you folks",
+    "seeAlso": [
+      "-QWAM"
+    ]
+  },
+  "ayamshg̲elglaya": {
+    "root": "ayamshg̲elglaya",
+    "partOfSpeech": "vb",
+    "definition": "I will see you folks",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ayamshg̲luqłqa": {
+    "root": "ayamshg̲luqłqa",
+    "partOfSpeech": "vb",
+    "definition": "I will leave you folks, I will depart from you folks",
+    "seeAlso": [
+      "-g̲l-QŁQ"
+    ]
+  },
+  "ayamshluda": {
+    "root": "ayamshluda",
+    "partOfSpeech": "vb",
+    "definition": "I will give it to you folks",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "ayamshuxwa": {
+    "root": "ayamshuxwa",
+    "partOfSpeech": "vb",
+    "definition": "I will do you 2",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ayamtkxáimaya": {
+    "root": "ayamtkxáimaya",
+    "partOfSpeech": "vb",
+    "definition": "I will lay it[a-] on you 2",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "ayamug̲wada": {
+    "root": "ayamug̲wada",
+    "partOfSpeech": "vb",
+    "definition": "I will bathe you, I will give you a bath",
+    "seeAlso": [
+      "- G̲WAT"
+    ]
+  },
+  "ayamukła": {
+    "root": "ayamukła",
+    "partOfSpeech": "vb",
+    "definition": "I will take you with me",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "ayamulxama": {
+    "root": "ayamulxama",
+    "partOfSpeech": "vb",
+    "definition": "I will tell you",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "ayamuwag̲wa": {
+    "root": "ayamuwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "I will kill you",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "ayamuwálalma": {
+    "root": "ayamuwálalma",
+    "partOfSpeech": "vb",
+    "definition": "I will follow you about",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "ayamuxa": {
+    "root": "ayamuxa",
+    "partOfSpeech": "vb",
+    "definition": "I will do you",
+    "examples": [
+      {
+        "kiksht": "Kiksht wawa ayamuxa.",
+        "english": "I will speak Wasco with you. [CLL4]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ayamuxwa": {
+    "root": "ayamuxwa",
+    "partOfSpeech": "vb",
+    "definition": "I will do to you",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ayamułxlma": {
+    "root": "ayamułxlma",
+    "partOfSpeech": "vb",
+    "definition": "I will feed you",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "ayamwaya": {
+    "root": "ayamwaya",
+    "partOfSpeech": "vb",
+    "definition": "I will follow you, I will join you (in travelling)",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "ayamxluxa": {
+    "root": "ayamxluxa",
+    "partOfSpeech": "vb",
+    "definition": "you will do to me",
+    "examples": [
+      {
+        "kiksht": "Qwtł ayamxluxa ag̲a.",
+        "english": "You will hang on to me. [WTI.9.3]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ayaxemlkwłichkwa": {
+    "root": "ayaxemlkwłichkwa",
+    "partOfSpeech": "vb",
+    "definition": "I will tell you",
+    "seeAlso": [
+      "-x-l-KWŁI"
+    ]
+  },
+  "ayugwilaida": {
+    "root": "ayugwilaida",
+    "partOfSpeech": "vb",
+    "definition": "he will doctor",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "ayug̲úptida": {
+    "root": "ayug̲úptida",
+    "partOfSpeech": "vb",
+    "definition": "he constantly falls asleep",
+    "seeAlso": [
+      "- G̲UPT-it"
+    ]
+  },
+  "ayulap'áchguxwida": {
+    "root": "ayulap'áchguxwida",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] will tilt up",
+    "seeAlso": [
+      "-LAP'ACH-kw"
+    ]
+  },
+  "ayumqta": {
+    "root": "ayumqta",
+    "partOfSpeech": "vb",
+    "definition": "he will die",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "ayutxwida": {
+    "root": "ayutxwida",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] will stand, it[i-] will appear",
+    "seeAlso": [
+      "-TX(WI)"
+    ]
+  },
+  "ayuxwímuxa": {
+    "root": "ayuxwímuxa",
+    "partOfSpeech": "vb",
+    "definition": "they will eat it[i-]",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "ayúlkchwaya": {
+    "root": "ayúlkchwaya",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] will fall",
+    "seeAlso": [
+      "-LK-chu"
+    ]
+  },
   "ałag̲útłqt akłmín": {
     "root": "ałag̲útłqt akłmín",
     "partOfSpeech": "n",
