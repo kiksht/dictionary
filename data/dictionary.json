@@ -99,6 +99,21 @@
       "i-bichem"
     ]
   },
+  "-BIXWA": {
+    "root": "-BIXWA",
+    "partOfSpeech": "vb",
+    "definition": "blow away [transitive]",
+    "forms": [
+      {
+        "kiksht": "ichdubixwax",
+        "english": "it[i-] blew them/it (for instance, house, it-qwłí)"
+      },
+      {
+        "kiksht": "achdubixwaiaxdix",
+        "english": "it[i-] will blow them/it away [PK 7/18/56]"
+      }
+    ]
+  },
   "-bali": {
     "root": "-bali",
     "partOfSpeech": "n",
@@ -111,6 +126,109 @@
     ],
     "notes": [
       "Borrowed from English. Dif- ferent people apparently have used it with different prefixes."
+    ]
+  },
+  "-s-BNA": {
+    "root": "-s-BNA",
+    "partOfSpeech": "vb",
+    "definition": "jump",
+    "forms": [
+      {
+        "kiksht": "sbna",
+        "english": "jump! [GT, MMc 1/ 15/99]"
+      },
+      {
+        "kiksht": "csubnat",
+        "english": "he is jumping [HS 1954]"
+      },
+      {
+        "kiksht": "csubnanan",
+        "english": "he is jumping about"
+      },
+      {
+        "kiksht": "tksubnaiut",
+        "english": "they are in the jump (each one individually; might be used, for instance, of a picture showing people in a position to jump)"
+      },
+      {
+        "kiksht": "gansúbnax",
+        "english": "I jumped"
+      },
+      {
+        "kiksht": "gacsúbnax",
+        "english": "he jumped"
+      },
+      {
+        "kiksht": "gaksbná, gaksúbnax",
+        "english": "she jumped"
+      },
+      {
+        "kiksht": "gansbnanan",
+        "english": "I used to jump around all the time"
+      },
+      {
+        "kiksht": "gansubnamam",
+        "english": "I went to jump"
+      },
+      {
+        "kiksht": "ganstbnamam",
+        "english": "I came to jump [Dyk]"
+      },
+      {
+        "kiksht": "insagenbná",
+        "english": "I jumped at/to her [relational prefix]"
+      },
+      {
+        "kiksht": "icsagenbna",
+        "english": "he jumped at/to her [relational prefix]"
+      },
+      {
+        "kiksht": "iksigenbna",
+        "english": "she jumped at/to him [relational prefix] [Dyk]"
+      },
+      {
+        "kiksht": "gacsigabna",
+        "english": "he jumped on him"
+      },
+      {
+        "kiksht": "gacsigbnagwa",
+        "english": "he jumped over him"
+      },
+      {
+        "kiksht": "gacsugemabna",
+        "english": "he jumped alongside (them) [relational prefix] [HS 1954]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gacsubna gigwaladamt.",
+        "english": "He jumped under him. [HS 1954]"
+      }
+    ],
+    "pronunciation": "The root -bna is often pronounced bena.",
+    "seeAlso": [
+      "is-bnanan"
+    ]
+  },
+  "-sh-l-BIXWA": {
+    "root": "-sh-l-BIXWA",
+    "partOfSpeech": "vb",
+    "definition": "inflate",
+    "forms": [
+      {
+        "kiksht": "kshalbixwnił",
+        "english": "she is inflating it[a-]"
+      },
+      {
+        "kiksht": "shilbixwat",
+        "english": "it[i-] is inflated"
+      },
+      {
+        "kiksht": "ishilbixwaxit",
+        "english": "it[i-] became inflated [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-BIXWA"
     ]
   },
   "-sk'ulya": {
@@ -468,6 +586,19 @@
     "seeAlso": [
       "a-baks"
     ]
+  },
+  "a-biskic": {
+    "root": "a-biskic",
+    "partOfSpeech": "n",
+    "definition": "biscuits",
+    "notes": [
+      "Borrowed from English. Refers to Anglo-style biscuits."
+    ]
+  },
+  "a-bkw'ish": {
+    "root": "a-bkw'ish",
+    "partOfSpeech": "n",
+    "definition": "nipple"
   },
   "a-bánaxa": {
     "root": "a-bánaxa",
@@ -7703,6 +7834,41 @@
       }
     ]
   },
+  "bit": {
+    "root": "bit",
+    "partOfSpeech": "part",
+    "definition": "silent, quiet, still",
+    "examples": [
+      {
+        "kiksht": "Bit ikiax.",
+        "english": "He is still, not moving."
+      },
+      {
+        "kiksht": "Bid ichiux.",
+        "english": "He stilled it[i-], made it motionless."
+      },
+      {
+        "kiksht": "Bit inshxux.",
+        "english": "We (not including you) quieted down (as from moving about). [Dyk]"
+      },
+      {
+        "kiksht": "Bid emxux!",
+        "english": "Be quiet/still! [AF 12/ 29/52]"
+      },
+      {
+        "kiksht": "Bit gayutxwit.",
+        "english": "He just stood still. [AM 7/5/54]"
+      },
+      {
+        "kiksht": "Bid młáit.",
+        "english": "Sit still."
+      },
+      {
+        "kiksht": "Bid alxuxa itqwłiba.",
+        "english": "We bet- ter stay home. [GT, MMc]"
+      }
+    ]
+  },
   "básayuks": {
     "root": "básayuks",
     "partOfSpeech": "n",
@@ -7793,6 +7959,17 @@
       {
         "kiksht": "ichabagúmxch",
         "english": "she is pretty [GT, MMc]"
+      }
+    ]
+  },
+  "i- -bladax": {
+    "root": "i- -bladax",
+    "partOfSpeech": "adj n",
+    "definition": "thick",
+    "forms": [
+      {
+        "kiksht": "iyabladax",
+        "english": "it[i-] is thick [GT, MMc 6/5/98]"
       }
     ]
   },
@@ -7984,6 +8161,83 @@
       "Obviously related to Warm Springs piaxí. The word was almost certainly borrowed from Warm Springs to Wasco, since the Wasco people must first have encountered this plant near Warm Springs terri- tory as they moved east along the Columbia."
     ]
   },
+  "i-bichem": {
+    "root": "i-bichem",
+    "partOfSpeech": "n",
+    "definition": "bumming fish, asking for fish",
+    "forms": [
+      {
+        "kiksht": "ichbichem",
+        "english": "I am a bummer of fish [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-BICHEM"
+    ]
+  },
+  "i-bicheq": {
+    "root": "i-bicheq",
+    "partOfSpeech": "n",
+    "definition": "red willow",
+    "seeAlso": [
+      "i-bícheqlit"
+    ]
+  },
+  "i-binatłx": {
+    "root": "i-binatłx",
+    "partOfSpeech": "n",
+    "definition": "hazel vine, stem of hazel bush",
+    "forms": [
+      {
+        "kiksht": "itbinatłx",
+        "english": "hazel vines [Dyk] See also: i-binatłxlit, i-bishg̲wait"
+      }
+    ]
+  },
+  "i-binatłxlit": {
+    "root": "i-binatłxlit",
+    "partOfSpeech": "n",
+    "definition": "hazel brush, hazel grove",
+    "seeAlso": [
+      "i-binatłx"
+    ]
+  },
+  "i-bishg̲wait": {
+    "root": "i-bishg̲wait",
+    "partOfSpeech": "n",
+    "definition": "hazel vine rope",
+    "forms": [
+      {
+        "kiksht": "itbishg̲wait",
+        "english": "(bunch of) hazel vine ropes"
+      }
+    ],
+    "notes": [
+      "Hazel vines (i-binatłx) were soaked and used as ropes."
+    ],
+    "seeAlso": [
+      "i-binatłx"
+    ]
+  },
+  "i-bixwł": {
+    "root": "i-bixwł",
+    "partOfSpeech": "n",
+    "definition": "sea-lion",
+    "seeAlso": [
+      "i-gibixwł"
+    ]
+  },
+  "i-bladáp'askwal": {
+    "root": "i-bladáp'askwal",
+    "partOfSpeech": "n",
+    "definition": "elephant",
+    "notes": [
+      "Literally \"thick skin.\""
+    ],
+    "seeAlso": [
+      "i- -bladax, i-p'askwal"
+    ]
+  },
   "i-bábeshxu": {
     "root": "i-bábeshxu",
     "partOfSpeech": "n",
@@ -8036,6 +8290,22 @@
     ],
     "seeAlso": [
       "bau, baubau, i-baubau"
+    ]
+  },
+  "i-bícheqlit": {
+    "root": "i-bícheqlit",
+    "partOfSpeech": "n",
+    "definition": "red willow grove",
+    "seeAlso": [
+      "i-bicheq"
+    ]
+  },
+  "i-bít": {
+    "root": "i-bít",
+    "partOfSpeech": "n",
+    "definition": "dime",
+    "notes": [
+      "Borrowed from English."
     ]
   },
   "i-k'ámunaq": {
@@ -8101,6 +8371,14 @@
     "definition": "cheat-grass",
     "notes": [
       "This noun is shown in WTI.5.3 as shawalaptin, with an abbreviated form of the classifying prefix ish-."
+    ]
+  },
+  "ish-blumas": {
+    "root": "ish-blumas",
+    "partOfSpeech": "n",
+    "definition": "woman's pants, bloomers",
+    "notes": [
+      "Borrowed from English. -BNA jump"
     ]
   },
   "ishktälgwipchk": {

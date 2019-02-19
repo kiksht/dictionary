@@ -2682,3 +2682,62 @@ Notes: Obviously related to Warm Springs piaxˆ. The word was almost certainly b
 -BICHEM(A) [vb] bum (fish), obtain (fish)
 Forms: chiubichem “he has it[i-] (a fish) bummed” chiubichemni¬ “he is (in process of) bumming it[i-]” chixbichem “he is bumming it[i-] (fish) from him” chiubichemni¬ “he is bumming it[i-] (a fish)” ichiubichem “he bummed it[i-] (a fish)” nxelbichem “I am bumming for myself” ichiubichem “he bummed it[i-]” inyalbichem “I bummed it[i-] for her” inilbichem “I bummed it[i-] for him” ichinlbichem “he bummed it for me” inxlbichmam “I went to bum fish for myself” enxitbichmamt “I am coming to bum fish for myself” ichalbichem “he bummed (fish) for her” ichiaxbichem “he bummed it[i-] from her” axlbichmamt “she is going to bum for herself” yubichmix “it[i-] has been bummed” [Dyk] ¬giubichema “he[i¬-] obtains it[i-] (fish)” [WTII.8.1]
 See also: i-bichem
+
+
+i-bichem [n] bumming fish, asking for fish
+Forms: ichbichem “I am a bummer of fish” [Dyk]
+See also: -BICHEM
+
+i-bicheq [n] red willow
+See also: i-bˆcheqlit
+
+i-bˆcheqlit [n] red willow grove
+See also: i-bicheq
+
+i-binat¬x [n] hazel vine, stem of hazel bush
+Forms: itbinat¬x “hazel vines” [Dyk] See also: i-binat¬xlit, i-bish©wait
+
+i-binat¬xlit [n] hazel brush, hazel grove
+See also: i-binat¬x
+
+a-biskic [n] biscuits
+Notes: Borrowed from English. Refers to Anglo-style biscuits.
+
+i-bish©wait [n] hazel vine rope
+Forms: itbish©wait “(bunch of) hazel vine ropes”
+Notes: Hazel vines (i-binat¬x) were soaked and used as ropes.
+See also: i-binat¬x
+
+bit [part] silent, quiet, still
+Examples: Bit ikiax. “He is still, not moving.” Bid ichiux. “He stilled it[i-], made it motionless.” Bit inshxux. “We (not including you) quieted down (as from moving about).” [Dyk] Bid emxux! “Be quiet/still!” [AF 12/ 29/52] Bit gayutxwit. “He just stood still.” [AM 7/5/54] Bid m¬Åit. “Sit still.” Bid alxuxa itqw¬iba. “We bet- ter stay home.” [GT, MMc]
+
+i-bˆt [n] dime
+Notes: Borrowed from English.
+
+-BIXWA [vb] blow away [transitive]
+Forms: ichdubixwax “it[i-] blew them/it (for instance, house, it-qw¬ˆ)” achdubixwaiaxdix “it[i-] will blow them/it away” [PK 7/18/56]
+
+-sh-l-BIXWA [vb] inflate
+Forms: kshalbixwni¬ “she is inflating it[a-]” shilbixwat “it[i-] is inflated” ishilbixwaxit “it[i-] became inflated” [Dyk]
+See also: -BIXWA
+
+i-bixw¬ [n] sea-lion
+See also: i-gibixw¬
+
+a-bkw’ish [n] nipple
+
+i-bladÅp’askwal [n] elephant
+Notes: Literally “thick skin.”
+See also: i- -bladax, i-p’askwal
+
+i- -bladax [adj n] thick
+Forms: iyabladax “it[i-] is thick” [GT, MMc 6/5/98]
+
+ish-blumas [n] woman’s pants, bloomers
+Notes: Borrowed from English. -BNA jump
+
+-s-BNA [vb] jump
+Forms: sbna “jump!” [GT, MMc 1/ 15/99] csubnat “he is jumping” [HS 1954] csubnanan “he is jumping about” tksubnaiut “they are in the jump (each one individually; might be used, for instance, of a picture showing people in a position to jump)” gans ̈bnax “I jumped” gacs ̈bnax “he jumped” gaksbnÅ, gaks ̈bnax “she jumped” gansbnanan “I used to jump around all the time” gansubnamam “I went to jump” ganstbnamam “I came to jump” [Dyk] insagenbnÅ “I jumped at/to her” [relational prefix] icsagenbna “he jumped at/to her” [relational prefix] iksigenbna “she jumped at/to him” [relational prefix] [Dyk] gacsigabna “he jumped on him” gacsigbnagwa “he jumped over him” gacsugemabna “he jumped alongside (them)” [relational prefix] [HS 1954]
+Examples: Gacsubna gigwaladamt. “He jumped under him.” [HS 1954]
+Pronunciation: The root -bna is often pronounced bena.
+See also: is-bnanan
