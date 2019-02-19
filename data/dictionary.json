@@ -21,6 +21,84 @@
       "adau"
     ]
   },
+  "-BICHEM(A)": {
+    "root": "-BICHEM(A)",
+    "partOfSpeech": "vb",
+    "definition": "bum (fish), obtain (fish)",
+    "forms": [
+      {
+        "kiksht": "chiubichem",
+        "english": "he has it[i-] (a fish) bummed"
+      },
+      {
+        "kiksht": "chiubichemnił",
+        "english": "he is (in process of) bumming it[i-]"
+      },
+      {
+        "kiksht": "chixbichem",
+        "english": "he is bumming it[i-] (fish) from him"
+      },
+      {
+        "kiksht": "chiubichemnił",
+        "english": "he is bumming it[i-] (a fish)"
+      },
+      {
+        "kiksht": "ichiubichem",
+        "english": "he bummed it[i-] (a fish)"
+      },
+      {
+        "kiksht": "nxelbichem",
+        "english": "I am bumming for myself"
+      },
+      {
+        "kiksht": "ichiubichem",
+        "english": "he bummed it[i-]"
+      },
+      {
+        "kiksht": "inyalbichem",
+        "english": "I bummed it[i-] for her"
+      },
+      {
+        "kiksht": "inilbichem",
+        "english": "I bummed it[i-] for him"
+      },
+      {
+        "kiksht": "ichinlbichem",
+        "english": "he bummed it for me"
+      },
+      {
+        "kiksht": "inxlbichmam",
+        "english": "I went to bum fish for myself"
+      },
+      {
+        "kiksht": "enxitbichmamt",
+        "english": "I am coming to bum fish for myself"
+      },
+      {
+        "kiksht": "ichalbichem",
+        "english": "he bummed (fish) for her"
+      },
+      {
+        "kiksht": "ichiaxbichem",
+        "english": "he bummed it[i-] from her"
+      },
+      {
+        "kiksht": "axlbichmamt",
+        "english": "she is going to bum for herself"
+      },
+      {
+        "kiksht": "yubichmix",
+        "english": "it[i-] has been bummed [Dyk]"
+      },
+      {
+        "kiksht": "łgiubichema",
+        "english": "he[ił-] obtains it[i-] (fish) [WTII.8.1]"
+      }
+    ],
+    "seeAlso": [
+      "i-bichem"
+    ]
+  },
   "-bali": {
     "root": "-bali",
     "partOfSpeech": "n",
@@ -7541,6 +7619,112 @@
       }
     ]
   },
+  "baqbáq": {
+    "root": "baqbáq",
+    "partOfSpeech": "part",
+    "definition": "brush, brush off",
+    "examples": [
+      {
+        "kiksht": "Baqbáq ichiux.",
+        "english": "He brushed him off. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ibaqbaqmat"
+    ]
+  },
+  "bashayuksh engi waqát": {
+    "root": "bashayuksh engi waqát",
+    "partOfSpeech": "idiom",
+    "definition": "french-fried potatoes, french fries",
+    "notes": [
+      "Literally \"potatoes (wa-qat) by (engi) French people (bashauuksh).\""
+    ],
+    "seeAlso": [
+      "bashayuksh, wa-qát"
+    ]
+  },
+  "bau": {
+    "root": "bau",
+    "partOfSpeech": "part",
+    "definition": "drum, beat, bang, knock",
+    "examples": [
+      {
+        "kiksht": "Bau ichiux.",
+        "english": "He drummed it[i-] (once)."
+      },
+      {
+        "kiksht": "Bau ayúlkchwaya.",
+        "english": "He will fall with a bang!"
+      },
+      {
+        "kiksht": "Baubáu ichiux.",
+        "english": "He drummed it[i-]. [Dyk]"
+      },
+      {
+        "kiksht": "Bau amxuxa.",
+        "english": "You'll fall with a bang [said to small children]."
+      },
+      {
+        "kiksht": "Baubau amuxwa aqábudit.",
+        "english": "You will knock on the door. [GT, MMc 6/5/98]"
+      }
+    ],
+    "seeAlso": [
+      "i-baubaumat"
+    ]
+  },
+  "bax": {
+    "root": "bax",
+    "partOfSpeech": "part",
+    "definition": "give bad luck, hoodoo",
+    "examples": [
+      {
+        "kiksht": "Bax ichiux.",
+        "english": "He hoodooed him."
+      },
+      {
+        "kiksht": "Baxbáx chiuxt.",
+        "english": "He is giving bad luck to him. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ibaxbax, gayabaxem"
+    ]
+  },
+  "båt": {
+    "root": "båt",
+    "partOfSpeech": "part",
+    "definition": "surprised",
+    "examples": [
+      {
+        "kiksht": "Båt yutxwit.",
+        "english": "He stood up in surprise. [Dyk]"
+      }
+    ]
+  },
+  "básayuks": {
+    "root": "básayuks",
+    "partOfSpeech": "n",
+    "definition": "early French in Wasco country",
+    "notes": [
+      "No prefix given. The origin of this word is unclear."
+    ],
+    "seeAlso": [
+      "báshayuksh, gíalagwa, duxnípck"
+    ]
+  },
+  "báshayuksh": {
+    "root": "báshayuksh",
+    "partOfSpeech": "n",
+    "definition": "French people",
+    "notes": [
+      "No prefix given."
+    ],
+    "seeAlso": [
+      "básayuks"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -7743,6 +7927,63 @@
       }
     ]
   },
+  "i-bashtenxul": {
+    "root": "i-bashtenxul",
+    "partOfSpeech": "n",
+    "definition": "English",
+    "notes": [
+      "From -bashtn \"white person\" and suffix -xul \"speech, language.\""
+    ]
+  },
+  "i-basisg̲íwiqi": {
+    "root": "i-basisg̲íwiqi",
+    "partOfSpeech": "n",
+    "definition": "sword",
+    "seeAlso": [
+      "a-q'íwiqi"
+    ]
+  },
+  "i-baskwal": {
+    "root": "i-baskwal",
+    "partOfSpeech": "n",
+    "definition": "big hide",
+    "notes": [
+      "\"Amplified\" form of i- p'askwal."
+    ],
+    "seeAlso": [
+      "i-p'askwal"
+    ]
+  },
+  "i-baubau": {
+    "root": "i-baubau",
+    "partOfSpeech": "n",
+    "definition": "drum",
+    "seeAlso": [
+      "bau, i-baubaumat"
+    ]
+  },
+  "i-beq": {
+    "root": "i-beq",
+    "partOfSpeech": "n",
+    "definition": "underarm odor",
+    "forms": [
+      {
+        "kiksht": "ichbeq",
+        "english": "I smell (with under- arm odor). [GT, MMc 1/13/99]"
+      }
+    ],
+    "seeAlso": [
+      "i-bux"
+    ]
+  },
+  "i-biaxi": {
+    "root": "i-biaxi",
+    "partOfSpeech": "n",
+    "definition": "bitterroot",
+    "notes": [
+      "Obviously related to Warm Springs piaxí. The word was almost certainly borrowed from Warm Springs to Wasco, since the Wasco people must first have encountered this plant near Warm Springs terri- tory as they moved east along the Columbia."
+    ]
+  },
   "i-bábeshxu": {
     "root": "i-bábeshxu",
     "partOfSpeech": "n",
@@ -7776,6 +8017,25 @@
     ],
     "seeAlso": [
       "a-bánaxa"
+    ]
+  },
+  "i-báq": {
+    "root": "i-báq",
+    "partOfSpeech": "n",
+    "definition": "sweat smell, perspiration"
+  },
+  "i-báubaumat": {
+    "root": "i-báubaumat",
+    "partOfSpeech": "n",
+    "definition": "drum, hand drum",
+    "forms": [
+      {
+        "kiksht": "iłbaubaumat",
+        "english": "drums"
+      }
+    ],
+    "seeAlso": [
+      "bau, baubau, i-baubau"
     ]
   },
   "i-k'ámunaq": {
@@ -7861,6 +8121,21 @@
     "root": "it- -baishxilal",
     "partOfSpeech": "adj n",
     "definition": "clumsy"
+  },
+  "it- -bashxilal": {
+    "root": "it- -bashxilal",
+    "partOfSpeech": "adj n",
+    "definition": "stupid, foolish, unteachable, ignorant",
+    "forms": [
+      {
+        "kiksht": "itkbashxilal",
+        "english": "I am foolish"
+      },
+      {
+        "kiksht": "idmibashxilal",
+        "english": "you are stupid [Dyk]"
+      }
+    ]
   },
   "it-address": {
     "root": "it-address",
