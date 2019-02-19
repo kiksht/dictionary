@@ -197,6 +197,11 @@
       }
     ]
   },
+  "-BWA": {
+    "root": "-BWA",
+    "partOfSpeech": "vb",
+    "definition": "put arrow"
+  },
   "-bali": {
     "root": "-bali",
     "partOfSpeech": "n",
@@ -240,6 +245,12 @@
     "notes": [
       "Refers to a sibling-in-law of opposite gender from the person speaking or spoken about."
     ]
+  },
+  "-caqulktpam": {
+    "root": "-caqulktpam",
+    "partOfSpeech": "n",
+    "definition": "old dance intro- duced from the east",
+    "forms": []
   },
   "-ch-l-BU": {
     "root": "-ch-l-BU",
@@ -680,6 +691,17 @@
       "yániwadix"
     ]
   },
+  "-ł-k-BWA": {
+    "root": "-ł-k-BWA",
+    "partOfSpeech": "vb",
+    "definition": "put feather on arrow",
+    "forms": [
+      {
+        "kiksht": "chłakbwalal",
+        "english": "he is putting feathers on it[a-] (arrow) [Dyk] See also: ił-kabwalal"
+      }
+    ]
+  },
   "Agac'ia": {
     "root": "Agac'ia",
     "partOfSpeech": "place",
@@ -703,6 +725,12 @@
     "notes": [
       "A legendary figure who is believed to grab children, throw them into a basket, take them home and eat them."
     ]
+  },
+  "Caskénlit": {
+    "root": "Caskénlit",
+    "partOfSpeech": "place",
+    "definition": "Cedar Butte ił-cáxamuix [n] small sturgeon, baby sturgeon",
+    "forms": []
   },
   "a'a'": {
     "root": "a'a'",
@@ -979,6 +1007,44 @@
     ],
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "a-cala": {
+    "root": "a-cala",
+    "partOfSpeech": "n",
+    "definition": "file",
+    "forms": [
+      {
+        "kiksht": "ishcala",
+        "english": "2 files"
+      },
+      {
+        "kiksht": "iłcala",
+        "english": "files [HS 7/21/56]"
+      }
+    ]
+  },
+  "a-caqws": {
+    "root": "a-caqws",
+    "partOfSpeech": "n",
+    "definition": "pine sapling",
+    "seeAlso": [
+      "i-chaqwsh"
+    ]
+  },
+  "a-cálucalu": {
+    "root": "a-cálucalu",
+    "partOfSpeech": "n",
+    "definition": "snail",
+    "forms": [
+      {
+        "kiksht": "ishcálucalu",
+        "english": "2 snails [HS 7/ 21/56]"
+      },
+      {
+        "kiksht": "iłcálucalu",
+        "english": "snails [HS 7/21/ 56, PK 7/56]"
+      }
     ]
   },
   "a-g̲agilak": {
@@ -8300,6 +8366,25 @@
       "bushksh"
     ]
   },
+  "but": {
+    "root": "but",
+    "partOfSpeech": "part",
+    "definition": "be industrious, be inter- ested in, be intent on, do one's best",
+    "examples": [
+      {
+        "kiksht": "But galuxwax.",
+        "english": "They worked industriously."
+      },
+      {
+        "kiksht": "Shpak búd enkiax.",
+        "english": "I'm working hard on what I'm interested in. [Dyk]"
+      },
+      {
+        "kiksht": "But galuxwax.",
+        "english": "They did their best. [WTIV.4.3]"
+      }
+    ]
+  },
   "básayuks": {
     "root": "básayuks",
     "partOfSpeech": "n",
@@ -8320,6 +8405,50 @@
     ],
     "seeAlso": [
       "básayuks"
+    ]
+  },
+  "calxukdit": {
+    "root": "calxukdit",
+    "partOfSpeech": "vb",
+    "definition": "he's holding her by the hair",
+    "notes": [
+      "This is a humorous word for a man that once said he was holding his wife by the pubes, so that the word was given him as a name. Later used for any similar man."
+    ],
+    "seeAlso": [
+      "-l-X̲UKDI"
+    ]
+  },
+  "cek": {
+    "root": "cek",
+    "partOfSpeech": "part",
+    "definition": "oil, grease, smear",
+    "examples": [
+      {
+        "kiksht": "Cekcék chialuxt.",
+        "english": "He oils/ greases it[a-] with it[i-], smears it[i-] into it[a-]. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "chek"
+    ]
+  },
+  "ces": {
+    "root": "ces",
+    "partOfSpeech": "part",
+    "definition": "cold, cool",
+    "examples": [
+      {
+        "kiksht": "Ces ikiax.",
+        "english": "It's getting cold. [PK 6/29/56]"
+      },
+      {
+        "kiksht": "Ces enkiax itkepchba.",
+        "english": "I'm cold in my feet."
+      },
+      {
+        "kiksht": "Cesces ichiux.",
+        "english": "He cooled him. [Dyk] See also: chesh, chash, aicás"
+      }
     ]
   },
   "dauya": {
@@ -8677,6 +8806,11 @@
       "i-puipui"
     ]
   },
+  "i-bux": {
+    "root": "i-bux",
+    "partOfSpeech": "n",
+    "definition": "dandruff"
+  },
   "i-bábeshxu": {
     "root": "i-bábeshxu",
     "partOfSpeech": "n",
@@ -8761,6 +8895,17 @@
         "kiksht": "ishbúp",
         "english": "2 lynx cats [HS]"
       }
+    ]
+  },
+  "i-caqws": {
+    "root": "i-caqws",
+    "partOfSpeech": "n",
+    "definition": "small pine tree",
+    "notes": [
+      "\"Talking small\" form of i- chaqwsh."
+    ],
+    "seeAlso": [
+      "wa-caqws"
     ]
   },
   "i-k'ámunaq": {
@@ -8944,6 +9089,14 @@
       "Hiram Smith [8/23/52] said that this word does not refer to snowpeaks, for which a-kakan is used. PK 8/23/52, however, appar- ently said that this word could refer to the Cascades or the Andes. HS 8/ 8/56 gave this word as in effect a plural of i-bakal."
     ]
   },
+  "it-buxux": {
+    "root": "it-buxux",
+    "partOfSpeech": "n",
+    "definition": "mountains",
+    "notes": [
+      "An alternative form of itbuqux."
+    ]
+  },
   "ił-alakásgwilit": {
     "root": "ił-alakásgwilit",
     "partOfSpeech": "n",
@@ -8959,6 +9112,23 @@
     "root": "ił-báchiu",
     "partOfSpeech": "n",
     "definition": "Indian tobacco"
+  },
+  "ił-cáqabuix": {
+    "root": "ił-cáqabuix",
+    "partOfSpeech": "n",
+    "definition": "small sturgeon, baby sturgeon",
+    "seeAlso": [
+      "ił-cáxamuix, ił-cáqamuix"
+    ]
+  },
+  "ił-cáqamuix": {
+    "root": "ił-cáqamuix",
+    "partOfSpeech": "n",
+    "definition": "small sturgeon, baby sturgeon",
+    "forms": [],
+    "seeAlso": [
+      "ił-caxamuix, ił-cáqabuix"
+    ]
   },
   "kinwa": {
     "root": "kinwa",
@@ -9087,6 +9257,17 @@
     "root": "wa-ba",
     "partOfSpeech": "n",
     "definition": "bee, yellowjacket"
+  },
+  "wa-cáqws": {
+    "root": "wa-cáqws",
+    "partOfSpeech": "n",
+    "definition": "small pine tree",
+    "notes": [
+      "This appears to be a \"talking small\" form of a word *wa-chaqwsh, which however has not been found."
+    ],
+    "seeAlso": [
+      "Wacáqws, i-chaqwsh, i- caqws"
+    ]
   },
   "wi-lx": {
     "root": "wi-lx",
