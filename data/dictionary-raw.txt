@@ -2035,7 +2035,7 @@ See also: -P ̋NA
 
 aqemgemwichgwa [vb] one will dance beside you.
 Examples: Naika ichxÅn klaix Åtgiuxa imigunat alma aqemgemwichgwa. “My son, let’s keep that one separate for your first catch ceremony.” [Spilyay/going fishing]
-Notes: Literally “one (-q-) will (a- -a) dance (-wi-chgw-) beside (-gm-) you (-m-).” In its original context, refers to the dancing done at the first-fish ceremony.
+Notes: Literally "one (-q-) will (a- -a) dance (-wi-chgw-) beside (-gm-) you (-m-)." In its original context, refers to the dancing done at the first-fish ceremony.
 See also: -WI
 
 aqemgˆlaida [vb] one will doctor you, you will be doctored
@@ -2372,3 +2372,78 @@ Forms: awimax! “younger brothers!” awichuxix! “my dear younger brother!”
 awikˆtk [vb] put them in!
 Examples: Awikˆtk idmik’itit ichemka¬ba! “Put your clothes in the basket!” Awikˆtk idmiximutxmat waskanba! “Put your toys in the box!” [Spilyay/KidTalk]
 See also: -l-ki-TK
+
+
+ax [pron] she for her part, her for her part
+Examples: Yaxa ‘ax isk’ulya ayaxan galuya. “Now she, Coyote’s daughter, had gone on.” [WTI.12.3]
+Notes: Independent personal pro- noun. Usually indicates a contrast of some sort, as in “you do that, she for her part does this.”
+
+axka [pron] she, her, it[a-]
+Notes: Independent personal pro- noun.
+
+axkengi [pron] by herself
+
+axt’a [pron] she also, her also, it[a-] also
+
+axt’ax [pron] she also, her also, it[a-] also
+
+axya [pron] that over there
+Notes: Refers to people or things at a greater distance that those referred to by axdau. Used with nouns begin- ning with a-.
+
+axyaich [pron] those (few unknown) over there
+Notes: Refers to a few people not known to speaker or hearer, at a greater distance than those referred to by axdauaich.
+
+ax [part] cough up, spit up, vomit
+Examples: Ax emxux! “Cough up, spit up (something lodged in throat)!” Ax ikiax. “He is coughing up.” [Dyk]
+
+ax [part] go to bed
+Examples: Ax emxux! “Go to bed [to a child]!” Ax ikiax. “He is in bed [of a child].” [Dyk]
+Notes: This word has this meaning only when used to or of a child.
+
+axa [vb] do her!
+Examples: P’ala axa! “Leave her alone!” [WTI.14.3]
+See also: - ̨
+
+axailukw¬ilal [vb] she tells him
+See also: -KWÒI
+
+axailuxt [vb] it[a-] is doing itself in him
+Examples: AwaqwÅxwt axailuxt. “He has a cold.” (Literally "A cold is do- ing itself in him.") [Spilyay/Health]
+See also: - ̨
+
+axaluxt [vb] it[a-] is doing itself in her
+Examples: AwaqwÅxwt axaluxt. “She has a cold.” (Literally "A cold is do- ing itself in her.") [Spilyay/Health]
+See also: - ̨
+
+axamluxt [vb] it[a-] is doing itself in you
+Examples: AwaqwÅxwt axamluxt. “You have a cold.” (Literally "A cold is doing itself in you.") [Spilyay/ Health]
+See also: - ̨
+
+axamshlukw¬ichgwa [vb] I will tell you folks
+See also: -KWÒI
+
+axanluxt [vb] it[a-] is doing itself in me
+Examples: AwaqwÅxwt axanluxt. “I have a cold.” (Literally "A cold is doing itself in me.") [Spilyay/Health]
+See also: - ̨
+
+axdau [pron] that
+Notes: This is a word for “that” used with nouns beginning with a-.
+
+axdauaich [pron] those (few un- known)
+Notes: Refers to a few people not known to speaker or hearer.
+
+axima [vb] put it[a-] down!
+See also: -x-IMA
+
+ax¬élt [vb] it[a-] is heated
+Examples: Ga¬alupqa aq¬Ålgi¬xal; ax¬élt gˆgwalix. “They went into the sweathouse; it was heated below.” [WTI.4.10]
+See also: -x-ÒL
+
+ax¬uxwan [vb] she thinks
+See also: -x-ÒUXWA
+
+axt [vb] she is sitting
+See also: - ̨T
+
+axulal [vb] she says
+See also: - ̨ULAL

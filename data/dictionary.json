@@ -6185,6 +6185,211 @@
       "-l-ki-TK"
     ]
   },
+  "ax": {
+    "root": "ax",
+    "partOfSpeech": "part",
+    "definition": "go to bed",
+    "examples": [
+      {
+        "kiksht": "Ax emxux!",
+        "english": "Go to bed [to a child]!"
+      },
+      {
+        "kiksht": "Ax ikiax.",
+        "english": "He is in bed [of a child]. [Dyk]"
+      }
+    ],
+    "notes": [
+      "This word has this meaning only when used to or of a child."
+    ]
+  },
+  "axa": {
+    "root": "axa",
+    "partOfSpeech": "vb",
+    "definition": "do her!",
+    "examples": [
+      {
+        "kiksht": "P'ala axa!",
+        "english": "Leave her alone! [WTI.14.3]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "axailukwłilal": {
+    "root": "axailukwłilal",
+    "partOfSpeech": "vb",
+    "definition": "she tells him",
+    "seeAlso": [
+      "-KWŁI"
+    ]
+  },
+  "axailuxt": {
+    "root": "axailuxt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is doing itself in him",
+    "examples": [
+      {
+        "kiksht": "Awaqwáxwt axailuxt.",
+        "english": "He has a cold. (Literally \"A cold is do- ing itself in him.\") [Spilyay/Health]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "axaluxt": {
+    "root": "axaluxt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is doing itself in her",
+    "examples": [
+      {
+        "kiksht": "Awaqwáxwt axaluxt.",
+        "english": "She has a cold. (Literally \"A cold is do- ing itself in her.\") [Spilyay/Health]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "axamluxt": {
+    "root": "axamluxt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is doing itself in you",
+    "examples": [
+      {
+        "kiksht": "Awaqwáxwt axamluxt.",
+        "english": "You have a cold. (Literally \"A cold is doing itself in you.\") [Spilyay/ Health]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "axamshlukwłichgwa": {
+    "root": "axamshlukwłichgwa",
+    "partOfSpeech": "vb",
+    "definition": "I will tell you folks",
+    "seeAlso": [
+      "-KWŁI"
+    ]
+  },
+  "axanluxt": {
+    "root": "axanluxt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is doing itself in me",
+    "examples": [
+      {
+        "kiksht": "Awaqwáxwt axanluxt.",
+        "english": "I have a cold. (Literally \"A cold is doing itself in me.\") [Spilyay/Health]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "axdau": {
+    "root": "axdau",
+    "partOfSpeech": "pron",
+    "definition": "that",
+    "notes": [
+      "This is a word for \"that\" used with nouns beginning with a-."
+    ]
+  },
+  "axdauaich": {
+    "root": "axdauaich",
+    "partOfSpeech": "pron",
+    "definition": "those (few un- known)",
+    "notes": [
+      "Refers to a few people not known to speaker or hearer."
+    ]
+  },
+  "axima": {
+    "root": "axima",
+    "partOfSpeech": "vb",
+    "definition": "put it[a-] down!",
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
+  "axka": {
+    "root": "axka",
+    "partOfSpeech": "pron",
+    "definition": "she, her, it[a-]",
+    "notes": [
+      "Independent personal pro- noun."
+    ]
+  },
+  "axkengi": {
+    "root": "axkengi",
+    "partOfSpeech": "pron",
+    "definition": "by herself"
+  },
+  "axt": {
+    "root": "axt",
+    "partOfSpeech": "vb",
+    "definition": "she is sitting",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
+  "axt'a": {
+    "root": "axt'a",
+    "partOfSpeech": "pron",
+    "definition": "she also, her also, it[a-] also"
+  },
+  "axt'ax": {
+    "root": "axt'ax",
+    "partOfSpeech": "pron",
+    "definition": "she also, her also, it[a-] also"
+  },
+  "axulal": {
+    "root": "axulal",
+    "partOfSpeech": "vb",
+    "definition": "she says",
+    "seeAlso": [
+      "-X̲ULAL"
+    ]
+  },
+  "axya": {
+    "root": "axya",
+    "partOfSpeech": "pron",
+    "definition": "that over there",
+    "notes": [
+      "Refers to people or things at a greater distance that those referred to by axdau. Used with nouns begin- ning with a-."
+    ]
+  },
+  "axyaich": {
+    "root": "axyaich",
+    "partOfSpeech": "pron",
+    "definition": "those (few unknown) over there",
+    "notes": [
+      "Refers to a few people not known to speaker or hearer, at a greater distance than those referred to by axdauaich."
+    ]
+  },
+  "axłélt": {
+    "root": "axłélt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is heated",
+    "examples": [
+      {
+        "kiksht": "Gałalupqa aqłálgiłxal; axłélt gígwalix.",
+        "english": "They went into the sweathouse; it was heated below. [WTI.4.10]"
+      }
+    ],
+    "seeAlso": [
+      "-x-ŁL"
+    ]
+  },
+  "axłuxwan": {
+    "root": "axłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "she thinks",
+    "seeAlso": [
+      "-x-ŁUXWA"
+    ]
+  },
   "ałag̲útłqt akłmín": {
     "root": "ałag̲útłqt akłmín",
     "partOfSpeech": "n",
