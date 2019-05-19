@@ -208,26 +208,87 @@ function parse(s: string): Entry {
     return entry;
 }
 
-const raw = fs.readFileSync("data/dictionary-raw.txt").toString();
-
-let lines = raw.split(os.EOL).map(line => line.trim());
-while (true) {
-    const emptyPos = lines.indexOf("");
-    if (emptyPos < 0) {
-        break;
+function annotate(text: string): string {
+    function getMatches(s: string, regex: RegExp): RegExpExecArray[] {
+        var matches = [];
+        var match;
+        while ((match = regex.exec(s))) {
+            matches.push(match);
+        }
+        return matches;
     }
-    const entry = parse(lines.slice(0, emptyPos).join(os.EOL));
-    if (entry.root.length > 0) {
-        dictionary[entry.root] = entry;
-    }
-    lines = lines.slice(emptyPos + 1);
-}
 
-const ordered: any = {};
-Object.keys(dictionary)
-    .sort()
-    .forEach(k => {
-        ordered[k] = dictionary[k];
+    const words = text.split(/,?\s+/).map((word, i) => {
+        word = word.replace(/[\-\+\/]/g, "");
+        const suffix = /.+?([0-9]+R|[0-9]+|R)/g;
+        const matches = getMatches(word, suffix);
+        if (matches.length > 0) {
+            const idx = matches.reduce((acc, m) => acc + m[0].length, 0);
+            const rest = word.slice(idx);
+
+            return (
+                matches
+                    .map(m => {
+                        // Protects generally against empty matches, but particularly against `R`
+                        // being matched against a real character vs. the reflexive prefix.
+                        if (m[0].length === 0 || m[1].length === 1) {
+                            throw Error(`Empty match group ${m}`);
+                        }
+                        return `${m[0].slice(0, m[0].length - m[1].length)}<sub>${m[1]}</sub>`;
+                    })
+                    .join("") + rest
+            );
+        } else {
+            return word;
+        }
     });
 
-fs.writeFileSync("data/dictionary.json", JSON.stringify(ordered, undefined, "  "));
+    return words.join("&nbsp; ");
+}
+
+// const raw = fs.readFileSync("data/dictionary-raw.txt").toString();
+
+// let lines = raw.split(os.EOL).map(line => line.trim());
+// while (true) {
+//     const emptyPos = lines.indexOf("");
+//     if (emptyPos < 0) {
+//         break;
+//     }
+//     const entry = parse(lines.slice(0, emptyPos).join(os.EOL));
+//     if (entry.root.length > 0) {
+//         dictionary[entry.root] = entry;
+//     }
+//     lines = lines.slice(emptyPos + 1);
+// }
+
+// const ordered: any = {};
+// Object.keys(dictionary)
+//     .sort()
+//     .forEach(k => {
+//         ordered[k] = dictionary[k];
+//     });
+
+// fs.writeFileSync("data/dictionary.json", JSON.stringify(ordered, undefined, "  "));
+
+//
+// Create documents.
+//
+
+// const root = "data/soas/translations";
+// const raw = `${root}-raw`;
+// fs.readdirSync(raw).forEach(file => {
+//     const rawData = fs.readFileSync(`${raw}/${file}`).toString();
+//     fs.writeFileSync(`${root}/${file}`, normalize(rawData));
+// });
+
+// const root = "data/soas/formatted-translations";
+// const raw = `${root}-raw`;
+// fs.readdirSync(raw).forEach(file => {
+//     const rawData = fs.readFileSync(`${raw}/${file}`).toString();
+//     fs.writeFileSync(`${root}/${file}`, normalize(rawData));
+// });
+
+const raw = fs.readFileSync("data/wishram-texts-analysis-raw/coyote-and-mouthless-man.txt");
+console.log(annotate(normalize(raw.toString())));
+
+// ^(?!Examples:|Notes:|See also:|Pronunciation:|\n).*
