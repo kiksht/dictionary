@@ -3945,3 +3945,35 @@ See also: ish-kachxiq
 
 -CHXM [vb] boil, can
 Forms: achiuchxmaya “he will boil it[i-]” achiuchxmalma “he will be boiling it[i-]” achitchxmaya “he will boil it[i-] (distant future)” achitchxmalma “he will be boiling it[i-] (distant future)” chiuchxmal “he is boiling it[i-] (includes the la- bor of making the fire, watching the pot, etc.; chuchxmt rejected)” chitchxmal “he was boiling it[i-]” ichiuchxem “he boiled it[i-]” ichitchxem “he boiled it (before com- ing here)” ichiuchxmalemchk “he boiled it[i-] (several times)” ichtchxmalemchk “he boiled it[i-] (several times, before coming here)” nachiuchxmaya “he boiled it[i-]” nachitchxmaya “he boiled it[i-] (before coming here)” nichiuchxem “he boiled it[i-] (last season)” nichitchxem “he boiled it[i-] (last week)” nichiuchxmal “he was boiling it[i-] (last season)” nichitchxmal “he was boiling it[i-] (last week)” gachiuchxem “he boiled it[i-]” gachiuchxmalemchk “he boiled it[i-] (several times)” gachitchxem “he boiled it[i-] (last year)” gachitchxmalemchk “he boiled it[i-] (several times, last year)” gachitchxmal “he was boiling it[i-] (last year)” ixchxmal “he is boiling himself” with passive suffixes: mchxemxit! “become boiled!” yuchxémt “it[i-] is boiling, being boiled” yuchxémix “it[i-] is boiled, has been boiled, is done” yuchxemxlit “it[i-] is being boiled (several things separately, or one thing over and over)” iyuchxemxit “it[i-] was boiled” nayuchxémxida “it[i-] was boiled” nayuchxémxlidma “it was boiled (several things separately, or one thing over and over)” nigitchxémt “it[i-] was being boiled” nigitchxémix “it[i-] was boiled, had been boiled” nigitchxemxit “it[i-] was boiled, be- came boiled” nigitchxemxlit “it[i-] was being boiled (several things separately, or one thing over and over)” galitchxémt “it[i-] was being boiled (last year)” galitchxmix “it[i-] was boiled, done (last year)” galitchxemxit “it[i-] was boiled (last year)” gayuchxemxit “it[i-] was boiled” gayuchxemxlit “they are boiled (regularly)” [Dyk suggests that in the preceding forms “-t suggests a state of being; -ix a state resulting from preceding action.] with reflexive relational prefix -xl- “for -self” (the following forms imply an indefinite object [“something”]): alixelchxmaya “he will boil” alixelchxmalma “he will be boiling” alixitchxmaya “he will boil (distant future)” alixitchxmalma “he will boil (distant future)” ixelchxmal “he is boiling” ixelchxemni¬ “he is at his job of boiling” ixitchxmal “he was boiling” igixelchxem “he boiled” igixelchxmalemchk “he boiled (sev- eral times, or several things)” igixitchxem “he boiled (over there)” igixitchxmalemchk “he boiled (sev- eral times, or several things, over there)” nalixélchxmaya “he boiled” nilixˆtchxmaya “he boiled (over there)” nigixlchxem “he boiled (last season)” nigixelchxmal “he was boil- ing (last season)” nixelchxmalemchk “he boiled (several times, or several things, last season)” nigixitchxem “he boiled (last week)” nigixitchxmal “he was boiling (last week)” nixitchxmalemchk “he boiled (several times, or several things, last week)” galixelchxem “he boiled” galixelchxmalemchk “he boiled (sev- eral times, or several things)” galixitchxem “he boiled (last year)” galixichxmalemchk “he boiled (sev- eral times, or several things, last year)” galixitchxmal “he was boiling (last year)” galixelchexmni¬ “he boils (regularly, as at his job)”
+
+
+
+
+
+
+i-chxmÅl [n] something boiling
+See also: -CHXM, qalk’ichxmal
+
+a-chxulchxul [n] lungs
+
+i¬-chxÅnabayuksh [n] legend beings
+Notes: Refers to a group of beings with claws that went into the earth and came out wherever they wished. They were turned into a group of rocks 4 miles east of Spearfish. [Dyk] PK 7/2/55 describes them as “sis- ters” and “children of God.”
+
+wa-chxÅp [n] needle for sewing mats
+Forms: i¬chxÅp “mat-sewing needles”
+Notes: A 4 to 8 inch wooden needle for sewing tuli mats.
+
+chxeb [part] not dare to
+Examples: Chxeb nxilux. “I hate to tell him.” Chxeb nxalux. “I hate to tell her.” [GT 6/5/98]
+
+-©m-CH ̨U-kw [vb] ask
+Forms: ichnugemchxuga “he asked me (a question)” achnugemchxuga “he will ask me” [MMc 12/22/97] ik’igemchxugwalal “he is asking” igiu©emchxuga “she (just) asked him” [GT 1/15/99] chiu©wumchx ̈gwalal “he is asking him” chiu©emchxugwat “he has him asked” chit©emchxugwalal “he was asking him” ichnu©emchxugwa “he asked me” yamu©emchx ̈gwalal “I am asking you” nichiu©wumchxugwa “he asked him (last season)” nichit©emchxugwa “he asked him (last week)” gachiu©emchxugwa “he asked him” gachshu©emshxukwax “he asked them 2” yu©wumchxukix/ yu©emchxugwatix “he has been asked” [Dyk] gachdu©emchxuga “he asked them” [GT 1/15/99]
+See also: i-k’i©mchxugwalal
+
+wa-chxwÅn [n] xaush
+Forms: itchxwan “xaush [plural]” [Dyk]
+See also: id-iachxwanix
+
+ch’Å’amdiamt [adv] farther away from open space, closer to a wall, closer to a bluff face
+Examples: Ch’Å’amdiamt mx ̈x. “Go closer to the wall.” [Dyk]
+See also: ch’a’amdix

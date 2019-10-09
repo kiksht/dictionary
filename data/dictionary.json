@@ -1187,6 +1187,76 @@
       "The -m- is omitted before the suffix -ł-."
     ]
   },
+  "-g̲m-CHX̲U-kw": {
+    "root": "-g̲m-CHX̲U-kw",
+    "partOfSpeech": "vb",
+    "definition": "ask",
+    "forms": [
+      {
+        "kiksht": "ichnugemchxuga",
+        "english": "he asked me (a question)"
+      },
+      {
+        "kiksht": "achnugemchxuga",
+        "english": "he will ask me [MMc 12/22/97]"
+      },
+      {
+        "kiksht": "ik'igemchxugwalal",
+        "english": "he is asking"
+      },
+      {
+        "kiksht": "igiug̲emchxuga",
+        "english": "she (just) asked him [GT 1/15/99]"
+      },
+      {
+        "kiksht": "chiug̲wumchxúgwalal",
+        "english": "he is asking him"
+      },
+      {
+        "kiksht": "chiug̲emchxugwat",
+        "english": "he has him asked"
+      },
+      {
+        "kiksht": "chitg̲emchxugwalal",
+        "english": "he was asking him"
+      },
+      {
+        "kiksht": "ichnug̲emchxugwa",
+        "english": "he asked me"
+      },
+      {
+        "kiksht": "yamug̲emchxúgwalal",
+        "english": "I am asking you"
+      },
+      {
+        "kiksht": "nichiug̲wumchxugwa",
+        "english": "he asked him (last season)"
+      },
+      {
+        "kiksht": "nichitg̲emchxugwa",
+        "english": "he asked him (last week)"
+      },
+      {
+        "kiksht": "gachiug̲emchxugwa",
+        "english": "he asked him"
+      },
+      {
+        "kiksht": "gachshug̲emshxukwax",
+        "english": "he asked them 2"
+      },
+      {
+        "kiksht": "yug̲wumchxukix/ yug̲emchxugwatix",
+        "english": "he has been asked [Dyk]"
+      },
+      {
+        "kiksht": "gachdug̲emchxuga",
+        "english": "he asked them [GT 1/15/99]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ig̲mchxugwalal"
+    ]
+  },
   "-i-CHUKDI-ix": {
     "root": "-i-CHUKDI-ix",
     "partOfSpeech": "vb",
@@ -3463,6 +3533,11 @@
     "root": "a-chuxchux",
     "partOfSpeech": "n",
     "definition": "elderberry"
+  },
+  "a-chxulchxul": {
+    "root": "a-chxulchxul",
+    "partOfSpeech": "n",
+    "definition": "lungs"
   },
   "a-ck'entłex": {
     "root": "a-ck'entłex",
@@ -11213,6 +11288,20 @@
       "chex, ch'ex"
     ]
   },
+  "ch'á'amdiamt": {
+    "root": "ch'á'amdiamt",
+    "partOfSpeech": "adv",
+    "definition": "farther away from open space, closer to a wall, closer to a bluff face",
+    "examples": [
+      {
+        "kiksht": "Ch'á'amdiamt mxúx.",
+        "english": "Go closer to the wall. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ch'a'amdix"
+    ]
+  },
   "cha": {
     "root": "cha",
     "partOfSpeech": "interj",
@@ -12101,6 +12190,21 @@
     "pronunciation": "The -a- is long.",
     "seeAlso": [
       "chxep, chxebaingix"
+    ]
+  },
+  "chxeb": {
+    "root": "chxeb",
+    "partOfSpeech": "part",
+    "definition": "not dare to",
+    "examples": [
+      {
+        "kiksht": "Chxeb nxilux.",
+        "english": "I hate to tell him."
+      },
+      {
+        "kiksht": "Chxeb nxalux.",
+        "english": "I hate to tell her. [GT 6/5/98]"
+      }
     ]
   },
   "chxebaingix": {
@@ -13244,6 +13348,14 @@
       "i-kala"
     ]
   },
+  "i-chxmál": {
+    "root": "i-chxmál",
+    "partOfSpeech": "n",
+    "definition": "something boiling",
+    "seeAlso": [
+      "-CHXM, qalk'ichxmal"
+    ]
+  },
   "i-chúkdenił": {
     "root": "i-chúkdenił",
     "partOfSpeech": "n",
@@ -13768,6 +13880,14 @@
     "partOfSpeech": "n",
     "definition": "mountain-sheep blanket"
   },
+  "ił-chxánabayuksh": {
+    "root": "ił-chxánabayuksh",
+    "partOfSpeech": "n",
+    "definition": "legend beings",
+    "notes": [
+      "Refers to a group of beings with claws that went into the earth and came out wherever they wished. They were turned into a group of rocks 4 miles east of Spearfish. [Dyk] PK 7/2/55 describes them as \"sis- ters\" and \"children of God.\""
+    ]
+  },
   "ił-clutkix": {
     "root": "ił-clutkix",
     "partOfSpeech": "n",
@@ -14056,6 +14176,34 @@
     "root": "wa-chpish",
     "partOfSpeech": "n",
     "definition": "silverside salmon"
+  },
+  "wa-chxwán": {
+    "root": "wa-chxwán",
+    "partOfSpeech": "n",
+    "definition": "xaush",
+    "forms": [
+      {
+        "kiksht": "itchxwan",
+        "english": "xaush [plural] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "id-iachxwanix"
+    ]
+  },
+  "wa-chxáp": {
+    "root": "wa-chxáp",
+    "partOfSpeech": "n",
+    "definition": "needle for sewing mats",
+    "forms": [
+      {
+        "kiksht": "iłchxáp",
+        "english": "mat-sewing needles"
+      }
+    ],
+    "notes": [
+      "A 4 to 8 inch wooden needle for sewing tuli mats."
+    ]
   },
   "wa-ck'ún": {
     "root": "wa-ck'ún",
