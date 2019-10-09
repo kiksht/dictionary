@@ -3349,6 +3349,16 @@
       "i-láitk, i-laitglit, i-chalaitglit"
     ]
   },
+  "Dałní": {
+    "root": "Dałní",
+    "partOfSpeech": "place",
+    "definition": "Sherar's Bridge"
+  },
+  "See also: łil, dałál, i- -łlumi": {
+    "root": "See also: łil, dałál, i- -łlumi",
+    "partOfSpeech": "See also: ¬il, da¬Ål, i- -¬lumi",
+    "definition": "See also: łil, dałál, i- -łlumit"
+  },
   "a'a'": {
     "root": "a'a'",
     "partOfSpeech": "part",
@@ -13838,6 +13848,23 @@
       "is-laulau"
     ]
   },
+  "damała": {
+    "root": "damała",
+    "partOfSpeech": "part",
+    "definition": "clean",
+    "examples": [
+      {
+        "kiksht": "Baqbáq gachiux damała.",
+        "english": "He brushed it[i-] clean. [WTI.1d.6]"
+      }
+    ],
+    "notes": [
+      "Can refer to clean clothes put on widow or widower at end of mourning period. [AF 2/1/53]"
+    ],
+    "seeAlso": [
+      "mała, i- -małáiumit"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -13891,6 +13918,157 @@
       "łau"
     ]
   },
+  "daława": {
+    "root": "daława",
+    "partOfSpeech": "part",
+    "definition": "flow",
+    "examples": [
+      {
+        "kiksht": "Aish k'ala amshgnuxa k'mekedesh gigwáladamt ichq'aqshtaq, qádachix iłqawulqt daława ałuya gigwáladamt wilxyamt.",
+        "english": "Just carry me on my back so that my head is downward, so that my blood will flow downward to the ground. [WTI.1c.6]"
+      }
+    ]
+  },
+  "dałbalmax": {
+    "root": "dałbalmax",
+    "partOfSpeech": "part",
+    "definition": "reddish (things)",
+    "examples": [
+      {
+        "kiksht": "Qaua dapcaxmax, qaua dagashmax, qaua dałbalmax gachuxwa.",
+        "english": "He made some [blankets] greenish, some yellowish, some red- dish. [WTI.11.8]"
+      }
+    ],
+    "pronunciation": "Second -a- is long.",
+    "seeAlso": [
+      "dałbål"
+    ]
+  },
+  "dałbål": {
+    "root": "dałbål",
+    "partOfSpeech": "part",
+    "definition": "red",
+    "notes": [
+      "AF 8/22/54 said that dałbal is \"not quite as red as dałbål.\""
+    ],
+    "seeAlso": [
+      "dałbál, łbel, shaiłpál, i- - łpálumit"
+    ]
+  },
+  "dałbál": {
+    "root": "dałbál",
+    "partOfSpeech": "part",
+    "definition": "red, bay (horse)",
+    "forms": [
+      {
+        "kiksht": "dałbalmax",
+        "english": "red ones [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "dałbal itqwłí",
+        "english": "red (painted) house"
+      },
+      {
+        "kiksht": "Dałbál igailux.",
+        "english": "She made it[a-], a red one, for him. [Dyk]"
+      }
+    ],
+    "notes": [
+      "AF 8/22/54 said that dałbal is \"not quite as red as dałbål.\""
+    ],
+    "seeAlso": [
+      "dałbål, łbel, shaiłpál, i- - łpálumit"
+    ]
+  },
+  "dałép": {
+    "root": "dałép",
+    "partOfSpeech": "part",
+    "definition": "slightly curved, bent",
+    "examples": [
+      {
+        "kiksht": "dałép ik'ámunaq",
+        "english": "curved stick"
+      },
+      {
+        "kiksht": "Dałép ichiux.",
+        "english": "He made it[i-] curved. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Not used of roads."
+    ]
+  },
+  "dałilxam": {
+    "root": "dałilxam",
+    "partOfSpeech": "num",
+    "definition": "ten",
+    "notes": [
+      "This is the form used with it-/ id- prefix nouns. The forms of -łilxam are formed by adding the appropri- ate possessive prefix to the stem - łilxam."
+    ]
+  },
+  "dałkw'áp": {
+    "root": "dałkw'áp",
+    "partOfSpeech": "part",
+    "definition": "burst",
+    "examples": [
+      {
+        "kiksht": "Qushtíaxa alkat agakshén axk'eskax wakac ichak'aic...Dałkw'áp gachuxwax.",
+        "english": "Truly a small thorn is stuck in her shortest finger...He burst it. [WTI.1e.4]"
+      }
+    ]
+  },
+  "dałq'úp": {
+    "root": "dałq'úp",
+    "partOfSpeech": "part",
+    "definition": "cut through",
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt łq'up gachiux ichatuk dałq'úp nawit.",
+        "english": "Now then he cut her neck, he cut it straight through. [WTI.12.8]"
+      }
+    ],
+    "seeAlso": [
+      "łq'up"
+    ]
+  },
+  "dałukłuk": {
+    "root": "dałukłuk",
+    "partOfSpeech": "part",
+    "definition": "slow up considerably",
+    "examples": [
+      {
+        "kiksht": "Dałukłuk igixux.",
+        "english": "He slowed himself up a lot. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łuk"
+    ]
+  },
+  "dałux": {
+    "root": "dałux",
+    "partOfSpeech": "adv",
+    "definition": "slowly",
+    "examples": [
+      {
+        "kiksht": "Dałux ayuya.",
+        "english": "He will go slowly. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dachxai"
+    ]
+  },
+  "dałxwáp": {
+    "root": "dałxwáp",
+    "partOfSpeech": "part",
+    "definition": "pierce",
+    "seeAlso": [
+      "datłxwáp"
+    ]
+  },
   "dałál": {
     "root": "dałál",
     "partOfSpeech": "part",
@@ -13932,6 +14110,60 @@
     "seeAlso": [
       "shaiłál, łil, shaiłal, i- -łlumit, i-dałal"
     ]
+  },
+  "dałíl": {
+    "root": "dałíl",
+    "partOfSpeech": "part",
+    "definition": "dark, dark brown, gray",
+    "examples": [
+      {
+        "kiksht": "Dałíl ikiax.",
+        "english": "It[i-] is turn- ing black. [Dyk]"
+      }
+    ],
+    "pronunciation": "Perhaps this should be respelled dałél?"
+  },
+  "dałíx": {
+    "root": "dałíx",
+    "partOfSpeech": "part",
+    "definition": "move a bit, move a little ways",
+    "examples": [
+      {
+        "kiksht": "Dałíx inyux.",
+        "english": "I moved him a bit. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łix"
+    ]
+  },
+  "dałíxw": {
+    "root": "dałíxw",
+    "partOfSpeech": "part",
+    "definition": "stretch",
+    "examples": [
+      {
+        "kiksht": "Dałíxw inixka.",
+        "english": "It[i-] stretched as I pulled it."
+      },
+      {
+        "kiksht": "Dałíxw ichixga.",
+        "english": "He pulled it[i-], making it stretch."
+      },
+      {
+        "kiksht": "Dałåxw ixgat.",
+        "english": "It[i-] is stretching, being stretched. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'iłixwłixw, i-k'iłixwmat"
+    ]
+  },
+  "dałúl": {
+    "root": "dałúl",
+    "partOfSpeech": "adv",
+    "definition": "blurred, unidentifiable [HS], seen in dark [PK], dusk [CJ]",
+    "pronunciation": "-u- is pronounced long."
   },
   "gachawiqłaxit": {
     "root": "gachawiqłaxit",
@@ -15241,6 +15473,28 @@
     ],
     "seeAlso": [
       "-ta"
+    ]
+  },
+  "i-damaxul": {
+    "root": "i-damaxul",
+    "partOfSpeech": "n",
+    "definition": "Molala language",
+    "forms": [
+      {
+        "kiksht": "ichdamaxul",
+        "english": "I am a Molala speaker [WTI.17.15]"
+      }
+    ]
+  },
+  "i-dałbål": {
+    "root": "i-dałbål",
+    "partOfSpeech": "n",
+    "definition": "penny",
+    "notes": [
+      "From dałbål \"red.\""
+    ],
+    "seeAlso": [
+      "dałbål"
     ]
   },
   "i-k'ámunaq": {
