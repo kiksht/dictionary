@@ -13535,6 +13535,181 @@
     "partOfSpeech": "pron",
     "definition": "by themselves"
   },
+  "daichka": {
+    "root": "daichka",
+    "partOfSpeech": "pron",
+    "definition": "they",
+    "notes": [
+      "Independent personal pro- noun, referring only to people."
+    ]
+  },
+  "daichkengi": {
+    "root": "daichkengi",
+    "partOfSpeech": "pron",
+    "definition": "by themselves"
+  },
+  "daidai": {
+    "root": "daidai",
+    "partOfSpeech": "part",
+    "definition": "tap, drum lightly"
+  },
+  "daima": {
+    "root": "daima",
+    "partOfSpeech": "pron",
+    "definition": "only they, only them"
+  },
+  "dak": {
+    "root": "dak",
+    "partOfSpeech": "part",
+    "definition": "remove, loosen, untie, take off, uncover, undo",
+    "examples": [
+      {
+        "kiksht": "Dak galuxwax.",
+        "english": "They came off (all together, in a bunch)."
+      },
+      {
+        "kiksht": "Dak gachiux",
+        "english": "He took it[i-] (for in- stance, a splinter) out. [HS 7/9/54]"
+      },
+      {
+        "kiksht": "Dak ichtux idiag̲itłba.",
+        "english": "He took off his moccasins. [HS 7/24/51]"
+      },
+      {
+        "kiksht": "Inag̲un gachikwatkix, gachiuqapk; saqw gayúkst. Ag̲a kwapt dag gachiux, gachixtkw'a.",
+        "english": "He laid the sturgeon out, he steamed it; it was all done. Then he removed it, he turned it over. [WTI.1d.5]"
+      },
+      {
+        "kiksht": "Gałkshúx dakdák.",
+        "english": "They 2 took it off [the cradleboard]. [WTI.1a2]"
+      },
+      {
+        "kiksht": "Dakdak galuxwax.",
+        "english": "They came off (one at a time)."
+      },
+      {
+        "kiksht": "Dakdak gagiux.",
+        "english": "She took it[i-] apart."
+      },
+      {
+        "kiksht": "Dakdak chtux idiak'itit.",
+        "english": "He took off his clothes."
+      },
+      {
+        "kiksht": "Dakdak gachtux.",
+        "english": "He undid them"
+      },
+      {
+        "kiksht": "Dakdak ikiax.",
+        "english": "He is undressing; it[i-] is com- ing apart."
+      },
+      {
+        "kiksht": "Dakdakdak igixux.",
+        "english": "It[i-] came off, became detached. [Dyk]"
+      },
+      {
+        "kiksht": "Dakdak aqnuxwa ngaqwdátx.",
+        "english": "I was undressed entirely naked. [WTII.10.1]"
+      }
+    ]
+  },
+  "dakch'a": {
+    "root": "dakch'a",
+    "partOfSpeech": "part",
+    "definition": "presume, presumably",
+    "examples": [
+      {
+        "kiksht": "Dakch'a shpaq iyuya.",
+        "english": "Presumably he went fast, I presume he went fast. [DykGr 135]"
+      }
+    ]
+  },
+  "dakw'úl": {
+    "root": "dakw'úl",
+    "partOfSpeech": "part",
+    "definition": "grind fine",
+    "examples": [
+      {
+        "kiksht": "dakw'úl agulul",
+        "english": "fine ground acorn [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kw'ul, saikw'ulkw'ul"
+    ]
+  },
+  "dakwash": {
+    "root": "dakwash",
+    "partOfSpeech": "part",
+    "definition": "go right to sleep, fall sound asleep",
+    "examples": [
+      {
+        "kiksht": "Dakwash galug̲uptít.",
+        "english": "She went right to sleep."
+      },
+      {
+        "kiksht": "Dakwash nanug̲uptida.",
+        "english": "I fell sound asleep. [Dyk]"
+      }
+    ]
+  },
+  "dakwaukwau": {
+    "root": "dakwaukwau",
+    "partOfSpeech": "part",
+    "definition": "light, easy",
+    "examples": [
+      {
+        "kiksht": "Dakwaukwau ichiubunachk.",
+        "english": "He pushed it[i-] up lightly, with ease. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kwaukwau, saikwaukwau"
+    ]
+  },
+  "dakwáł": {
+    "root": "dakwáł",
+    "partOfSpeech": "part",
+    "definition": "fit in place [?]",
+    "examples": [
+      {
+        "kiksht": "Lab ałgatxa ac'mna dakwáł nawit.",
+        "english": "He drives the staging-pole under water so that it fits right in place. [WTII.7.2]"
+      }
+    ]
+  },
+  "dala'ax": {
+    "root": "dala'ax",
+    "partOfSpeech": "part",
+    "definition": "put something over on, deceive",
+    "examples": [
+      {
+        "kiksht": "Dala'ax inxux.",
+        "english": "I put one over on myself (for instance, by say- ing something I shouldn't have). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ailáx, laxlax, la'ax, i-k'ila'ax"
+    ]
+  },
+  "dala'ám": {
+    "root": "dala'ám",
+    "partOfSpeech": "part",
+    "definition": "invisible, not to be made out",
+    "examples": [
+      {
+        "kiksht": "Dala'ám yaxka.",
+        "english": "He is not visible, can't be made out."
+      },
+      {
+        "kiksht": "K'aya amig̲elglaya dala'ám.",
+        "english": "You can't see him. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "cmanix"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -14801,6 +14976,42 @@
     ],
     "seeAlso": [
       "i-yagalal, i-galal"
+    ]
+  },
+  "i-dak'inułmax": {
+    "root": "i-dak'inułmax",
+    "partOfSpeech": "n",
+    "definition": "cloth with designs or markings on it, painted designs, markings, on cloth or other surface",
+    "notes": [
+      "Literally \"they have mark- ings.\" See i-k'ínułmax."
+    ],
+    "seeAlso": [
+      "i-k'ínułmax, -NUŁEM"
+    ]
+  },
+  "i-dakta": {
+    "root": "i-dakta",
+    "partOfSpeech": "n",
+    "definition": "doctor",
+    "notes": [
+      "A borrowing from English; refers only to Anglo-style doctor."
+    ],
+    "seeAlso": [
+      "id-iaxílalit"
+    ]
+  },
+  "i-dala": {
+    "root": "i-dala",
+    "partOfSpeech": "n",
+    "definition": "dollar, money",
+    "examples": [
+      {
+        "kiksht": "Shamani Sapir achimluda idala bama itqanuchqmax qukmagikwdenił daxdau itt'ukdi.",
+        "english": "If Sapir will give you money to pay for stories, that's good. [from a letter by PK]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
     ]
   },
   "i-k'ámunaq": {
