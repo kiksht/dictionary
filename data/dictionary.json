@@ -14153,6 +14153,57 @@
       "dan"
     ]
   },
+  "dap'át": {
+    "root": "dap'át",
+    "partOfSpeech": "part",
+    "definition": "prod, shove",
+    "examples": [
+      {
+        "kiksht": "Dapát inilgámidix.",
+        "english": "I shoved him into it[i-] (a place) by prodding."
+      },
+      {
+        "kiksht": "Dapát igailgáxidix aq'íwiqi.",
+        "english": "By prodding the knife be- came stuck in him. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "p'§tp'§t, aip'át"
+    ]
+  },
+  "dap'áł": {
+    "root": "dap'áł",
+    "partOfSpeech": "part",
+    "definition": "flatten, flattened",
+    "examples": [
+      {
+        "kiksht": "Shmani pu k'aya dap'áł iłap'aqa iłaq'aqshtaq pu aqług̲wanimchgwa.",
+        "english": "If its head should not have a flattened forehead, it would be laughed at. [WTII.2.3]"
+      }
+    ],
+    "seeAlso": [
+      "p'ałp'ał"
+    ]
+  },
+  "dap'íxwadit": {
+    "root": "dap'íxwadit",
+    "partOfSpeech": "part",
+    "definition": "thin, make thin",
+    "forms": [
+      {
+        "kiksht": "dap'ixwadit ich'axwi",
+        "english": "thin paper"
+      },
+      {
+        "kiksht": "Dap'íxwadit chiuxt.",
+        "english": "He is making him thin. [Dyk]"
+      },
+      {
+        "kiksht": "dap'íxwadit ip'askwal",
+        "english": "thin skin [GT, MMc 6/5/ 98]"
+      }
+    ]
+  },
   "dapcaxmax": {
     "root": "dapcaxmax",
     "partOfSpeech": "part",
@@ -14307,6 +14358,20 @@
       }
     ]
   },
+  "daptkadix": {
+    "root": "daptkadix",
+    "partOfSpeech": "adv",
+    "definition": "only that many times",
+    "examples": [
+      {
+        "kiksht": "Daptkadix iyuya.",
+        "english": "Only that many times he went. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dapt, dapdix"
+    ]
+  },
   "dapát": {
     "root": "dapát",
     "partOfSpeech": "adv",
@@ -14334,6 +14399,156 @@
     ],
     "notes": [
       "Meaning uncertain. Compare dapúm."
+    ]
+  },
+  "dapúm": {
+    "root": "dapúm",
+    "partOfSpeech": "part",
+    "definition": "right down",
+    "examples": [
+      {
+        "kiksht": "Dapúm gayulkchu.",
+        "english": "He fell right down. [WTI.12.5]"
+      }
+    ],
+    "notes": [
+      "Meaning uncertain. Might be onomatapoeic: \"with a 'pum'!\" Com- pare dapáu."
+    ]
+  },
+  "daq'shåsh": {
+    "root": "daq'shåsh",
+    "partOfSpeech": "part",
+    "definition": "dry up"
+  },
+  "daq'áp": {
+    "root": "daq'áp",
+    "partOfSpeech": "part",
+    "definition": "make tight, make se- cure, pack tight, tighten, firm up, repair",
+    "examples": [
+      {
+        "kiksht": "Daq'áb ichdux itqwłí.",
+        "english": "He made the house tight, he built it to be tight."
+      },
+      {
+        "kiksht": "Daq'áb ichiux ilibúm.",
+        "english": "He packed the apples carefully, made them tight."
+      },
+      {
+        "kiksht": "Daq'áb itsikqw'atłg̲wix.",
+        "english": "He clung tightly to the wall."
+      },
+      {
+        "kiksht": "Daq'ap itqwłí gachtúx.",
+        "english": "He fixed up the house."
+      },
+      {
+        "kiksht": "Daq'ap ichiux.",
+        "english": "He made it[i-] tight, firm. [Dyk]"
+      },
+      {
+        "kiksht": "Daq'áb ixigat.",
+        "english": "It[i-] is pressed together tight. [WTII.10.1]"
+      },
+      {
+        "kiksht": "Kwapt kánawi ganshgáglgax watúł daq'áp idlxam.",
+        "english": "Then we all got at the fire, the [Paiute] people all standing around. [The meaning is apparently that the Paiute people were tightly pressed together around the fire.] [WTIV.2.11]"
+      }
+    ],
+    "notes": [
+      "This word means to make something tight, to build something to be tight, secure. Compare q'§p, which means to tighten something that has come loose."
+    ],
+    "seeAlso": [
+      "q'ep, daq'apq'áp"
+    ]
+  },
+  "daq'úp": {
+    "root": "daq'úp",
+    "partOfSpeech": "part",
+    "definition": "fold, kink",
+    "examples": [
+      {
+        "kiksht": "Daq'úp igixux.",
+        "english": "It became folded. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "q'up"
+    ]
+  },
+  "daqw'atqw'at": {
+    "root": "daqw'atqw'at",
+    "partOfSpeech": "part",
+    "definition": "break off, knock over",
+    "examples": [
+      {
+        "kiksht": "Daqw'atqw'at igixux.",
+        "english": "Someone knocked him over, broke it off (as a peg in the road). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "qw'ut"
+    ]
+  },
+  "daqw'áp": {
+    "root": "daqw'áp",
+    "partOfSpeech": "part",
+    "definition": "fold, kink",
+    "examples": [
+      {
+        "kiksht": "Daqw'áp igixux.",
+        "english": "It be- came folded. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "q'up"
+    ]
+  },
+  "daqwatł": {
+    "root": "daqwatł",
+    "partOfSpeech": "part",
+    "definition": "fill",
+    "examples": [
+      {
+        "kiksht": "Gachaglłada daqwátł ichakwshxat.",
+        "english": "He threw them[a-] at her so as to just fill her mouth. [WTI.17.11]"
+      }
+    ],
+    "seeAlso": [
+      "qwatlqwatł"
+    ]
+  },
+  "daqwáu": {
+    "root": "daqwáu",
+    "partOfSpeech": "adv",
+    "definition": "take, carry, transport",
+    "examples": [
+      {
+        "kiksht": "Dag̲wáu amduxwa itk'ámunak.",
+        "english": "Take the wood. [GT, MMc 1/12/99]"
+      },
+      {
+        "kiksht": "Daqwáu qidau pu amduxwa itk'ámunak.",
+        "english": "Moving along in this way, you should handle the wood."
+      },
+      {
+        "kiksht": "[So Sapir translates; more literally probably",
+        "english": "you should carry the wood this way] [WTI.1e.3]"
+      }
+    ]
+  },
+  "daqł": {
+    "root": "daqł",
+    "partOfSpeech": "adv",
+    "definition": "yesterday",
+    "examples": [
+      {
+        "kiksht": "kwapt bamá daqł",
+        "english": "since yesterday"
+      },
+      {
+        "kiksht": "Daqł nanushia.",
+        "english": "Yester- day I cooked. [Dyk]"
+      }
     ]
   },
   "dauya": {

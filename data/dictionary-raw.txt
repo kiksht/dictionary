@@ -4663,3 +4663,60 @@ See also: dapt
 -daptkadiksh [pron] only so many, only that many
 Examples: Òdaptkadiksh i¬dimam. “Only so many arrived.” [Dyk]
 See also: dapt, -daptkdiksh
+
+
+
+
+
+
+daptkadix [adv] only that many times
+Examples: Daptkadix iyuya. “Only that many times he went.” [Dyk]
+See also: dapt, dapdix
+
+dap ̈m [part] right down
+Examples: Dap ̈m gayulkchu. “He fell right down.” [WTI.12.5]
+Notes: Meaning uncertain. Might be onomatapoeic: “with a ‘pum’!” Com- pare dapÅu.
+
+dap’Å¬ [part] flatten, flattened
+Examples: Shmani pu k’aya dap’Å¬ i¬ap’aqa i¬aq’aqshtaq pu aq¬u©wanimchgwa. “If its head should not have a flattened forehead, it would be laughed at.” [WTII.2.3]
+See also: p’a¬p’a¬
+
+dap’Åt [part] prod, shove
+Examples: DapÅt inilgÅmidix. “I shoved him into it[i-] (a place) by prodding.” DapÅt igailgÅxidix aq’ˆwiqi. “By prodding the knife be- came stuck in him.” [Dyk]
+See also: p’§tp’§t, aip’Åt
+
+dap’ˆxwadit [part] thin, make thin
+Forms: dap’ixwadit ich’axwi “thin paper” Dap’ˆxwadit chiuxt. “He is making him thin.” [Dyk] dap’ˆxwadit ip’askwal “thin skin” [GT, MMc 6/5/ 98]
+
+daq¬ [adv] yesterday
+Examples: kwapt bamÅ daq¬ “since yesterday” Daq¬ nanushia. “Yester- day I cooked.” [Dyk]
+
+daq’Åp [part] make tight, make se- cure, pack tight, tighten, firm up, repair
+Examples: Daq’Åb ichdux itqw¬ˆ. “He made the house tight, he built it to be tight.” Daq’Åb ichiux ilib ̈m. “He packed the apples carefully, made them tight.” Daq’Åb itsikqw’at¬©wix. “He clung tightly to the wall.” Daq’ap itqw¬ˆ gacht ̈x. “He fixed up the house.” Daq’ap ichiux. “He made it[i-] tight, firm.” [Dyk] Daq’Åb ixigat. “It[i-] is pressed together tight.” [WTII.10.1] Kwapt kÅnawi ganshgÅglgax wat ̈¬ daq’Åp idlxam. “Then we all got at the fire, the [Paiute] people all standing around.” [The meaning is apparently that the Paiute people were tightly pressed together around the fire.] [WTIV.2.11]
+Notes: This word means to make something tight, to build something to be tight, secure. Compare q’§p, which means to tighten something that has come loose.
+See also: q’ep, daq’apq’Åp
+
+daq’shåsh [part] dry up
+
+daq’ ̈p [part] fold, kink
+Examples: Daq’ ̈p igixux. “It became folded.” [Dyk]
+See also: q’up
+
+daqwat¬ [part] hang up
+Examples: Daqwat¬ igixiluxix. “It hung itself up (as a rope thrown over a limb).” [Dyk]
+See also: qwut¬, aiqwÅt¬
+
+daqwat¬ [part] fill
+Examples: Gachagl¬ada daqwÅt¬ ichakwshxat. “He threw them[a-] at her so as to just fill her mouth.” [WTI.17.11]
+See also: qwatlqwat¬
+
+daqwÅu [adv] take, carry, transport
+Examples: Da©wÅu amduxwa itk’Åmunak. “Take the wood.” [GT, MMc 1/12/99] DaqwÅu qidau pu amduxwa itk’Åmunak. “Moving along in this way, you should handle the wood.” [So Sapir translates; more literally probably “you should carry the wood this way”] [WTI.1e.3]
+
+daqw’Åp [part] fold, kink
+Examples: Daqw’Åp igixux. “It be- came folded.” [Dyk]
+See also: q’up
+
+daqw’atqw’at [part] break off, knock over
+Examples: Daqw’atqw’at igixux. “Someone knocked him over, broke it off (as a peg in the road).” [Dyk]
+See also: qw’ut
