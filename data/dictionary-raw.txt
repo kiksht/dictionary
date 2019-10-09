@@ -4931,3 +4931,68 @@ Notes: This is a word for “these” used with nouns beginning with ish-.
 
 daushtax [pron] these 2
 Notes: This is a word for “these” used with nouns beginning with ish-.
+
+
+
+
+
+dauya [pron] this
+Examples: Dauya ich’axwi yunu¬emix kiksht ik’inu¬em engi. “This letter is written in Wasco.” [DykGr 121]
+Notes: This is a word for “this” used with nouns beginning with i-.
+
+dauyax [pron] this
+Notes: This is a word for “this” used with nouns beginning with i-.
+
+dawÅx [part] light, bright, become light, become daylight
+Examples: Kwapt ak¬mˆn galailgachuix, nuit qatki dawÅx galixuxix. “Then the moon came down it earth, at once it became somewhat light.” [WTI.9.5] Dawax gayuchukdix. “It became daylight.” [Dyk]
+See also: wax
+
+dawÅx [part] pour out, spill out
+Examples: DawÅx ¬xa©idwapx. “They are pouring out from it[a-], chasing each other.” DawÅx nuwit iqixux. “It[i-] was caused to spill out.” [Dyk]
+See also: wax
+
+dåwi [conj] as, like, resembling
+Examples: IchyÅlpt alidˆmama, qadash naika dåwi ichélgulit—qidau iyÅlgulit ichyÅlpt naikÅ dåwi. “My trading partner will come, looking just like me—thus my trading partner’s appearance is, like me.” [WTI.8.1]
+See also: diwi
+
+dawux [part] twilight
+Examples: Dawux ikiaxix. “It is twi- light.” [Dyk]
+
+daxapxÅp [part] dark
+Examples: A©a kwapt ganshk¬uwax daxapxÅp nix ̈xwaxix. “We followed them until it became dark.” [WTIV.2.11]
+See also: xabixix
+
+daxip [part] unclear, muddy
+Examples: Daxip i¬chqwÅ. “The water is unclear.” [Dyk]
+See also: xip
+
+daxka [pron] they, them, it[it-]
+Notes: Independent personal pro- noun.
+
+daxt’a [pron] they also, them also
+Examples: Saqw’ a©a imt’uxsh daxdau itgunat daxt’a a©a dauda. “Now that you have cut up all those chinook salmon, these also now cut up.” [DykGr 119]
+
+daxt’ax [pron] they also, them also
+
+daxup [part] rise (of steam, smoke, dust)
+Examples: daxup itxwutlit “smoke rising” [Dyk] Dax ̈b itkaqw¬. “Her house is smoking.” [WTI.11.2]
+See also: xup, i¬- -xupxup
+
+daxya [pron] those over there, that over there
+Examples: Daxya itshumax itqw¬ˆ. “That house over there is new.” [DykGr 121]
+Notes: Refers to people or things at a greater distance that those referred to by daxdau. Used with nouns be- ginning with it-/id-.
+
+daxyaich [pron] those over there
+Examples: Daxyaich uxwakw’ayut Nixl ̈idixyamt. “Those over there are going home to Spearfish.” [DykGr 121]
+Notes: Refers to people known to speaker and/or hearer, at a greater distance than those referred to by daxdauaich.
+
+daxwˆ [part] blow easily
+Examples: Daxw(i) ikxachkwt. “The wind is blowing easily, making the sound daxwˆ.” [Dyk]
+
+daxdau [pron] those
+Notes: This is a word for “those” used with nouns beginning with it-/ id-.
+
+daxdauaich [pron] those
+
+daxén [part] sing low
+Forms: Daxén ugwÅlalam. “They are singing low.” [Dyk]

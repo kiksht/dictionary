@@ -15206,11 +15206,19 @@
     "examples": [
       {
         "kiksht": "Dauya ich'axwi yunułemix kiksht ik'inułem engi.",
-        "english": "This letter isw ritten in Wasco. [DykGr 121]"
+        "english": "This letter is written in Wasco. [DykGr 121]"
       }
     ],
     "notes": [
-      "This is a word for \"this\" usedwith nouns beginning with i-."
+      "This is a word for \"this\" used with nouns beginning with i-."
+    ]
+  },
+  "dauyax": {
+    "root": "dauyax",
+    "partOfSpeech": "pron",
+    "definition": "this",
+    "notes": [
+      "This is a word for \"this\" used with nouns beginning with i-."
     ]
   },
   "dauła": {
@@ -15235,6 +15243,168 @@
     "definition": "this, these",
     "notes": [
       "This is a word for \"this\" or \"these\" used with nouns beginning with ił-."
+    ]
+  },
+  "dawux": {
+    "root": "dawux",
+    "partOfSpeech": "part",
+    "definition": "twilight",
+    "examples": [
+      {
+        "kiksht": "Dawux ikiaxix.",
+        "english": "It is twi- light. [Dyk]"
+      }
+    ]
+  },
+  "dawáx": {
+    "root": "dawáx",
+    "partOfSpeech": "part",
+    "definition": "pour out, spill out",
+    "examples": [
+      {
+        "kiksht": "Dawáx łxag̲idwapx.",
+        "english": "They are pouring out from it[a-], chasing each other."
+      },
+      {
+        "kiksht": "Dawáx nuwit iqixux.",
+        "english": "It[i-] was caused to spill out. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "wax"
+    ]
+  },
+  "daxapxáp": {
+    "root": "daxapxáp",
+    "partOfSpeech": "part",
+    "definition": "dark",
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt ganshkłuwax daxapxáp nixúxwaxix.",
+        "english": "We followed them until it became dark. [WTIV.2.11]"
+      }
+    ],
+    "seeAlso": [
+      "xabixix"
+    ]
+  },
+  "daxdau": {
+    "root": "daxdau",
+    "partOfSpeech": "pron",
+    "definition": "those",
+    "notes": [
+      "This is a word for \"those\" used with nouns beginning with it-/ id-."
+    ]
+  },
+  "daxdauaich": {
+    "root": "daxdauaich",
+    "partOfSpeech": "pron",
+    "definition": "those"
+  },
+  "daxén": {
+    "root": "daxén",
+    "partOfSpeech": "part",
+    "definition": "sing low",
+    "forms": [
+      {
+        "kiksht": "Daxén ugwálalam.",
+        "english": "They are singing low. [Dyk]"
+      }
+    ]
+  },
+  "daxip": {
+    "root": "daxip",
+    "partOfSpeech": "part",
+    "definition": "unclear, muddy",
+    "examples": [
+      {
+        "kiksht": "Daxip iłchqwá.",
+        "english": "The water is unclear. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "xip"
+    ]
+  },
+  "daxka": {
+    "root": "daxka",
+    "partOfSpeech": "pron",
+    "definition": "they, them, it[it-]",
+    "notes": [
+      "Independent personal pro- noun."
+    ]
+  },
+  "daxt'a": {
+    "root": "daxt'a",
+    "partOfSpeech": "pron",
+    "definition": "they also, them also",
+    "examples": [
+      {
+        "kiksht": "Saqw' ag̲a imt'uxsh daxdau itgunat daxt'a ag̲a dauda.",
+        "english": "Now that you have cut up all those chinook salmon, these also now cut up. [DykGr 119]"
+      }
+    ]
+  },
+  "daxt'ax": {
+    "root": "daxt'ax",
+    "partOfSpeech": "pron",
+    "definition": "they also, them also"
+  },
+  "daxup": {
+    "root": "daxup",
+    "partOfSpeech": "part",
+    "definition": "rise (of steam, smoke, dust)",
+    "examples": [
+      {
+        "kiksht": "daxup itxwutlit",
+        "english": "smoke rising [Dyk]"
+      },
+      {
+        "kiksht": "Daxúb itkaqwł.",
+        "english": "Her house is smoking. [WTI.11.2]"
+      }
+    ],
+    "seeAlso": [
+      "xup, ił- -xupxup"
+    ]
+  },
+  "daxwí": {
+    "root": "daxwí",
+    "partOfSpeech": "part",
+    "definition": "blow easily",
+    "examples": [
+      {
+        "kiksht": "Daxw(i) ikxachkwt.",
+        "english": "The wind is blowing easily, making the sound daxwí. [Dyk]"
+      }
+    ]
+  },
+  "daxya": {
+    "root": "daxya",
+    "partOfSpeech": "pron",
+    "definition": "those over there, that over there",
+    "examples": [
+      {
+        "kiksht": "Daxya itshumax itqwłí.",
+        "english": "That house over there is new. [DykGr 121]"
+      }
+    ],
+    "notes": [
+      "Refers to people or things at a greater distance that those referred to by daxdau. Used with nouns be- ginning with it-/id-."
+    ]
+  },
+  "daxyaich": {
+    "root": "daxyaich",
+    "partOfSpeech": "pron",
+    "definition": "those over there",
+    "examples": [
+      {
+        "kiksht": "Daxyaich uxwakw'ayut Nixlúidixyamt.",
+        "english": "Those over there are going home to Spearfish. [DykGr 121]"
+      }
+    ],
+    "notes": [
+      "Refers to people known to speaker and/or hearer, at a greater distance than those referred to by daxdauaich."
     ]
   },
   "dałalix": {
@@ -15522,6 +15692,20 @@
     "partOfSpeech": "adv",
     "definition": "blurred, unidentifiable [HS], seen in dark [PK], dusk [CJ]",
     "pronunciation": "-u- is pronounced long."
+  },
+  "dåwi": {
+    "root": "dåwi",
+    "partOfSpeech": "conj",
+    "definition": "as, like, resembling",
+    "examples": [
+      {
+        "kiksht": "Ichyálpt alidímama, qadash naika dåwi ichélgulit—qidau iyálgulit ichyálpt naiká dåwi.",
+        "english": "My trading partner will come, looking just like me—thus my trading partner's appearance is, like me. [WTI.8.1]"
+      }
+    ],
+    "seeAlso": [
+      "diwi"
+    ]
   },
   "dáminwa": {
     "root": "dáminwa",
