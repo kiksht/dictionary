@@ -4996,3 +4996,81 @@ daxdauaich [pron] those
 
 daxén [part] sing low
 Forms: Daxén ugwÅlalam. “They are singing low.” [Dyk]
+
+
+
+
+
+
+
+daxput [vb] they cover it[a-]
+See also: -x-pu
+
+daya [pron] this
+Notes: This is a word for “this” used with nouns beginning with i-.
+
+delqti [vb] point to them/it[it-]!
+See also: -l-qti
+
+-DEM [vb] fall
+
+-a-k-xa-DEM-kw [vb] fall in, fall over
+Forms: iyakxÅdemgwa “he fell in [pushing the boat from shore]” [Dyk]
+Notes: Refers to falling in or over from pushing (as for example falling in while pushing a boat from shore or a rock from a bluff).
+See also: it-kÅdemgwa
+
+-¬-k-xa-DEM-kw [vb] bleed to death from a cut
+Examples: Igi¬kxÅdemgwa i¬ya©awulqt. “He bled to death.” A¬kxademkwt i¬ga©awulqt. “She is bleeding to death.” [Dyk]
+Notes: Apparently means literally something like “[his/her blood] fell out;” compare -a-k-xa-DEM-kw.
+
+demxelmux [vb] eat it[it-]!
+See also: -xl-MU ̨
+
+demxelt¬’aiyuchk [vb] get some rest!
+See also: -t-xn-TÒ’AI-ma-chkw
+
+demxent¬’aimachk [vb] get some rest!
+See also: -t-xn-TÒ’AI-ma-chkw
+
+demxutk [vb] put them in!
+Examples: Demxutk waskanba! “Put them in the box!” [Spilyay/KidTalk]
+See also: -x-u-TK
+
+denshxkw’Ålalakwt [vb] we are for- getting them
+See also: -x-KW’ALALA-kw
+
+a-dexdex [n] fir tree
+Forms: i¬dexdexuksh “fir trees” [PK 8/23/55]
+See also: i-dexdexlit
+
+i-dexdexlit [n] fir grove
+See also: a-dexdex
+
+digat [adv] on this side
+Examples: Gigad ixt ina©un, digad ixt ina©un i¬akshén ¬igelgat. “He[i¬-] holds in his hand one sturgeon on that side and one sturgeon on this side.” [WTI.1d.1]
+See also: gigat
+
+digemxagapx [vb] they are working on him
+See also: -gm-xa-GA-pa, -xm-GA-pa
+
+diguchix [adv] perhaps, maybe
+
+dˆgwichix [adv] may, maybe, per- haps
+Examples: Dˆgwichix a©(a) anuya. “Maybe I’ll go now.” Dˆgwichix ¬qa yaxka. “It must be he.” Dˆgwichix dak alixuxa. “It[i-] may loosen, come off.” It’ukti qwut¬ iluxix digwichix dak alixuxa. “Hang it up well, other- wise it may loosen, fall down.” [Dyk]
+See also: diguchix, dala’ax
+
+dika [adv] here
+Examples: dika daba “right here” Dika ¬xilaitix. “They live here.” Dika nuxt. “Here I live.” Dik(a) ichiux. “Here is where he made it[i-].” Ichit¬adamam dika. “He dragged him here.” [Dyk] Kw’ankw’an enkiax kanawÅ dikÅ emshkiax. “I’m glad you are all here.” [GT, MMc]
+See also: daba
+
+it-dikshush [n] shoes
+Forms: No singular form. itkdikshush “my shoes” [Dyk]
+Notes: Obviously borrowed from English. The first part may come from “thick,” with a reference to “thick shoes”—so called, perhaps, because of their thick soles which prevented people from feeling the ground, as opposed to traditional thin-soled moccasins.
+
+
+
+
+
+
+
+

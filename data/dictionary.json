@@ -948,6 +948,11 @@
       "-xl-DATKSH, it-qidatksh"
     ]
   },
+  "-DEM": {
+    "root": "-DEM",
+    "partOfSpeech": "vb",
+    "definition": "fall"
+  },
   "-a-gl-CHKW'AYA-mit": {
     "root": "-a-gl-CHKW'AYA-mit",
     "partOfSpeech": "vb",
@@ -977,6 +982,23 @@
         "kiksht": "yagitchk'wayamitix",
         "english": "he had been put face down [Dyk]"
       }
+    ]
+  },
+  "-a-k-xa-DEM-kw": {
+    "root": "-a-k-xa-DEM-kw",
+    "partOfSpeech": "vb",
+    "definition": "fall in, fall over",
+    "forms": [
+      {
+        "kiksht": "iyakxádemgwa",
+        "english": "he fell in [pushing the boat from shore] [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to falling in or over from pushing (as for example falling in while pushing a boat from shore or a rock from a bluff)."
+    ],
+    "seeAlso": [
+      "it-kádemgwa"
     ]
   },
   "-bali": {
@@ -3392,6 +3414,24 @@
       }
     ]
   },
+  "-ł-k-xa-DEM-kw": {
+    "root": "-ł-k-xa-DEM-kw",
+    "partOfSpeech": "vb",
+    "definition": "bleed to death from a cut",
+    "examples": [
+      {
+        "kiksht": "Igiłkxádemgwa iłyag̲awulqt.",
+        "english": "He bled to death."
+      },
+      {
+        "kiksht": "Ałkxademkwt iłgag̲awulqt.",
+        "english": "She is bleeding to death. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Apparently means literally something like \"[his/her blood] fell out;\" compare -a-k-xa-DEM-kw."
+    ]
+  },
   "-ł-xl-CHKCH-kw": {
     "root": "-ł-xl-CHKCH-kw",
     "partOfSpeech": "vb",
@@ -4037,6 +4077,20 @@
     ],
     "seeAlso": [
       "wa-sq'ú, id-lxam"
+    ]
+  },
+  "a-dexdex": {
+    "root": "a-dexdex",
+    "partOfSpeech": "n",
+    "definition": "fir tree",
+    "forms": [
+      {
+        "kiksht": "iłdexdexuksh",
+        "english": "fir trees [PK 8/23/55]"
+      }
+    ],
+    "seeAlso": [
+      "i-dexdexlit"
     ]
   },
   "a-g̲agilak": {
@@ -15334,6 +15388,14 @@
       "Independent personal pro- noun."
     ]
   },
+  "daxput": {
+    "root": "daxput",
+    "partOfSpeech": "vb",
+    "definition": "they cover it[a-]",
+    "seeAlso": [
+      "-x-pu"
+    ]
+  },
   "daxt'a": {
     "root": "daxt'a",
     "partOfSpeech": "pron",
@@ -15405,6 +15467,14 @@
     ],
     "notes": [
       "Refers to people known to speaker and/or hearer, at a greater distance than those referred to by daxdauaich."
+    ]
+  },
+  "daya": {
+    "root": "daya",
+    "partOfSpeech": "pron",
+    "definition": "this",
+    "notes": [
+      "This is a word for \"this\" used with nouns beginning with i-."
     ]
   },
   "dałalix": {
@@ -15707,6 +15777,121 @@
       "diwi"
     ]
   },
+  "delqti": {
+    "root": "delqti",
+    "partOfSpeech": "vb",
+    "definition": "point to them/it[it-]!",
+    "seeAlso": [
+      "-l-qti"
+    ]
+  },
+  "demxelmux": {
+    "root": "demxelmux",
+    "partOfSpeech": "vb",
+    "definition": "eat it[it-]!",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "demxeltł'aiyuchk": {
+    "root": "demxeltł'aiyuchk",
+    "partOfSpeech": "vb",
+    "definition": "get some rest!",
+    "seeAlso": [
+      "-t-xn-TŁ'AI-ma-chkw"
+    ]
+  },
+  "demxentł'aimachk": {
+    "root": "demxentł'aimachk",
+    "partOfSpeech": "vb",
+    "definition": "get some rest!",
+    "seeAlso": [
+      "-t-xn-TŁ'AI-ma-chkw"
+    ]
+  },
+  "demxutk": {
+    "root": "demxutk",
+    "partOfSpeech": "vb",
+    "definition": "put them in!",
+    "examples": [
+      {
+        "kiksht": "Demxutk waskanba!",
+        "english": "Put them in the box! [Spilyay/KidTalk]"
+      }
+    ],
+    "seeAlso": [
+      "-x-u-TK"
+    ]
+  },
+  "denshxkw'álalakwt": {
+    "root": "denshxkw'álalakwt",
+    "partOfSpeech": "vb",
+    "definition": "we are for- getting them",
+    "seeAlso": [
+      "-x-KW'ALALA-kw"
+    ]
+  },
+  "digat": {
+    "root": "digat",
+    "partOfSpeech": "adv",
+    "definition": "on this side",
+    "examples": [
+      {
+        "kiksht": "Gigad ixt inag̲un, digad ixt inag̲un iłakshén łigelgat.",
+        "english": "He[ił-] holds in his hand one sturgeon on that side and one sturgeon on this side. [WTI.1d.1]"
+      }
+    ],
+    "seeAlso": [
+      "gigat"
+    ]
+  },
+  "digemxagapx": {
+    "root": "digemxagapx",
+    "partOfSpeech": "vb",
+    "definition": "they are working on him",
+    "seeAlso": [
+      "-gm-xa-GA-pa, -xm-GA-pa"
+    ]
+  },
+  "diguchix": {
+    "root": "diguchix",
+    "partOfSpeech": "adv",
+    "definition": "perhaps, maybe"
+  },
+  "dika": {
+    "root": "dika",
+    "partOfSpeech": "adv",
+    "definition": "here",
+    "examples": [
+      {
+        "kiksht": "dika daba",
+        "english": "right here"
+      },
+      {
+        "kiksht": "Dika łxilaitix.",
+        "english": "They live here."
+      },
+      {
+        "kiksht": "Dika nuxt.",
+        "english": "Here I live."
+      },
+      {
+        "kiksht": "Dik(a) ichiux.",
+        "english": "Here is where he made it[i-]."
+      },
+      {
+        "kiksht": "Ichitładamam dika.",
+        "english": "He dragged him here. [Dyk]"
+      },
+      {
+        "kiksht": "Kw'ankw'an enkiax kanawá diká emshkiax.",
+        "english": "I'm glad you are all here. [GT, MMc]"
+      }
+    ],
+    "seeAlso": [
+      "daba"
+    ]
+  },
   "dáminwa": {
     "root": "dáminwa",
     "partOfSpeech": "adv",
@@ -15723,6 +15908,32 @@
     ],
     "seeAlso": [
       "damínwa, gwanisim"
+    ]
+  },
+  "dígwichix": {
+    "root": "dígwichix",
+    "partOfSpeech": "adv",
+    "definition": "may, maybe, per- haps",
+    "examples": [
+      {
+        "kiksht": "Dígwichix ag̲(a) anuya.",
+        "english": "Maybe I'll go now."
+      },
+      {
+        "kiksht": "Dígwichix łqa yaxka.",
+        "english": "It must be he."
+      },
+      {
+        "kiksht": "Dígwichix dak alixuxa.",
+        "english": "It[i-] may loosen, come off."
+      },
+      {
+        "kiksht": "It'ukti qwutł iluxix digwichix dak alixuxa.",
+        "english": "Hang it up well, other- wise it may loosen, fall down. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "diguchix, dala'ax"
     ]
   },
   "gachawiqłaxit": {
@@ -17068,6 +17279,14 @@
       "dałbål"
     ]
   },
+  "i-dexdexlit": {
+    "root": "i-dexdexlit",
+    "partOfSpeech": "n",
+    "definition": "fir grove",
+    "seeAlso": [
+      "a-dexdex"
+    ]
+  },
   "i-dáuapdauap": {
     "root": "i-dáuapdauap",
     "partOfSpeech": "n",
@@ -17492,6 +17711,20 @@
     ],
     "seeAlso": [
       "dau"
+    ]
+  },
+  "it-dikshush": {
+    "root": "it-dikshush",
+    "partOfSpeech": "n",
+    "definition": "shoes",
+    "forms": [
+      {
+        "kiksht": "No singular form. itkdikshush",
+        "english": "my shoes [Dyk]"
+      }
+    ],
+    "notes": [
+      "Obviously borrowed from English. The first part may come from \"thick,\" with a reference to \"thick shoes\"—so called, perhaps, because of their thick soles which prevented people from feeling the ground, as opposed to traditional thin-soled moccasins."
     ]
   },
   "ił-alakásgwilit": {
