@@ -4544,3 +4544,67 @@ See also: ma¬a, i- -ma¬Åiumit
 
 i-damaxul [n] Molala language
 Forms: ichdamaxul “I am a Molala speaker” [WTI.17.15]
+
+
+
+
+
+
+
+damˆnwa [adv] always, all the time, forever, for good
+Examples: Damˆnwa galixux. “He gave it up for good.” [Dyk]
+See also: dÅminwa, gwÅnisim
+
+dÅminwa [adv] permanently
+Examples: DÅminwa galixux. “It[i-] became permanent.” (Compare Damˆnwa galixux “He gave it up for good.”) [Dyk]
+See also: damˆnwa, gwanisim
+
+damla [part] treat badly, mistreat, raise hell with
+Examples: Daml(a) ichdiglux. “He treated him badly, raised hell with him.” [Dyk] Damla ichdaglux. “He treated her badly.” [GT, MMc 6/5/ 98]
+
+damlalÅ [part] feel like vomiting
+Examples: DamlalÅ igixux. “He felt like vomiting.” [Dyk]
+Notes: Refers to a weaker urge to vomit than mlala.
+See also: emlala, i-mlalemxach
+
+dan [adv] without
+Examples: dan iyagikal “he has no wife” [Dyk] Ha’ai ¬©enmiksh ¬némshksh dan i¬akÅlamax. “There must be five women without hus- bands.” [WTI.1c5]
+
+dan [pron] what, something, some, any
+Examples: Dan yaxdau? “What is that there?” Dan yaxkÅ yaxdau? “What is it?” Dan maika? “What are you? (as in asking “what tribe are you?”)” Dan maiya? “What are you, for your part?” Dan amshgiuxa? “What will you do?” Dan yaxka dauya mshgiuxt? “What is this you are do- ing?” Dan gamil©wimni¬? “What are you in the habit of feeding him?” Dan iminkÅtx? “What did you blame on me?” k’aya dan “nothing” k’aya dan idelxam “no people, not any people” kinwa dan “no matter what; nothing will do” shmanix dan q’axsh chiuxt “if you want something” [Dyk]
+Notes: Dan is represented in the verb by a masculine singular pro- noun prefix (-ch- or -i-).
+See also: dangi, danyamt, dangiyamt, danaska, danska, iwÅdan, iwadÅn
+
+dan dac’ic’i [idiom] fruit, something sweet
+See also: dan, dac’ic’i
+
+danaska [pron] what
+Examples: Danaska? “What the hell is that?” [Dyk]
+Notes: Same as danska. It apparently has a note of urgency or impatience.
+See also: dan, danska
+
+danba [pron] why?, what for?
+Examples: Danba emshxpsh ̈iwalit? “What do you all keep hiding your- selves for?” [WTIV.2.22]
+See also: dan, danbama
+
+danbama [pron] why?, what for?
+Examples: Danbama imuya? “Why did you go?” [Dyk]
+See also: dan, danba
+
+dangi [pron] something
+Examples: Dangi kwaba. “There is something there.” [Dyk] Ga¬ga©elkel dengi yalgat. “They saw something sticking into her.” [WTI.1c.3]
+See also: dangibama, dÅngiyabama
+
+dangibama [pron] for something
+See also: dangi, dangiyabama
+
+dangiyabama [pron] why?, what for?
+See also: dangi, dangibama
+
+dangiyamt [pron] something else
+See also: dan, danyamt
+
+danska [pron] what
+Examples: Danska? “What the hell is that?” Dansk(a) ikiax? “What is going on?” [Dyk]
+Notes: Same as danaska. It appar- ently has a note of urgency or impa- tience.
+See also: dan, danaska

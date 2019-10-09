@@ -13865,6 +13865,233 @@
       "mała, i- -małáiumit"
     ]
   },
+  "damla": {
+    "root": "damla",
+    "partOfSpeech": "part",
+    "definition": "treat badly, mistreat, raise hell with",
+    "examples": [
+      {
+        "kiksht": "Daml(a) ichdiglux.",
+        "english": "He treated him badly, raised hell with him. [Dyk]"
+      },
+      {
+        "kiksht": "Damla ichdaglux.",
+        "english": "He treated her badly. [GT, MMc 6/5/ 98]"
+      }
+    ]
+  },
+  "damlalá": {
+    "root": "damlalá",
+    "partOfSpeech": "part",
+    "definition": "feel like vomiting",
+    "examples": [
+      {
+        "kiksht": "Damlalá igixux.",
+        "english": "He felt like vomiting. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a weaker urge to vomit than mlala."
+    ],
+    "seeAlso": [
+      "emlala, i-mlalemxach"
+    ]
+  },
+  "damínwa": {
+    "root": "damínwa",
+    "partOfSpeech": "adv",
+    "definition": "always, all the time, forever, for good",
+    "examples": [
+      {
+        "kiksht": "Damínwa galixux.",
+        "english": "He gave it up for good. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dáminwa, gwánisim"
+    ]
+  },
+  "dan": {
+    "root": "dan",
+    "partOfSpeech": "pron",
+    "definition": "what, something, some, any",
+    "examples": [
+      {
+        "kiksht": "Dan yaxdau?",
+        "english": "What is that there?"
+      },
+      {
+        "kiksht": "Dan yaxká yaxdau?",
+        "english": "What is it?"
+      },
+      {
+        "kiksht": "Dan maika?",
+        "english": "What are you? (as in asking \"what tribe are you?"
+      },
+      {
+        "kiksht": ")\" Dan maiya?",
+        "english": ""
+      },
+      {
+        "kiksht": "Dan maiya?",
+        "english": "What are you, for your part?"
+      },
+      {
+        "kiksht": "Dan amshgiuxa?",
+        "english": "What will you do?"
+      },
+      {
+        "kiksht": "Dan yaxka dauya mshgiuxt?",
+        "english": "What is this you are do- ing?"
+      },
+      {
+        "kiksht": "Dan gamilg̲wimnił?",
+        "english": "What are you in the habit of feeding him?"
+      },
+      {
+        "kiksht": "Dan iminkátx?",
+        "english": "What did you blame on me?"
+      },
+      {
+        "kiksht": "k'aya dan",
+        "english": "nothing"
+      },
+      {
+        "kiksht": "k'aya dan idelxam",
+        "english": "no people, not any people"
+      },
+      {
+        "kiksht": "kinwa dan",
+        "english": "no matter what; nothing will do"
+      },
+      {
+        "kiksht": "shmanix dan q'axsh chiuxt",
+        "english": "if you want something [Dyk]"
+      }
+    ],
+    "notes": [
+      "Dan is represented in the verb by a masculine singular pro- noun prefix (-ch- or -i-)."
+    ],
+    "seeAlso": [
+      "dangi, danyamt, dangiyamt, danaska, danska, iwádan, iwadán"
+    ]
+  },
+  "dan dac'ic'i": {
+    "root": "dan dac'ic'i",
+    "partOfSpeech": "idiom",
+    "definition": "fruit, something sweet",
+    "seeAlso": [
+      "dan, dac'ic'i"
+    ]
+  },
+  "danaska": {
+    "root": "danaska",
+    "partOfSpeech": "pron",
+    "definition": "what",
+    "examples": [
+      {
+        "kiksht": "Danaska?",
+        "english": "What the hell is that? [Dyk]"
+      }
+    ],
+    "notes": [
+      "Same as danska. It apparently has a note of urgency or impatience."
+    ],
+    "seeAlso": [
+      "dan, danska"
+    ]
+  },
+  "danba": {
+    "root": "danba",
+    "partOfSpeech": "pron",
+    "definition": "why?, what for?",
+    "examples": [
+      {
+        "kiksht": "Danba emshxpshúiwalit?",
+        "english": "What do you all keep hiding your- selves for? [WTIV.2.22]"
+      }
+    ],
+    "seeAlso": [
+      "dan, danbama"
+    ]
+  },
+  "danbama": {
+    "root": "danbama",
+    "partOfSpeech": "pron",
+    "definition": "why?, what for?",
+    "examples": [
+      {
+        "kiksht": "Danbama imuya?",
+        "english": "Why did you go? [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dan, danba"
+    ]
+  },
+  "dangi": {
+    "root": "dangi",
+    "partOfSpeech": "pron",
+    "definition": "something",
+    "examples": [
+      {
+        "kiksht": "Dangi kwaba.",
+        "english": "There is something there. [Dyk]"
+      },
+      {
+        "kiksht": "Gałgag̲elkel dengi yalgat.",
+        "english": "They saw something sticking into her. [WTI.1c.3]"
+      }
+    ],
+    "seeAlso": [
+      "dangibama, dángiyabama"
+    ]
+  },
+  "dangibama": {
+    "root": "dangibama",
+    "partOfSpeech": "pron",
+    "definition": "for something",
+    "seeAlso": [
+      "dangi, dangiyabama"
+    ]
+  },
+  "dangiyabama": {
+    "root": "dangiyabama",
+    "partOfSpeech": "pron",
+    "definition": "why?, what for?",
+    "seeAlso": [
+      "dangi, dangibama"
+    ]
+  },
+  "dangiyamt": {
+    "root": "dangiyamt",
+    "partOfSpeech": "pron",
+    "definition": "something else",
+    "seeAlso": [
+      "dan, danyamt"
+    ]
+  },
+  "danska": {
+    "root": "danska",
+    "partOfSpeech": "pron",
+    "definition": "what",
+    "examples": [
+      {
+        "kiksht": "Danska?",
+        "english": "What the hell is that?"
+      },
+      {
+        "kiksht": "Dansk(a) ikiax?",
+        "english": "What is going on? [Dyk]"
+      }
+    ],
+    "notes": [
+      "Same as danaska. It appar- ently has a note of urgency or impa- tience."
+    ],
+    "seeAlso": [
+      "dan, danaska"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -14164,6 +14391,24 @@
     "partOfSpeech": "adv",
     "definition": "blurred, unidentifiable [HS], seen in dark [PK], dusk [CJ]",
     "pronunciation": "-u- is pronounced long."
+  },
+  "dáminwa": {
+    "root": "dáminwa",
+    "partOfSpeech": "adv",
+    "definition": "permanently",
+    "examples": [
+      {
+        "kiksht": "Dáminwa galixux.",
+        "english": "It[i-] became permanent."
+      },
+      {
+        "kiksht": "(Compare Damínwa galixux",
+        "english": "He gave it up for good.) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "damínwa, gwanisim"
+    ]
   },
   "gachawiqłaxit": {
     "root": "gachawiqłaxit",
