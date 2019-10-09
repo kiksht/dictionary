@@ -3686,3 +3686,47 @@ See also: i-qachkw’anan
 -x-CHKW’A [vb] jump to one side, jump from side to side, dash from side to side, dash back and forth, turn from side to side, turn aside
 Forms: emxchkw’Ånanmchk! “dodge around, zig around!” [PK] axchkw’anan “she is dashing back and forth, jumping from side to side” nigixchkw’a “he jumped from side to side (last season)” nigixatchkw’a “he jumped from side to side (last week)” galixchkw’Ånanemchk “he dashed from side to side, kept on dashing from side to side” with relational prefix -x- “from”: ixanxchkw’agwax “he is dashing from side to side from me” yaxaxchkw’agwax “he is dashing from side to side from her” [Dyk] galixchkw’ananemx “he kept dodging from side to side” [WTI.1d.4]
 See also: i-qachkw’anan
+
+
+
+
+
+
+chkw’ai [part] bent, pliable, crooked, wiggle, zigzag
+Forms: chkw’aichkw’aimax “bent ones, crooked ones (for instance, roads)” [Dyk]
+Examples: Chkw’aichkw’ai ikiax. “He (for instance, a snake) is zigzagging, wriggling.” chkw’aichkwai iwaya “crooked wire” Shaichkw’achkw’Åi i©ˆwiqi. “Iron is flexible.” Dachkw’aichkw’Åi igik¬ait. “He sat on it[i-], making it bend.” [Dyk]
+Notes: Chkw’ai refers to a single curve, as in a road; chkw’aichkw’ai refers to more than one curve or bend. [HS 7/2/56]
+See also: shaichkw’aichkw’ai, dachkw’aichkw’ai, -CHKW’A
+
+-a-gl-CHKW’AYA-mit [vb] lay on belly, lay face down, make to lie down on one’s belly
+Forms: chiagelchkw’Åyamit “he is laying him down on his belly, has him put face down” mxagelchkw’Åyamit! “lie on your bell, lie face down!” enxagelchkw’ayamit “I am lying on my belly” yaxagelchkw’Åyamit “he has himself put face down” yagelchkw’Åyamitix “he has been put face down” yagitchk’wayamitix “he had been put face down” [Dyk]
+
+i¬-chkw’ian [n] pitch
+
+ch¬elbu [vb] they freeze
+See also: -ch-l-BU
+
+ch¬elbuni¬ [vb] it freezes (constantly)
+See also: -ch-l-BU
+
+ch¬elb ̈t i¬dudush [n] ice cream
+
+ch¬elgalelq [vb] they are burning
+See also: -ch-l-GAL-qw
+
+ch¬ugwipchkt [vb] he is carrying it ashore
+See also: -GWI, -PCHK
+
+ch¬ula [vb] he trains him[i¬-]
+See also: -LA
+
+ch¬um©wilit [vb] he is spitting it out
+See also: -M ̋WI, -¬-MSU(I)-it -CHM(A) hear
+
+-x-CHMA-qw [vb] hear, understand
+Forms: achixchma©wa “he will hear him” achixatchma©wa “he will hear him (distant future)” anixchmÅl©ema “I will hear him (re- peatedly)” [anixchmlidma rejected] nixchmÅlq “I am hearing him (every time he makes a move, repeatedly)” [Compare nixchemlit “I am hearing him (for instance, his singing, con- tinually, steadily)”] nixchmÅqwt “I understand him” chixchmÅqwt “he has heard of him; he has him in hear- ing” chaxchmÅqwt “he has heard of her; he has her in hearing” chixchmÅlq “he is hearing him/it[i-] (for instance, hammering, repeat- edly)” chaxchmÅlq “he is hearing her” chialxachmÅlq “he is hearing him in it[a-]” ichixchmaq “he heard him” ichixatchmaq “he heard him (over there/from over there)” iqixchmaq “someone heard him, he was heard” iqixachmaq “someone over there heard him, he was heard” nichixachmaq “he heard him” gach¬xchmaq “he heard them” nichixchmaqwam “he went to hear him” nichixadchmaqwam “he came to hear him” [Dyk] nixchmÅlq “I am hearing him (repeatedly)” inixchmaq “I heard him; I understood him” [PK 7/17/56] uxwaxachmalq “they hear each other” ixchmaqwix “he has been heard” [Dyk]
+Examples: Wawa ga¬giux i¬agechpa k’ma naqi gach¬xchmÅq. “He[i¬-] spoke to him with his mouth but he did not hear him.” [WTI.1d.4]
+
+-x-gi-CHM-©wa-mit [vb] tell what someone said, repeat to someone what he or she said, tell C, in B’s presence, the evil B spoke of the person speaking
+Forms: axgichmÅwalidemchk! “go repeat to her what she (herself) said” chaxgichmÅ©wamalit “he is telling what she said” [Dyk]
+See also: -qagichmÅ©wamalit

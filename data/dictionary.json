@@ -506,6 +506,37 @@
       "chkw'ai"
     ]
   },
+  "-a-gl-CHKW'AYA-mit": {
+    "root": "-a-gl-CHKW'AYA-mit",
+    "partOfSpeech": "vb",
+    "definition": "lay on belly, lay face down, make to lie down on one's belly",
+    "forms": [
+      {
+        "kiksht": "chiagelchkw'áyamit",
+        "english": "he is laying him down on his belly, has him put face down"
+      },
+      {
+        "kiksht": "mxagelchkw'áyamit!",
+        "english": "lie on your bell, lie face down!"
+      },
+      {
+        "kiksht": "enxagelchkw'ayamit",
+        "english": "I am lying on my belly"
+      },
+      {
+        "kiksht": "yaxagelchkw'áyamit",
+        "english": "he has himself put face down"
+      },
+      {
+        "kiksht": "yagelchkw'áyamitix",
+        "english": "he has been put face down"
+      },
+      {
+        "kiksht": "yagitchk'wayamitix",
+        "english": "he had been put face down [Dyk]"
+      }
+    ]
+  },
   "-bali": {
     "root": "-bali",
     "partOfSpeech": "n",
@@ -1708,6 +1739,111 @@
       "-x-ckwt"
     ]
   },
+  "-x-CHMA-qw": {
+    "root": "-x-CHMA-qw",
+    "partOfSpeech": "vb",
+    "definition": "hear, understand",
+    "forms": [
+      {
+        "kiksht": "achixchmag̲wa",
+        "english": "he will hear him"
+      },
+      {
+        "kiksht": "achixatchmag̲wa",
+        "english": "he will hear him (distant future)"
+      },
+      {
+        "kiksht": "anixchmálg̲ema",
+        "english": "I will hear him (re- peatedly) [anixchmlidma rejected]"
+      },
+      {
+        "kiksht": "nixchmálq",
+        "english": "I am hearing him (every time he makes a move, repeatedly)"
+      },
+      {
+        "kiksht": "[Compare nixchemlit",
+        "english": "I am hearing him (for instance, his singing, con- tinually, steadily)]"
+      },
+      {
+        "kiksht": "nixchmáqwt",
+        "english": "I understand him"
+      },
+      {
+        "kiksht": "chixchmáqwt",
+        "english": "he has heard of him; he has him in hear- ing"
+      },
+      {
+        "kiksht": "chaxchmáqwt",
+        "english": "he has heard of her; he has her in hearing"
+      },
+      {
+        "kiksht": "chixchmálq",
+        "english": "he is hearing him/it[i-] (for instance, hammering, repeat- edly)"
+      },
+      {
+        "kiksht": "chaxchmálq",
+        "english": "he is hearing her"
+      },
+      {
+        "kiksht": "chialxachmálq",
+        "english": "he is hearing him in it[a-]"
+      },
+      {
+        "kiksht": "ichixchmaq",
+        "english": "he heard him"
+      },
+      {
+        "kiksht": "ichixatchmaq",
+        "english": "he heard him (over there/from over there)"
+      },
+      {
+        "kiksht": "iqixchmaq",
+        "english": "someone heard him, he was heard"
+      },
+      {
+        "kiksht": "iqixachmaq",
+        "english": "someone over there heard him, he was heard"
+      },
+      {
+        "kiksht": "nichixachmaq",
+        "english": "he heard him"
+      },
+      {
+        "kiksht": "gachłxchmaq",
+        "english": "he heard them"
+      },
+      {
+        "kiksht": "nichixchmaqwam",
+        "english": "he went to hear him"
+      },
+      {
+        "kiksht": "nichixadchmaqwam",
+        "english": "he came to hear him [Dyk]"
+      },
+      {
+        "kiksht": "nixchmálq",
+        "english": "I am hearing him (repeatedly)"
+      },
+      {
+        "kiksht": "inixchmaq",
+        "english": "I heard him; I understood him [PK 7/17/56]"
+      },
+      {
+        "kiksht": "uxwaxachmalq",
+        "english": "they hear each other"
+      },
+      {
+        "kiksht": "ixchmaqwix",
+        "english": "he has been heard [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Wawa gałgiux iłagechpa k'ma naqi gachłxchmáq.",
+        "english": "He[ił-] spoke to him with his mouth but he did not hear him. [WTI.1d.4]"
+      }
+    ]
+  },
   "-x-CKWT": {
     "root": "-x-CKWT",
     "partOfSpeech": "vb",
@@ -1818,6 +1954,24 @@
     ],
     "seeAlso": [
       "-NI, -X̲UNI"
+    ]
+  },
+  "-x-gi-CHM-g̲wa-mit": {
+    "root": "-x-gi-CHM-g̲wa-mit",
+    "partOfSpeech": "vb",
+    "definition": "tell what someone said, repeat to someone what he or she said, tell C, in B's presence, the evil B spoke of the person speaking",
+    "forms": [
+      {
+        "kiksht": "axgichmáwalidemchk!",
+        "english": "go repeat to her what she (herself) said"
+      },
+      {
+        "kiksht": "chaxgichmág̲wamalit",
+        "english": "he is telling what she said [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-qagichmág̲wamalit"
     ]
   },
   "-x-gl-CHIM": {
@@ -10748,6 +10902,41 @@
       "shaichkenchken, dachkanchkan"
     ]
   },
+  "chkw'ai": {
+    "root": "chkw'ai",
+    "partOfSpeech": "part",
+    "definition": "bent, pliable, crooked, wiggle, zigzag",
+    "forms": [
+      {
+        "kiksht": "chkw'aichkw'aimax",
+        "english": "bent ones, crooked ones (for instance, roads) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Chkw'aichkw'ai ikiax.",
+        "english": "He (for instance, a snake) is zigzagging, wriggling."
+      },
+      {
+        "kiksht": "chkw'aichkwai iwaya",
+        "english": "crooked wire"
+      },
+      {
+        "kiksht": "Shaichkw'achkw'ái ig̲íwiqi.",
+        "english": "Iron is flexible."
+      },
+      {
+        "kiksht": "Dachkw'aichkw'ái igikłait.",
+        "english": "He sat on it[i-], making it bend. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Chkw'ai refers to a single curve, as in a road; chkw'aichkw'ai refers to more than one curve or bend. [HS 7/2/56]"
+    ],
+    "seeAlso": [
+      "shaichkw'aichkw'ai, dachkw'aichkw'ai, -CHKW'A"
+    ]
+  },
   "cháwigalqwt": {
     "root": "cháwigalqwt",
     "partOfSpeech": "vb",
@@ -10768,6 +10957,59 @@
     ],
     "seeAlso": [
       "chag̲elqłix, chaxelqłix"
+    ]
+  },
+  "chłelbu": {
+    "root": "chłelbu",
+    "partOfSpeech": "vb",
+    "definition": "they freeze",
+    "seeAlso": [
+      "-ch-l-BU"
+    ]
+  },
+  "chłelbunił": {
+    "root": "chłelbunił",
+    "partOfSpeech": "vb",
+    "definition": "it freezes (constantly)",
+    "seeAlso": [
+      "-ch-l-BU"
+    ]
+  },
+  "chłelbút iłdudush": {
+    "root": "chłelbút iłdudush",
+    "partOfSpeech": "n",
+    "definition": "ice cream"
+  },
+  "chłelgalelq": {
+    "root": "chłelgalelq",
+    "partOfSpeech": "vb",
+    "definition": "they are burning",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "chługwipchkt": {
+    "root": "chługwipchkt",
+    "partOfSpeech": "vb",
+    "definition": "he is carrying it ashore",
+    "seeAlso": [
+      "-GWI, -PCHK"
+    ]
+  },
+  "chłula": {
+    "root": "chłula",
+    "partOfSpeech": "vb",
+    "definition": "he trains him[ił-]",
+    "seeAlso": [
+      "-LA"
+    ]
+  },
+  "chłumg̲wilit": {
+    "root": "chłumg̲wilit",
+    "partOfSpeech": "vb",
+    "definition": "he is spitting it out",
+    "seeAlso": [
+      "-M G̲WI, -ł-MSU(I)-it -CHM(A) hear"
     ]
   },
   "ciges": {
@@ -12190,6 +12432,11 @@
     "seeAlso": [
       "i-chaqwsh"
     ]
+  },
+  "ił-chkw'ian": {
+    "root": "ił-chkw'ian",
+    "partOfSpeech": "n",
+    "definition": "pitch"
   },
   "ił-clutkix": {
     "root": "ił-clutkix",
