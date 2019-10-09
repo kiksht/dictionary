@@ -1077,6 +1077,62 @@
       "it-qígichak, -CHA-kw, -k- CHA-kw, -x-K'IWA, tł'ap"
     ]
   },
+  "-l-CHM-l-it": {
+    "root": "-l-CHM-l-it",
+    "partOfSpeech": "vb",
+    "definition": "hear",
+    "forms": [
+      {
+        "kiksht": "nalchemlit",
+        "english": "I hear her (as from a distance, through something, faintly)"
+      },
+      {
+        "kiksht": "chalchemlit",
+        "english": "he is hearing her"
+      },
+      {
+        "kiksht": "chilchemlit",
+        "english": "he is hearing him"
+      },
+      {
+        "kiksht": "chawichemlit",
+        "english": "he is hearing them"
+      },
+      {
+        "kiksht": "(Note from Dyk:",
+        "english": "as the noise they make, as that of an unseen bird."
+      },
+      {
+        "kiksht": "Note from PK:",
+        "english": "as when he is under a waterfall and is hearing through some other medium beside the air, as water, ground, etc."
+      },
+      {
+        "kiksht": ") qnelchemlit",
+        "english": "I am making a hoise"
+      },
+      {
+        "kiksht": "qłelchemlit",
+        "english": "they are making a noise [Dyk]"
+      },
+      {
+        "kiksht": "(These last two could also be trans- lated",
+        "english": "someone hears me/them; but according to Dyk's note they do not necessarily indicate that the noise has been heard.)"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ag̲a idelxam qawichemlit",
+        "english": "dulululu."
+      },
+      {
+        "kiksht": "",
+        "english": "Now the people are heard [sounding] 'dululululu.' [WTI.1a7]"
+      }
+    ],
+    "notes": [
+      "Means hearing a noise, as from a distance, whereas -x-chma-qw and -x-chm-l-it imply hearing distinct sounds or speech and understanding. [Dyk]"
+    ]
+  },
   "-qi-CXA-pa": {
     "root": "-qi-CXA-pa",
     "partOfSpeech": "vb",
@@ -1739,6 +1795,93 @@
       "-x-ckwt"
     ]
   },
+  "-x-CHM-l-it": {
+    "root": "-x-CHM-l-it",
+    "partOfSpeech": "vb",
+    "definition": "hear, understand",
+    "forms": [
+      {
+        "kiksht": "nixchemlit",
+        "english": "I am hearing him (for instance, his singing, continu- ally, steadily)"
+      },
+      {
+        "kiksht": "[Compare nixchmálq",
+        "english": "I am hearing him (every time he makes a noise, repeatedly.] chixchemlit \"he is hearing him (continually)"
+      },
+      {
+        "kiksht": "chuxachemlit",
+        "english": "he is hear- ing them"
+      },
+      {
+        "kiksht": "naxchmlit",
+        "english": "I hear/under- stand her"
+      },
+      {
+        "kiksht": "nichaxchemlit",
+        "english": "he was hearing her (last season)"
+      },
+      {
+        "kiksht": "nigaxchemlit",
+        "english": "she was hearing her (last season)"
+      },
+      {
+        "kiksht": "ninshgaxchemlit",
+        "english": "we (not including you) were hearing her (last season)"
+      },
+      {
+        "kiksht": "nilgaxchemlit",
+        "english": "we (including you) were hearing her (last season)"
+      },
+      {
+        "kiksht": "nimshgaxchemlit",
+        "english": "you folks were hearing her (last season)"
+      },
+      {
+        "kiksht": "niłgaxchemlit",
+        "english": "they were hearing her (last season)"
+      },
+      {
+        "kiksht": "nichaxatchemlit",
+        "english": "he was hearing her (last week)"
+      },
+      {
+        "kiksht": "nigaxatchemlit",
+        "english": "she was hearing her (last week)"
+      },
+      {
+        "kiksht": "ninshgaxatchemlit",
+        "english": "we (not including you) were hearing her (last week)"
+      },
+      {
+        "kiksht": "nilgaxatchemlit",
+        "english": "we (including you) were hearing her (last week)"
+      },
+      {
+        "kiksht": "nimshgaxatchemlit",
+        "english": "you folks were hearing her (last week)"
+      },
+      {
+        "kiksht": "niłgaxatchemlit",
+        "english": "they were hearing her (last week) [Dyk]"
+      },
+      {
+        "kiksht": "chixchemlit",
+        "english": "he is hearing and understanding him"
+      },
+      {
+        "kiksht": "chaxchemlit",
+        "english": "he is hearing her (voice) and understanding"
+      },
+      {
+        "kiksht": "mixchemlit?",
+        "english": "you understand him? [PK 7/17/56]"
+      },
+      {
+        "kiksht": "uxwaxachemlit",
+        "english": "they hear each other [Dyk]"
+      }
+    ]
+  },
   "-x-CHMA-qw": {
     "root": "-x-CHMA-qw",
     "partOfSpeech": "vb",
@@ -2026,6 +2169,85 @@
     ],
     "notes": [
       "Literally means \"throw (- chim) oneself (-x-) at (-gl-).\" The -m- is omitted before the suffix -ł-."
+    ]
+  },
+  "-xl-CHM-l-it": {
+    "root": "-xl-CHM-l-it",
+    "partOfSpeech": "vb",
+    "definition": "hear, understand",
+    "forms": [
+      {
+        "kiksht": "ixelchemlit",
+        "english": "he is hearing"
+      },
+      {
+        "kiksht": "shxelchemlit",
+        "english": "they 2 understand/ hear"
+      },
+      {
+        "kiksht": "nigaxitchemlit",
+        "english": "she was hear- ing (last week)"
+      },
+      {
+        "kiksht": "with reciprocal prefix -x-",
+        "english": "each other, one another"
+      },
+      {
+        "kiksht": ": enxaxichemlit",
+        "english": "I am hearing myself"
+      },
+      {
+        "kiksht": "emxaxichemlit",
+        "english": "you are hearing yourself"
+      },
+      {
+        "kiksht": "ixaxichemlit",
+        "english": "he is hearing himself"
+      },
+      {
+        "kiksht": "axaxichemlit",
+        "english": "she is hearing herself"
+      },
+      {
+        "kiksht": "łxaxichemlit",
+        "english": "they are hearing themselves/each other"
+      },
+      {
+        "kiksht": "txaxichemlit",
+        "english": "we 2 (you and I) are hearing ourselves"
+      },
+      {
+        "kiksht": "entxaxichemlit",
+        "english": "we 2 (not including you) are hearing ourselves"
+      },
+      {
+        "kiksht": "shxaxichemlit",
+        "english": "they 2 are hearing themselves"
+      },
+      {
+        "kiksht": "elxaxichemlit",
+        "english": "we (including you) are hearing ourselves"
+      },
+      {
+        "kiksht": "nshxaxichemlit",
+        "english": "we (not including you) are hearing ourselves"
+      },
+      {
+        "kiksht": "emshxaxichemlit",
+        "english": "you folks are hear- ing yourselves [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Enxelchemlit ikaxich ikiax Simnasho-ba dauya chushdix.",
+        "english": "I hear there's a meeting in Simnasho this evening. [Wasco Conversation 11]"
+      }
+    ],
+    "notes": [
+      "Dyk notes in 2 places that -x- chma-qw/-x-chem-l-it are best used to mean \"hear,\" while -xl-chma-qw/ xl-chem-l-it are best used to mean \"understand.\" However, he generally translates the latter by \"hear.\""
+    ],
+    "seeAlso": [
+      "i-qichmlit"
     ]
   },
   "-ániwat": {

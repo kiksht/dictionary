@@ -3730,3 +3730,21 @@ Examples: Wawa ga¬giux i¬agechpa k’ma naqi gach¬xchmÅq. “He[i¬-] spoke
 -x-gi-CHM-©wa-mit [vb] tell what someone said, repeat to someone what he or she said, tell C, in B’s presence, the evil B spoke of the person speaking
 Forms: axgichmÅwalidemchk! “go repeat to her what she (herself) said” chaxgichmÅ©wamalit “he is telling what she said” [Dyk]
 See also: -qagichmÅ©wamalit
+
+
+
+
+
+-x-CHM-l-it [vb] hear, understand
+Forms: nixchemlit “I am hearing him (for instance, his singing, continu- ally, steadily)” [Compare nixchmÅlq “I am hearing him (every time he makes a noise, repeatedly.] chixchemlit “he is hearing him (continually)” chuxachemlit “he is hear- ing them” naxchmlit “I hear/under- stand her” nichaxchemlit “he was hearing her (last season)” nigaxchemlit “she was hearing her (last season)” ninshgaxchemlit “we (not including you) were hearing her (last season)” nilgaxchemlit “we (including you) were hearing her (last season)” nimshgaxchemlit “you folks were hearing her (last season)” ni¬gaxchemlit “they were hearing her (last season)” nichaxatchemlit “he was hearing her (last week)” nigaxatchemlit “she was hearing her (last week)” ninshgaxatchemlit “we (not including you) were hearing her (last week)” nilgaxatchemlit “we (including you) were hearing her (last week)” nimshgaxatchemlit “you folks were hearing her (last week)” ni¬gaxatchemlit “they were hearing her (last week)” [Dyk] chixchemlit “he is hearing and understanding him” chaxchemlit “he is hearing her (voice) and understanding” mixchemlit? “you understand him?” [PK 7/17/56] uxwaxachemlit “they hear each other” [Dyk]
+
+-xl-CHM-l-it [vb] hear, understand
+Forms: ixelchemlit “he is hearing” shxelchemlit “they 2 understand/ hear” nigaxitchemlit “she was hear- ing (last week)” with reciprocal prefix -x- “each other, one another”: enxaxichemlit “I am hearing myself” emxaxichemlit “you are hearing yourself” ixaxichemlit “he is hearing himself” axaxichemlit “she is hearing herself” ¬xaxichemlit “they are hearing themselves/each other” txaxichemlit “we 2 (you and I) are hearing ourselves” entxaxichemlit “we 2 (not including you) are hearing ourselves” shxaxichemlit “they 2 are hearing themselves” elxaxichemlit “we (including you) are hearing ourselves” nshxaxichemlit “we (not including you) are hearing ourselves” emshxaxichemlit “you folks are hear- ing yourselves” [Dyk]
+Examples: Enxelchemlit ikaxich ikiax Simnasho-ba dauya chushdix. “I hear there’s a meeting in Simnasho this evening.” [Wasco Conversation 11]
+Notes: Dyk notes in 2 places that -x- chma-qw/-x-chem-l-it are best used to mean “hear,” while -xl-chma-qw/ xl-chem-l-it are best used to mean “understand.” However, he generally translates the latter by “hear.”
+See also: i-qichmlit
+
+-l-CHM-l-it [vb] hear
+Forms: nalchemlit “I hear her (as from a distance, through something, faintly)” chalchemlit “he is hearing her” chilchemlit “he is hearing him” chawichemlit “he is hearing them” (Note from Dyk: “as the noise they make, as that of an unseen bird.” Note from PK: “as when he is under a waterfall and is hearing through some other medium beside the air, as water, ground, etc.”) qnelchemlit “I am making a hoise” q¬elchemlit “they are making a noise” [Dyk] (These last two could also be trans- lated “someone hears me/them;” but according to Dyk’s note they do not necessarily indicate that the noise has been heard.)
+Examples: A©a idelxam qawichemlit “dulululu.” “Now the people are heard [sounding] ‘dululululu.’” [WTI.1a7]
+Notes: Means hearing a noise, as from a distance, whereas -x-chma-qw and -x-chm-l-it imply hearing distinct sounds or speech and understanding. [Dyk]
