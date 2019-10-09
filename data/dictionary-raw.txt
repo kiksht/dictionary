@@ -4608,3 +4608,58 @@ danska [pron] what
 Examples: Danska? “What the hell is that?” Dansk(a) ikiax? “What is going on?” [Dyk]
 Notes: Same as danaska. It appar- ently has a note of urgency or impa- tience.
 See also: dan, danaska
+
+
+
+
+
+
+
+danyamt [pron] which one?, which one else?, something else, to what, from what, how
+Examples: DanyÅmt inˆt. “Give me something tlse.” Danyamt watu¬ ichal©alq yÅxiba? “How did the fire start to burn over there?” [Dyk]
+See also: dan
+
+-x-DAPA-¬x [vb] escape getting killed, escape death
+Forms: igixdapa¬x “he escaped get- ting killed” [Dyk]
+See also: i-qadabal¬x
+
+dapÅt [adv] a little way
+Examples: Gayalgaxit dapÅt. “It[i-] got stuck in her a little way.” [WTI.1c.2]
+
+dapÅu [part] fall with a bang
+Examples: DapÅu ay ̈klchwaya. “It[i- ] will fall right down.” [WTIV.4.2] “It will fall with a bang!” [GT, MMc 1/ 15/99 (occasioned laughter)]
+Notes: Meaning uncertain. Compare dap ̈m.
+
+dapcåx [adv] green
+Notes: This is probably an emphatic form of dapchix.
+See also: dapchix
+
+dapcaxmax [part] green things, greenish things
+Examples: Qaua dapcaxmax, qaua dagashmax, qaua da¬balmax gachuxwa. “He made some [blankets] greenish, some yellowish, some red- dish.” [WTI.11.8]
+Pronunciation: Second -a- is long.
+See also: dapcåx
+
+dapcix [adv] green
+
+dapchax [adv] blue, gray
+See also: dapchåx, pchexpchex
+
+dapchix [adv] green [Dyk], gray [Dyk, DH?], blueish [GT, MMc 6/3/ 98], grayish [GT 6/3/98]
+See also: dapcix, dapcax
+
+dapdix [adv] so many times
+Examples: Daptdix iyuya. “So many times he went.” [Dyk]
+See also: dapt
+
+dapt [pron] this far, so far, this much, so much, this many, so many; by now
+Examples: dapt iyati¬x ilibum “that many apples” dapt iyadumt ikala “so tall is the man” dapt iya©ait¬ wilx “so large a place” dapt iyat¬qtix “that far, that long” Dapt i¬na©un gam¬uxax. “You caught that certain amount of sturgeon; at that certain time you caught sturgeon.” Dapt ichiux. “That much he made it[i-] to be.” Dapt aminit¬a. “Bring that much ot it[i-] to me.” Dauya dapt a©a yukst ilibum. “Now at this time apples are ripe.” Dauya dapt ilibum ayamluda. “This many apples I will give to you.” Dauyaba dapt inxemgaba. “That much on this I worked.” [Dyk] Naqi dapt alidia. “He will not come as far as this.” [WTI.2.3] NagwÅtx a©a p’ala daya dapt. “I hope they are well by now.” [WTIII.4.1]
+Forms: daptmax “that size/ that amount/that much they are” daptmax idat¬qdax “that size they are” daptmax iya©ait¬ax “that big they are” Dapdix iyuya. “So many times he went.” Daptkadix iyuya. “Only that many times he went.” ¬daptiksh “so many of them” Òdaptkadiksh i¬dimam. “Only so many arrived.” DabÅt iyak’Åic. “That small he is.” [Dyk] Daptbaix pu alixuxa dika iduihamax. “By this time the cattle should be here.” [CLL8]
+
+-daptiksh [pron] so many, that many
+Forms: ¬daptiksh “so many of them”
+Examples: See dapt.
+See also: dapt
+
+-daptkadiksh [pron] only so many, only that many
+Examples: Òdaptkadiksh i¬dimam. “Only so many arrived.” [Dyk]
+See also: dapt, -daptkdiksh

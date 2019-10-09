@@ -1346,6 +1346,35 @@
       }
     ]
   },
+  "-daptiksh": {
+    "root": "-daptiksh",
+    "partOfSpeech": "pron",
+    "definition": "so many, that many",
+    "forms": [
+      {
+        "kiksht": "łdaptiksh",
+        "english": "so many of them"
+      }
+    ],
+    "examples": [],
+    "seeAlso": [
+      "dapt"
+    ]
+  },
+  "-daptkadiksh": {
+    "root": "-daptkadiksh",
+    "partOfSpeech": "pron",
+    "definition": "only so many, only that many",
+    "examples": [
+      {
+        "kiksht": "Łdaptkadiksh iłdimam.",
+        "english": "Only so many arrived. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dapt, -daptkdiksh"
+    ]
+  },
   "-gl-CHIM": {
     "root": "-gl-CHIM",
     "partOfSpeech": "vb",
@@ -2930,6 +2959,20 @@
     ],
     "notes": [
       "Refers to catching something intentionally. If a person set a trap to get a particular animal and acciden- tally caught something else, this verb would not be used. [PK]"
+    ]
+  },
+  "-x-DAPA-łx": {
+    "root": "-x-DAPA-łx",
+    "partOfSpeech": "vb",
+    "definition": "escape getting killed, escape death",
+    "forms": [
+      {
+        "kiksht": "igixdapałx",
+        "english": "he escaped get- ting killed [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qadabalłx"
     ]
   },
   "-x-NI": {
@@ -14090,6 +14133,207 @@
     ],
     "seeAlso": [
       "dan, danaska"
+    ]
+  },
+  "danyamt": {
+    "root": "danyamt",
+    "partOfSpeech": "pron",
+    "definition": "which one?, which one else?, something else, to what, from what, how",
+    "examples": [
+      {
+        "kiksht": "Danyámt inít.",
+        "english": "Give me something tlse."
+      },
+      {
+        "kiksht": "Danyamt watuł ichalg̲alq yáxiba?",
+        "english": "How did the fire start to burn over there? [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dan"
+    ]
+  },
+  "dapcaxmax": {
+    "root": "dapcaxmax",
+    "partOfSpeech": "part",
+    "definition": "green things, greenish things",
+    "examples": [
+      {
+        "kiksht": "Qaua dapcaxmax, qaua dagashmax, qaua dałbalmax gachuxwa.",
+        "english": "He made some [blankets] greenish, some yellowish, some red- dish. [WTI.11.8]"
+      }
+    ],
+    "pronunciation": "Second -a- is long.",
+    "seeAlso": [
+      "dapcåx"
+    ]
+  },
+  "dapcåx": {
+    "root": "dapcåx",
+    "partOfSpeech": "adv",
+    "definition": "green",
+    "notes": [
+      "This is probably an emphatic form of dapchix."
+    ],
+    "seeAlso": [
+      "dapchix"
+    ]
+  },
+  "dapchax": {
+    "root": "dapchax",
+    "partOfSpeech": "adv",
+    "definition": "blue, gray",
+    "seeAlso": [
+      "dapchåx, pchexpchex"
+    ]
+  },
+  "dapchix": {
+    "root": "dapchix",
+    "partOfSpeech": "adv",
+    "definition": "green [Dyk], gray [Dyk, DH?], blueish [GT, MMc 6/3/ 98], grayish [GT 6/3/98]",
+    "seeAlso": [
+      "dapcix, dapcax"
+    ]
+  },
+  "dapcix": {
+    "root": "dapcix",
+    "partOfSpeech": "adv",
+    "definition": "green"
+  },
+  "dapdix": {
+    "root": "dapdix",
+    "partOfSpeech": "adv",
+    "definition": "so many times",
+    "examples": [
+      {
+        "kiksht": "Daptdix iyuya.",
+        "english": "So many times he went. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dapt"
+    ]
+  },
+  "dapt": {
+    "root": "dapt",
+    "partOfSpeech": "pron",
+    "definition": "this far, so far, this much, so much, this many, so many; by now",
+    "examples": [
+      {
+        "kiksht": "dapt iyatiłx ilibum",
+        "english": "that many apples"
+      },
+      {
+        "kiksht": "dapt iyadumt ikala",
+        "english": "so tall is the man"
+      },
+      {
+        "kiksht": "dapt iyag̲aitł wilx",
+        "english": "so large a place"
+      },
+      {
+        "kiksht": "dapt iyatłqtix",
+        "english": "that far, that long"
+      },
+      {
+        "kiksht": "Dapt iłnag̲un gamłuxax.",
+        "english": "You caught that certain amount of sturgeon; at that certain time you caught sturgeon."
+      },
+      {
+        "kiksht": "Dapt ichiux.",
+        "english": "That much he made it[i-] to be."
+      },
+      {
+        "kiksht": "Dapt aminitła.",
+        "english": "Bring that much ot it[i-] to me."
+      },
+      {
+        "kiksht": "Dauya dapt ag̲a yukst ilibum.",
+        "english": "Now at this time apples are ripe."
+      },
+      {
+        "kiksht": "Dauya dapt ilibum ayamluda.",
+        "english": "This many apples I will give to you."
+      },
+      {
+        "kiksht": "Dauyaba dapt inxemgaba.",
+        "english": "That much on this I worked. [Dyk]"
+      },
+      {
+        "kiksht": "Naqi dapt alidia.",
+        "english": "He will not come as far as this. [WTI.2.3]"
+      },
+      {
+        "kiksht": "Nagwátx ag̲a p'ala daya dapt.",
+        "english": "I hope they are well by now. [WTIII.4.1]"
+      }
+    ],
+    "forms": [
+      {
+        "kiksht": "daptmax",
+        "english": "that size/ that amount/that much they are"
+      },
+      {
+        "kiksht": "daptmax idatłqdax",
+        "english": "that size they are"
+      },
+      {
+        "kiksht": "daptmax iyag̲aitłax",
+        "english": "that big they are"
+      },
+      {
+        "kiksht": "Dapdix iyuya.",
+        "english": "So many times he went."
+      },
+      {
+        "kiksht": "Daptkadix iyuya.",
+        "english": "Only that many times he went."
+      },
+      {
+        "kiksht": "łdaptiksh",
+        "english": "so many of them"
+      },
+      {
+        "kiksht": "Łdaptkadiksh iłdimam.",
+        "english": "Only so many arrived."
+      },
+      {
+        "kiksht": "Dabát iyak'áic.",
+        "english": "That small he is. [Dyk]"
+      },
+      {
+        "kiksht": "Daptbaix pu alixuxa dika iduihamax.",
+        "english": "By this time the cattle should be here. [CLL8]"
+      }
+    ]
+  },
+  "dapát": {
+    "root": "dapát",
+    "partOfSpeech": "adv",
+    "definition": "a little way",
+    "examples": [
+      {
+        "kiksht": "Gayalgaxit dapát.",
+        "english": "It[i-] got stuck in her a little way. [WTI.1c.2]"
+      }
+    ]
+  },
+  "dapáu": {
+    "root": "dapáu",
+    "partOfSpeech": "part",
+    "definition": "fall with a bang",
+    "examples": [
+      {
+        "kiksht": "Dapáu ayúklchwaya.",
+        "english": "It[i- ] will fall right down. [WTIV.4.2]"
+      },
+      {
+        "kiksht": "",
+        "english": "It will fall with a bang! [GT, MMc 1/ 15/99 (occasioned laughter)]"
+      }
+    ],
+    "notes": [
+      "Meaning uncertain. Compare dapúm."
     ]
   },
   "dauya": {
