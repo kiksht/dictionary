@@ -729,8 +729,7 @@
   "Caskénlit": {
     "root": "Caskénlit",
     "partOfSpeech": "place",
-    "definition": "Cedar Butte ił-cáxamuix [n] small sturgeon, baby sturgeon",
-    "forms": []
+    "definition": "Cedar Butte"
   },
   "a'a'": {
     "root": "a'a'",
@@ -1941,18 +1940,23 @@
   "ag̲a pu": {
     "root": "ag̲a pu",
     "partOfSpeech": "idiom",
-    "definition": "almost, pretty near ag̲utx [n] my mother's sister!, (ma- ternal) aunt!",
+    "definition": "almost, pretty near"
+  },
+  "ag̲a łkun": {
+    "root": "ag̲a łkun",
+    "partOfSpeech": "idiom",
+    "definition": "just now"
+  },
+  "ag̲utx": {
+    "root": "ag̲utx",
+    "partOfSpeech": "n",
+    "definition": "my mother's sister!, (ma- ternal) aunt!",
     "notes": [
       "Used to address one's mother's sister."
     ],
     "seeAlso": [
       "-g̲utx, kudash"
     ]
-  },
-  "ag̲a łkun": {
-    "root": "ag̲a łkun",
-    "partOfSpeech": "idiom",
-    "definition": "just now"
   },
   "ag̲wa": {
     "root": "ag̲wa",
@@ -2245,24 +2249,7 @@
   "aisdáx": {
     "root": "aisdáx",
     "partOfSpeech": "adv",
-    "definition": "circlewise, in a circle aist'áx [part] bend, wrap about",
-    "examples": [
-      {
-        "kiksht": "Aist'áx aliłxluxwa iłapuchba.",
-        "english": "He will wrap it around his buttocks. [WTII.5.1]"
-      },
-      {
-        "kiksht": "Aist'áx łaq' inyuxt.",
-        "english": "By bending I made it[i-] bent."
-      },
-      {
-        "kiksht": "Aist'áx aliłxluxa.",
-        "english": "They wrapped it[i-] about themselves slowly. [Dyk]"
-      }
-    ],
-    "seeAlso": [
-      "st'ex"
-    ]
+    "definition": "circlewise, in a circle"
   },
   "aish": {
     "root": "aish",
@@ -2357,6 +2344,28 @@
     ],
     "seeAlso": [
       "shux, saishuxshux, dashaxwshaxw"
+    ]
+  },
+  "aist'áx": {
+    "root": "aist'áx",
+    "partOfSpeech": "part",
+    "definition": "bend, wrap about",
+    "examples": [
+      {
+        "kiksht": "Aist'áx aliłxluxwa iłapuchba.",
+        "english": "He will wrap it around his buttocks. [WTII.5.1]"
+      },
+      {
+        "kiksht": "Aist'áx łaq' inyuxt.",
+        "english": "By bending I made it[i-] bent."
+      },
+      {
+        "kiksht": "Aist'áx aliłxluxa.",
+        "english": "They wrapped it[i-] about themselves slowly. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "st'ex"
     ]
   },
   "aitgáwulxdix ag̲ałax": {
@@ -2561,8 +2570,13 @@
     "partOfSpeech": "n",
     "definition": "campfire bread",
     "notes": [
-      "There is some disagreement on the precise meaning of this term. According to Dyk, it refers to bread baked in a pan in the ashes of a campfire. According to Gladys Th- ompson and Madeline McInturff [6/ 3/98], however, it refers to bread baked standing up on edge of fire; bread baked in ashes is ushít asablal. aixwáu [part] be interested in what one does, interest in what one does"
-    ],
+      "There is some disagreement on the precise meaning of this term. According to Dyk, it refers to bread baked in a pan in the ashes of a campfire. According to Gladys Th- ompson and Madeline McInturff [6/ 3/98], however, it refers to bread baked standing up on edge of fire; bread baked in ashes is ushít asablal."
+    ]
+  },
+  "aixwáu": {
+    "root": "aixwáu",
+    "partOfSpeech": "part",
+    "definition": "be interested in what one does, interest in what one does",
     "examples": [
       {
         "kiksht": "Aixwáu niuxt.",
@@ -2693,8 +2707,23 @@
     "partOfSpeech": "vb",
     "definition": "you will let her fall",
     "seeAlso": [
-      "-x-LK-chu, -LK-chu alamxluxa [vb] you will put it[a-] on yourself, you will wear it[a-]",
+      "-x-LK-chu, -LK-chu"
+    ]
+  },
+  "alamxluxa": {
+    "root": "alamxluxa",
+    "partOfSpeech": "vb",
+    "definition": "you will put it[a-] on yourself, you will wear it[a-]",
+    "seeAlso": [
       "-xl-X̲"
+    ]
+  },
+  "alamxpshta": {
+    "root": "alamxpshta",
+    "partOfSpeech": "vb",
+    "definition": "you will make fire by twirling sticks",
+    "seeAlso": [
+      "-a-x-PSHT"
     ]
   },
   "alamxłgiłxa": {
@@ -2702,8 +2731,7 @@
     "partOfSpeech": "vb",
     "definition": "you will make fire",
     "seeAlso": [
-      "-a-xl-KIŁX̲, -i-xl-kiłx alamxpshta [vb] you will make fire by twirling sticks",
-      "-a-x-PSHT"
+      "-a-xl-KIŁX̲, -i-xl-kiłx"
     ]
   },
   "alanxelmuxma": {
@@ -3040,7 +3068,12 @@
   "aliłkwchwaya": {
     "root": "aliłkwchwaya",
     "partOfSpeech": "vb",
-    "definition": "it[i-] will fall down aliłlutxwida [vb] he is always stand- ing around in it",
+    "definition": "it[i-] will fall down"
+  },
+  "aliłlutxwida": {
+    "root": "aliłlutxwida",
+    "partOfSpeech": "vb",
+    "definition": "he is always stand- ing around in it",
     "examples": [
       {
         "kiksht": "dáminwa aliłlutxwida iłchqwaba",
@@ -3252,6 +3285,14 @@
       "-X̲, -x-X̲"
     ]
   },
+  "aluxwułxelma": {
+    "root": "aluxwułxelma",
+    "partOfSpeech": "vb",
+    "definition": "they will eat",
+    "seeAlso": [
+      "-x-ŁX̲LM"
+    ]
+  },
   "aluxwánimananma": {
     "root": "aluxwánimananma",
     "partOfSpeech": "vb",
@@ -3279,8 +3320,7 @@
     "partOfSpeech": "vb",
     "definition": "they will mourn",
     "seeAlso": [
-      "-xi-NIM, aluxwínimchgwa aluxwułxelma [vb] they will eat",
-      "-x-ŁX̲LM"
+      "-xi-NIM, aluxwínimchgwa"
     ]
   },
   "alxdínaya": {
@@ -9130,6 +9170,12 @@
       "ił-caxamuix, ił-cáqabuix"
     ]
   },
+  "ił-cáxamuix": {
+    "root": "ił-cáxamuix",
+    "partOfSpeech": "n",
+    "definition": "small sturgeon, baby sturgeon",
+    "forms": []
+  },
   "kinwa": {
     "root": "kinwa",
     "partOfSpeech": "adv",
@@ -9239,7 +9285,17 @@
       {
         "kiksht": "Qengi naqi amxmatgaba Berkeley-ba?",
         "english": "Why don't you work at Berkeley? [Dyk]"
-      },
+      }
+    ],
+    "seeAlso": [
+      "qengiská, qengidnu"
+    ]
+  },
+  "qengi ch'ala": {
+    "root": "qengi ch'ala",
+    "partOfSpeech": "idiom",
+    "definition": "\"how about it?\", \"what do you say?\"",
+    "examples": [
       {
         "kiksht": "Amuya awachi naika anuya, qengi ch'ala?",
         "english": "You'll go or I'll go, how about it?"
@@ -9248,9 +9304,6 @@
         "kiksht": "Wax anłuxwa iłk'iwaxmat awachi kwaish, qengi ch'ala?",
         "english": "Shall I light the light now or after a while, what do you say? [Dyk]"
       }
-    ],
-    "seeAlso": [
-      "qengiská, qengidnu qengi ch'ala [idiom]  \"how about it?\", \"what do you say?\""
     ]
   },
   "wa-ba": {

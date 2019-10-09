@@ -8,7 +8,9 @@ Forms:  isk’ulya “(male) coyote” ask’ulya “female coyote” itsk’ ̈
 
 qengi [pron]  what, how, what for,why, something
 Examples:  Qengi mait’a?  “How are you?” [GT, MMc]  Qengi entx̲a! “Do something to me!” [WTI.5.3]  Qengi qidau? “What’s the matter?”  Qengi emg ̈shgiwal? “What are you travelling for?”  Qengi dauya inx̲ ̈x̲? “What is this that happened to me?”  Qengi mkix̲ax̲? “What’s the matter with you?”  Qengi aish? “How is it to be done?”  Qengi ichiux̲? “What did he do to him?”  Qengi dan? “What’s the matter?”  Qengimax̲ chiux̲t. “He is doing everything to him.”  k’aya qengi “nothing, nothing the matter” Qengi naqi amxmatgaba Berkeley-ba?“ Why don’t you work at Berkeley?” [Dyk]
-See also: qengiskÅ, qengidnu qengi ch’ala [idiom]  "how about it?", "what do you say?"
+See also: qengiskÅ, qengidnu
+
+qengi ch’ala [idiom]  "how about it?", "what do you say?"
 Examples:  Amuya awachi naika anuya, qengi ch’ala? “You’ll go or I’ll go, how about it?”  Wax an¬uxwa i¬k’iwaxmat awachi kwaish, qengi ch’ala? “Shall I light the light now or after a while, what do you say?” [Dyk]
 
 dauya [pron]  this
@@ -317,7 +319,9 @@ a©a nuk’aya [idiom] strictly no, strictly not
 Examples: A©a nuk’aya iya©mshtx̲. “He strictly never drinks.” [Dyk]
 See also: k’aya
 
-a©a pu [idiom] almost, pretty near a©utx [n] my mother’s sister!, (ma- ternal) aunt!
+a©a pu [idiom] almost, pretty near
+
+a©utx [n] my mother’s sister!, (ma- ternal) aunt!
 Notes: Used to address one’s mother’s sister.
 See also: -©utx, kudash
 
@@ -444,7 +448,9 @@ Examples: AiqwÅt¬ gashguxix itshdapiq. “They hung their wings together slow
 Pronunciation: The second -a- is often pronounced long.
 See also: qwut¬. daqwat¬
 
-aisdÅx [adv] circlewise, in a circle aist’Åx [part] bend, wrap about
+aisdÅx [adv] circlewise, in a circle
+
+aist’Åx [part] bend, wrap about
 Examples: Aist’Åx ali¬xluxwa i¬apuchba. “He will wrap it around his buttocks.” [WTII.5.1] Aist’Åx ¬aq’ inyuxt. “By bending I made it[i-] bent.” Aist’Åx ali¬xluxa. “They wrapped it[i-] about themselves slowly.” [Dyk]
 See also: st’ex
 
@@ -518,7 +524,9 @@ aixt¬’akwdix [num] half past (in time expressions)
 Examples: ©wnmaba aixt¬’akwdix “at half-past five, at 5:30” [CLL12]
 
 aixutqix asablal [n] campfire bread
-Notes: There is some disagreement on the precise meaning of this term. According to Dyk, it refers to bread baked in a pan in the ashes of a campfire. According to Gladys Th- ompson and Madeline McInturff [6/ 3/98], however, it refers to bread baked standing up on edge of fire; bread baked in ashes is ushˆt asablal. aixwÅu [part] be interested in what one does, interest in what one does
+Notes: There is some disagreement on the precise meaning of this term. According to Dyk, it refers to bread baked in a pan in the ashes of a campfire. According to Gladys Th- ompson and Madeline McInturff [6/ 3/98], however, it refers to bread baked standing up on edge of fire; bread baked in ashes is ushˆt asablal.
+
+aixwÅu [part] be interested in what one does, interest in what one does
 Examples: AixwÅu niuxt. “I am interesting him in what I am doing.” AixwÅu ikiax. “He is interested in what is being done and does it him- self.” [Dyk]
 
 
@@ -573,11 +581,15 @@ ala¬xˆlxu¬a [vb] someone will dipnet- fish
 See also: -a-xi-LXUÒ
 
 alamx¬gi¬xa [vb] you will make fire
-See also: -a-xl-KIÒ ̨, -i-xl-ki¬x alamxpshta [vb] you will make fire by twirling sticks
+See also: -a-xl-KIÒ ̨, -i-xl-ki¬x
+
+alamxpshta [vb] you will make fire by twirling sticks
 See also: -a-x-PSHT
 
 alamxelekchwaya [vb] you will let her fall
-See also: -x-LK-chu, -LK-chu alamxluxa [vb] you will put it[a-] on yourself, you will wear it[a-]
+See also: -x-LK-chu, -LK-chu
+
+alamxluxa [vb] you will put it[a-] on yourself, you will wear it[a-]
 See also: -xl- ̨
 
 alanxelmuxma [vb] I will eat it[a-] See also: -xl-MU ̨
@@ -661,7 +673,9 @@ See also: -KIM
 ali¬it¬Åidama [vb] it[i-] will come to him[i¬-], it[i-] will settle into his[i¬-] net
 See also: -ÒA-it
 
-ali¬kwchwaya [vb] it[i-] will fall down ali¬lutxwida [vb] he is always stand- ing around in it
+ali¬kwchwaya [vb] it[i-] will fall down
+
+ali¬lutxwida [vb] he is always stand- ing around in it
 Examples: dÅminwa ali¬lutxwida i¬chqwaba “he is always standing around in water” [Bear and Crane B]
 See also: -TX(WI)
 
@@ -791,7 +805,9 @@ Examples: Òk’ub aluxwatxa it©wÅlala. “The guns will be shot at us.” [
 See also: - ̨, -x- ̨
 
 aluxwˆnimchgwa [vb] they will mourn
-See also: -xi-NIM, aluxwˆnimchgwa aluxwu¬xelma [vb] they will eat
+See also: -xi-NIM, aluxwˆnimchgwa
+
+aluxwu¬xelma [vb] they will eat
 See also: -x-Ò ̨LM
 
 alxÅm [vb] tell her!
@@ -2890,7 +2906,9 @@ wa-cÅqws [n] small pine tree
 Notes: This appears to be a “talking small” form of a word *wa-chaqwsh, which however has not been found.
 See also: WacÅqws, i-chaqwsh, i- caqws
 
-Caskénlit [place] Cedar Butte i¬-cÅxamuix [n] small sturgeon, baby sturgeon
+Caskénlit [place] Cedar Butte
+
+i¬-cÅxamuix [n] small sturgeon, baby sturgeon
 Forms: Does not change for plural. The prefix is an educated guess; Hiram Smith used the i¬- prefix with the form of the word he gave 7/25/ 56: i¬-cÅqabuix.
 
 cek [part] oil, grease, smear
