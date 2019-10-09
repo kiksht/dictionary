@@ -13068,6 +13068,258 @@
       "diká, yaxdaba, kwaba"
     ]
   },
+  "dac'ic'i": {
+    "root": "dac'ic'i",
+    "partOfSpeech": "part",
+    "definition": "sweet",
+    "examples": [
+      {
+        "kiksht": "dan dac'ic'i",
+        "english": "fruit; some- thing sweet"
+      },
+      {
+        "kiksht": "dac'ic'i danmax",
+        "english": "sweet things"
+      },
+      {
+        "kiksht": "Dac'ic'i ag̲a ikiax.",
+        "english": "Now it is becoming sweeter."
+      },
+      {
+        "kiksht": "Dac'ic'i chiuxt.",
+        "english": "He is making it[i-] sweet. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "c'i"
+    ]
+  },
+  "dac'wáx": {
+    "root": "dac'wáx",
+    "partOfSpeech": "part",
+    "definition": "clear, light, open",
+    "examples": [
+      {
+        "kiksht": "Dac'wax ichiux.",
+        "english": "He made it[i-] to be clear (for instance, a win- dow)."
+      },
+      {
+        "kiksht": "dac'wax iłchqwá",
+        "english": "clear water [Dyk]"
+      }
+    ],
+    "pronunciation": "The -a- is written as long in Dyk.",
+    "seeAlso": [
+      "c'wex, c'wax"
+    ]
+  },
+  "dacagwáu": {
+    "root": "dacagwáu",
+    "partOfSpeech": "part",
+    "definition": "miss",
+    "examples": [
+      {
+        "kiksht": "Lab ałgatxa ac'emna dakwáł nawit; qatgia kwaba dacagwáu qaxłkun algutxmida.",
+        "english": "He drives the staging-pole under water so that it fits right in place; some- times it misses there, but after a while he sets it up. [WTII.7.2]"
+      }
+    ],
+    "seeAlso": [
+      "dasagwáu"
+    ]
+  },
+  "dacéx": {
+    "root": "dacéx",
+    "partOfSpeech": "part",
+    "definition": "pain sharply, sting",
+    "examples": [
+      {
+        "kiksht": "Galixux dacéx.",
+        "english": "He got a sharp pain."
+      },
+      {
+        "kiksht": "Dacx galaxux.",
+        "english": "She got a sharp pain."
+      },
+      {
+        "kiksht": "Dacéx ikiax idiapchba.",
+        "english": "He feels the pain in his feet. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "cex, saicexcéx"
+    ]
+  },
+  "dach'axwch'axw": {
+    "root": "dach'axwch'axw",
+    "partOfSpeech": "part",
+    "definition": "peel, peel off",
+    "examples": [
+      {
+        "kiksht": "Dach'axwch'axw igixux.",
+        "english": "It[i-] became peeled off. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ch'uxw, saich'uch'ux"
+    ]
+  },
+  "dach'íp": {
+    "root": "dach'íp",
+    "partOfSpeech": "part",
+    "definition": "striped"
+  },
+  "dachag̲wat": {
+    "root": "dachag̲wat",
+    "partOfSpeech": "part",
+    "definition": "firm, tight, solid",
+    "examples": [
+      {
+        "kiksht": "Dachag̲wat iluxdix.",
+        "english": "It[i-] is fast/tight/firm on it[i-] (a place). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "chag̲wat"
+    ]
+  },
+  "dachaxai": {
+    "root": "dachaxai",
+    "partOfSpeech": "part",
+    "definition": "disappear, go out of sight",
+    "examples": [
+      {
+        "kiksht": "Dachaxai igilkchuix.",
+        "english": "He fell into it[i-] (a hole) out of sight. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "chaxái"
+    ]
+  },
+  "dachésh": {
+    "root": "dachésh",
+    "partOfSpeech": "part",
+    "definition": "cold",
+    "examples": [
+      {
+        "kiksht": "dachésh itqwłí",
+        "english": "cold house; the house is cold [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "chesh"
+    ]
+  },
+  "dachéx": {
+    "root": "dachéx",
+    "partOfSpeech": "part",
+    "definition": "warm",
+    "examples": [
+      {
+        "kiksht": "dachx iłchqwá",
+        "english": "warm water [DykGr 128]"
+      }
+    ],
+    "seeAlso": [
+      "chex"
+    ]
+  },
+  "dachkanchkan": {
+    "root": "dachkanchkan",
+    "partOfSpeech": "part",
+    "definition": "dull",
+    "examples": [
+      {
+        "kiksht": "Dachkanchkan ayaq'íwiqi ichiug̲ilx ik'álamat.",
+        "english": "He hit the rock and his knife became dull. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "shaichkenchken, chken"
+    ]
+  },
+  "dachkw'aichkw'ái": {
+    "root": "dachkw'aichkw'ái",
+    "partOfSpeech": "part",
+    "definition": "bent, crooked",
+    "examples": [
+      {
+        "kiksht": "Dachkw'aichkw'ái igikłait.",
+        "english": "He sat on it[i-], making it bend. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-CHKW'A, shaichkw'aichkw'ái"
+    ]
+  },
+  "dachwax": {
+    "root": "dachwax",
+    "partOfSpeech": "part",
+    "definition": "light-colored",
+    "seeAlso": [
+      "ch'uaxchuax"
+    ]
+  },
+  "dachxai": {
+    "root": "dachxai",
+    "partOfSpeech": "adv",
+    "definition": "fast",
+    "examples": [
+      {
+        "kiksht": "Dachxai yuit.",
+        "english": "He is going fast. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dałux"
+    ]
+  },
+  "dacmanix": {
+    "root": "dacmanix",
+    "partOfSpeech": "part",
+    "definition": "plainly seen, plainly visible",
+    "examples": [
+      {
+        "kiksht": "Saqw dacmanix łixtka iłchqwá gachłúx igunat.",
+        "english": "Salmon made only one [spring of] water, plainly seen by all. [WTI.2.12]"
+      }
+    ],
+    "seeAlso": [
+      "cmaníx"
+    ]
+  },
+  "dadakdák": {
+    "root": "dadakdák",
+    "partOfSpeech": "part",
+    "definition": "loosen (entirely), come all loose, break through",
+    "examples": [
+      {
+        "kiksht": "Dadakdák gałxúx iłiakach ig̲anuk.",
+        "english": "Beaver's teeth all came loose. [WTI.4.1]"
+      },
+      {
+        "kiksht": "Dadakdák gachuxwa wachlx.",
+        "english": "He broke throught the underground lodge. [WTI.11.17]"
+      }
+    ],
+    "seeAlso": [
+      "dak"
+    ]
+  },
+  "daga": {
+    "root": "daga",
+    "partOfSpeech": "n",
+    "definition": "daughter's son!, daughter's child! [?], grandson!, granddaughter! [?]",
+    "forms": [
+      {
+        "kiksht": "dagamax",
+        "english": "daughter's son! grandson! daughter's child![?] grandaughter! [?]"
+      }
+    ],
+    "notes": [
+      "It is not certain whether this word was used to address only a daughter's sons or to address both her sons and daughters."
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -14304,6 +14556,14 @@
     ],
     "seeAlso": [
       "cwax"
+    ]
+  },
+  "i-dachg̲emembama itqwłí": {
+    "root": "i-dachg̲emembama itqwłí",
+    "partOfSpeech": "n",
+    "definition": "hospi- tal",
+    "seeAlso": [
+      "i- -chg̲emem"
     ]
   },
   "i-k'ámunaq": {
