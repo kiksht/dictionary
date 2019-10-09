@@ -4148,3 +4148,54 @@ See also: -CH’I-q¬kw
 -CH’I-q¬kw [vb] put crosswise, put across
 Forms: chiuch’iq¬kwt “he has it[i-] put crosswise” igich’ilq¬k “he is criss- crossing (something)” with relational prefix -k- “on”: aqdakch’iq¬gwa “someone will put them across on it[a-], they will be put across on it” chiakch’iq¬kwt “he has it[i-] put crosswise on it[a-]” [Dyk] with relational prefix -l- “in”: ilch’iq¬gwix! “put it crosswise in it[i- ]!” [PK 7/17/56] ciselc’iq¬kwt “he has it[i-] put crosswise in them” (talk- ing small) chdalch’iuq¬kwt “he has them (each one individually) put crosswise in it[a-]” chdalch’iulq¬k “he is putting them (each one indi- vidually) crosswise in it[a-]” chdalch’ilq¬k “he is putting them crosswise in it[a-]” adilch’ˆq¬gulidmayaxdix “they will all become crisscrossed in it[i-] (a place)” dilch’ˆq¬gulidix “they are becoming crosswise in it[i-] (a place)” dilch’ˆq¬guxlidix “they are being put crosswise in it[i-] (a place)” dilch’iq¬kuxix “they have been put crosswise in it[i-] (a place)” dilch’iq¬kwdix “they are crosswise in it[i-] (a place)” (might imply that they fall that way) iyalch’ˆq¬kwit “it[i-] became crossed in it[a-]” iyalch’ˆq¬kuxit “it[i-] was put cross- wise in it[a-]” with reflexive relational prefix -xl- “in -self”: shaxelch’iq¬kwt “she has them 2 crossed in herself” shxelch’iq¬kwt “they 2 are crisscrossed in each other” [Dyk]
 See also: -x-CH’I-q¬kw, ch’iq¬kamt
+
+
+
+
+
+
+
+-x-CH’I-q¬kw [vb] put crosswise, put across one another, cross
+Forms: anshxch’iq¬gwa “I will cross them 2” atkshxch’iq¬gwa “we 2 (not including you) will cross them 2” chshxch’iq¬kwt “he has them 2 crossed” kshxch’iq¬kwt “she has them 2 crossed” kshxch’ilq¬k “she is crossing them 2” shxch’iq¬kwt “they 2 have themselves crossed on each other” [Dyk]
+See also: -CH’I-q¬kw
+
+i-ch’ˆxt [n] diaper
+See also: i-ch’xt, i-p’a¬a, i-qanyak
+
+i-ch’ixyan [n] monster, water-mon- ster
+Forms: ich’ixyanmax “water-mon- sters” ic’ixyan “small water-monster, baby water-monster”
+Notes: Refers to a monster in legend- times who dwelt in the river and swallowed people.
+See also: i-c’ixyan, a-yach’ˆxyanix
+
+ch’k’ayÅ [part] silent, quiet
+Examples: Ch’k’ayÅ idelxam taunba. “The people are making no noise in town.” Ch’k’ay(a) igixux. “It[i-] stopped making noise.” Ch’k’ayÅ inshxux. “We quieted down from talking.” [Dyk] Ch’k’aya ikiax. “It’s quiet.” [GT, MMc 1/12/99]
+Notes: Ch’k’ayÅ and chk’ayÅ are both acceptable, without difference in meaning. [Dyk, PK] They are prob- ably derived from ch’i k’aya “no noise, no answer, quiet.” [Dyk]
+See also: chk’ayÅ, ch’i
+
+-ch’max [n] great-grandparent, great-grandfather, great-grand- mother, great-grandchild, great- grandson, great-granddaughter
+Forms: ichch’max “my great-grand- father; my great-grandson” akch’max “my great-grandmother; my great-granddaughter” ichch’maxnana “my great-grandchil- dren” [Relatives]
+Notes: Used reciprocally between great-grandparents and great-grand- children.
+
+i-ch’maxix [n] rattlesnake
+Forms: Does not change for plural.
+Notes: The same as i-©awulx. [GT 1/ 14/99] This word may have origi- nated as a respectful name, or a euphemism, for “rattlesnake;” it is clearly related to ich’lmax “greatgrandfather.”
+See also: i-©awulx, i-ch’ai, i-u¬t’umax, i-ch’max
+
+ch’pak [adv] swiftly, quickly, excit- edly
+Forms: Ch’pak gatgˆx itkiudanyuksh. “Swiftly the horses went.” [WTIV.2.5] Ch’pag ga¬xelp’Ålawulalmx. “They were talking excitedly among them- selves.” [WTIV.2.13]
+
+a-ch’upkal [n] sucker
+Forms: ishch’upkal “2 suckers” [HS 7/21/56] ishch’upkalksh “suckers” [Dyk]
+
+ch’ux [part] pull out
+Examples: Ch’ux gach¬ixux i¬chkw’ian. “He pulled out the pitch from him.” [WTI.15.2]
+
+ch’uxw [part] peel, peel off
+Examples: Ch’uxwch’uxw chiuxt ilibum. “He is peeling apples.” [Dyk]
+See also: dach’axwch’axw, saich’uxch’ux
+
+i-ch’uxwalala [n] bladder (of fish) [Dyk, HS 7/21/56], balloon [HS 7/ 21/56]
+
+daba [adv] here
+Examples: ma©a daba “now here” dika daba “right here” Nuxt daba. “I’m sitting here.” [Dyk]
+See also: dikÅ, yaxdaba, kwaba

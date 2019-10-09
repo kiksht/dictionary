@@ -1168,6 +1168,28 @@
       "ch'iqch'iq, ishch'iq"
     ]
   },
+  "-ch'max": {
+    "root": "-ch'max",
+    "partOfSpeech": "n",
+    "definition": "great-grandparent, great-grandfather, great-grand- mother, great-grandchild, great- grandson, great-granddaughter",
+    "forms": [
+      {
+        "kiksht": "ichch'max",
+        "english": "my great-grand- father; my great-grandson"
+      },
+      {
+        "kiksht": "akch'max",
+        "english": "my great-grandmother; my great-granddaughter"
+      },
+      {
+        "kiksht": "ichch'maxnana",
+        "english": "my great-grandchil- dren [Relatives]"
+      }
+    ],
+    "notes": [
+      "Used reciprocally between great-grandparents and great-grand- children."
+    ]
+  },
   "-ch'ánk": {
     "root": "-ch'ánk",
     "partOfSpeech": "n",
@@ -2433,6 +2455,40 @@
         "kiksht": "itsk'úlyayuks",
         "english": "coyotes [Dyk]"
       }
+    ]
+  },
+  "-x-CH'I-qłkw": {
+    "root": "-x-CH'I-qłkw",
+    "partOfSpeech": "vb",
+    "definition": "put crosswise, put across one another, cross",
+    "forms": [
+      {
+        "kiksht": "anshxch'iqłgwa",
+        "english": "I will cross them 2"
+      },
+      {
+        "kiksht": "atkshxch'iqłgwa",
+        "english": "we 2 (not including you) will cross them 2"
+      },
+      {
+        "kiksht": "chshxch'iqłkwt",
+        "english": "he has them 2 crossed"
+      },
+      {
+        "kiksht": "kshxch'iqłkwt",
+        "english": "she has them 2 crossed"
+      },
+      {
+        "kiksht": "kshxch'ilqłk",
+        "english": "she is crossing them 2"
+      },
+      {
+        "kiksht": "shxch'iqłkwt",
+        "english": "they 2 have themselves crossed on each other [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-CH'I-qłkw"
     ]
   },
   "-x-CHA": {
@@ -3740,6 +3796,21 @@
     ],
     "notes": [
       "A flat bug that sticks right on you; different from leeches found in southern countries."
+    ]
+  },
+  "a-ch'upkal": {
+    "root": "a-ch'upkal",
+    "partOfSpeech": "n",
+    "definition": "sucker",
+    "forms": [
+      {
+        "kiksht": "ishch'upkal",
+        "english": "2 suckers [HS 7/21/56]"
+      },
+      {
+        "kiksht": "ishch'upkalksh",
+        "english": "suckers [Dyk]"
+      }
     ]
   },
   "a-chabnit": {
@@ -11752,6 +11823,75 @@
       "-CH'I-qłkw"
     ]
   },
+  "ch'k'ayá": {
+    "root": "ch'k'ayá",
+    "partOfSpeech": "part",
+    "definition": "silent, quiet",
+    "examples": [
+      {
+        "kiksht": "Ch'k'ayá idelxam taunba.",
+        "english": "The people are making no noise in town."
+      },
+      {
+        "kiksht": "Ch'k'ay(a) igixux.",
+        "english": "It[i-] stopped making noise."
+      },
+      {
+        "kiksht": "Ch'k'ayá inshxux.",
+        "english": "We quieted down from talking. [Dyk]"
+      },
+      {
+        "kiksht": "Ch'k'aya ikiax.",
+        "english": "It's quiet. [GT, MMc 1/12/99]"
+      }
+    ],
+    "notes": [
+      "Ch'k'ayá and chk'ayá are both acceptable, without difference in meaning. [Dyk, PK] They are prob- ably derived from ch'i k'aya \"no noise, no answer, quiet.\" [Dyk]"
+    ],
+    "seeAlso": [
+      "chk'ayá, ch'i"
+    ]
+  },
+  "ch'pak": {
+    "root": "ch'pak",
+    "partOfSpeech": "adv",
+    "definition": "swiftly, quickly, excit- edly",
+    "forms": [
+      {
+        "kiksht": "Ch'pak gatgíx itkiudanyuksh.",
+        "english": "Swiftly the horses went. [WTIV.2.5]"
+      },
+      {
+        "kiksht": "Ch'pag gałxelp'álawulalmx.",
+        "english": "They were talking excitedly among them- selves. [WTIV.2.13]"
+      }
+    ]
+  },
+  "ch'ux": {
+    "root": "ch'ux",
+    "partOfSpeech": "part",
+    "definition": "pull out",
+    "examples": [
+      {
+        "kiksht": "Ch'ux gachłixux iłchkw'ian.",
+        "english": "He pulled out the pitch from him. [WTI.15.2]"
+      }
+    ]
+  },
+  "ch'uxw": {
+    "root": "ch'uxw",
+    "partOfSpeech": "part",
+    "definition": "peel, peel off",
+    "examples": [
+      {
+        "kiksht": "Ch'uxwch'uxw chiuxt ilibum.",
+        "english": "He is peeling apples. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dach'axwch'axw, saich'uxch'ux"
+    ]
+  },
   "ch'á'amdiamt": {
     "root": "ch'á'amdiamt",
     "partOfSpeech": "adv",
@@ -12906,6 +13046,28 @@
       "-s-k'l-TK"
     ]
   },
+  "daba": {
+    "root": "daba",
+    "partOfSpeech": "adv",
+    "definition": "here",
+    "examples": [
+      {
+        "kiksht": "mag̲a daba",
+        "english": "now here"
+      },
+      {
+        "kiksht": "dika daba",
+        "english": "right here"
+      },
+      {
+        "kiksht": "Nuxt daba.",
+        "english": "I'm sitting here. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "diká, yaxdaba, kwaba"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -13744,6 +13906,44 @@
       "-CH'I-qłkw"
     ]
   },
+  "i-ch'ixyan": {
+    "root": "i-ch'ixyan",
+    "partOfSpeech": "n",
+    "definition": "monster, water-mon- ster",
+    "forms": [
+      {
+        "kiksht": "ich'ixyanmax",
+        "english": "water-mon- sters"
+      },
+      {
+        "kiksht": "ic'ixyan",
+        "english": "small water-monster, baby water-monster"
+      }
+    ],
+    "notes": [
+      "Refers to a monster in legend- times who dwelt in the river and swallowed people."
+    ],
+    "seeAlso": [
+      "i-c'ixyan, a-yach'íxyanix"
+    ]
+  },
+  "i-ch'maxix": {
+    "root": "i-ch'maxix",
+    "partOfSpeech": "n",
+    "definition": "rattlesnake",
+    "forms": [],
+    "notes": [
+      "The same as i-g̲awulx. [GT 1/ 14/99] This word may have origi- nated as a respectful name, or a euphemism, for \"rattlesnake;\" it is clearly related to ich'lmax \"greatgrandfather.\""
+    ],
+    "seeAlso": [
+      "i-g̲awulx, i-ch'ai, i-ułt'umax, i-ch'max"
+    ]
+  },
+  "i-ch'uxwalala": {
+    "root": "i-ch'uxwalala",
+    "partOfSpeech": "n",
+    "definition": "bladder (of fish) [Dyk, HS 7/21/56], balloon [HS 7/ 21/56]"
+  },
   "i-ch'áxiu": {
     "root": "i-ch'áxiu",
     "partOfSpeech": "n",
@@ -13760,6 +13960,14 @@
     ],
     "seeAlso": [
       "i-g̲elgwipx"
+    ]
+  },
+  "i-ch'íxt": {
+    "root": "i-ch'íxt",
+    "partOfSpeech": "n",
+    "definition": "diaper",
+    "seeAlso": [
+      "i-ch'xt, i-p'ała, i-qanyak"
     ]
   },
   "i-chachaq": {
