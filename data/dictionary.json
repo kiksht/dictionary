@@ -965,6 +965,28 @@
     "definition": "old dance intro- duced from the east",
     "forms": []
   },
+  "-ch'ánk": {
+    "root": "-ch'ánk",
+    "partOfSpeech": "n",
+    "definition": "deer, mule deer",
+    "forms": [
+      {
+        "kiksht": "ich'ánk",
+        "english": "(male) mule deer"
+      },
+      {
+        "kiksht": "ach'ánk",
+        "english": "(female) mule deer"
+      },
+      {
+        "kiksht": "itch'ánk",
+        "english": "mule deer [plural] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-gach'anksh"
+    ]
+  },
   "-ch-l-BU": {
     "root": "-ch-l-BU",
     "partOfSpeech": "vb",
@@ -3481,6 +3503,17 @@
     "definition": "pine sapling",
     "seeAlso": [
       "i-chaqwsh"
+    ]
+  },
+  "a-ch'apa": {
+    "root": "a-ch'apa",
+    "partOfSpeech": "n",
+    "definition": "wild rose, tomato",
+    "notes": [
+      "PK 6/22/56 observes that \"old timers called tomatoes that. Today they're called 'tomatoes' [that is, people just use the English word].\""
+    ],
+    "seeAlso": [
+      "it-ch'apa"
     ]
   },
   "a-chabnit": {
@@ -11288,6 +11321,97 @@
       "chex, ch'ex"
     ]
   },
+  "ch'a'amdix": {
+    "root": "ch'a'amdix",
+    "partOfSpeech": "adv",
+    "definition": "away from the open, close to a wall, close to a bluff face",
+    "seeAlso": [
+      "ch'á'amdiamt"
+    ]
+  },
+  "ch'a'amt": {
+    "root": "ch'a'amt",
+    "partOfSpeech": "part",
+    "definition": "away from the open"
+  },
+  "ch'ala": {
+    "root": "ch'ala",
+    "partOfSpeech": "part",
+    "definition": "[interrogative particle]",
+    "examples": [
+      {
+        "kiksht": "Qengi ch'ala amuya áwachi naika?",
+        "english": "How about it, will you go or shall I? [WTIV.2.10] [GT, MMc 1/15/99 rejected this sentence, and gave instead: Ch'ala chi maika amuya áwachi naika?]"
+      },
+      {
+        "kiksht": "Ch'ala chi k'axsh chmuxt ik'atich áwachi ig̲iwaq?",
+        "english": "What do you want, dried salmon or meat? [GT, MMc 1/15/99]"
+      }
+    ],
+    "notes": [
+      "See qengi ch'ala."
+    ]
+  },
+  "ch'amdix": {
+    "root": "ch'amdix",
+    "partOfSpeech": "adv",
+    "definition": "by the wall, close to the wall",
+    "examples": [
+      {
+        "kiksht": "Gayułáitx ch'amdix.",
+        "english": "He sat down close to the wall. [WTI.11.11]"
+      }
+    ]
+  },
+  "ch'anakwłiaxa": {
+    "root": "ch'anakwłiaxa",
+    "partOfSpeech": "part",
+    "definition": "be reminded, remember suddenly",
+    "examples": [
+      {
+        "kiksht": "Oh! Ch'anakwłiaxa iq'iuqt wilimx ag̲a.",
+        "english": "Oh! I am reminded the old man is married now. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ch'ani, -KWŁI"
+    ]
+  },
+  "ch'ani": {
+    "root": "ch'ani",
+    "partOfSpeech": "part",
+    "definition": "try",
+    "examples": [
+      {
+        "kiksht": "Ch'ani emk'ixa!",
+        "english": "Try to swim! All right, let's see you swim! [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ch'ániau"
+    ]
+  },
+  "ch'aq": {
+    "root": "ch'aq",
+    "partOfSpeech": "part",
+    "definition": "wring, wash, squeeze out",
+    "examples": [
+      {
+        "kiksht": "Cha'q chiuxt.",
+        "english": "He is wring- ing it[i-]."
+      },
+      {
+        "kiksht": "Cha'qch'áq ikiax.",
+        "english": "He is washing (clothes). [Dyk]"
+      }
+    ],
+    "notes": [
+      "Can refer also to squeezing out juice."
+    ],
+    "seeAlso": [
+      "i-gitch'aqch'aq"
+    ]
+  },
   "ch'á'amdiamt": {
     "root": "ch'á'amdiamt",
     "partOfSpeech": "adv",
@@ -11300,6 +11424,24 @@
     ],
     "seeAlso": [
       "ch'a'amdix"
+    ]
+  },
+  "ch'ániau": {
+    "root": "ch'ániau",
+    "partOfSpeech": "part",
+    "definition": "let's see",
+    "forms": [
+      {
+        "kiksht": "Ch'ániau mk'ixa.",
+        "english": "Let's see you swim."
+      },
+      {
+        "kiksht": "Ch'ániau achiuxwa.",
+        "english": "Let's see if he can/will do it[i-]. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ch'ani"
     ]
   },
   "cha": {
@@ -13128,6 +13270,60 @@
       "wa-caqws"
     ]
   },
+  "i-ch'ai": {
+    "root": "i-ch'ai",
+    "partOfSpeech": "n",
+    "definition": "rattlesnake",
+    "forms": [
+      {
+        "kiksht": "ishch'ai",
+        "english": "2 rattlesnakes [HS 7/4/51]"
+      },
+      {
+        "kiksht": "ich'aimax",
+        "english": "rattlesnakes [GT 6/3-5/98]"
+      }
+    ],
+    "notes": [
+      "Gladys Thompson (6/3-5/98) says that the \"real\" name of a rattle- snake is ig̲awulx; this word refers to rattles."
+    ],
+    "seeAlso": [
+      "i-ch'aich'ai, i-ch'maxix, i- g̲awulx, i-ułt'umax"
+    ]
+  },
+  "i-ch'aich'ai": {
+    "root": "i-ch'aich'ai",
+    "partOfSpeech": "n",
+    "definition": "rattler, rattlesnake",
+    "seeAlso": [
+      "i-ch'ai"
+    ]
+  },
+  "i-ch'almu": {
+    "root": "i-ch'almu",
+    "partOfSpeech": "n",
+    "definition": "fishhawk, osprey",
+    "forms": [
+      {
+        "kiksht": "ishch'almu",
+        "english": "2 ospreys [HS 7/21/56]"
+      }
+    ],
+    "seeAlso": [
+      "i-pck'ílauya"
+    ]
+  },
+  "i-ch'aqch'aq": {
+    "root": "i-ch'aqch'aq",
+    "partOfSpeech": "n",
+    "definition": "dried milt sacs",
+    "notes": [
+      "Refers to the long white sacs in a male fish after they have been dried by fire. The undried sacs are it- tq'ín. Dyk gives both this form and itch'atqch'ataq for this meaning."
+    ],
+    "seeAlso": [
+      "ish-tq'in"
+    ]
+  },
   "i-chachaq": {
     "root": "i-chachaq",
     "partOfSpeech": "n",
@@ -13746,6 +13942,22 @@
       "Borrowed to or from Sahaptin c'xwilí."
     ]
   },
+  "it-ch'a'ch'a'max": {
+    "root": "it-ch'a'ch'a'max",
+    "partOfSpeech": "n",
+    "definition": "leggings"
+  },
+  "it-ch'ach'amax": {
+    "root": "it-ch'ach'amax",
+    "partOfSpeech": "n",
+    "definition": "chap-like pants, war-dance chaps",
+    "notes": [
+      "Refers to chap-like pants that are worn with is-t'ilailaks \"breech clout.\" Each leg was separate and tied at the waist to a belt. [Dyk] Now known as war-dance chaps. [GT, MMc 12/30/97]"
+    ],
+    "seeAlso": [
+      "i-t'ílailaks"
+    ]
+  },
   "it-ch'aich'aimax": {
     "root": "it-ch'aich'aimax",
     "partOfSpeech": "n",
@@ -13754,6 +13966,17 @@
       {
         "kiksht": "idiach'aich'aimax",
         "english": "he's cov- ered with sores [GT, MMc 12/30/97] Apparently not used in singular."
+      }
+    ]
+  },
+  "it-ch'apa": {
+    "root": "it-ch'apa",
+    "partOfSpeech": "n",
+    "definition": "wild rose bush",
+    "forms": [
+      {
+        "kiksht": "itch'ápamax",
+        "english": "rose bushes brush [PK 6/22/56]"
       }
     ]
   },
