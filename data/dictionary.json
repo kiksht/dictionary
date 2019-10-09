@@ -416,6 +416,17 @@
       "-ch-l-BU"
     ]
   },
+  "-k-CHA": {
+    "root": "-k-CHA",
+    "partOfSpeech": "vb",
+    "definition": "carry",
+    "forms": [
+      {
+        "kiksht": "gashgukchanmx",
+        "english": "they 2 car- ried it[a-] about with them [WTI.2.25]"
+      }
+    ]
+  },
   "-l-CGI-ma": {
     "root": "-l-CGI-ma",
     "partOfSpeech": "vb",
@@ -9022,6 +9033,141 @@
       "k'eses"
     ]
   },
+  "c'um": {
+    "root": "c'um",
+    "partOfSpeech": "part",
+    "definition": "argue, quarrel",
+    "examples": [
+      {
+        "kiksht": "C'um ikiax.",
+        "english": "He is quarrel- ing."
+      },
+      {
+        "kiksht": "C'um łxugwaxt.",
+        "english": "They are argu- ing about them. [Dyk]"
+      },
+      {
+        "kiksht": "Shpaq c'um shkixax.",
+        "english": "They 2 argue excitedly. [WTI.2.21]"
+      },
+      {
+        "kiksht": "C'um łxalguxt.",
+        "english": "They are uncertain as to who we are, they are arguing about who we are. [WTIV.2.13]"
+      }
+    ],
+    "notes": [
+      "Appears to refer to unreason- ing or unreasonable arguing, as opposed to -xmduwlx, which refers to intelligent debate."
+    ],
+    "seeAlso": [
+      "i- -c'um, -xm-tu-wulx"
+    ]
+  },
+  "c'unus": {
+    "root": "c'unus",
+    "partOfSpeech": "adv",
+    "definition": "little, few, not much, not many, small amount, small piece",
+    "forms": [
+      {
+        "kiksht": "c'únusmax",
+        "english": "small bits, little pieces"
+      },
+      {
+        "kiksht": "c'unusc'unus",
+        "english": "a little at a time [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "c'unus igunat",
+        "english": "a small amount of Chinook salmon"
+      },
+      {
+        "kiksht": "c'unus mank",
+        "english": "just a little bit"
+      },
+      {
+        "kiksht": "C'unus ichiux.",
+        "english": "He made a small amount of it[i-]."
+      },
+      {
+        "kiksht": "C'unus galixelmux.",
+        "english": "He ate a small piece of it."
+      },
+      {
+        "kiksht": "C'unus t'mel ixa!",
+        "english": "Tear off a small piece!"
+      },
+      {
+        "kiksht": "C'unus ichilqwim.",
+        "english": "He feeds him a small amount."
+      },
+      {
+        "kiksht": "C'unus ilibum ichilqwim.",
+        "english": "He fed him a small piece of apple. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "c'únusix"
+    ]
+  },
+  "c'uqc'uq": {
+    "root": "c'uqc'uq",
+    "partOfSpeech": "part",
+    "definition": "suck",
+    "examples": [
+      {
+        "kiksht": "C'uqc'uq chłuxt ił-candy.",
+        "english": "He's sucking candy."
+      },
+      {
+        "kiksht": "C'uqc'uq chiuxt ikaba.",
+        "english": "He's sucking ice. [GT, MMc 6/9/99]"
+      }
+    ]
+  },
+  "c'wax": {
+    "root": "c'wax",
+    "partOfSpeech": "part",
+    "definition": "clear, light, open",
+    "examples": [
+      {
+        "kiksht": "C'wax senxlutk.",
+        "english": "I am looking with wide open eyes, seeingclearly. [Dyk]"
+      }
+    ],
+    "pronunciation": "The -a- is written as long in Dyk.",
+    "seeAlso": [
+      "c'wex, dac'wáx"
+    ]
+  },
+  "c'wex": {
+    "root": "c'wex",
+    "partOfSpeech": "part",
+    "definition": "clear, transparent",
+    "examples": [
+      {
+        "kiksht": "C'wex ichiux.",
+        "english": "He made it[i-] clear (for instance, a medicine made clear rather than opaque). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "c'wax, dac'wáx"
+    ]
+  },
+  "c'únusix": {
+    "root": "c'únusix",
+    "partOfSpeech": "adv",
+    "definition": "little, in small amounts, meagerly",
+    "examples": [
+      {
+        "kiksht": "C'unusix ichilqwim.",
+        "english": "He feeds him little. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "c'unus"
+    ]
+  },
   "calxukdit": {
     "root": "calxukdit",
     "partOfSpeech": "vb",
@@ -9096,6 +9242,20 @@
     ],
     "seeAlso": [
       "chex, ch'ex"
+    ]
+  },
+  "cha": {
+    "root": "cha",
+    "partOfSpeech": "interj",
+    "definition": "well!",
+    "examples": [
+      {
+        "kiksht": "Cha! ag̲(a) amtgúgwiga idmdag̲amachx iłmdałaxit ag̲(a) alxdínaya.",
+        "english": "Well! Now get your ar- rows and your bows and we shall fight. [WTI.12.10]"
+      }
+    ],
+    "notes": [
+      "The precise force of this inter- jection is difficult to determine from the one example available."
     ]
   },
   "ciges": {
@@ -9292,6 +9452,28 @@
         "kiksht": "iyac'imam isablal",
         "english": "cake [GT, MMc]"
       }
+    ]
+  },
+  "i- -c'um": {
+    "root": "i- -c'um",
+    "partOfSpeech": "adj n",
+    "definition": "argumentative, quar- relsome",
+    "forms": [
+      {
+        "kiksht": "iyac'úm",
+        "english": "he is argumenta- tive, likes to argue/dispute"
+      },
+      {
+        "kiksht": "ichac'úm",
+        "english": "she is argumentative"
+      },
+      {
+        "kiksht": "iłac'úm",
+        "english": "they are argumentative [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "c'um, -xm-du-wulx"
     ]
   },
   "i- -cgecx": {
@@ -10135,6 +10317,30 @@
     ],
     "seeAlso": [
       "a-c'emna"
+    ]
+  },
+  "it-c'úxwili": {
+    "root": "it-c'úxwili",
+    "partOfSpeech": "n",
+    "definition": "tipi",
+    "forms": [
+      {
+        "kiksht": "ishc'úxwili",
+        "english": "2 tipis"
+      },
+      {
+        "kiksht": "itc'úxwilimax",
+        "english": "tipis"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Enduqmít itc'úxwili.",
+        "english": "I see a tipi. [GT, MMc 6/9/99]"
+      }
+    ],
+    "notes": [
+      "Borrowed to or from Sahaptin c'xwilí."
     ]
   },
   "ił-alakásgwilit": {
