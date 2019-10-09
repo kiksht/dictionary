@@ -422,6 +422,21 @@
       "-i-l-BWA-mit, -BU, -BWA"
     ]
   },
+  "-chálimax": {
+    "root": "-chálimax",
+    "partOfSpeech": "n",
+    "definition": "holes left after digging roots",
+    "forms": [
+      {
+        "kiksht": "iłiachálimax",
+        "english": "his root-digging holes iłgachálimax [HS 7/21/56], itgachálimax [PK 6/24/56]"
+      },
+      {
+        "kiksht": "",
+        "english": "her root- digging holes No singular. Appar- ently either it- or ił- prefixes may be used."
+      }
+    ]
+  },
   "-i-l-BWA-mit": {
     "root": "-i-l-BWA-mit",
     "partOfSpeech": "vb",
@@ -1321,6 +1336,17 @@
     "partOfSpeech": "place",
     "definition": "Cedar Butte"
   },
+  "Chalaitglit": {
+    "root": "Chalaitglit",
+    "partOfSpeech": "place",
+    "definition": "Willow Place",
+    "notes": [
+      "Place name apparently on the Columbia."
+    ],
+    "seeAlso": [
+      "i-láitk, i-laitglit, i-chalaitglit"
+    ]
+  },
   "a'a'": {
     "root": "a'a'",
     "partOfSpeech": "part",
@@ -1734,6 +1760,39 @@
     "definition": "pine sapling",
     "seeAlso": [
       "i-chaqwsh"
+    ]
+  },
+  "a-chabnit": {
+    "root": "a-chabnit",
+    "partOfSpeech": "n",
+    "definition": "spear head, spear point",
+    "forms": [
+      {
+        "kiksht": "ishchabnit",
+        "english": "2 spear heads"
+      },
+      {
+        "kiksht": "itchabnit",
+        "english": "spear heads"
+      }
+    ],
+    "notes": [
+      "Refers to the bone head or point of the spear used for salmon, of which 2 were used on each spear. [Dyk, HS 7/21/56]"
+    ]
+  },
+  "a-chaliq": {
+    "root": "a-chaliq",
+    "partOfSpeech": "n",
+    "definition": "grindstone",
+    "forms": [
+      {
+        "kiksht": "ishchaliq",
+        "english": "2 grindstones [HS 7/21/56]"
+      },
+      {
+        "kiksht": "iłchaliq",
+        "english": "grindstones [PK 7/56]"
+      }
     ]
   },
   "a-ck'entłex": {
@@ -9499,6 +9558,87 @@
       "The precise force of this inter- jection is difficult to determine from the one example available."
     ]
   },
+  "chagelładnił": {
+    "root": "chagelładnił",
+    "partOfSpeech": "vb",
+    "definition": "he throws them[a-] to her",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "chagemłuxan": {
+    "root": "chagemłuxan",
+    "partOfSpeech": "vb",
+    "definition": "he thinks much of her",
+    "seeAlso": [
+      "-gm-ŁUXWA(N)"
+    ]
+  },
+  "chag̲elqłix": {
+    "root": "chag̲elqłix",
+    "partOfSpeech": "adv",
+    "definition": "wintertime, in win- ter",
+    "seeAlso": [
+      "chaxelłix, chaxelqłix"
+    ]
+  },
+  "chag̲waix": {
+    "root": "chag̲waix",
+    "partOfSpeech": "adv",
+    "definition": "summer"
+  },
+  "chag̲wat": {
+    "root": "chag̲wat",
+    "partOfSpeech": "part",
+    "definition": "firm, tight, solid",
+    "examples": [
+      {
+        "kiksht": "Chag̲wat ichiux.",
+        "english": "He made it[i-] firm/tight/solid."
+      },
+      {
+        "kiksht": "Chag̲wat chigelgat.",
+        "english": "He is holding it[i-] tight."
+      },
+      {
+        "kiksht": "Chag̲wat iluxdix.",
+        "english": "It[i-] is fast/tight/ firm on it[i-] (a place). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dachag̲wat"
+    ]
+  },
+  "chag̲wáishq": {
+    "root": "chag̲wáishq",
+    "partOfSpeech": "part",
+    "definition": "summer water[?]",
+    "examples": [
+      {
+        "kiksht": "Ag̲a iłchqwá ałdia chag̲wáishq.",
+        "english": "Now the water comes, summer water. [WTII.7.1]"
+      }
+    ],
+    "seeAlso": [
+      "ił-chqwá"
+    ]
+  },
+  "chaitgaluqt": {
+    "root": "chaitgaluqt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is burning",
+    "seeAlso": [
+      "-ch-l-gal-qw"
+    ]
+  },
+  "chałilxam": {
+    "root": "chałilxam",
+    "partOfSpeech": "num",
+    "definition": "ten",
+    "notes": [
+      "This is the form used with a- prefix nouns. The forms of -łilxam are formed by adding the appropri- ate possessive prefix to the stem."
+    ]
+  },
   "ciges": {
     "root": "ciges",
     "partOfSpeech": "part",
@@ -9729,6 +9869,20 @@
     ],
     "seeAlso": [
       "i- -ck'ecx"
+    ]
+  },
+  "i- -chag̲wix": {
+    "root": "i- -chag̲wix",
+    "partOfSpeech": "adj n",
+    "definition": "cold",
+    "examples": [
+      {
+        "kiksht": "Ichachag̲wix.",
+        "english": "It's cold. [of weather]"
+      }
+    ],
+    "seeAlso": [
+      "ichacháq"
     ]
   },
   "i- -ck'ecx": {
@@ -10233,6 +10387,89 @@
       "wa-caqws"
     ]
   },
+  "i-chachaq": {
+    "root": "i-chachaq",
+    "partOfSpeech": "n",
+    "definition": "cold, cold weather, chill, frost, December",
+    "examples": [
+      {
+        "kiksht": "ichachachaq",
+        "english": "she easily becomes cold"
+      },
+      {
+        "kiksht": "ichachág̲ idiantł'atł'aiyuksh",
+        "english": "icicles"
+      },
+      {
+        "kiksht": "(literally",
+        "english": "frost's eyebrows)"
+      }
+    ]
+  },
+  "i-chachaxwix": {
+    "root": "i-chachaxwix",
+    "partOfSpeech": "n",
+    "definition": "cold"
+  },
+  "i-chagiqnan": {
+    "root": "i-chagiqnan",
+    "partOfSpeech": "n",
+    "definition": "teacher (female)",
+    "forms": [
+      {
+        "kiksht": "iłag̲iqnan",
+        "english": "teachers, teaching staff [HS 7/2/51]"
+      }
+    ],
+    "seeAlso": [
+      "i-chaxig̲iqnan, i-yaxig̲iqnan, i-yag̲iqnan, i- -xig̲iqnan, i- -g̲iqnan"
+    ]
+  },
+  "i-chag̲iqshtamnił": {
+    "root": "i-chag̲iqshtamnił",
+    "partOfSpeech": "n",
+    "definition": "field nurse",
+    "notes": [
+      "Though having masculine singular prefix, refers to a female nurse who went about visiting houses and checking up patients, as shown by the feminine possessive prefix. Construction: i-cha-g̲iqshtamnił."
+    ],
+    "seeAlso": [
+      "i- -g̲iqshtamnił"
+    ]
+  },
+  "i-chag̲ulaimxat": {
+    "root": "i-chag̲ulaimxat",
+    "partOfSpeech": "n",
+    "definition": "moving to a place where one can dig roots, pick berries, and hunt in the summer months"
+  },
+  "i-chak'íwalu": {
+    "root": "i-chak'íwalu",
+    "partOfSpeech": "n",
+    "definition": "end of winter (when food is all gone)",
+    "seeAlso": [
+      "wa-lu"
+    ]
+  },
+  "i-chalaitglit": {
+    "root": "i-chalaitglit",
+    "partOfSpeech": "n",
+    "definition": "willow grove"
+  },
+  "i-chaqłg̲lit": {
+    "root": "i-chaqłg̲lit",
+    "partOfSpeech": "n",
+    "definition": "snowbrush",
+    "seeAlso": [
+      "i-chaqłq"
+    ]
+  },
+  "i-chaqłq": {
+    "root": "i-chaqłq",
+    "partOfSpeech": "n",
+    "definition": "manzanita, snowbrush",
+    "seeAlso": [
+      "i-chaqłg̲lit"
+    ]
+  },
   "i-cimac": {
     "root": "i-cimac",
     "partOfSpeech": "n",
@@ -10584,6 +10821,17 @@
       "Borrowed to or from Sahaptin c'xwilí."
     ]
   },
+  "it-ch'aich'aimax": {
+    "root": "it-ch'aich'aimax",
+    "partOfSpeech": "n",
+    "definition": "sores",
+    "forms": [
+      {
+        "kiksht": "idiach'aich'aimax",
+        "english": "he's cov- ered with sores [GT, MMc 12/30/97] Apparently not used in singular."
+      }
+    ]
+  },
   "it-cha'cha'(max)": {
     "root": "it-cha'cha'(max)",
     "partOfSpeech": "n",
@@ -10596,6 +10844,26 @@
     ],
     "seeAlso": [
       "a-qwátauwias"
+    ]
+  },
+  "it-chagwáyaqwł": {
+    "root": "it-chagwáyaqwł",
+    "partOfSpeech": "n",
+    "definition": "summer house, drying shed",
+    "forms": [
+      {
+        "kiksht": "itchagwayaqwłumax",
+        "english": "sum- mer houses [PK 4/11/54]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Łkshigmudelgix iłwulk itchagwáyaqwłba.",
+        "english": "They 2 are put- ting up poles to support the summer house. [PK 4/11/54]"
+      }
+    ],
+    "seeAlso": [
+      "chagwaix, it-qwłí, it- chaxelqwł"
     ]
   },
   "ił-alakásgwilit": {
@@ -10956,6 +11224,14 @@
     ],
     "seeAlso": [
       "id-mał, małn, k'amałmt, it-k'umałmt"
+    ]
+  },
+  "wá-chaqchaq": {
+    "root": "wá-chaqchaq",
+    "partOfSpeech": "n",
+    "definition": "fireweed",
+    "notes": [
+      "\"They really burn when they get on you, have stickers on them.\" [GT 12/29/97]"
     ]
   },
   "x-C'IŁX̲A-kw": {
