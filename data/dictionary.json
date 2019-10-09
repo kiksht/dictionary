@@ -212,6 +212,23 @@
     "partOfSpeech": "vb",
     "definition": "lie on one's back"
   },
+  "-CHA-kw": {
+    "root": "-CHA-kw",
+    "partOfSpeech": "vb",
+    "definition": "leave unfinished",
+    "forms": [
+      {
+        "kiksht": "chiuchakwt",
+        "english": "he is leaving it[i- ] unfinished [PK 7/19/56]"
+      }
+    ],
+    "notes": [
+      "Implies that something will be left unfinished permanently; not used if there will be continuing work on the object or project referred to."
+    ],
+    "seeAlso": [
+      "-k-CHA-kw, -l-CHA-kw"
+    ]
+  },
   "-CKW'A-id-ix": {
     "root": "-CKW'A-id-ix",
     "partOfSpeech": "vb",
@@ -427,6 +444,24 @@
       }
     ]
   },
+  "-k-CHA-kw": {
+    "root": "-k-CHA-kw",
+    "partOfSpeech": "vb",
+    "definition": "leave unfinished",
+    "forms": [
+      {
+        "kiksht": "achigachagwa",
+        "english": "he will leave it[i-] unfinished"
+      },
+      {
+        "kiksht": "ixchakwt",
+        "english": "it[i-] is unfinished [PK 7/19/56]"
+      }
+    ],
+    "seeAlso": [
+      "-CHA-kw, -l-CHA-kw"
+    ]
+  },
   "-l-CGI-ma": {
     "root": "-l-CGI-ma",
     "partOfSpeech": "vb",
@@ -439,6 +474,61 @@
     ],
     "seeAlso": [
       "-xl-CGI"
+    ]
+  },
+  "-l-CHA-kw": {
+    "root": "-l-CHA-kw",
+    "partOfSpeech": "vb",
+    "definition": "owe",
+    "forms": [
+      {
+        "kiksht": "nilgichakwt",
+        "english": "I owe him"
+      },
+      {
+        "kiksht": "nalgichakwt",
+        "english": "I owe her"
+      },
+      {
+        "kiksht": "nilgichálkwł",
+        "english": "I am trying to owe him, trying to buy from him on credit"
+      },
+      {
+        "kiksht": "ichialchagwa",
+        "english": "he owed it[i-] to her [Dyk]"
+      },
+      {
+        "kiksht": "ilgichagwa!",
+        "english": "owe him (the rest)!"
+      },
+      {
+        "kiksht": "ayamichagwa",
+        "english": "I'll owe you the balance (implies payment in relatively distant future)"
+      },
+      {
+        "kiksht": "ayamelchagwa",
+        "english": "(now) I'll owe you the balance (implies I'm going to pay you some now and then owe the balance) [PK 7/17/56]"
+      },
+      {
+        "kiksht": "ixélgichakwt",
+        "english": "he owes [GT, MMc 1/12/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Naika yaxka ikíutan nilchakwt.",
+        "english": "I owe him that horse. [Dyk]"
+      },
+      {
+        "kiksht": "Chnelgichakwt idala.",
+        "english": "He owes me money. [GT, MMc 1/12/99]"
+      }
+    ],
+    "notes": [
+      "Generally refers now to mon- etary debt."
+    ],
+    "seeAlso": [
+      "it-qígichak, -CHA-kw, -k- CHA-kw, -x-K'IWA, tł'ap"
     ]
   },
   "-qi-CXA-pa": {
@@ -890,6 +980,157 @@
         "kiksht": "itsk'úlyayuks",
         "english": "coyotes [Dyk]"
       }
+    ]
+  },
+  "-x-CHA": {
+    "root": "-x-CHA",
+    "partOfSpeech": "vb",
+    "definition": "bite",
+    "forms": [
+      {
+        "kiksht": "ixchaix",
+        "english": "bite it[i-]!"
+      },
+      {
+        "kiksht": "achnxchaya",
+        "english": "he will bite me"
+      },
+      {
+        "kiksht": "chaxchát",
+        "english": "he has her bitten"
+      },
+      {
+        "kiksht": "chaxchnił",
+        "english": "he is (in the process of) biting her; he is trying to bite her"
+      },
+      {
+        "kiksht": "chaxchalal",
+        "english": "he is biting her (all over)"
+      },
+      {
+        "kiksht": "gixchalal",
+        "english": "she is biting him"
+      },
+      {
+        "kiksht": "chtxchalal",
+        "english": "he is biting us 2 (you and me) (all over)"
+      },
+      {
+        "kiksht": "chlxchalal",
+        "english": "he is biting us (including you) (all over)"
+      },
+      {
+        "kiksht": "chuxwachalal",
+        "english": "he is biting them (all over)"
+      },
+      {
+        "kiksht": "gixchalal",
+        "english": "she is biting him (all over)"
+      },
+      {
+        "kiksht": "qixchalal",
+        "english": "he is being bitten"
+      },
+      {
+        "kiksht": "nixatchalal",
+        "english": "I was biting him"
+      },
+      {
+        "kiksht": "chixatchalal",
+        "english": "he was biting him"
+      },
+      {
+        "kiksht": "gixatchalal",
+        "english": "she was biting him"
+      },
+      {
+        "kiksht": "ínixcha",
+        "english": "I bit him"
+      },
+      {
+        "kiksht": "ichaxcha",
+        "english": "he bit her"
+      },
+      {
+        "kiksht": "ichixcha",
+        "english": "he bit him"
+      },
+      {
+        "kiksht": "igixcha",
+        "english": "she bit him"
+      },
+      {
+        "kiksht": "igixchalalamchk",
+        "english": "she bit him (all over/several times)"
+      },
+      {
+        "kiksht": "ichixchálalamchk",
+        "english": "he bit him (all over/several times)"
+      },
+      {
+        "kiksht": "nichaxchá",
+        "english": "he bit her (once, last season)"
+      },
+      {
+        "kiksht": "nichaxchalal",
+        "english": "he was biting her (last season)"
+      },
+      {
+        "kiksht": "nichaxchalalamchk",
+        "english": "he bit her (repeatedly, last season)"
+      },
+      {
+        "kiksht": "nichaxchnił",
+        "english": "he was biting her (con- tinually, last season)"
+      },
+      {
+        "kiksht": "nichaxatchá",
+        "english": "he bit her (once, last week)"
+      },
+      {
+        "kiksht": "nichaxatchalal",
+        "english": "he was biting her (last week)"
+      },
+      {
+        "kiksht": "nichaxatchalalamchk",
+        "english": "he bit her (repeatedly, last week)"
+      },
+      {
+        "kiksht": "nichaxatchnił",
+        "english": "he was biting her (continually, last week)"
+      },
+      {
+        "kiksht": "ichiakxacha",
+        "english": "he bit him on it[a-]"
+      },
+      {
+        "kiksht": "ichaialxacha",
+        "english": "he bit him in/on/inside it[a-]"
+      },
+      {
+        "kiksht": "igixxatcha",
+        "english": "he bit himself"
+      },
+      {
+        "kiksht": "ixchat",
+        "english": "he is bitten [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ichaxch(a) itchaqwitba.",
+        "english": "He bit her on her leg."
+      },
+      {
+        "kiksht": "Q'ashq'ash ichixchalálamchk.",
+        "english": "He bit him several times. [Dyk]"
+      }
+    ],
+    "notes": [
+      "PK says that this word refers particularly to the biting of dogs; but this does not appear to be borne out by the first and second person forms given. PK also says that -qwsha (also translated \"bite\") can mean simply \"hold in teeth,\" while -xcha implies biting and causing pain or injury."
+    ],
+    "seeAlso": [
+      "i-k'ixacha, i-k'ixachalal"
     ]
   },
   "-x-CKWT": {
@@ -10341,6 +10582,20 @@
     ],
     "notes": [
       "Borrowed to or from Sahaptin c'xwilí."
+    ]
+  },
+  "it-cha'cha'(max)": {
+    "root": "it-cha'cha'(max)",
+    "partOfSpeech": "n",
+    "definition": "buckskin pants",
+    "forms": [
+      {
+        "kiksht": "itcha'cha'max",
+        "english": "buckskin pants [GT, MMc 6/5/98 prefer this to the form itcha'cha' given by HS.]"
+      }
+    ],
+    "seeAlso": [
+      "a-qwátauwias"
     ]
   },
   "ił-alakásgwilit": {

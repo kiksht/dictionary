@@ -3253,3 +3253,39 @@ Notes: The precise force of this inter- jection is difficult to determine from t
 
 -k-CHA [vb] carry
 Forms: gashgukchanmx “they 2 car- ried it[a-] about with them” [WTI.2.25]
+
+
+
+
+
+-x-CHA [vb] bite
+Forms: ixchaix “bite it[i-]!” achnxchaya “he will bite me” chaxchÅt “he has her bitten” chaxchni¬ “he is (in the process of) biting her; he is trying to bite her” chaxchalal “he is biting her (all over)” gixchalal “she is biting him” chtxchalal “he is biting us 2 (you and me) (all over)” chlxchalal “he is biting us (including you) (all over)” chuxwachalal “he is biting them (all over)” gixchalal “she is biting him (all over)” qixchalal “he is being bitten” nixatchalal “I was biting him” chixatchalal “he was biting him” gixatchalal “she was biting him” ˆnixcha “I bit him” ichaxcha “he bit her” ichixcha “he bit him” igixcha “she bit him” igixchalalamchk “she bit him (all over/several times)” ichixchÅlalamchk “he bit him (all over/several times)” nichaxchÅ “he bit her (once, last season)” nichaxchalal “he was biting her (last season)” nichaxchalalamchk “he bit her (repeatedly, last season)” nichaxchni¬ “he was biting her (con- tinually, last season)” nichaxatchÅ “he bit her (once, last week)” nichaxatchalal “he was biting her (last week)” nichaxatchalalamchk “he bit her (repeatedly, last week)” nichaxatchni¬ “he was biting her (continually, last week)” ichiakxacha “he bit him on it[a-]” ichaialxacha “he bit him in/on/inside it[a-]” igixxatcha “he bit himself” ixchat “he is bitten” [Dyk]
+Examples: Ichaxch(a) itchaqwitba. “He bit her on her leg.” Q’ashq’ash ichixchalÅlamchk. “He bit him several times.” [Dyk]
+Notes: PK says that this word refers particularly to the biting of dogs; but this does not appear to be borne out by the first and second person forms given. PK also says that -qwsha (also translated “bite”) can mean simply “hold in teeth,” while -xcha implies biting and causing pain or injury.
+See also: i-k’ixacha, i-k’ixachalal
+
+-CHA-kw [vb] size, show size by a sign
+Forms: chiuchakwt “he is sizing him (lifting his hand to show how tall he is)” [Dyk]
+
+-CHA-kw [vb] leave unfinished
+Forms: chiuchakwt “he is leaving it[i- ] unfinished” [PK 7/19/56]
+Notes: Implies that something will be left unfinished permanently; not used if there will be continuing work on the object or project referred to.
+See also: -k-CHA-kw, -l-CHA-kw
+
+-k-CHA-kw [vb] leave unfinished
+Forms: achigachagwa “he will leave it[i-] unfinished” ixchakwt “it[i-] is unfinished” [PK 7/19/56]
+See also: -CHA-kw, -l-CHA-kw
+
+-l-CHA-kw [vb] owe
+Forms: nilgichakwt “I owe him” nalgichakwt “I owe her” nilgichÅlkw¬ “I am trying to owe him, trying to buy from him on credit” ichialchagwa “he owed it[i-] to her” [Dyk] ilgichagwa! “owe him (the rest)!” ayamichagwa “I’ll owe you the balance (implies payment in relatively distant future)” ayamelchagwa “(now) I’ll owe you the balance (implies I’m going to pay you some now and then owe the balance)” [PK 7/17/56] ixélgichakwt “he owes” [GT, MMc 1/12/99]
+Examples: Naika yaxka ikˆutan nilchakwt. “I owe him that horse.” [Dyk] Chnelgichakwt idala. “He owes me money.” [GT, MMc 1/12/99]
+Notes: Generally refers now to mon- etary debt.
+See also: it-qˆgichak, -CHA-kw, -k- CHA-kw, -x-K’IWA, t¬’ap
+
+it-cha’cha’(max) [n] buckskin pants
+Forms: itcha’cha’max “buckskin pants” [GT, MMc 6/5/98 prefer this to the form itcha’cha’ given by HS.]
+See also: a-qwÅtauwias
+
+a-chabnit [n] spear head, spear point
+Forms: ishchabnit “2 spear heads” itchabnit “spear heads”
+Notes: Refers to the bone head or point of the spear used for salmon, of which 2 were used on each spear. [Dyk, HS 7/21/56]
