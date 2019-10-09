@@ -539,6 +539,17 @@
     "partOfSpeech": "vb",
     "definition": "move down, go down, come down, drop, fall, sink"
   },
+  "-CHXA": {
+    "root": "-CHXA",
+    "partOfSpeech": "vb",
+    "definition": "defecate",
+    "examples": [
+      {
+        "kiksht": "anxk'íchxaya",
+        "english": "I will def- ecate [WTI.9.11]"
+      }
+    ]
+  },
   "-CKW'A-id-ix": {
     "root": "-CKW'A-id-ix",
     "partOfSpeech": "vb",
@@ -793,6 +804,17 @@
     ],
     "seeAlso": [
       "i-k'axam"
+    ]
+  },
+  "-chwax": {
+    "root": "-chwax",
+    "partOfSpeech": "n",
+    "definition": "flower",
+    "notes": [
+      "Refers to something larger than -cwax."
+    ],
+    "seeAlso": [
+      "-cwax"
     ]
   },
   "-chálimax": {
@@ -3101,6 +3123,11 @@
     "root": "a-chixchix",
     "partOfSpeech": "n",
     "definition": "elderbush limb"
+  },
+  "a-chuxchux": {
+    "root": "a-chuxchux",
+    "partOfSpeech": "n",
+    "definition": "elderberry"
   },
   "a-ck'entłex": {
     "root": "a-ck'entłex",
@@ -11554,6 +11581,90 @@
       "-TK"
     ]
   },
+  "chuq": {
+    "root": "chuq",
+    "partOfSpeech": "part",
+    "definition": "stink",
+    "notes": [
+      "Note from Alice Florendo [5/ 17/53]: When [a] baby wets pants and it dries there, it smells chuq.\""
+    ]
+  },
+  "chushdix": {
+    "root": "chushdix",
+    "partOfSpeech": "adv",
+    "definition": "evening",
+    "examples": [
+      {
+        "kiksht": "it'ukdi chushdix",
+        "english": "good evening [GT, MMc]"
+      }
+    ]
+  },
+  "chushdix itłxlém": {
+    "root": "chushdix itłxlém",
+    "partOfSpeech": "n",
+    "definition": "dinner",
+    "seeAlso": [
+      "kadúx itłxlém, chushdix itłxlém"
+    ]
+  },
+  "chushgamt": {
+    "root": "chushgamt",
+    "partOfSpeech": "vb",
+    "definition": "he is marrying her",
+    "seeAlso": [
+      "-SHKAM"
+    ]
+  },
+  "chuwat": {
+    "root": "chuwat",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] follows it[a-]",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "chuxchúx": {
+    "root": "chuxchúx",
+    "partOfSpeech": "part",
+    "definition": "cut",
+    "examples": [
+      {
+        "kiksht": "Chuxchúx amduxa itk'amunak awatúłbama.",
+        "english": "You will cut the wood for the fire. [Spilyay/ Huckleberry 2]"
+      }
+    ]
+  },
+  "chuxt": {
+    "root": "chuxt",
+    "partOfSpeech": "vb",
+    "definition": "he is doing her",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "chuxwánika": {
+    "root": "chuxwánika",
+    "partOfSpeech": "part",
+    "definition": "with great care, with precaution, be very careful",
+    "examples": [
+      {
+        "kiksht": "Chuxwánika emshxatx.",
+        "english": "You folks be very careful. [Dyk]"
+      }
+    ]
+  },
+  "chuxwáqwt": {
+    "root": "chuxwáqwt",
+    "partOfSpeech": "vb",
+    "definition": "they are ready to dig",
+    "notes": [
+      "Refers to roots ready to be dug."
+    ],
+    "seeAlso": [
+      "-ch-x-WA-qw"
+    ]
+  },
   "chuáxchuax": {
     "root": "chuáxchuax",
     "partOfSpeech": "part",
@@ -11563,6 +11674,112 @@
     ],
     "seeAlso": [
       "dachwax"
+    ]
+  },
+  "chxa": {
+    "root": "chxa",
+    "partOfSpeech": "part",
+    "definition": "drown",
+    "examples": [
+      {
+        "kiksht": "Chxa nuit.",
+        "english": "I am drown- ing."
+      },
+      {
+        "kiksht": "Chx(a) ínuya.",
+        "english": "I drowned."
+      },
+      {
+        "kiksht": "Chx(a) iguya.",
+        "english": "She drowned."
+      },
+      {
+        "kiksht": "Chx(a) aluya.",
+        "english": "She will drown."
+      },
+      {
+        "kiksht": "Chx(a) íchiukwł.",
+        "english": "He carried him to drown, he drowned him. [Dyk]"
+      },
+      {
+        "kiksht": "Chxa atxuya.",
+        "english": "We will go get drowned. [WTI.9.4]"
+      },
+      {
+        "kiksht": "Chxa ayuya.",
+        "english": "He will drown, he will go to drown."
+      },
+      {
+        "kiksht": "bama naqi chxa g̲nuyim",
+        "english": "for my not drowning"
+      },
+      {
+        "kiksht": "bama naqi chxa g̲muyim",
+        "english": "for your not drowning"
+      },
+      {
+        "kiksht": "bama naqi chxa g̲iuyim",
+        "english": "for his not drowning"
+      },
+      {
+        "kiksht": "bama naqi chxa g̲uyim",
+        "english": "for her not drowning"
+      },
+      {
+        "kiksht": "bama naqi chxa qłuyim",
+        "english": "for its not drowning"
+      },
+      {
+        "kiksht": "bama naqi chxa qshuyim",
+        "english": "for their (2) not drowning"
+      },
+      {
+        "kiksht": "bama naqi chxa qduyim/ tgiim",
+        "english": "for their not drowning [Dyk]"
+      }
+    ],
+    "notes": [
+      "Regularly used with the verb - I/-YA \"go.\""
+    ],
+    "seeAlso": [
+      "i-k'ichxa"
+    ]
+  },
+  "chxap": {
+    "root": "chxap",
+    "partOfSpeech": "part",
+    "definition": "at darkness, at night",
+    "examples": [
+      {
+        "kiksht": "Gayuyáaa chxab gayuqui.",
+        "english": "He went on and on and at darkness he camped."
+      },
+      {
+        "kiksht": "chxabchxab g̲wånmix",
+        "english": "5 long darknesses/nights [Dyk]"
+      },
+      {
+        "kiksht": "Chxab iug̲uit g̲wnmix.",
+        "english": "He camped overnight five times. [WTI.11.2]"
+      }
+    ],
+    "pronunciation": "The -a- is long.",
+    "seeAlso": [
+      "chxep, chxebaingix"
+    ]
+  },
+  "chxebaingix": {
+    "root": "chxebaingix",
+    "partOfSpeech": "part",
+    "definition": "in darkness, with- out light",
+    "examples": [
+      {
+        "kiksht": "Chxebaingix yuxt.",
+        "english": "He is sitting without light. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "chxep"
     ]
   },
   "cháwigalqwt": {
@@ -11585,6 +11802,17 @@
     ],
     "seeAlso": [
       "chag̲elqłix, chaxelqłix"
+    ]
+  },
+  "chúxnika": {
+    "root": "chúxnika",
+    "partOfSpeech": "part",
+    "definition": "careful",
+    "examples": [
+      {
+        "kiksht": "Chúxnika emshxátx!",
+        "english": "You folks be careful! [WTIV.4.3]"
+      }
     ]
   },
   "chłelbu": {
@@ -12656,6 +12884,17 @@
     "partOfSpeech": "n",
     "definition": "wild celery (that grows in dry places)"
   },
+  "i-chxalaix": {
+    "root": "i-chxalaix",
+    "partOfSpeech": "n",
+    "definition": "my man",
+    "notes": [
+      "Used mostly by women in speaking of a young boy they have taken along. From i-kala \"man,\" with possessive prefix -ch- \"my\" and suffix -ix."
+    ],
+    "seeAlso": [
+      "i-kala"
+    ]
+  },
   "i-chúkdenił": {
     "root": "i-chúkdenił",
     "partOfSpeech": "n",
@@ -13174,6 +13413,11 @@
         "english": "In winter the water of a boat or canoe always freezes. [WTII.10.3]"
       }
     ]
+  },
+  "ił-chwaqshu": {
+    "root": "ił-chwaqshu",
+    "partOfSpeech": "n",
+    "definition": "mountain-sheep blanket"
   },
   "ił-clutkix": {
     "root": "ił-clutkix",
