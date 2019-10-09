@@ -372,6 +372,23 @@
       "-xl-CGI"
     ]
   },
+  "-qi-CXA-pa": {
+    "root": "-qi-CXA-pa",
+    "partOfSpeech": "vb",
+    "definition": "defecate",
+    "examples": [
+      {
+        "kiksht": "Gacsug̲icxaba isig̲ikwlan.",
+        "english": "He defecated his twin feces. [WTI.3.10]"
+      }
+    ],
+    "notes": [
+      "This is a \"talking small\" form; compare -chxa, -qichxa."
+    ],
+    "seeAlso": [
+      "-CHXA, -qi-CHXA"
+    ]
+  },
   "-s-BNA": {
     "root": "-s-BNA",
     "partOfSpeech": "vb",
@@ -1203,6 +1220,56 @@
     ],
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "a-c'ayiq": {
+    "root": "a-c'ayiq",
+    "partOfSpeech": "n",
+    "definition": "spirit power that kills, causing blood to stream from the mouth of the victim [Dyk], stroke [HS]",
+    "forms": [],
+    "notes": [
+      "There is apparent disagree- ment between Dyk and Hiram Smith as to the meaning of this word; but Hiram's translation may simply be a \"modernized\" interpretation of the meaning assigned by Dyk (presum- ably from Phillip Kahclamat)."
+    ]
+  },
+  "a-c'elkc'elk": {
+    "root": "a-c'elkc'elk",
+    "partOfSpeech": "n",
+    "definition": "cricket",
+    "forms": [
+      {
+        "kiksht": "itc'elkc'elk",
+        "english": "crickets [GT, MMc 12/30/97]"
+      }
+    ]
+  },
+  "a-c'áiumat": {
+    "root": "a-c'áiumat",
+    "partOfSpeech": "n",
+    "definition": "chamber pot",
+    "forms": [
+      {
+        "kiksht": "ishc'áiumat",
+        "english": "2 chamber pots"
+      },
+      {
+        "kiksht": "iłc'áiumat",
+        "english": "chamber pots [Dyk]"
+      }
+    ]
+  },
+  "a-c'áxilaya": {
+    "root": "a-c'áxilaya",
+    "partOfSpeech": "n",
+    "definition": "basket hat",
+    "forms": [
+      {
+        "kiksht": "isc'áxilaya",
+        "english": "2 basket hats"
+      },
+      {
+        "kiksht": "itc'áxilaya",
+        "english": "basket hats [HS 7/21/ 56]"
+      }
     ]
   },
   "a-cala": {
@@ -8672,6 +8739,38 @@
       "básayuks"
     ]
   },
+  "c'a'": {
+    "root": "c'a'",
+    "partOfSpeech": "part",
+    "definition": "mend, patch",
+    "examples": [
+      {
+        "kiksht": "C'a' igiux.",
+        "english": "She mended it[i-]."
+      },
+      {
+        "kiksht": "C'a'c'a' igiux.",
+        "english": "She mended it[i-] (all over/at different places) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "c'ac'a"
+    ]
+  },
+  "c'a'c'a'": {
+    "root": "c'a'c'a'",
+    "partOfSpeech": "part",
+    "definition": "repair",
+    "examples": [
+      {
+        "kiksht": "C'a'c'a' chi namduxa idmigiłba?",
+        "english": "Did you repair your moc- casins? [GT, MMc]"
+      }
+    ],
+    "seeAlso": [
+      "c'a"
+    ]
+  },
   "calxukdit": {
     "root": "calxukdit",
     "partOfSpeech": "vb",
@@ -8778,6 +8877,68 @@
       {
         "kiksht": "Cmaníx ikiax.",
         "english": "It[i-] is showing. [GT, MMc 1/14/99]"
+      }
+    ]
+  },
+  "cwax": {
+    "root": "cwax",
+    "partOfSpeech": "part",
+    "definition": "bloom",
+    "examples": [
+      {
+        "kiksht": "Cwax ikiax.",
+        "english": "It's bloom- ing."
+      },
+      {
+        "kiksht": "Cwax ukakiax.",
+        "english": "They're bloom- ing. [GT, MMc 1/13/99]"
+      },
+      {
+        "kiksht": "Cwax ugwakixax itk'iwax.",
+        "english": "The flowers are blooming. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-cwax"
+    ]
+  },
+  "cxap": {
+    "root": "cxap",
+    "partOfSpeech": "adv",
+    "definition": "overnight",
+    "examples": [
+      {
+        "kiksht": "Cxap gayuya.",
+        "english": "He went overnight. [WTI.3.12]"
+      }
+    ]
+  },
+  "cxep": {
+    "root": "cxep",
+    "partOfSpeech": "part",
+    "definition": "lack, be short of",
+    "examples": [
+      {
+        "kiksht": "Cxep nkiax.",
+        "english": "I am short of (money or something else)."
+      },
+      {
+        "kiksht": "Aicxep icsúbna.",
+        "english": "He jumped too short, not far enough. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "aicxep"
+    ]
+  },
+  "cyex": {
+    "root": "cyex",
+    "partOfSpeech": "part",
+    "definition": "hear faintly at distance, see faintly at a distance",
+    "examples": [
+      {
+        "kiksht": "Cyex nixchemlit.",
+        "english": "I am hearing him faintly. [Dyk]"
       }
     ]
   },
@@ -9279,6 +9440,23 @@
       }
     ]
   },
+  "i-c'aimc'aim": {
+    "root": "i-c'aimc'aim",
+    "partOfSpeech": "n",
+    "definition": "root",
+    "examples": [
+      {
+        "kiksht": "Gaqiułatáulx ishkán iłk'alamat łinqw'íyayut iyac'áimc'aimba.",
+        "english": "One slung the cedar up into the air with pebbles clinging to its roots. [WTI.4.14]"
+      }
+    ],
+    "notes": [
+      "Does not refer to edible roots. Refers to smaller roots, in contrast to it-kshíw."
+    ],
+    "seeAlso": [
+      "it-kshíw, i-jaimjaim"
+    ]
+  },
   "i-caqws": {
     "root": "i-caqws",
     "partOfSpeech": "n",
@@ -9356,6 +9534,20 @@
       }
     ]
   },
+  "i-cwáx": {
+    "root": "i-cwáx",
+    "partOfSpeech": "n",
+    "definition": "flower",
+    "forms": [
+      {
+        "kiksht": "icwaxmax",
+        "english": "flowers [GT, MMc 6/5/98]"
+      }
+    ],
+    "seeAlso": [
+      "cwax"
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -9429,6 +9621,20 @@
     ],
     "seeAlso": [
       "-s-BNA"
+    ]
+  },
+  "is-c'anaxus": {
+    "root": "is-c'anaxus",
+    "partOfSpeech": "n",
+    "definition": "having slanted eyes, being an Asian",
+    "forms": [
+      {
+        "kiksht": "isic'ánaxus",
+        "english": "he has slanted eyes, he is Asian [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "is-qus"
     ]
   },
   "is-cikcik": {
@@ -9586,6 +9792,14 @@
     "definition": "salt",
     "notes": [
       "Borrowed from a European language, most likely English, per- haps via Chinook Jargon."
+    ]
+  },
+  "ił-cxíluqmit": {
+    "root": "ił-cxíluqmit",
+    "partOfSpeech": "n",
+    "definition": "mirror",
+    "seeAlso": [
+      "i-sxíluqmit"
     ]
   },
   "ił-cáqabuix": {
@@ -9784,6 +9998,11 @@
         "english": "one piece of hail, one hailstone [HS 7/21/56]"
       }
     ]
+  },
+  "wa-cxwán": {
+    "root": "wa-cxwán",
+    "partOfSpeech": "n",
+    "definition": "xaush"
   },
   "wa-cáqws": {
     "root": "wa-cáqws",
