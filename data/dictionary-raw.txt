@@ -3499,3 +3499,59 @@ See also: cheqcheq
 chesh [adv] cold
 Examples: Chesh enkiax. “I am cold.” Chåshchesh enx¬xelmax. “I am eating cold (unheated) food.” [Dyk]
 See also: ces, dachésh, chashchesh
+
+
+
+
+
+chex [part] warm
+Examples: Chex gachd ̈x watu¬ba. “He warmed them over the fire.” [Bear and Crane F]
+See also: dachéx
+
+wa-chgén [n] February [HS 8/23/ 54], January [PK 8/29/55]
+Notes: The difference in translation may be due to the fact that the Wasco month overlapped two Anglo months. PK 7/10/56 explained the name by saying that in this month people got angry at one another (because they had been confined in winter lodges for some time?) and spoke to one another over their shoulders, without turning around. Compare wachk’én “shoulder.”
+See also: wa-chk’én
+
+-CH ̋A [vb] sweat
+
+-CH ̋A-it [vb] sweat
+Forms: yuch©ait “he is sweating” nayuch©aida “he was sweating” ayuch©aida “he will sweat” [GT, MMc 6/4/98] emch©ait! “sweat!” anuch©aida “I will sweat” anch©aida “I will sweat (distant future)” anuch©Ålidma “I’ll sweat (repeat- edly)” nuch©Åit “I am sweating” nuch©alit “I’m sweating (repeatedly)” uch©ait “she is sweating” tkch©ait, duch©ait “they are sweating” tkch©alit “they are sweating (repeat- edly)” [Dyk] ntch©ait “I was sweat- ing” [PK 9/5/55] inuch©ait “I sweat” iguch©Åit “she sweat” [Dyk] nanuch©aida “I sweat” [PK 9/5/55] gayuch©alit “he sweats (regularly)” [Dyk]
+See also: -CH ̋A-mit, i-ch©alit
+
+-CH ̋A-mit [vb] make to sweat, cause to sweat
+Forms: chiuch©amit “he is making him sweat” chuch©amit “he is mak- ing her sweat” chiuch©Åmalit “he is making him sweat (continually)” ichiuch©Åmalitemchk “he made him sweat (repeatedly)” nxch©amit “I am making myself sweat” [Dyk]
+See also: -ch©a-it, i-ch©alit
+
+i-ch©alit [n] sweat, perspiration
+Forms: ichch©alit “my sweat” ichach©alit “her sweat” iyach©alit “his sweat” [Dyk]
+See also: -CH ̋A-it, -CH ̋A-mit
+
+i- -ch©emem [adj n] sick, sickness, illness
+Forms: ichch©ememax “sicknesses” [One would expect “sicknesses” to be ich©ememax; the form given should mean “I have sicknesses”] ichch©emem “I am sick” iyach©ememaxba “places where he is sick” [Dyk]
+Examples: Iyach©emem ikixax. “He is sick.” Yaxka iyach©emem igixux. “He became sick.” Iknwakshumax chnuxt ichch©emem. “Thunder makes me sick.” [Dyk] Ichch©emem ichwÅn. “I have a stomach ache.” [GT, MMc 5/ 22/96]
+
+chi [part] [indicates yes-or-no ques- tion], or
+Examples: Aichka ch(i) a©a nimugluq¬q? “Did you recognize/ remember them at that time?” [Dyk] ItshÅwashlalamax gachÅwichmaq qawat ¬©a lun chi lakt. “He heard something like three or four Indian songs.” [WTIV.4.1]
+Notes: This word is used after the first word of a sentence to indicate that one is asking a yes-or-no ques- tion. Chi’ (with glottal stop at end) is used the same way.
+
+chi’ [part] [indicates yes-or-no ques- tion]
+Examples: Mait’ax chi’? “You too?” Qidau chi’? “Is that so?” [Dyk]
+Notes: This word is used after the first word of a sentence to indicate that one is asking a yes-or-no ques- tion. Chi (without glottal stop at end) is used the same way.
+See also: chi
+
+chianxÅnawunxt [vb] he is looking up at her
+See also: -i-n-XANA-wunx
+
+i-chibach [n] trout fly
+See also: i-shimash, i-cimac
+
+chigelgat [vb] he is holding it[i-]
+See also: -gl-GA
+
+chilbudix [vb] it’s freezing
+See also: -ch-l-bu
+
+
+
+
+

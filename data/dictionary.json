@@ -212,6 +212,119 @@
     "partOfSpeech": "vb",
     "definition": "lie on one's back"
   },
+  "-CH G̲A": {
+    "root": "-CH G̲A",
+    "partOfSpeech": "vb",
+    "definition": "sweat"
+  },
+  "-CH G̲A-it": {
+    "root": "-CH G̲A-it",
+    "partOfSpeech": "vb",
+    "definition": "sweat",
+    "forms": [
+      {
+        "kiksht": "yuchg̲ait",
+        "english": "he is sweating"
+      },
+      {
+        "kiksht": "nayuchg̲aida",
+        "english": "he was sweating"
+      },
+      {
+        "kiksht": "ayuchg̲aida",
+        "english": "he will sweat [GT, MMc 6/4/98]"
+      },
+      {
+        "kiksht": "emchg̲ait!",
+        "english": "sweat!"
+      },
+      {
+        "kiksht": "anuchg̲aida",
+        "english": "I will sweat"
+      },
+      {
+        "kiksht": "anchg̲aida",
+        "english": "I will sweat (distant future)"
+      },
+      {
+        "kiksht": "anuchg̲álidma",
+        "english": "I'll sweat (repeat- edly)"
+      },
+      {
+        "kiksht": "nuchg̲áit",
+        "english": "I am sweating"
+      },
+      {
+        "kiksht": "nuchg̲alit",
+        "english": "I'm sweating (repeatedly)"
+      },
+      {
+        "kiksht": "uchg̲ait",
+        "english": "she is sweating"
+      },
+      {
+        "kiksht": "tkchg̲ait, duchg̲ait",
+        "english": "they are sweating"
+      },
+      {
+        "kiksht": "tkchg̲alit",
+        "english": "they are sweating (repeat- edly) [Dyk]"
+      },
+      {
+        "kiksht": "ntchg̲ait",
+        "english": "I was sweat- ing [PK 9/5/55]"
+      },
+      {
+        "kiksht": "inuchg̲ait",
+        "english": "I sweat"
+      },
+      {
+        "kiksht": "iguchg̲áit",
+        "english": "she sweat [Dyk]"
+      },
+      {
+        "kiksht": "nanuchg̲aida",
+        "english": "I sweat [PK 9/5/55]"
+      },
+      {
+        "kiksht": "gayuchg̲alit",
+        "english": "he sweats (regularly) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-CH G̲A-mit, i-chg̲alit"
+    ]
+  },
+  "-CH G̲A-mit": {
+    "root": "-CH G̲A-mit",
+    "partOfSpeech": "vb",
+    "definition": "make to sweat, cause to sweat",
+    "forms": [
+      {
+        "kiksht": "chiuchg̲amit",
+        "english": "he is making him sweat"
+      },
+      {
+        "kiksht": "chuchg̲amit",
+        "english": "he is mak- ing her sweat"
+      },
+      {
+        "kiksht": "chiuchg̲ámalit",
+        "english": "he is making him sweat (continually)"
+      },
+      {
+        "kiksht": "ichiuchg̲ámalitemchk",
+        "english": "he made him sweat (repeatedly)"
+      },
+      {
+        "kiksht": "nxchg̲amit",
+        "english": "I am making myself sweat [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-chg̲a-it, i-chg̲alit"
+    ]
+  },
   "-CHA-kw": {
     "root": "-CHA-kw",
     "partOfSpeech": "vb",
@@ -9977,6 +10090,83 @@
       "ces, dachésh, chashchesh"
     ]
   },
+  "chex": {
+    "root": "chex",
+    "partOfSpeech": "part",
+    "definition": "warm",
+    "examples": [
+      {
+        "kiksht": "Chex gachdúx watułba.",
+        "english": "He warmed them over the fire. [Bear and Crane F]"
+      }
+    ],
+    "seeAlso": [
+      "dachéx"
+    ]
+  },
+  "chi": {
+    "root": "chi",
+    "partOfSpeech": "part",
+    "definition": "[indicates yes-or-no ques- tion], or",
+    "examples": [
+      {
+        "kiksht": "Aichka ch(i) ag̲a nimugluqłq?",
+        "english": "Did you recognize/ remember them at that time? [Dyk]"
+      },
+      {
+        "kiksht": "Itsháwashlalamax gacháwichmaq qawat łg̲a lun chi lakt.",
+        "english": "He heard something like three or four Indian songs. [WTIV.4.1]"
+      }
+    ],
+    "notes": [
+      "This word is used after the first word of a sentence to indicate that one is asking a yes-or-no ques- tion. Chi' (with glottal stop at end) is used the same way."
+    ]
+  },
+  "chi'": {
+    "root": "chi'",
+    "partOfSpeech": "part",
+    "definition": "[indicates yes-or-no ques- tion]",
+    "examples": [
+      {
+        "kiksht": "Mait'ax chi'?",
+        "english": "You too?"
+      },
+      {
+        "kiksht": "Qidau chi'?",
+        "english": "Is that so? [Dyk]"
+      }
+    ],
+    "notes": [
+      "This word is used after the first word of a sentence to indicate that one is asking a yes-or-no ques- tion. Chi (without glottal stop at end) is used the same way."
+    ],
+    "seeAlso": [
+      "chi"
+    ]
+  },
+  "chianxánawunxt": {
+    "root": "chianxánawunxt",
+    "partOfSpeech": "vb",
+    "definition": "he is looking up at her",
+    "seeAlso": [
+      "-i-n-XANA-wunx"
+    ]
+  },
+  "chigelgat": {
+    "root": "chigelgat",
+    "partOfSpeech": "vb",
+    "definition": "he is holding it[i-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "chilbudix": {
+    "root": "chilbudix",
+    "partOfSpeech": "vb",
+    "definition": "it's freezing",
+    "seeAlso": [
+      "-ch-l-bu"
+    ]
+  },
   "cháwigalqwt": {
     "root": "cháwigalqwt",
     "partOfSpeech": "vb",
@@ -10243,6 +10433,51 @@
     ],
     "seeAlso": [
       "ichacháq"
+    ]
+  },
+  "i- -chg̲emem": {
+    "root": "i- -chg̲emem",
+    "partOfSpeech": "adj n",
+    "definition": "sick, sickness, illness",
+    "forms": [
+      {
+        "kiksht": "ichchg̲ememax",
+        "english": "sicknesses"
+      },
+      {
+        "kiksht": "[One would expect",
+        "english": "sicknesses"
+      },
+      {
+        "kiksht": "to be ichg̲ememax; the form given should mean",
+        "english": "I have sicknesses]"
+      },
+      {
+        "kiksht": "ichchg̲emem",
+        "english": "I am sick"
+      },
+      {
+        "kiksht": "iyachg̲ememaxba",
+        "english": "places where he is sick [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Iyachg̲emem ikixax.",
+        "english": "He is sick."
+      },
+      {
+        "kiksht": "Yaxka iyachg̲emem igixux.",
+        "english": "He became sick."
+      },
+      {
+        "kiksht": "Iknwakshumax chnuxt ichchg̲emem.",
+        "english": "Thunder makes me sick. [Dyk]"
+      },
+      {
+        "kiksht": "Ichchg̲emem ichwán.",
+        "english": "I have a stomach ache. [GT, MMc 5/ 22/96]"
+      }
     ]
   },
   "i- -ck'ecx": {
@@ -10875,6 +11110,36 @@
     "root": "i-chentqa",
     "partOfSpeech": "n",
     "definition": "scar"
+  },
+  "i-chg̲alit": {
+    "root": "i-chg̲alit",
+    "partOfSpeech": "n",
+    "definition": "sweat, perspiration",
+    "forms": [
+      {
+        "kiksht": "ichchg̲alit",
+        "english": "my sweat"
+      },
+      {
+        "kiksht": "ichachg̲alit",
+        "english": "her sweat"
+      },
+      {
+        "kiksht": "iyachg̲alit",
+        "english": "his sweat [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-CH G̲A-it, -CH G̲A-mit"
+    ]
+  },
+  "i-chibach": {
+    "root": "i-chibach",
+    "partOfSpeech": "n",
+    "definition": "trout fly",
+    "seeAlso": [
+      "i-shimash, i-cimac"
+    ]
   },
   "i-cimac": {
     "root": "i-cimac",
@@ -11536,6 +11801,17 @@
     ],
     "notes": [
       "Originally referred to under- ground lodge, a winter dwelling dug partway into the ground. Now refers to a cellar. [Dyk] What is undoubt- edly the same word is spelled wachélx in Wishram Texts and so pronounced by Gladys Thompson and Madeline McInturff."
+    ]
+  },
+  "wa-chgén": {
+    "root": "wa-chgén",
+    "partOfSpeech": "n",
+    "definition": "February [HS 8/23/ 54], January [PK 8/29/55]",
+    "notes": [
+      "The difference in translation may be due to the fact that the Wasco month overlapped two Anglo months. PK 7/10/56 explained the name by saying that in this month people got angry at one another (because they had been confined in winter lodges for some time?) and spoke to one another over their shoulders, without turning around. Compare wachk'én \"shoulder.\""
+    ],
+    "seeAlso": [
+      "wa-chk'én"
     ]
   },
   "wa-ck'ún": {
