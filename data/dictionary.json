@@ -2622,6 +2622,20 @@
       "-s-l-CGI, -s-l-CGI-ma, -s-l- CGI-mit"
     ]
   },
+  "-sh-DITŁ'I": {
+    "root": "-sh-DITŁ'I",
+    "partOfSpeech": "vb",
+    "definition": "lie, tell falsehood",
+    "forms": [
+      {
+        "kiksht": "chshuditł'i",
+        "english": "he is lying [WTI.5.2]"
+      }
+    ],
+    "seeAlso": [
+      "ish- -ditł'i"
+    ]
+  },
   "-sh-k'-CHXI-qw": {
     "root": "-sh-k'-CHXI-qw",
     "partOfSpeech": "vb",
@@ -3663,6 +3677,28 @@
     ],
     "notes": [
       "Apparently means literally something like \"[his/her blood] fell out;\" compare -a-k-xa-DEM-kw."
+    ]
+  },
+  "-ł-q'l-DIWA": {
+    "root": "-ł-q'l-DIWA",
+    "partOfSpeech": "vb",
+    "definition": "bail out",
+    "forms": [
+      {
+        "kiksht": "łaq'eldiwa!",
+        "english": "bail it[a-] out!"
+      },
+      {
+        "kiksht": "chłaq'eldiwat",
+        "english": "he has it[a-] bailed out; he has it bailed out of it[a-]"
+      },
+      {
+        "kiksht": "łaq'eldiwat",
+        "english": "it[a-] is bailed out [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-q'adíwamat"
     ]
   },
   "-ł-xl-CHKCH-kw": {
@@ -16153,6 +16189,155 @@
       "From English \"ding-ding,\" representing sound of clock striking."
     ]
   },
+  "diwi": {
+    "root": "diwi",
+    "partOfSpeech": "conj",
+    "definition": "like, as",
+    "seeAlso": [
+      "dåwi"
+    ]
+  },
+  "dixilax": {
+    "root": "dixilax",
+    "partOfSpeech": "vb",
+    "definition": "he is eating them",
+    "seeAlso": [
+      "-xi-LAX̲"
+    ]
+  },
+  "dixt": {
+    "root": "dixt",
+    "partOfSpeech": "num",
+    "definition": "one",
+    "examples": [],
+    "seeAlso": [
+      "ixt, łixt, aixt"
+    ]
+  },
+  "dmelmuit": {
+    "root": "dmelmuit",
+    "partOfSpeech": "vb",
+    "definition": "you are tired",
+    "seeAlso": [
+      "-d-l-MUI"
+    ]
+  },
+  "dnelmuit": {
+    "root": "dnelmuit",
+    "partOfSpeech": "vb",
+    "definition": "I am tired",
+    "seeAlso": [
+      "-d-l-MUI"
+    ]
+  },
+  "dnelxámuichkwax": {
+    "root": "dnelxámuichkwax",
+    "partOfSpeech": "vb",
+    "definition": "I am lonely",
+    "seeAlso": [
+      "-d-l-xa-MUI-chkw"
+    ]
+  },
+  "dnit": {
+    "root": "dnit",
+    "partOfSpeech": "vb",
+    "definition": "give them to me!",
+    "examples": [
+      {
+        "kiksht": "Dnit itq'ikwal.",
+        "english": "Give me beads! [Spilyay/Dialog]"
+      }
+    ],
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "dnu": {
+    "root": "dnu",
+    "partOfSpeech": "adv",
+    "definition": "but, however, nonetheless, on the contrary, instead, then",
+    "examples": [
+      {
+        "kiksht": "Dauya ikala idialálamax k'ma dnux ixat ikala idiat'ulalamax.",
+        "english": "This man is a singer, but yet the other man is a better singer."
+      },
+      {
+        "kiksht": "Qushdiaxa dnux ikw'akwamax gałgig̲elkel.",
+        "english": "And in fact they saw grizzly bears instead (of something else they had expected to see)."
+      },
+      {
+        "kiksht": "K'aya, maika dnu.",
+        "english": "No, you should be/are the one."
+      },
+      {
+        "kiksht": "Qama dnu?",
+        "english": "Where should it go then?"
+      },
+      {
+        "kiksht": "qidau dnu",
+        "english": "the way it should be"
+      },
+      {
+        "kiksht": "Qatgi dn(u) igikim.",
+        "english": "He said something, but I didn't quite catch it."
+      },
+      {
+        "kiksht": "Qanchipt dnu?",
+        "english": "How much then? How much do you want then?"
+      },
+      {
+        "kiksht": "Qengi dnu?",
+        "english": "What do you want (to know) for?"
+      },
+      {
+        "kiksht": "Qada dnu.",
+        "english": "For nothing important, for no good reason (in answer to: Qngi dnu?)"
+      },
+      {
+        "kiksht": "qawa dnu",
+        "english": "only a few, just a few [Dyk]"
+      },
+      {
+        "kiksht": "Ag̲a qadag̲a dnu inátkadix dashgúpqt idelxam.",
+        "english": "The people just go right in one way. [WTI.11.2]"
+      },
+      {
+        "kiksht": "[Note by Sapir (WT, p.122):",
+        "english": "Ag̲a qádag̲a dnu is difficult to translate adequately; qádag̲a ('for nothing, of no consequence') here implies the matter-of-courseness, as it were, of the destruction of the people: 'they just go right in, and are destroyed without further ado.']"
+      }
+    ],
+    "notes": [
+      "Apparently means the same as dnux."
+    ],
+    "seeAlso": [
+      "dnux, duxi"
+    ]
+  },
+  "dnux": {
+    "root": "dnux",
+    "partOfSpeech": "adv",
+    "definition": "but, however, nonethe- less, on the contrary, instead",
+    "examples": [
+      {
+        "kiksht": "Dauya ikala idialálamax k'ma dnux ixat ikala idiat'ulalamax.",
+        "english": "This man is a singer, but yet the other man is a better singer."
+      },
+      {
+        "kiksht": "Qushdiaxa dnux ikw'akwamax gałgig̲lkl.",
+        "english": "And in fact they saw griz- zly bears instead (of something else they had expected to see)."
+      },
+      {
+        "kiksht": "Qama dnux?",
+        "english": "Where should it go then? [Dyk] Qengiska! qushtíaxa isc'inun dnux kw'álalak shknuxt. \"What! they are really birds but they are driving me crazy. [WTI.1b2]"
+      }
+    ],
+    "notes": [
+      "Apparently means the same as dnu."
+    ],
+    "seeAlso": [
+      "dnu, duxi"
+    ]
+  },
   "dáminwa": {
     "root": "dáminwa",
     "partOfSpeech": "adv",
@@ -18153,6 +18338,17 @@
     "partOfSpeech": "n",
     "definition": "small sturgeon, baby sturgeon",
     "forms": []
+  },
+  "ił-du": {
+    "root": "ił-du",
+    "partOfSpeech": "n",
+    "definition": "milk (of a woman)",
+    "notes": [
+      "Appears to refer specifically to human milk. Compare ił-dudush, which may refer to any kind of milk."
+    ],
+    "seeAlso": [
+      "ił-dudush"
+    ]
   },
   "kinwa": {
     "root": "kinwa",
