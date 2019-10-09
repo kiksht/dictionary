@@ -342,6 +342,11 @@
       "-k-CHA-kw, -l-CHA-kw"
     ]
   },
+  "-CHIM": {
+    "root": "-CHIM",
+    "partOfSpeech": "vb",
+    "definition": "strike, bump"
+  },
   "-CKW'A-id-ix": {
     "root": "-CKW'A-id-ix",
     "partOfSpeech": "vb",
@@ -550,6 +555,23 @@
       }
     ]
   },
+  "-chilish": {
+    "root": "-chilish",
+    "partOfSpeech": "n",
+    "definition": "cherries",
+    "forms": [
+      {
+        "kiksht": "ichilish [Dyk], achilish [GT, CS, AS 5/12/96]",
+        "english": "cherries"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
+    ],
+    "seeAlso": [
+      "i-k'axam"
+    ]
+  },
   "-chálimax": {
     "root": "-chálimax",
     "partOfSpeech": "n",
@@ -563,6 +585,94 @@
         "kiksht": "",
         "english": "her root- digging holes No singular. Appar- ently either it- or ił- prefixes may be used."
       }
+    ]
+  },
+  "-gl-CHIM": {
+    "root": "-gl-CHIM",
+    "partOfSpeech": "vb",
+    "definition": "throw at, hit by throw- ing, strike by throwing, strike with [Dyk], bewitch with spirit power [PK]",
+    "forms": [
+      {
+        "kiksht": "achiugwichima",
+        "english": "he will strike them with it[i-] [WT 4.8]"
+      },
+      {
+        "kiksht": "amdigelchima",
+        "english": "you will throw them at him"
+      },
+      {
+        "kiksht": "chdigelchił",
+        "english": "he is throwing them at him"
+      },
+      {
+        "kiksht": "gdigelchił",
+        "english": "she is throwing them at him [Spilyay/ KidTalk]"
+      },
+      {
+        "kiksht": "łagelchímchk!",
+        "english": "throw it/ them (for instance, rocks) at her (repeatedly)!"
+      },
+      {
+        "kiksht": "achiagelchima",
+        "english": "he will hit her with it[i-] (continually)"
+      },
+      {
+        "kiksht": "chigelchíł",
+        "english": "he is hitting her with it[i-] (several times, or with several ob- jects)"
+      },
+      {
+        "kiksht": "chdagelchił",
+        "english": "he is throwing them at her"
+      },
+      {
+        "kiksht": "cłak'elcił",
+        "english": "he hit her with it (something small)"
+      },
+      {
+        "kiksht": "qłagelchił",
+        "english": "they are being thrown at her"
+      },
+      {
+        "kiksht": "inigelchím/inigelchemchk",
+        "english": "I hit him with it[i-] (several times, or by sev- eral objects thrown one at a time)"
+      },
+      {
+        "kiksht": "inigelcim",
+        "english": "I hit him with it[i-] ('talk- ing small')"
+      },
+      {
+        "kiksht": "ichłagelchim",
+        "english": "he threw them at her"
+      },
+      {
+        "kiksht": "nichiagichim",
+        "english": "he threw them at her (one at a time); he hit her repeatedly with it in his hand; he hit her several times with several objects joined together"
+      },
+      {
+        "kiksht": "nichiagitchímchk",
+        "english": "he hit her with it[i-] (several times, last week)"
+      },
+      {
+        "kiksht": "łaxelchił",
+        "english": "she is throwing it at her- self; she is hitting herself with them"
+      },
+      {
+        "kiksht": "aigelchimix",
+        "english": "he has been hit with it[a-] [Dyk]"
+      },
+      {
+        "kiksht": "achiagichima",
+        "english": "he will bewitch her (this way) with [illeg- ible] [PK]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gachłgelchim iłk'álamat.",
+        "english": "He struck him[ił-] with stones. [WTI.3.10]"
+      }
+    ],
+    "notes": [
+      "The -m- is omitted before the suffix -ł-."
     ]
   },
   "-i-l-BWA-mit": {
@@ -1489,6 +1599,60 @@
     ],
     "seeAlso": [
       "-NI, -X̲UNI"
+    ]
+  },
+  "-x-gl-CHIM": {
+    "root": "-x-gl-CHIM",
+    "partOfSpeech": "vb",
+    "definition": "bump, bump about, bump against",
+    "forms": [
+      {
+        "kiksht": "ixigelchił",
+        "english": "he is bumping him about"
+      },
+      {
+        "kiksht": "yaxagelchimchk",
+        "english": "he bumped her (several times)"
+      },
+      {
+        "kiksht": "igixigelchimchk",
+        "english": "he bumped him (several times)"
+      },
+      {
+        "kiksht": "igixangelchimchk",
+        "english": "he bumped me (several times)"
+      },
+      {
+        "kiksht": "inxigelchimchk",
+        "english": "I bumped him (several times)"
+      },
+      {
+        "kiksht": "nalixigelchima",
+        "english": "he bumped him about"
+      },
+      {
+        "kiksht": "nigixigelchił",
+        "english": "he was bump- ing him about (last season)"
+      },
+      {
+        "kiksht": "nigixigelchim",
+        "english": "he bumped him about (last season)"
+      },
+      {
+        "kiksht": "nigixigelchimchk\"he bumped him about (last season)\" galixigelchím",
+        "english": ""
+      },
+      {
+        "kiksht": "he bumped him about (last season)\" galixigelchím",
+        "english": ""
+      },
+      {
+        "kiksht": "galixigelchím",
+        "english": "I bumped against him (several times) [Dyk]"
+      }
+    ],
+    "notes": [
+      "Literally means \"throw (- chim) oneself (-x-) at (-gl-).\" The -m- is omitted before the suffix -ł-."
     ]
   },
   "-ániwat": {
@@ -10167,6 +10331,33 @@
       "-ch-l-bu"
     ]
   },
+  "chinaich": {
+    "root": "chinaich",
+    "partOfSpeech": "part",
+    "definition": "bob-tail (of a dog), flirtatious",
+    "notes": [
+      "May refer, literally, to dog with a bob-tail, or, figuratively and jokingly, to a man who makes a hbit of flirting with women."
+    ]
+  },
+  "chinchiniwit": {
+    "root": "chinchiniwit",
+    "partOfSpeech": "part",
+    "definition": "get snowblind, be blinded by glare of snow",
+    "examples": [
+      {
+        "kiksht": "Chinchíniwit amxuxa.",
+        "english": "You will be blinded by the glare of the snow, you will get snowblind. [Dyk]"
+      }
+    ]
+  },
+  "chiłlut": {
+    "root": "chiłlut",
+    "partOfSpeech": "vb",
+    "definition": "he gives it[i-] to him[ił-]",
+    "seeAlso": [
+      "-T"
+    ]
+  },
   "cháwigalqwt": {
     "root": "cháwigalqwt",
     "partOfSpeech": "vb",
@@ -11141,6 +11332,22 @@
       "i-shimash, i-cimac"
     ]
   },
+  "i-chin": {
+    "root": "i-chin",
+    "partOfSpeech": "n",
+    "definition": "butt, butt end, rear end",
+    "examples": [
+      {
+        "kiksht": "Gaqiglga ishkán namn iłk'álamat łinqw'iyayut iyachinba.",
+        "english": "The cedar was taken with pebbles all clinging to it at its butt end. [WTI.4.14]"
+      }
+    ]
+  },
+  "i-chinqwix": {
+    "root": "i-chinqwix",
+    "partOfSpeech": "n",
+    "definition": "bundle of dried salmon"
+  },
   "i-cimac": {
     "root": "i-cimac",
     "partOfSpeech": "n",
@@ -11812,6 +12019,17 @@
     ],
     "seeAlso": [
       "wa-chk'én"
+    ]
+  },
+  "wa-chin": {
+    "root": "wa-chin",
+    "partOfSpeech": "n",
+    "definition": "stump",
+    "forms": [
+      {
+        "kiksht": "itchinmax",
+        "english": "stumps [DykGr 93]"
+      }
     ]
   },
   "wa-ck'ún": {

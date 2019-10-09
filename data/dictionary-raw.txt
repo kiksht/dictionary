@@ -3554,4 +3554,38 @@ See also: -ch-l-bu
 
 
 
+-chilish [n] cherries
+Forms: ichilish [Dyk], achilish [GT, CS, AS 5/12/96] “cherries”
+Notes: Borrowed from English.
+See also: i-k’axam
 
+chi¬lut [vb] he gives it[i-] to him[i¬-]
+See also: -T
+
+-CHIM [vb] strike, bump
+
+-gl-CHIM [vb] throw at, hit by throw- ing, strike by throwing, strike with [Dyk], bewitch with spirit power [PK]
+Forms: achiugwichima “he will strike them with it[i-]” [WT 4.8] amdigelchima “you will throw them at him” chdigelchi¬ “he is throwing them at him” gdigelchi¬ “she is throwing them at him” [Spilyay/ KidTalk] ¬agelchˆmchk! “throw it/ them (for instance, rocks) at her (repeatedly)!” achiagelchima “he will hit her with it[i-] (continually)” chigelchˆ¬ “he is hitting her with it[i-] (several times, or with several ob- jects)” chdagelchi¬ “he is throwing them at her” c¬ak’elci¬ “he hit her with it (something small)” q¬agelchi¬ “they are being thrown at her” inigelchˆm/inigelchemchk “I hit him with it[i-] (several times, or by sev- eral objects thrown one at a time)” inigelcim “I hit him with it[i-] (‘talk- ing small’)” ich¬agelchim “he threw them at her” nichiagichim “he threw them at her (one at a time); he hit her repeatedly with it in his hand; he hit her several times with several objects joined together” nichiagitchˆmchk “he hit her with it[i-] (several times, last week)” ¬axelchi¬ “she is throwing it at her- self; she is hitting herself with them” aigelchimix “he has been hit with it[a-]” [Dyk] achiagichima “he will bewitch her (this way) with [illeg- ible]” [PK]
+Examples: Gach¬gelchim i¬k’Ålamat. “He struck him[i¬-] with stones.” [WTI.3.10]
+Notes: The -m- is omitted before the suffix -¬-.
+
+-x-gl-CHIM [vb] bump, bump about, bump against
+Forms: ixigelchi¬ “he is bumping him about” yaxagelchimchk “he bumped her (several times)” igixigelchimchk “he bumped him (several times)” igixangelchimchk “he bumped me (several times)” inxigelchimchk “I bumped him (several times)” nalixigelchima “he bumped him about” nigixigelchi¬ “he was bump- ing him about (last season)” nigixigelchim “he bumped him about (last season)” nigixigelchimchk”he bumped him about (last season)” galixigelchˆm “I bumped against him (several times)” [Dyk]
+Notes: Literally means “throw (- chim) oneself (-x-) at (-gl-).” The -m- is omitted before the suffix -¬-.
+
+i-chin [n] butt, butt end, rear end
+Examples: Gaqiglga ishkÅn namn i¬k’Ålamat ¬inqw’iyayut iyachinba. “The cedar was taken with pebbles all clinging to it at its butt end.” [WTI.4.14]
+
+wa-chin [n] dentalium shell
+Forms: itchinmax “dentalium shells” [WTII.2.2, 3.1]
+
+wa-chin [n] stump
+Forms: itchinmax “stumps” [DykGr 93]
+
+chinaich [part] bob-tail (of a dog), flirtatious
+Notes: May refer, literally, to dog with a bob-tail, or, figuratively and jokingly, to a man who makes a hbit of flirting with women.
+
+chinchiniwit [part] get snowblind, be blinded by glare of snow
+Examples: Chinchˆniwit amxuxa. “You will be blinded by the glare of the snow, you will get snowblind.” [Dyk]
+
+i-chinqwix [n] bundle of dried salmon
