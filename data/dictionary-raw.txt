@@ -3748,3 +3748,70 @@ See also: i-qichmlit
 Forms: nalchemlit “I hear her (as from a distance, through something, faintly)” chalchemlit “he is hearing her” chilchemlit “he is hearing him” chawichemlit “he is hearing them” (Note from Dyk: “as the noise they make, as that of an unseen bird.” Note from PK: “as when he is under a waterfall and is hearing through some other medium beside the air, as water, ground, etc.”) qnelchemlit “I am making a hoise” q¬elchemlit “they are making a noise” [Dyk] (These last two could also be trans- lated “someone hears me/them;” but according to Dyk’s note they do not necessarily indicate that the noise has been heard.)
 Examples: A©a idelxam qawichemlit “dulululu.” “Now the people are heard [sounding] ‘dululululu.’” [WTI.1a7]
 Notes: Means hearing a noise, as from a distance, whereas -x-chma-qw and -x-chm-l-it imply hearing distinct sounds or speech and understanding. [Dyk]
+
+
+
+
+
+
+-l-CHMA-qw [vb] hear
+Forms: gaqilchmaq “one heard him” [WTI.10.1] gachÅwichmaq
+Examples: Shpaq gaqilchmaq ayak’Åchachaba. “He made [literally ‘one heard him’] a terrible noise with his rattles.” [WTI.10.1]
+
+-xl-CHMA-qw [vb] hear, make oneself heard, make a sound
+Forms: alixelchma©wa “he will hear” ixitchmÅlq “he was hearing” igixelchmaq “he heard” galixelchmaq “he heard” [Dyk]
+
+chmelxÅdagwa [vb] get better!
+See also: -ch-l-xa-TA-kw
+
+chmuxt [vb] it[i-] does me
+Examples: Dan k’axsh chmuxt? “What do you want?” [CLL3]
+See also: - ̨
+
+chnelgalqt [vb] I am burning
+See also: -ch-l-GAL-qw
+
+chpak [adv] excitedly, strongly
+Examples: Chpag a©a idlxam uxwip’Ålawulal. “The people are now talking excitedly among themselves.” [WTI.9.10]
+
+wa-chpish [n] silverside salmon
+
+i-chqalit [n] being sweaty
+Forms: imichqalit “you’re sweaty” iyachqalit “he is sweaty” [GT, MMc 1/14/99]
+Examples: Anuit xub ichqalit. “Imme- diately steam streamed up.” [WTI.11.12]
+
+i- -chq’ichx [adj n] short and broad
+Forms: imichq’ichx “you are short and broad” [Dyk]
+See also: i- -ck’ecx
+
+i¬-chqwÅ [n] water
+Forms: i¬kéchq “my water” i¬kÅchq “her water” i¬chqwamax “waters” [Dyk] i¬shtÅshq “their water” i¬késhq “my water” [GT 1/14/99] [Note the alternate forms given with possessive prefixes.]
+Examples: i¬chqwÅ i¬Åxaba “ice wa- ter” i¬acumit i¬chqwÅ “cold water” [HS 7/21/56] Ab ̈d Åwachi aknˆm ¬shtÅshq cha©lq¬ix ch¬elbuni¬ dÅminwa. “In winter the water of a boat or canoe always freezes.” [WTII.10.3]
+
+i-chqw’ach [n] wild celery (that grows in dry places)
+
+chshingwiyadix [vb] he is lying down on bent knees
+See also: -sh-i-n-KWIYA-dix
+
+chshudit¬’i [vb] he is lying
+See also: -sh-DITÒ’I
+
+chshwat [vb] he is pursuing them 2
+See also: -WA
+
+chtugwalmamt [vb] he goes to get them
+See also: -GAL
+
+chtuk¬t [vb] he is bringing them
+See also: -KÒ
+
+chtuxulal [vb] he catches them
+Examples: YaxÅ yax ayaxilxu¬x itgunÅt shtuxulal, ishiaxala shtigmuxt. “While he, the dipnet fisherman, caught salmon, his two friends stayed near him.” [WTIV.1.2]
+Notes: Literally “he is doing them.”
+See also: - ̨
+
+-CHWA [vb] move down, go down, come down, drop, fall, sink
+
+-CHU [vb] move down, go down, come down, drop, fall, sink
+Forms: yuchx “he is falling; they (apples, ilibum) are falling (one at a time)” tgechx/duchx “they are fall- ing” yulch¬ “he is falling (continu- ally)” iguchu “she fell” igulch¬chk “she fell (several times)” iyuchu “he fell down; they (apples, ilibum) fell down (from a tree)” with relational prefixe -l- “in”: ya¬lchx “he is sinking in it (water, i¬chqwÅ), sinking out of sight in it” [Dyk]
+Notes: Usually appears as secondary stem (position 9), but may be used as an independent verb root.

@@ -492,6 +492,53 @@
       "i-qachkw'anan"
     ]
   },
+  "-CHU": {
+    "root": "-CHU",
+    "partOfSpeech": "vb",
+    "definition": "move down, go down, come down, drop, fall, sink",
+    "forms": [
+      {
+        "kiksht": "yuchx",
+        "english": "he is falling; they (apples, ilibum) are falling (one at a time)"
+      },
+      {
+        "kiksht": "tgechx/duchx",
+        "english": "they are fall- ing"
+      },
+      {
+        "kiksht": "yulchł",
+        "english": "he is falling (continu- ally)"
+      },
+      {
+        "kiksht": "iguchu",
+        "english": "she fell"
+      },
+      {
+        "kiksht": "igulchłchk",
+        "english": "she fell (several times)"
+      },
+      {
+        "kiksht": "iyuchu",
+        "english": "he fell down; they (apples, ilibum) fell down (from a tree)"
+      },
+      {
+        "kiksht": "with relational prefixe -l-",
+        "english": "in"
+      },
+      {
+        "kiksht": ": yałlchx",
+        "english": "he is sinking in it (water, iłchqwá), sinking out of sight in it [Dyk]"
+      }
+    ],
+    "notes": [
+      "Usually appears as secondary stem (position 9), but may be used as an independent verb root."
+    ]
+  },
+  "-CHWA": {
+    "root": "-CHWA",
+    "partOfSpeech": "vb",
+    "definition": "move down, go down, come down, drop, fall, sink"
+  },
   "-CKW'A-id-ix": {
     "root": "-CKW'A-id-ix",
     "partOfSpeech": "vb",
@@ -1131,6 +1178,23 @@
     ],
     "notes": [
       "Means hearing a noise, as from a distance, whereas -x-chma-qw and -x-chm-l-it imply hearing distinct sounds or speech and understanding. [Dyk]"
+    ]
+  },
+  "-l-CHMA-qw": {
+    "root": "-l-CHMA-qw",
+    "partOfSpeech": "vb",
+    "definition": "hear",
+    "forms": [
+      {
+        "kiksht": "gaqilchmaq",
+        "english": "one heard him [WTI.10.1] gacháwichmaq"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Shpaq gaqilchmaq ayak'áchachaba.",
+        "english": "He made [literally 'one heard him'] a terrible noise with his rattles. [WTI.10.1]"
+      }
     ]
   },
   "-qi-CXA-pa": {
@@ -2248,6 +2312,29 @@
     ],
     "seeAlso": [
       "i-qichmlit"
+    ]
+  },
+  "-xl-CHMA-qw": {
+    "root": "-xl-CHMA-qw",
+    "partOfSpeech": "vb",
+    "definition": "hear, make oneself heard, make a sound",
+    "forms": [
+      {
+        "kiksht": "alixelchmag̲wa",
+        "english": "he will hear"
+      },
+      {
+        "kiksht": "ixitchmálq",
+        "english": "he was hearing"
+      },
+      {
+        "kiksht": "igixelchmaq",
+        "english": "he heard"
+      },
+      {
+        "kiksht": "galixelchmaq",
+        "english": "he heard [Dyk]"
+      }
     ]
   },
   "-ániwat": {
@@ -11159,6 +11246,104 @@
       "shaichkw'aichkw'ai, dachkw'aichkw'ai, -CHKW'A"
     ]
   },
+  "chmelxádagwa": {
+    "root": "chmelxádagwa",
+    "partOfSpeech": "vb",
+    "definition": "get better!",
+    "seeAlso": [
+      "-ch-l-xa-TA-kw"
+    ]
+  },
+  "chmuxt": {
+    "root": "chmuxt",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] does me",
+    "examples": [
+      {
+        "kiksht": "Dan k'axsh chmuxt?",
+        "english": "What do you want? [CLL3]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "chnelgalqt": {
+    "root": "chnelgalqt",
+    "partOfSpeech": "vb",
+    "definition": "I am burning",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "chpak": {
+    "root": "chpak",
+    "partOfSpeech": "adv",
+    "definition": "excitedly, strongly",
+    "examples": [
+      {
+        "kiksht": "Chpag ag̲a idlxam uxwip'álawulal.",
+        "english": "The people are now talking excitedly among themselves. [WTI.9.10]"
+      }
+    ]
+  },
+  "chshingwiyadix": {
+    "root": "chshingwiyadix",
+    "partOfSpeech": "vb",
+    "definition": "he is lying down on bent knees",
+    "seeAlso": [
+      "-sh-i-n-KWIYA-dix"
+    ]
+  },
+  "chshuditł'i": {
+    "root": "chshuditł'i",
+    "partOfSpeech": "vb",
+    "definition": "he is lying",
+    "seeAlso": [
+      "-sh-DITŁ'I"
+    ]
+  },
+  "chshwat": {
+    "root": "chshwat",
+    "partOfSpeech": "vb",
+    "definition": "he is pursuing them 2",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "chtugwalmamt": {
+    "root": "chtugwalmamt",
+    "partOfSpeech": "vb",
+    "definition": "he goes to get them",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "chtukłt": {
+    "root": "chtukłt",
+    "partOfSpeech": "vb",
+    "definition": "he is bringing them",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "chtuxulal": {
+    "root": "chtuxulal",
+    "partOfSpeech": "vb",
+    "definition": "he catches them",
+    "examples": [
+      {
+        "kiksht": "Yaxá yax ayaxilxułx itgunát shtuxulal, ishiaxala shtigmuxt.",
+        "english": "While he, the dipnet fisherman, caught salmon, his two friends stayed near him. [WTIV.1.2]"
+      }
+    ],
+    "notes": [
+      "Literally \"he is doing them.\""
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "cháwigalqwt": {
     "root": "cháwigalqwt",
     "partOfSpeech": "vb",
@@ -11523,6 +11708,20 @@
         "kiksht": "Ichchg̲emem ichwán.",
         "english": "I have a stomach ache. [GT, MMc 5/ 22/96]"
       }
+    ]
+  },
+  "i- -chq'ichx": {
+    "root": "i- -chq'ichx",
+    "partOfSpeech": "adj n",
+    "definition": "short and broad",
+    "forms": [
+      {
+        "kiksht": "imichq'ichx",
+        "english": "you are short and broad [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i- -ck'ecx"
     ]
   },
   "i- -ck'ecx": {
@@ -12210,6 +12409,32 @@
       "Refers specifically to a pole or plank which goes between crossed supports, as on a scaffold."
     ]
   },
+  "i-chqalit": {
+    "root": "i-chqalit",
+    "partOfSpeech": "n",
+    "definition": "being sweaty",
+    "forms": [
+      {
+        "kiksht": "imichqalit",
+        "english": "you're sweaty"
+      },
+      {
+        "kiksht": "iyachqalit",
+        "english": "he is sweaty [GT, MMc 1/14/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Anuit xub ichqalit.",
+        "english": "Imme- diately steam streamed up. [WTI.11.12]"
+      }
+    ]
+  },
+  "i-chqw'ach": {
+    "root": "i-chqw'ach",
+    "partOfSpeech": "n",
+    "definition": "wild celery (that grows in dry places)"
+  },
   "i-cimac": {
     "root": "i-cimac",
     "partOfSpeech": "n",
@@ -12660,6 +12885,47 @@
     "partOfSpeech": "n",
     "definition": "pitch"
   },
+  "ił-chqwá": {
+    "root": "ił-chqwá",
+    "partOfSpeech": "n",
+    "definition": "water",
+    "forms": [
+      {
+        "kiksht": "iłkéchq",
+        "english": "my water"
+      },
+      {
+        "kiksht": "iłkáchq",
+        "english": "her water"
+      },
+      {
+        "kiksht": "iłchqwamax",
+        "english": "waters [Dyk]"
+      },
+      {
+        "kiksht": "iłshtáshq",
+        "english": "their water"
+      },
+      {
+        "kiksht": "iłkéshq",
+        "english": "my water [GT 1/14/99] [Note the alternate forms given with possessive prefixes.]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "iłchqwá iłáxaba",
+        "english": "ice wa- ter"
+      },
+      {
+        "kiksht": "iłacumit iłchqwá",
+        "english": "cold water [HS 7/21/56]"
+      },
+      {
+        "kiksht": "Abúd áwachi akním łshtáshq chag̲lqłix chłelbunił dáminwa.",
+        "english": "In winter the water of a boat or canoe always freezes. [WTII.10.3]"
+      }
+    ]
+  },
   "ił-clutkix": {
     "root": "ił-clutkix",
     "partOfSpeech": "n",
@@ -12943,6 +13209,11 @@
     "seeAlso": [
       "a-shawashchkti"
     ]
+  },
+  "wa-chpish": {
+    "root": "wa-chpish",
+    "partOfSpeech": "n",
+    "definition": "silverside salmon"
   },
   "wa-ck'ún": {
     "root": "wa-ck'ún",
