@@ -4526,6 +4526,17 @@
       "May refer to longhouse sing- ing, or to bells used in Shaker ser- vices."
     ]
   },
+  "a-dwák": {
+    "root": "a-dwák",
+    "partOfSpeech": "n",
+    "definition": "Indian carrot, sawitk",
+    "forms": [
+      {
+        "kiksht": "itdwák",
+        "english": "Indian carrots"
+      }
+    ]
+  },
   "a-dúiha": {
     "root": "a-dúiha",
     "partOfSpeech": "n",
@@ -16532,6 +16543,121 @@
       "-KW'A-it-ix"
     ]
   },
+  "dulápt": {
+    "root": "dulápt",
+    "partOfSpeech": "vb",
+    "definition": "it[it-] it dug out",
+    "examples": [
+      {
+        "kiksht": "dulápt itłxlm",
+        "english": "dug-out food, roots [Museum7]"
+      }
+    ],
+    "seeAlso": [
+      "-LA-pa"
+    ]
+  },
+  "dumt": {
+    "root": "dumt",
+    "partOfSpeech": "vb",
+    "definition": "they grow",
+    "seeAlso": [
+      "-MT"
+    ]
+  },
+  "duwåqi": {
+    "root": "duwåqi",
+    "partOfSpeech": "vb",
+    "definition": "they are raw",
+    "seeAlso": [
+      "-wiqi"
+    ]
+  },
+  "dux": {
+    "root": "dux",
+    "partOfSpeech": "part",
+    "definition": "scare, frighten, excite",
+    "examples": [
+      {
+        "kiksht": "Duxdux chialuxt.",
+        "english": "He is scaring her."
+      },
+      {
+        "kiksht": "Dux ixanluxt.",
+        "english": "I am excited, scared. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "duxdux, i-k'iduxdux"
+    ]
+  },
+  "duxdux": {
+    "root": "duxdux",
+    "partOfSpeech": "part",
+    "definition": "pound (of heart in fear)",
+    "examples": [
+      {
+        "kiksht": "Duxdux ikiax ichg̲wamnił.",
+        "english": "My heart is pounding (implies fear). [GT, MMc 12/30/97]"
+      }
+    ],
+    "seeAlso": [
+      "dux"
+    ]
+  },
+  "duxi": {
+    "root": "duxi",
+    "partOfSpeech": "adv",
+    "definition": "on the contrary, instead",
+    "examples": [
+      {
+        "kiksht": "duxi náikayamt",
+        "english": "me in- stead"
+      },
+      {
+        "kiksht": "Ag̲a duxi naq(i) anuya.",
+        "english": "I have made up my mind not to go, have changed my mind."
+      },
+      {
+        "kiksht": "Dik(a) ag̲a duxi p'al(a) amxuxa.",
+        "english": "Here now you will stop instead (of going on)."
+      },
+      {
+        "kiksht": "Ag̲a duxi naima ansgelgaya isqús.",
+        "english": "On the contrary, I will take 2 eyes to myself; how about this, I'll take 2 eyes to myself."
+      }
+    ],
+    "notes": [
+      "It is not clear whether duxi in this sense is a different word from duxi used in questions."
+    ]
+  },
+  "duxikwłilal": {
+    "root": "duxikwłilal",
+    "partOfSpeech": "vb",
+    "definition": "they are saying [WTI.1i.3], they are gossiping, tellling stories [GT, MMc 6/3/98]",
+    "seeAlso": [
+      "-KWŁI"
+    ]
+  },
+  "duxnípck": {
+    "root": "duxnípck",
+    "partOfSpeech": "n",
+    "definition": "early whites in Wasco country",
+    "notes": [
+      "Literally means \"they come up out of the water.\""
+    ],
+    "seeAlso": [
+      "gíalagwa, básayuks, -XNI"
+    ]
+  },
+  "dułanan": {
+    "root": "dułanan",
+    "partOfSpeech": "vb",
+    "definition": "it[it-] smells",
+    "seeAlso": [
+      "-ŁA"
+    ]
+  },
   "dáminwa": {
     "root": "dáminwa",
     "partOfSpeech": "adv",
@@ -16582,6 +16708,29 @@
     "definition": "they are going up- stream",
     "seeAlso": [
       "-i-l-wulx-tix"
+    ]
+  },
+  "dúyaxka": {
+    "root": "dúyaxka",
+    "partOfSpeech": "adv",
+    "definition": "far off, far away",
+    "examples": [
+      {
+        "kiksht": "Dúyaxk(a) inuya.",
+        "english": "I went far off"
+      },
+      {
+        "kiksht": "Dúyaxkaba ninuya.",
+        "english": "I went to a place far off."
+      },
+      {
+        "kiksht": "Dúyaxka (yatłqdix) yuxt.",
+        "english": "He lives a long way off. [Dyk]"
+      },
+      {
+        "kiksht": "Qaxba axdau akakan dúyaxka?",
+        "english": "Where is that mountain in the background? [CLL13]"
+      }
     ]
   },
   "gachawiqłaxit": {
@@ -16828,6 +16977,42 @@
     ],
     "seeAlso": [
       "i- -chq'ichx, i- -cg§cx"
+    ]
+  },
+  "i- -dumt": {
+    "root": "i- -dumt",
+    "partOfSpeech": "adj n",
+    "definition": "tall, height, tallness",
+    "forms": [
+      {
+        "kiksht": "ichdumt",
+        "english": "my tallness; I am tall"
+      },
+      {
+        "kiksht": "imidumt",
+        "english": "your tallness; you are tall"
+      },
+      {
+        "kiksht": "iyadumt",
+        "english": "his tallness; he is tall"
+      },
+      {
+        "kiksht": "ichadumt",
+        "english": "her tallness; she is tall [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Naikabåd iyadúmt.",
+        "english": "He is as tall as I am. [MMc 1/15/99]"
+      },
+      {
+        "kiksht": "Qw'ap naikabåd qw'ap iyadúmt.",
+        "english": "He's almost as tall as I am. [GT 1/ 15/99]"
+      }
+    ],
+    "seeAlso": [
+      "-MT"
     ]
   },
   "i- -ánana": {
@@ -17971,6 +18156,17 @@
       "-duiha, i-g̲itłba"
     ]
   },
+  "i-dzikdzik": {
+    "root": "i-dzikdzik",
+    "partOfSpeech": "n",
+    "definition": "logging truck, large truck",
+    "notes": [
+      "Refers to a truck much larger than i-c'ikc'ik \"wagon.\""
+    ],
+    "seeAlso": [
+      "i-c'ikc'ik"
+    ]
+  },
   "i-dáuapdauap": {
     "root": "i-dáuapdauap",
     "partOfSpeech": "n",
@@ -18132,6 +18328,20 @@
     ],
     "seeAlso": [
       "is-c'ikc'ik"
+    ]
+  },
+  "is-elpqtit": {
+    "root": "is-elpqtit",
+    "partOfSpeech": "n",
+    "definition": "bowstring, pot handle, hat cord that comes under the chin",
+    "forms": [
+      {
+        "kiksht": "idlpqtidmax",
+        "english": "bowstrings [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ish-lepqtit"
     ]
   },
   "ish- -ditł'i": {

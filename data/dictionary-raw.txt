@@ -5262,3 +5262,67 @@ See also: -KST
 
 dukw’aitix [vb] they are left, they are left over
 See also: -KW’A-it-ix
+
+
+
+
+
+
+
+dulÅpt [vb] it[it-] it dug out
+Examples: dulÅpt it¬xlm “dug-out food, roots” [Museum7]
+See also: -LA-pa
+
+du¬anan [vb] it[it-] smells
+See also: -ÒA
+
+dumt [vb] they grow
+See also: -MT
+
+i- -dumt [adj n] tall, height, tallness
+Forms: ichdumt “my tallness; I am tall” imidumt “your tallness; you are tall” iyadumt “his tallness; he is tall” ichadumt “her tallness; she is tall” [Dyk]
+Examples: Naikabåd iyad ̈mt. “He is as tall as I am.” [MMc 1/15/99] Qw’ap naikabåd qw’ap iyad ̈mt. “He’s almost as tall as I am.” [GT 1/ 15/99]
+See also: -MT
+
+duwåqi [vb] they are raw
+See also: -wiqi
+
+dux [part] scare, frighten, excite
+Examples: Duxdux chialuxt. “He is scaring her.” Dux ixanluxt. “I am excited, scared.” [Dyk]
+See also: duxdux, i-k’iduxdux
+
+duxdux [part] pound (of heart in fear)
+Examples: Duxdux ikiax ich©wamni¬. “My heart is pounding (implies fear).” [GT, MMc 12/30/97]
+See also: dux
+
+duxi [interj] well
+Examples: A©a duxi. “Oh well!” [WTI.2.20]
+
+duxnˆpck [n] early whites in Wasco country
+Notes: Literally means “they come up out of the water.”
+See also: gˆalagwa, bÅsayuks, -XNI
+
+duxi [adv] then
+Examples: Qaxwa duxi akshiksh agengenx ̈inma? “Where then is my partner who is supposed to help me?” Shan dux(i) a¬uya? “Who is supposed to go then?” Qadamat duxi? “Which way then?” [Dyk]
+Notes: It is not clear whether duxi in this sense, used in questions, is a different word from duxi in the sense of “on the contrary, instead.”
+
+duxi [adv] on the contrary, instead
+Examples: duxi nÅikayamt “me in- stead” A©a duxi naq(i) anuya. “I have made up my mind not to go, have changed my mind.” Dik(a) a©a duxi p’al(a) amxuxa. “Here now you will stop instead (of going on).” A©a duxi naima ansgelgaya isq ̈s. “On the contrary, I will take 2 eyes to myself; how about this, I’ll take 2 eyes to myself.”
+Notes: It is not clear whether duxi in this sense is a different word from duxi used in questions.
+
+duxikw¬ilal [vb] they are saying [WTI.1i.3], they are gossiping, tellling stories [GT, MMc 6/3/98]
+See also: -KWÒI
+
+d ̈yaxka [adv] far off, far away
+Examples: D ̈yaxk(a) inuya. “I went far off” D ̈yaxkaba ninuya. “I went to a place far off.” D ̈yaxka (yat¬qdix) yuxt. “He lives a long way off.” [Dyk] Qaxba axdau akakan d ̈yaxka? “Where is that mountain in the background?” [CLL13]
+
+a-dwÅk [n] Indian carrot, sawitk
+Forms: itdwÅk “Indian carrots”
+
+i-dzikdzik [n] logging truck, large truck
+Notes: Refers to a truck much larger than i-c’ikc’ik “wagon.”
+See also: i-c’ikc’ik
+
+is-elpqtit [n] bowstring, pot handle, hat cord that comes under the chin
+Forms: idlpqtidmax “bowstrings” [Dyk]
+See also: ish-lepqtit
