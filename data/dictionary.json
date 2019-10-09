@@ -207,6 +207,20 @@
     "partOfSpeech": "vb",
     "definition": "lie on one's back"
   },
+  "-CKW'A-id-ix": {
+    "root": "-CKW'A-id-ix",
+    "partOfSpeech": "vb",
+    "definition": "crouch",
+    "forms": [
+      {
+        "kiksht": "nilckw'aidix",
+        "english": "I am crouching in it[i-] (a place) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "chkw'ai"
+    ]
+  },
   "-bali": {
     "root": "-bali",
     "partOfSpeech": "n",
@@ -588,6 +602,46 @@
       "-s-l-CGI-ma, -s-l-CGI, -s-xl- CGI"
     ]
   },
+  "-s-n-CK'IAX̲TŁ": {
+    "root": "-s-n-CK'IAX̲TŁ",
+    "partOfSpeech": "vb",
+    "definition": "hunt one's head for lice",
+    "forms": [
+      {
+        "kiksht": "ksanck'iaxtł",
+        "english": "she is hunting her head for lice"
+      },
+      {
+        "kiksht": "iksanck'íaxtłchk",
+        "english": "she hunted her head for lice [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "is-qick'iaxtł, wi-ck'ntłx"
+    ]
+  },
+  "-s-n-CQ'IYA-unx": {
+    "root": "-s-n-CQ'IYA-unx",
+    "partOfSpeech": "vb",
+    "definition": "thump by re- leasing finger from thumb",
+    "forms": [
+      {
+        "kiksht": "csancq'íyauninxł",
+        "english": "he is thumping her"
+      },
+      {
+        "kiksht": "ksincq'íyauninxł",
+        "english": "she is thumping him"
+      },
+      {
+        "kiksht": "icsancq'íyaunx",
+        "english": "he thumped her [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "is-qicq'íyauninxł"
+    ]
+  },
   "-s-xl-BNA-nan": {
     "root": "-s-xl-BNA-nan",
     "partOfSpeech": "vb",
@@ -692,6 +746,44 @@
         "kiksht": "itsk'úlyayuks",
         "english": "coyotes [Dyk]"
       }
+    ]
+  },
+  "-x-CKWT": {
+    "root": "-x-CKWT",
+    "partOfSpeech": "vb",
+    "definition": "catch, trap, snare",
+    "forms": [
+      {
+        "kiksht": "alimxackwda",
+        "english": "you will catch him, he will be caught in your trap"
+      },
+      {
+        "kiksht": "alaixuckwda",
+        "english": "he will catch her, she will be caught in his trap"
+      },
+      {
+        "kiksht": "aixúckwt",
+        "english": "he has her caught"
+      },
+      {
+        "kiksht": "chenxúckwt",
+        "english": "he has me caught"
+      },
+      {
+        "kiksht": "nigixuckwt",
+        "english": "he had him caught, he caught him in a trap (last season)"
+      },
+      {
+        "kiksht": "nigixatckwt",
+        "english": "he had him caught, he caught him in a trap (last week)"
+      },
+      {
+        "kiksht": "galixuckwt",
+        "english": "he had him caught, he caught him in a trap [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to catching something intentionally. If a person set a trap to get a particular animal and acciden- tally caught something else, this verb would not be used. [PK]"
     ]
   },
   "-x-NI": {
@@ -1148,6 +1240,20 @@
     ],
     "seeAlso": [
       "wi-ck'entłex"
+    ]
+  },
+  "a-cuitk": {
+    "root": "a-cuitk",
+    "partOfSpeech": "n",
+    "definition": "small small-meshed net",
+    "forms": [
+      {
+        "kiksht": "iłcuitk",
+        "english": "small-meshed nets [Dyk]"
+      }
+    ],
+    "notes": [
+      "Used for catching eels and smelt."
     ]
   },
   "a-cálucalu": {
@@ -8664,6 +8770,25 @@
       "aci, achi"
     ]
   },
+  "cmanix": {
+    "root": "cmanix",
+    "partOfSpeech": "part",
+    "definition": "visible, clearly visible",
+    "examples": [
+      {
+        "kiksht": "Cmaníx ikiax.",
+        "english": "It[i-] is showing. [GT, MMc 1/14/99]"
+      }
+    ]
+  },
+  "cłsk'lutkt": {
+    "root": "cłsk'lutkt",
+    "partOfSpeech": "vb",
+    "definition": "he is looking at it",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -9173,6 +9298,64 @@
       "i-chibach, i-shimash"
     ]
   },
+  "i-cumidix": {
+    "root": "i-cumidix",
+    "partOfSpeech": "n",
+    "definition": "cold place, cold weather",
+    "seeAlso": [
+      "i-cumit"
+    ]
+  },
+  "i-cumit": {
+    "root": "i-cumit",
+    "partOfSpeech": "n",
+    "definition": "cold [Dyk], pneumonia [HS 7/21/56]",
+    "examples": [
+      {
+        "kiksht": "iłacumit ílchqwá",
+        "english": "cold water [Dyk, HS 7/21/56]"
+      },
+      {
+        "kiksht": "Iyacumit wigwa.",
+        "english": "It's a cold day."
+      },
+      {
+        "kiksht": "Icumit tłaxnix.",
+        "english": "It's cold outside [Dyk]"
+      }
+    ],
+    "notes": [
+      "HS apparently asserted that when icumit is used by itself, it refers to an illness, probably pneumonia; it means simply \"cold\" when used to- gether with other words, like an ad- jective."
+    ],
+    "seeAlso": [
+      "i-cumidix"
+    ]
+  },
+  "i-cuxabwalal": {
+    "root": "i-cuxabwalal",
+    "partOfSpeech": "n",
+    "definition": "flying squirrel",
+    "examples": [
+      {
+        "kiksht": "Bup bup bup bup bup aqilchmag̲wa icuxabwalal xábixix.",
+        "english": "One will hear the flying squirrel go 'bup bup bup bup' at night. [HS 7/ 21/56]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'audan"
+    ]
+  },
+  "i-cwa'a": {
+    "root": "i-cwa'a",
+    "partOfSpeech": "n",
+    "definition": "puppy",
+    "forms": [
+      {
+        "kiksht": "icwá'amax",
+        "english": "puppies [Spilyay]"
+      }
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -9389,6 +9572,22 @@
     "partOfSpeech": "n",
     "definition": "Indian tobacco"
   },
+  "ił-clutkix": {
+    "root": "ił-clutkix",
+    "partOfSpeech": "n",
+    "definition": "baby on babyboard",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "ił-cul": {
+    "root": "ił-cul",
+    "partOfSpeech": "n",
+    "definition": "salt",
+    "notes": [
+      "Borrowed from a European language, most likely English, per- haps via Chinook Jargon."
+    ]
+  },
   "ił-cáqabuix": {
     "root": "ił-cáqabuix",
     "partOfSpeech": "n",
@@ -9547,6 +9746,45 @@
     "partOfSpeech": "n",
     "definition": "bee, yellowjacket"
   },
+  "wa-ck'ún": {
+    "root": "wa-ck'ún",
+    "partOfSpeech": "n",
+    "definition": "dipper [Dyk; PK 6/28/ 51; HS 7/21/56], tin cup [HS 7/21/ 56], cup [GT, MMc]",
+    "forms": [
+      {
+        "kiksht": "ishck'ún",
+        "english": "2 dippers [HS 1954]"
+      },
+      {
+        "kiksht": "iłck'únimax",
+        "english": "dippers [HS 7/ 21/56; he rejected iłck'un]"
+      },
+      {
+        "kiksht": "iłck'un",
+        "english": "dippers [PK 7/10/56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "wack'ún icapqw'ínini",
+        "english": "coffee/tea cup [HS 7/21/56]"
+      }
+    ],
+    "notes": [
+      "This word probably referred originally to wooden dippers; in the course of time it has come to be a general word not only for dippers but also for cups, including tea and coffee cups. Hiram Smith, however, used a special expression for coffee or tea cup, given above."
+    ]
+  },
+  "wa-cupcup": {
+    "root": "wa-cupcup",
+    "partOfSpeech": "n",
+    "definition": "hail, hailstone",
+    "examples": [
+      {
+        "kiksht": "aixt wacupcup",
+        "english": "one piece of hail, one hailstone [HS 7/21/56]"
+      }
+    ]
+  },
   "wa-cáqws": {
     "root": "wa-cáqws",
     "partOfSpeech": "n",
@@ -9557,6 +9795,11 @@
     "seeAlso": [
       "Wacáqws, i-chaqwsh, i- caqws"
     ]
+  },
+  "wa-cúiha": {
+    "root": "wa-cúiha",
+    "partOfSpeech": "n",
+    "definition": "blueback salmon"
   },
   "wi-ck'entłex": {
     "root": "wi-ck'entłex",
