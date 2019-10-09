@@ -930,6 +930,24 @@
       "chkw'ai"
     ]
   },
+  "-DATKSH": {
+    "root": "-DATKSH",
+    "partOfSpeech": "vb",
+    "definition": "bequeath, leave to",
+    "forms": [
+      {
+        "kiksht": "chialdatksh",
+        "english": "he has it[i-] bequeathed to her"
+      },
+      {
+        "kiksht": "ichiudátksh",
+        "english": "he bequeathed it[i-] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-xl-DATKSH, it-qidatksh"
+    ]
+  },
   "-a-gl-CHKW'AYA-mit": {
     "root": "-a-gl-CHKW'AYA-mit",
     "partOfSpeech": "vb",
@@ -3963,6 +3981,17 @@
         "kiksht": "iłcálucalu",
         "english": "snails [HS 7/21/ 56, PK 7/56]"
       }
+    ]
+  },
+  "a-dasq'ú id-elxam": {
+    "root": "a-dasq'ú id-elxam",
+    "partOfSpeech": "n",
+    "definition": "Wasco people",
+    "notes": [
+      "Lit. \"the people who have the cup (wasq'ú).\" Refers to a rock in the Wasco village with a cup-shaped indentation which collected water. Idasq'ú idlxam is also possible."
+    ],
+    "seeAlso": [
+      "wa-sq'ú, id-lxam"
     ]
   },
   "a-g̲agilak": {
@@ -14503,6 +14532,20 @@
       "q'up"
     ]
   },
+  "daqw'úl": {
+    "root": "daqw'úl",
+    "partOfSpeech": "part",
+    "definition": "grind fine, pound fine [GT 6/5/98], stir, mix up [?PK 8/26/55]",
+    "examples": [
+      {
+        "kiksht": "Daqw'úl chiuxt.",
+        "english": "He's grinding or pounding it[i-] fine. [GT 6/5/98]"
+      }
+    ],
+    "seeAlso": [
+      "qw'ulqw'ul"
+    ]
+  },
   "daqwatł": {
     "root": "daqwatł",
     "partOfSpeech": "part",
@@ -14549,6 +14592,191 @@
         "kiksht": "Daqł nanushia.",
         "english": "Yester- day I cooked. [Dyk]"
       }
+    ]
+  },
+  "dasagwau": {
+    "root": "dasagwau",
+    "partOfSpeech": "adv",
+    "definition": "by far",
+    "examples": [
+      {
+        "kiksht": "Dasagwau ichiuktłpa.",
+        "english": "He missed him (as with a rock) by far. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "skwau, sagwáu, dacagwáu"
+    ]
+  },
+  "dasaqw'saqw'": {
+    "root": "dasaqw'saqw'",
+    "partOfSpeech": "adv",
+    "definition": "all, entirely",
+    "examples": [
+      {
+        "kiksht": "Dasaqw'saqw' ichiutłxum.",
+        "english": "He consumed it[i-] all up. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "saqw'"
+    ]
+  },
+  "dashapshap": {
+    "root": "dashapshap",
+    "partOfSpeech": "part",
+    "definition": "break, broken"
+  },
+  "dashaxwshaxw": {
+    "root": "dashaxwshaxw",
+    "partOfSpeech": "part",
+    "definition": "peel off, skin off",
+    "examples": [
+      {
+        "kiksht": "Dashaxwshaxw igixux.",
+        "english": "It[i-] became peeled off. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "shux, aisháxw, saishuxshux"
+    ]
+  },
+  "dashgwak": {
+    "root": "dashgwak",
+    "partOfSpeech": "part",
+    "definition": "smash (something soft) by stepping on it",
+    "examples": [
+      {
+        "kiksht": "Dashgwak iniktxwit.",
+        "english": "I stepped on it[i-] and smashed it. [Dyk]"
+      }
+    ]
+  },
+  "dashgúpqt": {
+    "root": "dashgúpqt",
+    "partOfSpeech": "vb",
+    "definition": "they go in",
+    "examples": [
+      {
+        "kiksht": "Ag̲a qadag̲a dnu inátkadix dashgúpqt idelxam.",
+        "english": "The people just go right in one way. [WTI.11.2]"
+      }
+    ],
+    "seeAlso": [
+      "-PQ"
+    ]
+  },
+  "dashpuq": {
+    "root": "dashpuq",
+    "partOfSpeech": "part",
+    "definition": "light gray"
+  },
+  "dashpuqłshpúqł": {
+    "root": "dashpuqłshpúqł",
+    "partOfSpeech": "adv",
+    "definition": "all ashy gray"
+  },
+  "dashpáq": {
+    "root": "dashpáq",
+    "partOfSpeech": "part",
+    "definition": "grey"
+  },
+  "dashpúq": {
+    "root": "dashpúq",
+    "partOfSpeech": "part",
+    "definition": "dry",
+    "examples": [
+      {
+        "kiksht": "Dashpúq ikíaxix.",
+        "english": "It[i-] is getting dry. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "shpuq, -shpuqshpug̲ix"
+    ]
+  },
+  "dasp'ít": {
+    "root": "dasp'ít",
+    "partOfSpeech": "part",
+    "definition": "smooth one's hair",
+    "forms": [
+      {
+        "kiksht": "Dasp'ít iłixlait.",
+        "english": "He is smooth- ing down his hair. [Dyk]"
+      }
+    ]
+  },
+  "dastaxw": {
+    "root": "dastaxw",
+    "partOfSpeech": "part",
+    "definition": "jerk loose, untie by jerking",
+    "examples": [
+      {
+        "kiksht": "Dastaxw ichixka ilipáq.",
+        "english": "He jerked the rope loose, untied it by giving it a jerk, jerked it so it became untied. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "stux"
+    ]
+  },
+  "datgiyaumaxåx": {
+    "root": "datgiyaumaxåx",
+    "partOfSpeech": "part",
+    "definition": "deserted of people",
+    "examples": [
+      {
+        "kiksht": "datgiyaumaxåx itg̲úyimxat",
+        "english": "a deserted camp"
+      },
+      {
+        "kiksht": "datgiyaumaxåx itkg̲úyimxat",
+        "english": "my deserted camp"
+      },
+      {
+        "kiksht": "Inug̲waqwam itg̲úyimxat datgiyaumaxåx.",
+        "english": "I came to a deserted camp. [Dyk]"
+      }
+    ]
+  },
+  "datgubix": {
+    "root": "datgubix",
+    "partOfSpeech": "adv",
+    "definition": "at a white place",
+    "seeAlso": [
+      "datgúp"
+    ]
+  },
+  "datgúp": {
+    "root": "datgúp",
+    "partOfSpeech": "part",
+    "definition": "white",
+    "forms": [
+      {
+        "kiksht": "datgupmax",
+        "english": "white ones [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "datgúp ikíutan",
+        "english": "white horse"
+      },
+      {
+        "kiksht": "datgúp ichinkmatnaba",
+        "english": "he just glanced contemptuously at me, glanced aside at me so that the whites of his eyes showed [Dyk]"
+      },
+      {
+        "kiksht": "datgupmax idelxam",
+        "english": "white people [WTIV.4.3]"
+      },
+      {
+        "kiksht": "Ach'iqch'iq datgúp galaxux ichaxaqshtaq.",
+        "english": "Bald eagle became white about her head. [WTI.5.5]"
+      }
+    ],
+    "seeAlso": [
+      "datk'úp, shaitgáp, tgep -DATKSH bequeath"
     ]
   },
   "dauya": {
@@ -16188,6 +16416,17 @@
         "kiksht": "ichdamaxul",
         "english": "I am a Molala speaker [WTI.17.15]"
       }
+    ]
+  },
+  "i-dasq'ú id-elxam": {
+    "root": "i-dasq'ú id-elxam",
+    "partOfSpeech": "n",
+    "definition": "Wasco people",
+    "notes": [
+      "Same meaning as a-dasq'ú id- elxam."
+    ],
+    "seeAlso": [
+      "a-dasq'ú id-elxam"
     ]
   },
   "i-dałbål": {
