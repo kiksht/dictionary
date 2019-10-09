@@ -289,6 +289,40 @@
       }
     ]
   },
+  "-c'inun": {
+    "root": "-c'inun",
+    "partOfSpeech": "n",
+    "definition": "bird",
+    "forms": [
+      {
+        "kiksht": "ic'inun",
+        "english": "(male) bird"
+      },
+      {
+        "kiksht": "ac'inun",
+        "english": "(female) bird"
+      },
+      {
+        "kiksht": "iłc'inun",
+        "english": "bird (of either gender, smaller)"
+      },
+      {
+        "kiksht": "itc'inunks",
+        "english": "birds (PK says that this"
+      },
+      {
+        "kiksht": "form is used by the old people of any ani- mals or birds.) ishc'inun",
+        "english": "two (larger) birds"
+      },
+      {
+        "kiksht": "isc'inun",
+        "english": "two (smaller) birds"
+      }
+    ],
+    "seeAlso": [
+      "i-ch'inun"
+    ]
+  },
   "-caqulktpam": {
     "root": "-caqulktpam",
     "partOfSpeech": "n",
@@ -681,6 +715,64 @@
     ],
     "seeAlso": [
       "is-qicq'íyauninxł"
+    ]
+  },
+  "-s-x-C'IŁX̲A-kw": {
+    "root": "-s-x-C'IŁX̲A-kw",
+    "partOfSpeech": "vb",
+    "definition": "make a notch around, make a groove around",
+    "forms": [
+      {
+        "kiksht": "ansaxc'iłxamidagwa",
+        "english": "I will make a notch around it[a-]"
+      },
+      {
+        "kiksht": "csaxc'iłxamidalkwł",
+        "english": "he is notching around it[a-]"
+      },
+      {
+        "kiksht": "ksixc'íłxamidalkwł",
+        "english": "she is making a groove around it[i-]"
+      },
+      {
+        "kiksht": "ksuxatc'iułxamidakwt",
+        "english": "she is making a groove around each of them"
+      },
+      {
+        "kiksht": "ksixc'iłxalkwł",
+        "english": "she is notching around it[i-]"
+      },
+      {
+        "kiksht": "insaxc'iłxagwa",
+        "english": "I made a notch around it[a-]"
+      },
+      {
+        "kiksht": "ninsixc'iłxagwa",
+        "english": "I made a notch around it[i-] (last sea- son)"
+      },
+      {
+        "kiksht": "ninsixatc'iłxagwa",
+        "english": "I made a notch around it[i-] (last week)"
+      },
+      {
+        "kiksht": "asaxc'iłxakwida",
+        "english": "it[a-] will be notched"
+      },
+      {
+        "kiksht": "saxc'iłxakwt",
+        "english": "she is slen- der-waisted, wasp-waisted (literally, notched around)"
+      },
+      {
+        "kiksht": "sixc'iłxalkwł",
+        "english": "he is notching himself"
+      },
+      {
+        "kiksht": "sixatc'iłxalkwł",
+        "english": "he was notching himself [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x-C'IŁX̲A-kw"
     ]
   },
   "-s-xl-BNA-nan": {
@@ -1298,6 +1390,34 @@
     "definition": "ac'epc'ep, sugar salmon with berries",
     "notes": [
       "A mixture of ground up dried fish (generally salmon) with dried huckleberries, in fish oil."
+    ]
+  },
+  "a-c'imálc'imal": {
+    "root": "a-c'imálc'imal",
+    "partOfSpeech": "n",
+    "definition": "acorn meal, acorn flour"
+  },
+  "a-c'isablal": {
+    "root": "a-c'isablal",
+    "partOfSpeech": "n",
+    "definition": "cake, cookie, pastry",
+    "notes": [
+      "A compound word, from c'i \"sweet\" and a-sablal, \"bread, flour, baked goods.\""
+    ],
+    "seeAlso": [
+      "c'i, i-c'ic'iqwcks"
+    ]
+  },
+  "a-c'iudixax": {
+    "root": "a-c'iudixax",
+    "partOfSpeech": "n",
+    "definition": "ant",
+    "forms": [],
+    "examples": [
+      {
+        "kiksht": "ac'íudixax agaunam",
+        "english": "ant- hill [GT 12/29]"
+      }
     ]
   },
   "a-c'áiumat": {
@@ -8877,6 +8997,31 @@
       "Usually refers to horses, with a condition in which a hip joint is sticking out somewhat."
     ]
   },
+  "c'iqs": {
+    "root": "c'iqs",
+    "partOfSpeech": "part",
+    "definition": "cheap, easy",
+    "seeAlso": [
+      "c'i, i- -c'imam"
+    ]
+  },
+  "c'mumu": {
+    "root": "c'mumu",
+    "partOfSpeech": "part",
+    "definition": "smile",
+    "examples": [
+      {
+        "kiksht": "C'mum(u) ikiax.",
+        "english": "He is smiling. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Note in Dyk: \"to be caused to smile against oneself, as when at- tempting to fool one, or as when angered and forced to smile in spite of oneself\""
+    ],
+    "seeAlso": [
+      "k'eses"
+    ]
+  },
   "calxukdit": {
     "root": "calxukdit",
     "partOfSpeech": "vb",
@@ -9135,6 +9280,17 @@
       {
         "kiksht": "iyabladax",
         "english": "it[i-] is thick [GT, MMc 6/5/98]"
+      }
+    ]
+  },
+  "i- -c'imam": {
+    "root": "i- -c'imam",
+    "partOfSpeech": "adj n",
+    "definition": "sweet",
+    "examples": [
+      {
+        "kiksht": "iyac'imam isablal",
+        "english": "cake [GT, MMc]"
       }
     ]
   },
@@ -9594,6 +9750,25 @@
       "c'i, a-c'isablal"
     ]
   },
+  "i-c'imac'": {
+    "root": "i-c'imac'",
+    "partOfSpeech": "n",
+    "definition": "salmon fly (compare i- cimac)",
+    "forms": [
+      {
+        "kiksht": "itc'imac'",
+        "english": "salmon flies [GT, MMc 1/15/99]"
+      }
+    ]
+  },
+  "i-c'ixyan": {
+    "root": "i-c'ixyan",
+    "partOfSpeech": "n",
+    "definition": "small water-monster, baby water-monster",
+    "seeAlso": [
+      "i-ch'ixyan"
+    ]
+  },
   "i-c'iła": {
     "root": "i-c'iła",
     "partOfSpeech": "n",
@@ -9606,6 +9781,22 @@
     ],
     "notes": [
       "Borrowed from Sahaptin."
+    ]
+  },
+  "i-c'laipas": {
+    "root": "i-c'laipas",
+    "partOfSpeech": "n",
+    "definition": "cedar container for carrying powdered salmon, sugar salmon container"
+  },
+  "i-c'ulbat": {
+    "root": "i-c'ulbat",
+    "partOfSpeech": "n",
+    "definition": "beaded bag, beaded purse",
+    "forms": [
+      {
+        "kiksht": "itc'ulbatks",
+        "english": "beaded bags [Dyk]"
+      }
     ]
   },
   "i-caqws": {
@@ -10304,6 +10495,20 @@
     ],
     "seeAlso": [
       "id-mał, małn, k'amałmt, it-k'umałmt"
+    ]
+  },
+  "x-C'IŁX̲A-kw": {
+    "root": "x-C'IŁX̲A-kw",
+    "partOfSpeech": "vb",
+    "definition": "notch around on [Dyk]",
+    "forms": [
+      {
+        "kiksht": "inaixc'iłxagwa",
+        "english": "I notched around it[a-] on it[i-] (it[a-] being on it[i-] as a covering) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-s-x-C'IŁX̲A-kw"
     ]
   },
   "áaana": {

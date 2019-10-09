@@ -3160,3 +3160,50 @@ Forms: itc’i¬a “sage rats”
 Notes: Borrowed from Sahaptin.
 
 -C’IÒ ̨A [n] notch
+
+
+
+
+x-C’IÒ ̨A-kw [vb] notch around on [Dyk]
+Forms: inaixc’i¬xagwa “I notched around it[a-] on it[i-] (it[a-] being on it[i-] as a covering)” [Dyk]
+See also: -s-x-C’IÒ ̨A-kw
+
+-s-x-C’IÒ ̨A-kw [vb] make a notch around, make a groove around
+Forms: ansaxc’i¬xamidagwa “I will make a notch around it[a-]” csaxc’i¬xamidalkw¬ “he is notching around it[a-]” ksixc’ˆ¬xamidalkw¬ “she is making a groove around it[i-]” ksuxatc’iu¬xamidakwt “she is making a groove around each of them” ksixc’i¬xalkw¬ “she is notching around it[i-]” insaxc’i¬xagwa “I made a notch around it[a-]” ninsixc’i¬xagwa “I made a notch around it[i-] (last sea- son)” ninsixatc’i¬xagwa “I made a notch around it[i-] (last week)” asaxc’i¬xakwida “it[a-] will be notched” saxc’i¬xakwt “she is slen- der-waisted, wasp-waisted (literally, notched around)” sixc’i¬xalkw¬ “he is notching himself” sixatc’i¬xalkw¬ “he was notching himself” [Dyk]
+See also: -x-C’IÒ ̨A-kw
+
+i-c’imac’ [n] salmon fly (compare i- cimac)
+Forms: itc’imac’ “salmon flies” [GT, MMc 1/15/99]
+
+a-c’imÅlc’imal [n] acorn meal, acorn flour
+
+i- -c’imam [adj n] sweet
+Examples: iyac’imam isablal “cake” [GT, MMc]
+
+-c’inun [n] bird
+Forms: ic’inun “(male) bird” ac’inun “(female) bird” i¬c’inun “bird (of either gender, smaller)” itc’inunks “birds” (PK says that this form is used by the old people of any ani- mals or birds.) ishc’inun “two (larger) birds” isc’inun “two (smaller) birds”
+See also: i-ch’inun
+
+c’iqs [part] cheap, easy
+See also: c’i, i- -c’imam
+
+a-c’isablal [n] cake, cookie, pastry
+Notes: A compound word, from c’i “sweet” and a-sablal, “bread, flour, baked goods.”
+See also: c’i, i-c’ic’iqwcks
+
+a-c’iudixax [n] ant
+Forms: Does not change for plural.
+Examples: ac’ˆudixax agaunam “ant- hill” [GT 12/29]
+
+i-c’ixyan [n] small water-monster, baby water-monster
+See also: i-ch’ixyan
+
+i-c’laipas [n] cedar container for carrying powdered salmon, sugar salmon container
+
+c’mumu [part] smile
+Examples: C’mum(u) ikiax. “He is smiling.” [Dyk]
+Notes: Note in Dyk: “to be caused to smile against oneself, as when at- tempting to fool one, or as when angered and forced to smile in spite of oneself”
+See also: k’eses
+
+i-c’ulbat [n] beaded bag, beaded purse
+Forms: itc’ulbatks “beaded bags” [Dyk]
