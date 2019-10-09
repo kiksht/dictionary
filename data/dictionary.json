@@ -202,6 +202,11 @@
     "partOfSpeech": "vb",
     "definition": "put arrow"
   },
+  "-C'IŁX̲A": {
+    "root": "-C'IŁX̲A",
+    "partOfSpeech": "n",
+    "definition": "notch"
+  },
   "-CGI": {
     "root": "-CGI",
     "partOfSpeech": "vb",
@@ -263,6 +268,25 @@
     ],
     "notes": [
       "Refers to a sibling-in-law of opposite gender from the person speaking or spoken about."
+    ]
+  },
+  "-c'ig̲ula": {
+    "root": "-c'ig̲ula",
+    "partOfSpeech": "n",
+    "definition": "bat",
+    "forms": [
+      {
+        "kiksht": "ic'íg̲ula",
+        "english": "(male) bat"
+      },
+      {
+        "kiksht": "ac'íg̲ula",
+        "english": "(female) bat [HS gives only female form ac'íg̲ula of this word.] itc'íg̲ula [GT 1/12/99], itc'íg̲ulayuks [DykGr 92, HS]"
+      },
+      {
+        "kiksht": "",
+        "english": "bats"
+      }
     ]
   },
   "-caqulktpam": {
@@ -940,6 +964,14 @@
       "A legendary figure who is believed to grab children, throw them into a basket, take them home and eat them."
     ]
   },
+  "C'énigas": {
+    "root": "C'énigas",
+    "partOfSpeech": "place",
+    "definition": "C'enigas",
+    "notes": [
+      "Somewhere along the Colum- bia, but the exact location is not known."
+    ]
+  },
   "Caskénlit": {
     "root": "Caskénlit",
     "partOfSpeech": "place",
@@ -1242,6 +1274,32 @@
       }
     ]
   },
+  "a-c'emna": {
+    "root": "a-c'emna",
+    "partOfSpeech": "n",
+    "definition": "staging-pole [for fishing scaffolds] [WTII.7.1, 2], post [GT, MMc 1/14/99]",
+    "forms": [
+      {
+        "kiksht": "isc'mna",
+        "english": "pair of staging poles [Dyk]"
+      },
+      {
+        "kiksht": "itc'émnamax",
+        "english": "staging poles [WTII.7.1, 2], sets of staging poles [Dyk], posts [GT, MMc 1/14/ 99]"
+      }
+    ],
+    "notes": [
+      "In Wishram Texts and Dyk, refers to crossed supports for fishing scaffolds. See graphic."
+    ]
+  },
+  "a-c'epc'ep": {
+    "root": "a-c'epc'ep",
+    "partOfSpeech": "n",
+    "definition": "ac'epc'ep, sugar salmon with berries",
+    "notes": [
+      "A mixture of ground up dried fish (generally salmon) with dried huckleberries, in fish oil."
+    ]
+  },
   "a-c'áiumat": {
     "root": "a-c'áiumat",
     "partOfSpeech": "n",
@@ -1269,6 +1327,17 @@
       {
         "kiksht": "itc'áxilaya",
         "english": "basket hats [HS 7/21/ 56]"
+      }
+    ]
+  },
+  "a-c'ígala": {
+    "root": "a-c'ígala",
+    "partOfSpeech": "n",
+    "definition": "swallow (bird)",
+    "forms": [
+      {
+        "kiksht": "itc'ígalamax",
+        "english": "swallows [Dyk]"
       }
     ]
   },
@@ -8771,6 +8840,43 @@
       "c'a"
     ]
   },
+  "c'em": {
+    "root": "c'em",
+    "partOfSpeech": "part",
+    "definition": "lick, sign (one's name), vote",
+    "examples": [
+      {
+        "kiksht": "C'emc'ém chiuxt.",
+        "english": "He is licking him."
+      },
+      {
+        "kiksht": "C'em ichiux iyaxliu.",
+        "english": "He signed his name. [Dyk]"
+      },
+      {
+        "kiksht": "Kánawi shan pu ikaqmit ałgiuxa dayaba iq'ílaitix. C'em ixa!",
+        "english": "Everyone has a voice in making laws on the reserva- tion. Vote! [Spilyay/Vote]"
+      }
+    ]
+  },
+  "c'emdni": {
+    "root": "c'emdni",
+    "partOfSpeech": "part",
+    "definition": "be out of joint at the hip",
+    "examples": [
+      {
+        "kiksht": "c'emdni ikíutan",
+        "english": "a horse with its hip out of joint"
+      },
+      {
+        "kiksht": "C'emdni ikiax.",
+        "english": "He has his hip out of joint. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Usually refers to horses, with a condition in which a hip joint is sticking out somewhat."
+    ]
+  },
   "calxukdit": {
     "root": "calxukdit",
     "partOfSpeech": "vb",
@@ -9457,6 +9563,51 @@
       "it-kshíw, i-jaimjaim"
     ]
   },
+  "i-c'i'": {
+    "root": "i-c'i'",
+    "partOfSpeech": "n",
+    "definition": "foul smell, sour smell, stink, stench",
+    "forms": [
+      {
+        "kiksht": "icc'i'",
+        "english": "my foul smell; I smell, stink [Dyk]"
+      }
+    ]
+  },
+  "i-c'ic'iqwcks": {
+    "root": "i-c'ic'iqwcks",
+    "partOfSpeech": "n",
+    "definition": "sweetness",
+    "forms": [
+      {
+        "kiksht": "iyac'ic'iqwcks",
+        "english": "he is sweet [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ichac'ic'íqwcks icialux.",
+        "english": "He made it[a-] sweet. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "c'i, a-c'isablal"
+    ]
+  },
+  "i-c'iła": {
+    "root": "i-c'iła",
+    "partOfSpeech": "n",
+    "definition": "sage rat",
+    "forms": [
+      {
+        "kiksht": "itc'iła",
+        "english": "sage rats"
+      }
+    ],
+    "notes": [
+      "Borrowed from Sahaptin."
+    ]
+  },
   "i-caqws": {
     "root": "i-caqws",
     "partOfSpeech": "n",
@@ -9637,6 +9788,28 @@
       "is-qus"
     ]
   },
+  "is-c'ikc'ik": {
+    "root": "is-c'ikc'ik",
+    "partOfSpeech": "n",
+    "definition": "wagon",
+    "forms": [
+      {
+        "kiksht": "itc'ikc'ikuks",
+        "english": "wagons [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "is-cikcik, i-dzikdzik"
+    ]
+  },
+  "is-c'ilqał": {
+    "root": "is-c'ilqał",
+    "partOfSpeech": "n",
+    "definition": "drying rack",
+    "notes": [
+      "A platform of 4 forked poles at corners of a rectangle. Poles are laid between each pair of poles, and poles are then laid crosswise on those poles; on these meat is hung, with a fire below to dry it. See graphic."
+    ]
+  },
   "is-cikcik": {
     "root": "is-cikcik",
     "partOfSpeech": "n",
@@ -9760,6 +9933,17 @@
     "definition": "mountains",
     "notes": [
       "An alternative form of itbuqux."
+    ]
+  },
+  "it-c'émnamax": {
+    "root": "it-c'émnamax",
+    "partOfSpeech": "n",
+    "definition": "pack-saddle",
+    "notes": [
+      "This word is obviously related to is-c'emna \"staging poles,\" but it is not clear what the relationship is."
+    ],
+    "seeAlso": [
+      "a-c'emna"
     ]
   },
   "ił-alakásgwilit": {
@@ -9959,6 +10143,23 @@
     "root": "wa-ba",
     "partOfSpeech": "n",
     "definition": "bee, yellowjacket"
+  },
+  "wa-c'ia": {
+    "root": "wa-c'ia",
+    "partOfSpeech": "n",
+    "definition": "calico fish",
+    "forms": [
+      {
+        "kiksht": "wac'iamax",
+        "english": "calico fish (plu- ral) [Dyk]"
+      }
+    ],
+    "notes": [
+      "Apparently a variety of jack salmon."
+    ],
+    "seeAlso": [
+      "Agac'ia"
+    ]
   },
   "wa-ck'ún": {
     "root": "wa-ck'ún",
