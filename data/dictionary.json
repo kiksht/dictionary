@@ -898,6 +898,54 @@
       "The -m- is omitted before the suffix -ł-."
     ]
   },
+  "-i-CHUKDI-ix": {
+    "root": "-i-CHUKDI-ix",
+    "partOfSpeech": "vb",
+    "definition": "dawn",
+    "forms": [
+      {
+        "kiksht": "alitchúkdiayaxdix",
+        "english": "it will dawn"
+      },
+      {
+        "kiksht": "yuchúkdidix",
+        "english": "it is getting dawn, it is the time of dawn"
+      },
+      {
+        "kiksht": "itchúkdiniłix",
+        "english": "it is trying to dawn"
+      },
+      {
+        "kiksht": "itchukdidix",
+        "english": "it is breaking day, it is dawning (this way); it was breaking day, it was dawning"
+      },
+      {
+        "kiksht": "(i)yuchukdix",
+        "english": "it dawned"
+      },
+      {
+        "kiksht": "gayuchukdeniłix",
+        "english": "it (al- ways) dawns (as at six)"
+      },
+      {
+        "kiksht": "chiuchukdímidix",
+        "english": "he is making it dawn [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ag̲a chi' iyuchukdix.",
+        "english": "Now, eh, it became daylight."
+      },
+      {
+        "kiksht": "G̲wúnmaba (i)yuchukdix.",
+        "english": "At five it became daylight. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-chukdenił, i-chukdidix"
+    ]
+  },
   "-i-l-BWA-mit": {
     "root": "-i-l-BWA-mit",
     "partOfSpeech": "vb",
@@ -1039,6 +1087,97 @@
     ],
     "seeAlso": [
       "-QELQ"
+    ]
+  },
+  "-k-CHWA-mit": {
+    "root": "-k-CHWA-mit",
+    "partOfSpeech": "vb",
+    "definition": "drop (purposely)",
+    "forms": [
+      {
+        "kiksht": "inyukchwamit",
+        "english": "I (purposely) dropped it[a-] [GT, MMc 1/14/99] -CHU (2) talk about, discuss"
+      }
+    ]
+  },
+  "-k-xi-CHU": {
+    "root": "-k-xi-CHU",
+    "partOfSpeech": "vb",
+    "definition": "discuss, debate, ar- gue, talk together, meet together to talk, speak at a meeting",
+    "forms": [
+      {
+        "kiksht": "ałikxichwaya",
+        "english": "they will dis- cuss it[i-]"
+      },
+      {
+        "kiksht": "aqikxichwaya",
+        "english": "one will discuss it[i-], it will be discussed [CLL6]"
+      },
+      {
+        "kiksht": "nikxichx",
+        "english": "I am discussing with him"
+      },
+      {
+        "kiksht": "nigatxichx",
+        "english": "I discussed with him"
+      },
+      {
+        "kiksht": "nikxilchł",
+        "english": "I discuss with him (every once in a while)"
+      },
+      {
+        "kiksht": "aikxichx",
+        "english": "she is discussing with him"
+      },
+      {
+        "kiksht": "aigatxichx",
+        "english": "she discussed with him"
+      },
+      {
+        "kiksht": "aikxilchł",
+        "english": "she discusses with him (every once in a while)"
+      },
+      {
+        "kiksht": "yamkxilchł",
+        "english": "I discuss with you (every once in a while)"
+      },
+      {
+        "kiksht": "mnkxilchł",
+        "english": "you discuss with me (every once in a while)"
+      },
+      {
+        "kiksht": "nshxatxitchx",
+        "english": "we were discussing (with one another)"
+      },
+      {
+        "kiksht": "shxxíchx",
+        "english": "they 2 are discussing, debating, arguing"
+      },
+      {
+        "kiksht": "iguxwaxichu",
+        "english": "they discussed"
+      },
+      {
+        "kiksht": "igaikxichu",
+        "english": "she talked about it[i-] (for instance, to discuss in court what she lost) [Dyk]"
+      },
+      {
+        "kiksht": "igixxichu",
+        "english": "he spoke (at a meeting) [PK 7/29/56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Dan aqikxíchwaya? Idala ałikxíchwaya.",
+        "english": "What will be dis- cussed at the meeting? They will discuss money. [GT, MMc]"
+      },
+      {
+        "kiksht": "Aiwá shdikxíchx.",
+        "english": "It is very interesting to them 2 and they have talked about it a long time. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-xi-CHU, -xa-xi-CHU, i- kaxichx"
     ]
   },
   "-ki-CHKWA-mit": {
@@ -1627,6 +1766,24 @@
     ],
     "seeAlso": [
       "-BIXWA"
+    ]
+  },
+  "-sh-x-CHUCHEMNA-kw": {
+    "root": "-sh-x-CHUCHEMNA-kw",
+    "partOfSpeech": "vb",
+    "definition": "starve, be starving",
+    "forms": [
+      {
+        "kiksht": "shaxchuchmnakwt",
+        "english": "She's starving"
+      },
+      {
+        "kiksht": "shnxchuchmnakwt",
+        "english": "I'm starving [GT, MMc 12/29/97]"
+      }
+    ],
+    "seeAlso": [
+      "ish-qachichemnakwt"
     ]
   },
   "-sk'ulya": {
@@ -2233,6 +2390,51 @@
     ],
     "notes": [
       "Literally means \"throw (- chim) oneself (-x-) at (-gl-).\" The -m- is omitted before the suffix -ł-."
+    ]
+  },
+  "-xa-xi-CHU": {
+    "root": "-xa-xi-CHU",
+    "partOfSpeech": "vb",
+    "definition": "meet together, dis- cuss",
+    "forms": [
+      {
+        "kiksht": "amshxíchwaya",
+        "english": "you folks will meet"
+      },
+      {
+        "kiksht": "namshxíchwaya",
+        "english": "you folks met"
+      },
+      {
+        "kiksht": "nałxíchwaya",
+        "english": "they met [GT, MMc 1/12/99]"
+      }
+    ],
+    "examples": [],
+    "seeAlso": [
+      "i-kaxichx, -k-xi-CHU, -xi-CHU"
+    ]
+  },
+  "-xi-CHU": {
+    "root": "-xi-CHU",
+    "partOfSpeech": "vb",
+    "definition": "argue, discuss, talk about",
+    "forms": [
+      {
+        "kiksht": "shxichx",
+        "english": "they 2 argue [WTI.2.20]"
+      },
+      {
+        "kiksht": "",
+        "english": "they're discussing business [GT, MMc 1/12/99]"
+      },
+      {
+        "kiksht": "shxatxich",
+        "english": "they 2 were discussing [GT, MMc 1/12/99]"
+      }
+    ],
+    "seeAlso": [
+      "-k-xi-CHU"
     ]
   },
   "-xl-CHM-l-it": {
@@ -11344,6 +11546,25 @@
       "-X̲"
     ]
   },
+  "chudelk": {
+    "root": "chudelk",
+    "partOfSpeech": "vb",
+    "definition": "he always puts them away",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "chuáxchuax": {
+    "root": "chuáxchuax",
+    "partOfSpeech": "part",
+    "definition": "bleached (of hair)",
+    "notes": [
+      "Madeline McInturff [6/5/98] wonders where tribal people would have bleached hair."
+    ],
+    "seeAlso": [
+      "dachwax"
+    ]
+  },
   "cháwigalqwt": {
     "root": "cháwigalqwt",
     "partOfSpeech": "vb",
@@ -12434,6 +12655,34 @@
     "root": "i-chqw'ach",
     "partOfSpeech": "n",
     "definition": "wild celery (that grows in dry places)"
+  },
+  "i-chúkdenił": {
+    "root": "i-chúkdenił",
+    "partOfSpeech": "n",
+    "definition": "dawn, daybreak",
+    "seeAlso": [
+      "-i-CHUKD(I)-ix, i-chukdidix"
+    ]
+  },
+  "i-chúligen": {
+    "root": "i-chúligen",
+    "partOfSpeech": "n",
+    "definition": "fish-hawk"
+  },
+  "i-chúłq": {
+    "root": "i-chúłq",
+    "partOfSpeech": "n",
+    "definition": "salmon spear [WTI.1g.2], harpoon spear (complete) [Dyk], pole part of a harpoon [HS 7/21/56]",
+    "forms": [
+      {
+        "kiksht": "ishchúłq",
+        "english": "2 harpoon spears"
+      },
+      {
+        "kiksht": "itchúłq",
+        "english": "harpoon spears [HS 7/21/ 56]"
+      }
+    ]
   },
   "i-cimac": {
     "root": "i-cimac",

@@ -3815,3 +3815,48 @@ See also: - ̨
 -CHU [vb] move down, go down, come down, drop, fall, sink
 Forms: yuchx “he is falling; they (apples, ilibum) are falling (one at a time)” tgechx/duchx “they are fall- ing” yulch¬ “he is falling (continu- ally)” iguchu “she fell” igulch¬chk “she fell (several times)” iyuchu “he fell down; they (apples, ilibum) fell down (from a tree)” with relational prefixe -l- “in”: ya¬lchx “he is sinking in it (water, i¬chqwÅ), sinking out of sight in it” [Dyk]
 Notes: Usually appears as secondary stem (position 9), but may be used as an independent verb root.
+
+
+
+
+
+-k-CHWA-mit [vb] drop (purposely)
+Forms: inyukchwamit “I (purposely) dropped it[a-]” [GT, MMc 1/14/99] -CHU (2) talk about, discuss
+
+-k-xi-CHU [vb] discuss, debate, ar- gue, talk together, meet together to talk, speak at a meeting
+Forms: a¬ikxichwaya “they will dis- cuss it[i-]” aqikxichwaya “one will discuss it[i-], it will be discussed” [CLL6] nikxichx “I am discussing with him” nigatxichx “I discussed with him” nikxilch¬ “I discuss with him (every once in a while)” aikxichx “she is discussing with him” aigatxichx “she discussed with him” aikxilch¬ “she discusses with him (every once in a while)” yamkxilch¬ “I discuss with you (every once in a while)” mnkxilch¬ “you discuss with me (every once in a while)” nshxatxitchx “we were discussing (with one another)” shxxˆchx “they 2 are discussing, debating, arguing” iguxwaxichu “they discussed” igaikxichu “she talked about it[i-] (for instance, to discuss in court what she lost)” [Dyk] igixxichu “he spoke (at a meeting)” [PK 7/29/56]
+Examples: Dan aqikxˆchwaya? Idala a¬ikxˆchwaya. “What will be dis- cussed at the meeting? They will discuss money.” [GT, MMc] AiwÅ shdikxˆchx. “It is very interesting to them 2 and they have talked about it a long time.” [Dyk]
+See also: -xi-CHU, -xa-xi-CHU, i- kaxichx
+
+-xa-xi-CHU [vb] meet together, dis- cuss
+Forms: amshxˆchwaya “you folks will meet” namshxˆchwaya “you folks met” na¬xˆchwaya “they met” [GT, MMc 1/12/99]
+Examples: Qanchix aluxaxichwaya? “When will they meet? [GT, MMc]
+See also: i-kaxichx, -k-xi-CHU, -xi-CHU
+
+-xi-CHU [vb] argue, discuss, talk about
+Forms: shxichx “they 2 argue” [WTI.2.20] “they’re discussing business” [GT, MMc 1/12/99] shxatxich “they 2 were discussing” [GT, MMc 1/12/99]
+See also: -k-xi-CHU
+
+chuÅxchuax [part] bleached (of hair)
+Notes: Madeline McInturff [6/5/98] wonders where tribal people would have bleached hair.
+See also: dachwax
+
+-sh-x-CHUCHEMNA-kw [vb] starve, be starving
+Forms: shaxchuchmnakwt “She’s starving” shnxchuchmnakwt “I’m starving” [GT, MMc 12/29/97]
+See also: ish-qachichemnakwt
+
+chudelk [vb] he always puts them away
+See also: -TK
+
+i-ch ̈kdeni¬ [n] dawn, daybreak
+See also: -i-CHUKD(I)-ix, i-chukdidix
+
+-i-CHUKDI-ix [vb] dawn
+Forms: alitch ̈kdiayaxdix “it will dawn” yuch ̈kdidix “it is getting dawn, it is the time of dawn” itch ̈kdini¬ix “it is trying to dawn” itchukdidix “it is breaking day, it is dawning (this way); it was breaking day, it was dawning” (i)yuchukdix “it dawned” gayuchukdeni¬ix “it (al- ways) dawns (as at six)” chiuchukdˆmidix “he is making it dawn” [Dyk]
+Examples: A©a chi’ iyuchukdix. “Now, eh, it became daylight.”  ̋w ̈nmaba (i)yuchukdix. “At five it became daylight.” [Dyk]
+See also: i-chukdeni¬, i-chukdidix
+
+i-ch ̈ligen [n] fish-hawk
+
+i-ch ̈¬q [n] salmon spear [WTI.1g.2], harpoon spear (complete) [Dyk], pole part of a harpoon [HS 7/21/56]
+Forms: ishch ̈¬q “2 harpoon spears” itch ̈¬q “harpoon spears” [HS 7/21/ 56]
