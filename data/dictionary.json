@@ -202,6 +202,11 @@
     "partOfSpeech": "vb",
     "definition": "put arrow"
   },
+  "-CGI": {
+    "root": "-CGI",
+    "partOfSpeech": "vb",
+    "definition": "lie on one's back"
+  },
   "-bali": {
     "root": "-bali",
     "partOfSpeech": "n",
@@ -337,6 +342,20 @@
     ],
     "seeAlso": [
       "-ch-l-BU"
+    ]
+  },
+  "-l-CGI-ma": {
+    "root": "-l-CGI-ma",
+    "partOfSpeech": "vb",
+    "definition": "cause to lie belly up, lay down belly up",
+    "forms": [
+      {
+        "kiksht": "gacalcgima",
+        "english": "he laid her down belly-up [WTI.2.16]"
+      }
+    ],
+    "seeAlso": [
+      "-xl-CGI"
     ]
   },
   "-s-BNA": {
@@ -507,6 +526,68 @@
       }
     ]
   },
+  "-s-l-CGI": {
+    "root": "-s-l-CGI",
+    "partOfSpeech": "vb",
+    "definition": "lie on one's back",
+    "forms": [
+      {
+        "kiksht": "asenxlcgiya",
+        "english": "I'm going to lie on my back [GT 6/9/99]"
+      },
+      {
+        "kiksht": "snelcgit",
+        "english": "I am lying on my back"
+      },
+      {
+        "kiksht": "snitcgit",
+        "english": "I was lying on my back"
+      },
+      {
+        "kiksht": "sitcgit",
+        "english": "he was lying on his back [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-s-xl-CGI, -s-l-CGI-ma, -s-l- CGI-mit"
+    ]
+  },
+  "-s-l-CGI-ma": {
+    "root": "-s-l-CGI-ma",
+    "partOfSpeech": "vb",
+    "definition": "lay on back",
+    "forms": [
+      {
+        "kiksht": "iksilcgima",
+        "english": "she laid him on his back"
+      },
+      {
+        "kiksht": "gacsilcgima",
+        "english": "he laid him on his back [Dyk]"
+      },
+      {
+        "kiksht": "gacsálcgima",
+        "english": "he laid her on her back [HS 7/4/54]"
+      }
+    ],
+    "seeAlso": [
+      "-s-l-CGI-mit, -s-l-CGI, -s-xl- CGI"
+    ]
+  },
+  "-s-l-CGI-mit": {
+    "root": "-s-l-CGI-mit",
+    "partOfSpeech": "vb",
+    "definition": "lay on back",
+    "forms": [
+      {
+        "kiksht": "iksilcgimit",
+        "english": "she laid him on his back [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-s-l-CGI-ma, -s-l-CGI, -s-xl- CGI"
+    ]
+  },
   "-s-xl-BNA-nan": {
     "root": "-s-xl-BNA-nan",
     "partOfSpeech": "vb",
@@ -546,6 +627,30 @@
         "kiksht": "nisixitbnaunx",
         "english": "he jumped up (once, last week) [Dyk]"
       }
+    ]
+  },
+  "-s-xl-CGI": {
+    "root": "-s-xl-CGI",
+    "partOfSpeech": "vb",
+    "definition": "lie belly up, lay oneself on one's back",
+    "forms": [
+      {
+        "kiksht": "sixelcgít",
+        "english": "he's lying flat on his back [GT 1/12/99]"
+      },
+      {
+        "kiksht": "isixelcgi",
+        "english": "he laid himself on his back [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Kwapt galixaima gasixelcgi iskintwa.",
+        "english": "Then Black Bear lay down, he lay belly up. [WTI.4.14]"
+      }
+    ],
+    "seeAlso": [
+      "-s-l-CGI, -s-l-CGI-ma, -s-l- CGI-mit"
     ]
   },
   "-sh-l-BIXWA": {
@@ -1029,6 +1134,20 @@
     "definition": "pine sapling",
     "seeAlso": [
       "i-chaqwsh"
+    ]
+  },
+  "a-ck'entłex": {
+    "root": "a-ck'entłex",
+    "partOfSpeech": "n",
+    "definition": "fish roe",
+    "examples": [
+      {
+        "kiksht": "ayack'entłex inag̲un",
+        "english": "stur- geon roe [HS 7/21/56]"
+      }
+    ],
+    "seeAlso": [
+      "wi-ck'entłex"
     ]
   },
   "a-cálucalu": {
@@ -8491,6 +8610,60 @@
       }
     ]
   },
+  "cex": {
+    "root": "cex",
+    "partOfSpeech": "part",
+    "definition": "pain sharply, sting",
+    "examples": [
+      {
+        "kiksht": "Cexcéx ichiux.",
+        "english": "He gave him a sharp pain (for instance, with a needle)."
+      },
+      {
+        "kiksht": "Cexcéx ikiax idiapchba.",
+        "english": "His feet are painful, stinging (as from walking on sharp stones). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dacx, saicxcx"
+    ]
+  },
+  "cexcex": {
+    "root": "cexcex",
+    "partOfSpeech": "part",
+    "definition": "split",
+    "examples": [
+      {
+        "kiksht": "Itq'uchu amni cexcex gaqtúx itk'ámunak.",
+        "english": "Trees were split by means of bones [elk antler wedges]. [WTII.5.2]"
+      }
+    ],
+    "seeAlso": [
+      "chex, ch'ex"
+    ]
+  },
+  "ciges": {
+    "root": "ciges",
+    "partOfSpeech": "part",
+    "definition": "sic (a dog)",
+    "examples": [
+      {
+        "kiksht": "Ciges ixa",
+        "english": "Sic him (a dog), make him get after something. [GT 1/13/99]"
+      }
+    ]
+  },
+  "cina": {
+    "root": "cina",
+    "partOfSpeech": "n",
+    "definition": "younger sister!",
+    "notes": [
+      "Used to address a sister smaller than one addressed with aci."
+    ],
+    "seeAlso": [
+      "aci, achi"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -8571,6 +8744,50 @@
         "kiksht": "iyabladax",
         "english": "it[i-] is thick [GT, MMc 6/5/98]"
       }
+    ]
+  },
+  "i- -cgecx": {
+    "root": "i- -cgecx",
+    "partOfSpeech": "adj n",
+    "definition": "short (contemptuous expression)",
+    "forms": [
+      {
+        "kiksht": "imicgecx",
+        "english": "you are short (ex- pressing contempt) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i- -ck'ecx"
+    ]
+  },
+  "i- -ck'ecx": {
+    "root": "i- -ck'ecx",
+    "partOfSpeech": "adj n",
+    "definition": "short",
+    "forms": [
+      {
+        "kiksht": "icck'ecx",
+        "english": "I am short"
+      },
+      {
+        "kiksht": "imick'ecx",
+        "english": "you are short"
+      },
+      {
+        "kiksht": "iyack'ecx",
+        "english": "he is short"
+      },
+      {
+        "kiksht": "ichackecx",
+        "english": "she is short"
+      },
+      {
+        "kiksht": "imicgecx",
+        "english": "you are short (contemptu- ous expression)"
+      }
+    ],
+    "seeAlso": [
+      "i- -chq'ichx, i- -cg§cx"
     ]
   },
   "i- -ánana": {
@@ -8948,6 +9165,14 @@
       "wa-caqws"
     ]
   },
+  "i-cimac": {
+    "root": "i-cimac",
+    "partOfSpeech": "n",
+    "definition": "trout fly",
+    "seeAlso": [
+      "i-chibach, i-shimash"
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -9021,6 +9246,17 @@
     ],
     "seeAlso": [
       "-s-BNA"
+    ]
+  },
+  "is-cikcik": {
+    "root": "is-cikcik",
+    "partOfSpeech": "n",
+    "definition": "small wagon",
+    "notes": [
+      "\"Talking small\" form of is- c'ikc'ik."
+    ],
+    "seeAlso": [
+      "is-c'ikc'ik"
     ]
   },
   "ish-awalptin": {
@@ -9320,6 +9556,20 @@
     ],
     "seeAlso": [
       "Wacáqws, i-chaqwsh, i- caqws"
+    ]
+  },
+  "wi-ck'entłex": {
+    "root": "wi-ck'entłex",
+    "partOfSpeech": "n",
+    "definition": "nit, egg of head louse",
+    "forms": [
+      {
+        "kiksht": "wack'entłex",
+        "english": "nits [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-ck'entłx, -s-n-CK'IAX̲TŁ"
     ]
   },
   "wi-lx": {
