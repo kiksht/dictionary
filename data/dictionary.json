@@ -422,6 +422,21 @@
       "-i-l-BWA-mit, -BU, -BWA"
     ]
   },
+  "-chasdi": {
+    "root": "-chasdi",
+    "partOfSpeech": "n",
+    "definition": "Shasta Indian",
+    "forms": [
+      {
+        "kiksht": "ichasdi",
+        "english": "Shasta man"
+      },
+      {
+        "kiksht": "iłchasdi",
+        "english": "Shasta Indians [GT, MMc 12/30/97]"
+      }
+    ]
+  },
   "-chálimax": {
     "root": "-chálimax",
     "partOfSpeech": "n",
@@ -1793,6 +1808,14 @@
         "kiksht": "iłchaliq",
         "english": "grindstones [PK 7/56]"
       }
+    ]
+  },
+  "a-chaqwsh": {
+    "root": "a-chaqwsh",
+    "partOfSpeech": "n",
+    "definition": "log [Dyk], pine tree [GT 1/14/99]",
+    "seeAlso": [
+      "i-chaqwsh"
     ]
   },
   "a-ck'entłex": {
@@ -9631,12 +9654,133 @@
       "-ch-l-gal-qw"
     ]
   },
+  "chash": {
+    "root": "chash",
+    "partOfSpeech": "part",
+    "definition": "cold",
+    "examples": [
+      {
+        "kiksht": "Chash enkiax.",
+        "english": "I'm cold. [PK 6/29/56]"
+      }
+    ],
+    "notes": [
+      "Refers to cold felt by a per- son."
+    ],
+    "seeAlso": [
+      "ces, aicás"
+    ]
+  },
+  "chashchesh": {
+    "root": "chashchesh",
+    "partOfSpeech": "part",
+    "definition": "nice and cool",
+    "seeAlso": [
+      "chesh"
+    ]
+  },
+  "chawigalaq": {
+    "root": "chawigalaq",
+    "partOfSpeech": "vb",
+    "definition": "they were smolder- ing",
+    "examples": [
+      {
+        "kiksht": "Itq'uchu chawigalaq.",
+        "english": "The bones were smoldering. [WTI.4.6]"
+      }
+    ],
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "chawigwalqwt": {
+    "root": "chawigwalqwt",
+    "partOfSpeech": "vb",
+    "definition": "they are burnt",
+    "examples": [
+      {
+        "kiksht": "chawigwalqwt idiapsh",
+        "english": "his feet are burnt [Bear and Crane N]"
+      }
+    ],
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "chax": {
+    "root": "chax",
+    "partOfSpeech": "part",
+    "definition": "step",
+    "examples": [
+      {
+        "kiksht": "Chax galixux.",
+        "english": "He stepped, took a step."
+      },
+      {
+        "kiksht": "Chaxchax ikiax.",
+        "english": "He is stepping along. [Dyk]"
+      },
+      {
+        "kiksht": "Ag̲a kwapt chax galixux ich'inun k'wab iłchqwá ínadix.",
+        "english": "Now then Eagle stepped across to the other side of the water. [WTI.9.4]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ichaxchax, ish-k'ichax"
+    ]
+  },
+  "chaxelqłix": {
+    "root": "chaxelqłix",
+    "partOfSpeech": "adv",
+    "definition": "winter, wintertime",
+    "seeAlso": [
+      "chaxlłix, cháxelłix"
+    ]
+  },
+  "chaxgwilxł": {
+    "root": "chaxgwilxł",
+    "partOfSpeech": "vb",
+    "definition": "he always throws them[a-] away",
+    "seeAlso": [
+      "-x-GWI-qw"
+    ]
+  },
+  "chaxái": {
+    "root": "chaxái",
+    "partOfSpeech": "part",
+    "definition": "disappear, go out of sight",
+    "examples": [
+      {
+        "kiksht": "Chaxái igixdagwaix.",
+        "english": "He went around out of sight."
+      },
+      {
+        "kiksht": "Dachaxai igilkchuix.",
+        "english": "He fell into it[i-] (a hole) out of sight. [Dyk]"
+      },
+      {
+        "kiksht": "Chaxái gayaldáuixumx.",
+        "english": "It [Coyote's penis] had run right up into her (so that it disappeared). [WTI.1c3]"
+      }
+    ],
+    "seeAlso": [
+      "dachaxai"
+    ]
+  },
   "chałilxam": {
     "root": "chałilxam",
     "partOfSpeech": "num",
     "definition": "ten",
     "notes": [
       "This is the form used with a- prefix nouns. The forms of -łilxam are formed by adding the appropri- ate possessive prefix to the stem."
+    ]
+  },
+  "cháwigalqwt": {
+    "root": "cháwigalqwt",
+    "partOfSpeech": "vb",
+    "definition": "it[it-] burned",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
     ]
   },
   "ciges": {
@@ -10454,6 +10598,20 @@
     "partOfSpeech": "n",
     "definition": "willow grove"
   },
+  "i-chaqwsh": {
+    "root": "i-chaqwsh",
+    "partOfSpeech": "n",
+    "definition": "pine tree, everygreen tree (any variety)",
+    "forms": [
+      {
+        "kiksht": "iłchaqwsh",
+        "english": "pine trees [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-caqws, a-chaqwsh"
+    ]
+  },
   "i-chaqłg̲lit": {
     "root": "i-chaqłg̲lit",
     "partOfSpeech": "n",
@@ -10866,6 +11024,20 @@
       "chagwaix, it-qwłí, it- chaxelqwł"
     ]
   },
+  "it-chaxelqwł": {
+    "root": "it-chaxelqwł",
+    "partOfSpeech": "n",
+    "definition": "winter house",
+    "forms": [
+      {
+        "kiksht": "itchaxlqwłimax",
+        "english": "winter houses"
+      }
+    ],
+    "seeAlso": [
+      "chag̲elqłix, it-qwłí, it- chagwáyaqwł"
+    ]
+  },
   "ił-alakásgwilit": {
     "root": "ił-alakásgwilit",
     "partOfSpeech": "n",
@@ -10881,6 +11053,14 @@
     "root": "ił-báchiu",
     "partOfSpeech": "n",
     "definition": "Indian tobacco"
+  },
+  "ił-chaqwshlit": {
+    "root": "ił-chaqwshlit",
+    "partOfSpeech": "n",
+    "definition": "pine grove",
+    "seeAlso": [
+      "i-chaqwsh"
+    ]
   },
   "ił-clutkix": {
     "root": "ił-clutkix",
