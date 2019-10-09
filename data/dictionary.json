@@ -550,6 +550,273 @@
       }
     ]
   },
+  "-CHXM": {
+    "root": "-CHXM",
+    "partOfSpeech": "vb",
+    "definition": "boil, can",
+    "forms": [
+      {
+        "kiksht": "achiuchxmaya",
+        "english": "he will boil it[i-]"
+      },
+      {
+        "kiksht": "achiuchxmalma",
+        "english": "he will be boiling it[i-]"
+      },
+      {
+        "kiksht": "achitchxmaya",
+        "english": "he will boil it[i-] (distant future)"
+      },
+      {
+        "kiksht": "achitchxmalma",
+        "english": "he will be boiling it[i-] (distant future)"
+      },
+      {
+        "kiksht": "chiuchxmal",
+        "english": "he is boiling it[i-] (includes the la- bor of making the fire, watching the pot, etc.; chuchxmt rejected)"
+      },
+      {
+        "kiksht": "chitchxmal",
+        "english": "he was boiling it[i-]"
+      },
+      {
+        "kiksht": "ichiuchxem",
+        "english": "he boiled it[i-]"
+      },
+      {
+        "kiksht": "ichitchxem",
+        "english": "he boiled it (before com- ing here)"
+      },
+      {
+        "kiksht": "ichiuchxmalemchk",
+        "english": "he boiled it[i-] (several times)"
+      },
+      {
+        "kiksht": "ichtchxmalemchk",
+        "english": "he boiled it[i-] (several times, before coming here)"
+      },
+      {
+        "kiksht": "nachiuchxmaya",
+        "english": "he boiled it[i-]"
+      },
+      {
+        "kiksht": "nachitchxmaya",
+        "english": "he boiled it[i-] (before coming here)"
+      },
+      {
+        "kiksht": "nichiuchxem",
+        "english": "he boiled it[i-] (last season)"
+      },
+      {
+        "kiksht": "nichitchxem",
+        "english": "he boiled it[i-] (last week)"
+      },
+      {
+        "kiksht": "nichiuchxmal",
+        "english": "he was boiling it[i-] (last season)"
+      },
+      {
+        "kiksht": "nichitchxmal",
+        "english": "he was boiling it[i-] (last week)"
+      },
+      {
+        "kiksht": "gachiuchxem",
+        "english": "he boiled it[i-]"
+      },
+      {
+        "kiksht": "gachiuchxmalemchk",
+        "english": "he boiled it[i-] (several times)"
+      },
+      {
+        "kiksht": "gachitchxem",
+        "english": "he boiled it[i-] (last year)"
+      },
+      {
+        "kiksht": "gachitchxmalemchk",
+        "english": "he boiled it[i-] (several times, last year)"
+      },
+      {
+        "kiksht": "gachitchxmal",
+        "english": "he was boiling it[i-] (last year)"
+      },
+      {
+        "kiksht": "ixchxmal",
+        "english": "he is boiling himself"
+      },
+      {
+        "kiksht": "with passive suffixes: mchxemxit!",
+        "english": "become boiled!"
+      },
+      {
+        "kiksht": "yuchxémt",
+        "english": "it[i-] is boiling, being boiled"
+      },
+      {
+        "kiksht": "yuchxémix",
+        "english": "it[i-] is boiled, has been boiled, is done"
+      },
+      {
+        "kiksht": "yuchxemxlit",
+        "english": "it[i-] is being boiled (several things separately, or one thing over and over)"
+      },
+      {
+        "kiksht": "iyuchxemxit",
+        "english": "it[i-] was boiled"
+      },
+      {
+        "kiksht": "nayuchxémxida",
+        "english": "it[i-] was boiled"
+      },
+      {
+        "kiksht": "nayuchxémxlidma",
+        "english": "it was boiled (several things separately, or one thing over and over)"
+      },
+      {
+        "kiksht": "nigitchxémt",
+        "english": "it[i-] was being boiled"
+      },
+      {
+        "kiksht": "nigitchxémix",
+        "english": "it[i-] was boiled, had been boiled"
+      },
+      {
+        "kiksht": "nigitchxemxit",
+        "english": "it[i-] was boiled, be- came boiled"
+      },
+      {
+        "kiksht": "nigitchxemxlit",
+        "english": "it[i-] was being boiled (several things separately, or one thing over and over)"
+      },
+      {
+        "kiksht": "galitchxémt",
+        "english": "it[i-] was being boiled (last year)"
+      },
+      {
+        "kiksht": "galitchxmix",
+        "english": "it[i-] was boiled, done (last year)"
+      },
+      {
+        "kiksht": "galitchxemxit",
+        "english": "it[i-] was boiled (last year)"
+      },
+      {
+        "kiksht": "gayuchxemxit",
+        "english": "it[i-] was boiled"
+      },
+      {
+        "kiksht": "gayuchxemxlit",
+        "english": "they are boiled (regularly)"
+      },
+      {
+        "kiksht": "[Dyk suggests that in the preceding forms",
+        "english": "-t suggests a state of being; -ix a state resulting from preceding action.] with reflexive relational prefix -xl- \"for -self"
+      },
+      {
+        "kiksht": "(the following forms imply an indefinite object [",
+        "english": "something])"
+      },
+      {
+        "kiksht": ": alixelchxmaya",
+        "english": "he will boil"
+      },
+      {
+        "kiksht": "alixelchxmalma",
+        "english": "he will be boiling"
+      },
+      {
+        "kiksht": "alixitchxmaya",
+        "english": "he will boil (distant future)"
+      },
+      {
+        "kiksht": "alixitchxmalma",
+        "english": "he will boil (distant future)"
+      },
+      {
+        "kiksht": "ixelchxmal",
+        "english": "he is boiling"
+      },
+      {
+        "kiksht": "ixelchxemnił",
+        "english": "he is at his job of boiling"
+      },
+      {
+        "kiksht": "ixitchxmal",
+        "english": "he was boiling"
+      },
+      {
+        "kiksht": "igixelchxem",
+        "english": "he boiled"
+      },
+      {
+        "kiksht": "igixelchxmalemchk",
+        "english": "he boiled (sev- eral times, or several things)"
+      },
+      {
+        "kiksht": "igixitchxem",
+        "english": "he boiled (over there)"
+      },
+      {
+        "kiksht": "igixitchxmalemchk",
+        "english": "he boiled (sev- eral times, or several things, over there)"
+      },
+      {
+        "kiksht": "nalixélchxmaya",
+        "english": "he boiled"
+      },
+      {
+        "kiksht": "nilixítchxmaya",
+        "english": "he boiled (over there)"
+      },
+      {
+        "kiksht": "nigixlchxem",
+        "english": "he boiled (last season)"
+      },
+      {
+        "kiksht": "nigixelchxmal",
+        "english": "he was boil- ing (last season)"
+      },
+      {
+        "kiksht": "nixelchxmalemchk",
+        "english": "he boiled (several times, or several things, last season)"
+      },
+      {
+        "kiksht": "nigixitchxem",
+        "english": "he boiled (last week)"
+      },
+      {
+        "kiksht": "nigixitchxmal",
+        "english": "he was boiling (last week)"
+      },
+      {
+        "kiksht": "nixitchxmalemchk",
+        "english": "he boiled (several times, or several things, last week)"
+      },
+      {
+        "kiksht": "galixelchxem",
+        "english": "he boiled"
+      },
+      {
+        "kiksht": "galixelchxmalemchk",
+        "english": "he boiled (sev- eral times, or several things)"
+      },
+      {
+        "kiksht": "galixitchxem",
+        "english": "he boiled (last year)"
+      },
+      {
+        "kiksht": "galixichxmalemchk",
+        "english": "he boiled (sev- eral times, or several things, last year)"
+      },
+      {
+        "kiksht": "galixitchxmal",
+        "english": "he was boiling (last year)"
+      },
+      {
+        "kiksht": "galixelchexmnił",
+        "english": "he boils (regularly, as at his job)"
+      }
+    ]
+  },
   "-CKW'A-id-ix": {
     "root": "-CKW'A-id-ix",
     "partOfSpeech": "vb",
@@ -1768,6 +2035,52 @@
       "-s-l-CGI, -s-l-CGI-ma, -s-l- CGI-mit"
     ]
   },
+  "-sh-k'-CHXI-qw": {
+    "root": "-sh-k'-CHXI-qw",
+    "partOfSpeech": "vb",
+    "definition": "have a nosebleed",
+    "forms": [
+      {
+        "kiksht": "ashnk'íchxig̲wa",
+        "english": "I will have a nosebleed"
+      },
+      {
+        "kiksht": "shik'ichxiqwt",
+        "english": "he has a nosebleed, his nose is bleeding"
+      },
+      {
+        "kiksht": "chik'ichxílq",
+        "english": "he has a nose bleed (continually)"
+      },
+      {
+        "kiksht": "shtk'ichxiqwt",
+        "english": "we 2 (you and I) have a nosebleed"
+      },
+      {
+        "kiksht": "chukw'achxiqwt",
+        "english": "they have a nose- bleed"
+      },
+      {
+        "kiksht": "chik'atchxiqwt",
+        "english": "he was hav- ing a nosebleed"
+      },
+      {
+        "kiksht": "ishnk'ichxiq",
+        "english": "I had a nosebleed"
+      },
+      {
+        "kiksht": "icukw'achxilqumchk",
+        "english": "their noses bled (repeatedly)"
+      },
+      {
+        "kiksht": "anshik'chxig̲wamida",
+        "english": "I will make his nose bleed [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ish-kachxiq"
+    ]
+  },
   "-sh-l-BIXWA": {
     "root": "-sh-l-BIXWA",
     "partOfSpeech": "vb",
@@ -2412,6 +2725,28 @@
     ],
     "notes": [
       "Literally means \"throw (- chim) oneself (-x-) at (-gl-).\" The -m- is omitted before the suffix -ł-."
+    ]
+  },
+  "-x-k'i-CHXENKDA-mit": {
+    "root": "-x-k'i-CHXENKDA-mit",
+    "partOfSpeech": "vb",
+    "definition": "eat be- tween meals, eat snack, eat before going off to work, eat lunch",
+    "forms": [
+      {
+        "kiksht": "emxk'ichxenkdamit!",
+        "english": "eat lunch!"
+      },
+      {
+        "kiksht": "alixk'icxenkdámida",
+        "english": "he's going to eat lunch [PK 7/17/56]"
+      },
+      {
+        "kiksht": "ixk'ícxenkdamalit",
+        "english": "he is eating lunch [Dyk]"
+      }
+    ],
+    "notes": [
+      "This verb appears to have meant originally to eat at other than a set or customary time, and then presumably took on the meaning \"eat lunch\" because Anglo-American \"lunch\" seemed like a \"between- times\" meal to the original Wasco schedule."
     ]
   },
   "-xa-xi-CHU": {
@@ -11780,6 +12115,20 @@
     ],
     "seeAlso": [
       "chxep"
+    ]
+  },
+  "chxep": {
+    "root": "chxep",
+    "partOfSpeech": "part",
+    "definition": "extinguish, put out, make dark",
+    "examples": [
+      {
+        "kiksht": "Chxeb inlłux iłk'iwaxmat.",
+        "english": "I put out the light. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ichxebchxeb, chxab, chxebaingix"
     ]
   },
   "cháwigalqwt": {
