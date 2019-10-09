@@ -1,4 +1,9 @@
 {
+  "(w)a-chixchix": {
+    "root": "(w)a-chixchix",
+    "partOfSpeech": "n",
+    "definition": "elderbush, elder- berries"
+  },
   "- -'adau": {
     "root": "- -'adau",
     "partOfSpeech": "n",
@@ -346,6 +351,82 @@
     "root": "-CHIM",
     "partOfSpeech": "vb",
     "definition": "strike, bump"
+  },
+  "-CHKCH": {
+    "root": "-CHKCH",
+    "partOfSpeech": "vb",
+    "definition": "wash (hands and face) [Dyk], wash (general) [PK; GT, MMc]",
+    "forms": [
+      {
+        "kiksht": "ichkchá!",
+        "english": "wash him!"
+      },
+      {
+        "kiksht": "chiuchkchx",
+        "english": "he has him washed"
+      },
+      {
+        "kiksht": "chiuchkchál",
+        "english": "he is washing him"
+      },
+      {
+        "kiksht": "ichiuchkch",
+        "english": "he washed him"
+      },
+      {
+        "kiksht": "ixchkchal",
+        "english": "he is washing himself"
+      },
+      {
+        "kiksht": "axuchkchal",
+        "english": "she is washing herself"
+      },
+      {
+        "kiksht": "uchkchix",
+        "english": "she is washed"
+      },
+      {
+        "kiksht": "yuchkchix",
+        "english": "he is washed"
+      },
+      {
+        "kiksht": "ik'ichkchal",
+        "english": "he is washing [Dyk]"
+      },
+      {
+        "kiksht": "amuchkcha",
+        "english": "you will wash her [said only of washing her body when she dies]"
+      },
+      {
+        "kiksht": "iuchkchixit",
+        "english": "he has been washed out (said, for instance, of a horse which fell in river and died) [PK 7/17/56]"
+      },
+      {
+        "kiksht": "Emxúchkch!",
+        "english": "Wash!"
+      },
+      {
+        "kiksht": "Emxúchkch(am) idmikshén.",
+        "english": "(Go) wash your hands! [MMc 7/30/96]"
+      }
+    ],
+    "notes": [
+      "Dyk assigns this word the sense of \"wash hands and face;\" but PK (in the 50s) and GT, MMc use it in a general sense, as the forms above show."
+    ],
+    "seeAlso": [
+      "i-k'íchkchal, i-k'íchkchnił"
+    ]
+  },
+  "-CHKM": {
+    "root": "-CHKM",
+    "partOfSpeech": "vb",
+    "definition": "take back",
+    "forms": [
+      {
+        "kiksht": "ichinxchkem",
+        "english": "he took it[i-] back again from me [WTI.10.6]"
+      }
+    ]
   },
   "-CKW'A-id-ix": {
     "root": "-CKW'A-id-ix",
@@ -1694,6 +1775,21 @@
       }
     ]
   },
+  "-ł-xl-CHKCH-kw": {
+    "root": "-ł-xl-CHKCH-kw",
+    "partOfSpeech": "vb",
+    "definition": "wash one's head",
+    "forms": [
+      {
+        "kiksht": "ałenxluchkchagwa",
+        "english": "I'm going to wash my head"
+      },
+      {
+        "kiksht": "łemxelchkchagwa!",
+        "english": "wash your head!"
+      }
+    ]
+  },
   "Agac'ia": {
     "root": "Agac'ia",
     "partOfSpeech": "place",
@@ -2197,6 +2293,11 @@
     "seeAlso": [
       "i-chaqwsh"
     ]
+  },
+  "a-chixchix": {
+    "root": "a-chixchix",
+    "partOfSpeech": "n",
+    "definition": "elderbush limb"
   },
   "a-ck'entłex": {
     "root": "a-ck'entłex",
@@ -10350,12 +10451,100 @@
       }
     ]
   },
+  "chiqwatłqwdix": {
+    "root": "chiqwatłqwdix",
+    "partOfSpeech": "vb",
+    "definition": "he is fastening it[i-]",
+    "seeAlso": [
+      "-QWATŁ-qw"
+    ]
+  },
+  "chiudinax": {
+    "root": "chiudinax",
+    "partOfSpeech": "vb",
+    "definition": "he kills it[i-]",
+    "examples": [
+      {
+        "kiksht": "Kánawi dan chiudinax ixilax.",
+        "english": "He kills everything and eats it. [WTI.4.8]"
+      }
+    ],
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "chiumlál": {
+    "root": "chiumlál",
+    "partOfSpeech": "vb",
+    "definition": "he is buying it[i-]",
+    "seeAlso": [
+      "-MLAL"
+    ]
+  },
+  "chiunułem": {
+    "root": "chiunułem",
+    "partOfSpeech": "vb",
+    "definition": "he is writing it[i-]",
+    "seeAlso": [
+      "-NUŁM"
+    ]
+  },
+  "chiuxdix": {
+    "root": "chiuxdix",
+    "partOfSpeech": "vb",
+    "definition": "he does it[i-] there",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "chiuxt": {
+    "root": "chiuxt",
+    "partOfSpeech": "vb",
+    "definition": "he makes him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "chiuxulal": {
+    "root": "chiuxulal",
+    "partOfSpeech": "vb",
+    "definition": "he is doing it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "chiwat": {
+    "root": "chiwat",
+    "partOfSpeech": "adv",
+    "definition": "enough, to satiety",
+    "notes": [
+      "Possibly borrowed from Sahaptin."
+    ]
+  },
   "chiłlut": {
     "root": "chiłlut",
     "partOfSpeech": "vb",
     "definition": "he gives it[i-] to him[ił-]",
     "seeAlso": [
       "-T"
+    ]
+  },
+  "chken": {
+    "root": "chken",
+    "partOfSpeech": "part",
+    "definition": "dull",
+    "examples": [
+      {
+        "kiksht": "Chken igaxux.",
+        "english": "It (for instance, a single-blade knife) was dull."
+      },
+      {
+        "kiksht": "Chkenchken igaxux.",
+        "english": "It (for instance, a knife with multiple blades) was dull. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "shaichkenchken, dachkanchkan"
     ]
   },
   "cháwigalqwt": {
@@ -11348,6 +11537,14 @@
     "partOfSpeech": "n",
     "definition": "bundle of dried salmon"
   },
+  "i-chiqłgwamat": {
+    "root": "i-chiqłgwamat",
+    "partOfSpeech": "n",
+    "definition": "something that goes across, crosspiece, pole going across, plank going across",
+    "notes": [
+      "Refers specifically to a pole or plank which goes between crossed supports, as on a scaffold."
+    ]
+  },
   "i-cimac": {
     "root": "i-cimac",
     "partOfSpeech": "n",
@@ -11597,6 +11794,17 @@
       {
         "kiksht": "idmibashxilal",
         "english": "you are stupid [Dyk]"
+      }
+    ]
+  },
+  "it- -chiqen": {
+    "root": "it- -chiqen",
+    "partOfSpeech": "adj n",
+    "definition": "old enough to take care of oneself",
+    "forms": [
+      {
+        "kiksht": "idiachiqen",
+        "english": "he is old enough to care for himself [Dyk]"
       }
     ]
   },
@@ -12030,6 +12238,40 @@
         "kiksht": "itchinmax",
         "english": "stumps [DykGr 93]"
       }
+    ]
+  },
+  "wa-chkti": {
+    "root": "wa-chkti",
+    "partOfSpeech": "n",
+    "definition": "grass, hay",
+    "examples": [
+      {
+        "kiksht": "agatiłx wachkti",
+        "english": "lots of grass"
+      },
+      {
+        "kiksht": "Ganilkitk ich'ánk wachkti engi.",
+        "english": "I stuffed the deer with grass."
+      },
+      {
+        "kiksht": "Ganalkitk ich'ankba wachkti.",
+        "english": "I stuffed grass in the deer."
+      },
+      {
+        "kiksht": "Ichuxa wachkti.",
+        "english": "He just cut the grass."
+      },
+      {
+        "kiksht": "Kadux gaguxa wachkti.",
+        "english": "In the morn- ing she fixed the hay."
+      },
+      {
+        "kiksht": "K'aya gaguxa wachkti.",
+        "english": "She didn't make/cut hay. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-shawashchkti"
     ]
   },
   "wa-ck'ún": {
