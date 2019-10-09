@@ -5073,4 +5073,46 @@ Notes: Obviously borrowed from English. The first part may come from “thick,�
 
 
 
+-DI [vb] cut, put around
 
+-l-DI [vb] put around, put on
+Forms: achialdia “he will put it[i-] (for instance, a quilt or blanket) around her” achiaidia “he will put it[i-] around her (distant future)” chialdit “he has it[i-] around her” chialdini¬ “he is putting it[i-] around her” ichialdi “he put it[i-] around her, on her” icildi “he put it[i-] around him, on him” gach¬aldi “he put it around her, on her” ixeldni¬ “he is putting it[i-] around himself” aixeldni¬ “something to put around (for instance, a blanket)” [Dyk] gasixeldi “he put it[ish-] around him- self” [WTI.13.3]
+
+-xi-DI-kw [vb] cut out
+Forms: achiuxˆdigwa “he will cut it[i- ] out” gachiuxˆdikwax “he cut it[i-] out (long ago)” [Dyk]
+
+-DI-pa [vb] cut out, dig out, hollow out
+Forms: chiudipx “he has it[i-] dug out” ichiudiba “he dug it[i-] out” with relational prefix -©l- “out of”: chai©eldilp¬ “he is cutting/digging it[a-] out of it[i-]” ina©eldiba “I dug it[a-] out of it[a-]” ina©idiba “I dug it[a-] out of it[a-] (over there)” inai©eldibaix “I dug it[a-] out of it[i-] (a place)” gachdi©eldibaix “he hol- lowed them out of it[i-] (a place)” [Dyk]
+See also: -T’I-pa
+
+-sh-k-DI-pa [vb] span a bow
+Forms: achshakdiba “he will span it[a-] (a bow, a¬axit)” [Dyk]
+See also: -DI-pa
+
+dˆlwulxdix [vb] they are going up- stream
+See also: -i-l-wulx-tix
+
+-DINA [vb] kill, fight, destroy, war, beat
+Forms: ach¬udˆnaya “he will kill them” ach¬dˆnaya “he will kill them (distant future)” entudinax “I am killing, beating them” en¬udinax “I am killing them/it” chtudinax “he is killing them” ch¬udinax “he is klling them/it” ktudinax “she is killing them” k¬udinax “she is killing them/ it” chiudinat “he has them de- stroyed” ichudina “he killed them/ her” with indefinite object (anti-passive) prefix -k’i: enk’ˆdinax “I am warring, killing” enshk’ˆdinax “we (not in- cluding you) are conquering” ik’ˆdinax “he is killing” ixtk’idinax “he was killing” inshk’ˆdina “we overcame, licked, beat” nixtk’idinax “I was warring, killing (last week)” [Dyk]
+Examples: Saqw’ ichiudina. “He de- stroyed them[i-] all.” [Dyk]
+See also: -x-DINA, -WA-qw, i-k’idinax, i-qadinax
+
+-x-DINA [vb] war, fight, destroy
+Forms: enshxdinax “we (not includ- ing you) are warring” ixdinax “he is destroying, killing” ganxadina “I fought in a war (last year)” galuxwadina “they destroyed each other” galixdˆnamama “he went to war, went to destroy” [Dyk]
+See also: -DINA, i-qadinax, i-k’idinax
+
+i-dinax [n] fighting
+Examples: P’ala galuxwax iqÅdinaxiamt. “They stopped from their fighting.” [WTI.6.1]
+See also: -DINA
+
+a-dindin [n] singing [PK l6/19/56], bell [GT, MMc 6/5/98]
+Forms: i¬dindin “bells” [GT, MMc 6/ 5/98]
+Notes: May refer to longhouse sing- ing, or to bells used in Shaker ser- vices.
+
+dindin [adv] o’clock
+Examples: ya¬ilxam dindin “at ten o’clock” [WTIII.2.1]
+Notes: From English “ding-ding,” representing sound of clock striking.
+
+ish- -dit¬’i [adj n] lying, liar, dishon- est
+Examples: Ich’axwi palalai ishyadit¬’i. “Newspapers are awful liars.” [DH]
+See also: -sh-DITÒ’I

@@ -953,6 +953,133 @@
     "partOfSpeech": "vb",
     "definition": "fall"
   },
+  "-DI": {
+    "root": "-DI",
+    "partOfSpeech": "vb",
+    "definition": "cut, put around"
+  },
+  "-DI-pa": {
+    "root": "-DI-pa",
+    "partOfSpeech": "vb",
+    "definition": "cut out, dig out, hollow out",
+    "forms": [
+      {
+        "kiksht": "chiudipx",
+        "english": "he has it[i-] dug out"
+      },
+      {
+        "kiksht": "ichiudiba",
+        "english": "he dug it[i-] out"
+      },
+      {
+        "kiksht": "with relational prefix -g̲l-",
+        "english": "out of"
+      },
+      {
+        "kiksht": ": chaig̲eldilpł",
+        "english": "he is cutting/digging it[a-] out of it[i-]"
+      },
+      {
+        "kiksht": "inag̲eldiba",
+        "english": "I dug it[a-] out of it[a-]"
+      },
+      {
+        "kiksht": "inag̲idiba",
+        "english": "I dug it[a-] out of it[a-] (over there)"
+      },
+      {
+        "kiksht": "inaig̲eldibaix",
+        "english": "I dug it[a-] out of it[i-] (a place)"
+      },
+      {
+        "kiksht": "gachdig̲eldibaix",
+        "english": "he hol- lowed them out of it[i-] (a place) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-T'I-pa"
+    ]
+  },
+  "-DINA": {
+    "root": "-DINA",
+    "partOfSpeech": "vb",
+    "definition": "kill, fight, destroy, war, beat",
+    "forms": [
+      {
+        "kiksht": "achłudínaya",
+        "english": "he will kill them"
+      },
+      {
+        "kiksht": "achłdínaya",
+        "english": "he will kill them (distant future)"
+      },
+      {
+        "kiksht": "entudinax",
+        "english": "I am killing, beating them"
+      },
+      {
+        "kiksht": "enłudinax",
+        "english": "I am killing them/it"
+      },
+      {
+        "kiksht": "chtudinax",
+        "english": "he is killing them"
+      },
+      {
+        "kiksht": "chłudinax",
+        "english": "he is klling them/it"
+      },
+      {
+        "kiksht": "ktudinax",
+        "english": "she is killing them"
+      },
+      {
+        "kiksht": "kłudinax",
+        "english": "she is killing them/ it"
+      },
+      {
+        "kiksht": "chiudinat",
+        "english": "he has them de- stroyed"
+      },
+      {
+        "kiksht": "ichudina",
+        "english": "he killed them/ her"
+      },
+      {
+        "kiksht": "with indefinite object (anti-passive) prefix -k'i: enk'ídinax",
+        "english": "I am warring, killing"
+      },
+      {
+        "kiksht": "enshk'ídinax",
+        "english": "we (not in- cluding you) are conquering"
+      },
+      {
+        "kiksht": "ik'ídinax",
+        "english": "he is killing"
+      },
+      {
+        "kiksht": "ixtk'idinax",
+        "english": "he was killing"
+      },
+      {
+        "kiksht": "inshk'ídina",
+        "english": "we overcame, licked, beat"
+      },
+      {
+        "kiksht": "nixtk'idinax",
+        "english": "I was warring, killing (last week) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Saqw' ichiudina.",
+        "english": "He de- stroyed them[i-] all. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x-DINA, -WA-qw, i-k'idinax, i-qadinax"
+    ]
+  },
   "-a-gl-CHKW'AYA-mit": {
     "root": "-a-gl-CHKW'AYA-mit",
     "partOfSpeech": "vb",
@@ -2038,6 +2165,53 @@
       }
     ]
   },
+  "-l-DI": {
+    "root": "-l-DI",
+    "partOfSpeech": "vb",
+    "definition": "put around, put on",
+    "forms": [
+      {
+        "kiksht": "achialdia",
+        "english": "he will put it[i-] (for instance, a quilt or blanket) around her"
+      },
+      {
+        "kiksht": "achiaidia",
+        "english": "he will put it[i-] around her (distant future)"
+      },
+      {
+        "kiksht": "chialdit",
+        "english": "he has it[i-] around her"
+      },
+      {
+        "kiksht": "chialdinił",
+        "english": "he is putting it[i-] around her"
+      },
+      {
+        "kiksht": "ichialdi",
+        "english": "he put it[i-] around her, on her"
+      },
+      {
+        "kiksht": "icildi",
+        "english": "he put it[i-] around him, on him"
+      },
+      {
+        "kiksht": "gachłaldi",
+        "english": "he put it around her, on her"
+      },
+      {
+        "kiksht": "ixeldnił",
+        "english": "he is putting it[i-] around himself"
+      },
+      {
+        "kiksht": "aixeldnił",
+        "english": "something to put around (for instance, a blanket) [Dyk]"
+      },
+      {
+        "kiksht": "gasixeldi",
+        "english": "he put it[ish-] around him- self [WTI.13.3]"
+      }
+    ]
+  },
   "-qi-CXA-pa": {
     "root": "-qi-CXA-pa",
     "partOfSpeech": "vb",
@@ -2492,6 +2666,20 @@
     ],
     "seeAlso": [
       "ish-kachxiq"
+    ]
+  },
+  "-sh-k-DI-pa": {
+    "root": "-sh-k-DI-pa",
+    "partOfSpeech": "vb",
+    "definition": "span a bow",
+    "forms": [
+      {
+        "kiksht": "achshakdiba",
+        "english": "he will span it[a-] (a bow, ałaxit) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-DI-pa"
     ]
   },
   "-sh-l-BIXWA": {
@@ -3042,6 +3230,36 @@
       "i-qadabalłx"
     ]
   },
+  "-x-DINA": {
+    "root": "-x-DINA",
+    "partOfSpeech": "vb",
+    "definition": "war, fight, destroy",
+    "forms": [
+      {
+        "kiksht": "enshxdinax",
+        "english": "we (not includ- ing you) are warring"
+      },
+      {
+        "kiksht": "ixdinax",
+        "english": "he is destroying, killing"
+      },
+      {
+        "kiksht": "ganxadina",
+        "english": "I fought in a war (last year)"
+      },
+      {
+        "kiksht": "galuxwadina",
+        "english": "they destroyed each other"
+      },
+      {
+        "kiksht": "galixdínamama",
+        "english": "he went to war, went to destroy [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-DINA, i-qadinax, i-k'idinax"
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -3253,6 +3471,21 @@
     ],
     "seeAlso": [
       "-k-xi-CHU"
+    ]
+  },
+  "-xi-DI-kw": {
+    "root": "-xi-DI-kw",
+    "partOfSpeech": "vb",
+    "definition": "cut out",
+    "forms": [
+      {
+        "kiksht": "achiuxídigwa",
+        "english": "he will cut it[i- ] out"
+      },
+      {
+        "kiksht": "gachiuxídikwax",
+        "english": "he cut it[i-] out (long ago) [Dyk]"
+      }
     ]
   },
   "-xl-CHM-l-it": {
@@ -4091,6 +4324,20 @@
     ],
     "seeAlso": [
       "i-dexdexlit"
+    ]
+  },
+  "a-dindin": {
+    "root": "a-dindin",
+    "partOfSpeech": "n",
+    "definition": "singing [PK l6/19/56], bell [GT, MMc 6/5/98]",
+    "forms": [
+      {
+        "kiksht": "iłdindin",
+        "english": "bells [GT, MMc 6/ 5/98]"
+      }
+    ],
+    "notes": [
+      "May refer to longhouse sing- ing, or to bells used in Shaker ser- vices."
     ]
   },
   "a-g̲agilak": {
@@ -15892,6 +16139,20 @@
       "daba"
     ]
   },
+  "dindin": {
+    "root": "dindin",
+    "partOfSpeech": "adv",
+    "definition": "o'clock",
+    "examples": [
+      {
+        "kiksht": "yałilxam dindin",
+        "english": "at ten o'clock [WTIII.2.1]"
+      }
+    ],
+    "notes": [
+      "From English \"ding-ding,\" representing sound of clock striking."
+    ]
+  },
   "dáminwa": {
     "root": "dáminwa",
     "partOfSpeech": "adv",
@@ -15934,6 +16195,14 @@
     ],
     "seeAlso": [
       "diguchix, dala'ax"
+    ]
+  },
+  "dílwulxdix": {
+    "root": "dílwulxdix",
+    "partOfSpeech": "vb",
+    "definition": "they are going up- stream",
+    "seeAlso": [
+      "-i-l-wulx-tix"
     ]
   },
   "gachawiqłaxit": {
@@ -17287,6 +17556,20 @@
       "a-dexdex"
     ]
   },
+  "i-dinax": {
+    "root": "i-dinax",
+    "partOfSpeech": "n",
+    "definition": "fighting",
+    "examples": [
+      {
+        "kiksht": "P'ala galuxwax iqádinaxiamt.",
+        "english": "They stopped from their fighting. [WTI.6.1]"
+      }
+    ],
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
   "i-dáuapdauap": {
     "root": "i-dáuapdauap",
     "partOfSpeech": "n",
@@ -17420,6 +17703,20 @@
     ],
     "seeAlso": [
       "is-c'ikc'ik"
+    ]
+  },
+  "ish- -ditł'i": {
+    "root": "ish- -ditł'i",
+    "partOfSpeech": "adj n",
+    "definition": "lying, liar, dishon- est",
+    "examples": [
+      {
+        "kiksht": "Ich'axwi palalai ishyaditł'i.",
+        "english": "Newspapers are awful liars. [DH]"
+      }
+    ],
+    "seeAlso": [
+      "-sh-DITŁ'I"
     ]
   },
   "ish-awalptin": {
