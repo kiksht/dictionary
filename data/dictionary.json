@@ -492,6 +492,109 @@
       "-CHA-kw, -l-CHA-kw"
     ]
   },
+  "-k-CHAX̲": {
+    "root": "-k-CHAX̲",
+    "partOfSpeech": "vb",
+    "definition": "cry, cry out, weep",
+    "forms": [
+      {
+        "kiksht": "alakchaxma",
+        "english": "she will cry"
+      },
+      {
+        "kiksht": "alaxchaxma",
+        "english": "she will cry (distant future)"
+      },
+      {
+        "kiksht": "inkchax",
+        "english": "I cried"
+      },
+      {
+        "kiksht": "inxchax",
+        "english": "I just cried (over there)"
+      },
+      {
+        "kiksht": "igixchax",
+        "english": "he just cried (over there)"
+      },
+      {
+        "kiksht": "igikcáx",
+        "english": "he cried ('talking small')"
+      },
+      {
+        "kiksht": "nigikchax",
+        "english": "he cried (last season)"
+      },
+      {
+        "kiksht": "nigixchax",
+        "english": "he cried (last week)"
+      },
+      {
+        "kiksht": "galikcháx",
+        "english": "he cried [Dyk]"
+      },
+      {
+        "kiksht": "with suffix -mam-",
+        "english": "go/come to"
+      },
+      {
+        "kiksht": ": ikchaxmamt",
+        "english": "he is going there to cry"
+      },
+      {
+        "kiksht": "ikcháxmamnił",
+        "english": "he is going there to cry (continually)"
+      },
+      {
+        "kiksht": "inkchaxmam",
+        "english": "I went to cry"
+      },
+      {
+        "kiksht": "inxchaxmam",
+        "english": "I came to cry"
+      },
+      {
+        "kiksht": "nankchaxmama",
+        "english": "I went to cry [Dyk]"
+      },
+      {
+        "kiksht": "with suffix -mit",
+        "english": "cause to"
+      },
+      {
+        "kiksht": ": achiugwicháxmida",
+        "english": "he'll make him weep [PK]"
+      },
+      {
+        "kiksht": "ichigwíchaxmit",
+        "english": "he made him cry"
+      },
+      {
+        "kiksht": "icitgíchaxmit",
+        "english": "he made him cry"
+      },
+      {
+        "kiksht": "chiugwichaxmit",
+        "english": "he is making him cry [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "K'axsh nankchaxma.",
+        "english": "I wanted to cry."
+      },
+      {
+        "kiksht": "K'axsh alikchaxma.",
+        "english": "He wants to cry. [GT, MMc 12/30/ 97]"
+      }
+    ],
+    "notes": [
+      "Not used in present tense, except with suffix -mit."
+    ],
+    "seeAlso": [
+      "-QELQ"
+    ]
+  },
   "-l-CGI-ma": {
     "root": "-l-CGI-ma",
     "partOfSpeech": "vb",
@@ -9710,23 +9813,12 @@
   "chax": {
     "root": "chax",
     "partOfSpeech": "part",
-    "definition": "step",
+    "definition": "fry",
     "examples": [
       {
-        "kiksht": "Chax galixux.",
-        "english": "He stepped, took a step."
-      },
-      {
-        "kiksht": "Chaxchax ikiax.",
-        "english": "He is stepping along. [Dyk]"
-      },
-      {
-        "kiksht": "Ag̲a kwapt chax galixux ich'inun k'wab iłchqwá ínadix.",
-        "english": "Now then Eagle stepped across to the other side of the water. [WTI.9.4]"
+        "kiksht": "Chax guxt asablal iłk'áchaba.",
+        "english": "She is frying bread in grease. [Spilyay/Food2]"
       }
-    ],
-    "seeAlso": [
-      "i-k'ichaxchax, ish-k'ichax"
     ]
   },
   "chaxelqłix": {
@@ -9734,7 +9826,7 @@
     "partOfSpeech": "adv",
     "definition": "winter, wintertime",
     "seeAlso": [
-      "chaxlłix, cháxelłix"
+      "chaxelłix, chag̲elqłix"
     ]
   },
   "chaxgwilxł": {
@@ -9743,6 +9835,14 @@
     "definition": "he always throws them[a-] away",
     "seeAlso": [
       "-x-GWI-qw"
+    ]
+  },
+  "chaximat": {
+    "root": "chaximat",
+    "partOfSpeech": "vb",
+    "definition": "he is putting it[a-] down",
+    "seeAlso": [
+      "-x-IMA"
     ]
   },
   "chaxái": {
@@ -9775,12 +9875,128 @@
       "This is the form used with a- prefix nouns. The forms of -łilxam are formed by adding the appropri- ate possessive prefix to the stem."
     ]
   },
+  "chdigelchił": {
+    "root": "chdigelchił",
+    "partOfSpeech": "vb",
+    "definition": "he is throwing them at him",
+    "seeAlso": [
+      "-CHI"
+    ]
+  },
+  "chduqsht": {
+    "root": "chduqsht",
+    "partOfSpeech": "vb",
+    "definition": "he is biting them",
+    "seeAlso": [
+      "-QSH"
+    ]
+  },
+  "chduxt": {
+    "root": "chduxt",
+    "partOfSpeech": "vb",
+    "definition": "he is making them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "chek": {
+    "root": "chek",
+    "partOfSpeech": "part",
+    "definition": "smear",
+    "examples": [
+      {
+        "kiksht": "Chekchek chialuxt.",
+        "english": "He is smearing it[i-] on her."
+      },
+      {
+        "kiksht": "Chekchek gachdilux idiaq'imshuksh iyaxíwaixiwai.",
+        "english": "He smeared his guts on his spear. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "cek"
+    ]
+  },
+  "chekchek": {
+    "root": "chekchek",
+    "partOfSpeech": "part",
+    "definition": "rub"
+  },
+  "chemgelgat": {
+    "root": "chemgelgat",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] holds you",
+    "examples": [
+      {
+        "kiksht": "Ikaxłelt chi chemgelgat?",
+        "english": "Are you feverish?"
+      },
+      {
+        "kiksht": "(Literally",
+        "english": "Does a fever hold you?) [Spilyay/sick]"
+      }
+    ],
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "chendwad": {
+    "root": "chendwad",
+    "partOfSpeech": "vb",
+    "definition": "he is following me",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "cheqcheq": {
+    "root": "cheqcheq",
+    "partOfSpeech": "part",
+    "definition": "scratchy",
+    "notes": [
+      "Means scratchy as a wool blanket is scratchy."
+    ],
+    "seeAlso": [
+      "wa-cheqcheq"
+    ]
+  },
+  "chesh": {
+    "root": "chesh",
+    "partOfSpeech": "adv",
+    "definition": "cold",
+    "examples": [
+      {
+        "kiksht": "Chesh enkiax.",
+        "english": "I am cold."
+      },
+      {
+        "kiksht": "Chåshchesh enxłxelmax.",
+        "english": "I am eating cold (unheated) food. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ces, dachésh, chashchesh"
+    ]
+  },
   "cháwigalqwt": {
     "root": "cháwigalqwt",
     "partOfSpeech": "vb",
     "definition": "it[it-] burned",
     "seeAlso": [
       "-ch-l-GAL-qw"
+    ]
+  },
+  "cháxelłix": {
+    "root": "cháxelłix",
+    "partOfSpeech": "adv",
+    "definition": "winter",
+    "examples": [
+      {
+        "kiksht": "Cháxelłix aga idít, amxlúx chaxelłixbama amigabu.",
+        "english": "Winter is coming, put on your winter coat. [GT, MMc]"
+      }
+    ],
+    "seeAlso": [
+      "chag̲elqłix, chaxelqłix"
     ]
   },
   "ciges": {
@@ -10628,6 +10844,38 @@
       "i-chaqłg̲lit"
     ]
   },
+  "i-chaxigalalq": {
+    "root": "i-chaxigalalq",
+    "partOfSpeech": "n",
+    "definition": "something flam- mable, something that will burn",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "i-chaxigiqnan": {
+    "root": "i-chaxigiqnan",
+    "partOfSpeech": "n",
+    "definition": "teacher (female)",
+    "seeAlso": [
+      "i-chag̲iqnan, i-yaxig̲iqnan, i- yag̲iqnan, i- -xig̲iqnan, i- -g̲iqnan"
+    ]
+  },
+  "i-chemkał": {
+    "root": "i-chemkał",
+    "partOfSpeech": "n",
+    "definition": "woven basket",
+    "examples": [
+      {
+        "kiksht": "Awikítk idmik'itit ichemkałba.",
+        "english": "Put your clothes in the basket. [Spilyay/KidTalk]"
+      }
+    ]
+  },
+  "i-chentqa": {
+    "root": "i-chentqa",
+    "partOfSpeech": "n",
+    "definition": "scar"
+  },
   "i-cimac": {
     "root": "i-cimac",
     "partOfSpeech": "n",
@@ -11259,6 +11507,35 @@
     ],
     "seeAlso": [
       "Agac'ia"
+    ]
+  },
+  "wa-cheqcheq": {
+    "root": "wa-cheqcheq",
+    "partOfSpeech": "n",
+    "definition": "fireweed",
+    "notes": [
+      "According to a note appar- ently by David French, this refers to any plant with a scratchy, prickly, or sticky quality. Compare cheqcheq \"scratchy.\""
+    ],
+    "seeAlso": [
+      "cheqcheq"
+    ]
+  },
+  "wa-chélx": {
+    "root": "wa-chélx",
+    "partOfSpeech": "n",
+    "definition": "underground lodge, cellar",
+    "forms": [
+      {
+        "kiksht": "ishchélx",
+        "english": "2 cellars"
+      },
+      {
+        "kiksht": "itchelxmax",
+        "english": "cellars [HS 7/21/56]"
+      }
+    ],
+    "notes": [
+      "Originally referred to under- ground lodge, a winter dwelling dug partway into the ground. Now refers to a cellar. [Dyk] What is undoubt- edly the same word is spelled wachélx in Wishram Texts and so pronounced by Gladys Thompson and Madeline McInturff."
     ]
   },
   "wa-ck'ún": {
