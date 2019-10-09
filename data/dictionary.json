@@ -13710,6 +13710,134 @@
       "cmanix"
     ]
   },
+  "dalabláp": {
+    "root": "dalabláp",
+    "partOfSpeech": "part",
+    "definition": "duck underwater, disappear underwater",
+    "examples": [
+      {
+        "kiksht": "Dalabláp yalimałxixit.",
+        "english": "He fell in the water suddenly and out of sight. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "lep, daláp, ailáp, i-k'ileblep"
+    ]
+  },
+  "dalauláu": {
+    "root": "dalauláu",
+    "partOfSpeech": "part",
+    "definition": "cover, cover up, covered up, smooth over, all smoothed over",
+    "examples": [
+      {
+        "kiksht": "Saqw kwulkwul idiapiqba gachixlux... dalauláu gałxúx.",
+        "english": "He sheltered them completely under his wings... they were covered up. [WTI.4.6]"
+      }
+    ],
+    "notes": [
+      "Might be used to describe everything being covered over by snow."
+    ],
+    "seeAlso": [
+      "lau, daláu, ailau"
+    ]
+  },
+  "dalaxwláxw": {
+    "root": "dalaxwláxw",
+    "partOfSpeech": "part",
+    "definition": "slide, slip",
+    "examples": [
+      {
+        "kiksht": "Dalaxwláxw igikdáix.",
+        "english": "Sliding he went over it[i-] (a place), fast; as he went over it, he suddenly started sliding. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "luxlux, sailuxlux, sailuxluxix, laxwlaxw"
+    ]
+  },
+  "daluk'": {
+    "root": "daluk'",
+    "partOfSpeech": "part",
+    "definition": "straight on, upright",
+    "examples": [
+      {
+        "kiksht": "dalúk' ikala",
+        "english": "straight man"
+      },
+      {
+        "kiksht": "dalúk' wixat",
+        "english": "straight road"
+      },
+      {
+        "kiksht": "dalúk' ik'ámunaq",
+        "english": "straight stick"
+      },
+      {
+        "kiksht": "Daluk' iyuya.",
+        "english": "He went straight, upright. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "luk', shailuk', i-giluk'mat"
+    ]
+  },
+  "dalux": {
+    "root": "dalux",
+    "partOfSpeech": "vb",
+    "definition": "make it[a-] be it[it-]!",
+    "examples": [
+      {
+        "kiksht": "Itgałxiwulx dalux amiwawat.",
+        "english": "Make your word strong! [Spilyay/Vote]"
+      }
+    ],
+    "notes": [
+      "Literally \"make (-x) them (d-) for (-l-) it[a-] (-a-).\""
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "daluxt": {
+    "root": "daluxt",
+    "partOfSpeech": "vb",
+    "definition": "it[it-] is in it[a-]",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
+  "daláp": {
+    "root": "daláp",
+    "partOfSpeech": "part",
+    "definition": "duck underwater, dip",
+    "examples": [
+      {
+        "kiksht": "Daláb igixux.",
+        "english": "He ducked himself (quickly)."
+      },
+      {
+        "kiksht": "Daláab igixux.",
+        "english": "He ducked himself (slowly). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "lep, dalabláp, ailáp, i- k'íleblep"
+    ]
+  },
+  "daláu": {
+    "root": "daláu",
+    "partOfSpeech": "part",
+    "definition": "bright",
+    "examples": [
+      {
+        "kiksht": "daláu isxíluqmit",
+        "english": "bright window [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "is-laulau"
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -13722,6 +13850,87 @@
     ],
     "notes": [
       "This is a word for \"this\" usedwith nouns beginning with i-."
+    ]
+  },
+  "dałalix": {
+    "root": "dałalix",
+    "partOfSpeech": "adv",
+    "definition": "(in) dark, (in) darkness",
+    "forms": [
+      {
+        "kiksht": "dałalixba",
+        "english": "in the dark [Dyk]"
+      }
+    ]
+  },
+  "dałamú": {
+    "root": "dałamú",
+    "partOfSpeech": "part",
+    "definition": "die and be lying spread about",
+    "examples": [
+      {
+        "kiksht": "Dałamú iyuxwałait.",
+        "english": "They died and their bodies are lying strewn about. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to death of a popula- tion, as in a plague."
+    ]
+  },
+  "dałau": {
+    "root": "dałau",
+    "partOfSpeech": "part",
+    "definition": "patter of rain",
+    "examples": [
+      {
+        "kiksht": "Dałau shtg̲iłti.",
+        "english": "It is rain- ing with a patter. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łau"
+    ]
+  },
+  "dałál": {
+    "root": "dałál",
+    "partOfSpeech": "part",
+    "definition": "black",
+    "examples": [
+      {
+        "kiksht": "ag̲ulul dałal",
+        "english": "black acorn"
+      },
+      {
+        "kiksht": "dałal itqwłí",
+        "english": "black (painted) house"
+      },
+      {
+        "kiksht": "Dałal ichiux.",
+        "english": "He made a black one of him."
+      },
+      {
+        "kiksht": "Dałál ikiax.",
+        "english": "He is turning black, becoming black."
+      },
+      {
+        "kiksht": "Dałal ikiutan.",
+        "english": "The horse is black."
+      },
+      {
+        "kiksht": "Naika dałal.",
+        "english": "I am black."
+      },
+      {
+        "kiksht": "Dałal ugwakiax.",
+        "english": "It is made, painted black. [Dyk]"
+      },
+      {
+        "kiksht": "dałál itk'itit",
+        "english": "black clothes, mourning clothes [AF 3/1/53]"
+      }
+    ],
+    "seeAlso": [
+      "shaiłál, łil, shaiłal, i- -łlumit, i-dałal"
     ]
   },
   "gachawiqłaxit": {
@@ -15012,6 +15221,26 @@
     ],
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "i-dalal": {
+    "root": "i-dalal",
+    "partOfSpeech": "n",
+    "definition": "moving fast, going fast",
+    "forms": [
+      {
+        "kiksht": "iyadalal",
+        "english": "he is a fast mover [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "iyadalal ikíutan",
+        "english": "race horse [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ta"
     ]
   },
   "i-k'ámunaq": {

@@ -4403,3 +4403,65 @@ Examples: Dala’ax a¬dia kadux alma. “Maybe he’ll come tomorrow.” Dala�
 dala’ax [part] put something over on, deceive
 Examples: Dala’ax inxux. “I put one over on myself (for instance, by say- ing something I shouldn’t have).” [Dyk]
 See also: ailÅx, laxlax, la’ax, i-k’ila’ax
+
+
+
+
+
+
+dalablÅp [part] duck underwater, disappear underwater
+Examples: DalablÅp yalima¬xixit. “He fell in the water suddenly and out of sight.” [Dyk]
+See also: lep, dalÅp, ailÅp, i-k’ileblep
+
+i-dalal [n] moving fast, going fast
+Forms: iyadalal “he is a fast mover” [Dyk]
+Examples: iyadalal ikˆutan “race horse” [Dyk]
+See also: -ta
+
+dalÅp [part] duck underwater, dip
+Examples: DalÅb igixux. “He ducked himself (quickly).” DalÅab igixux. “He ducked himself (slowly).” [Dyk]
+See also: lep, dalablÅp, ailÅp, i- k’ˆleblep
+
+dalÅu [part] furry, fuzzy, cloudy
+Examples: DalÅu igushax. “It’s cloudy.” [lit. “fuzzy sky”]
+See also: lau
+
+dalÅu [part] bright
+Examples: dalÅu isxˆluqmit “bright window” [Dyk]
+See also: is-laulau
+
+dalaulÅu [part] cover, cover up, covered up, smooth over, all smoothed over
+Examples: Saqw kwulkwul idiapiqba gachixlux... dalaulÅu ga¬x ̈x. “ He sheltered them completely under his wings... they were covered up.” [WTI.4.6]
+Notes: Might be used to describe everything being covered over by snow.
+See also: lau, dalÅu, ailau
+
+dalaxwlÅxw [part] slide, slip
+Examples: DalaxwlÅxw igikdÅix. “Sliding he went over it[i-] (a place), fast; as he went over it, he suddenly started sliding.” [Dyk]
+See also: luxlux, sailuxlux, sailuxluxix, laxwlaxw
+
+daluk’ [part] straight on, upright
+Examples: dal ̈k’ ikala “straight man” dal ̈k’ wixat “straight road” dal ̈k’ ik’Åmunaq “straight stick” Daluk’ iyuya. “He went straight, upright.” [Dyk]
+See also: luk’, shailuk’, i-giluk’mat
+
+dalux [vb] make it[a-] be it[it-]!
+Examples: Itga¬xiwulx dalux amiwawat. “Make your word strong!” [Spilyay/Vote]
+Notes: Literally “make (-x) them (d-) for (-l-) it[a-] (-a-).”
+See also: - ̨
+
+daluxt [vb] it[it-] is in it[a-]
+See also: - ̨T
+
+da¬Ål [part] black
+Examples: a©ulul da¬al “black acorn” da¬al itqw¬ˆ “black (painted) house” Da¬al ichiux. “He made a black one of him.” Da¬Ål ikiax. “He is turning black, becoming black.” Da¬al ikiutan. “The horse is black.” Naika da¬al. “I am black.” Da¬al ugwakiax. “It is made, painted black.” [Dyk] da¬Ål itk’itit “black clothes, mourning clothes” [AF 3/1/53]
+See also: shai¬Ål, ¬il, shai¬al, i- -¬lumit, i-da¬al
+
+da¬alix [adv] (in) dark, (in) darkness
+Forms: da¬alixba “in the dark” [Dyk]
+
+da¬am ̈ [part] die and be lying spread about
+Examples: Da¬am ̈ iyuxwa¬ait. “They died and their bodies are lying strewn about.” [Dyk]
+Notes: Refers to death of a popula- tion, as in a plague.
+
+da¬au [part] patter of rain
+Examples: Da¬au sht©i¬ti. “It is rain- ing with a patter.” [Dyk]
+See also: ¬au
