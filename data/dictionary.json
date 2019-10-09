@@ -349,6 +349,105 @@
       "-chg̲a-it, i-chg̲alit"
     ]
   },
+  "-CH'I": {
+    "root": "-CH'I",
+    "partOfSpeech": "vb",
+    "definition": "put (across)"
+  },
+  "-CH'I-qłkw": {
+    "root": "-CH'I-qłkw",
+    "partOfSpeech": "vb",
+    "definition": "put crosswise, put across",
+    "forms": [
+      {
+        "kiksht": "chiuch'iqłkwt",
+        "english": "he has it[i-] put crosswise"
+      },
+      {
+        "kiksht": "igich'ilqłk",
+        "english": "he is criss- crossing (something)"
+      },
+      {
+        "kiksht": "with relational prefix -k-",
+        "english": "on"
+      },
+      {
+        "kiksht": ": aqdakch'iqłgwa",
+        "english": "someone will put them across on it[a-], they will be put across on it"
+      },
+      {
+        "kiksht": "chiakch'iqłkwt",
+        "english": "he has it[i-] put crosswise on it[a-] [Dyk]"
+      },
+      {
+        "kiksht": "with relational prefix -l-",
+        "english": "in"
+      },
+      {
+        "kiksht": ": ilch'iqłgwix!",
+        "english": "put it crosswise in it[i- ]! [PK 7/17/56]"
+      },
+      {
+        "kiksht": "ciselc'iqłkwt",
+        "english": "he has it[i-] put crosswise in them"
+      },
+      {
+        "kiksht": "(talk- ing small) chdalch'iuqłkwt",
+        "english": "he has them (each one individually) put crosswise in it[a-]"
+      },
+      {
+        "kiksht": "chdalch'iulqłk",
+        "english": "he is putting them (each one indi- vidually) crosswise in it[a-]"
+      },
+      {
+        "kiksht": "chdalch'ilqłk",
+        "english": "he is putting them crosswise in it[a-]"
+      },
+      {
+        "kiksht": "adilch'íqłgulidmayaxdix",
+        "english": "they will all become crisscrossed in it[i-] (a place)"
+      },
+      {
+        "kiksht": "dilch'íqłgulidix",
+        "english": "they are becoming crosswise in it[i-] (a place)"
+      },
+      {
+        "kiksht": "dilch'íqłguxlidix",
+        "english": "they are being put crosswise in it[i-] (a place)"
+      },
+      {
+        "kiksht": "dilch'iqłkuxix",
+        "english": "they have been put crosswise in it[i-] (a place)"
+      },
+      {
+        "kiksht": "dilch'iqłkwdix",
+        "english": "they are crosswise in it[i-] (a place)"
+      },
+      {
+        "kiksht": "(might imply that they fall that way) iyalch'íqłkwit",
+        "english": "it[i-] became crossed in it[a-]"
+      },
+      {
+        "kiksht": "iyalch'íqłkuxit",
+        "english": "it[i-] was put cross- wise in it[a-]"
+      },
+      {
+        "kiksht": "with reflexive relational prefix -xl-",
+        "english": "in -self"
+      },
+      {
+        "kiksht": ": shaxelch'iqłkwt",
+        "english": "she has them 2 crossed in herself"
+      },
+      {
+        "kiksht": "shxelch'iqłkwt",
+        "english": "they 2 are crisscrossed in each other [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x-CH'I-qłkw, ch'iqłkamt"
+    ]
+  },
   "-CHA-kw": {
     "root": "-CHA-kw",
     "partOfSpeech": "vb",
@@ -1019,6 +1118,54 @@
         "kiksht": "itchi'inagwigwi",
         "english": "meadowlarks [GT, MMc 6/3-5/98]"
       }
+    ]
+  },
+  "-ch'inun": {
+    "root": "-ch'inun",
+    "partOfSpeech": "n",
+    "definition": "eagle",
+    "forms": [
+      {
+        "kiksht": "ich'inun",
+        "english": "(male) eagle"
+      },
+      {
+        "kiksht": "ach'inun",
+        "english": "(female) eagle"
+      },
+      {
+        "kiksht": "ich'inunksh",
+        "english": "eagles [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i- -ch'inung§ch, i-c'inun"
+    ]
+  },
+  "-ch'iqch'iq": {
+    "root": "-ch'iqch'iq",
+    "partOfSpeech": "n",
+    "definition": "bald eagle",
+    "forms": [
+      {
+        "kiksht": "ich'iqch'iq",
+        "english": "(male) bald eagle"
+      },
+      {
+        "kiksht": "ach'iqch'iq",
+        "english": "(female) bald eagle [Dyk]"
+      },
+      {
+        "kiksht": "ishch'iqch'iq",
+        "english": "2 bald eagles [HS 7/21/56]"
+      },
+      {
+        "kiksht": "itch'iqchiquksh",
+        "english": "bald eagles [DykGr 110]"
+      }
+    ],
+    "seeAlso": [
+      "ch'iqch'iq, ishch'iq"
     ]
   },
   "-ch'ánk": {
@@ -11577,6 +11724,34 @@
       "chk'aya, ch'k'aya"
     ]
   },
+  "ch'iqch'iq": {
+    "root": "ch'iqch'iq",
+    "partOfSpeech": "part",
+    "definition": "squeal",
+    "examples": [
+      {
+        "kiksht": "Ch'iqch'iq shixelgiłxal.",
+        "english": "He is squealing, crying in squeals. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ish-ch'iq, -ch'iqch'iq"
+    ]
+  },
+  "ch'iqłkamt": {
+    "root": "ch'iqłkamt",
+    "partOfSpeech": "adv",
+    "definition": "across",
+    "examples": [
+      {
+        "kiksht": "Asemxlutka ch'iqłkamt gigád.",
+        "english": "You will look across this way. [WTII.10.2]"
+      }
+    ],
+    "seeAlso": [
+      "-CH'I-qłkw"
+    ]
+  },
   "ch'á'amdiamt": {
     "root": "ch'á'amdiamt",
     "partOfSpeech": "adv",
@@ -12860,6 +13035,20 @@
       "i- -ck'ecx"
     ]
   },
+  "i- -ch'inungech": {
+    "root": "i- -ch'inungech",
+    "partOfSpeech": "adj n",
+    "definition": "eagle-nosed, hook-nosed",
+    "forms": [
+      {
+        "kiksht": "imich'inungech",
+        "english": "you are eagle-nosed [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ch'inun, i-géch"
+    ]
+  },
   "i- -ch'íbumit": {
     "root": "i- -ch'íbumit",
     "partOfSpeech": "adj n",
@@ -13533,6 +13722,28 @@
       "dach'ip, i- -ch'ibumit, i- ch'iptan"
     ]
   },
+  "i-ch'iptan": {
+    "root": "i-ch'iptan",
+    "partOfSpeech": "n",
+    "definition": "zebra",
+    "notes": [
+      "Coined by PK from dach'ip \"striped\" and ikíutan \"horse.\" A few days earlier he had coined the word ich'ibumit for \"zebra.\""
+    ],
+    "seeAlso": [
+      "dach'ip, -kíutan, i-ch'ibumit"
+    ]
+  },
+  "i-ch'iqłgwamat": {
+    "root": "i-ch'iqłgwamat",
+    "partOfSpeech": "n",
+    "definition": "cross-piece, any- thing that goes across, cause of anger",
+    "notes": [
+      "May be used literally of a cross-piece in construction or elsehwere, or figuratively of some- thing that makes a person angry when it \"crosses\" her or his mind."
+    ],
+    "seeAlso": [
+      "-CH'I-qłkw"
+    ]
+  },
   "i-ch'áxiu": {
     "root": "i-ch'áxiu",
     "partOfSpeech": "n",
@@ -14031,6 +14242,26 @@
     "definition": "woman's pants, bloomers",
     "notes": [
       "Borrowed from English. -BNA jump"
+    ]
+  },
+  "ish-ch'iq": {
+    "root": "ish-ch'iq",
+    "partOfSpeech": "n",
+    "definition": "squeal, squealing",
+    "forms": [
+      {
+        "kiksht": "ishiach'íq",
+        "english": "he is a squealer [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Inshxchmáq ishch'íq.",
+        "english": "I heard a squeal. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ch'iqch'iq, -ch'iqch'iq"
     ]
   },
   "ishktälgwipchk": {

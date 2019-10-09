@@ -4104,3 +4104,47 @@ See also: i-sint¬’axt¬’ax
 
 -ch’inagwigwi [n] lark [Dyk], mead- owlark [Spilyay; GT, MMc 6/3-5/98]
 Forms: ich’inagwigwi “(male) lark” ach’inagwigwi “(female) lark” [Dyk] ishch’inagwigwi [HS 6/20/51] itch’inagwigwiyuksh “larks” [Dyk] a- ch’inagwigwi “meadowlark” itchi’inagwigwi “meadowlarks” [GT, MMc 6/3-5/98]
+
+
+
+
+
+
+-ch’inun [n] eagle
+Forms: ich’inun “(male) eagle” ach’inun “(female) eagle” ich’inunksh “eagles” [Dyk]
+See also: i- -ch’inung§ch, i-c’inun
+
+i- -ch’inungech [adj n] eagle-nosed, hook-nosed
+Forms: imich’inungech “you are eagle-nosed” [Dyk]
+See also: -ch’inun, i-géch
+
+i-ch’iptan [n] zebra
+Notes: Coined by PK from dach’ip “striped” and ikˆutan “horse.” A few days earlier he had coined the word ich’ibumit for “zebra.”
+See also: dach’ip, -kˆutan, i-ch’ibumit
+
+ish-ch’iq [n] squeal, squealing
+Forms: ishiach’ˆq “he is a squealer” [Dyk]
+Examples: InshxchmÅq ishch’ˆq. “I heard a squeal.” [Dyk]
+See also: ch’iqch’iq, -ch’iqch’iq
+
+-ch’iqch’iq [n] bald eagle
+Forms: ich’iqch’iq “(male) bald eagle” ach’iqch’iq “(female) bald eagle” [Dyk] ishch’iqch’iq “2 bald eagles” [HS 7/21/56] itch’iqchiquksh “bald eagles” [DykGr 110]
+See also: ch’iqch’iq, ishch’iq
+
+ch’iqch’iq [part] squeal
+Examples: Ch’iqch’iq shixelgi¬xal. “He is squealing, crying in squeals.” [Dyk]
+See also: ish-ch’iq, -ch’iqch’iq
+
+i-ch’iq¬gwamat [n] cross-piece, any- thing that goes across, cause of anger
+Notes: May be used literally of a cross-piece in construction or elsehwere, or figuratively of some- thing that makes a person angry when it “crosses” her or his mind.
+See also: -CH’I-q¬kw
+
+ch’iq¬kamt [adv] across
+Examples: Asemxlutka ch’iq¬kamt gigÅd. “You will look across this way.” [WTII.10.2]
+See also: -CH’I-q¬kw
+
+-CH’I [vb] put (across)
+
+-CH’I-q¬kw [vb] put crosswise, put across
+Forms: chiuch’iq¬kwt “he has it[i-] put crosswise” igich’ilq¬k “he is criss- crossing (something)” with relational prefix -k- “on”: aqdakch’iq¬gwa “someone will put them across on it[a-], they will be put across on it” chiakch’iq¬kwt “he has it[i-] put crosswise on it[a-]” [Dyk] with relational prefix -l- “in”: ilch’iq¬gwix! “put it crosswise in it[i- ]!” [PK 7/17/56] ciselc’iq¬kwt “he has it[i-] put crosswise in them” (talk- ing small) chdalch’iuq¬kwt “he has them (each one individually) put crosswise in it[a-]” chdalch’iulq¬k “he is putting them (each one indi- vidually) crosswise in it[a-]” chdalch’ilq¬k “he is putting them crosswise in it[a-]” adilch’ˆq¬gulidmayaxdix “they will all become crisscrossed in it[i-] (a place)” dilch’ˆq¬gulidix “they are becoming crosswise in it[i-] (a place)” dilch’ˆq¬guxlidix “they are being put crosswise in it[i-] (a place)” dilch’iq¬kuxix “they have been put crosswise in it[i-] (a place)” dilch’iq¬kwdix “they are crosswise in it[i-] (a place)” (might imply that they fall that way) iyalch’ˆq¬kwit “it[i-] became crossed in it[a-]” iyalch’ˆq¬kuxit “it[i-] was put cross- wise in it[a-]” with reflexive relational prefix -xl- “in -self”: shaxelch’iq¬kwt “she has them 2 crossed in herself” shxelch’iq¬kwt “they 2 are crisscrossed in each other” [Dyk]
+See also: -x-CH’I-q¬kw, ch’iq¬kamt
