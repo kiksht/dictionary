@@ -3650,3 +3650,39 @@ Forms: ichinxchkem “he took it[i-] back again from me” [WTI.10.6]
 wa-chkti [n] grass, hay
 Examples: agati¬x wachkti “lots of grass” Ganilkitk ich’Ånk wachkti engi. “I stuffed the deer with grass.” Ganalkitk ich’ankba wachkti. “I stuffed grass in the deer.” Ichuxa wachkti. “He just cut the grass.” Kadux gaguxa wachkti. “In the morn- ing she fixed the hay.” K’aya gaguxa wachkti. “She didn’t make/cut hay.” [Dyk]
 See also: a-shawashchkti
+
+
+
+
+
+
+chk’ak [part] chew
+Examples: Chk’akchk’ak nkiax. “I am chewing.” Chk’akchk’ak chiuxt. “He is chewing it[i-].” [Dyk] Chk’akchk’ak achiuxwa ich’Ånk iyap’askwal. “The deer will chew his hide.” [WTI.4.24] Yaxi isk’ulya ch’x gachuxwa apxadit agaq’apchxaq; chk’akchk’ak gachuxwa. “Over there Coyote split apxadit bark; he chewed it.” [WTI.1c5]
+
+chk’ayÅ [part] silent, quiet
+Examples: Chk’ayÅ ikiax. “He is si- lent, quiet.” Chk’ayÅchk’aya ichiux. “He made him silent.” [Dyk] Chk’aya! “Be quiet!” Chk’aya emshx ̈x! “Be quiet!” [GT/MMc 1/12/ 99]
+Notes: Ch’k’ayÅ and chk’ayÅ are both acceptable, without difference in meaning. [Dyk, PK] They are prob- ably derived from ch’i k’aya “no noise, no answer, quiet.” [Dyk]
+See also: ch’k’ayÅ
+
+(w)a-chk’én [n] shoulder
+Forms: ishchk’n “2 shoulders” idnshachk’nmax “our shoulders” achk’n “little shoulder” [Dyk]
+
+chk’sh [part] bend over, stoop [Dyk], bend one’s head down [HS 7/15/51]
+Examples: Chk’sh enkiax. “I am stooping.” [Dyk]
+
+-ki-CHKWA-mit [vb] threaten to hit, threaten with fist
+Forms: nichngichkwamit “he threat- ened to hit me” [GT, MMc 6/4/98]
+See also: ish-kichkw’Åmalit
+
+-x-CHKWT [vb] trap
+Forms: gadix ̈chkwt “he trapped them” [WTI.13.3]
+See also: -x-ckwt
+
+-CHKW’A [vb] move to one side, move side to side; make jump to one side, make jump from side to side, make turn from side to side, make turn aside, make dash from side to side, make dash about
+Forms: chiuchkw’at “he is making him jump to one side” chiuchkw’anan “he is making him dash about” yuchkw’at “he has been made to jump to one side” yuchkw’axlit “he is being made to jump/turn from side to side” iyuchkw’axit “he was made to turn aside” igichkw’anan “he is making something jump from side to side” with relational prefixes: chiagenchkw’anan “his making him jump from side to side toward/for her” chialchkw’anan “he makding him jump from side to side in it[a-]” [Dyk]
+Notes: This verb may refer to sudden flights of birds, to rabbits dashing out on one side of the road sense- lessly or from fright, etc.
+See also: i-qachkw’anan
+
+-x-CHKW’A [vb] jump to one side, jump from side to side, dash from side to side, dash back and forth, turn from side to side, turn aside
+Forms: emxchkw’Ånanmchk! “dodge around, zig around!” [PK] axchkw’anan “she is dashing back and forth, jumping from side to side” nigixchkw’a “he jumped from side to side (last season)” nigixatchkw’a “he jumped from side to side (last week)” galixchkw’Ånanemchk “he dashed from side to side, kept on dashing from side to side” with relational prefix -x- “from”: ixanxchkw’agwax “he is dashing from side to side from me” yaxaxchkw’agwax “he is dashing from side to side from her” [Dyk] galixchkw’ananemx “he kept dodging from side to side” [WTI.1d.4]
+See also: i-qachkw’anan

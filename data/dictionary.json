@@ -4,6 +4,25 @@
     "partOfSpeech": "n",
     "definition": "elderbush, elder- berries"
   },
+  "(w)a-chk'én": {
+    "root": "(w)a-chk'én",
+    "partOfSpeech": "n",
+    "definition": "shoulder",
+    "forms": [
+      {
+        "kiksht": "ishchk'n",
+        "english": "2 shoulders"
+      },
+      {
+        "kiksht": "idnshachk'nmax",
+        "english": "our shoulders"
+      },
+      {
+        "kiksht": "achk'n",
+        "english": "little shoulder [Dyk]"
+      }
+    ]
+  },
   "- -'adau": {
     "root": "- -'adau",
     "partOfSpeech": "n",
@@ -426,6 +445,51 @@
         "kiksht": "ichinxchkem",
         "english": "he took it[i-] back again from me [WTI.10.6]"
       }
+    ]
+  },
+  "-CHKW'A": {
+    "root": "-CHKW'A",
+    "partOfSpeech": "vb",
+    "definition": "move to one side, move side to side; make jump to one side, make jump from side to side, make turn from side to side, make turn aside, make dash from side to side, make dash about",
+    "forms": [
+      {
+        "kiksht": "chiuchkw'at",
+        "english": "he is making him jump to one side"
+      },
+      {
+        "kiksht": "chiuchkw'anan",
+        "english": "he is making him dash about"
+      },
+      {
+        "kiksht": "yuchkw'at",
+        "english": "he has been made to jump to one side"
+      },
+      {
+        "kiksht": "yuchkw'axlit",
+        "english": "he is being made to jump/turn from side to side"
+      },
+      {
+        "kiksht": "iyuchkw'axit",
+        "english": "he was made to turn aside"
+      },
+      {
+        "kiksht": "igichkw'anan",
+        "english": "he is making something jump from side to side"
+      },
+      {
+        "kiksht": "with relational prefixes: chiagenchkw'anan",
+        "english": "his making him jump from side to side toward/for her"
+      },
+      {
+        "kiksht": "chialchkw'anan",
+        "english": "he makding him jump from side to side in it[a-] [Dyk]"
+      }
+    ],
+    "notes": [
+      "This verb may refer to sudden flights of birds, to rabbits dashing out on one side of the road sense- lessly or from fright, etc."
+    ],
+    "seeAlso": [
+      "i-qachkw'anan"
     ]
   },
   "-CKW'A-id-ix": {
@@ -897,6 +961,20 @@
     ],
     "seeAlso": [
       "-QELQ"
+    ]
+  },
+  "-ki-CHKWA-mit": {
+    "root": "-ki-CHKWA-mit",
+    "partOfSpeech": "vb",
+    "definition": "threaten to hit, threaten with fist",
+    "forms": [
+      {
+        "kiksht": "nichngichkwamit",
+        "english": "he threat- ened to hit me [GT, MMc 6/4/98]"
+      }
+    ],
+    "seeAlso": [
+      "ish-kichkw'ámalit"
     ]
   },
   "-l-CGI-ma": {
@@ -1568,6 +1646,66 @@
     ],
     "seeAlso": [
       "i-k'ixacha, i-k'ixachalal"
+    ]
+  },
+  "-x-CHKW'A": {
+    "root": "-x-CHKW'A",
+    "partOfSpeech": "vb",
+    "definition": "jump to one side, jump from side to side, dash from side to side, dash back and forth, turn from side to side, turn aside",
+    "forms": [
+      {
+        "kiksht": "emxchkw'ánanmchk!",
+        "english": "dodge around, zig around! [PK]"
+      },
+      {
+        "kiksht": "axchkw'anan",
+        "english": "she is dashing back and forth, jumping from side to side"
+      },
+      {
+        "kiksht": "nigixchkw'a",
+        "english": "he jumped from side to side (last season)"
+      },
+      {
+        "kiksht": "nigixatchkw'a",
+        "english": "he jumped from side to side (last week)"
+      },
+      {
+        "kiksht": "galixchkw'ánanemchk",
+        "english": "he dashed from side to side, kept on dashing from side to side"
+      },
+      {
+        "kiksht": "with relational prefix -x-",
+        "english": "from"
+      },
+      {
+        "kiksht": ": ixanxchkw'agwax",
+        "english": "he is dashing from side to side from me"
+      },
+      {
+        "kiksht": "yaxaxchkw'agwax",
+        "english": "he is dashing from side to side from her [Dyk]"
+      },
+      {
+        "kiksht": "galixchkw'ananemx",
+        "english": "he kept dodging from side to side [WTI.1d.4]"
+      }
+    ],
+    "seeAlso": [
+      "i-qachkw'anan"
+    ]
+  },
+  "-x-CHKWT": {
+    "root": "-x-CHKWT",
+    "partOfSpeech": "vb",
+    "definition": "trap",
+    "forms": [
+      {
+        "kiksht": "gadixúchkwt",
+        "english": "he trapped them [WTI.13.3]"
+      }
+    ],
+    "seeAlso": [
+      "-x-ckwt"
     ]
   },
   "-x-CKWT": {
@@ -10527,6 +10665,69 @@
     "definition": "he gives it[i-] to him[ił-]",
     "seeAlso": [
       "-T"
+    ]
+  },
+  "chk'ak": {
+    "root": "chk'ak",
+    "partOfSpeech": "part",
+    "definition": "chew",
+    "examples": [
+      {
+        "kiksht": "Chk'akchk'ak nkiax.",
+        "english": "I am chewing."
+      },
+      {
+        "kiksht": "Chk'akchk'ak chiuxt.",
+        "english": "He is chewing it[i-]. [Dyk]"
+      },
+      {
+        "kiksht": "Chk'akchk'ak achiuxwa ich'ánk iyap'askwal.",
+        "english": "The deer will chew his hide. [WTI.4.24]"
+      },
+      {
+        "kiksht": "Yaxi isk'ulya ch'x gachuxwa apxadit agaq'apchxaq; chk'akchk'ak gachuxwa.",
+        "english": "Over there Coyote split apxadit bark; he chewed it. [WTI.1c5]"
+      }
+    ]
+  },
+  "chk'ayá": {
+    "root": "chk'ayá",
+    "partOfSpeech": "part",
+    "definition": "silent, quiet",
+    "examples": [
+      {
+        "kiksht": "Chk'ayá ikiax.",
+        "english": "He is si- lent, quiet."
+      },
+      {
+        "kiksht": "Chk'ayáchk'aya ichiux.",
+        "english": "He made him silent. [Dyk]"
+      },
+      {
+        "kiksht": "Chk'aya!",
+        "english": "Be quiet!"
+      },
+      {
+        "kiksht": "Chk'aya emshxúx!",
+        "english": "Be quiet! [GT/MMc 1/12/ 99]"
+      }
+    ],
+    "notes": [
+      "Ch'k'ayá and chk'ayá are both acceptable, without difference in meaning. [Dyk, PK] They are prob- ably derived from ch'i k'aya \"no noise, no answer, quiet.\" [Dyk]"
+    ],
+    "seeAlso": [
+      "ch'k'ayá"
+    ]
+  },
+  "chk'sh": {
+    "root": "chk'sh",
+    "partOfSpeech": "part",
+    "definition": "bend over, stoop [Dyk], bend one's head down [HS 7/15/51]",
+    "examples": [
+      {
+        "kiksht": "Chk'sh enkiax.",
+        "english": "I am stooping. [Dyk]"
+      }
     ]
   },
   "chken": {
