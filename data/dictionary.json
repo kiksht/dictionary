@@ -965,6 +965,62 @@
     "definition": "old dance intro- duced from the east",
     "forms": []
   },
+  "-ch'ilaq": {
+    "root": "-ch'ilaq",
+    "partOfSpeech": "n",
+    "definition": "grasshopper",
+    "forms": [
+      {
+        "kiksht": "ich'ilaq",
+        "english": "(male) grasshopper"
+      },
+      {
+        "kiksht": "ach'ilaq",
+        "english": "(female) grasshopper"
+      },
+      {
+        "kiksht": "itch'ilaq/itch'ilaquksh",
+        "english": "grasshop- pers"
+      },
+      {
+        "kiksht": "ic'ilaq",
+        "english": "small grasshopper, baby grasshopper [Dyk]"
+      }
+    ],
+    "notes": [
+      "Dyk includes a note indicat- ing that the name means or is related to a word meaning \"young\" or \"jumping.\""
+    ],
+    "seeAlso": [
+      "i-sintł'axtł'ax"
+    ]
+  },
+  "-ch'inagwigwi": {
+    "root": "-ch'inagwigwi",
+    "partOfSpeech": "n",
+    "definition": "lark [Dyk], mead- owlark [Spilyay; GT, MMc 6/3-5/98]",
+    "forms": [
+      {
+        "kiksht": "ich'inagwigwi",
+        "english": "(male) lark"
+      },
+      {
+        "kiksht": "ach'inagwigwi",
+        "english": "(female) lark [Dyk] ishch'inagwigwi [HS 6/20/51]"
+      },
+      {
+        "kiksht": "itch'inagwigwiyuksh",
+        "english": "larks [Dyk]"
+      },
+      {
+        "kiksht": "a- ch'inagwigwi",
+        "english": "meadowlark"
+      },
+      {
+        "kiksht": "itchi'inagwigwi",
+        "english": "meadowlarks [GT, MMc 6/3-5/98]"
+      }
+    ]
+  },
   "-ch'ánk": {
     "root": "-ch'ánk",
     "partOfSpeech": "n",
@@ -3514,6 +3570,29 @@
     ],
     "seeAlso": [
       "it-ch'apa"
+    ]
+  },
+  "a-ch'emnu": {
+    "root": "a-ch'emnu",
+    "partOfSpeech": "n",
+    "definition": "dipper, ladle"
+  },
+  "a-ch'émelqwtam": {
+    "root": "a-ch'émelqwtam",
+    "partOfSpeech": "n",
+    "definition": "leech",
+    "forms": [
+      {
+        "kiksht": "ishch'émelqwtam",
+        "english": "2 leeches"
+      },
+      {
+        "kiksht": "itch'émelqwtam",
+        "english": "leeches"
+      }
+    ],
+    "notes": [
+      "A flat bug that sticks right on you; different from leeches found in southern countries."
     ]
   },
   "a-chabnit": {
@@ -11412,6 +11491,92 @@
       "i-gitch'aqch'aq"
     ]
   },
+  "ch'au": {
+    "root": "ch'au",
+    "partOfSpeech": "part",
+    "definition": "brand, burn",
+    "examples": [
+      {
+        "kiksht": "Ch'au ichiux.",
+        "english": "He burnt/ branded him."
+      },
+      {
+        "kiksht": "Ch'au inxux.",
+        "english": "I burnt myself (for instance, on a stove). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "xagich'au, i-gich'au"
+    ]
+  },
+  "ch'el": {
+    "root": "ch'el",
+    "partOfSpeech": "part",
+    "definition": "hurt",
+    "examples": [
+      {
+        "kiksht": "Ch'el inuxa akq'úxwł.",
+        "english": "I hurt my knee. [MMc]"
+      },
+      {
+        "kiksht": "Ch'el inłúx iłkúpsh.",
+        "english": "I hurt my foot. [CLL19]"
+      },
+      {
+        "kiksht": "Ch'el giuxt.",
+        "english": "She is hurting him (as for instance by sitting on him)."
+      },
+      {
+        "kiksht": "Ch'elch'el giuxt.",
+        "english": "She is hurting him (as with fists)."
+      },
+      {
+        "kiksht": "Ch'elch'el emkixax.",
+        "english": "You are hurting yourself."
+      },
+      {
+        "kiksht": "Ch'elch'el emkiax.",
+        "english": "You are getting hurt (not by your own action)."
+      },
+      {
+        "kiksht": "Ch'el nigaxux.",
+        "english": "She hurt herself."
+      },
+      {
+        "kiksht": "Qadag̲a ch'el enkixax.",
+        "english": "I'm only slightly hurt. [Dyk]"
+      },
+      {
+        "kiksht": "Naqi it'uktix ch'el imiux iq'iyuqt.",
+        "english": "It's not good that you hurt the old man. [WTI.1c.6]"
+      }
+    ]
+  },
+  "ch'ex": {
+    "root": "ch'ex",
+    "partOfSpeech": "part",
+    "definition": "split, break off",
+    "examples": [
+      {
+        "kiksht": "Waqenksh ch'ex emshkax.",
+        "english": "Split a stone [to serve as knife]. [WTI.1c.3]"
+      }
+    ]
+  },
+  "ch'i": {
+    "root": "ch'i",
+    "partOfSpeech": "part",
+    "definition": "be quiet, make no noise",
+    "examples": [
+      {
+        "kiksht": "ch'i k'ayá",
+        "english": "no answer, no noise"
+      }
+    ],
+    "seeAlso": [
+      "chk'aya, ch'k'aya"
+    ]
+  },
   "ch'á'amdiamt": {
     "root": "ch'á'amdiamt",
     "partOfSpeech": "adv",
@@ -12695,6 +12860,20 @@
       "i- -ck'ecx"
     ]
   },
+  "i- -ch'íbumit": {
+    "root": "i- -ch'íbumit",
+    "partOfSpeech": "adj n",
+    "definition": "striped [Dyk], spotted [HS 7/21/56]",
+    "forms": [
+      {
+        "kiksht": "iyach'íbumit",
+        "english": "it[i-] is striped [Dyk]; it has little fine spots on it [HS 7/21/56]"
+      }
+    ],
+    "seeAlso": [
+      "dach'ip, i-ch'ibumit, i- ch'iptan"
+    ]
+  },
   "i- -chag̲wix": {
     "root": "i- -chag̲wix",
     "partOfSpeech": "adj n",
@@ -13324,6 +13503,54 @@
       "ish-tq'in"
     ]
   },
+  "i-ch'axwi": {
+    "root": "i-ch'axwi",
+    "partOfSpeech": "n",
+    "definition": "paper, book, letter, mail, anything written on",
+    "forms": [
+      {
+        "kiksht": "itch'axwi",
+        "english": "papers"
+      }
+    ],
+    "seeAlso": [
+      "i-ch'axwi iyakikwchan i-ch'axwi"
+    ]
+  },
+  "i-ch'emqał": {
+    "root": "i-ch'emqał",
+    "partOfSpeech": "n",
+    "definition": "bottle, small trough"
+  },
+  "i-ch'ibumit": {
+    "root": "i-ch'ibumit",
+    "partOfSpeech": "n",
+    "definition": "zebra",
+    "notes": [
+      "Coined by Phillip Kahclamat. Literally \"striped one.\" Compare dach'ip and i- -ch'ibumit. A few days later he coined another word for \"zebra,\" i-ch'iptan."
+    ],
+    "seeAlso": [
+      "dach'ip, i- -ch'ibumit, i- ch'iptan"
+    ]
+  },
+  "i-ch'áxiu": {
+    "root": "i-ch'áxiu",
+    "partOfSpeech": "n",
+    "definition": "cat-tail, cat-tail mat",
+    "forms": [
+      {
+        "kiksht": "ich'áxiu",
+        "english": "cat-tail, cat-tails"
+      },
+      {
+        "kiksht": "ishch'áxiu",
+        "english": "2 cat-tails [HS 7/21/52; in other words, HS maintained that ich'áxiu could be either singular or plural, but that there was a distinct form for the dual]"
+      }
+    ],
+    "seeAlso": [
+      "i-g̲elgwipx"
+    ]
+  },
   "i-chachaq": {
     "root": "i-chachaq",
     "partOfSpeech": "n",
@@ -13717,6 +13944,14 @@
       "i-kaqmit"
     ]
   },
+  "idiawacha": {
+    "root": "idiawacha",
+    "partOfSpeech": "n",
+    "definition": "newspaper",
+    "seeAlso": [
+      "i-ch'axwi, id-wacha"
+    ]
+  },
   "is-bnanan": {
     "root": "is-bnanan",
     "partOfSpeech": "n",
@@ -13978,6 +14213,17 @@
         "kiksht": "itch'ápamax",
         "english": "rose bushes brush [PK 6/22/56]"
       }
+    ]
+  },
+  "it-ch'ataqch'ataq": {
+    "root": "it-ch'ataqch'ataq",
+    "partOfSpeech": "n",
+    "definition": "dried milt sacs",
+    "notes": [
+      "Refers to the long white sacs in a male fish after they have been dried by fire. The undried sacs are it- tq'ín. Dyk gives both this form and ich'aqch'aq for this meaning."
+    ],
+    "seeAlso": [
+      "ish-tq'in"
     ]
   },
   "it-cha'cha'(max)": {
