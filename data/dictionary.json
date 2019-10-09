@@ -1393,6 +1393,33 @@
       "dapt, -daptkdiksh"
     ]
   },
+  "-dat'ałia": {
+    "root": "-dat'ałia",
+    "partOfSpeech": "n",
+    "definition": "cannibal monster, ogre, At'at'ałia",
+    "forms": [
+      {
+        "kiksht": "idat'ałia",
+        "english": "(male) cannibal monster"
+      },
+      {
+        "kiksht": "adat'ałia",
+        "english": "(female) canni- bal monster [PK]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "adat'ałia ichagitquq",
+        "english": "adat'ałia's barbecue pit [PK]"
+      }
+    ],
+    "notes": [
+      "Phillip Kahclamat in the 50's gave this word only in the feminine, with a- prefix. It is obviously related to Sahaptin At'at'ałia, a monstruous woman who collects children in a basket and then eats them. The form at'at'ałia also occurs in Wasco."
+    ],
+    "seeAlso": [
+      "at'at'ałia"
+    ]
+  },
   "-gl-CHIM": {
     "root": "-gl-CHIM",
     "partOfSpeech": "vb",
@@ -3306,6 +3333,24 @@
         "kiksht": "galixelchmaq",
         "english": "he heard [Dyk]"
       }
+    ]
+  },
+  "-xl-DATKSH": {
+    "root": "-xl-DATKSH",
+    "partOfSpeech": "vb",
+    "definition": "inherit",
+    "forms": [
+      {
+        "kiksht": "ixelk'idatksh",
+        "english": "he is inheriting [Dyk]; he is leaving it to (someone) [GT, MMc 6/5/98]"
+      },
+      {
+        "kiksht": "ixelk'ídatkshnił",
+        "english": "he is inheriting (continually) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-DATKSH"
     ]
   },
   "-ániwat": {
@@ -14720,6 +14765,17 @@
       "stux"
     ]
   },
+  "dat'elt'el": {
+    "root": "dat'elt'el",
+    "partOfSpeech": "part",
+    "definition": "stuffed",
+    "examples": [
+      {
+        "kiksht": "Dat'elt'el ichgéch.",
+        "english": "My nose is stuffed. [Spilyay/sick]"
+      }
+    ]
+  },
   "datgiyaumaxåx": {
     "root": "datgiyaumaxåx",
     "partOfSpeech": "part",
@@ -14778,6 +14834,178 @@
     "seeAlso": [
       "datk'úp, shaitgáp, tgep -DATKSH bequeath"
     ]
+  },
+  "datk'úp": {
+    "root": "datk'úp",
+    "partOfSpeech": "part",
+    "definition": "white",
+    "examples": [
+      {
+        "kiksht": "datk'úp ikíutan",
+        "english": "white horse [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "datgúp, shaitgáp, tg§p"
+    ]
+  },
+  "datq'áp": {
+    "root": "datq'áp",
+    "partOfSpeech": "part",
+    "definition": "stick",
+    "examples": [
+      {
+        "kiksht": "Datq'áp iłikqw'átłquxidix.",
+        "english": "It became stuck on it[i-]. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it- tg̲§p"
+    ]
+  },
+  "datł'aktł'ak": {
+    "root": "datł'aktł'ak",
+    "partOfSpeech": "part",
+    "definition": "all broken up, break up completely",
+    "examples": [
+      {
+        "kiksht": "Datł'aktł'ak galixux iyagabn.",
+        "english": "His digging stick got all broken up. [WTI.1a4]"
+      }
+    ],
+    "notes": [
+      "Derived from tł'ak with redu- plication and intensifying prefix da-. Denotes a more intense or complete breaking up or shattering than tł'ak. As with tł'ak, there is some question whether this should not be retranscribed with -q- instead of -k-."
+    ],
+    "seeAlso": [
+      "tł'ak, tł'aq, datł'aqtł'aq"
+    ]
+  },
+  "datł'autł'au": {
+    "root": "datł'autł'au",
+    "partOfSpeech": "part",
+    "definition": "exhausted, used up",
+    "examples": [
+      {
+        "kiksht": "Dat'alt'al akłútk.",
+        "english": "I'm all out of breath [GT, MMc 1/14/99]"
+      }
+    ]
+  },
+  "datłpaq": {
+    "root": "datłpaq",
+    "partOfSpeech": "part",
+    "definition": "burst open",
+    "examples": [
+      {
+        "kiksht": "Datłpaq ikiax.",
+        "english": "It[i-] is bursting open. [Dyk]"
+      }
+    ],
+    "notes": [
+      "It is not clear what the rela- tionship is between this word and datłpáq in the sense \"regain con- sciousness.\""
+    ],
+    "seeAlso": [
+      "tłpeq"
+    ]
+  },
+  "datłpaqtłpáq": {
+    "root": "datłpaqtłpáq",
+    "partOfSpeech": "part",
+    "definition": "crack, crack open, burst, burst open",
+    "examples": [
+      {
+        "kiksht": "Tł'u gaqiux ik'ástila; datłpaqtłpaq idiakshen galuxwax.",
+        "english": "Someone guessed Crab; his hands cracked open. [WTI.4.9]"
+      }
+    ],
+    "seeAlso": [
+      "datłpaq"
+    ]
+  },
+  "datłpáq": {
+    "root": "datłpáq",
+    "partOfSpeech": "part",
+    "definition": "come to one's senses, regain consciousness",
+    "examples": [
+      {
+        "kiksht": "Datłpáq igixux.",
+        "english": "He came to his senses (after having been un- conscious or drunk)."
+      }
+    ]
+  },
+  "datłutłu": {
+    "root": "datłutłu",
+    "partOfSpeech": "part",
+    "definition": "soft, soften",
+    "examples": [
+      {
+        "kiksht": "Datłutłu inulkwchwamam.",
+        "english": "I fell on a soft place. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tłutłu, saitłutłu"
+    ]
+  },
+  "datłxaptłxap": {
+    "root": "datłxaptłxap",
+    "partOfSpeech": "part",
+    "definition": "bore through",
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt gayuya itk'álamat; datłxaptłxap gachtúx isk'ulya.",
+        "english": "Now then Coyote went for stones; he bored through them. [WTI.1i.5]"
+      }
+    ]
+  },
+  "datłxwáp": {
+    "root": "datłxwáp",
+    "partOfSpeech": "part",
+    "definition": "pierce, make hole, bore(d), bore(d) through",
+    "examples": [
+      {
+        "kiksht": "Datłxwáp itqwłí ik'álamat yugwalkwchu.",
+        "english": "A rock dropped and made a hole in the house. [Dyk]"
+      },
+      {
+        "kiksht": "Datłxwáb galuxax itk'ámunak.",
+        "english": "The rocks were bored through. [WTI.2.19]"
+      }
+    ],
+    "notes": [
+      "See tłxwap."
+    ]
+  },
+  "datłá": {
+    "root": "datłá",
+    "partOfSpeech": "part",
+    "definition": "warm",
+    "examples": [
+      {
+        "kiksht": "datł'a itqwłi",
+        "english": "a warm house"
+      },
+      {
+        "kiksht": "Datł'a itqwłiba.",
+        "english": "It's warm in the house."
+      },
+      {
+        "kiksht": "datł'a wigwa",
+        "english": "a warm day"
+      },
+      {
+        "kiksht": "Datł'aba galiximaxit.",
+        "english": "He fell down at a warm place. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tł'a, i-tł'aiumit, i-tł'atł'a, i- gitł'atł'a"
+    ]
+  },
+  "datłáp": {
+    "root": "datłáp",
+    "partOfSpeech": "part",
+    "definition": "short of breath"
   },
   "dauya": {
     "root": "dauya",

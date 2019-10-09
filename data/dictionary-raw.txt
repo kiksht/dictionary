@@ -4791,3 +4791,65 @@ See also: datk’ ̈p, shaitgÅp, tgep -DATKSH bequeath
 -DATKSH [vb] bequeath, leave to
 Forms: chialdatksh “he has it[i-] bequeathed to her” ichiudÅtksh “he bequeathed it[i-]” [Dyk]
 See also: -xl-DATKSH, it-qidatksh
+
+
+
+
+
+-xl-DATKSH [vb] inherit
+Forms: ixelk’idatksh “he is inheriting [Dyk]; he is leaving it to (someone) [GT, MMc 6/5/98]” ixelk’ˆdatkshni¬ “he is inheriting (continually)” [Dyk]
+See also: -DATKSH
+
+datk’ ̈p [part] white
+Examples: datk’ ̈p ikˆutan “white horse” [Dyk]
+See also: datg ̈p, shaitgÅp, tg§p
+
+datq’Åp [part] stick
+Examples: Datq’Åp i¬ikqw’Åt¬quxidix. “It became stuck on it[i-].” [Dyk]
+See also: it- t©§p
+
+dat¬’aut¬’au [part] exhausted, used up
+Examples: Dat’alt’al ak¬ ̈tk. “I’m all out of breath” [GT, MMc 1/14/99]
+
+-dat’a¬ia [n] cannibal monster, ogre, At’at’a¬ia
+Forms: idat’a¬ia “(male) cannibal monster” adat’a¬ia “(female) canni- bal monster” [PK]
+Examples: adat’a¬ia ichagitquq “adat’a¬ia’s barbecue pit” [PK]
+Notes: Phillip Kahclamat in the 50’s gave this word only in the feminine, with a- prefix. It is obviously related to Sahaptin At’at’a¬ia, a monstruous woman who collects children in a basket and then eats them. The form at’at’a¬ia also occurs in Wasco.
+See also: at’at’a¬ia
+
+dat’elt’el [part] stuffed
+Examples: Dat’elt’el ichgéch. “My nose is stuffed.” [Spilyay/sick]
+
+dat¬Å [part] warm
+Examples: dat¬’a itqw¬i “a warm house” Dat¬’a itqw¬iba. “It’s warm in the house.” dat¬’a wigwa “a warm day” Dat¬’aba galiximaxit. “He fell down at a warm place.” [Dyk]
+See also: t¬’a, i-t¬’aiumit, i-t¬’at¬’a, i- git¬’at¬’a
+
+dat¬Åp [part] short of breath
+
+dat¬pÅq [part] come to one’s senses, regain consciousness
+Examples: Dat¬pÅq igixux. “He came to his senses (after having been un- conscious or drunk).”
+
+dat¬paq [part] burst open
+Examples: Dat¬paq ikiax. “It[i-] is bursting open.” [Dyk]
+Notes: It is not clear what the rela- tionship is between this word and dat¬pÅq in the sense “regain con- sciousness.”
+See also: t¬peq
+
+dat¬paqt¬pÅq [part] crack, crack open, burst, burst open
+Examples: T¬’u gaqiux ik’Åstila; dat¬paqt¬paq idiakshen galuxwax. “Someone guessed Crab; his hands cracked open.” [WTI.4.9]
+See also: dat¬paq
+
+dat¬ut¬u [part] soft, soften
+Examples: Dat¬ut¬u inulkwchwamam. “I fell on a soft place.” [Dyk]
+See also: t¬ut¬u, sait¬ut¬u
+
+dat¬xapt¬xap [part] bore through
+Examples: A©a kwapt gayuya itk’Ålamat; dat¬xapt¬xap gacht ̈x isk’ulya. “Now then Coyote went for stones; he bored through them.” [WTI.1i.5]
+
+dat¬xwÅp [part] pierce, make hole, bore(d), bore(d) through
+Examples: Dat¬xwÅp itqw¬ˆ ik’Ålamat yugwalkwchu. “A rock dropped and made a hole in the house.” [Dyk] Dat¬xwÅb galuxax itk’Åmunak. “The rocks were bored through.” [WTI.2.19]
+Notes: See t¬xwap.
+
+dat¬’akt¬’ak [part] all broken up, break up completely
+Examples: Dat¬’akt¬’ak galixux iyagabn. “His digging stick got all broken up.” [WTI.1a4]
+Notes: Derived from t¬’ak with redu- plication and intensifying prefix da-. Denotes a more intense or complete breaking up or shattering than t¬’ak. As with t¬’ak, there is some question whether this should not be retranscribed with -q- instead of -k-.
+See also: t¬’ak, t¬’aq, dat¬’aqt¬’aq
