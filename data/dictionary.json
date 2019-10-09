@@ -1080,6 +1080,116 @@
       "-x-DINA, -WA-qw, i-k'idinax, i-qadinax"
     ]
   },
+  "-DUGWA": {
+    "root": "-DUGWA",
+    "partOfSpeech": "vb",
+    "definition": "urge, demand; urge, propose, plan [Dyk], demand to do, boss around, make demands on [GT]",
+    "forms": [
+      {
+        "kiksht": "anyudugwalalma",
+        "english": "I will boss him around, urge him to do things [GT 6/4/98]"
+      },
+      {
+        "kiksht": "niudugwat",
+        "english": "I have him urged (to go, do)"
+      },
+      {
+        "kiksht": "niudúgwenił",
+        "english": "I am urging him (various times)"
+      },
+      {
+        "kiksht": "niudugwachkwt",
+        "english": "I have him urged (several times)"
+      },
+      {
+        "kiksht": "niudugwalchk",
+        "english": "I am urging him (several times, urging, then quitting, then starting in again)"
+      },
+      {
+        "kiksht": "niudugwalal",
+        "english": "I am urging him (con- tinually) to go"
+      },
+      {
+        "kiksht": "chiudugwalal",
+        "english": "he is urging him; he is planning for him to go"
+      },
+      {
+        "kiksht": "chiudugwat",
+        "english": "he is urging him, has him urged"
+      },
+      {
+        "kiksht": "iniudugwa",
+        "english": "I urged him (once)"
+      },
+      {
+        "kiksht": "iniudugwachk",
+        "english": "I urged him (several times)"
+      },
+      {
+        "kiksht": "iniudugwálalamchk",
+        "english": "I urged him (continually)"
+      },
+      {
+        "kiksht": "iniudúgweniłchk",
+        "english": "I urged him (at different times)"
+      },
+      {
+        "kiksht": "ichiudugwa",
+        "english": "he urged him (to go)"
+      },
+      {
+        "kiksht": "ichiudukwachk",
+        "english": "he kept urging him (to go)"
+      },
+      {
+        "kiksht": "gachdudugwachgwax",
+        "english": "he urged them to go"
+      },
+      {
+        "kiksht": "nichídugwa",
+        "english": "he urged him to go"
+      },
+      {
+        "kiksht": "nichídukwachk",
+        "english": "he urged him to go (several times)"
+      },
+      {
+        "kiksht": "nichídugwat",
+        "english": "he had him urged to go"
+      },
+      {
+        "kiksht": "nichidúgenił",
+        "english": "he urged him to go (again and again)"
+      },
+      {
+        "kiksht": "ik'ídugwalal",
+        "english": "he is planning [Dyk]"
+      },
+      {
+        "kiksht": "with relational prefix -gl-",
+        "english": "to"
+      },
+      {
+        "kiksht": ": chaigeldugwalal",
+        "english": "he is urging him to go to her, do to her"
+      },
+      {
+        "kiksht": "with reflexive relational prefix -xl-",
+        "english": "to -self"
+      },
+      {
+        "kiksht": ": ixelgidugwalal",
+        "english": "he is propos- ing/planning something (for himself to do)"
+      },
+      {
+        "kiksht": "aixeldugwalal",
+        "english": "he is urging her to go (for himself, on an errand for himself) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-kidugwalalmat, i- k'idugwalal"
+    ]
+  },
   "-a-gl-CHKW'AYA-mit": {
     "root": "-a-gl-CHKW'AYA-mit",
     "partOfSpeech": "vb",
@@ -3274,6 +3384,46 @@
       "-DINA, i-qadinax, i-k'idinax"
     ]
   },
+  "-x-DUGWA": {
+    "root": "-x-DUGWA",
+    "partOfSpeech": "vb",
+    "definition": "urge oneself, plan, propose",
+    "forms": [
+      {
+        "kiksht": "mxdugwachk!",
+        "english": "urge your- self!"
+      },
+      {
+        "kiksht": "msxdugwachk!",
+        "english": "(you folks) urge yourselves!"
+      },
+      {
+        "kiksht": "axdugwalal",
+        "english": "she is proposing to go, proposing a trip"
+      },
+      {
+        "kiksht": "igixdugwachk",
+        "english": "he planned to go"
+      },
+      {
+        "kiksht": "igixdugwálalamchk",
+        "english": "he planned (continually) to go"
+      },
+      {
+        "kiksht": "nigixadugwalal",
+        "english": "he was planning to go (last week) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Enxdugwalal anuya Nixlúidixyamt.",
+        "english": "I am proposing I'll go toward Spearfish. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qadugwalal"
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -4374,6 +4524,20 @@
     ],
     "notes": [
       "May refer to longhouse sing- ing, or to bells used in Shaker ser- vices."
+    ]
+  },
+  "a-dúiha": {
+    "root": "a-dúiha",
+    "partOfSpeech": "n",
+    "definition": "cattle, cow, buffalo cow",
+    "forms": [
+      {
+        "kiksht": "iduihamax",
+        "english": "cattle (plural) [GT, MMc]"
+      }
+    ],
+    "seeAlso": [
+      "i-dúiha"
     ]
   },
   "a-g̲agilak": {
@@ -16338,6 +16502,36 @@
       "dnu, duxi"
     ]
   },
+  "dudu": {
+    "root": "dudu",
+    "partOfSpeech": "part",
+    "definition": "sound (of flute)",
+    "examples": [
+      {
+        "kiksht": "Dudu ichiux.",
+        "english": "He made it[i-] sound (with the sound of a flute). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-dudu, i-k'idudu"
+    ]
+  },
+  "dukst": {
+    "root": "dukst",
+    "partOfSpeech": "vb",
+    "definition": "they are cooked, they are done",
+    "seeAlso": [
+      "-KST"
+    ]
+  },
+  "dukw'aitix": {
+    "root": "dukw'aitix",
+    "partOfSpeech": "vb",
+    "definition": "they are left, they are left over",
+    "seeAlso": [
+      "-KW'A-it-ix"
+    ]
+  },
   "dáminwa": {
     "root": "dáminwa",
     "partOfSpeech": "adv",
@@ -17755,10 +17949,60 @@
       "-DINA"
     ]
   },
+  "i-dudu": {
+    "root": "i-dudu",
+    "partOfSpeech": "n",
+    "definition": "tube, flute",
+    "forms": [
+      {
+        "kiksht": "iłdudu",
+        "english": "flutes"
+      }
+    ],
+    "seeAlso": [
+      "dudu, i-k'idudu"
+    ]
+  },
+  "i-duihag̲itłba": {
+    "root": "i-duihag̲itłba",
+    "partOfSpeech": "n",
+    "definition": "buffalo-hide mocca- sins",
+    "seeAlso": [
+      "-duiha, i-g̲itłba"
+    ]
+  },
   "i-dáuapdauap": {
     "root": "i-dáuapdauap",
     "partOfSpeech": "n",
     "definition": "fox"
+  },
+  "i-dúiha": {
+    "root": "i-dúiha",
+    "partOfSpeech": "n",
+    "definition": "cattle, steer, bull, buffalo",
+    "forms": [
+      {
+        "kiksht": "iduihamax",
+        "english": "cattle (plural) [GT, MMc]"
+      }
+    ],
+    "notes": [
+      "It is likely that this word originally referred to buffalo and was then extended to cattle when these were brought into Wasco experience."
+    ],
+    "seeAlso": [
+      "a-dúiha"
+    ]
+  },
+  "i-dúiha iyagiwaq": {
+    "root": "i-dúiha iyagiwaq",
+    "partOfSpeech": "n",
+    "definition": "beef",
+    "notes": [
+      "Literally \"cattle's meat.\""
+    ],
+    "seeAlso": [
+      "i-duiha, i-giwaq"
+    ]
   },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
@@ -17983,6 +18227,20 @@
         "kiksht": "idiachiqen",
         "english": "he is old enough to care for himself [Dyk]"
       }
+    ]
+  },
+  "it- -dúihapsh": {
+    "root": "it- -dúihapsh",
+    "partOfSpeech": "adj n",
+    "definition": "buffalo-footed",
+    "forms": [
+      {
+        "kiksht": "idiadúihapsh",
+        "english": "he is buffalo- footed [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-duiha, ił-psh"
     ]
   },
   "it-address": {
@@ -18348,6 +18606,17 @@
     ],
     "seeAlso": [
       "ił-dudush"
+    ]
+  },
+  "ił-dudush": {
+    "root": "ił-dudush",
+    "partOfSpeech": "n",
+    "definition": "milk",
+    "notes": [
+      "May refer to any kind of milk. Compare ił-du, which appears to refer specifically to milk of a human woman."
+    ],
+    "seeAlso": [
+      "ił-du"
     ]
   },
   "kinwa": {

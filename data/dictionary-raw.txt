@@ -5210,3 +5210,55 @@ See also: dnu, duxi
 i¬-du [n] milk (of a woman)
 Notes: Appears to refer specifically to human milk. Compare i¬-dudush, which may refer to any kind of milk.
 See also: i¬-dudush
+
+
+
+
+
+
+-DUGWA [vb] urge, demand; urge, propose, plan [Dyk], demand to do, boss around, make demands on [GT]
+Forms: anyudugwalalma “I will boss him around, urge him to do things” [GT 6/4/98] niudugwat “I have him urged (to go, do)” niud ̈gweni¬ “I am urging him (various times)” niudugwachkwt “I have him urged (several times)” niudugwalchk “I am urging him (several times, urging, then quitting, then starting in again)” niudugwalal “I am urging him (con- tinually) to go” chiudugwalal “he is urging him; he is planning for him to go” chiudugwat “he is urging him, has him urged” iniudugwa “I urged him (once)” iniudugwachk “I urged him (several times)” iniudugwÅlalamchk “I urged him (continually)” iniud ̈gweni¬chk “I urged him (at different times)” ichiudugwa “he urged him (to go)” ichiudukwachk “he kept urging him (to go)” gachdudugwachgwax “he urged them to go” nichˆdugwa “he urged him to go” nichˆdukwachk “he urged him to go (several times)” nichˆdugwat “he had him urged to go” nichid ̈geni¬ “he urged him to go (again and again)” ik’ˆdugwalal “he is planning” [Dyk] with relational prefix -gl- “to”: chaigeldugwalal “he is urging him to go to her, do to her” with reflexive relational prefix -xl- “to -self”: ixelgidugwalal “he is propos- ing/planning something (for himself to do)” aixeldugwalal “he is urging her to go (for himself, on an errand for himself)” [Dyk]
+See also: i-kidugwalalmat, i- k’idugwalal
+
+-x-DUGWA [vb] urge oneself, plan, propose
+Forms: mxdugwachk! “urge your- self!” msxdugwachk! “(you folks) urge yourselves!” axdugwalal “she is proposing to go, proposing a trip” igixdugwachk “he planned to go” igixdugwÅlalamchk “he planned (continually) to go” nigixadugwalal “he was planning to go (last week)” [Dyk]
+Examples: Enxdugwalal anuya Nixl ̈idixyamt. “I am proposing I’ll go toward Spearfish.” [Dyk]
+See also: i-qadugwalal
+
+dudu [part] sound (of flute)
+Examples: Dudu ichiux. “He made it[i-] sound (with the sound of a flute).” [Dyk]
+See also: i-dudu, i-k’idudu
+
+i-dudu [n] tube, flute
+Forms: i¬dudu “flutes”
+See also: dudu, i-k’idudu
+
+i¬-dudush [n] milk
+Notes: May refer to any kind of milk. Compare i¬-du, which appears to refer specifically to milk of a human woman.
+See also: i¬-du
+
+a-d ̈iha [n] cattle, cow, buffalo cow
+Forms: iduihamax “cattle (plural)” [GT, MMc]
+See also: i-d ̈iha
+
+i-d ̈iha [n] cattle, steer, bull, buffalo
+Forms: iduihamax “cattle (plural)” [GT, MMc]
+Notes: It is likely that this word originally referred to buffalo and was then extended to cattle when these were brought into Wasco experience.
+See also: a-d ̈iha
+
+i-d ̈iha iyagiwaq [n] beef
+Notes: Literally “cattle’s meat.”
+See also: i-duiha, i-giwaq
+
+i-duiha©it¬ba [n] buffalo-hide mocca- sins
+See also: -duiha, i-©it¬ba
+
+it- -d ̈ihapsh [adj n] buffalo-footed
+Forms: idiad ̈ihapsh “he is buffalo- footed” [Dyk]
+See also: i-duiha, i¬-psh
+
+dukst [vb] they are cooked, they are done
+See also: -KST
+
+dukw’aitix [vb] they are left, they are left over
+See also: -KW’A-it-ix
