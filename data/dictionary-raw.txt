@@ -4853,3 +4853,81 @@ dat¬’akt¬’ak [part] all broken up, break up completely
 Examples: Dat¬’akt¬’ak galixux iyagabn. “His digging stick got all broken up.” [WTI.1a4]
 Notes: Derived from t¬’ak with redu- plication and intensifying prefix da-. Denotes a more intense or complete breaking up or shattering than t¬’ak. As with t¬’ak, there is some question whether this should not be retranscribed with -q- instead of -k-.
 See also: t¬’ak, t¬’aq, dat¬’aqt¬’aq
+
+
+
+
+
+dat¬’aqt¬’aq [part] break to pieces, crack up
+Examples: Dat¬’aqt¬’aq galaxux. “It[a-] broke to pieces.” [does not neces- sarily imply a complete breaking apart, but only cracking] [Dyk]
+See also: t¬’aq
+
+dat¬’Åsh [part] die down, die away
+Examples: Dat¬’Åsh galaxux watu¬. “The fire died away.” [WTI.11.13]
+
+dat¬’axÅx [part] tear, rip
+Examples: Dat¬’axt¬’Åx itxixux. “It[i-] tore itself on it[i-] (as on a sharp point).” [Dyk]
+See also: t¬’ex, i-git¬’ext¬’ex, ish- t¬’ext¬ex
+
+dat¬’axt¬’Åx [part] tear open, torn open
+Examples: Nawit dat¬’axt¬’Åx gashx ̈x ishiagich ilalik; ni©elgaba isisgechiÅmt. “Rabbit’s nostrils tore open; they [stick-game bones] flew out.” [WTI.4.9]
+
+dat¬’lÅp [part] sink
+Examples: Dat¬’lÅp inshaglait. “We sat on it[a-] and made it sink (not to the bottom, but as a boat to the gun- wales).” [Dyk]
+See also: t¬’lap
+
+dau [part] report of a gun
+Examples: Dau ichshux ish©walala. “With a bang he shot the gun.” [Dyk]
+See also: daudau, t’au
+
+daua [pron] this
+Notes: This is a word for “this” used with nouns beginning with a-.
+
+dauaich [pron] these (few unknown)
+Examples: Dauaich axl ̈imax akaluksh. “These are strangers.” [DykGr 121]
+Notes: Refers to a few people not known to the speaker or hearer.
+
+i-dÅuapdauap [n] fox
+
+dauax [pron] this
+Notes: This is a word for “this” used with nouns beginning with a-.
+
+dauda [pron] these
+Notes: This is a word for “these” used with nouns beginning with it-/ id-.
+
+daudaich [pron] those
+
+daudau [part] make a racket
+Forms: Daudau ixemgapx. “He is working with a racket, he is making a racket working.” [Dyk]
+Examples: May refer, for instance, to making repeated noises with a ham- mer. Compare dau.
+See also: dau, t’au, it-daudau(max)
+
+it-daudau(max) [n] making a racket
+Forms: itgadaudau, itgadaudaumax “she is making a racket” [Dyk]
+See also: dau
+
+daudax [pron] these
+Notes: This is a word for “these” used with nouns beginning with it-/ id-.
+
+dauka [adv] too, also, same, same way
+Examples: QiklÅix dauka naika. “I’m fine too.” Dauka naika qiklÅix iyam©elkel. “I’m glad to see you too.”
+See also: daukwa
+
+daukwa [adv] as before, same way, just as
+Examples: Nawid daukwa wit’a gachux. “Again he did to her as be- fore.” [WTI.1c7]
+See also: dauka
+
+dau¬a [pron] this, these
+Notes: This is a word for “this” used with nouns beginning with i¬-.
+
+dau¬aich [pron] these (few known)
+Notes: Refers to a few people known to the speaker and/or hearer.
+
+dau¬ax [pron] this, these
+Notes: This is a word for “this” or “these” used with nouns beginning with i¬-.
+
+daushta [pron] these 2
+Notes: This is a word for “these” used with nouns beginning with ish-.
+
+daushtax [pron] these 2
+Notes: This is a word for “these” used with nouns beginning with ish-.

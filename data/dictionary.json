@@ -14880,6 +14880,20 @@
       "tł'ak, tł'aq, datł'aqtł'aq"
     ]
   },
+  "datł'aqtł'aq": {
+    "root": "datł'aqtł'aq",
+    "partOfSpeech": "part",
+    "definition": "break to pieces, crack up",
+    "examples": [
+      {
+        "kiksht": "Datł'aqtł'aq galaxux.",
+        "english": "It[a-] broke to pieces. [does not neces- sarily imply a complete breaking apart, but only cracking] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tł'aq"
+    ]
+  },
   "datł'autł'au": {
     "root": "datł'autł'au",
     "partOfSpeech": "part",
@@ -14888,6 +14902,56 @@
       {
         "kiksht": "Dat'alt'al akłútk.",
         "english": "I'm all out of breath [GT, MMc 1/14/99]"
+      }
+    ]
+  },
+  "datł'axtł'áx": {
+    "root": "datł'axtł'áx",
+    "partOfSpeech": "part",
+    "definition": "tear open, torn open",
+    "examples": [
+      {
+        "kiksht": "Nawit datł'axtł'áx gashxúx ishiagich ilalik; nig̲elgaba isisgechiámt.",
+        "english": "Rabbit's nostrils tore open; they [stick-game bones] flew out. [WTI.4.9]"
+      }
+    ]
+  },
+  "datł'axáx": {
+    "root": "datł'axáx",
+    "partOfSpeech": "part",
+    "definition": "tear, rip",
+    "examples": [
+      {
+        "kiksht": "Datł'axtł'áx itxixux.",
+        "english": "It[i-] tore itself on it[i-] (as on a sharp point). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tł'ex, i-gitł'extł'ex, ish- tł'extłex"
+    ]
+  },
+  "datł'láp": {
+    "root": "datł'láp",
+    "partOfSpeech": "part",
+    "definition": "sink",
+    "examples": [
+      {
+        "kiksht": "Datł'láp inshaglait.",
+        "english": "We sat on it[a-] and made it sink (not to the bottom, but as a boat to the gun- wales). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tł'lap"
+    ]
+  },
+  "datł'ásh": {
+    "root": "datł'ásh",
+    "partOfSpeech": "part",
+    "definition": "die down, die away",
+    "examples": [
+      {
+        "kiksht": "Datł'ásh galaxux watuł.",
+        "english": "The fire died away. [WTI.11.13]"
       }
     ]
   },
@@ -15007,6 +15071,134 @@
     "partOfSpeech": "part",
     "definition": "short of breath"
   },
+  "dau": {
+    "root": "dau",
+    "partOfSpeech": "part",
+    "definition": "report of a gun",
+    "examples": [
+      {
+        "kiksht": "Dau ichshux ishg̲walala.",
+        "english": "With a bang he shot the gun. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "daudau, t'au"
+    ]
+  },
+  "daua": {
+    "root": "daua",
+    "partOfSpeech": "pron",
+    "definition": "this",
+    "notes": [
+      "This is a word for \"this\" used with nouns beginning with a-."
+    ]
+  },
+  "dauaich": {
+    "root": "dauaich",
+    "partOfSpeech": "pron",
+    "definition": "these (few unknown)",
+    "examples": [
+      {
+        "kiksht": "Dauaich axlúimax akaluksh.",
+        "english": "These are strangers. [DykGr 121]"
+      }
+    ],
+    "notes": [
+      "Refers to a few people not known to the speaker or hearer."
+    ]
+  },
+  "dauax": {
+    "root": "dauax",
+    "partOfSpeech": "pron",
+    "definition": "this",
+    "notes": [
+      "This is a word for \"this\" used with nouns beginning with a-."
+    ]
+  },
+  "dauda": {
+    "root": "dauda",
+    "partOfSpeech": "pron",
+    "definition": "these",
+    "notes": [
+      "This is a word for \"these\" used with nouns beginning with it-/ id-."
+    ]
+  },
+  "daudaich": {
+    "root": "daudaich",
+    "partOfSpeech": "pron",
+    "definition": "those"
+  },
+  "daudau": {
+    "root": "daudau",
+    "partOfSpeech": "part",
+    "definition": "make a racket",
+    "forms": [
+      {
+        "kiksht": "Daudau ixemgapx.",
+        "english": "He is working with a racket, he is making a racket working. [Dyk]"
+      }
+    ],
+    "examples": [],
+    "seeAlso": [
+      "dau, t'au, it-daudau(max)"
+    ]
+  },
+  "daudax": {
+    "root": "daudax",
+    "partOfSpeech": "pron",
+    "definition": "these",
+    "notes": [
+      "This is a word for \"these\" used with nouns beginning with it-/ id-."
+    ]
+  },
+  "dauka": {
+    "root": "dauka",
+    "partOfSpeech": "adv",
+    "definition": "too, also, same, same way",
+    "examples": [
+      {
+        "kiksht": "Qikláix dauka naika.",
+        "english": "I'm fine too."
+      },
+      {
+        "kiksht": "Dauka naika qikláix iyamg̲elkel.",
+        "english": "I'm glad to see you too."
+      }
+    ],
+    "seeAlso": [
+      "daukwa"
+    ]
+  },
+  "daukwa": {
+    "root": "daukwa",
+    "partOfSpeech": "adv",
+    "definition": "as before, same way, just as",
+    "examples": [
+      {
+        "kiksht": "Nawid daukwa wit'a gachux.",
+        "english": "Again he did to her as be- fore. [WTI.1c7]"
+      }
+    ],
+    "seeAlso": [
+      "dauka"
+    ]
+  },
+  "daushta": {
+    "root": "daushta",
+    "partOfSpeech": "pron",
+    "definition": "these 2",
+    "notes": [
+      "This is a word for \"these\" used with nouns beginning with ish-."
+    ]
+  },
+  "daushtax": {
+    "root": "daushtax",
+    "partOfSpeech": "pron",
+    "definition": "these 2",
+    "notes": [
+      "This is a word for \"these\" used with nouns beginning with ish-."
+    ]
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -15019,6 +15211,30 @@
     ],
     "notes": [
       "This is a word for \"this\" usedwith nouns beginning with i-."
+    ]
+  },
+  "dauła": {
+    "root": "dauła",
+    "partOfSpeech": "pron",
+    "definition": "this, these",
+    "notes": [
+      "This is a word for \"this\" used with nouns beginning with ił-."
+    ]
+  },
+  "daułaich": {
+    "root": "daułaich",
+    "partOfSpeech": "pron",
+    "definition": "these (few known)",
+    "notes": [
+      "Refers to a few people known to the speaker and/or hearer."
+    ]
+  },
+  "daułax": {
+    "root": "daułax",
+    "partOfSpeech": "pron",
+    "definition": "this, these",
+    "notes": [
+      "This is a word for \"this\" or \"these\" used with nouns beginning with ił-."
     ]
   },
   "dałalix": {
@@ -16668,6 +16884,11 @@
       "dałbål"
     ]
   },
+  "i-dáuapdauap": {
+    "root": "i-dáuapdauap",
+    "partOfSpeech": "n",
+    "definition": "fox"
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -17073,6 +17294,20 @@
     ],
     "seeAlso": [
       "chag̲elqłix, it-qwłí, it- chagwáyaqwł"
+    ]
+  },
+  "it-daudau(max)": {
+    "root": "it-daudau(max)",
+    "partOfSpeech": "n",
+    "definition": "making a racket",
+    "forms": [
+      {
+        "kiksht": "itgadaudau, itgadaudaumax",
+        "english": "she is making a racket [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dau"
     ]
   },
   "ił-alakásgwilit": {
