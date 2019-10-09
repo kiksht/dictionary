@@ -13320,6 +13320,221 @@
       "It is not certain whether this word was used to address only a daughter's sons or to address both her sons and daughters."
     ]
   },
+  "dagabgáb": {
+    "root": "dagabgáb",
+    "partOfSpeech": "part",
+    "definition": "pitch dark",
+    "notes": [
+      "Dyk apparently wants to dis- tinguish this from dagapgáp \"dark, murky.\""
+    ],
+    "seeAlso": [
+      "dagapgáp"
+    ]
+  },
+  "dagapgáp": {
+    "root": "dagapgáp",
+    "partOfSpeech": "part",
+    "definition": "dark, darken, murky",
+    "examples": [
+      {
+        "kiksht": "Dagapgáb iyag̲wamnił.",
+        "english": "He became mad, his mind became dark."
+      },
+      {
+        "kiksht": "dagapgáb iłg̲ininwa",
+        "english": "cloud of dust [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dagáp"
+    ]
+  },
+  "dagashmax": {
+    "root": "dagashmax",
+    "partOfSpeech": "part",
+    "definition": "yellowish (things)",
+    "examples": [
+      {
+        "kiksht": "Qaua dapcaxmax, qaua dagashmax, qaua dałbalmax gachuxwa.",
+        "english": "He made some [blankets] greenish, some yellowish, some red- dish. [WTI.11.8]"
+      }
+    ],
+    "pronunciation": "Second -a- is long.",
+    "seeAlso": [
+      "dagåsh"
+    ]
+  },
+  "dagesh": {
+    "root": "dagesh",
+    "partOfSpeech": "part",
+    "definition": "sorrel",
+    "notes": [
+      "Used only in connection with horses, according to Hiram Smith; but it is not clear whether this is in fact the same word as dagésh."
+    ],
+    "seeAlso": [
+      "dagásh, dagésh"
+    ]
+  },
+  "dagésh": {
+    "root": "dagésh",
+    "partOfSpeech": "part",
+    "definition": "yellowish, not quite faded yellow",
+    "notes": [
+      "Refers to the color of light khaki."
+    ]
+  },
+  "dagwatgwát": {
+    "root": "dagwatgwát",
+    "partOfSpeech": "part",
+    "definition": "uproot",
+    "examples": [
+      {
+        "kiksht": "Dagwatgwat iyaxlaitam.",
+        "english": "He uprooted it. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "gwat"
+    ]
+  },
+  "dagáb": {
+    "root": "dagáb",
+    "partOfSpeech": "part",
+    "definition": "get dark, get cloudy",
+    "examples": [
+      {
+        "kiksht": "Dagáb ikiaxix.",
+        "english": "It's getting dark, getting cloudy. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dagapgap, dagabgab"
+    ]
+  },
+  "dagásh": {
+    "root": "dagásh",
+    "partOfSpeech": "part",
+    "definition": "yellow, canary yellow",
+    "examples": [
+      {
+        "kiksht": "dagashmax itc'inunks",
+        "english": "yellow birds [PK 6/28/57]"
+      }
+    ],
+    "notes": [
+      "With a long second -a-, refers to a strong yellow, like lemon or canary yellow. Compare dagésh."
+    ],
+    "seeAlso": [
+      "dagésh, i- -gashumit"
+    ]
+  },
+  "dag̲alq'al": {
+    "root": "dag̲alq'al",
+    "partOfSpeech": "part",
+    "definition": "hard, harden",
+    "examples": [
+      {
+        "kiksht": "Dag̲alq'al ichilbuix.",
+        "english": "Hard, it became frozen; the place became frozen. [Dyk; DykGr 28]"
+      }
+    ],
+    "seeAlso": [
+      "g̲elq'el, shaig̲elq'el"
+    ]
+  },
+  "dag̲amui": {
+    "root": "dag̲amui",
+    "partOfSpeech": "part",
+    "definition": "senseless, uncon- scious",
+    "examples": [
+      {
+        "kiksht": "Dag̲ámui inshílag̲wa.",
+        "english": "I knocked him unconscious. [Dyk]"
+      },
+      {
+        "kiksht": "Gayug̲ílukchu isk'ulya dag̲amui.",
+        "english": "Coyote fell down senseless. [WTI.3.7]"
+      }
+    ]
+  },
+  "dag̲apg̲áp": {
+    "root": "dag̲apg̲áp",
+    "partOfSpeech": "part",
+    "definition": "bedimmed",
+    "examples": [
+      {
+        "kiksht": "Ag̲a dag̲apg̲áb isíaxus yuxt.",
+        "english": "Now he sits with eyes bedimmed. [WTI.4.19]"
+      }
+    ],
+    "notes": [
+      "This may be a misspelling for dagapgap."
+    ]
+  },
+  "dag̲åsh": {
+    "root": "dag̲åsh",
+    "partOfSpeech": "part",
+    "definition": "crash (of falling tim- ber)",
+    "examples": [
+      {
+        "kiksht": "Dag̲åsh yulkwchx.",
+        "english": "Crash! it[i-] is falling, it's falling with a crash."
+      }
+    ]
+  },
+  "dag̲ém": {
+    "root": "dag̲ém",
+    "partOfSpeech": "part",
+    "definition": "dizzy",
+    "forms": [
+      {
+        "kiksht": "Dag̲ém enkiax.",
+        "english": "I am dizzy."
+      },
+      {
+        "kiksht": "Dag̲ém gayulkchu.",
+        "english": "He dropped down dizzy. [Dyk]"
+      }
+    ]
+  },
+  "dag̲wat": {
+    "root": "dag̲wat",
+    "partOfSpeech": "part",
+    "definition": "loosen",
+    "examples": [
+      {
+        "kiksht": "Dag̲wat wilx galixux.",
+        "english": "The earth was loosened [by Coyote's dig- ging stick]. [WTI.1a4]"
+      }
+    ]
+  },
+  "dag̲ú": {
+    "root": "dag̲ú",
+    "partOfSpeech": "part",
+    "definition": "be lost, with where- abouts unknown, disappear",
+    "examples": [
+      {
+        "kiksht": "Dag̲ú yukw'alalkwt.",
+        "english": "He has disappeared, and no one knows his whereabouts. [Dyk]"
+      }
+    ]
+  },
+  "dai": {
+    "root": "dai",
+    "partOfSpeech": "adv",
+    "definition": "just [?]",
+    "examples": [
+      {
+        "kiksht": "Ag̲a dai ishtugwilait saqw.",
+        "english": "They 2 have just completely doc- tored him. [WTII.4.4]"
+      }
+    ]
+  },
+  "daichgengi": {
+    "root": "daichgengi",
+    "partOfSpeech": "pron",
+    "definition": "by themselves"
+  },
   "dauya": {
     "root": "dauya",
     "partOfSpeech": "pron",
@@ -14564,6 +14779,28 @@
     "definition": "hospi- tal",
     "seeAlso": [
       "i- -chg̲emem"
+    ]
+  },
+  "i-dagáiwalal": {
+    "root": "i-dagáiwalal",
+    "partOfSpeech": "n",
+    "definition": "bunch of jets [HS], they're each flyers [GT, MMc 6/5/98]",
+    "examples": [
+      {
+        "kiksht": "From igalal",
+        "english": "flying,"
+      },
+      {
+        "kiksht": "with prefix -da-",
+        "english": "their"
+      },
+      {
+        "kiksht": "and suffix -iw-",
+        "english": "each one."
+      }
+    ],
+    "seeAlso": [
+      "i-yagalal, i-galal"
     ]
   },
   "i-k'ámunaq": {

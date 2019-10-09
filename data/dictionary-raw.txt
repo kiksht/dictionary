@@ -4274,3 +4274,74 @@ See also: dak
 daga [n] daughter’s son!, daughter’s child! [?], grandson!, granddaughter! [?]
 Forms: dagamax “daughter’s son! grandson! daughter’s child![?] grandaughter! [?]”
 Notes: It is not certain whether this word was used to address only a daughter’s sons or to address both her sons and daughters.
+
+
+
+
+
+
+
+dagÅb [part] get dark, get cloudy
+Examples: DagÅb ikiaxix. “It’s getting dark, getting cloudy.” [Dyk]
+See also: dagapgap, dagabgab
+
+dagabgÅb [part] pitch dark
+Notes: Dyk apparently wants to dis- tinguish this from dagapgÅp “dark, murky.”
+See also: dagapgÅp
+
+i-dagÅiwalal [n] bunch of jets [HS], they’re each flyers [GT, MMc 6/5/98]
+Examples: From igalal “flying,” with prefix -da- “their” and suffix -iw- “each one.”
+See also: i-yagalal, i-galal
+
+dagapgÅp [part] dark, darken, murky
+Examples: DagapgÅb iya©wamni¬. “He became mad, his mind became dark.” dagapgÅb i¬©ininwa “cloud of dust” [Dyk]
+See also: dagÅp
+
+dagÅsh [part] yellow, canary yellow
+Examples: dagashmax itc’inunks “yellow birds” [PK 6/28/57]
+Notes: With a long second -a-, refers to a strong yellow, like lemon or canary yellow. Compare dagésh.
+See also: dagésh, i- -gashumit
+
+dagashmax [part] yellowish (things)
+Examples: Qaua dapcaxmax, qaua dagashmax, qaua da¬balmax gachuxwa. “He made some [blankets] greenish, some yellowish, some red- dish.” [WTI.11.8]
+Pronunciation: Second -a- is long.
+See also: dagåsh
+
+dagesh [part] sorrel
+Notes: Used only in connection with horses, according to Hiram Smith; but it is not clear whether this is in fact the same word as dagésh.
+See also: dagÅsh, dagésh
+
+dagésh [part] yellowish, not quite faded yellow
+Notes: Refers to the color of light khaki.
+
+dagwatgwÅt [part] uproot
+Examples: Dagwatgwat iyaxlaitam. “He uprooted it.” [Dyk]
+See also: gwat
+
+da©alq’al [part] hard, harden
+Examples: Da©alq’al ichilbuix. “Hard, it became frozen; the place became frozen.” [Dyk; DykGr 28]
+See also: ©elq’el, shai©elq’el
+
+da©amui [part] senseless, uncon- scious
+Examples: Da©Åmui inshˆla©wa. “I knocked him unconscious.” [Dyk] Gayu©ˆlukchu isk’ulya da©amui. “Coyote fell down senseless.” [WTI.3.7]
+
+da©ap©Åp [part] bedimmed
+Examples: A©a da©ap©Åb isˆaxus yuxt. “Now he sits with eyes bedimmed.” [WTI.4.19]
+Notes: This may be a misspelling for dagapgap.
+
+da©åsh [part] crash (of falling tim- ber)
+Examples: Da©åsh yulkwchx. “Crash! it[i-] is falling, it’s falling with a crash.”
+
+da©ém [part] dizzy
+Forms: Da©ém enkiax. “I am dizzy.” Da©ém gayulkchu. “He dropped down dizzy.” [Dyk]
+
+da© ̈ [part] be lost, with where- abouts unknown, disappear
+Examples: Da© ̈ yukw’alalkwt. “He has disappeared, and no one knows his whereabouts.” [Dyk]
+
+da©wat [part] loosen
+Examples: Da©wat wilx galixux. “The earth was loosened [by Coyote’s dig- ging stick].” [WTI.1a4]
+
+dai [adv] just [?]
+Examples: A©a dai ishtugwilait saqw. “They 2 have just completely doc- tored him.” [WTII.4.4]
+
+daichgengi [pron] by themselves
