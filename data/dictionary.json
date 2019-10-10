@@ -22628,12 +22628,82 @@
       "-x-ŁUXWA"
     ]
   },
+  "galuxwilait": {
+    "root": "galuxwilait",
+    "partOfSpeech": "vb",
+    "definition": "they seated themselves",
+    "seeAlso": [
+      "-xi-LA-it"
+    ]
+  },
+  "galuxwiqłaxit": {
+    "root": "galuxwiqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "they found out",
+    "seeAlso": [
+      "-xl-QŁA-xit"
+    ]
+  },
+  "galuxwitxwichk": {
+    "root": "galuxwitxwichk",
+    "partOfSpeech": "vb",
+    "definition": "they got ready",
+    "seeAlso": [
+      "-xl-TX(WI)-chk"
+    ]
+  },
+  "galuxwshkam": {
+    "root": "galuxwshkam",
+    "partOfSpeech": "vb",
+    "definition": "they gambled",
+    "examples": [
+      {
+        "kiksht": "Galuxwshkam iłúgumba.",
+        "english": "They gambled at stick-game. [WTI.4.9]"
+      }
+    ],
+    "seeAlso": [
+      "-x-SHKAM"
+    ]
+  },
   "galuxwálalemchk": {
     "root": "galuxwálalemchk",
     "partOfSpeech": "vb",
     "definition": "they kept shaking",
     "seeAlso": [
       "-x-LA"
+    ]
+  },
+  "galuxwílaitix": {
+    "root": "galuxwílaitix",
+    "partOfSpeech": "vb",
+    "definition": "they dwelt",
+    "seeAlso": [
+      "-xi-LA-it"
+    ]
+  },
+  "galuya": {
+    "root": "galuya",
+    "partOfSpeech": "vb",
+    "definition": "she went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "galuyam": {
+    "root": "galuyam",
+    "partOfSpeech": "vb",
+    "definition": "she arrived",
+    "seeAlso": [
+      "-I, -I-am"
+    ]
+  },
+  "galxídlalit": {
+    "root": "galxídlalit",
+    "partOfSpeech": "vb",
+    "definition": "we were sitting around",
+    "seeAlso": [
+      "-xi-LA-it"
     ]
   },
   "galáig̲luqłq": {
@@ -22684,12 +22754,230 @@
       "-NI"
     ]
   },
+  "gałagemłaitx": {
+    "root": "gałagemłaitx",
+    "partOfSpeech": "vb",
+    "definition": "they sat beside it[a-]",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "gałag̲elba": {
+    "root": "gałag̲elba",
+    "partOfSpeech": "vb",
+    "definition": "they went out of it[a-]",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "gałag̲elgaba": {
+    "root": "gałag̲elgaba",
+    "partOfSpeech": "vb",
+    "definition": "it came out of her",
+    "seeAlso": [
+      "-KA-pa"
+    ]
+  },
+  "gałalimałxixit": {
+    "root": "gałalimałxixit",
+    "partOfSpeech": "vb",
+    "definition": "they fell into the water",
+    "examples": [
+      {
+        "kiksht": "Dadakdák gałxúx iłiakach ig̲anuk; gałalimałxixit iłiakach.",
+        "english": "Beaver's teeth all came loose; his teeth fell into the water. [WTI.4.1]"
+      }
+    ],
+    "seeAlso": [
+      "gadalimałxixit"
+    ]
+  },
+  "gałalłait": {
+    "root": "gałalłait",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] dwelt in her",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "gałaq'lba": {
+    "root": "gałaq'lba",
+    "partOfSpeech": "vb",
+    "definition": "it grew out from her",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "gałasq'u": {
+    "root": "gałasq'u",
+    "partOfSpeech": "n",
+    "definition": "Wasco tribe",
+    "seeAlso": [
+      "wa-sq'u"
+    ]
+  },
+  "gałdémqt": {
+    "root": "gałdémqt",
+    "partOfSpeech": "vb",
+    "definition": "they died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "gałgagelga": {
+    "root": "gałgagelga",
+    "partOfSpeech": "vb",
+    "definition": "they took hold of her, they seized her",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gałgag̲elkel": {
+    "root": "gałgag̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "they saw her",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gałgaiktqwaxix": {
+    "root": "gałgaiktqwaxix",
+    "partOfSpeech": "vb",
+    "definition": "they turned her over",
+    "seeAlso": [
+      "-i-k-TQW-ix"
+    ]
+  },
+  "gałgakim": {
+    "root": "gałgakim",
+    "partOfSpeech": "vb",
+    "definition": "they said",
+    "seeAlso": [
+      "-ga-KIM"
+    ]
+  },
+  "gałganshxtamitx": {
+    "root": "gałganshxtamitx",
+    "partOfSpeech": "vb",
+    "definition": "they ran off with her from us",
+    "seeAlso": [
+      "-TA-mit"
+    ]
+  },
+  "gałgaxchmaq": {
+    "root": "gałgaxchmaq",
+    "partOfSpeech": "vb",
+    "definition": "they heard it[a-]",
+    "seeAlso": [
+      "-x-CHMA-qw"
+    ]
+  },
+  "gałgdálgamit": {
+    "root": "gałgdálgamit",
+    "partOfSpeech": "vb",
+    "definition": "they fastened them on her",
+    "seeAlso": [
+      "-l-KA-mit"
+    ]
+  },
+  "gałgenshuxwax": {
+    "root": "gałgenshuxwax",
+    "partOfSpeech": "vb",
+    "definition": "they did us",
+    "examples": [
+      {
+        "kiksht": "Shake hands gałgenshuxwax.",
+        "english": "They shook hands with us. [WTIV.2.18]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałgéntx": {
+    "root": "gałgéntx",
+    "partOfSpeech": "vb",
+    "definition": "they did to me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałgialładałx": {
+    "root": "gałgialładałx",
+    "partOfSpeech": "vb",
+    "definition": "they dragged him into the water",
+    "seeAlso": [
+      "-a-l-ŁADA-łx"
+    ]
+  },
+  "gałgiaxux": {
+    "root": "gałgiaxux",
+    "partOfSpeech": "vb",
+    "definition": "they did it[i-] from her",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałgidwaq": {
+    "root": "gałgidwaq",
+    "partOfSpeech": "vb",
+    "definition": "they killed him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gałgigelga": {
+    "root": "gałgigelga",
+    "partOfSpeech": "vb",
+    "definition": "they took it[i-], they hold it[i-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gałgigelgax": {
+    "root": "gałgigelgax",
+    "partOfSpeech": "vb",
+    "definition": "they seized him",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gałgiálimałx": {
+    "root": "gałgiálimałx",
+    "partOfSpeech": "vb",
+    "definition": "they threw it[i-] into water",
+    "seeAlso": [
+      "-a-l-IMA-łx"
+    ]
+  },
   "gałiukł": {
     "root": "gałiukł",
     "partOfSpeech": "vb",
     "definition": "he[ił-] carried it[i-], he[ił-] took it[i-] with him",
     "seeAlso": [
       "-KŁ"
+    ]
+  },
+  "gałágluya": {
+    "root": "gałágluya",
+    "partOfSpeech": "vb",
+    "definition": "they went to it[a-]",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gałálupqa": {
+    "root": "gałálupqa",
+    "partOfSpeech": "vb",
+    "definition": "they went into it[a-]",
+    "examples": [
+      {
+        "kiksht": "Gałalupqa aqłálgiłxal.",
+        "english": "They went into the sweathouse. [WTI.4.10]"
+      }
+    ],
+    "seeAlso": [
+      "-PQ"
     ]
   },
   "i- -bagúmxch": {
@@ -24214,6 +24502,11 @@
       "i-dagáiwalal, i-yagalal, -KA"
     ]
   },
+  "i-galxix": {
+    "root": "i-galxix",
+    "partOfSpeech": "n",
+    "definition": "penis"
+  },
   "i-gábenash": {
     "root": "i-gábenash",
     "partOfSpeech": "n",
@@ -25325,6 +25618,11 @@
     "root": "wa-cúiha",
     "partOfSpeech": "n",
     "definition": "blueback salmon"
+  },
+  "wa-gálxt": {
+    "root": "wa-gálxt",
+    "partOfSpeech": "n",
+    "definition": "older sister"
   },
   "wi-ck'entłex": {
     "root": "wi-ck'entłex",
