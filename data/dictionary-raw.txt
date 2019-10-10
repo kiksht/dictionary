@@ -9474,3 +9474,130 @@ Forms: chiglgayut “he has him fought” chiglgÅyuwi¬ “he is fighting him�
 
 -xl-GAYU [vb] fight [intransitive]
 Forms: alixelgÅyuwa “he will fight” alixitgÅyuwa “he will fight (distant future)” ixelgÅyuwi¬ “he is fighting” shxlgÅyuwi¬, shxelgaiwi¬ “they 2 are fighting” ixitgÅyuwi¬ “he was fight- ing” gashxelgÅyuwam “they 2 went to fight” gashxitgÅyuwam “they 2 came to fight” [Dyk]
+
+
+
+
+
+
+
+gayuba [vb] they[i-] went out
+See also: -PA
+
+gayuchuktix [vb] daylight came, it dawned
+See also: -i-CHUKTI-ix, i-chukdidix
+
+gayuch ̈ktixix [vb] daylight came, it dawned
+See also: -i-CHUKTI-ix
+
+gayugaba [vb] he ran out
+See also: -KA, -KA-pa
+
+gayugˆlekchu [vb] he fell down
+See also: -gi-LK-chu
+
+gayugwaba [vb] he rushed out
+See also: -KA, -KA-pa
+
+gayugwa©wamx [vb] he got to
+See also: -k-QW-am
+
+gayugwak’Ålakwax [vb] he stepped over them
+See also: -k-K’ALA-kw
+
+gayugwa¬ait [vb] he was sitting above
+See also: -ÒA-it, yugwaxt
+
+gayugwanxÅxitx [vb] they[i-] pro- jected
+See also: -NXA
+
+gayugwapam [vb] he got out
+See also: -KA, -KA-pa
+
+gayugwaqwam [vb] he got to
+See also: -k-QW-am
+
+gayugwawulxt [vb] he climbed
+See also: -KA-wulx
+
+gayugwilait [vb] he doctored
+See also: -gi-LA-it
+
+gayugwˆlaitam [vb] he went to treat her
+See also: -gi-LA-it
+
+gayugwilkchu [vb] it[i-] fell down
+See also: -gi-LK-chu
+
+gayu©itaq¬q [vb] he left them behind
+See also: -©l-TA-q¬q
+
+gayu©uptit [vb] he fell asleep
+See also: - ̋UPT-it
+
+gayu©widÅleq¬qemsht [vb] he left them behind (in running)
+See also: -©l-TA-q¬q
+
+gayuix [vb] he went
+See also: -I, gayuyix
+
+gayuix [vb] he went
+See also: -I
+
+gayukw’ixa [vb] he swam
+See also: -K’IXA
+
+gayulap’achgwixlitemchk [vb] he kept on rising
+See also: -LAP’A-chkw
+
+gayulekchu [vb] it[i-] fell [WTI.4.18], he fell [WTI.10.5, 12.5]
+See also: -LK-chu
+
+gayu¬ait [vb] he sat down
+See also: -ÒA-it
+
+gayu¬aitam [vb] he landed
+See also: -ÒA-it-am, -¬a-it
+
+gayu¬aitx [vb] he sat down
+See also: -ÒA-it
+
+gay ̈meqtx [vb] he died
+See also: -MQT
+
+gayumqt [vb] he died
+See also: -MQT
+
+gayumqtemchk [vb] he began to die
+See also: -MQT
+
+gay ̈mt [vb] he grew up
+See also: -MT
+
+gayup©a [vb] he went out(?)
+Notes: This verb is translated as above in WTI.15.2, and that is the meaning that fits the context, but one would expect it to mean “he went in, he entered.” Conceivably the narra- tor, Louis Simpson, made a mistake; he may have meant to say gayupa.
+See also: -PQ
+
+gayup©ax [vb] he entered
+See also: -PQ
+
+gayupqa [vb] he entered
+See also: -PQ
+
+gayupqax [vb] he entered
+See also: -PQ
+
+gayupsq¬axit [vb] it[i-] was stretched out
+See also: -PSQÒA
+
+gayuqui [vb] he camped overnight
+See also: -QUI
+
+gayutxuit [vb] he stood still, he stood up
+See also: -TX(WI)-it
+
+gayutxwit [vb] he stood up
+See also: -TXW(I)-it
+
+gayuximux [vb] they ate it[i-]
+See also: -xl-MU ̨

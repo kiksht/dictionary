@@ -25897,12 +25897,327 @@
       "-l-IMA, -l-IMA-łx"
     ]
   },
+  "gayuba": {
+    "root": "gayuba",
+    "partOfSpeech": "vb",
+    "definition": "they[i-] went out",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "gayuchuktix": {
+    "root": "gayuchuktix",
+    "partOfSpeech": "vb",
+    "definition": "daylight came, it dawned",
+    "seeAlso": [
+      "-i-CHUKTI-ix, i-chukdidix"
+    ]
+  },
+  "gayuchúktixix": {
+    "root": "gayuchúktixix",
+    "partOfSpeech": "vb",
+    "definition": "daylight came, it dawned",
+    "seeAlso": [
+      "-i-CHUKTI-ix"
+    ]
+  },
+  "gayugaba": {
+    "root": "gayugaba",
+    "partOfSpeech": "vb",
+    "definition": "he ran out",
+    "seeAlso": [
+      "-KA, -KA-pa"
+    ]
+  },
+  "gayugwaba": {
+    "root": "gayugwaba",
+    "partOfSpeech": "vb",
+    "definition": "he rushed out",
+    "seeAlso": [
+      "-KA, -KA-pa"
+    ]
+  },
+  "gayugwag̲wamx": {
+    "root": "gayugwag̲wamx",
+    "partOfSpeech": "vb",
+    "definition": "he got to",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "gayugwak'álakwax": {
+    "root": "gayugwak'álakwax",
+    "partOfSpeech": "vb",
+    "definition": "he stepped over them",
+    "seeAlso": [
+      "-k-K'ALA-kw"
+    ]
+  },
+  "gayugwanxáxitx": {
+    "root": "gayugwanxáxitx",
+    "partOfSpeech": "vb",
+    "definition": "they[i-] pro- jected",
+    "seeAlso": [
+      "-NXA"
+    ]
+  },
+  "gayugwapam": {
+    "root": "gayugwapam",
+    "partOfSpeech": "vb",
+    "definition": "he got out",
+    "seeAlso": [
+      "-KA, -KA-pa"
+    ]
+  },
+  "gayugwaqwam": {
+    "root": "gayugwaqwam",
+    "partOfSpeech": "vb",
+    "definition": "he got to",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "gayugwawulxt": {
+    "root": "gayugwawulxt",
+    "partOfSpeech": "vb",
+    "definition": "he climbed",
+    "seeAlso": [
+      "-KA-wulx"
+    ]
+  },
+  "gayugwałait": {
+    "root": "gayugwałait",
+    "partOfSpeech": "vb",
+    "definition": "he was sitting above",
+    "seeAlso": [
+      "-ŁA-it, yugwaxt"
+    ]
+  },
+  "gayugwilait": {
+    "root": "gayugwilait",
+    "partOfSpeech": "vb",
+    "definition": "he doctored",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "gayugwilkchu": {
+    "root": "gayugwilkchu",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] fell down",
+    "seeAlso": [
+      "-gi-LK-chu"
+    ]
+  },
+  "gayugwílaitam": {
+    "root": "gayugwílaitam",
+    "partOfSpeech": "vb",
+    "definition": "he went to treat her",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "gayugílekchu": {
+    "root": "gayugílekchu",
+    "partOfSpeech": "vb",
+    "definition": "he fell down",
+    "seeAlso": [
+      "-gi-LK-chu"
+    ]
+  },
+  "gayug̲itaqłq": {
+    "root": "gayug̲itaqłq",
+    "partOfSpeech": "vb",
+    "definition": "he left them behind",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "gayug̲uptit": {
+    "root": "gayug̲uptit",
+    "partOfSpeech": "vb",
+    "definition": "he fell asleep",
+    "seeAlso": [
+      "- G̲UPT-it"
+    ]
+  },
+  "gayug̲widáleqłqemsht": {
+    "root": "gayug̲widáleqłqemsht",
+    "partOfSpeech": "vb",
+    "definition": "he left them behind (in running)",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "gayuix": {
+    "root": "gayuix",
+    "partOfSpeech": "vb",
+    "definition": "he went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gayukw'ixa": {
+    "root": "gayukw'ixa",
+    "partOfSpeech": "vb",
+    "definition": "he swam",
+    "seeAlso": [
+      "-K'IXA"
+    ]
+  },
+  "gayulap'achgwixlitemchk": {
+    "root": "gayulap'achgwixlitemchk",
+    "partOfSpeech": "vb",
+    "definition": "he kept on rising",
+    "seeAlso": [
+      "-LAP'A-chkw"
+    ]
+  },
+  "gayulekchu": {
+    "root": "gayulekchu",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] fell [WTI.4.18], he fell [WTI.10.5, 12.5]",
+    "seeAlso": [
+      "-LK-chu"
+    ]
+  },
+  "gayumqt": {
+    "root": "gayumqt",
+    "partOfSpeech": "vb",
+    "definition": "he died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "gayumqtemchk": {
+    "root": "gayumqtemchk",
+    "partOfSpeech": "vb",
+    "definition": "he began to die",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "gayupg̲a": {
+    "root": "gayupg̲a",
+    "partOfSpeech": "vb",
+    "definition": "he went out(?)",
+    "notes": [
+      "This verb is translated as above in WTI.15.2, and that is the meaning that fits the context, but one would expect it to mean \"he went in, he entered.\" Conceivably the narra- tor, Louis Simpson, made a mistake; he may have meant to say gayupa."
+    ],
+    "seeAlso": [
+      "-PQ"
+    ]
+  },
+  "gayupg̲ax": {
+    "root": "gayupg̲ax",
+    "partOfSpeech": "vb",
+    "definition": "he entered",
+    "seeAlso": [
+      "-PQ"
+    ]
+  },
+  "gayupqa": {
+    "root": "gayupqa",
+    "partOfSpeech": "vb",
+    "definition": "he entered",
+    "seeAlso": [
+      "-PQ"
+    ]
+  },
+  "gayupqax": {
+    "root": "gayupqax",
+    "partOfSpeech": "vb",
+    "definition": "he entered",
+    "seeAlso": [
+      "-PQ"
+    ]
+  },
+  "gayupsqłaxit": {
+    "root": "gayupsqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] was stretched out",
+    "seeAlso": [
+      "-PSQŁA"
+    ]
+  },
+  "gayuqui": {
+    "root": "gayuqui",
+    "partOfSpeech": "vb",
+    "definition": "he camped overnight",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "gayutxuit": {
+    "root": "gayutxuit",
+    "partOfSpeech": "vb",
+    "definition": "he stood still, he stood up",
+    "seeAlso": [
+      "-TX(WI)-it"
+    ]
+  },
+  "gayutxwit": {
+    "root": "gayutxwit",
+    "partOfSpeech": "vb",
+    "definition": "he stood up",
+    "seeAlso": [
+      "-TXW(I)-it"
+    ]
+  },
+  "gayuximux": {
+    "root": "gayuximux",
+    "partOfSpeech": "vb",
+    "definition": "they ate it[i-]",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
   "gayux̲uni": {
     "root": "gayux̲uni",
     "partOfSpeech": "vb",
     "definition": "he drifted along",
     "seeAlso": [
       "-NI"
+    ]
+  },
+  "gayułait": {
+    "root": "gayułait",
+    "partOfSpeech": "vb",
+    "definition": "he sat down",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "gayułaitam": {
+    "root": "gayułaitam",
+    "partOfSpeech": "vb",
+    "definition": "he landed",
+    "seeAlso": [
+      "-ŁA-it-am, -ła-it"
+    ]
+  },
+  "gayułaitx": {
+    "root": "gayułaitx",
+    "partOfSpeech": "vb",
+    "definition": "he sat down",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "gayúmeqtx": {
+    "root": "gayúmeqtx",
+    "partOfSpeech": "vb",
+    "definition": "he died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "gayúmt": {
+    "root": "gayúmt",
+    "partOfSpeech": "vb",
+    "definition": "he grew up",
+    "seeAlso": [
+      "-MT"
     ]
   },
   "gałagemłaitx": {
