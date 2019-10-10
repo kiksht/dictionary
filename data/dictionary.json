@@ -5087,6 +5087,14 @@
       "a-dexdex"
     ]
   },
+  "a-gigwalmał": {
+    "root": "a-gigwalmał",
+    "partOfSpeech": "n",
+    "definition": "submarine",
+    "notes": [
+      "Coined by PK 8/10/56 from gigwal \"below\" and -mał \"water.\""
+    ]
+  },
   "a-gálamat": {
     "root": "a-gálamat",
     "partOfSpeech": "n",
@@ -27761,6 +27769,87 @@
     "partOfSpeech": "vb",
     "definition": "he went ashore"
   },
+  "gigadnux": {
+    "root": "gigadnux",
+    "partOfSpeech": "adv",
+    "definition": "this way, this is the right way",
+    "notes": [
+      "Means a right way which contrasts with a wrong way."
+    ],
+    "seeAlso": [
+      "gigat, dnux"
+    ]
+  },
+  "gigat": {
+    "root": "gigat",
+    "partOfSpeech": "adv",
+    "definition": "that way, on that side [WT], this way, this side [Dyk]",
+    "examples": [
+      {
+        "kiksht": "Gigad ixt inag̲un, digad inag̲un iłakshn łigelgat.",
+        "english": "He[ił-] holds in his hand one sturgeon on that side and one sturgeon on this side. [WTI.1d.1]"
+      }
+    ],
+    "seeAlso": [
+      "digat, gigádiwa, gigatka, gigadmank, gigadnux"
+    ]
+  },
+  "gigatka": {
+    "root": "gigatka",
+    "partOfSpeech": "adv",
+    "definition": "this way, this side",
+    "seeAlso": [
+      "gigat"
+    ]
+  },
+  "gigelgat": {
+    "root": "gigelgat",
+    "partOfSpeech": "vb",
+    "definition": "she seizes it[i-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gigwal": {
+    "root": "gigwal",
+    "partOfSpeech": "adv",
+    "definition": "down, downward, below",
+    "examples": [
+      {
+        "kiksht": "gigwal wimałiamt",
+        "english": "down below towards the river"
+      },
+      {
+        "kiksht": "Gigwál emxúx.",
+        "english": "Lower yourself."
+      },
+      {
+        "kiksht": "(Compare Gigwalix emxúx",
+        "english": "Put yourself be- low.) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "gigwalix, gigwáladamt, gigwalat"
+    ]
+  },
+  "gigwáladamt": {
+    "root": "gigwáladamt",
+    "partOfSpeech": "adv",
+    "definition": "downward, straight down, inside, to the interior",
+    "examples": [
+      {
+        "kiksht": "Gigwáladamt yuit.",
+        "english": "He is doing downward. [Dyk]"
+      },
+      {
+        "kiksht": "Aish k'ala amshgnuxa k'mekedesh gigwáladamt ichq'aqshtaq, qådachix iłqawulqt daława ałuya gigwáladamt wilxyamt.",
+        "english": "Just carry me on my back so that my head is downward, so that my blood will flow downward to the ground. [WTI.1c6]"
+      }
+    ],
+    "seeAlso": [
+      "gigwal"
+    ]
+  },
   "gigá": {
     "root": "gigá",
     "partOfSpeech": "adv",
@@ -27772,12 +27861,48 @@
       }
     ]
   },
+  "gigádiwa": {
+    "root": "gigádiwa",
+    "partOfSpeech": "adv",
+    "definition": "this way, this side",
+    "examples": [
+      {
+        "kiksht": "Yax ayuya iwádiwa naiyax gigádiwa.",
+        "english": "He will go that way but I will go this way. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "gigat, iwádiwa"
+    ]
+  },
   "gáyaluqstk": {
     "root": "gáyaluqstk",
     "partOfSpeech": "n",
     "definition": "sparrow-hawk",
     "notes": [
       "The classifying prefix may have been dropped on this word as it appears in Wishram Texts."
+    ]
+  },
+  "gígwalix": {
+    "root": "gígwalix",
+    "partOfSpeech": "adv",
+    "definition": "under, below, under- neath, low",
+    "examples": [
+      {
+        "kiksht": "Gigwalix emxúx.",
+        "english": "Put yourself below (as in the cellar)."
+      },
+      {
+        "kiksht": "(Compare Gigwál emxúx",
+        "english": "lower your- self.) [Dyk]"
+      },
+      {
+        "kiksht": "Kinwá dan idiapiq yugwalal sháxelix k'ma dnux qádaga luq' achłuxwa; kinwa gígwalix ałuya daukwa luq' achłuxwa.",
+        "english": "Anything with wings would try to fly overhead, but still he would swallow it without difficulty; should it try to go by un- derneath, he would swallow it like- wise. [WTI.1m.1]"
+      }
+    ],
+    "seeAlso": [
+      "gigwal, gigwaladamt, sháxelix"
     ]
   },
   "i- -bagúmxch": {
@@ -29448,6 +29573,78 @@
       "Implies a bag full of either dried roots or ground dried salmon ready to trade."
     ]
   },
+  "i-giganił": {
+    "root": "i-giganił",
+    "partOfSpeech": "n",
+    "definition": "getting hold of, arrest- ing",
+    "forms": [
+      {
+        "kiksht": "ichagíganił",
+        "english": "she is an ar- rester, one who gets hold of [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gl-ga, i-gíganiłxat"
+    ]
+  },
+  "i-gigeniłxat": {
+    "root": "i-gigeniłxat",
+    "partOfSpeech": "n",
+    "definition": "handle"
+  },
+  "i-giglalal": {
+    "root": "i-giglalal",
+    "partOfSpeech": "n",
+    "definition": "watching around [PK 28/57], inspecting [AF 12/23/52]",
+    "forms": [
+      {
+        "kiksht": "iyagiglalal",
+        "english": "inspector [AF 12/23/52]"
+      }
+    ],
+    "notes": [
+      "This word has a negative feel; it sounds like \"somebody keeping an eye on you when it's none of his business.\" [PK 6/28/57]"
+    ],
+    "seeAlso": [
+      "-GLA"
+    ]
+  },
+  "i-gigwalat": {
+    "root": "i-gigwalat",
+    "partOfSpeech": "n",
+    "definition": "person from westward, person from below, Cascade person",
+    "notes": [
+      "Apparently referred to region and people from Hood River down- stream as far as kiksht was spoken."
+    ],
+    "seeAlso": [
+      "gigwal, gigwalix, gigwáladamt"
+    ]
+  },
+  "i-gigwál": {
+    "root": "i-gigwál",
+    "partOfSpeech": "n",
+    "definition": "skirt, long skirt",
+    "forms": [
+      {
+        "kiksht": "itłágigwal",
+        "english": "[their] skirts"
+      },
+      {
+        "kiksht": "[PK 7/24/56; DH simply marks this as",
+        "english": "plural, without indication of pos- sessive.]"
+      },
+      {
+        "kiksht": "itgigwalqutksh",
+        "english": "skirts from itgigwalqut [GT, MMc 6/5/98]"
+      }
+    ],
+    "notes": [
+      "Refers originally to the long skirt introduced by whites; later perhaps used of any kind of skirt."
+    ],
+    "seeAlso": [
+      "gigwal"
+    ]
+  },
   "i-gábenash": {
     "root": "i-gábenash",
     "partOfSpeech": "n",
@@ -29481,6 +29678,14 @@
     ],
     "seeAlso": [
       "i-shmiwa"
+    ]
+  },
+  "i-gíganiłxat": {
+    "root": "i-gíganiłxat",
+    "partOfSpeech": "n",
+    "definition": "handle of a bucket",
+    "seeAlso": [
+      "i-gíganił, -gl-GA"
     ]
   },
   "i-k'ámunaq": {

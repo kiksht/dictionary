@@ -9689,3 +9689,66 @@ Notes: Implies a bag full of either dried roots or ground dried salmon ready to 
 
 gigÅ [adv] still, continually, yet [Dyk], here, this way [GT, MMc]
 Examples: GigÅ yutxwit. “He is still standing.” [Dyk]
+
+
+
+
+
+
+
+
+gigÅdiwa [adv] this way, this side
+Examples: Yax ayuya iwÅdiwa naiyax gigÅdiwa. “He will go that way but I will go this way.” [Dyk]
+See also: gigat, iwÅdiwa
+
+gigadnux [adv] this way, this is the right way
+Notes: Means a right way which contrasts with a wrong way.
+See also: gigat, dnux
+
+i-gigani¬ [n] getting hold of, arrest- ing
+Forms: ichagˆgani¬ “she is an ar- rester, one who gets hold of” [Dyk]
+See also: -gl-ga, i-gˆgani¬xat
+
+i-gˆgani¬xat [n] handle of a bucket
+See also: i-gˆgani¬, -gl-GA
+
+gigat [adv] that way, on that side [WT], this way, this side [Dyk]
+Examples: Gigad ixt ina©un, digad ina©un i¬akshn ¬igelgat. “He[i¬-] holds in his hand one sturgeon on that side and one sturgeon on this side.” [WTI.1d.1]
+See also: digat, gigÅdiwa, gigatka, gigadmank, gigadnux
+
+gigatka [adv] this way, this side
+See also: gigat
+
+gigelgat [vb] she seizes it[i-]
+See also: -gl-GA
+
+i-gigeni¬xat [n] handle
+
+i-giglalal [n] watching around [PK 28/57], inspecting [AF 12/23/52]
+Forms: iyagiglalal “inspector” [AF 12/23/52]
+Notes: This word has a negative feel; it sounds like “somebody keeping an eye on you when it’s none of his business.” [PK 6/28/57]
+See also: -GLA
+
+gigwal [adv] down, downward, below
+Examples: gigwal wima¬iamt “down below towards the river” GigwÅl emx ̈x. “Lower yourself.” (Compare Gigwalix emx ̈x “Put yourself be- low.”) [Dyk]
+See also: gigwalix, gigwÅladamt, gigwalat
+
+i-gigwÅl [n] skirt, long skirt
+Forms: it¬Ågigwal “[their] skirts” [PK 7/24/56; DH simply marks this as “plural,” without indication of pos- sessive.] itgigwalqutksh “skirts” from itgigwalqut [GT, MMc 6/5/98]
+Notes: Refers originally to the long skirt introduced by whites; later perhaps used of any kind of skirt.
+See also: gigwal
+
+gigwÅladamt [adv] downward, straight down, inside, to the interior
+Examples: GigwÅladamt yuit. “He is doing downward.” [Dyk] Aish k’ala amshgnuxa k’mekedesh gigwÅladamt ichq’aqshtaq, qådachix i¬qawulqt da¬awa a¬uya gigwÅladamt wilxyamt. “Just carry me on my back so that my head is downward, so that my blood will flow downward to the ground.” [WTI.1c6]
+See also: gigwal
+
+i-gigwalat [n] person from westward, person from below, Cascade person
+Notes: Apparently referred to region and people from Hood River down- stream as far as kiksht was spoken.
+See also: gigwal, gigwalix, gigwÅladamt
+
+gˆgwalix [adv] under, below, under- neath, low
+Examples: Gigwalix emx ̈x. “Put yourself below (as in the cellar).” (Compare GigwÅl emx ̈x “lower your- self.”) [Dyk] KinwÅ dan idiapiq yugwalal shÅxelix k’ma dnux qÅdaga luq’ ach¬uxwa; kinwa gˆgwalix a¬uya daukwa luq’ ach¬uxwa. “Anything with wings would try to fly overhead, but still he would swallow it without difficulty; should it try to go by un- derneath, he would swallow it like- wise.” [WTI.1m.1]
+See also: gigwal, gigwaladamt, shÅxelix
+
+a-gigwalma¬ [n] submarine
+Notes: Coined by PK 8/10/56 from gigwal “below” and -ma¬ “water.”
