@@ -16895,6 +16895,247 @@
       "damlalá, i-mlalmxach"
     ]
   },
+  "emsha": {
+    "root": "emsha",
+    "partOfSpeech": "pron",
+    "definition": "you folks for your part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"we do that, you for your part do this.\""
+    ]
+  },
+  "emshaika": {
+    "root": "emshaika",
+    "partOfSpeech": "pron",
+    "definition": "you folks",
+    "notes": [
+      "Independent personal pro- noun."
+    ]
+  },
+  "emshaima": {
+    "root": "emshaima",
+    "partOfSpeech": "pron",
+    "definition": "only you folks"
+  },
+  "emshait'a": {
+    "root": "emshait'a",
+    "partOfSpeech": "pron",
+    "definition": "you folks also"
+  },
+  "emshait'ax": {
+    "root": "emshait'ax",
+    "partOfSpeech": "pron",
+    "definition": "you folks also"
+  },
+  "emshax": {
+    "root": "emshax",
+    "partOfSpeech": "pron",
+    "definition": "you folks for your part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"we do that, you for your part do this.\""
+    ]
+  },
+  "emshaya": {
+    "root": "emshaya",
+    "partOfSpeech": "pron",
+    "definition": "you folks for your part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"we do that, you for your part do this.\""
+    ]
+  },
+  "emshayax": {
+    "root": "emshayax",
+    "partOfSpeech": "pron",
+    "definition": "you folks for your part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"we do that, you for your part do this.\""
+    ]
+  },
+  "emshgaxima": {
+    "root": "emshgaxima",
+    "partOfSpeech": "vb",
+    "definition": "lay her down (you folks)!",
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
+  "emshgiaxaładagwa": {
+    "root": "emshgiaxaładagwa",
+    "partOfSpeech": "vb",
+    "definition": "you folks wrap it[i-] around her!",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "emshgilxamam": {
+    "root": "emshgilxamam",
+    "partOfSpeech": "vb",
+    "definition": "you folks go tell him!",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "emshgitkam": {
+    "root": "emshgitkam",
+    "partOfSpeech": "vb",
+    "definition": "go put them away",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "emshgiuxt": {
+    "root": "emshgiuxt",
+    "partOfSpeech": "vb",
+    "definition": "you folks are doing to him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "emshglalamchk": {
+    "root": "emshglalamchk",
+    "partOfSpeech": "vb",
+    "definition": "(you folks) sing!",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "emshg̲uyutk": {
+    "root": "emshg̲uyutk",
+    "partOfSpeech": "vb",
+    "definition": "you folks wake up!",
+    "seeAlso": [
+      "- G̲UITQ"
+    ]
+  },
+  "emshkax": {
+    "root": "emshkax",
+    "partOfSpeech": "vb",
+    "definition": "you folks do it[a-]!",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "emshkaxax": {
+    "root": "emshkaxax",
+    "partOfSpeech": "vb",
+    "definition": "you folks are",
+    "seeAlso": [
+      "-KAX̲AX̲"
+    ]
+  },
+  "emshkiax": {
+    "root": "emshkiax",
+    "partOfSpeech": "vb",
+    "definition": "you folks are",
+    "seeAlso": [
+      "-KIAX̲"
+    ]
+  },
+  "emshkix": {
+    "root": "emshkix",
+    "partOfSpeech": "vb",
+    "definition": "you folks make it[i-] (imperative)",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "emshkixax": {
+    "root": "emshkixax",
+    "partOfSpeech": "vb",
+    "definition": "you folks are",
+    "seeAlso": [
+      "-KIX̲AX̲"
+    ]
+  },
+  "emshklalamchk": {
+    "root": "emshklalamchk",
+    "partOfSpeech": "vb",
+    "definition": "you folks sing!",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "emshktxá": {
+    "root": "emshktxá",
+    "partOfSpeech": "vb",
+    "definition": "you folks do them!",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "emshti": {
+    "root": "emshti",
+    "partOfSpeech": "vb",
+    "definition": "you folks come!",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "emshudag̲walchk": {
+    "root": "emshudag̲walchk",
+    "partOfSpeech": "vb",
+    "definition": "you folks go ahead!"
+  },
+  "emshuit": {
+    "root": "emshuit",
+    "partOfSpeech": "vb",
+    "definition": "you folks are going",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "emshukshdit": {
+    "root": "emshukshdit",
+    "partOfSpeech": "vb",
+    "definition": "you folks are full (of food)",
+    "seeAlso": [
+      "-KSHD-it"
+    ]
+  },
+  "emshxatxulal": {
+    "root": "emshxatxulal",
+    "partOfSpeech": "vb",
+    "definition": "you folks are say- ing"
+  },
+  "emshxdlalamchk": {
+    "root": "emshxdlalamchk",
+    "partOfSpeech": "vb",
+    "definition": "you folks start in singing!",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "emshxelkiłx": {
+    "root": "emshxelkiłx",
+    "partOfSpeech": "vb",
+    "definition": "you folks make fire!",
+    "seeAlso": [
+      "-xl-KIŁX̲"
+    ]
+  },
+  "emshxángidwichatk": {
+    "root": "emshxángidwichatk",
+    "partOfSpeech": "vb",
+    "definition": "you folks listen to me!",
+    "seeAlso": [
+      "-x-gl-WICHA-tk"
+    ]
+  },
+  "emshxátx": {
+    "root": "emshxátx",
+    "partOfSpeech": "vb",
+    "definition": "you folks be!",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "emsik'lutkt": {
+    "root": "emsik'lutkt",
+    "partOfSpeech": "vb",
+    "definition": "you are looking at it[i-]",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
   "emłuxwan": {
     "root": "emłuxwan",
     "partOfSpeech": "vb",
@@ -18422,6 +18663,24 @@
     "definition": "puke, vomit",
     "seeAlso": [
       "-MQU-qw"
+    ]
+  },
+  "id-emshtíulit": {
+    "root": "id-emshtíulit",
+    "partOfSpeech": "n",
+    "definition": "serviceberry bush"
+  },
+  "id-émshtiwix": {
+    "root": "id-émshtiwix",
+    "partOfSpeech": "n",
+    "definition": "serviceberry place, place to get serviceberries"
+  },
+  "id-émstiwiq": {
+    "root": "id-émstiwiq",
+    "partOfSpeech": "n",
+    "definition": "serviceberry [HS 11/ 24/51], arrow bush [RS 7/21/51]",
+    "seeAlso": [
+      "a-mshtiu"
     ]
   },
   "id-náchk": {
