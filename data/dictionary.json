@@ -346,6 +346,96 @@
       "- G̲UPDA-mit, -TŁK'I-gwa-mit, -TŁK'I-kw"
     ]
   },
+  "- G̲WAN-it": {
+    "root": "- G̲WAN-it",
+    "partOfSpeech": "vb",
+    "definition": "drop",
+    "forms": [
+      {
+        "kiksht": "ichiug̲wanit",
+        "english": "he dropped it[i- ] (from his shoulder, arm)"
+      },
+      {
+        "kiksht": "ług̲wánitix",
+        "english": "it has been dropped [Dyk]"
+      },
+      {
+        "kiksht": "ig̲wanit!",
+        "english": "drop it[i-]!"
+      },
+      {
+        "kiksht": "chiug̲wanit",
+        "english": "he drops it[i-]"
+      },
+      {
+        "kiksht": "ichimng̲wanit",
+        "english": "he dropped it[i-] for you"
+      },
+      {
+        "kiksht": "gachiug̲wanit",
+        "english": "he dropped it[i- ] [PK 7/31/56]"
+      }
+    ],
+    "notes": [
+      "This apparently means spe- cifically \"drop from one's shoulder or arms;\" compare -g̲wana, which means \"to carry on one's shoulder or arms.\""
+    ]
+  },
+  "- G̲WANA": {
+    "root": "- G̲WANA",
+    "partOfSpeech": "vb",
+    "definition": "carry on shoulder, carry on arms, pack on arms; on shoulder, on arms",
+    "forms": [
+      {
+        "kiksht": "aniug̲wanaya",
+        "english": "I will carry him"
+      },
+      {
+        "kiksht": "chiug̲wanat",
+        "english": "he is carrying him"
+      },
+      {
+        "kiksht": "qiug̲wanat",
+        "english": "someone is carry- ing him, he is being carried"
+      },
+      {
+        "kiksht": "chatg̲wanana",
+        "english": "he was carrying her about"
+      },
+      {
+        "kiksht": "ichiug̲wana",
+        "english": "he carried him"
+      },
+      {
+        "kiksht": "ik'ig̲wanat",
+        "english": "he is carrying"
+      },
+      {
+        "kiksht": "ług̲wánatix",
+        "english": "it has been carried [Dyk]"
+      },
+      {
+        "kiksht": "ig̲wana!",
+        "english": "pick it[i-] and carry it!"
+      },
+      {
+        "kiksht": "ig̲wánanmchk!",
+        "english": "pick it[i-] up and carry it around! [PK 7/31/56]"
+      },
+      {
+        "kiksht": "chiug̲wanan",
+        "english": "he is packing him (on his arm) [GT, MMc 6/4/98]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Iqitg̲wana aish.",
+        "english": "He was perforce carried here, it was neces- sary to carry him. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ig̲wananan"
+    ]
+  },
   "-(i)-gl-xi-GLA-dix": {
     "root": "-(i)-gl-xi-GLA-dix",
     "partOfSpeech": "vb",
@@ -4665,6 +4755,96 @@
       }
     ]
   },
+  "-x- G̲WA-kw": {
+    "root": "-x- G̲WA-kw",
+    "partOfSpeech": "vb",
+    "definition": "dream, dream of",
+    "forms": [
+      {
+        "kiksht": "yamxg̲walkwł",
+        "english": "I am dreaming of you"
+      },
+      {
+        "kiksht": "anxg̲walkwł",
+        "english": "I am dreaming of her"
+      },
+      {
+        "kiksht": "menxg̲walkwł",
+        "english": "you are dreaming of me"
+      },
+      {
+        "kiksht": "imxg̲walkwł",
+        "english": "you are dreaming of him"
+      },
+      {
+        "kiksht": "amxg̲walkwł",
+        "english": "you are dreaming of her"
+      },
+      {
+        "kiksht": "chenxg̲walkwł",
+        "english": "he is dreaming of me"
+      },
+      {
+        "kiksht": "genxg̲walkwł",
+        "english": "she is dreaming of me"
+      },
+      {
+        "kiksht": "iaxg̲walkwł",
+        "english": "she is dreaming of him"
+      },
+      {
+        "kiksht": "yamxatg̲walkwł",
+        "english": "I was dreaming of you"
+      },
+      {
+        "kiksht": "anxatg̲walkwł",
+        "english": "I was dreaming of her"
+      },
+      {
+        "kiksht": "menxatg̲walkwł",
+        "english": "you were dreaming of me"
+      },
+      {
+        "kiksht": "imxatg̲walkwł",
+        "english": "you were dreaming of him"
+      },
+      {
+        "kiksht": "amxatg̲walkwł",
+        "english": "you were dreaming of her"
+      },
+      {
+        "kiksht": "chenxatg̲walkwł",
+        "english": "he was dream- ing of me"
+      },
+      {
+        "kiksht": "genxatg̲walkwł",
+        "english": "she was dreaming of me"
+      },
+      {
+        "kiksht": "iaxatg̲walkwł",
+        "english": "she was dreaming of him"
+      },
+      {
+        "kiksht": "nigaixatg̲wagwa",
+        "english": "he dreamt of her"
+      },
+      {
+        "kiksht": "ixgig̲walkwł",
+        "english": "he is dreaming"
+      },
+      {
+        "kiksht": "enxatgíg̲walkwł",
+        "english": "I was dreaming [Dyk]"
+      },
+      {
+        "kiksht": "enxgig̲wałk",
+        "english": "I'm dreaming [GT, MMc 6/5/98]"
+      }
+    ],
+    "seeAlso": [
+      "xaxagig̲wak, it-kagig̲wak, ganshig̲waqax"
+    ]
+  },
   "-x-CH'I-qłkw": {
     "root": "-x-CH'I-qłkw",
     "partOfSpeech": "vb",
@@ -7041,6 +7221,17 @@
     ],
     "seeAlso": [
       "ag̲utx"
+    ]
+  },
+  "a-g̲wamat": {
+    "root": "a-g̲wamat",
+    "partOfSpeech": "n",
+    "definition": "splinter",
+    "forms": [
+      {
+        "kiksht": "itg̲wamat",
+        "english": "splinters [Dyk]"
+      }
     ]
   },
   "a-g̲áditix": {
@@ -30681,6 +30872,17 @@
       "A very strong word."
     ]
   },
+  "i- -g̲wanaxtłgntłgn": {
+    "root": "i- -g̲wanaxtłgntłgn",
+    "partOfSpeech": "adj n",
+    "definition": "hump- backed, hunchbacked",
+    "forms": [
+      {
+        "kiksht": "iyag̲wanaxtłgntłgn",
+        "english": "he is humpbacked [Dyk]"
+      }
+    ]
+  },
   "i- -g̲áitł": {
     "root": "i- -g̲áitł",
     "partOfSpeech": "adj n",
@@ -33468,6 +33670,56 @@
       "-qui, it-g̲úyimxat"
     ]
   },
+  "i-g̲wamnił": {
+    "root": "i-g̲wamnił",
+    "partOfSpeech": "n",
+    "definition": "heart, life",
+    "forms": [
+      {
+        "kiksht": "itg̲wamnił, itg̲wámniłmax",
+        "english": "hearts"
+      },
+      {
+        "kiksht": "ichg̲wamnił",
+        "english": "my heart: I am alive, I am still living"
+      },
+      {
+        "kiksht": "imíg̲wamnił",
+        "english": "your heart; you are alive [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "K'aya imig̲wamnił.",
+        "english": "You are not safe (as in going to war). [Dyk]"
+      }
+    ]
+  },
+  "i-g̲wálapik": {
+    "root": "i-g̲wálapik",
+    "partOfSpeech": "n",
+    "definition": "heaviness, weight, heavy",
+    "forms": [
+      {
+        "kiksht": "ichg̲wálapik",
+        "english": "I am heavy [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "ig̲wálapig engi",
+        "english": "with weight (as in 'sagging with weight') [Dyk]"
+      },
+      {
+        "kiksht": "idag̲wálapik itk'ámunak",
+        "english": "heavy wood [GT, MMc 1/12/99]"
+      },
+      {
+        "kiksht": "Iyag̲walapik galixux ikuma.",
+        "english": "The cottonwood became heavy. [WTI.4.14]"
+      }
+    ]
+  },
   "i-g̲ánina": {
     "root": "i-g̲ánina",
     "partOfSpeech": "n",
@@ -33614,6 +33866,14 @@
     "definition": "serviceberry [HS 11/ 24/51], arrow bush [RS 7/21/51]",
     "seeAlso": [
       "a-mshtiu"
+    ]
+  },
+  "id-g̲wadułxat": {
+    "root": "id-g̲wadułxat",
+    "partOfSpeech": "n",
+    "definition": "bathing place",
+    "seeAlso": [
+      "-g̲wat, i-g̲watuł"
     ]
   },
   "id-náchk": {
@@ -33910,6 +34170,26 @@
     ],
     "seeAlso": [
       "wa-g̲iłti, -sht-g̲iłti"
+    ]
+  },
+  "ish-g̲walala": {
+    "root": "ish-g̲walala",
+    "partOfSpeech": "n",
+    "definition": "gun, rifle",
+    "forms": [
+      {
+        "kiksht": "itg̲walala",
+        "english": "guns [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "shxemt'it ishg̲walala",
+        "english": "double-barreled gun [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ił-g̲walala"
     ]
   },
   "ishktälgwipchk": {
@@ -34913,6 +35193,17 @@
     "root": "ił-g̲iqchamałx",
     "partOfSpeech": "n",
     "definition": "cockleburr"
+  },
+  "ił-g̲wálala": {
+    "root": "ił-g̲wálala",
+    "partOfSpeech": "n",
+    "definition": "bells on leg",
+    "notes": [
+      "Refers to bells below the knees and around the ankles."
+    ],
+    "seeAlso": [
+      "ish-g̲walala"
+    ]
   },
   "ił-g̲íninwa": {
     "root": "ił-g̲íninwa",
