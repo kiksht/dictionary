@@ -22047,6 +22047,38 @@
       "-LKCH"
     ]
   },
+  "galiximaxit": {
+    "root": "galiximaxit",
+    "partOfSpeech": "vb",
+    "definition": "he fell down",
+    "seeAlso": [
+      "-x-IMA, -x-IMA-xit"
+    ]
+  },
+  "galiximaxitam": {
+    "root": "galiximaxitam",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] fell down [WTI.4.14], he fell down [WTI.9.12, 11.2]",
+    "seeAlso": [
+      "-x-IMA, -x-IMA-xit"
+    ]
+  },
+  "galiximaxitx": {
+    "root": "galiximaxitx",
+    "partOfSpeech": "vb",
+    "definition": "he lay",
+    "seeAlso": [
+      "-x-IMA-xit"
+    ]
+  },
+  "galixixax": {
+    "root": "galixixax",
+    "partOfSpeech": "vb",
+    "definition": "he became to him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "galixiłxumx": {
     "root": "galixiłxumx",
     "partOfSpeech": "vb",
@@ -22068,6 +22100,177 @@
       "-x-KW'A"
     ]
   },
+  "galixla": {
+    "root": "galixla",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] shook",
+    "seeAlso": [
+      "-x-LA"
+    ]
+  },
+  "galixlima": {
+    "root": "galixlima",
+    "partOfSpeech": "vb",
+    "definition": "he shot",
+    "seeAlso": [
+      "-x-l-IMA"
+    ]
+  },
+  "galixlux": {
+    "root": "galixlux",
+    "partOfSpeech": "vb",
+    "definition": "he did (to/for himself?)",
+    "notes": [
+      "The meaning of the relational prefix -xl- \"to/for oneself\" in the context (WTI.9.13) is not clear."
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "galixlxadámidagwa": {
+    "root": "galixlxadámidagwa",
+    "partOfSpeech": "vb",
+    "definition": "he trans- formed himself back to his original form"
+  },
+  "galixláchk": {
+    "root": "galixláchk",
+    "partOfSpeech": "vb",
+    "definition": "he arose",
+    "seeAlso": [
+      "-x-LA-chkw"
+    ]
+  },
+  "galixlúichatk": {
+    "root": "galixlúichatk",
+    "partOfSpeech": "vb",
+    "definition": "he listened",
+    "seeAlso": [
+      "-xl-WICHA-tk"
+    ]
+  },
+  "galixlúqłkwachk": {
+    "root": "galixlúqłkwachk",
+    "partOfSpeech": "vb",
+    "definition": "he stuck it[i-] into himself"
+  },
+  "galixpa": {
+    "root": "galixpa",
+    "partOfSpeech": "vb",
+    "definition": "he escaped from him",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "galixpshut": {
+    "root": "galixpshut",
+    "partOfSpeech": "vb",
+    "definition": "he hid himself",
+    "seeAlso": [
+      "-PSHU-t"
+    ]
+  },
+  "galixqw'a": {
+    "root": "galixqw'a",
+    "partOfSpeech": "vb",
+    "definition": "he went hunting",
+    "seeAlso": [
+      "-x-QW'A"
+    ]
+  },
+  "galixuqshit": {
+    "root": "galixuqshit",
+    "partOfSpeech": "vb",
+    "definition": "he lay down to sleep",
+    "seeAlso": [
+      "-QSH-it"
+    ]
+  },
+  "galixux": {
+    "root": "galixux",
+    "partOfSpeech": "vb",
+    "definition": "he made himself, he turned himself into, he became, they[i-] did, he did himself. it[i-] came to be",
+    "examples": [
+      {
+        "kiksht": "Ik'ámunaq galixux.",
+        "english": "He turned himself into a piece of wood. [WTI.1a1]"
+      },
+      {
+        "kiksht": "G̲aug̲au galixux imulagmax.",
+        "english": "The elks drummed. [WTI.15.4]"
+      },
+      {
+        "kiksht": "Galixux guatguat.",
+        "english": "He rubbed himself. [WTI.17.17]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "galixuxix": {
+    "root": "galixuxix",
+    "partOfSpeech": "vb",
+    "definition": "it became",
+    "examples": [
+      {
+        "kiksht": "Xap galixuxix.",
+        "english": "It became dark. [WTI.9.5]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "galixuxwax": {
+    "root": "galixuxwax",
+    "partOfSpeech": "vb",
+    "definition": "he became [WTI.11.12, IV.2.20], it[i-] became [WTI.11.16, IV.2.6]",
+    "examples": [
+      {
+        "kiksht": "P'alá galixuxwax.",
+        "english": "He stopped. [WTI.11.12]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "galixuxwaxix": {
+    "root": "galixuxwaxix",
+    "partOfSpeech": "vb",
+    "definition": "it became",
+    "examples": [
+      {
+        "kiksht": "Dawáx galixuxwaxix.",
+        "english": "It became light. [WTIV.2.11]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "galixuxwix": {
+    "root": "galixuxwix",
+    "partOfSpeech": "vb",
+    "definition": "it became (of weather, daylight, etc.)",
+    "examples": [
+      {
+        "kiksht": "Xap galixuxwix.",
+        "english": "It became dark. [WTI.12.6]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "galixwax": {
+    "root": "galixwax",
+    "partOfSpeech": "vb",
+    "definition": "he became",
+    "seeAlso": [
+      "-x, -x-X̲"
+    ]
+  },
   "galixwaxit": {
     "root": "galixwaxit",
     "partOfSpeech": "vb",
@@ -22082,6 +22285,79 @@
     "definition": "he became [WTIV.2.20], it[i-] became [WTIV.2.23]",
     "seeAlso": [
       "-X̲, -x-X̲"
+    ]
+  },
+  "galixíluxax": {
+    "root": "galixíluxax",
+    "partOfSpeech": "vb",
+    "definition": "he inherited a spirit",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "galixúckwt": {
+    "root": "galixúckwt",
+    "partOfSpeech": "vb",
+    "definition": "he was caught in the trap",
+    "seeAlso": [
+      "-x-CKWT"
+    ]
+  },
+  "galixúlalemchk": {
+    "root": "galixúlalemchk",
+    "partOfSpeech": "vb",
+    "definition": "he kept on do- ing"
+  },
+  "galixútk": {
+    "root": "galixútk",
+    "partOfSpeech": "vb",
+    "definition": "he put it[i-] [WTI.1i.4], he hid him [WTI.9.9]",
+    "seeAlso": [
+      "-x-TK"
+    ]
+  },
+  "galixłelix": {
+    "root": "galixłelix",
+    "partOfSpeech": "vb",
+    "definition": "it became warm",
+    "examples": [
+      {
+        "kiksht": "Galupa ag̲ałax; galixłíx.",
+        "english": "The sun rose; it became warm. [WTI.2.12]"
+      }
+    ],
+    "seeAlso": [
+      "-x-ŁL"
+    ]
+  },
+  "galixłuxwait": {
+    "root": "galixłuxwait",
+    "partOfSpeech": "vb",
+    "definition": "he thought",
+    "seeAlso": [
+      "-ŁUXWA, -x-ŁUXWA-it"
+    ]
+  },
+  "galixłxlemchk": {
+    "root": "galixłxlemchk",
+    "partOfSpeech": "vb",
+    "definition": "he started to eat",
+    "seeAlso": [
+      "-x-ŁX̲LM"
+    ]
+  },
+  "galixłxumx": {
+    "root": "galixłxumx",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] ran out",
+    "examples": [
+      {
+        "kiksht": "Aicxáp iyálipaq galixłxumx.",
+        "english": "His rope ran out (liter- ally \"was eaten up), falling some- what short.\" [WTI.1m.2]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁX̲UM"
     ]
   },
   "galix̲ux̲": {
