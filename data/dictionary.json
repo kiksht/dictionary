@@ -1314,6 +1314,163 @@
       "i-k'igalmamnił"
     ]
   },
+  "-GLA": {
+    "root": "-GLA",
+    "partOfSpeech": "vb",
+    "definition": "observe, watch, notice, see off, keep one's eyes on; be aware. This root is some- times pronounced and written -gela.",
+    "forms": [
+      {
+        "kiksht": "anyuglaya",
+        "english": "I'll see him off"
+      },
+      {
+        "kiksht": "anitglaya",
+        "english": "I'll notice him coming in"
+      },
+      {
+        "kiksht": "aqiuglaya",
+        "english": "he will be noticed"
+      },
+      {
+        "kiksht": "qługlalal",
+        "english": "they are being watched"
+      },
+      {
+        "kiksht": "nyuglalal",
+        "english": "I am watching him"
+      },
+      {
+        "kiksht": "chuglalal",
+        "english": "he is keeping his eyes on her (as she is moving about)"
+      },
+      {
+        "kiksht": "chiuglát",
+        "english": "he sees him going, has him in sight"
+      },
+      {
+        "kiksht": "endugláiwalal",
+        "english": "I see them each one (as they pass)"
+      },
+      {
+        "kiksht": "inyugla",
+        "english": "I noticed him"
+      },
+      {
+        "kiksht": "ichiugla",
+        "english": "he noticed him, saw him off"
+      },
+      {
+        "kiksht": "iqunugla",
+        "english": "I was noticed"
+      },
+      {
+        "kiksht": "iqługla",
+        "english": "they were noticed"
+      },
+      {
+        "kiksht": "nichiuglalamchk",
+        "english": "he noticed him around"
+      },
+      {
+        "kiksht": "ik'iglalal",
+        "english": "he is watching (as people go by)"
+      },
+      {
+        "kiksht": "yuglat",
+        "english": "he is seen going"
+      },
+      {
+        "kiksht": "yuglatix",
+        "english": "he has been seen [Dyk]"
+      }
+    ]
+  },
+  "-GLA-qłq": {
+    "root": "-GLA-qłq",
+    "partOfSpeech": "vb",
+    "definition": "recognize, know, iden- tify, be acquainted with, catch on to",
+    "forms": [
+      {
+        "kiksht": "anyugelqłg̲a",
+        "english": "I will be ac- quainted with him, know him thor- oughly"
+      },
+      {
+        "kiksht": "anitgelqłg̲a",
+        "english": "I will be ac- quainted with him, know him thor- oughly (distant future)"
+      },
+      {
+        "kiksht": "chiuglalqłq",
+        "english": "he is recognizing him, recognizes him"
+      },
+      {
+        "kiksht": "chiuglaqłqt",
+        "english": "he knows it[i-] now, is now thoroughly acquainted with it; he knows him (again after a long time or having forgotten him)"
+      },
+      {
+        "kiksht": "ichiuglaqłq",
+        "english": "he recognized him"
+      },
+      {
+        "kiksht": "igiuglaqłq",
+        "english": "she has caught on to it[i- ]"
+      },
+      {
+        "kiksht": "nichiuglaqłq",
+        "english": "he recognized him, became acquainted with him (last season)"
+      },
+      {
+        "kiksht": "nichiuglalqłq",
+        "english": "he was rec- ognizing him (last season)"
+      },
+      {
+        "kiksht": "nichiuglaqłqt",
+        "english": "he recognized him (gradually), was becoming familiar with him (last season)"
+      },
+      {
+        "kiksht": "nichitglaqłq",
+        "english": "he recognized him, became ac- quainted with him (last week)"
+      },
+      {
+        "kiksht": "nichitglalqłq",
+        "english": "he was recognizing him (last week)"
+      },
+      {
+        "kiksht": "nichitglaqłqt",
+        "english": "he recog- nized him (gradually), was becoming familiar with him (last week)"
+      },
+      {
+        "kiksht": "nigitglaqłq",
+        "english": "she caught on to it[i-]; she identified him (last week)"
+      },
+      {
+        "kiksht": "gachuglaqłq",
+        "english": "he identified her"
+      },
+      {
+        "kiksht": "gachduglaqłq",
+        "english": "he recognized them"
+      },
+      {
+        "kiksht": "gashxglaqłqax",
+        "english": "they 2 recognized each other"
+      },
+      {
+        "kiksht": "ik'iglalqłq",
+        "english": "he is recog- nizing"
+      },
+      {
+        "kiksht": "yuglaqłqix",
+        "english": "he is recognized; he is recognizable [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Aichka chag̲a nimuglaqłq?",
+        "english": "Did you recognize them at that time? [Dyk]"
+      }
+    ],
+    "pronunciation": "The root in this word was sometimes pronounced -gela."
+  },
   "-a-gl-CHKW'AYA-mit": {
     "root": "-a-gl-CHKW'AYA-mit",
     "partOfSpeech": "vb",
@@ -3945,6 +4102,20 @@
     ],
     "seeAlso": [
       "-qagichmág̲wamalit"
+    ]
+  },
+  "-x-giX̲w": {
+    "root": "-x-giX̲w",
+    "partOfSpeech": "vb",
+    "definition": "put beads on (bags, dresses, etc.)",
+    "forms": [
+      {
+        "kiksht": "axgixwlal",
+        "english": "she is putting beads on (bags, dresses, etc.) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-kagixwlal"
     ]
   },
   "-x-giwa": {
@@ -28087,6 +28258,14 @@
       "-X̲"
     ]
   },
+  "gixnimanix": {
+    "root": "gixnimanix",
+    "partOfSpeech": "vb",
+    "definition": "she directs him",
+    "seeAlso": [
+      "-x-NIMA"
+    ]
+  },
   "giłgelxulal": {
     "root": "giłgelxulal",
     "partOfSpeech": "vb",
@@ -30610,6 +30789,54 @@
       "-TŁXUM, i-k'itłxumnił, i- qatłxumnił, i-qatłxuł"
     ]
   },
+  "i-gixlit": {
+    "root": "i-gixlit",
+    "partOfSpeech": "n",
+    "definition": "excrement, feces, turd"
+  },
+  "i-gixpa": {
+    "root": "i-gixpa",
+    "partOfSpeech": "n",
+    "definition": "bumble bee",
+    "seeAlso": [
+      "wa-ba"
+    ]
+  },
+  "i-gixqw'a": {
+    "root": "i-gixqw'a",
+    "partOfSpeech": "n",
+    "definition": "hunter",
+    "forms": [
+      {
+        "kiksht": "ishqw'a",
+        "english": "2 hunters"
+      },
+      {
+        "kiksht": "ishqw'aya",
+        "english": "hunters"
+      }
+    ],
+    "seeAlso": [
+      "a-qw'alal"
+    ]
+  },
+  "i-gixáninagwamat": {
+    "root": "i-gixáninagwamat",
+    "partOfSpeech": "n",
+    "definition": "hide poker",
+    "forms": [
+      {
+        "kiksht": "ałgixnínagwa ip'askwal",
+        "english": "they're going to tan the hide [GT 12/30/97]"
+      }
+    ],
+    "notes": [
+      "Used to poke a hide being tanned as it is stretched on the frame. No prefix was given with this word. [Prefix i- and last -a- supplied by GT, MMc 12/30/97]"
+    ],
+    "seeAlso": [
+      "-x-NINA-kw, i-kanagwamat"
+    ]
+  },
   "i-gábenash": {
     "root": "i-gábenash",
     "partOfSpeech": "n",
@@ -31501,6 +31728,28 @@
     ],
     "seeAlso": [
       "wakw'a"
+    ]
+  },
+  "it-gixmax": {
+    "root": "it-gixmax",
+    "partOfSpeech": "n",
+    "definition": "fruit",
+    "notes": [
+      "Apparently a general term referring to either fresh or canned fruit."
+    ]
+  },
+  "it-gíwaukw'a": {
+    "root": "it-gíwaukw'a",
+    "partOfSpeech": "n",
+    "definition": "getting angry at",
+    "forms": [
+      {
+        "kiksht": "idiagíwaukw'a",
+        "english": "he is one who gets angry at people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "waukw'a"
     ]
   },
   "ił-alakásgwilit": {
