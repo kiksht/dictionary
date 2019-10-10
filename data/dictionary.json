@@ -18028,12 +18028,282 @@
       "-T"
     ]
   },
+  "gachailuxix": {
+    "root": "gachailuxix",
+    "partOfSpeech": "vb",
+    "definition": "he did it[a-] to it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachaixuqsh": {
+    "root": "gachaixuqsh",
+    "partOfSpeech": "vb",
+    "definition": "he bit it[a-] off from him",
+    "examples": [
+      {
+        "kiksht": "Ilalik gachaixuqsh ayáich.",
+        "english": "He bit Rabbit's tail off from him. [Coyote and Rabbit K]"
+      }
+    ],
+    "seeAlso": [
+      "-QSH"
+    ]
+  },
+  "gachaixux": {
+    "root": "gachaixux",
+    "partOfSpeech": "vb",
+    "definition": "he did to it[a-] which belonged to him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachalgalq": {
+    "root": "gachalgalq",
+    "partOfSpeech": "vb",
+    "definition": "she got burnt, she burned [WTI.1j.5], it burned [WTI.11.15]",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "gachalkitk": {
+    "root": "gachalkitk",
+    "partOfSpeech": "vb",
+    "definition": "he packed them[a-] into it[a-]",
+    "seeAlso": [
+      "-KITK"
+    ]
+  },
+  "gachalq'ílachu": {
+    "root": "gachalq'ílachu",
+    "partOfSpeech": "vb",
+    "definition": "he swept them[a- ] down",
+    "seeAlso": [
+      "-a-l-Q'ILA-chu"
+    ]
+  },
+  "gachalxádagwa": {
+    "root": "gachalxádagwa",
+    "partOfSpeech": "vb",
+    "definition": "she came to",
+    "seeAlso": [
+      "-ch-l-xa-DA-kw"
+    ]
+  },
+  "gachalłada": {
+    "root": "gachalłada",
+    "partOfSpeech": "vb",
+    "definition": "he spanned it[a-]",
+    "examples": [
+      {
+        "kiksht": "Gachalłada ałaxit.",
+        "english": "He spanned the bow. [WTI.2.4]"
+      }
+    ],
+    "seeAlso": [
+      "-l-ŁADA"
+    ]
+  },
+  "gachanlukłamx": {
+    "root": "gachanlukłamx",
+    "partOfSpeech": "vb",
+    "definition": "he brought it[a-] to me",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gachashkxaima": {
+    "root": "gachashkxaima",
+    "partOfSpeech": "vb",
+    "definition": "he laid it[a-] on them 2",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "gachashxux": {
+    "root": "gachashxux",
+    "partOfSpeech": "vb",
+    "definition": "he did it[a-] from them 2",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gachawiqłaxit": {
     "root": "gachawiqłaxit",
     "partOfSpeech": "vb",
     "definition": "he heard about them",
     "seeAlso": [
       "-l-QŁA-xit"
+    ]
+  },
+  "gachaxima": {
+    "root": "gachaxima",
+    "partOfSpeech": "vb",
+    "definition": "he laid her down",
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
+  "gachaximachu": {
+    "root": "gachaximachu",
+    "partOfSpeech": "vb",
+    "definition": "he laid her down",
+    "seeAlso": [
+      "-x-IMA-chu"
+    ]
+  },
+  "gachaxpu": {
+    "root": "gachaxpu",
+    "partOfSpeech": "vb",
+    "definition": "he closed it[a-]",
+    "examples": [
+      {
+        "kiksht": "Gachaxpu ich'inun waskán.",
+        "english": "Eagle closed the box. [WTI.9.9]"
+      }
+    ],
+    "seeAlso": [
+      "-x-PU"
+    ]
+  },
+  "gachaxuxwax": {
+    "root": "gachaxuxwax",
+    "partOfSpeech": "vb",
+    "definition": "he did it[a-] from her",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachaxútxmalitemchk": {
+    "root": "gachaxútxmalitemchk",
+    "partOfSpeech": "vb",
+    "definition": "he caused them[a-] to stand on one another",
+    "seeAlso": [
+      "-TX(WI), -TX-mit"
+    ]
+  },
+  "gachdalq'ílachu": {
+    "root": "gachdalq'ílachu",
+    "partOfSpeech": "vb",
+    "definition": "he swept them back down",
+    "seeAlso": [
+      "-a-l-Q'ILA-chu"
+    ]
+  },
+  "gachdaluxwax": {
+    "root": "gachdaluxwax",
+    "partOfSpeech": "vb",
+    "definition": "he stuck them into them[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachdelxlút": {
+    "root": "gachdelxlút",
+    "partOfSpeech": "vb",
+    "definition": "he gave them to us",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gachdilut": {
+    "root": "gachdilut",
+    "partOfSpeech": "vb",
+    "definition": "he gave them to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gachdilux": {
+    "root": "gachdilux",
+    "partOfSpeech": "vb",
+    "definition": "he put it[it-] into it[i-] [WTI.4.14], he did them at him [WTI.10.6]",
+    "examples": [
+      {
+        "kiksht": "Idiałxiwulx gachdilux ich'inun ikuma.",
+        "english": "Eagle put strength into the cottonwood. [WTI.4.14]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachdulaba": {
+    "root": "gachdulaba",
+    "partOfSpeech": "vb",
+    "definition": "he dug them up",
+    "seeAlso": [
+      "-LA-pa"
+    ]
+  },
+  "gachdulxam": {
+    "root": "gachdulxam",
+    "partOfSpeech": "vb",
+    "definition": "he told them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachdumg̲emchxugwa": {
+    "root": "gachdumg̲emchxugwa",
+    "partOfSpeech": "vb",
+    "definition": "he asked them",
+    "seeAlso": [
+      "-g̲m-CHX̲U-kw"
+    ]
+  },
+  "gachdúdina": {
+    "root": "gachdúdina",
+    "partOfSpeech": "vb",
+    "definition": "he killed them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "gachdúksdamit": {
+    "root": "gachdúksdamit",
+    "partOfSpeech": "vb",
+    "definition": "he cooked it[it-]",
+    "seeAlso": [
+      "-KSTA-mit"
+    ]
+  },
+  "gachdúmichk'i": {
+    "root": "gachdúmichk'i",
+    "partOfSpeech": "vb",
+    "definition": "he gathered them",
+    "seeAlso": [
+      "-MICHK'I"
+    ]
+  },
+  "gachentxa": {
+    "root": "gachentxa",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] did me",
+    "examples": [
+      {
+        "kiksht": "dan wawa gachentxa",
+        "english": "what it was that spoke to me [WTIV.2.20]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gacháwichmaq": {
+    "root": "gacháwichmaq",
+    "partOfSpeech": "vb",
+    "definition": "he heard them",
+    "seeAlso": [
+      "-l-CHMA-qw"
+    ]
+  },
+  "gacháwigaluqwax": {
+    "root": "gacháwigaluqwax",
+    "partOfSpeech": "vb",
+    "definition": "it[it-] burned",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
     ]
   },
   "gaciukwshtam": {
