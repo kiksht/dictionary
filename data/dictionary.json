@@ -17112,6 +17112,36 @@
       "-xl-KIŁX̲"
     ]
   },
+  "emshxelp'álaulal": {
+    "root": "emshxelp'álaulal",
+    "partOfSpeech": "vb",
+    "definition": "you folks are talking to one another",
+    "examples": [
+      {
+        "kiksht": "Qikláix giká emshkiax kanawá kiksht emshxelp'álaulal.",
+        "english": "Glad you're here all talking Wasco. [CLL5]"
+      }
+    ],
+    "seeAlso": [
+      "-xl-P'ALAU-lal"
+    ]
+  },
+  "emshxilait": {
+    "root": "emshxilait",
+    "partOfSpeech": "vb",
+    "definition": "(you folks) sit!",
+    "seeAlso": [
+      "-xi-LA-it"
+    ]
+  },
+  "emshxpshúiwalit": {
+    "root": "emshxpshúiwalit",
+    "partOfSpeech": "vb",
+    "definition": "you folks all keep hiding yourselves",
+    "seeAlso": [
+      "-PSHU"
+    ]
+  },
   "emshxángidwichatk": {
     "root": "emshxángidwichatk",
     "partOfSpeech": "vb",
@@ -17128,6 +17158,22 @@
       "-X̲, -x-X̲"
     ]
   },
+  "emshxłuxwan": {
+    "root": "emshxłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "you folks think",
+    "seeAlso": [
+      "-x-ŁUXWA"
+    ]
+  },
+  "emshxłxelmax": {
+    "root": "emshxłxelmax",
+    "partOfSpeech": "vb",
+    "definition": "you folks are eating",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
   "emsik'lutkt": {
     "root": "emsik'lutkt",
     "partOfSpeech": "vb",
@@ -17136,12 +17182,219 @@
       "-s-k'l-TK"
     ]
   },
+  "emtgentlxam": {
+    "root": "emtgentlxam",
+    "partOfSpeech": "vb",
+    "definition": "tell me (you 2)!",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "emtktxá": {
+    "root": "emtktxá",
+    "partOfSpeech": "vb",
+    "definition": "you 2 do them!",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "emtxelkwłilal": {
+    "root": "emtxelkwłilal",
+    "partOfSpeech": "vb",
+    "definition": "you 2 are speak- ing to each other",
+    "seeAlso": [
+      "-KWŁI"
+    ]
+  },
+  "emtxélwichatk": {
+    "root": "emtxélwichatk",
+    "partOfSpeech": "vb",
+    "definition": "listen",
+    "seeAlso": [
+      "-xl-WICHA-tk"
+    ]
+  },
+  "emtxkw'a": {
+    "root": "emtxkw'a",
+    "partOfSpeech": "vb",
+    "definition": "you 2 go home!",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "emtxulal": {
+    "root": "emtxulal",
+    "partOfSpeech": "vb",
+    "definition": "you 2 talk",
+    "seeAlso": [
+      "-X̲ULAL"
+    ]
+  },
+  "emtxánitkwłichk": {
+    "root": "emtxánitkwłichk",
+    "partOfSpeech": "vb",
+    "definition": "tell me (you 2)!",
+    "seeAlso": [
+      "-KWŁI"
+    ]
+  },
+  "emtí": {
+    "root": "emtí",
+    "partOfSpeech": "vb",
+    "definition": "come here!",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "emxdachgwa": {
+    "root": "emxdachgwa",
+    "partOfSpeech": "vb",
+    "definition": "stick your head out of water!",
+    "seeAlso": [
+      "-k-TA-chkw"
+    ]
+  },
+  "emxelgagwa": {
+    "root": "emxelgagwa",
+    "partOfSpeech": "vb",
+    "definition": "turn around!",
+    "seeAlso": [
+      "-xl-KA-kw"
+    ]
+  },
+  "emxelp'alaulalchk": {
+    "root": "emxelp'alaulalchk",
+    "partOfSpeech": "vb",
+    "definition": "speak!",
+    "seeAlso": [
+      "-xl-P'ALAU-lal"
+    ]
+  },
+  "emxelqłát": {
+    "root": "emxelqłát",
+    "partOfSpeech": "vb",
+    "definition": "you find out [WTI.11.2], you know [WTIII.3.1]",
+    "seeAlso": [
+      "-xl-QŁA"
+    ]
+  },
+  "emxgigladix": {
+    "root": "emxgigladix",
+    "partOfSpeech": "vb",
+    "definition": "you understand",
+    "seeAlso": [
+      "-x-gi-GLA-dix"
+    ]
+  },
+  "emxg̲uitq": {
+    "root": "emxg̲uitq",
+    "partOfSpeech": "vb",
+    "definition": "wake up!",
+    "seeAlso": [
+      "-x- G̲UITQ"
+    ]
+  },
+  "emxg̲watam": {
+    "root": "emxg̲watam",
+    "partOfSpeech": "vb",
+    "definition": "go to bathe your- self!",
+    "seeAlso": [
+      "-QWAT"
+    ]
+  },
+  "emxk'idi": {
+    "root": "emxk'idi",
+    "partOfSpeech": "vb",
+    "definition": "get dressed!, dress yourself!",
+    "seeAlso": [
+      "-x-K'ITI"
+    ]
+  },
+  "emxláchk": {
+    "root": "emxláchk",
+    "partOfSpeech": "vb",
+    "definition": "arise!",
+    "seeAlso": [
+      "-x-LA-chk"
+    ]
+  },
+  "emxtgiglagwax": {
+    "root": "emxtgiglagwax",
+    "partOfSpeech": "vb",
+    "definition": "you feel",
+    "seeAlso": [
+      "-x-gi-GLA-kw"
+    ]
+  },
+  "emxux": {
+    "root": "emxux",
+    "partOfSpeech": "vb",
+    "definition": "become! [WTI.1c.12], do! [WTI.17.15]",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "emxłélt": {
+    "root": "emxłélt",
+    "partOfSpeech": "vb",
+    "definition": "you are hot",
+    "seeAlso": [
+      "-x-ŁL"
+    ]
+  },
+  "emxłuxwan": {
+    "root": "emxłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "you think",
+    "seeAlso": [
+      "-x-ŁUXWA(N)"
+    ]
+  },
   "emłuxwan": {
     "root": "emłuxwan",
     "partOfSpeech": "vb",
     "definition": "you think",
     "seeAlso": [
       "łuxwa"
+    ]
+  },
+  "enda": {
+    "root": "enda",
+    "partOfSpeech": "pron",
+    "definition": "we 2 (not including you) for our part, us 2 (not including you) for our part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"you do that, we for our part do this.\""
+    ]
+  },
+  "endaika": {
+    "root": "endaika",
+    "partOfSpeech": "pron",
+    "definition": "we 2 (not including you), us 2 (not including you)",
+    "notes": [
+      "Independent personal pro- noun."
+    ]
+  },
+  "endaima": {
+    "root": "endaima",
+    "partOfSpeech": "pron",
+    "definition": "only we 2 (not in- cluding you), only us 2 (not includ- ing you)"
+  },
+  "endait'a": {
+    "root": "endait'a",
+    "partOfSpeech": "pron",
+    "definition": "we 2 (not including you) also, us 2 (not including you) also"
+  },
+  "endait'ax": {
+    "root": "endait'ax",
+    "partOfSpeech": "pron",
+    "definition": "we 2 (not including you) also, us 2 (not including you) also"
+  },
+  "endax": {
+    "root": "endax",
+    "partOfSpeech": "pron",
+    "definition": "we 2 (not including you) for our part, us 2 (not including you) for our part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"you do that, we for our part do this.\""
     ]
   },
   "ełbél": {
@@ -19308,6 +19561,17 @@
     "root": "ił-emqa",
     "partOfSpeech": "n",
     "definition": "valley [WTI.3.13], meadow [Dyk]"
+  },
+  "ił-emt'íks": {
+    "root": "ił-emt'íks",
+    "partOfSpeech": "n",
+    "definition": "calf (of leg)",
+    "forms": [
+      {
+        "kiksht": "id-emt'iksmax",
+        "english": "calves"
+      }
+    ]
   },
   "kinwa": {
     "root": "kinwa",
