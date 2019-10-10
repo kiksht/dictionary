@@ -23865,6 +23865,140 @@
       "-QŁA-it"
     ]
   },
+  "gaqishlut": {
+    "root": "gaqishlut",
+    "partOfSpeech": "vb",
+    "definition": "one gave it[i-] to them 2, it[i-] was given to them 2",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gaqiubunachk": {
+    "root": "gaqiubunachk",
+    "partOfSpeech": "vb",
+    "definition": "one lifted him up, he was lifted up",
+    "seeAlso": [
+      "-BUNA-chkw"
+    ]
+  },
+  "gaqiukshtam": {
+    "root": "gaqiukshtam",
+    "partOfSpeech": "vb",
+    "definition": "one went to look for him",
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "gaqiukshtpa": {
+    "root": "gaqiukshtpa",
+    "partOfSpeech": "vb",
+    "definition": "one carried him out, he was carried out",
+    "seeAlso": [
+      "-KSHT, -PA"
+    ]
+  },
+  "gaqiukł": {
+    "root": "gaqiukł",
+    "partOfSpeech": "vb",
+    "definition": "one took him along, he was taken along [WTI.12.4], one car- ried him, he was carried [WTIV.2.20]",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gaqiulxam": {
+    "root": "gaqiulxam",
+    "partOfSpeech": "vb",
+    "definition": "one told him, he was told",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gaqiulxamam": {
+    "root": "gaqiulxamam",
+    "partOfSpeech": "vb",
+    "definition": "one went to tell him",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gaqiushgámakwax": {
+    "root": "gaqiushgámakwax",
+    "partOfSpeech": "vb",
+    "definition": "one captured him, he was captured",
+    "seeAlso": [
+      "-SHKAMA-kw"
+    ]
+  },
+  "gaqiutxmitx": {
+    "root": "gaqiutxmitx",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] was set up",
+    "seeAlso": [
+      "-TX(WI)-mit"
+    ]
+  },
+  "gaqiux": {
+    "root": "gaqiux",
+    "partOfSpeech": "vb",
+    "definition": "one did to him, he was done (to) [WTI.4.9], he was made [WTI.1i.1]",
+    "examples": [
+      {
+        "kiksht": "Tł'u gaqiux ik'ástila.",
+        "english": "Crab was guessed, someone guessed Crab [in stick-game]. [WTI.4.9]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqiuxwałádapax": {
+    "root": "gaqiuxwałádapax",
+    "partOfSpeech": "vb",
+    "definition": "one took him out, he was taken out [Sapir], he was pulled out of something [GT, MMc 1/ 15/99]",
+    "seeAlso": [
+      "-x-ŁADA-pa"
+    ]
+  },
+  "gaqiułada": {
+    "root": "gaqiułada",
+    "partOfSpeech": "vb",
+    "definition": "one dragged him, he was dragged",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "gaqiułat'amelq": {
+    "root": "gaqiułat'amelq",
+    "partOfSpeech": "vb",
+    "definition": "one swallowed him, he was swallowed",
+    "seeAlso": [
+      "-ŁAT'AMLQ"
+    ]
+  },
+  "gaqiułat'áulx": {
+    "root": "gaqiułat'áulx",
+    "partOfSpeech": "vb",
+    "definition": "one slung it[i-] up into the air, one threw it[i-] upwards",
+    "seeAlso": [
+      "-ŁAT'A, -WULX"
+    ]
+  },
+  "gaqixdakwax": {
+    "root": "gaqixdakwax",
+    "partOfSpeech": "vb",
+    "definition": "one passed him by, he was passed by",
+    "seeAlso": [
+      "-x-TA-kw"
+    ]
+  },
+  "gaqixutgax": {
+    "root": "gaqixutgax",
+    "partOfSpeech": "vb",
+    "definition": "one enclosed him, he was enclosed",
+    "seeAlso": [
+      "-x-u-TK"
+    ]
+  },
   "gaqiálimałxax": {
     "root": "gaqiálimałxax",
     "partOfSpeech": "vb",
@@ -23879,6 +24013,17 @@
     "definition": "one gave it[i-] to them, it[i-] was given to them",
     "seeAlso": [
       "-T"
+    ]
+  },
+  "gaqnulapax": {
+    "root": "gaqnulapax",
+    "partOfSpeech": "vb",
+    "definition": "one dug me up",
+    "notes": [
+      "Possibly a misspelling for gaqnulapax. Compare gaqndulapax."
+    ],
+    "seeAlso": [
+      "-LA, -PA, -LA-pa"
     ]
   },
   "gaqág̲elgelx": {
@@ -23935,6 +24080,28 @@
       "-X̲"
     ]
   },
+  "gaqíutkam": {
+    "root": "gaqíutkam",
+    "partOfSpeech": "vb",
+    "definition": "one went to bury him",
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt gaqíutkam isk'ulya wilxpa.",
+        "english": "Now then they went to bury Coyote in the ground. [WTI.8.1]"
+      }
+    ],
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "gaqíuxax": {
+    "root": "gaqíuxax",
+    "partOfSpeech": "vb",
+    "definition": "one did it[i-], it[i-] was done [WTIV.2.4, 12], one did him, he was done [WTIV.2.18]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gaqíłluxax": {
     "root": "gaqíłluxax",
     "partOfSpeech": "vb",
@@ -23947,6 +24114,70 @@
     ],
     "seeAlso": [
       "-X̲"
+    ]
+  },
+  "gaqłgelga": {
+    "root": "gaqłgelga",
+    "partOfSpeech": "vb",
+    "definition": "one took him[ił-], he[ił-] was taken",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gaqłilut": {
+    "root": "gaqłilut",
+    "partOfSpeech": "vb",
+    "definition": "one gave it to him, he was given it",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gaqłulxam": {
+    "root": "gaqłulxam",
+    "partOfSpeech": "vb",
+    "definition": "one told them, they were told",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gaqłulxamam": {
+    "root": "gaqłulxamam",
+    "partOfSpeech": "vb",
+    "definition": "one went to tell them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gaqłuqemsht": {
+    "root": "gaqłuqemsht",
+    "partOfSpeech": "vb",
+    "definition": "one drank it, it was drunk",
+    "seeAlso": [
+      "-QEMSHT"
+    ]
+  },
+  "gaqłuxwax": {
+    "root": "gaqłuxwax",
+    "partOfSpeech": "vb",
+    "definition": "one did to them, it was done to them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqłúdina": {
+    "root": "gaqłúdina",
+    "partOfSpeech": "vb",
+    "definition": "one killed them, they were killed",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "gaqłútx": {
+    "root": "gaqłútx",
+    "partOfSpeech": "vb",
+    "definition": "one gave them out, they were given out",
+    "seeAlso": [
+      "-T"
     ]
   },
   "gayux̲uni": {
