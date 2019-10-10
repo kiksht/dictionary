@@ -22406,6 +22406,236 @@
       "-PQ"
     ]
   },
+  "galugwaba": {
+    "root": "galugwaba",
+    "partOfSpeech": "vb",
+    "definition": "they escaped",
+    "seeAlso": [
+      "-KA-pa"
+    ]
+  },
+  "galugwagímx": {
+    "root": "galugwagímx",
+    "partOfSpeech": "vb",
+    "definition": "they said",
+    "seeAlso": [
+      "-ga-KIM"
+    ]
+  },
+  "galugwakíłk": {
+    "root": "galugwakíłk",
+    "partOfSpeech": "vb",
+    "definition": "they won out",
+    "seeAlso": [
+      "-ki-ŁKW, -ŁKW, -ŁQW"
+    ]
+  },
+  "galugwawulx": {
+    "root": "galugwawulx",
+    "partOfSpeech": "vb",
+    "definition": "she arose (of sun)",
+    "seeAlso": [
+      "-KA-wulx"
+    ]
+  },
+  "galugwilaida": {
+    "root": "galugwilaida",
+    "partOfSpeech": "vb",
+    "definition": "she will doctor",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "galugwálalamchk": {
+    "root": "galugwálalamchk",
+    "partOfSpeech": "vb",
+    "definition": "they started singing",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "galugwálalamx": {
+    "root": "galugwálalamx",
+    "partOfSpeech": "vb",
+    "definition": "they sang",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "galuix": {
+    "root": "galuix",
+    "partOfSpeech": "vb",
+    "definition": "she went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "galukwa": {
+    "root": "galukwa",
+    "partOfSpeech": "vb",
+    "definition": "she flew [WTI.17.11], it[a-] flew [WTIV.1.1]",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "galupa": {
+    "root": "galupa",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] went out",
+    "examples": [
+      {
+        "kiksht": "Galupa ag̲ałax.",
+        "english": "The sun went out, the sun rose. [WTI.2.12]"
+      }
+    ],
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "galuxakw'ayu": {
+    "root": "galuxakw'ayu",
+    "partOfSpeech": "vb",
+    "definition": "they each started for home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "galuxinímchk": {
+    "root": "galuxinímchk",
+    "partOfSpeech": "vb",
+    "definition": "they mourned",
+    "seeAlso": [
+      "-xi-NIM"
+    ]
+  },
+  "galuxtkiax": {
+    "root": "galuxtkiax",
+    "partOfSpeech": "vb",
+    "definition": "it[it-] was",
+    "seeAlso": [
+      "-XTKIAX̲"
+    ]
+  },
+  "galuxtkixax": {
+    "root": "galuxtkixax",
+    "partOfSpeech": "vb",
+    "definition": "they used to do",
+    "seeAlso": [
+      "-XTKIX̲AX̲"
+    ]
+  },
+  "galuxuni": {
+    "root": "galuxuni",
+    "partOfSpeech": "vb",
+    "definition": "she drifted down- stream",
+    "seeAlso": [
+      "-X̲UNI"
+    ]
+  },
+  "galuxwadina": {
+    "root": "galuxwadina",
+    "partOfSpeech": "vb",
+    "definition": "they fought with one another",
+    "seeAlso": [
+      "-x-DINA"
+    ]
+  },
+  "galuxwadinax": {
+    "root": "galuxwadinax",
+    "partOfSpeech": "vb",
+    "definition": "they fought with one another",
+    "seeAlso": [
+      "-x-DINA"
+    ]
+  },
+  "galuxwak'áyawulalemchk": {
+    "root": "galuxwak'áyawulalemchk",
+    "partOfSpeech": "vb",
+    "definition": "they laughed",
+    "seeAlso": [
+      "-x-K'AYAWU"
+    ]
+  },
+  "galuxwakw'ayu": {
+    "root": "galuxwakw'ayu",
+    "partOfSpeech": "vb",
+    "definition": "they each went home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "galuxwaq": {
+    "root": "galuxwaq",
+    "partOfSpeech": "vb",
+    "definition": "they gathered",
+    "seeAlso": [
+      "-xa-QW"
+    ]
+  },
+  "galuxwax": {
+    "root": "galuxwax",
+    "partOfSpeech": "vb",
+    "definition": "they became [WTI.4.9, 11.6, 15.6, IV.2.6], they were made [WTIV.2.8, 11], it[it-] became [WTI.13.8], they were done [WTIV.2.17]",
+    "examples": [
+      {
+        "kiksht": "Tł'u gaqiux ik'ástila; datłpaqtłpaq idiakshen galuxwax.",
+        "english": "Someone guessed Crab; his hands became all cracked open. [WTI.4.9]"
+      },
+      {
+        "kiksht": "Galuxwax qiq'aqba gashtxwamax itkiúdaniksh.",
+        "english": "The pack horses were put in the middle. [WTIV.2.8]"
+      },
+      {
+        "kiksht": "Łk'up galuxwax itg̲wálala.",
+        "english": "The guns were shot. [WTIV.2.17]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "galuxwaxax": {
+    "root": "galuxwaxax",
+    "partOfSpeech": "vb",
+    "definition": "it[it-] became [WTI.11.13], they were done [WTIV.2.5], they became [WTIV.2.14]",
+    "examples": [
+      {
+        "kiksht": "Sg̲itłíq k'aya galuxwaxax itxwdlít.",
+        "english": "After a little while the smoke disappeared. [WTI.11.13]"
+      },
+      {
+        "kiksht": "Łk'upłk'up galuxwaxax itg̲wálala.",
+        "english": "The guns were shot off. [WTIV.2.5]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "galuxwałait": {
+    "root": "galuxwałait",
+    "partOfSpeech": "vb",
+    "definition": "they died",
+    "seeAlso": [
+      "-x-ŁA-it"
+    ]
+  },
+  "galuxwéłuxwait": {
+    "root": "galuxwéłuxwait",
+    "partOfSpeech": "vb",
+    "definition": "they thought",
+    "seeAlso": [
+      "-x-ŁUXWA"
+    ]
+  },
+  "galuxwálalemchk": {
+    "root": "galuxwálalemchk",
+    "partOfSpeech": "vb",
+    "definition": "they kept shaking",
+    "seeAlso": [
+      "-x-LA"
+    ]
+  },
   "galáig̲luqłq": {
     "root": "galáig̲luqłq",
     "partOfSpeech": "vb",
@@ -22426,6 +22656,22 @@
     "root": "galíxelqłaxit",
     "partOfSpeech": "vb",
     "definition": "he learned",
+    "seeAlso": [
+      "-xl-QŁA-xit"
+    ]
+  },
+  "galúgwakim": {
+    "root": "galúgwakim",
+    "partOfSpeech": "vb",
+    "definition": "they said",
+    "seeAlso": [
+      "-KIM, -gwa-KIM"
+    ]
+  },
+  "galúxiqłaxit": {
+    "root": "galúxiqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "they found out, they learned",
     "seeAlso": [
       "-xl-QŁA-xit"
     ]
@@ -24176,6 +24422,17 @@
     ],
     "seeAlso": [
       "i-pchudit"
+    ]
+  },
+  "is-galpqdit": {
+    "root": "is-galpqdit",
+    "partOfSpeech": "n",
+    "definition": "strap, sling",
+    "notes": [
+      "Could refer to a bow-string, chin-strap of a hat, or a rifle strap. PK apparently gave this word in this form and as is-ilpqdit, without any indication of difference in meaning."
+    ],
+    "seeAlso": [
+      "is-elpqdit, is-qalpdit"
     ]
   },
   "ish- -ditł'i": {
