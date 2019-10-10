@@ -145,6 +145,33 @@
       "- G̲ILX"
     ]
   },
+  "- G̲ILX": {
+    "root": "- G̲ILX",
+    "partOfSpeech": "vb",
+    "definition": "strike, hit, whip, maul",
+    "forms": [
+      {
+        "kiksht": "aqiug̲wilxma",
+        "english": "one will strike him [WTI.10.2]"
+      },
+      {
+        "kiksht": "gachug̲wilx",
+        "english": "he struck her [WTI.4.16]"
+      },
+      {
+        "kiksht": "gagiugwílx",
+        "english": "she whipped him [WTI.16]"
+      }
+    ],
+    "seeAlso": [
+      "i-kag̲ililxłamat, i-k'ig̲ililxł"
+    ]
+  },
+  "- G̲IŁDE see - G̲IŁT": {
+    "root": "- G̲IŁDE see - G̲IŁT",
+    "partOfSpeech": "- ̋IÒDE see - ̋IÒT",
+    "definition": "- G̲IŁDE see - G̲IŁTI"
+  },
   "-(i)-gl-xi-GLA-dix": {
     "root": "-(i)-gl-xi-GLA-dix",
     "partOfSpeech": "vb",
@@ -3906,6 +3933,33 @@
       "-s-l-CGI, -s-l-CGI-ma, -s-l- CGI-mit"
     ]
   },
+  "-sh(t)- G̲IŁDE-mit": {
+    "root": "-sh(t)- G̲IŁDE-mit",
+    "partOfSpeech": "vb",
+    "definition": "cause to rain, make rain",
+    "forms": [
+      {
+        "kiksht": "anshug̲wiłdemida",
+        "english": "I'll make it rain"
+      },
+      {
+        "kiksht": "nakshug̲wíłdemida",
+        "english": "she made it rain"
+      },
+      {
+        "kiksht": "nakshtg̲íłdemida",
+        "english": "she made it rain (here, this way)"
+      },
+      {
+        "kiksht": "nichshtg̲íłdemida",
+        "english": "he made it rain (last week)"
+      },
+      {
+        "kiksht": "nichug̲wíłdemit",
+        "english": "he made it rain (last season) [Dyk]"
+      }
+    ]
+  },
   "-sh-DITŁ'I": {
     "root": "-sh-DITŁ'I",
     "partOfSpeech": "vb",
@@ -4127,6 +4181,24 @@
       "ish-qachichemnakwt"
     ]
   },
+  "-sh-xl- G̲IŁQAU": {
+    "root": "-sh-xl- G̲IŁQAU",
+    "partOfSpeech": "vb",
+    "definition": "cry, scream around",
+    "forms": [
+      {
+        "kiksht": "shaxelg̲iłqau",
+        "english": "she is crying, screaming around (probably small child)"
+      },
+      {
+        "kiksht": "shixelg̲iłqau",
+        "english": "he is crying, screaming around [GT, MMc 6/5/ 98]"
+      }
+    ],
+    "notes": [
+      "Generally used only of small children."
+    ]
+  },
   "-sh-xl-GLA-kw-chkw": {
     "root": "-sh-xl-GLA-kw-chkw",
     "partOfSpeech": "vb",
@@ -4136,6 +4208,78 @@
         "kiksht": "ashemxélglagwachkwa",
         "english": "you will take care of yourself [Spilyay/ Healthy Nations]"
       }
+    ]
+  },
+  "-sht- G̲IŁTI": {
+    "root": "-sht- G̲IŁTI",
+    "partOfSpeech": "vb",
+    "definition": "rain",
+    "forms": [
+      {
+        "kiksht": "ashtug̲wiłtia",
+        "english": "it will rain (there, that way)"
+      },
+      {
+        "kiksht": "ashtg̲íłtia",
+        "english": "it will rain (here, this way; or distant fu- ture)"
+      },
+      {
+        "kiksht": "shtug̲wiłti",
+        "english": "it is raining"
+      },
+      {
+        "kiksht": "shtut'ug̲wiłti",
+        "english": "it is really raining"
+      },
+      {
+        "kiksht": "shtumlag̲iłti",
+        "english": "it is raining badly"
+      },
+      {
+        "kiksht": "shtg̲iłti",
+        "english": "it was raining; it raining here, this way"
+      },
+      {
+        "kiksht": "shtug̲wiłd§nił",
+        "english": "it is raining (right along)"
+      },
+      {
+        "kiksht": "nishtug̲wiłti",
+        "english": "it rained (last season)"
+      },
+      {
+        "kiksht": "nishtg̲iłti",
+        "english": "it rained (last week)"
+      },
+      {
+        "kiksht": "nishtmlag̲iłti",
+        "english": "it rained badly (last week)"
+      },
+      {
+        "kiksht": "gashtug̲wiłti",
+        "english": "it rained"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ashtug̲wíłtiya alma ag̲a kadux.",
+        "english": "It's going to rain tomorrow."
+      },
+      {
+        "kiksht": "Daqł nashtug̲wíłtiya.",
+        "english": "It rained yes- terday. [MMc, GT]"
+      },
+      {
+        "kiksht": "Shpak it'uktix shtug̲wiłti.",
+        "english": "It is raining good and hard."
+      },
+      {
+        "kiksht": "Łau shtg̲iłti.",
+        "english": "It is raining."
+      }
+    ],
+    "seeAlso": [
+      "ish-g̲wiłti, -sh(t)-g̲iłdemit, - G̲IŁDE"
     ]
   },
   "-sk'ulya": {
@@ -29703,6 +29847,17 @@
       }
     ]
   },
+  "g̲ish": {
+    "root": "g̲ish",
+    "partOfSpeech": "part",
+    "definition": "call down, bawl out",
+    "notes": [
+      "Refers to calling down or bawling out after hearing that nasty, mean, lying things have been said about one."
+    ],
+    "seeAlso": [
+      "k'ig̲ishg̲ish, i-k'ig̲ishg̲ish"
+    ]
+  },
   "g̲ánwicha": {
     "root": "g̲ánwicha",
     "partOfSpeech": "interj",
@@ -30074,6 +30229,22 @@
       {
         "kiksht": "ichag̲aitł",
         "english": "she/it[a-] is big"
+      }
+    ]
+  },
+  "i- -g̲ínadux": {
+    "root": "i- -g̲ínadux",
+    "partOfSpeech": "adj n",
+    "definition": "greedy"
+  },
+  "i- -g̲ípx": {
+    "root": "i- -g̲ípx",
+    "partOfSpeech": "adj n",
+    "definition": "jealous",
+    "forms": [
+      {
+        "kiksht": "iyag̲ípx",
+        "english": "he's jealous [GT, MMc 1/12/99]"
       }
     ]
   },
@@ -32657,6 +32828,20 @@
       }
     ]
   },
+  "i-g̲iqshtamnił": {
+    "root": "i-g̲iqshtamnił",
+    "partOfSpeech": "n",
+    "definition": "checking, visiting, field nurse",
+    "forms": [
+      {
+        "kiksht": "ichag̲iqshtamnił",
+        "english": "(female) field nurse"
+      }
+    ],
+    "seeAlso": [
+      "i-chag̲iqshtamnił"
+    ]
+  },
   "i-g̲ánina": {
     "root": "i-g̲ánina",
     "partOfSpeech": "n",
@@ -32678,6 +32863,11 @@
     "seeAlso": [
       "ił-g̲apt"
     ]
+  },
+  "i-g̲íluqwaq": {
+    "root": "i-g̲íluqwaq",
+    "partOfSpeech": "n",
+    "definition": "water lily"
   },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
@@ -33008,6 +33198,30 @@
     "root": "ish-g̲ashnaigi",
     "partOfSpeech": "n",
     "definition": "small blue and white lizard"
+  },
+  "ish-g̲iłti": {
+    "root": "ish-g̲iłti",
+    "partOfSpeech": "n",
+    "definition": "rain",
+    "forms": [
+      {
+        "kiksht": "ishmig̲iłti",
+        "english": "your rain; you make rain [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Inshux ishg̲iłti.",
+        "english": "I made rain. [Dyk]"
+      },
+      {
+        "kiksht": "Tai wax shkixax ishg̲iłti.",
+        "english": "Rain is pouring down. [GT, MMc 12/30/97]"
+      }
+    ],
+    "seeAlso": [
+      "wa-g̲iłti, -sht-g̲iłti"
+    ]
   },
   "ishktälgwipchk": {
     "root": "ishktälgwipchk",
@@ -33640,6 +33854,30 @@
       "Refers to a variety of grass growing in or near mountains. [GT, MMc 6/5/98]"
     ]
   },
+  "it-g̲ilxłmat": {
+    "root": "it-g̲ilxłmat",
+    "partOfSpeech": "n",
+    "definition": "beating of sticks held horizontally",
+    "notes": [
+      "Apparently refers to some- thing done in a performance of an Indian doctor."
+    ]
+  },
+  "it-g̲iqwim": {
+    "root": "it-g̲iqwim",
+    "partOfSpeech": "n",
+    "definition": "giving things away when singing in powwow",
+    "notes": [
+      "Refers solely to giving things away when singing at a powwow. Itqig̲iqwim refers to giving things away when at Indian doctoring."
+    ],
+    "seeAlso": [
+      "-l-QWIM, it-qig̲iqwim"
+    ]
+  },
+  "it-g̲iłba": {
+    "root": "it-g̲iłba",
+    "partOfSpeech": "n",
+    "definition": "moccasins"
+  },
   "it-g̲áug̲aumat": {
     "root": "it-g̲áug̲aumat",
     "partOfSpeech": "n",
@@ -33900,6 +34138,22 @@
     "definition": "cat-tail mat, tuli mat",
     "seeAlso": [
       "i-cháxiu"
+    ]
+  },
+  "ił-g̲iqchamałx": {
+    "root": "ił-g̲iqchamałx",
+    "partOfSpeech": "n",
+    "definition": "cockleburr"
+  },
+  "ił-g̲íninwa": {
+    "root": "ił-g̲íninwa",
+    "partOfSpeech": "n",
+    "definition": "dirt, dust",
+    "notes": [
+      "Fine in comparison with ił- xulit \"sand.\""
+    ],
+    "seeAlso": [
+      "ił-xulit"
     ]
   },
   "kinwa": {
@@ -34236,6 +34490,23 @@
     "root": "wa-gálxt",
     "partOfSpeech": "n",
     "definition": "older sister"
+  },
+  "wa-g̲iłti": {
+    "root": "wa-g̲iłti",
+    "partOfSpeech": "n",
+    "definition": "rain, rainy place, rainy season",
+    "examples": [
+      {
+        "kiksht": "aima wag̲iłti",
+        "english": "only rain"
+      }
+    ],
+    "notes": [
+      "Not used with possessive prefixes; compare ish-g̲iłti."
+    ],
+    "seeAlso": [
+      "ish-g̲iłti"
+    ]
   },
   "wi-ck'entłex": {
     "root": "wi-ck'entłex",
