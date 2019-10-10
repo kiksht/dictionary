@@ -6530,6 +6530,22 @@
       "Refers to a place a little over a mile northeast of Nixluidix (Spearfish)."
     ]
   },
+  "Hanish": {
+    "root": "Hanish",
+    "partOfSpeech": "n",
+    "definition": "tribe from which Wascos got slaves(?)",
+    "notes": [
+      "Dyk qualifies the translation given with \"per[haps].\""
+    ]
+  },
+  "Hudliba": {
+    "root": "Hudliba",
+    "partOfSpeech": "place",
+    "definition": "Hood River",
+    "notes": [
+      "Borrowed from English, with substitution of Wasco sounds for English (-l- for -r- and -b- for -v-)."
+    ]
+  },
   "Notes: Refers to oak of which igaben, digging stick, is made": {
     "root": "Notes: Refers to oak of which igaben, digging stick, is made",
     "partOfSpeech": "Notes: Refers to oak of which igaben, digging stick, is made",
@@ -7636,6 +7652,18 @@
     "root": "a-g̲áditix",
     "partOfSpeech": "n",
     "definition": "fringe"
+  },
+  "a-haiway": {
+    "root": "a-haiway",
+    "partOfSpeech": "n",
+    "definition": "highway",
+    "notes": [
+      "Borrowed from English. The native Wasco word wixat can also be used for \"highway.\""
+    ],
+    "pronunciation": "As is usual, the let- ters -ay at the end of a word repre- sent the sound written with those letters in English, as in \"day\" and \"highway.\"",
+    "seeAlso": [
+      "wi-(i)xat"
+    ]
   },
   "a-mulal": {
     "root": "a-mulal",
@@ -31070,6 +31098,79 @@
       }
     ]
   },
+  "hai": {
+    "root": "hai",
+    "partOfSpeech": "part",
+    "definition": "satisfied",
+    "examples": [
+      {
+        "kiksht": "Hai enkiax.",
+        "english": "I am satis- fied. [WTIII.3.1]"
+      }
+    ],
+    "pronunciation": "The vowel is shown as long in Wishram Texts.",
+    "seeAlso": [
+      "ha'ai"
+    ]
+  },
+  "hat'auwix": {
+    "root": "hat'auwix",
+    "partOfSpeech": "adv",
+    "definition": "carefully, in a care- ful manner",
+    "forms": [
+      {
+        "kiksht": "hat'áuwixba",
+        "english": "a place where things are carefully put away [WTIV.3.1; Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "hat'áu"
+    ]
+  },
+  "hat'áu": {
+    "root": "hat'áu",
+    "partOfSpeech": "adv",
+    "definition": "carefully",
+    "examples": [
+      {
+        "kiksht": "Hat'áu ichiutk.",
+        "english": "He put it[i-] away very carefully. [Dyk]"
+      }
+    ]
+  },
+  "hui": {
+    "root": "hui",
+    "partOfSpeech": "part",
+    "definition": "get nothing, not get",
+    "examples": [
+      {
+        "kiksht": "Hui enkiax.",
+        "english": "I'm not get- ting anything (in fishing, hunting, etc.)"
+      },
+      {
+        "kiksht": "Hui ichiux.",
+        "english": "He didn't get him. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Probably borrowed from or related to Sahaptin word hui \"try, try in vain.\""
+    ]
+  },
+  "hánanu": {
+    "root": "hánanu",
+    "partOfSpeech": "adv",
+    "definition": "tired, tired of, fed up with [Dyk], lonely [MMc 12/22/97]",
+    "examples": [
+      {
+        "kiksht": "Hánanu nux.",
+        "english": "I'm fed up with her. [Dyk]"
+      },
+      {
+        "kiksht": "Hananu enkiax.",
+        "english": "I'm lonely. [MMc 12/22/97]"
+      }
+    ]
+  },
   "i- -bagúmxch": {
     "root": "i- -bagúmxch",
     "partOfSpeech": "adj n",
@@ -31480,6 +31581,23 @@
         "kiksht": "iyag̲iwabemxach",
         "english": "he is fierce, vicious [Dyk]"
       }
+    ]
+  },
+  "i- -huduhudu": {
+    "root": "i- -huduhudu",
+    "partOfSpeech": "adj n",
+    "definition": "in heat, aroused, horny",
+    "forms": [
+      {
+        "kiksht": "iyahúduhudu",
+        "english": "he is horny [Dyk]"
+      }
+    ],
+    "notes": [
+      "May be used of either animals or men."
+    ],
+    "seeAlso": [
+      "qwała"
     ]
   },
   "i- -ánana": {
@@ -34459,6 +34577,11 @@
       }
     ]
   },
+  "i-hayu": {
+    "root": "i-hayu",
+    "partOfSpeech": "n",
+    "definition": "good-tasting root variety"
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -35607,6 +35730,20 @@
     "definition": "overnight camping place",
     "seeAlso": [
       "-qui, i-g̲uyim, - G̲UY"
+    ]
+  },
+  "it-hanis": {
+    "root": "it-hanis",
+    "partOfSpeech": "n",
+    "definition": "harness",
+    "examples": [
+      {
+        "kiksht": "Idiahanis dilux.",
+        "english": "Put his harness on him (a horse), harness him. [PK 6/26/57]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
     ]
   },
   "ił-alakásgwilit": {
