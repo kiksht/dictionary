@@ -20510,12 +20510,249 @@
       "-GULA-qłq"
     ]
   },
+  "gagiugwámidaulx": {
+    "root": "gagiugwámidaulx",
+    "partOfSpeech": "vb",
+    "definition": "she flew up away with it[i-]",
+    "seeAlso": [
+      "-KA-wulx"
+    ]
+  },
+  "gagiug̲mchxuga": {
+    "root": "gagiug̲mchxuga",
+    "partOfSpeech": "vb",
+    "definition": "she asked him",
+    "seeAlso": [
+      "-g̲m-CHX̲U-kw"
+    ]
+  },
+  "gagiug̲wilx": {
+    "root": "gagiug̲wilx",
+    "partOfSpeech": "vb",
+    "definition": "she whipped him",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "gagiug̲wilxł": {
+    "root": "gagiug̲wilxł",
+    "partOfSpeech": "vb",
+    "definition": "she kept whipping him",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "gagiug̲wílilqłchk": {
+    "root": "gagiug̲wílilqłchk",
+    "partOfSpeech": "vb",
+    "definition": "she whipped him",
+    "seeAlso": [
+      "-g̲ililqł, - G̲ILX"
+    ]
+  },
+  "gagiug̲wílilxłmx": {
+    "root": "gagiug̲wílilxłmx",
+    "partOfSpeech": "vb",
+    "definition": "she whipped him",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "gagiuksht": {
+    "root": "gagiuksht",
+    "partOfSpeech": "vb",
+    "definition": "she looked at him",
+    "seeAlso": [
+      "-KSHT"
+    ]
+  },
+  "gagiukwł": {
+    "root": "gagiukwł",
+    "partOfSpeech": "vb",
+    "definition": "she carried him",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gagiukłam": {
+    "root": "gagiukłam",
+    "partOfSpeech": "vb",
+    "definition": "she brought it[i-] along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gagiulxam": {
+    "root": "gagiulxam",
+    "partOfSpeech": "vb",
+    "definition": "she said to him",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gagiulxamx": {
+    "root": "gagiulxamx",
+    "partOfSpeech": "vb",
+    "definition": "she said to him",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gagiumdamit": {
+    "root": "gagiumdamit",
+    "partOfSpeech": "vb",
+    "definition": "she raised him",
+    "seeAlso": [
+      "-MDA-mit"
+    ]
+  },
+  "gagiunaxłam": {
+    "root": "gagiunaxłam",
+    "partOfSpeech": "vb",
+    "definition": "she went to look for him",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "gagiutk": {
+    "root": "gagiutk",
+    "partOfSpeech": "vb",
+    "definition": "she put it[i-] away",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "gagiux": {
+    "root": "gagiux",
+    "partOfSpeech": "vb",
+    "definition": "she did (to) it[i-] [WTI.1a2, 17.5], she did him [WTI.17.4], it[a-] did him [Raccoon A]",
+    "examples": [
+      {
+        "kiksht": "Łq'up gagiux igakwal.",
+        "english": "She cut up an eel. [WTI.1a2]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gagiuxwax": {
+    "root": "gagiuxwax",
+    "partOfSpeech": "vb",
+    "definition": "she did him [WTI.11.2], it[a-] made him [WTI.17.1], she did it[i-] [WTIV.3.3]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gagiuxwtk": {
+    "root": "gagiuxwtk",
+    "partOfSpeech": "vb",
+    "definition": "she stole him",
+    "seeAlso": [
+      "-XTK"
+    ]
+  },
+  "gagiułada": {
+    "root": "gagiułada",
+    "partOfSpeech": "vb",
+    "definition": "she pulled him, she threw him down",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "gagiwa": {
+    "root": "gagiwa",
+    "partOfSpeech": "vb",
+    "definition": "she followed him",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "gagixima": {
+    "root": "gagixima",
+    "partOfSpeech": "vb",
+    "definition": "she laid him down",
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
+  "gagixnima": {
+    "root": "gagixnima",
+    "partOfSpeech": "vb",
+    "definition": "she showed it[i-] to him",
+    "seeAlso": [
+      "-x-NIMA"
+    ]
+  },
+  "gagixnimaxix": {
+    "root": "gagixnimaxix",
+    "partOfSpeech": "vb",
+    "definition": "she directed him",
+    "seeAlso": [
+      "gixnimanix"
+    ]
+  },
+  "gagixwaix": {
+    "root": "gagixwaix",
+    "partOfSpeech": "vb",
+    "definition": "she headed him off",
+    "seeAlso": [
+      "-x-WA-ix, -i-x-WA-ix"
+    ]
+  },
   "gagiłlút": {
     "root": "gagiłlút",
     "partOfSpeech": "vb",
     "definition": "she gave it[i-] to them",
     "seeAlso": [
       "-T"
+    ]
+  },
+  "gagnulxamnił": {
+    "root": "gagnulxamnił",
+    "partOfSpeech": "vb",
+    "definition": "she was telling me",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gagu": {
+    "root": "gagu",
+    "partOfSpeech": "n",
+    "definition": "daughter's child! [man speaking], granddaughter!, grandson!",
+    "forms": [
+      {
+        "kiksht": "gagumax",
+        "english": "daughter's chil- dren! grandchildren [man speaking]!"
+      }
+    ],
+    "notes": [
+      "Used by a man to address his daughter's children."
+    ],
+    "pronunciation": "Singular form pro- nounced with long -a-."
+  },
+  "gagugwalmam": {
+    "root": "gagugwalmam",
+    "partOfSpeech": "vb",
+    "definition": "she went to get them",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "gagug̲emchxukax": {
+    "root": "gagug̲emchxukax",
+    "partOfSpeech": "vb",
+    "definition": "she asked her",
+    "seeAlso": [
+      "-g̲m-CHX̲U-kw"
+    ]
+  },
+  "gagulxam": {
+    "root": "gagulxam",
+    "partOfSpeech": "vb",
+    "definition": "she said to her, she told her",
+    "seeAlso": [
+      "-LXAM"
     ]
   },
   "gagułada": {
@@ -20559,6 +20796,14 @@
         "kiksht": "Łq'up gagiux igakwal, ishialisht gagílukshmit iakwshxatpa.",
         "english": "She cut up the eel, she put its tail in his mouth. [WTI.1a2]"
       }
+    ]
+  },
+  "gagíuwa": {
+    "root": "gagíuwa",
+    "partOfSpeech": "vb",
+    "definition": "she followed him",
+    "seeAlso": [
+      "-WA"
     ]
   },
   "galishgluya": {
@@ -20833,6 +21078,17 @@
     ],
     "seeAlso": [
       "-MT"
+    ]
+  },
+  "i- -gáitłmxash": {
+    "root": "i- -gáitłmxash",
+    "partOfSpeech": "adj n",
+    "definition": "nervy",
+    "forms": [
+      {
+        "kiksht": "imigáitłemxash",
+        "english": "you are nervy [WTI.17.13]"
+      }
     ]
   },
   "i- -ánana": {
@@ -22807,6 +23063,12 @@
         "english": "calves"
       }
     ]
+  },
+  "ił-gaixat": {
+    "root": "ił-gaixat",
+    "partOfSpeech": "n",
+    "definition": "cantaloupe",
+    "forms": []
   },
   "kinwa": {
     "root": "kinwa",
