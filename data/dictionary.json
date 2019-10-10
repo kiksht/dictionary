@@ -1,4 +1,31 @@
 {
+  "'ex": {
+    "root": "'ex",
+    "partOfSpeech": "part",
+    "definition": "transform, exert spirit power on, create",
+    "examples": [
+      {
+        "kiksht": "'Ex galixux iq'iuqt.",
+        "english": "He transformed himself into an old man."
+      },
+      {
+        "kiksht": "'Ex ikiax.",
+        "english": "He is transformed."
+      },
+      {
+        "kiksht": "Iłchqwá 'ex gachłux.",
+        "english": "He created the water. [Dyk]"
+      },
+      {
+        "kiksht": "Qidau 'ex gachiux isk'ulya ich'ixyan.",
+        "english": "Thus Coyote transformed the water-monster. (i.e., made him harmless) [WTI.1l.3]"
+      },
+      {
+        "kiksht": "'Ex gachiux ich'inun, idiałxiwulx gachdilux ich'inun ikuma.",
+        "english": "Eagle exerted spirit power on it, Eagle put strength into the cottonwood. [WTI.4.14]"
+      }
+    ]
+  },
   "(w)a-chixchix": {
     "root": "(w)a-chixchix",
     "partOfSpeech": "n",
@@ -17610,12 +17637,221 @@
     "partOfSpeech": "pron",
     "definition": "we (not including you) also, us (not including you) also"
   },
+  "enshawilaidamt": {
+    "root": "enshawilaidamt",
+    "partOfSpeech": "vb",
+    "definition": "we are going to stay in them",
+    "seeAlso": [
+      "-la-it"
+    ]
+  },
   "enshałeldat": {
     "root": "enshałeldat",
     "partOfSpeech": "vb",
     "definition": "we are running on it",
     "seeAlso": [
       "-ta"
+    ]
+  },
+  "enshgíukl": {
+    "root": "enshgíukl",
+    "partOfSpeech": "vb",
+    "definition": "we know it[i-]",
+    "examples": [
+      {
+        "kiksht": "Ai qwatka anshxshgama; ag̲a naqi enshgíukl iłúguma, ag̲a alma qwatka anshuya.",
+        "english": "Yes, we shall gamble; although we do not know how to play bones (literally \"we do not know bones), still we shall go.\" [WTI.4.7]"
+      }
+    ],
+    "seeAlso": [
+      "-KL"
+    ]
+  },
+  "enshkiax": {
+    "root": "enshkiax",
+    "partOfSpeech": "vb",
+    "definition": "we are",
+    "seeAlso": [
+      "-KIAX̲"
+    ]
+  },
+  "enshkigemxánawunxt": {
+    "root": "enshkigemxánawunxt",
+    "partOfSpeech": "vb",
+    "definition": "we look up to it[i-], we treasure it[i-]",
+    "examples": [
+      {
+        "kiksht": "G̲áng̲atbama enshkigemxanawunxt nsháit.",
+        "english": "We look up to our ways of old, we trea- sure our traditions. [Museum 4]"
+      }
+    ],
+    "seeAlso": [
+      "-gm-XANA-wunx"
+    ]
+  },
+  "enshugwaláidamit": {
+    "root": "enshugwaláidamit",
+    "partOfSpeech": "vb",
+    "definition": "we are going to ride on them",
+    "seeAlso": [
+      "-LA-it"
+    ]
+  },
+  "enshuit": {
+    "root": "enshuit",
+    "partOfSpeech": "vb",
+    "definition": "we are going",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "enshxengig̲nan": {
+    "root": "enshxengig̲nan",
+    "partOfSpeech": "vb",
+    "definition": "we are teaching"
+  },
+  "enshxk'áyaulal": {
+    "root": "enshxk'áyaulal",
+    "partOfSpeech": "vb",
+    "definition": "we are laughing",
+    "seeAlso": [
+      "-x-K'AYAU-lal"
+    ]
+  },
+  "enshxugwátłimamt": {
+    "root": "enshxugwátłimamt",
+    "partOfSpeech": "vb",
+    "definition": "we will go hang ourselves onto them",
+    "seeAlso": [
+      "-TŁI"
+    ]
+  },
+  "enshxłuxwan": {
+    "root": "enshxłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) think",
+    "seeAlso": [
+      "-x-ŁUXWA(N)"
+    ]
+  },
+  "enshłúnishka": {
+    "root": "enshłúnishka",
+    "partOfSpeech": "num",
+    "definition": "we three",
+    "seeAlso": [
+      "łun"
+    ]
+  },
+  "enttqmít": {
+    "root": "enttqmít",
+    "partOfSpeech": "vb",
+    "definition": "I saw them",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "entxa": {
+    "root": "entxa",
+    "partOfSpeech": "vb",
+    "definition": "do to me!",
+    "examples": [
+      {
+        "kiksht": "Qengi entxa!",
+        "english": "Do some- thing to me! [WTI.5.3]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "enxelchemlit": {
+    "root": "enxelchemlit",
+    "partOfSpeech": "vb",
+    "definition": "I hear",
+    "seeAlso": [
+      "-xl-CHM-lit"
+    ]
+  },
+  "enxelqłat": {
+    "root": "enxelqłat",
+    "partOfSpeech": "vb",
+    "definition": "I know",
+    "examples": [
+      {
+        "kiksht": "Enxelqłat qadamt niguya amígikal.",
+        "english": "I know where your wife went. [WTI.9.1]"
+      }
+    ],
+    "seeAlso": [
+      "-xl-QŁA"
+    ]
+  },
+  "enxelxwlamat": {
+    "root": "enxelxwlamat",
+    "partOfSpeech": "vb",
+    "definition": "I am in a hurry",
+    "seeAlso": [
+      "-a-l-XWLA-ma"
+    ]
+  },
+  "enxemgápx": {
+    "root": "enxemgápx",
+    "partOfSpeech": "vb",
+    "definition": "I am working",
+    "seeAlso": [
+      "-xm-GA-pa"
+    ]
+  },
+  "enxgiglagwax": {
+    "root": "enxgiglagwax",
+    "partOfSpeech": "vb",
+    "definition": "I feel",
+    "examples": [
+      {
+        "kiksht": "K'aya qikláix nxgiglagwax.",
+        "english": "I don't feel well. [Spilyay/Healthy Nations]"
+      }
+    ],
+    "seeAlso": [
+      "-x-gi-GLA-kw"
+    ]
+  },
+  "enxtgiglagwax": {
+    "root": "enxtgiglagwax",
+    "partOfSpeech": "vb",
+    "definition": "I feel",
+    "seeAlso": [
+      "-x-gi-GLA-kw"
+    ]
+  },
+  "enxugwichatkt": {
+    "root": "enxugwichatkt",
+    "partOfSpeech": "vb",
+    "definition": "I am listening to them",
+    "seeAlso": [
+      "-x-k-WICHA-tk"
+    ]
+  },
+  "enxłélt": {
+    "root": "enxłélt",
+    "partOfSpeech": "vb",
+    "definition": "I am hot, I feel not",
+    "seeAlso": [
+      "-x-ŁL"
+    ]
+  },
+  "enxłuxwan": {
+    "root": "enxłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "I think, I have in mind, I am fond",
+    "examples": [
+      {
+        "kiksht": "Qengi enxłuxwan maikaba.",
+        "english": "How I think of you, how fond I am of you. [WTI.1b.1]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁUXWA(N), -x-ŁUXWA(N)"
     ]
   },
   "enłuxt": {
