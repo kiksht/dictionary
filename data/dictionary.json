@@ -3947,6 +3947,24 @@
       "-qagichmág̲wamalit"
     ]
   },
+  "-x-giwa": {
+    "root": "-x-giwa",
+    "partOfSpeech": "vb",
+    "definition": "have twitching nerves, have twitching muscles",
+    "forms": [
+      {
+        "kiksht": "ixgíwalal",
+        "english": "his nerves are twitching [Dyk]"
+      },
+      {
+        "kiksht": "Ixgíwala ichxút.",
+        "english": "My eye is twitching. [GT, MMc 6/5/ 98]"
+      }
+    ],
+    "seeAlso": [
+      "i-qagíwalal"
+    ]
+  },
   "-x-gl-CHIM": {
     "root": "-x-gl-CHIM",
     "partOfSpeech": "vb",
@@ -5236,6 +5254,15 @@
     "definition": "toad",
     "seeAlso": [
       "a-tlalamg̲a"
+    ]
+  },
+  "a-gíwaqwtan": {
+    "root": "a-gíwaqwtan",
+    "partOfSpeech": "n",
+    "definition": "wild hemp",
+    "forms": [],
+    "notes": [
+      "A long slender poisonous plant."
     ]
   },
   "a-g̲agilak": {
@@ -28027,6 +28054,39 @@
       "saqw'"
     ]
   },
+  "giukw'aicax": {
+    "root": "giukw'aicax",
+    "partOfSpeech": "adj",
+    "definition": "quite small",
+    "examples": [
+      {
+        "kiksht": "Iqwáqwamax giukw'aicax galixux.",
+        "english": "The grizzly bears became quite small. [WTI.4.15]"
+      }
+    ],
+    "notes": [
+      "Grammatical classification of this word is uncertain. It is possible that the example in Wishram Texts is missing a classifying prefix."
+    ],
+    "seeAlso": [
+      "-ktukw'aicax"
+    ]
+  },
+  "giuxt": {
+    "root": "giuxt",
+    "partOfSpeech": "vb",
+    "definition": "she is making him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "giuxulal": {
+    "root": "giuxulal",
+    "partOfSpeech": "vb",
+    "definition": "she is doing it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "giłgelxulal": {
     "root": "giłgelxulal",
     "partOfSpeech": "vb",
@@ -30443,6 +30503,71 @@
       "i-tł'atł'a, tł'a"
     ]
   },
+  "i-gitł'extł'ex": {
+    "root": "i-gitł'extł'ex",
+    "partOfSpeech": "n",
+    "definition": "ripping, tearing",
+    "forms": [
+      {
+        "kiksht": "iyagitł'extł'ex",
+        "english": "he is a ripper, tearer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tł'ex, datł'axáx, ish-tł'extłex"
+    ]
+  },
+  "i-gitł'men": {
+    "root": "i-gitł'men",
+    "partOfSpeech": "n",
+    "definition": "smashing (with hand)",
+    "forms": [
+      {
+        "kiksht": "iyagitł'men",
+        "english": "he is one who smashes with his hands (now and then) [Dyk]"
+      }
+    ],
+    "notes": [
+      "Apparently i-gitł'men refers to occasional action, while i- gitł'mentł'men refers to more fre- quent action."
+    ],
+    "seeAlso": [
+      "tł'men, i-gitł'mentł'men"
+    ]
+  },
+  "i-gitł'mentł'men": {
+    "root": "i-gitł'mentł'men",
+    "partOfSpeech": "n",
+    "definition": "smashing (with hand)",
+    "forms": [
+      {
+        "kiksht": "iyagitł'mentł'men",
+        "english": "he is one who smashes things with his hand [Dyk]"
+      }
+    ],
+    "notes": [
+      "This word apparently refers to more frequent action than that indicated by i-gitł'mn."
+    ],
+    "seeAlso": [
+      "tł'men"
+    ]
+  },
+  "i-gitł'u": {
+    "root": "i-gitł'u",
+    "partOfSpeech": "n",
+    "definition": "good guessing, correct guessing",
+    "forms": [
+      {
+        "kiksht": "iyagitł'u",
+        "english": "he is a good guesser [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to guessing right in stick-game."
+    ],
+    "seeAlso": [
+      "tł'u"
+    ]
+  },
   "i-gitłk'igwamanit": {
     "root": "i-gitłk'igwamanit",
     "partOfSpeech": "n",
@@ -31306,6 +31431,76 @@
     ],
     "seeAlso": [
       "tł'ap"
+    ]
+  },
+  "it-giutkwax": {
+    "root": "it-giutkwax",
+    "partOfSpeech": "n",
+    "definition": "sorrow, suffering, poverty, pitifulness",
+    "forms": [
+      {
+        "kiksht": "idiagiutgwax",
+        "english": "he is poor, pitiful, hurt, helpless [PK 4/10/55]"
+      },
+      {
+        "kiksht": "itgagiutgwax",
+        "english": "common people, poor people [PK 8/28/55]"
+      },
+      {
+        "kiksht": "itgagiutqwax",
+        "english": "she's pitiful [GT, MMc 1/15/99]"
+      },
+      {
+        "kiksht": "itshdagíutkwax",
+        "english": "they 2 are poor, suffering"
+      },
+      {
+        "kiksht": "idiagiutkwaxix",
+        "english": "it[m] (year or place) is poor, sorrowful [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Idiagiutgwaxix nixitłuxwait ninxichmaq S. k'ma Mrs. M. idachg̲emem.",
+        "english": "I was sorry to hear that S. and Mrs. M were sick. [WTIII.4.1]"
+      },
+      {
+        "kiksht": "Idiagiutkwaxix axłúxwanit.",
+        "english": "She is feeling sorry. [Dyk]"
+      },
+      {
+        "kiksht": "Idiagiutkwax itkxádagwax qíwaba imichg̲emem.",
+        "english": "I'm sorry that you are sick."
+      },
+      {
+        "kiksht": "[Literally",
+        "english": "My feelings are sorrowful because you are sick.] [CLL19]"
+      }
+    ]
+  },
+  "it-giuxwdámaxat": {
+    "root": "it-giuxwdámaxat",
+    "partOfSpeech": "n",
+    "definition": "place for attack- ing",
+    "notes": [
+      "For example, a place where deer are to be shot."
+    ],
+    "seeAlso": [
+      "-i-gl-X̲WDA-ma, i-xwdamalal, i-xwdamanił"
+    ]
+  },
+  "it-giwakw'a": {
+    "root": "it-giwakw'a",
+    "partOfSpeech": "n",
+    "definition": "getting angry at [Dyk], always criticizing, always grouchy, having it in for people [HS 7/21/56]",
+    "forms": [
+      {
+        "kiksht": "idiagiwakw'a",
+        "english": "he who gets mad at people [Dyk]; he's always criticizing, always grouchy, has it in for people [HS 7/21/56]"
+      }
+    ],
+    "seeAlso": [
+      "wakw'a"
     ]
   },
   "ił-alakásgwilit": {
