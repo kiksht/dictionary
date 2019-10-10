@@ -21804,9 +21804,284 @@
   "galishgluya": {
     "root": "galishgluya",
     "partOfSpeech": "vb",
-    "definition": "he went to those two",
+    "definition": "he went to them 2",
     "seeAlso": [
       "-I"
+    ]
+  },
+  "galishguqam": {
+    "root": "galishguqam",
+    "partOfSpeech": "vb",
+    "definition": "he went to meet them 2 [WTI.2.3], he got to them 2 [WTI.12.7]",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "galishg̲eltaqłq": {
+    "root": "galishg̲eltaqłq",
+    "partOfSpeech": "vb",
+    "definition": "he ran away from them 2",
+    "seeAlso": [
+      "-TA, -g̲l-TA-qłq"
+    ]
+  },
+  "galishlupq": {
+    "root": "galishlupq",
+    "partOfSpeech": "vb",
+    "definition": "he went in to them 2",
+    "seeAlso": [
+      "PQ"
+    ]
+  },
+  "galishílakwit": {
+    "root": "galishílakwit",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] struck against them 2",
+    "seeAlso": [
+      "-LA-kw, -l-LA-kw"
+    ]
+  },
+  "galitpá": {
+    "root": "galitpá",
+    "partOfSpeech": "vb",
+    "definition": "he came out",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "galixaima": {
+    "root": "galixaima",
+    "partOfSpeech": "vb",
+    "definition": "he lay down",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "galixaimaya": {
+    "root": "galixaimaya",
+    "partOfSpeech": "vb",
+    "definition": "he lay down",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "galixakxaima": {
+    "root": "galixakxaima",
+    "partOfSpeech": "vb",
+    "definition": "he seated himself on it[a-]",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "galixashglúichatk": {
+    "root": "galixashglúichatk",
+    "partOfSpeech": "vb",
+    "definition": "he listened to them 2",
+    "seeAlso": [
+      "-xa-gl-WICHA-tk"
+    ]
+  },
+  "galixałludelkemchk": {
+    "root": "galixałludelkemchk",
+    "partOfSpeech": "vb",
+    "definition": "he followed them"
+  },
+  "galixałxnima": {
+    "root": "galixałxnima",
+    "partOfSpeech": "vb",
+    "definition": "he showed to them",
+    "seeAlso": [
+      "-x-NIMA"
+    ]
+  },
+  "galixchkw'ananemx": {
+    "root": "galixchkw'ananemx",
+    "partOfSpeech": "vb",
+    "definition": "he kept dodging from side to side",
+    "seeAlso": [
+      "-x-CHKW'A"
+    ]
+  },
+  "galixdagwa": {
+    "root": "galixdagwa",
+    "partOfSpeech": "vb",
+    "definition": "he came back",
+    "seeAlso": [
+      "-x-TA-kw"
+    ]
+  },
+  "galixelchmaq": {
+    "root": "galixelchmaq",
+    "partOfSpeech": "vb",
+    "definition": "he heard",
+    "seeAlso": [
+      "-xl-CHMA-qw"
+    ]
+  },
+  "galixelgayu": {
+    "root": "galixelgayu",
+    "partOfSpeech": "vb",
+    "definition": "they[i-] fought against each other",
+    "examples": [
+      {
+        "kiksht": "Galixelgayu itqwłiba iqwáqwamax.",
+        "english": "The grizzly bears fought against each other in the house. [WTI.4.15]"
+      }
+    ],
+    "notes": [
+      "Literally \"they each [-yu] flew [-ga] to each other [-xl].\""
+    ],
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "galixelkítk": {
+    "root": "galixelkítk",
+    "partOfSpeech": "vb",
+    "definition": "he smoked",
+    "seeAlso": [
+      "-xl-KITK"
+    ]
+  },
+  "galixelkíłx": {
+    "root": "galixelkíłx",
+    "partOfSpeech": "vb",
+    "definition": "he built a fire",
+    "seeAlso": [
+      "-xl-KIŁX̲"
+    ]
+  },
+  "galixelmux": {
+    "root": "galixelmux",
+    "partOfSpeech": "vb",
+    "definition": "he ate",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "galixeltxwichk": {
+    "root": "galixeltxwichk",
+    "partOfSpeech": "vb",
+    "definition": "he got ready",
+    "seeAlso": [
+      "-xl-TX(WI)-chk"
+    ]
+  },
+  "galixelwichatk": {
+    "root": "galixelwichatk",
+    "partOfSpeech": "vb",
+    "definition": "he listened",
+    "seeAlso": [
+      "-xl-WICHA-tk"
+    ]
+  },
+  "galixelłagwa": {
+    "root": "galixelłagwa",
+    "partOfSpeech": "vb",
+    "definition": "he passed him by",
+    "seeAlso": [
+      "-ŁA, -ŁA-kw"
+    ]
+  },
+  "galixenk'anqut": {
+    "root": "galixenk'anqut",
+    "partOfSpeech": "vb",
+    "definition": "he fished",
+    "seeAlso": [
+      "-xn-K'ANQUT"
+    ]
+  },
+  "galixenk'áng̲utam": {
+    "root": "galixenk'áng̲utam",
+    "partOfSpeech": "vb",
+    "definition": "he went fish- ing",
+    "seeAlso": [
+      "-xn-K'ANQUT"
+    ]
+  },
+  "galixentłichu": {
+    "root": "galixentłichu",
+    "partOfSpeech": "vb",
+    "definition": "they 2 entered into it[i-]",
+    "seeAlso": [
+      "-xn-TŁI-chu"
+    ]
+  },
+  "galixgig̲waqwa": {
+    "root": "galixgig̲waqwa",
+    "partOfSpeech": "vb",
+    "definition": "he dreamt",
+    "seeAlso": [
+      "-i-x-gi- G̲WA-qw, -x- G̲WA-kw"
+    ]
+  },
+  "galixgig̲waqwax": {
+    "root": "galixgig̲waqwax",
+    "partOfSpeech": "vb",
+    "definition": "he dreamt",
+    "seeAlso": [
+      "-i-x-gi- G̲WA-qw, -x- G̲WA-kw"
+    ]
+  },
+  "galixg̲uitq": {
+    "root": "galixg̲uitq",
+    "partOfSpeech": "vb",
+    "definition": "he awoke",
+    "seeAlso": [
+      "-x-QUITQ"
+    ]
+  },
+  "galixigeltk'iq": {
+    "root": "galixigeltk'iq",
+    "partOfSpeech": "vb",
+    "definition": "he set a trap for him",
+    "seeAlso": [
+      "-x-gl-TK'I-qw"
+    ]
+  },
+  "galixilqchk": {
+    "root": "galixilqchk",
+    "partOfSpeech": "vb",
+    "definition": "he roasted (them) on a spit",
+    "seeAlso": [
+      "-LKCH"
+    ]
+  },
+  "galixiłxumx": {
+    "root": "galixiłxumx",
+    "partOfSpeech": "vb",
+    "definition": "he ate it up"
+  },
+  "galixkw'a": {
+    "root": "galixkw'a",
+    "partOfSpeech": "vb",
+    "definition": "he started to go home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "galixkw'ayaitam": {
+    "root": "galixkw'ayaitam",
+    "partOfSpeech": "vb",
+    "definition": "he arrived home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "galixwaxit": {
+    "root": "galixwaxit",
+    "partOfSpeech": "vb",
+    "definition": "he was scared off [WTI.3.9], he escaped [WTIV.2.14]",
+    "seeAlso": [
+      "-x-WA-xit"
+    ]
+  },
+  "galixátx": {
+    "root": "galixátx",
+    "partOfSpeech": "vb",
+    "definition": "he became [WTIV.2.20], it[i-] became [WTIV.2.23]",
+    "seeAlso": [
+      "-X̲, -x-X̲"
     ]
   },
   "galix̲ux̲": {
@@ -21871,12 +22146,28 @@
       "-x-MASA"
     ]
   },
+  "galíxelqłaxit": {
+    "root": "galíxelqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "he learned",
+    "seeAlso": [
+      "-xl-QŁA-xit"
+    ]
+  },
   "gayux̲uni": {
     "root": "gayux̲uni",
     "partOfSpeech": "vb",
     "definition": "he drifted along",
     "seeAlso": [
       "-NI"
+    ]
+  },
+  "gałiukł": {
+    "root": "gałiukł",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] carried it[i-], he[ił-] took it[i-] with him",
+    "seeAlso": [
+      "-KŁ"
     ]
   },
   "i- -bagúmxch": {
