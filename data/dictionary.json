@@ -23169,6 +23169,60 @@
       "-X̲"
     ]
   },
+  "ganshkshgelgax": {
+    "root": "ganshkshgelgax",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) caught them 2",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "ganshkshikłátaqwax": {
+    "root": "ganshkshikłátaqwax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) bound him to it[i-]",
+    "seeAlso": [
+      "-ŁATA-qw"
+    ]
+  },
+  "ganshkshuxwax": {
+    "root": "ganshkshuxwax",
+    "partOfSpeech": "vb",
+    "definition": "we did it[ish-]",
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt łkup ganshkshuxwax.",
+        "english": "And then we shot off one volley. [WTIV.2.22]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, łk'up -sh-l-X̲"
+    ]
+  },
+  "ganshksháwiglagwachkax": {
+    "root": "ganshksháwiglagwachkax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) looked after them, we (not including you) took care of them",
+    "seeAlso": [
+      "-sh-l-GLA-kw"
+    ]
+  },
+  "ganshktuxax": {
+    "root": "ganshktuxax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) did them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganshktuxwax": {
+    "root": "ganshktuxwax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) did them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "ganshkítx": {
     "root": "ganshkítx",
     "partOfSpeech": "vb",
@@ -23215,6 +23269,170 @@
     "definition": "we (not including you) saw them",
     "seeAlso": [
       "-g̲l-KL"
+    ]
+  },
+  "ganshkłtłuk": {
+    "root": "ganshkłtłuk",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) took them back with us",
+    "seeAlso": [
+      "-TŁUK"
+    ]
+  },
+  "ganshkłudinax": {
+    "root": "ganshkłudinax",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) killed them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "ganshkłulxamx": {
+    "root": "ganshkłulxamx",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) said to them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "ganshkłuwax": {
+    "root": "ganshkłuwax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) followed them [WTIV.2.5, 11], we (not including you) chased them [WTIV.2.22]",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "ganshkłuxax": {
+    "root": "ganshkłuxax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) did them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganshkłuxwamx": {
+    "root": "ganshkłuxwamx",
+    "partOfSpeech": "vb",
+    "definition": "we went to do them [?]",
+    "examples": [
+      {
+        "kiksht": "Qw'ap ganshkłuxwamx.",
+        "english": "We got up close to them. [WTIV.2.5]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganshkłuxwax": {
+    "root": "ganshkłuxwax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) did them, we charged on them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganshkłxádima": {
+    "root": "ganshkłxádima",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) left them",
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
+  "ganshkłúdina": {
+    "root": "ganshkłúdina",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) killed them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "ganshkłúnaxtłamx": {
+    "root": "ganshkłúnaxtłamx",
+    "partOfSpeech": "vb",
+    "definition": "we went to look for them",
+    "seeAlso": [
+      "-NAX̲TŁ"
+    ]
+  },
+  "ganshugwalaitx": {
+    "root": "ganshugwalaitx",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) rode on them",
+    "seeAlso": [
+      "-LA-it"
+    ]
+  },
+  "ganshug̲uix": {
+    "root": "ganshug̲uix",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) camped",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "ganshuix": {
+    "root": "ganshuix",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) started off",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "ganshuya": {
+    "root": "ganshuya",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "ganshuyamx": {
+    "root": "ganshuyamx",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) arrived, we (not including you) got to",
+    "seeAlso": [
+      "-I, -I-am"
+    ]
+  },
+  "ganshxkw'ayux": {
+    "root": "ganshxkw'ayux",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) each went home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "ganshxkw'áx": {
+    "root": "ganshxkw'áx",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) started home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "ganshúg̲uix": {
+    "root": "ganshúg̲uix",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) camped [WTIV.2.10], we (not including you) passed (nights) [WTIV.2.21]",
+    "examples": [
+      {
+        "kiksht": "Łunix ganshug̲uix.",
+        "english": "We passed three nights. [WTIV.2.21]"
+      }
+    ],
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "ganshúpgiux": {
+    "root": "ganshúpgiux",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) waded",
+    "seeAlso": [
+      "-PGIU"
     ]
   },
   "gansúsgenem": {
