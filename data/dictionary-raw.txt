@@ -10150,3 +10150,63 @@ Forms: anyuglaya “I’ll see him off” anitglaya “I’ll notice him coming 
 Forms: anyugelq¬©a “I will be ac- quainted with him, know him thor- oughly” anitgelq¬©a “I will be ac- quainted with him, know him thor- oughly (distant future)” chiuglalq¬q “he is recognizing him, recognizes him” chiuglaq¬qt “he knows it[i-] now, is now thoroughly acquainted with it; he knows him (again after a long time or having forgotten him)” ichiuglaq¬q “he recognized him” igiuglaq¬q “she has caught on to it[i- ]” nichiuglaq¬q “he recognized him, became acquainted with him (last season)” nichiuglalq¬q “he was rec- ognizing him (last season)” nichiuglaq¬qt “he recognized him (gradually), was becoming familiar with him (last season)” nichitglaq¬q “he recognized him, became ac- quainted with him (last week)” nichitglalq¬q “he was recognizing him (last week)” nichitglaq¬qt “he recog- nized him (gradually), was becoming familiar with him (last week)” nigitglaq¬q “she caught on to it[i-]; she identified him (last week)” gachuglaq¬q “he identified her” gachduglaq¬q “he recognized them” gashxglaq¬qax “they 2 recognized each other” ik’iglalq¬q “he is recog- nizing” yuglaq¬qix “he is recognized; he is recognizable” [Dyk]
 Examples: Aichka cha©a nimuglaq¬q? “Did you recognize them at that time?” [Dyk]
 Pronunciation: The root in this word was sometimes pronounced -gela.
+
+
+
+
+
+
+
+-(i)-gl-xi-GLA-dix [vb] understand
+Forms: chaigelxigladix “he understands her” nichaigitxigladix “he understood her” [GT, MMc 6/10/99] yamgelxigladix “I understand you” [Spilyay/Learning Phrases]
+
+-i-gl-xi-GLA-ix [vb] sense, inspect
+Forms: chiagelxigladix “he is sensing her; he is inspecting her” yaxelxigladix “she is sensing herself” ixelxigladix “he is sensing himself” [Dyk]
+Notes: Refers to a person sensing what is about to happen to another or him/herself, as that s/he is about to become sick; or to a person in- specting someone to see what is about to happen to him/her.
+
+-k-GLA-kw [vb] feel on, sense on, see (someone or something) move about
+Forms: chiakglagwax “he is feeling it[i-] on her; he is seeing it[i-] move about on her” chakgiglagwax “he feels something on her; he sees some- thing moving on her”
+
+-l-xa-GLA-q¬q-mit [vb] introduce to
+Forms: iqialxaglaq¬©amit “someone introduced him to her” [Dyk]
+Notes: Literally means “cause (-mit) to know (-xaglaq¬q-) to (-l-).”
+
+-sh-l-GLA-kw [vb] watch, watch over, watch out for, take care of, tend, look after
+Examples: shalglakwachk! “watch her, take care of her!” kshawiglagwax “she is watching over them” ikshawiglakwachk “she tended/looked after/watched over them” chaxelglagwax “she’s tending herself” chalglagwachkux “she is tended” [Dyk]
+
+-sh-xl-GLA-kw-chkw [vb] take care of oneself
+Forms: ashemxélglagwachkwa “you will take care of yourself” [Spilyay/ Healthy Nations]
+
+-x-GLA [vb] sense, feel, become aware of
+Forms: alamxglaya “you’ll sense her” alaixglaya “he’ll sense her” alaixatglaya “he’ll sense her (distant future)” aixglagwax “he is sensing, feeling her (as sensing her hands on him)” aixglat “he has the feeling of her (her character); he is sensing her, feeling her (her presence)” chenxglat “he is sensing me” inxglÅt “I have him sensed” nigaixglÅ “he sensed her (last week)” ixgiglagwax “he is sensing, feeling (on himself) (=he is still conscious)”
+
+-xl-gi-GLA [vb] understand
+Forms: nanixelgiglaxdix “I under- stood him” [GT 1/15/99 ]
+Examples: Anshxengiglaya qengi adasq’ ̈ idÅit. “We will understand what Wasco ways are.” [Museum 5]
+
+-x-GLA-kw [vb] know about
+Forms: shixglagwax “he knows about them 2”
+
+-x-gi-GLA-kw [vb] feel (well or bad)
+Examples: Naqi it’uktix inxˆglagwax. “I haven’t felt well.” [WTIII.1.1]
+
+i-glaulau [n] smooth round water worn stone
+
+g¬uxt [vb] it[a-] does them
+Examples: Walu g¬uxt. “They are hungry.” [WTIV.3.2]
+See also: - ̨
+
+it-gmat’ayuchkxat [n] race track
+See also: -gm-T’AYU-chkw, it- kmat’Åyuchk
+
+it-gmaxaulutgwax [n] pitying
+Forms: idiaxmaxaulutgwax “he is one who takes pity on people” [Dyk]
+See also: -gm-XAULUT-kw
+
+gmuxt [vb] it[a-] does you
+Examples: K’axsh chi gmuxt alagamˆn? “Do you want lakamin?” [Raccoon B]
+See also: - ̨
+
+gnuxt [vb] it[a-] does me
+Examples: K’axsh gnuxt a©ulul. “I want acorn.” [Raccoon C]
+See also: - ̨

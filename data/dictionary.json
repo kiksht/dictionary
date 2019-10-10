@@ -72,6 +72,25 @@
       "adau"
     ]
   },
+  "-(i)-gl-xi-GLA-dix": {
+    "root": "-(i)-gl-xi-GLA-dix",
+    "partOfSpeech": "vb",
+    "definition": "understand",
+    "forms": [
+      {
+        "kiksht": "chaigelxigladix",
+        "english": "he understands her"
+      },
+      {
+        "kiksht": "nichaigitxigladix",
+        "english": "he understood her [GT, MMc 6/10/99]"
+      },
+      {
+        "kiksht": "yamgelxigladix",
+        "english": "I understand you [Spilyay/Learning Phrases]"
+      }
+    ]
+  },
   "-BICHEM(A)": {
     "root": "-BICHEM(A)",
     "partOfSpeech": "vb",
@@ -2473,6 +2492,28 @@
       "i-chukdenił, i-chukdidix"
     ]
   },
+  "-i-gl-xi-GLA-ix": {
+    "root": "-i-gl-xi-GLA-ix",
+    "partOfSpeech": "vb",
+    "definition": "sense, inspect",
+    "forms": [
+      {
+        "kiksht": "chiagelxigladix",
+        "english": "he is sensing her; he is inspecting her"
+      },
+      {
+        "kiksht": "yaxelxigladix",
+        "english": "she is sensing herself"
+      },
+      {
+        "kiksht": "ixelxigladix",
+        "english": "he is sensing himself [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a person sensing what is about to happen to another or him/herself, as that s/he is about to become sick; or to a person in- specting someone to see what is about to happen to him/her."
+    ]
+  },
   "-i-l-BWA-mit": {
     "root": "-i-l-BWA-mit",
     "partOfSpeech": "vb",
@@ -2624,6 +2665,21 @@
       {
         "kiksht": "inyukchwamit",
         "english": "I (purposely) dropped it[a-] [GT, MMc 1/14/99] -CHU (2) talk about, discuss"
+      }
+    ]
+  },
+  "-k-GLA-kw": {
+    "root": "-k-GLA-kw",
+    "partOfSpeech": "vb",
+    "definition": "feel on, sense on, see (someone or something) move about",
+    "forms": [
+      {
+        "kiksht": "chiakglagwax",
+        "english": "he is feeling it[i-] on her; he is seeing it[i-] move about on her"
+      },
+      {
+        "kiksht": "chakgiglagwax",
+        "english": "he feels something on her; he sees some- thing moving on her"
       }
     ]
   },
@@ -2908,6 +2964,20 @@
         "kiksht": "gasixeldi",
         "english": "he put it[ish-] around him- self [WTI.13.3]"
       }
+    ]
+  },
+  "-l-xa-GLA-qłq-mit": {
+    "root": "-l-xa-GLA-qłq-mit",
+    "partOfSpeech": "vb",
+    "definition": "introduce to",
+    "forms": [
+      {
+        "kiksht": "iqialxaglaqłg̲amit",
+        "english": "someone introduced him to her [Dyk]"
+      }
+    ],
+    "notes": [
+      "Literally means \"cause (-mit) to know (-xaglaqłq-) to (-l-).\""
     ]
   },
   "-qi-CXA-pa": {
@@ -3416,6 +3486,33 @@
       "-BIXWA"
     ]
   },
+  "-sh-l-GLA-kw": {
+    "root": "-sh-l-GLA-kw",
+    "partOfSpeech": "vb",
+    "definition": "watch, watch over, watch out for, take care of, tend, look after",
+    "examples": [
+      {
+        "kiksht": "shalglakwachk!",
+        "english": "watch her, take care of her!"
+      },
+      {
+        "kiksht": "kshawiglagwax",
+        "english": "she is watching over them"
+      },
+      {
+        "kiksht": "ikshawiglakwachk",
+        "english": "she tended/looked after/watched over them"
+      },
+      {
+        "kiksht": "chaxelglagwax",
+        "english": "she's tending herself"
+      },
+      {
+        "kiksht": "chalglagwachkux",
+        "english": "she is tended [Dyk]"
+      }
+    ]
+  },
   "-sh-x-CHUCHEMNA-kw": {
     "root": "-sh-x-CHUCHEMNA-kw",
     "partOfSpeech": "vb",
@@ -3432,6 +3529,17 @@
     ],
     "seeAlso": [
       "ish-qachichemnakwt"
+    ]
+  },
+  "-sh-xl-GLA-kw-chkw": {
+    "root": "-sh-xl-GLA-kw-chkw",
+    "partOfSpeech": "vb",
+    "definition": "take care of oneself",
+    "forms": [
+      {
+        "kiksht": "ashemxélglagwachkwa",
+        "english": "you will take care of yourself [Spilyay/ Healthy Nations]"
+      }
     ]
   },
   "-sk'ulya": {
@@ -4012,6 +4120,60 @@
       "i-qadugwalal"
     ]
   },
+  "-x-GLA": {
+    "root": "-x-GLA",
+    "partOfSpeech": "vb",
+    "definition": "sense, feel, become aware of",
+    "forms": [
+      {
+        "kiksht": "alamxglaya",
+        "english": "you'll sense her"
+      },
+      {
+        "kiksht": "alaixglaya",
+        "english": "he'll sense her"
+      },
+      {
+        "kiksht": "alaixatglaya",
+        "english": "he'll sense her (distant future)"
+      },
+      {
+        "kiksht": "aixglagwax",
+        "english": "he is sensing, feeling her (as sensing her hands on him)"
+      },
+      {
+        "kiksht": "aixglat",
+        "english": "he has the feeling of her (her character); he is sensing her, feeling her (her presence)"
+      },
+      {
+        "kiksht": "chenxglat",
+        "english": "he is sensing me"
+      },
+      {
+        "kiksht": "inxglát",
+        "english": "I have him sensed"
+      },
+      {
+        "kiksht": "nigaixglá",
+        "english": "he sensed her (last week)"
+      },
+      {
+        "kiksht": "ixgiglagwax",
+        "english": "he is sensing, feeling (on himself) (=he is still conscious)"
+      }
+    ]
+  },
+  "-x-GLA-kw": {
+    "root": "-x-GLA-kw",
+    "partOfSpeech": "vb",
+    "definition": "know about",
+    "forms": [
+      {
+        "kiksht": "shixglagwax",
+        "english": "he knows about them 2"
+      }
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -4102,6 +4264,17 @@
     ],
     "seeAlso": [
       "-qagichmág̲wamalit"
+    ]
+  },
+  "-x-gi-GLA-kw": {
+    "root": "-x-gi-GLA-kw",
+    "partOfSpeech": "vb",
+    "definition": "feel (well or bad)",
+    "examples": [
+      {
+        "kiksht": "Naqi it'uktix inxíglagwax.",
+        "english": "I haven't felt well. [WTIII.1.1]"
+      }
     ]
   },
   "-x-giX̲w": {
@@ -4468,6 +4641,23 @@
       {
         "kiksht": "gashxitgáyuwam",
         "english": "they 2 came to fight [Dyk]"
+      }
+    ]
+  },
+  "-xl-gi-GLA": {
+    "root": "-xl-gi-GLA",
+    "partOfSpeech": "vb",
+    "definition": "understand",
+    "forms": [
+      {
+        "kiksht": "nanixelgiglaxdix",
+        "english": "I under- stood him [GT 1/15/99 ]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Anshxengiglaya qengi adasq'ú idáit.",
+        "english": "We will understand what Wasco ways are. [Museum 5]"
       }
     ]
   },
@@ -28280,6 +28470,34 @@
       "-X̲"
     ]
   },
+  "gmuxt": {
+    "root": "gmuxt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] does you",
+    "examples": [
+      {
+        "kiksht": "K'axsh chi gmuxt alagamín?",
+        "english": "Do you want lakamin? [Raccoon B]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gnuxt": {
+    "root": "gnuxt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] does me",
+    "examples": [
+      {
+        "kiksht": "K'axsh gnuxt ag̲ulul.",
+        "english": "I want acorn. [Raccoon C]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gáyaluqstk": {
     "root": "gáyaluqstk",
     "partOfSpeech": "n",
@@ -28308,6 +28526,20 @@
     ],
     "seeAlso": [
       "gigwal, gigwaladamt, sháxelix"
+    ]
+  },
+  "głuxt": {
+    "root": "głuxt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] does them",
+    "examples": [
+      {
+        "kiksht": "Walu głuxt.",
+        "english": "They are hungry. [WTIV.3.2]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "i- -bagúmxch": {
@@ -30837,6 +31069,11 @@
       "-x-NINA-kw, i-kanagwamat"
     ]
   },
+  "i-glaulau": {
+    "root": "i-glaulau",
+    "partOfSpeech": "n",
+    "definition": "smooth round water worn stone"
+  },
   "i-gábenash": {
     "root": "i-gábenash",
     "partOfSpeech": "n",
@@ -31736,6 +31973,28 @@
     "definition": "fruit",
     "notes": [
       "Apparently a general term referring to either fresh or canned fruit."
+    ]
+  },
+  "it-gmat'ayuchkxat": {
+    "root": "it-gmat'ayuchkxat",
+    "partOfSpeech": "n",
+    "definition": "race track",
+    "seeAlso": [
+      "-gm-T'AYU-chkw, it- kmat'áyuchk"
+    ]
+  },
+  "it-gmaxaulutgwax": {
+    "root": "it-gmaxaulutgwax",
+    "partOfSpeech": "n",
+    "definition": "pitying",
+    "forms": [
+      {
+        "kiksht": "idiaxmaxaulutgwax",
+        "english": "he is one who takes pity on people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gm-XAULUT-kw"
     ]
   },
   "it-gíwaukw'a": {
