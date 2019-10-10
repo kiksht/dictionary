@@ -117,6 +117,34 @@
       "i-k'ig̲animx"
     ]
   },
+  "- G̲ILILQŁ": {
+    "root": "- G̲ILILQŁ",
+    "partOfSpeech": "vb",
+    "definition": "whip",
+    "forms": [
+      {
+        "kiksht": "nigitg̲ililqłchk",
+        "english": "she whipped him [GT 1/15/99]"
+      },
+      {
+        "kiksht": "gagiug̲wílilqłchk",
+        "english": "she whipped him [Raccoon I]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Alma achnug̲wílilqła.",
+        "english": "He will whip me."
+      },
+      {
+        "kiksht": "Kwaish ichnug̲wílilqłchk.",
+        "english": "He just whipped me. [GT 1/15/99]"
+      }
+    ],
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
   "-(i)-gl-xi-GLA-dix": {
     "root": "-(i)-gl-xi-GLA-dix",
     "partOfSpeech": "vb",
@@ -1752,6 +1780,35 @@
     ],
     "seeAlso": [
       "it-kádemgwa"
+    ]
+  },
+  "-a-l- G̲ILA-pa": {
+    "root": "-a-l- G̲ILA-pa",
+    "partOfSpeech": "vb",
+    "definition": "interpret for, trans- late for",
+    "forms": [
+      {
+        "kiksht": "chailg̲ílalpł, chailg̲ilapx",
+        "english": "he is interpreting for him"
+      },
+      {
+        "kiksht": "alg̲ílaba",
+        "english": "inter- pret for her!"
+      },
+      {
+        "kiksht": "aixlg̲ilapx",
+        "english": "he is inter- preting, translate"
+      },
+      {
+        "kiksht": "ailg̲ilapx",
+        "english": "it has been translated [Dyk]"
+      }
+    ],
+    "notes": [
+      "This may refer not only to translating from one language to another but also to the practice of \"echoing\" what a speaker says in a medicine ceremony or at the longhouse. [PK 5/12/57]"
+    ],
+    "seeAlso": [
+      "a-g̲ilapx"
     ]
   },
   "-a-l-GWACHI": {
@@ -6352,6 +6409,62 @@
         "kiksht": "Daua ag̲ałax ag̲a alxłaida.",
         "english": "This day we will die. [WTIV.2.9]"
       }
+    ]
+  },
+  "a-g̲elmakshtx": {
+    "root": "a-g̲elmakshtx",
+    "partOfSpeech": "n",
+    "definition": "no-see-'ums",
+    "notes": [
+      "Refers to the small gnat-like insects that come out at twilight."
+    ]
+  },
+  "a-g̲elmashtx": {
+    "root": "a-g̲elmashtx",
+    "partOfSpeech": "n",
+    "definition": "root digging tool handle",
+    "notes": [
+      "This may be a Cascade word; HS was unsure of its meaning."
+    ],
+    "seeAlso": [
+      "a-qaqelmat"
+    ]
+  },
+  "a-g̲elqel": {
+    "root": "a-g̲elqel",
+    "partOfSpeech": "n",
+    "definition": "fern species",
+    "notes": [
+      "A fern species looking like a centipede. [Dyk] Corresponds to Cascade akimxíyudas. [PK 8/9/55] Tall variety of fern. [GT 6/3-5/98]"
+    ]
+  },
+  "a-g̲ig̲áit": {
+    "root": "a-g̲ig̲áit",
+    "partOfSpeech": "n",
+    "definition": "thigh",
+    "forms": [
+      {
+        "kiksht": "idg̲ig̲aitmax",
+        "english": "thighs [Dyk]"
+      },
+      {
+        "kiksht": "akg̲ig̲ait",
+        "english": "my thigh [Spilyay/Body Parts 1]"
+      }
+    ]
+  },
+  "a-g̲ilapx": {
+    "root": "a-g̲ilapx",
+    "partOfSpeech": "n",
+    "definition": "translation, interpreta- tion, translating, interpreting",
+    "forms": [
+      {
+        "kiksht": "ayag̲ilapx",
+        "english": "he is an inter- preter [PK 5/12/57]"
+      }
+    ],
+    "seeAlso": [
+      "-a-l- G̲ILA-pa"
     ]
   },
   "a-g̲áditix": {
@@ -29551,6 +29664,45 @@
     "partOfSpeech": "adv",
     "definition": "spring, springtime"
   },
+  "g̲elq'el": {
+    "root": "g̲elq'el",
+    "partOfSpeech": "part",
+    "definition": "hard, harden",
+    "examples": [
+      {
+        "kiksht": "G̲elq'el chiuxt.",
+        "english": "He is mak- ing it[i-] hard. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "shaig̲elq'el, dag̲alq'al"
+    ]
+  },
+  "g̲em": {
+    "root": "g̲em",
+    "partOfSpeech": "part",
+    "definition": "dizzy, make dizzy",
+    "examples": [
+      {
+        "kiksht": "G̲em ichiux.",
+        "english": "He made him dizzy. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dag̲ém"
+    ]
+  },
+  "g̲esh": {
+    "root": "g̲esh",
+    "partOfSpeech": "part",
+    "definition": "talk too much, talk non- stop",
+    "examples": [
+      {
+        "kiksht": "G̲esh chiuxt.",
+        "english": "He talks non-stop, you can't shut him up [GT, MMc 6/4/98]"
+      }
+    ]
+  },
   "g̲ánwicha": {
     "root": "g̲ánwicha",
     "partOfSpeech": "interj",
@@ -29892,6 +30044,26 @@
     ],
     "seeAlso": [
       "i- -g̲ánaxixi"
+    ]
+  },
+  "i- -g̲elmakshti": {
+    "root": "i- -g̲elmakshti",
+    "partOfSpeech": "adj n",
+    "definition": "conscienceless, loving deception, loving dirty tricks",
+    "forms": [
+      {
+        "kiksht": "ichag̲elmakshti",
+        "english": "she is a con- scienceless villain, one who enjoys doing dirty tricks or deceptions (like a doctor who always overcharges) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Am iyag̲elmakshti!",
+        "english": "Oh the stinker! [WTI.18.7]"
+      }
+    ],
+    "notes": [
+      "A very strong word."
     ]
   },
   "i- -g̲áitł": {
@@ -32409,6 +32581,82 @@
       "i-ch'maxix, i-ch'ai, i- ułt'umax"
     ]
   },
+  "i-g̲elúidix": {
+    "root": "i-g̲elúidix",
+    "partOfSpeech": "n",
+    "definition": "trail going downstream along river or creek"
+  },
+  "i-g̲ia": {
+    "root": "i-g̲ia",
+    "partOfSpeech": "n",
+    "definition": "gonorrhea"
+  },
+  "i-g̲ichg̲u": {
+    "root": "i-g̲ichg̲u",
+    "partOfSpeech": "n",
+    "definition": "small black fish species",
+    "notes": [
+      "The same as iq'inachxwai. (= \"salmon fly\")"
+    ],
+    "seeAlso": [
+      "i-q'inachxwai"
+    ]
+  },
+  "i-g̲ichxut": {
+    "root": "i-g̲ichxut",
+    "partOfSpeech": "n",
+    "definition": "quiver [WTI.1i.4, Dyk, HS, RS], gun scabbard [HS, RS]",
+    "forms": [
+      {
+        "kiksht": "ishg̲ichxut",
+        "english": "2 quivers [HS, RS] iłg̲ichxut, iłg̲ichxuksh [Dyk]; itg̲ichxut [HS, RS]; itg̲ichxutksh [WTI.18.9, IV.1.2]"
+      },
+      {
+        "kiksht": "",
+        "english": "quivers"
+      }
+    ]
+  },
+  "i-g̲iglim": {
+    "root": "i-g̲iglim",
+    "partOfSpeech": "n",
+    "definition": "seeing",
+    "examples": [
+      {
+        "kiksht": "k'aya ig̲iglim dika",
+        "english": "not visible here"
+      },
+      {
+        "kiksht": "Yaima iyag̲iglim.",
+        "english": "Only he saw, could see. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-g̲l-KL, i-k'ig̲iglim"
+    ]
+  },
+  "i-g̲ikau": {
+    "root": "i-g̲ikau",
+    "partOfSpeech": "n",
+    "definition": "back [body part]",
+    "examples": [
+      {
+        "kiksht": "Uxwik'áyawulal idelxam qigemtkixiamt iyag̲ikauba.",
+        "english": "The people are laughing among them- selves behind his back. [WTI.9.10]"
+      }
+    ]
+  },
+  "i-g̲iluq": {
+    "root": "i-g̲iluq",
+    "partOfSpeech": "n",
+    "definition": "swan",
+    "forms": [
+      {
+        "kiksht": "ig̲iluqaksh",
+        "english": "swans [Dyk]"
+      }
+    ]
+  },
   "i-g̲ánina": {
     "root": "i-g̲ánina",
     "partOfSpeech": "n",
@@ -32643,6 +32891,11 @@
     "root": "is-gamúlik'as",
     "partOfSpeech": "n",
     "definition": "scorpion"
+  },
+  "is-g̲ikwlan": {
+    "root": "is-g̲ikwlan",
+    "partOfSpeech": "n",
+    "definition": "(2) feces"
   },
   "ish- -ditł'i": {
     "root": "ish- -ditł'i",
@@ -33366,6 +33619,25 @@
     ],
     "seeAlso": [
       "Tg̲atłau"
+    ]
+  },
+  "it-g̲emxmaimax": {
+    "root": "it-g̲emxmaimax",
+    "partOfSpeech": "n",
+    "definition": "shouting, talking from a distance",
+    "forms": [
+      {
+        "kiksht": "idiag̲emxmaimax",
+        "english": "he is shouting [Dyk]"
+      }
+    ]
+  },
+  "it-g̲epg̲ep": {
+    "root": "it-g̲epg̲ep",
+    "partOfSpeech": "n",
+    "definition": "elk grass",
+    "notes": [
+      "Refers to a variety of grass growing in or near mountains. [GT, MMc 6/5/98]"
     ]
   },
   "it-g̲áug̲aumat": {
