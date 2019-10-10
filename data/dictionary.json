@@ -491,6 +491,223 @@
       "i-k'ig̲wananan"
     ]
   },
+  "- G̲WAT": {
+    "root": "- G̲WAT",
+    "partOfSpeech": "vb",
+    "definition": "bathe",
+    "forms": [
+      {
+        "kiksht": "imxg̲wát",
+        "english": "you bathed your- self"
+      },
+      {
+        "kiksht": "anxg̲wada",
+        "english": "I will bathe myself [GT, MMc]"
+      },
+      {
+        "kiksht": "amxqwádama",
+        "english": "you will go bathe yourself [WTII.10.1]"
+      },
+      {
+        "kiksht": "amug̲wada",
+        "english": "you will bathe her"
+      },
+      {
+        "kiksht": "gachialqwt",
+        "english": "he bathed him for her [PK 7/17/56]"
+      },
+      {
+        "kiksht": "chiug̲wadnił",
+        "english": "he is bathing him (repeatedly)"
+      },
+      {
+        "kiksht": "gachiuqwat",
+        "english": "he bathed him"
+      },
+      {
+        "kiksht": "gachuqwat",
+        "english": "he bathed her"
+      },
+      {
+        "kiksht": "nanitg̲wádama",
+        "english": "I came to bathe him"
+      },
+      {
+        "kiksht": "nanyug̲wádama",
+        "english": "I went to bathe him"
+      },
+      {
+        "kiksht": "nagnug̲wádama",
+        "english": "she went to bathe me"
+      },
+      {
+        "kiksht": "nagiug̲wádama",
+        "english": "she went to bathe him"
+      },
+      {
+        "kiksht": "nagug̲wádama",
+        "english": "she went to bathe her"
+      },
+      {
+        "kiksht": "alaxwg̲wada",
+        "english": "she'll bathe herself"
+      },
+      {
+        "kiksht": "axg̲watuł",
+        "english": "she is bathing (herself)"
+      },
+      {
+        "kiksht": "axatg̲watuł",
+        "english": "she was bathing (herself)"
+      },
+      {
+        "kiksht": "anxg̲wádama",
+        "english": "I'll go (there) to bathe (myself) [Dyk]"
+      },
+      {
+        "kiksht": "anxatg̲wádama",
+        "english": "I'm going to come here to bathe [PK 7/31/56]"
+      },
+      {
+        "kiksht": "nanxadg̲wádama",
+        "english": "I came to bathe (myself)"
+      },
+      {
+        "kiksht": "nalaxg̲wádama",
+        "english": "she went to bathe (herself)"
+      },
+      {
+        "kiksht": "nxałlg̲watuł",
+        "english": "I am bathing (myself) in it"
+      },
+      {
+        "kiksht": "łnxlg̲watuł",
+        "english": "I am bathing (myself) with it"
+      },
+      {
+        "kiksht": "ik'ig̲watuł",
+        "english": "he is bathing (someone)"
+      },
+      {
+        "kiksht": "yug̲watix",
+        "english": "he is/has been bathed"
+      },
+      {
+        "kiksht": "ug̲watix",
+        "english": "she is/has been bathed [Dyk]"
+      },
+      {
+        "kiksht": "iyug̲wádixit",
+        "english": "he has been bathed out (a horse caught in a cloudburst) [PK 7/17/56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ag̲a chi ayamug̲wada?",
+        "english": "Are you ready for me to give you a bath?"
+      },
+      {
+        "kiksht": "[Lit.",
+        "english": "Will I bathe you now?] [GT, MMc]"
+      },
+      {
+        "kiksht": "Iłala galixux. Ag̲a kwaba gałxilait; gałxqwát iłchqwaba.",
+        "english": "A lake came to be. Then they stayed there; they bathed themselves in the wa- ter. [WTI.4.11]"
+      }
+    ],
+    "seeAlso": [
+      "i-g̲watuł"
+    ]
+  },
+  "- G̲WI-chu": {
+    "root": "- G̲WI-chu",
+    "partOfSpeech": "vb",
+    "definition": "go down, come down",
+    "forms": [
+      {
+        "kiksht": "ug̲wichu!",
+        "english": "go down! [HS 7/ 6/54]"
+      },
+      {
+        "kiksht": "emtg̲wichu!",
+        "english": "come down!"
+      },
+      {
+        "kiksht": "emg̲wichu!",
+        "english": "go down!"
+      },
+      {
+        "kiksht": "iyug̲wichu",
+        "english": "he went down [PK]"
+      },
+      {
+        "kiksht": "gayug̲wichu",
+        "english": "he went down [HS 7/6/54]"
+      }
+    ]
+  },
+  "- G̲WIA": {
+    "root": "- G̲WIA",
+    "partOfSpeech": "vb",
+    "definition": "press, choke, poke",
+    "forms": [
+      {
+        "kiksht": "yang̲wia!",
+        "english": "press it[i-] into/onto her!"
+      },
+      {
+        "kiksht": "achiang̲wíaya",
+        "english": "he will press it[i-] into/onto her [PK]"
+      },
+      {
+        "kiksht": "chiug̲wíanan",
+        "english": "he is pressing with it[i- ]"
+      },
+      {
+        "kiksht": "chiang̲wiat",
+        "english": "he has it[i-] pressed against her"
+      },
+      {
+        "kiksht": "chiang̲wianan",
+        "english": "he is pressing her with it[i-] (several times)"
+      },
+      {
+        "kiksht": "chang̲wianan",
+        "english": "he is pressing her with it[a-] (several times)"
+      },
+      {
+        "kiksht": "changig̲wíanan",
+        "english": "he is pressing against her"
+      },
+      {
+        "kiksht": "ichiang̲wiananemchk",
+        "english": "he pressed him with it[i-] (repeat- edly)"
+      },
+      {
+        "kiksht": "yang̲wiat",
+        "english": "it[i-] is pressed into her; she is choked with it"
+      },
+      {
+        "kiksht": "iyang̲wíaxit",
+        "english": "she became choked/ poked with it[i-]"
+      },
+      {
+        "kiksht": "galiłxng̲wiananemchk",
+        "english": "they pressed/ poked one another with it[i-] (a pestle, baseball bat, or anyting with a blunt and rounded end)"
+      },
+      {
+        "kiksht": "aing̲wiadix",
+        "english": "she is pressed onto the ground"
+      },
+      {
+        "kiksht": "ing̲wiadix",
+        "english": "he is pressed onto the ground [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x-i-n- G̲WIA-ix, i-gig̲wianan"
+    ]
+  },
   "-(i)-gl-xi-GLA-dix": {
     "root": "-(i)-gl-xi-GLA-dix",
     "partOfSpeech": "vb",
@@ -5749,6 +5966,20 @@
       "Literally means \"throw (- chim) oneself (-x-) at (-gl-).\" The -m- is omitted before the suffix -ł-."
     ]
   },
+  "-x-i-n- G̲WIA-ix": {
+    "root": "-x-i-n- G̲WIA-ix",
+    "partOfSpeech": "vb",
+    "definition": "dodge, press oneself against the ground",
+    "forms": [
+      {
+        "kiksht": "ixing̲wiananix",
+        "english": "he is dodging; he is pressing himself against the ground [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "- G̲WIA"
+    ]
+  },
   "-x-k'i-CHXENKDA-mit": {
     "root": "-x-k'i-CHXENKDA-mit",
     "partOfSpeech": "vb",
@@ -7286,6 +7517,28 @@
       {
         "kiksht": "itg̲wamat",
         "english": "splinters [Dyk]"
+      }
+    ]
+  },
+  "a-g̲wetg̲wet": {
+    "root": "a-g̲wetg̲wet",
+    "partOfSpeech": "n",
+    "definition": "sagehen"
+  },
+  "a-g̲wic'ap": {
+    "root": "a-g̲wic'ap",
+    "partOfSpeech": "n",
+    "definition": "blackberry",
+    "forms": [
+      {
+        "kiksht": "iłg̲wic'ap",
+        "english": "blackberries [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "beshten q'uic'ap",
+        "english": "tame [cultivated?] blackberries [ChJ 7/ 19/51]"
       }
     ]
   },
@@ -30593,6 +30846,46 @@
       "qw'ap, i-k'ig̲wap, it- k'ig̲wapxat"
     ]
   },
+  "g̲wau": {
+    "root": "g̲wau",
+    "partOfSpeech": "part",
+    "definition": "beat sticks, noise of something dropping on the floor, crash, bang",
+    "examples": [
+      {
+        "kiksht": "G̲wau ichiux.",
+        "english": "He made it[i-] sound g̲wau."
+      },
+      {
+        "kiksht": "Dag̲wau amdushtxwida.",
+        "english": "You'll drop them with a bang."
+      },
+      {
+        "kiksht": "Gachengitga bama g̲waug̲wau.",
+        "english": "Last year he got me for stick beating."
+      },
+      {
+        "kiksht": "G̲waug̲wau igixux.",
+        "english": "He beat the sticks. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ig̲waug̲wau, i- k'ig̲waug̲waumat"
+    ]
+  },
+  "g̲wiaqwt": {
+    "root": "g̲wiaqwt",
+    "partOfSpeech": "part",
+    "definition": "be busy, engage in business",
+    "examples": [
+      {
+        "kiksht": "G̲wiaqwt anxuxwa.",
+        "english": "I'll engage in business, be busy work- ing. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-g̲wiaqwt"
+    ]
+  },
   "g̲ánwicha": {
     "root": "g̲ánwicha",
     "partOfSpeech": "interj",
@@ -33813,6 +34106,50 @@
     ],
     "seeAlso": [
       "i-qw'ashqw'ash"
+    ]
+  },
+  "i-g̲watuł": {
+    "root": "i-g̲watuł",
+    "partOfSpeech": "n",
+    "definition": "bathing",
+    "forms": [
+      {
+        "kiksht": "ichag̲watuł",
+        "english": "she is a bather, she goes bathing [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "- G̲WAT, id-g̲wadułxat"
+    ]
+  },
+  "i-g̲watułbama": {
+    "root": "i-g̲watułbama",
+    "partOfSpeech": "n",
+    "definition": "bathtub",
+    "seeAlso": [
+      "- G̲WAT"
+    ]
+  },
+  "i-g̲waxchul": {
+    "root": "i-g̲waxchul",
+    "partOfSpeech": "n",
+    "definition": "squirrel",
+    "seeAlso": [
+      "a-gusgus"
+    ]
+  },
+  "i-g̲wiaqwt": {
+    "root": "i-g̲wiaqwt",
+    "partOfSpeech": "n",
+    "definition": "business, affairs, in- dustriousness",
+    "forms": [
+      {
+        "kiksht": "iyag̲wiaqwt",
+        "english": "he is industri- ous, interested in working [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "g̲wiaqwt"
     ]
   },
   "i-g̲wálapik": {

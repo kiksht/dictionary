@@ -10984,3 +10984,54 @@ wa-©washt [n] dried half side of fish
 Forms: i¬©washt “dried half sides” [Dyk]
 Notes: Refers to a side of any fish but chinook salmon, with slits across from stakes. A side of chinook is i- sk’imks. A slice of dried salmon with- out slits is i¬-katichk.
 See also: i-sk’imks, i¬-katichk
+
+
+
+
+
+
+
+
+- ̋WAT [vb] bathe
+Forms: imx©wÅt “you bathed your- self” anx©wada “I will bathe myself” [GT, MMc] amxqwÅdama “you will go bathe yourself” [WTII.10.1] amu©wada “you will bathe her” gachialqwt “he bathed him for her” [PK 7/17/56] chiu©wadni¬ “he is bathing him (repeatedly)” gachiuqwat “he bathed him” gachuqwat “he bathed her” nanit©wÅdama “I came to bathe him” nanyu©wÅdama “I went to bathe him” nagnu©wÅdama “she went to bathe me” nagiu©wÅdama “she went to bathe him” nagu©wÅdama “she went to bathe her” alaxw©wada “she’ll bathe herself” ax©watu¬ “she is bathing (herself)” axat©watu¬ “she was bathing (herself)” anx©wÅdama “I’ll go (there) to bathe (myself)” [Dyk] anxat©wÅdama “I’m going to come here to bathe” [PK 7/31/56] nanxad©wÅdama “I came to bathe (myself)” nalax©wÅdama “she went to bathe (herself)” nxa¬l©watu¬ “I am bathing (myself) in it” ¬nxl©watu¬ “I am bathing (myself) with it” ik’i©watu¬ “he is bathing (someone)” yu©watix “he is/has been bathed” u©watix “she is/has been bathed” [Dyk] iyu©wÅdixit “he has been bathed out (a horse caught in a cloudburst)” [PK 7/17/56]
+Examples: A©a chi ayamu©wada? “Are you ready for me to give you a bath?” [Lit. “Will I bathe you now?”] [GT, MMc] I¬ala galixux. A©a kwaba ga¬xilait; ga¬xqwÅt i¬chqwaba. “A lake came to be. Then they stayed there; they bathed themselves in the wa- ter.” [WTI.4.11]
+See also: i-©watu¬
+
+i-©watu¬ [n] bathing
+Forms: icha©watu¬ “she is a bather, she goes bathing” [Dyk]
+See also: - ̋WAT, id-©wadu¬xat
+
+i-©watu¬bama [n] bathtub
+See also: - ̋WAT
+
+©wau [part] beat sticks, noise of something dropping on the floor, crash, bang
+Examples:  ̋wau ichiux. “He made it[i-] sound ©wau.” Da©wau amdushtxwida. “You’ll drop them with a bang.” Gachengitga bama ©wau©wau. “Last year he got me for stick beating.”  ̋wau©wau igixux. “He beat the sticks.” [Dyk]
+See also: i-k’i©wau©wau, i- k’i©wau©waumat
+
+i-©waxchul [n] squirrel
+See also: a-gusgus
+
+a-©wet©wet [n] sagehen
+
+- ̋WI-chu [vb] go down, come down
+Forms: u©wichu! “go down!” [HS 7/ 6/54] emt©wichu! “come down!” em©wichu! “go down!” iyu©wichu “he went down” [PK] gayu©wichu “he went down” [HS 7/6/54]
+
+- ̋WIA [vb] press, choke, poke
+Forms: yan©wia! “press it[i-] into/onto her!” achian©wˆaya “he will press it[i-] into/onto her” [PK] chiu©wˆanan “he is pressing with it[i- ]” chian©wiat “he has it[i-] pressed against her” chian©wianan “he is pressing her with it[i-] (several times)” chan©wianan “he is pressing her with it[a-] (several times)” changi©wˆanan “he is pressing against her” ichian©wiananemchk “he pressed him with it[i-] (repeat- edly)” yan©wiat “it[i-] is pressed into her; she is choked with it” iyan©wˆaxit “she became choked/ poked with it[i-]” gali¬xn©wiananemchk “they pressed/ poked one another with it[i-] (a pestle, baseball bat, or anyting with a blunt and rounded end)” ain©wiadix “she is pressed onto the ground” in©wiadix “he is pressed onto the ground” [Dyk]
+See also: -x-i-n- ̋WIA-ix, i-gi©wianan
+
+-x-i-n- ̋WIA-ix [vb] dodge, press oneself against the ground
+Forms: ixin©wiananix “he is dodging; he is pressing himself against the ground” [Dyk]
+See also: - ̋WIA
+
+i-©wiaqwt [n] business, affairs, in- dustriousness
+Forms: iya©wiaqwt “he is industri- ous, interested in working” [Dyk]
+See also: ©wiaqwt
+
+©wiaqwt [part] be busy, engage in business
+Examples:  ̋wiaqwt anxuxwa. “I’ll engage in business, be busy work- ing.” [Dyk]
+See also: i-©wiaqwt
+
+a-©wic’ap [n] blackberry
+Forms: i¬©wic’ap “blackberries” [Dyk]
+Examples: beshten q’uic’ap “tame [cultivated?] blackberries” [ChJ 7/ 19/51]
