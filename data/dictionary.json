@@ -4862,6 +4862,11 @@
       "i-gakwal, i-michkán"
     ]
   },
+  "a-galemgwa": {
+    "root": "a-galemgwa",
+    "partOfSpeech": "n",
+    "definition": "toads"
+  },
   "a-gálamat": {
     "root": "a-gálamat",
     "partOfSpeech": "n",
@@ -21543,6 +21548,259 @@
       "-x-ŁUXWA-it"
     ]
   },
+  "galidemqt": {
+    "root": "galidemqt",
+    "partOfSpeech": "vb",
+    "definition": "he died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "galigeldachgwam": {
+    "root": "galigeldachgwam",
+    "partOfSpeech": "vb",
+    "definition": "he came upon him",
+    "seeAlso": [
+      "-gl-TA-chkw-am"
+    ]
+  },
+  "galigemłaitam": {
+    "root": "galigemłaitam",
+    "partOfSpeech": "vb",
+    "definition": "he went to sit beside him",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "galigélekchu": {
+    "root": "galigélekchu",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] fell down on him",
+    "seeAlso": [
+      "-L(U)K-chu"
+    ]
+  },
+  "galigimx": {
+    "root": "galigimx",
+    "partOfSpeech": "vb",
+    "definition": "he said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "galiglalamchk": {
+    "root": "galiglalamchk",
+    "partOfSpeech": "vb",
+    "definition": "he sang",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "galiglukchuamam": {
+    "root": "galiglukchuamam",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] came falling down on him",
+    "examples": [
+      {
+        "kiksht": "Galiglukchuamam iyawanba ig̲anuk ishkán.",
+        "english": "The cedar came falling down on Beaver's belly. [WTI.4.14]"
+      }
+    ],
+    "seeAlso": [
+      "-LK-chu"
+    ]
+  },
+  "galigluma": {
+    "root": "galigluma",
+    "partOfSpeech": "vb",
+    "definition": "he shouted",
+    "seeAlso": [
+      "-k-LUMA"
+    ]
+  },
+  "galigluya": {
+    "root": "galigluya",
+    "partOfSpeech": "vb",
+    "definition": "he went to him",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "galigmutxuit": {
+    "root": "galigmutxuit",
+    "partOfSpeech": "vb",
+    "definition": "he stood beside him",
+    "seeAlso": [
+      "-TX(WI)-it"
+    ]
+  },
+  "galigug̲wam": {
+    "root": "galigug̲wam",
+    "partOfSpeech": "vb",
+    "definition": "he got to him",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "galigug̲wamx": {
+    "root": "galigug̲wamx",
+    "partOfSpeech": "vb",
+    "definition": "he reached to him",
+    "examples": [
+      {
+        "kiksht": "Iłag̲wnmixba ag̲a łq'ap galigug̲wámx qw'ábixix g̲wnmabet ishk'ichax.",
+        "english": "At the fifth time he reached close enough, about five steps off. [WTI.1m.2]"
+      }
+    ],
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "galiguqwam": {
+    "root": "galiguqwam",
+    "partOfSpeech": "vb",
+    "definition": "he got to him",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "galig̲eltaqłq": {
+    "root": "galig̲eltaqłq",
+    "partOfSpeech": "vb",
+    "definition": "he left him",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "galig̲eltaqłx": {
+    "root": "galig̲eltaqłx",
+    "partOfSpeech": "vb",
+    "definition": "he escaped from him",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "galikchax": {
+    "root": "galikchax",
+    "partOfSpeech": "vb",
+    "definition": "he cried out, he cried",
+    "seeAlso": [
+      "-k-CHAX̲"
+    ]
+  },
+  "galikim": {
+    "root": "galikim",
+    "partOfSpeech": "vb",
+    "definition": "he said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "galikta": {
+    "root": "galikta",
+    "partOfSpeech": "vb",
+    "definition": "he ran, he ran off",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "galiktapchk": {
+    "root": "galiktapchk",
+    "partOfSpeech": "vb",
+    "definition": "he came ashore",
+    "seeAlso": [
+      "-TA, -k-TA, -k-TA-pchk"
+    ]
+  },
+  "galiktax": {
+    "root": "galiktax",
+    "partOfSpeech": "vb",
+    "definition": "he ran off",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "galiktg̲wáxidix": {
+    "root": "galiktg̲wáxidix",
+    "partOfSpeech": "vb",
+    "definition": "he turned over",
+    "seeAlso": [
+      "-i-k-TQW-ix"
+    ]
+  },
+  "galikxaima": {
+    "root": "galikxaima",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] lay in it[i-]",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "galikłutgemx": {
+    "root": "galikłutgemx",
+    "partOfSpeech": "vb",
+    "definition": "he took a breath",
+    "seeAlso": [
+      "-k-ŁUT-kw"
+    ]
+  },
+  "galikłútk": {
+    "root": "galikłútk",
+    "partOfSpeech": "vb",
+    "definition": "he breathed",
+    "seeAlso": [
+      "-k-ŁUT-kw"
+    ]
+  },
+  "galildáulx": {
+    "root": "galildáulx",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] was forced up into it[i-]",
+    "examples": [
+      {
+        "kiksht": "Gachíglga iłúguma; ishiagich galildáulx.",
+        "english": "He seized the stick-game bones; they were forced up into his nostrils. [WTI.4.9]"
+      }
+    ],
+    "seeAlso": [
+      "-TA, -WULX"
+    ]
+  },
+  "galilwulxt": {
+    "root": "galilwulxt",
+    "partOfSpeech": "vb",
+    "definition": "he travelled upriver",
+    "seeAlso": [
+      "-l-WULX"
+    ]
+  },
+  "galilxasha": {
+    "root": "galilxasha",
+    "partOfSpeech": "vb",
+    "definition": "he became thirsty",
+    "seeAlso": [
+      "i-l-xa-SHA"
+    ]
+  },
+  "galilłakw'achk": {
+    "root": "galilłakw'achk",
+    "partOfSpeech": "vb",
+    "definition": "he got scent of food (lit. \"he got scent of it[i-]\")",
+    "seeAlso": [
+      "-l-ŁA-kw'a"
+    ]
+  },
+  "galimałxixit": {
+    "root": "galimałxixit",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] fell into water",
+    "notes": [
+      "This may be a mistake for galilimałxixit. Gladys Thompson gives gayalimałxixit for \"he fell into water.\""
+    ],
+    "seeAlso": [
+      "-l-IMA-łx-ixit, ashdalimáłxixida"
+    ]
+  },
   "galishgluya": {
     "root": "galishgluya",
     "partOfSpeech": "vb",
@@ -21571,6 +21829,30 @@
     ],
     "seeAlso": [
       "-X̲, -x̲-X̲"
+    ]
+  },
+  "galiłguqwam": {
+    "root": "galiłguqwam",
+    "partOfSpeech": "vb",
+    "definition": "he got to them",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "galiłg̲luqłq": {
+    "root": "galiłg̲luqłq",
+    "partOfSpeech": "vb",
+    "definition": "he left them",
+    "seeAlso": [
+      "-g̲l-QŁQ"
+    ]
+  },
+  "galiłlupq": {
+    "root": "galiłlupq",
+    "partOfSpeech": "vb",
+    "definition": "he went in to him[ił-]",
+    "seeAlso": [
+      "-PQ"
     ]
   },
   "galáig̲luqłq": {
