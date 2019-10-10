@@ -24850,12 +24850,80 @@
       "-WA"
     ]
   },
+  "gashkshuxam": {
+    "root": "gashkshuxam",
+    "partOfSpeech": "vb",
+    "definition": "they two went to make them two",
+    "examples": [
+      {
+        "kiksht": "Qw'ab ag̲a gashkshuxam.",
+        "english": "They two came close up. [WTI.4.21]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gashkshúksht": {
     "root": "gashkshúksht",
     "partOfSpeech": "vb",
     "definition": "they 2 looked at them 2",
     "seeAlso": [
       "-KSHT"
+    ]
+  },
+  "gashkta": {
+    "root": "gashkta",
+    "partOfSpeech": "vb",
+    "definition": "they 2 ran",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "gashktuxwimchk": {
+    "root": "gashktuxwimchk",
+    "partOfSpeech": "vb",
+    "definition": "they 2 chal- lenged them",
+    "seeAlso": [
+      "-XIM"
+    ]
+  },
+  "gashktáx": {
+    "root": "gashktáx",
+    "partOfSpeech": "vb",
+    "definition": "they 2 ran",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "gashkukł": {
+    "root": "gashkukł",
+    "partOfSpeech": "vb",
+    "definition": "they 2 carried it[a-]",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gashkukłam": {
+    "root": "gashkukłam",
+    "partOfSpeech": "vb",
+    "definition": "they brought her",
+    "seeAlso": [
+      "-KŁ, -KŁ-am"
+    ]
+  },
+  "gashkuxwix": {
+    "root": "gashkuxwix",
+    "partOfSpeech": "vb",
+    "definition": "they 2 did them",
+    "examples": [
+      {
+        "kiksht": "Tłxwaptłxwap gashkuxwix itshtapiq.",
+        "english": "They interlocked their wings. [WTI.4.17]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "gashkłxlémchk": {
@@ -24872,6 +24940,217 @@
     "definition": "they 2 heated them",
     "seeAlso": [
       "-x-ŁLA-ma"
+    ]
+  },
+  "gashtag̲elg̲ápaxix": {
+    "root": "gashtag̲elg̲ápaxix",
+    "partOfSpeech": "vb",
+    "definition": "they 2 started out to run fast",
+    "seeAlso": [
+      "-a-g̲l- G̲A-pa-xix"
+    ]
+  },
+  "gashtaktaq": {
+    "root": "gashtaktaq",
+    "partOfSpeech": "vb",
+    "definition": "they 2 ran after her",
+    "seeAlso": [
+      "-k-TA-qw"
+    ]
+  },
+  "gashtawigapg̲mx": {
+    "root": "gashtawigapg̲mx",
+    "partOfSpeech": "vb",
+    "definition": "they 2 ran into them",
+    "seeAlso": [
+      "-l-KA-pq"
+    ]
+  },
+  "gashtig̲elgáulxix": {
+    "root": "gashtig̲elgáulxix",
+    "partOfSpeech": "vb",
+    "definition": "they two ran up out of it[i-]",
+    "seeAlso": [
+      "-KA-wulx"
+    ]
+  },
+  "gashtikdaqwam": {
+    "root": "gashtikdaqwam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 overtook him",
+    "seeAlso": [
+      "-k-TA-qw-am"
+    ]
+  },
+  "gashtiktaq": {
+    "root": "gashtiktaq",
+    "partOfSpeech": "vb",
+    "definition": "they 2 gained on him",
+    "seeAlso": [
+      "-k-TA-qw"
+    ]
+  },
+  "gashtikłait": {
+    "root": "gashtikłait",
+    "partOfSpeech": "vb",
+    "definition": "they 2 sat down in it[i-]",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "gashtilakwit": {
+    "root": "gashtilakwit",
+    "partOfSpeech": "vb",
+    "definition": "they[ish-] struck against it[i-]",
+    "seeAlso": [
+      "-LA-kw, -l-LA-kw"
+    ]
+  },
+  "gashtildáchuxwix": {
+    "root": "gashtildáchuxwix",
+    "partOfSpeech": "vb",
+    "definition": "they 2 ran down into it[i-]",
+    "notes": [
+      "This is simply an alternate form of gashdildáchuxwix."
+    ],
+    "seeAlso": [
+      "-TA, gashdildáchuxwix"
+    ]
+  },
+  "gashtilgawulx": {
+    "root": "gashtilgawulx",
+    "partOfSpeech": "vb",
+    "definition": "they 2 flew up to it[i-]",
+    "seeAlso": [
+      "-KA, -WULX, -KA-wulx"
+    ]
+  },
+  "gashtilkapg̲ix": {
+    "root": "gashtilkapg̲ix",
+    "partOfSpeech": "vb",
+    "definition": "they 2 entered into it[i-]",
+    "seeAlso": [
+      "-KA-pq"
+    ]
+  },
+  "gashtilwulxt": {
+    "root": "gashtilwulxt",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went up to it[i-]",
+    "seeAlso": [
+      "-WULXT"
+    ]
+  },
+  "gashtugwaba": {
+    "root": "gashtugwaba",
+    "partOfSpeech": "vb",
+    "definition": "they 2 escaped",
+    "seeAlso": [
+      "-KA-pa"
+    ]
+  },
+  "gashtug̲iłtix": {
+    "root": "gashtug̲iłtix",
+    "partOfSpeech": "vb",
+    "definition": "it rained",
+    "seeAlso": [
+      "-sht- G̲IŁTI"
+    ]
+  },
+  "gashtug̲wiłti": {
+    "root": "gashtug̲wiłti",
+    "partOfSpeech": "vb",
+    "definition": "it rained",
+    "seeAlso": [
+      "-sht- G̲IłTI"
+    ]
+  },
+  "gashtuix": {
+    "root": "gashtuix",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gashtuqui": {
+    "root": "gashtuqui",
+    "partOfSpeech": "vb",
+    "definition": "they 2 slept over- night",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "gashtuqwi": {
+    "root": "gashtuqwi",
+    "partOfSpeech": "vb",
+    "definition": "they 2 slept over- night",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "gashtutxuitam": {
+    "root": "gashtutxuitam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 came to a stand",
+    "seeAlso": [
+      "-TX(WI)-it"
+    ]
+  },
+  "gashtuya": {
+    "root": "gashtuya",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gashtułait": {
+    "root": "gashtułait",
+    "partOfSpeech": "vb",
+    "definition": "they 2 dwelt [WTI.12.1, 15.3], they 2 stayed [WTI.13.7]",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "gashtáguqam": {
+    "root": "gashtáguqam",
+    "partOfSpeech": "vb",
+    "definition": "they got to her, they met her",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "gashtúg̲uyam": {
+    "root": "gashtúg̲uyam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 camped overnight",
+    "seeAlso": [
+      "-QUI, - G̲UY-am"
+    ]
+  },
+  "gashtúmqt": {
+    "root": "gashtúmqt",
+    "partOfSpeech": "vb",
+    "definition": "they 2 died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "gashtúpq": {
+    "root": "gashtúpq",
+    "partOfSpeech": "vb",
+    "definition": "they 2 entered",
+    "seeAlso": [
+      "-PQ"
+    ]
+  },
+  "gashtúxuni": {
+    "root": "gashtúxuni",
+    "partOfSpeech": "vb",
+    "definition": "they 2 drifted",
+    "seeAlso": [
+      "-NI, -X̲UNI"
     ]
   },
   "gasixelcgi": {
