@@ -22968,6 +22968,255 @@
       "-x-TŁA-kw"
     ]
   },
+  "ganshgigelgax": {
+    "root": "ganshgigelgax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) caught him",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "ganshgiguqłxix": {
+    "root": "ganshgiguqłxix",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) rubbed them[i-] together",
+    "examples": [
+      {
+        "kiksht": "Iqtát ganshgiguqłxix.",
+        "english": "We rubbed the sounding-boards to- gether. [WTIV.2.2]"
+      }
+    ]
+  },
+  "ganshgikłaimitx": {
+    "root": "ganshgikłaimitx",
+    "partOfSpeech": "vb",
+    "definition": "we put him astride him",
+    "seeAlso": [
+      "-ŁAI-mit"
+    ]
+  },
+  "ganshgiukł": {
+    "root": "ganshgiukł",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) took him along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "ganshgiwax": {
+    "root": "ganshgiwax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) followed him",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "ganshgiúpg̲nax": {
+    "root": "ganshgiúpg̲nax",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) named him",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "ganshgiłgluxtamax": {
+    "root": "ganshgiłgluxtamax",
+    "partOfSpeech": "vb",
+    "definition": "we charged at them",
+    "seeAlso": [
+      "gashxiluxtámakwachgix"
+    ]
+  },
+  "ganshglalamx": {
+    "root": "ganshglalamx",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) sang",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "ganshguxwax": {
+    "root": "ganshguxwax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) did them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganshgágelgax": {
+    "root": "ganshgágelgax",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) got at it[a-] [WTIV.2.11], we took them[a-] [WTIV.2.19]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "ganshgág̲elgelx": {
+    "root": "ganshgág̲elgelx",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) saw them[a-]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ganshgáwigitkax": {
+    "root": "ganshgáwigitkax",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) loaded them",
+    "seeAlso": [
+      "-TK, -l-gi-TK, gaqáwigitkax"
+    ]
+  },
+  "ganshgígelgax": {
+    "root": "ganshgígelgax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) caught it[i-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "ganshgíg̲itkel": {
+    "root": "ganshgíg̲itkel",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) saw him",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ganshgíuxwax": {
+    "root": "ganshgíuxwax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) did him",
+    "examples": [
+      {
+        "kiksht": "Ikala aik'áu idiaqwit ganshgíuxwax.",
+        "english": "We tied the man's legs. [WTIV.2.16]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganshgúgigax": {
+    "root": "ganshgúgigax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) got them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "ganshgúgwigax": {
+    "root": "ganshgúgwigax",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) seized them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "ganshgúg̲wigelx": {
+    "root": "ganshgúg̲wigelx",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) saw them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ganshg̲uitgemx": {
+    "root": "ganshg̲uitgemx",
+    "partOfSpeech": "vb",
+    "definition": "we awoke",
+    "seeAlso": [
+      "- G̲UITQ"
+    ]
+  },
+  "ganshg̲uix": {
+    "root": "ganshg̲uix",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) camped",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "ganshig̲waqax": {
+    "root": "ganshig̲waqax",
+    "partOfSpeech": "vb",
+    "definition": "we dreamed",
+    "seeAlso": [
+      "-i-x-gi- G̲WA-qw, -x- G̲WA-kw"
+    ]
+  },
+  "ganshikatx": {
+    "root": "ganshikatx",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) did at him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganshilwulxtex": {
+    "root": "ganshilwulxtex",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) went up it[i-]",
+    "seeAlso": [
+      "-WULXT"
+    ]
+  },
+  "ganshkdáwixax": {
+    "root": "ganshkdáwixax",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) did them on them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganshkítx": {
+    "root": "ganshkítx",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) did it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganshkłayux": {
+    "root": "ganshkłayux",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) moved",
+    "seeAlso": [
+      "-k-ŁAYU"
+    ]
+  },
+  "ganshkłgelga": {
+    "root": "ganshkłgelga",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) caught them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "ganshkłgelgax": {
+    "root": "ganshkłgelgax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) caught them, we (not including you) took hold of them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "ganshkłg̲elgelx": {
+    "root": "ganshkłg̲elgelx",
+    "partOfSpeech": "vb",
+    "definition": "we saw them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ganshkłg̲itkel": {
+    "root": "ganshkłg̲itkel",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) saw them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
   "gansúsgenem": {
     "root": "gansúsgenem",
     "partOfSpeech": "vb",
