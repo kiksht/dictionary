@@ -1692,6 +1692,20 @@
       }
     ]
   },
+  "-a-gl- G̲AYA": {
+    "root": "-a-gl- G̲AYA",
+    "partOfSpeech": "vb",
+    "definition": "groan to",
+    "forms": [
+      {
+        "kiksht": "chaigelg̲ayax",
+        "english": "he is groaning to him [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-a-xl- G̲AYA, a-kig̲ayax"
+    ]
+  },
   "-a-gl-CHKW'AYA-mit": {
     "root": "-a-gl-CHKW'AYA-mit",
     "partOfSpeech": "vb",
@@ -1752,6 +1766,32 @@
     ],
     "seeAlso": [
       "a-qígwachinan"
+    ]
+  },
+  "-a-xl- G̲AYA": {
+    "root": "-a-xl- G̲AYA",
+    "partOfSpeech": "vb",
+    "definition": "groan",
+    "forms": [
+      {
+        "kiksht": "aixelg̲ayax",
+        "english": "he is groaning"
+      },
+      {
+        "kiksht": "ałxelg̲ayax",
+        "english": "it is groaning"
+      },
+      {
+        "kiksht": "aixitg̲ayax",
+        "english": "he was groaning"
+      },
+      {
+        "kiksht": "igaixelg̲ayachk",
+        "english": "he groaned (several times) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-a-gl- G̲AYA"
     ]
   },
   "-bali": {
@@ -3823,6 +3863,62 @@
       "ish- -ditł'i"
     ]
   },
+  "-sh-gl- G̲AYA": {
+    "root": "-sh-gl- G̲AYA",
+    "partOfSpeech": "vb",
+    "definition": "wish for",
+    "forms": [
+      {
+        "kiksht": "kshigelg̲ayax",
+        "english": "she is wishing for him"
+      },
+      {
+        "kiksht": "qshigelg̲ayax",
+        "english": "one is wish- ing for him, he is being wished for"
+      },
+      {
+        "kiksht": "ikshigelg̲ayachk",
+        "english": "she wished for him"
+      },
+      {
+        "kiksht": "ninshigitg̲ayax",
+        "english": "I was wishing for him (last week)"
+      },
+      {
+        "kiksht": "shigelg̲ayachkux",
+        "english": "he is wished for"
+      },
+      {
+        "kiksht": "isigelg̲áyachguxit",
+        "english": "he became wished for"
+      },
+      {
+        "kiksht": "isigelg̲áyachguxlitemchk",
+        "english": "he became wished for (several times)"
+      },
+      {
+        "kiksht": "nishixelg̲ayax",
+        "english": "he was wishing (last season)"
+      },
+      {
+        "kiksht": "nishixitg̲ayax",
+        "english": "he was wish- ing (last week)"
+      },
+      {
+        "kiksht": "ichaxitg̲ayachk",
+        "english": "she wished [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Nikshigelg̲ayax ig̲iwaq.",
+        "english": "She was wishing for meat (last sea- son). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-a-gl- G̲AYA, -a-xl- G̲AYA"
+    ]
+  },
   "-sh-i-n-GWIYA-dix": {
     "root": "-sh-i-n-GWIYA-dix",
     "partOfSpeech": "vb",
@@ -5320,6 +5416,14 @@
       "-X̲"
     ]
   },
+  "G̲awidacganik": {
+    "root": "G̲awidacganik",
+    "partOfSpeech": "place",
+    "definition": "Gawidacganik",
+    "notes": [
+      "Refers to a place a little over a mile northeast of Nixluidix (Spearfish)."
+    ]
+  },
   "Notes: Refers to oak of which igaben, digging stick, is made": {
     "root": "Notes: Refers to oak of which igaben, digging stick, is made",
     "partOfSpeech": "Notes: Refers to oak of which igaben, digging stick, is made",
@@ -6192,6 +6296,46 @@
       {
         "kiksht": "itg̲apłqau",
         "english": "yellowhammers"
+      }
+    ]
+  },
+  "a-g̲atłalamg̲a": {
+    "root": "a-g̲atłalamg̲a",
+    "partOfSpeech": "n",
+    "definition": "bullfrog",
+    "forms": [
+      {
+        "kiksht": "itg̲atłálamg̲a",
+        "english": "bullfrogs [Dyk]"
+      }
+    ]
+  },
+  "a-g̲axitk": {
+    "root": "a-g̲axitk",
+    "partOfSpeech": "n",
+    "definition": "island",
+    "forms": [
+      {
+        "kiksht": "itg̲axitkmax",
+        "english": "islands"
+      },
+      {
+        "kiksht": "anshag̲axitkba",
+        "english": "to our island [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-k'axitk"
+    ]
+  },
+  "a-g̲axman": {
+    "root": "a-g̲axman",
+    "partOfSpeech": "n",
+    "definition": "pigeon",
+    "forms": [
+      {
+        "kiksht": "itg̲axman",
+        "english": "pigeons [Dyk] - G̲AYA groan"
       }
     ]
   },
@@ -29377,6 +29521,36 @@
       "Used by a man to address his son's children"
     ]
   },
+  "g̲aug̲au": {
+    "root": "g̲aug̲au",
+    "partOfSpeech": "part",
+    "definition": "hammer, drum",
+    "examples": [
+      {
+        "kiksht": "G̲aug̲au chiuxt.",
+        "english": "He is hammering it[i-]. [Dyk]"
+      },
+      {
+        "kiksht": "G̲aug̲au amshxuxwa.",
+        "english": "You folks will drum. [WTI.15.4]"
+      },
+      {
+        "kiksht": "G̲aug̲au galixux imulagmax.",
+        "english": "The elks drummed. [WTI.15.4]"
+      }
+    ],
+    "notes": [
+      "When used intransitively (without a direct object), this particle apparently is used with the reflexive (-x-) form of the helping verb -x."
+    ],
+    "seeAlso": [
+      "i-k'ig̲aug̲au"
+    ]
+  },
+  "g̲awaxemdix": {
+    "root": "g̲awaxemdix",
+    "partOfSpeech": "adv",
+    "definition": "spring, springtime"
+  },
   "g̲ánwicha": {
     "root": "g̲ánwicha",
     "partOfSpeech": "interj",
@@ -32218,6 +32392,23 @@
       "-k'asnan, a-q'asnan, ish- g̲ashnaigi"
     ]
   },
+  "i-g̲awulx": {
+    "root": "i-g̲awulx",
+    "partOfSpeech": "n",
+    "definition": "rattlesnake",
+    "forms": [
+      {
+        "kiksht": "igaulxmax",
+        "english": "rattlesnakes"
+      }
+    ],
+    "notes": [
+      "This is the proper name for rattlesnake; ich'ai refers specifically to rattles (compare i-shaishai); ich'maxix is euphemism meaning \"grandfather.\" [GT, MMc 6/3/98]"
+    ],
+    "seeAlso": [
+      "i-ch'maxix, i-ch'ai, i- ułt'umax"
+    ]
+  },
   "i-g̲ánina": {
     "root": "i-g̲ánina",
     "partOfSpeech": "n",
@@ -33160,6 +33351,31 @@
       "a-q'apan"
     ]
   },
+  "it-g̲atłaumax": {
+    "root": "it-g̲atłaumax",
+    "partOfSpeech": "n",
+    "definition": "hauntedness, con- tamination from dead person [Dyk], bad spirits, spirits of dead [MMc 6/5/ 98]",
+    "forms": [
+      {
+        "kiksht": "idiag̲atłaumax",
+        "english": "it[i-] is g̲atłau, 'haunted' [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to what has been put on some article or garment used or worn by one now dead that must be purified before it may be used again; this is done by washing and airing. [Dyk]"
+    ],
+    "seeAlso": [
+      "Tg̲atłau"
+    ]
+  },
+  "it-g̲áug̲aumat": {
+    "root": "it-g̲áug̲aumat",
+    "partOfSpeech": "n",
+    "definition": "beating sticks",
+    "notes": [
+      "Refers to sticks beaten against wooden plank, used in both an In- dian doctor's song and gambling songs."
+    ]
+  },
   "ił-alakásgwilit": {
     "root": "ił-alakásgwilit",
     "partOfSpeech": "n",
@@ -33404,6 +33620,14 @@
     ],
     "seeAlso": [
       "i-g̲apt"
+    ]
+  },
+  "ił-g̲elgwipx": {
+    "root": "ił-g̲elgwipx",
+    "partOfSpeech": "n",
+    "definition": "cat-tail mat, tuli mat",
+    "seeAlso": [
+      "i-cháxiu"
     ]
   },
   "kinwa": {
