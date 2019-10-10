@@ -25105,6 +25105,22 @@
       "-I"
     ]
   },
+  "gashtuyam": {
+    "root": "gashtuyam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 arrived",
+    "seeAlso": [
+      "-I, -I-am"
+    ]
+  },
+  "gashtuyamx": {
+    "root": "gashtuyamx",
+    "partOfSpeech": "vb",
+    "definition": "they arrived",
+    "seeAlso": [
+      "-I, -I-am"
+    ]
+  },
   "gashtułait": {
     "root": "gashtułait",
     "partOfSpeech": "vb",
@@ -25151,6 +25167,164 @@
     "definition": "they 2 drifted",
     "seeAlso": [
       "-NI, -X̲UNI"
+    ]
+  },
+  "gashxelchmaq": {
+    "root": "gashxelchmaq",
+    "partOfSpeech": "vb",
+    "definition": "they 2 heard",
+    "seeAlso": [
+      "-xl-CHMA-qw"
+    ]
+  },
+  "gashxelgaxit": {
+    "root": "gashxelgaxit",
+    "partOfSpeech": "vb",
+    "definition": "they 2 stuck to each other",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "gashxelkchu": {
+    "root": "gashxelkchu",
+    "partOfSpeech": "vb",
+    "definition": "they 2 dropped it[ish-]",
+    "seeAlso": [
+      "-xl-k-CHU"
+    ]
+  },
+  "gashxelmux": {
+    "root": "gashxelmux",
+    "partOfSpeech": "vb",
+    "definition": "they 2 ate",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "gashxelp'álawulalemchk": {
+    "root": "gashxelp'álawulalemchk",
+    "partOfSpeech": "vb",
+    "definition": "they 2 kept talking to each other",
+    "seeAlso": [
+      "-P'ALAWU"
+    ]
+  },
+  "gashxgelga": {
+    "root": "gashxgelga",
+    "partOfSpeech": "vb",
+    "definition": "they 2 seized each other",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gashxglaqłqax": {
+    "root": "gashxglaqłqax",
+    "partOfSpeech": "vb",
+    "definition": "they recognized each other",
+    "seeAlso": [
+      "-GLA-qłq"
+    ]
+  },
+  "gashxiluxtámakwachgix": {
+    "root": "gashxiluxtámakwachgix",
+    "partOfSpeech": "vb",
+    "definition": "they 2 swayed their bodies from side to side",
+    "seeAlso": [
+      "-i-gl-x-TA-ma"
+    ]
+  },
+  "gashxixnima": {
+    "root": "gashxixnima",
+    "partOfSpeech": "vb",
+    "definition": "they 2 showed (themselves)",
+    "seeAlso": [
+      "-x-NIMA"
+    ]
+  },
+  "gashxkw'a": {
+    "root": "gashxkw'a",
+    "partOfSpeech": "vb",
+    "definition": "they 2 started home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "gashxkw'áx": {
+    "root": "gashxkw'áx",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went back",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "gashxlalemchk": {
+    "root": "gashxlalemchk",
+    "partOfSpeech": "vb",
+    "definition": "they 2 kept shaking and shaking",
+    "seeAlso": [
+      "-LA"
+    ]
+  },
+  "gashxlúichatk": {
+    "root": "gashxlúichatk",
+    "partOfSpeech": "vb",
+    "definition": "they 2 listened",
+    "seeAlso": [
+      "-xl-WICHA-tk"
+    ]
+  },
+  "gashxmutkax": {
+    "root": "gashxmutkax",
+    "partOfSpeech": "vb",
+    "definition": "they 2 bet",
+    "seeAlso": [
+      "-xm-TK"
+    ]
+  },
+  "gashxuqshlit": {
+    "root": "gashxuqshlit",
+    "partOfSpeech": "vb",
+    "definition": "they 2 habitually lay themselves down to sleep",
+    "seeAlso": [
+      "-QSH-it"
+    ]
+  },
+  "gashxux": {
+    "root": "gashxux",
+    "partOfSpeech": "vb",
+    "definition": "they 2 became [WTI.1b3, 4.21, 9.12 IV.3.2], they 2 were [WTI.13.8], they 2 did [WTI.10.6]",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "gashxuxwax": {
+    "root": "gashxuxwax",
+    "partOfSpeech": "vb",
+    "definition": "it[ish-] happened",
+    "examples": [
+      {
+        "kiksht": "Kwapt ag̲a ishg̲iłti gashxuxwax.",
+        "english": "Then indeed it started in to rain. [WTIV.2.4]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "gashxwkw'a": {
+    "root": "gashxwkw'a",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "gashxłuxwait": {
+    "root": "gashxłuxwait",
+    "partOfSpeech": "vb",
+    "definition": "they 2 thought",
+    "seeAlso": [
+      "-ŁUXWA"
     ]
   },
   "gasixelcgi": {
@@ -25218,6 +25392,110 @@
     "definition": "they 2 became",
     "seeAlso": [
       "-X̲, -x-X̲"
+    ]
+  },
+  "gatgénshuwax": {
+    "root": "gatgénshuwax",
+    "partOfSpeech": "vb",
+    "definition": "they followed us (not including you)",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "gatgia": {
+    "root": "gatgia",
+    "partOfSpeech": "vb",
+    "definition": "they went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gatgiam": {
+    "root": "gatgiam",
+    "partOfSpeech": "vb",
+    "definition": "they arrived",
+    "seeAlso": [
+      "-I, -I-am"
+    ]
+  },
+  "gatgigemxánawunxt": {
+    "root": "gatgigemxánawunxt",
+    "partOfSpeech": "vb",
+    "definition": "they looked up to him",
+    "seeAlso": [
+      "-gm-YANA-wunx"
+    ]
+  },
+  "gatgigíluma": {
+    "root": "gatgigíluma",
+    "partOfSpeech": "vb",
+    "definition": "they shouted to him",
+    "seeAlso": [
+      "-gi-LUMA"
+    ]
+  },
+  "gatgig̲elkel": {
+    "root": "gatgig̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "they saw it[i-]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gatgitłam": {
+    "root": "gatgitłam",
+    "partOfSpeech": "vb",
+    "definition": "they brought them[i-]",
+    "seeAlso": [
+      "-TŁ-am"
+    ]
+  },
+  "gatgiug̲wánimchgwax": {
+    "root": "gatgiug̲wánimchgwax",
+    "partOfSpeech": "vb",
+    "definition": "they made fun of him",
+    "seeAlso": [
+      "- G̲ANIM"
+    ]
+  },
+  "gatgiulxam": {
+    "root": "gatgiulxam",
+    "partOfSpeech": "vb",
+    "definition": "they said to him",
+    "seeAlso": [
+      "-LYAM"
+    ]
+  },
+  "gatgiux": {
+    "root": "gatgiux",
+    "partOfSpeech": "vb",
+    "definition": "they did him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gatguwiuchk": {
+    "root": "gatguwiuchk",
+    "partOfSpeech": "vb",
+    "definition": "they each danced",
+    "seeAlso": [
+      "-WI"
+    ]
+  },
+  "gatgáxelkwłichk": {
+    "root": "gatgáxelkwłichk",
+    "partOfSpeech": "vb",
+    "definition": "they talked to one another about her",
+    "seeAlso": [
+      "-l-KWŁI"
+    ]
+  },
+  "gatgíx": {
+    "root": "gatgíx",
+    "partOfSpeech": "vb",
+    "definition": "they went",
+    "seeAlso": [
+      "-I"
     ]
   },
   "gayux̲uni": {
@@ -26895,6 +27173,24 @@
     ],
     "seeAlso": [
       "i- -k'amla"
+    ]
+  },
+  "i- -gashumit": {
+    "root": "i- -gashumit",
+    "partOfSpeech": "adj n",
+    "definition": "yellow, looking yellow",
+    "forms": [
+      {
+        "kiksht": "iyagushumit",
+        "english": "it[i-] looks yellow"
+      },
+      {
+        "kiksht": "ichagashumit",
+        "english": "it[a-] looks yellow [PK 3/11/56, 9/51]"
+      }
+    ],
+    "seeAlso": [
+      "dagásh, dagesh"
     ]
   },
   "i- -gáitłmxash": {
