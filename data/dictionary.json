@@ -1958,6 +1958,12 @@
       "-gakwdatx, -gaqwdátx"
     ]
   },
+  "-gayabustem": {
+    "root": "-gayabustem",
+    "partOfSpeech": "n",
+    "definition": "mink",
+    "forms": []
+  },
   "-gl-CHIM": {
     "root": "-gl-CHIM",
     "partOfSpeech": "vb",
@@ -2044,6 +2050,45 @@
     ],
     "notes": [
       "The -m- is omitted before the suffix -ł-."
+    ]
+  },
+  "-gl-GAYU": {
+    "root": "-gl-GAYU",
+    "partOfSpeech": "vb",
+    "definition": "fight [transitive]",
+    "forms": [
+      {
+        "kiksht": "chiglgayut",
+        "english": "he has him fought"
+      },
+      {
+        "kiksht": "chiglgáyuwił",
+        "english": "he is fighting him"
+      },
+      {
+        "kiksht": "shgiglgáyuwił, shgiglaiwił",
+        "english": "they 2 are fighting him"
+      },
+      {
+        "kiksht": "ichiglgáyuwił",
+        "english": "he was fighting him [marked with ? in Dyk; GT 6/5/98 uncertain of it]"
+      },
+      {
+        "kiksht": "gashgigitgáyuwam",
+        "english": "they 2 came to fight him"
+      },
+      {
+        "kiksht": "chialxigaiwił",
+        "english": "he is mak- ing him fight for her"
+      },
+      {
+        "kiksht": "shxaxigaiwił",
+        "english": "they 2 are fighting each other"
+      },
+      {
+        "kiksht": "iglgaiwix",
+        "english": "he is fought, someone fought him [Dyk]"
+      }
     ]
   },
   "-g̲m-CHX̲U-kw": {
@@ -4093,6 +4138,41 @@
     ],
     "seeAlso": [
       "-DATKSH"
+    ]
+  },
+  "-xl-GAYU": {
+    "root": "-xl-GAYU",
+    "partOfSpeech": "vb",
+    "definition": "fight [intransitive]",
+    "forms": [
+      {
+        "kiksht": "alixelgáyuwa",
+        "english": "he will fight"
+      },
+      {
+        "kiksht": "alixitgáyuwa",
+        "english": "he will fight (distant future)"
+      },
+      {
+        "kiksht": "ixelgáyuwił",
+        "english": "he is fighting"
+      },
+      {
+        "kiksht": "shxlgáyuwił, shxelgaiwił",
+        "english": "they 2 are fighting"
+      },
+      {
+        "kiksht": "ixitgáyuwił",
+        "english": "he was fight- ing"
+      },
+      {
+        "kiksht": "gashxelgáyuwam",
+        "english": "they 2 went to fight"
+      },
+      {
+        "kiksht": "gashxitgáyuwam",
+        "english": "they 2 came to fight [Dyk]"
+      }
     ]
   },
   "-ániwat": {
@@ -25676,6 +25756,147 @@
       "Used by a woman to address her son's children."
     ]
   },
+  "gayabaxem": {
+    "root": "gayabaxem",
+    "partOfSpeech": "n",
+    "definition": "alligator [Dyk, PK], dragon of some kind [HS 7/25/56]",
+    "notes": [
+      "Apparently used without prefix. According to a note in Dyk, this refers to \"some fabulous monster [with the] appearance of an alligator; Phillip Kahclamat [says it is] now alligator.\" Hiram Smith [7/25/56] denied it referred to an alligator, but to some large monster no longer seen today. He also connected it with the particle bax, \"charm, hoodoo.\" Ap- parently, this word referred to some sort of monster from legend times. Some people used it in modern times to refer to an alligator."
+    ],
+    "seeAlso": [
+      "bax"
+    ]
+  },
+  "gayagemłait": {
+    "root": "gayagemłait",
+    "partOfSpeech": "vb",
+    "definition": "he sat down beside her",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "gayaguqam": {
+    "root": "gayaguqam",
+    "partOfSpeech": "vb",
+    "definition": "he met her [WTI.2.2], he came to her [WTI.11.2,3]",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "gayag̲eltaqłq": {
+    "root": "gayag̲eltaqłq",
+    "partOfSpeech": "vb",
+    "definition": "he abandoned her",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "gayaic": {
+    "root": "gayaic",
+    "partOfSpeech": "adv",
+    "definition": "bob-tailed",
+    "examples": [
+      {
+        "kiksht": "gayaic ikíutan",
+        "english": "bob-tailed horse"
+      },
+      {
+        "kiksht": "gayaic idkiudanyuksh",
+        "english": "bob- tailed horses"
+      }
+    ]
+  },
+  "gayak'ałxiwulx": {
+    "root": "gayak'ałxiwulx",
+    "partOfSpeech": "vb",
+    "definition": "he climbed up on it[a-]",
+    "seeAlso": [
+      "-k'a-ŁX̲I-wulx"
+    ]
+  },
+  "gayakxaimaxit": {
+    "root": "gayakxaimaxit",
+    "partOfSpeech": "vb",
+    "definition": "he fell down on it[a-]",
+    "seeAlso": [
+      "-xa-IMA-xit"
+    ]
+  },
+  "gayaldaulxemx": {
+    "root": "gayaldaulxemx",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] ran up into her",
+    "seeAlso": [
+      "-TA, -WULX"
+    ]
+  },
+  "gayalgaxit": {
+    "root": "gayalgaxit",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] got stuck in her",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "gayalkapq": {
+    "root": "gayalkapq",
+    "partOfSpeech": "vb",
+    "definition": "he penetrated her",
+    "seeAlso": [
+      "-l-KA-pq"
+    ]
+  },
+  "gayamldáwulxemx": {
+    "root": "gayamldáwulxemx",
+    "partOfSpeech": "vb",
+    "definition": "I ran up into you",
+    "notes": [
+      "This verb, though with the ga- remote past prefix, is translated as future in Wishram Texts: \"I will run up...\""
+    ],
+    "seeAlso": [
+      "-TA, -WULX"
+    ]
+  },
+  "gayaxalgayapq": {
+    "root": "gayaxalgayapq",
+    "partOfSpeech": "vb",
+    "definition": "he put his hands between her legs",
+    "seeAlso": [
+      "-x-l-GAYA-pq"
+    ]
+  },
+  "gayaxawikwłichk": {
+    "root": "gayaxawikwłichk",
+    "partOfSpeech": "vb",
+    "definition": "he told them",
+    "seeAlso": [
+      "-KWŁI"
+    ]
+  },
+  "gayaxelmux": {
+    "root": "gayaxelmux",
+    "partOfSpeech": "vb",
+    "definition": "she ate it[i-]",
+    "seeAlso": [
+      "-xl-muX̲"
+    ]
+  },
+  "gayaxiłada": {
+    "root": "gayaxiłada",
+    "partOfSpeech": "n",
+    "definition": "small hawk",
+    "notes": [
+      "Note from Sapir: \"This is an- other species of hawk, whose identifi- cation is uncertain; it is described as a small hawk with sharp wing bone.\" [WT, p.90] It lacks a classificatory prefix as transcribed in Wishram Texts."
+    ]
+  },
+  "gayaxálimałx": {
+    "root": "gayaxálimałx",
+    "partOfSpeech": "vb",
+    "definition": "he threw himself into the river",
+    "seeAlso": [
+      "-l-IMA, -l-IMA-łx"
+    ]
+  },
   "gayux̲uni": {
     "root": "gayux̲uni",
     "partOfSpeech": "vb",
@@ -27098,6 +27319,14 @@
     "definition": "they each danced",
     "seeAlso": [
       "-WI"
+    ]
+  },
+  "gáyaluqstk": {
+    "root": "gáyaluqstk",
+    "partOfSpeech": "n",
+    "definition": "sparrow-hawk",
+    "notes": [
+      "The classifying prefix may have been dropped on this word as it appears in Wishram Texts."
     ]
   },
   "i- -bagúmxch": {
@@ -28684,6 +28913,17 @@
     ],
     "seeAlso": [
       "i-nxíst"
+    ]
+  },
+  "i-gáyananax": {
+    "root": "i-gáyananax",
+    "partOfSpeech": "n",
+    "definition": "male mallard duck",
+    "notes": [
+      "It is not clear whether this or igáyananax is the correct spelling of this word."
+    ],
+    "seeAlso": [
+      "i-shmiwa"
     ]
   },
   "i-k'ámunaq": {
