@@ -2355,6 +2355,558 @@
       }
     ]
   },
+  "-I": {
+    "root": "-I",
+    "partOfSpeech": "vb",
+    "definition": "go, come",
+    "forms": [
+      {
+        "kiksht": "yuit",
+        "english": "he is going"
+      },
+      {
+        "kiksht": "ayuya",
+        "english": "he will go"
+      },
+      {
+        "kiksht": "gayuya",
+        "english": "he went [GT, MMc]"
+      },
+      {
+        "kiksht": "anuya",
+        "english": "I will go [HS 7/24/51]"
+      },
+      {
+        "kiksht": "nuit",
+        "english": "I am going"
+      },
+      {
+        "kiksht": "muit",
+        "english": "you are going"
+      },
+      {
+        "kiksht": "yuit",
+        "english": "he is going"
+      },
+      {
+        "kiksht": "uit",
+        "english": "she is going"
+      },
+      {
+        "kiksht": "łuit",
+        "english": "it is/they are going"
+      },
+      {
+        "kiksht": "txuit",
+        "english": "we 2 (you and I) are going"
+      },
+      {
+        "kiksht": "enduit",
+        "english": "we 2 (not including you) are going"
+      },
+      {
+        "kiksht": "emduit",
+        "english": "you 2 are going"
+      },
+      {
+        "kiksht": "shduit",
+        "english": "they 2 are going"
+      },
+      {
+        "kiksht": "elxuit",
+        "english": "we (in- cluding you) are going"
+      },
+      {
+        "kiksht": "enshuit",
+        "english": "we (not including you) are going"
+      },
+      {
+        "kiksht": "emshuit",
+        "english": "you folks are going"
+      },
+      {
+        "kiksht": "tguit",
+        "english": "they are going"
+      },
+      {
+        "kiksht": "endít",
+        "english": "I am com- ing"
+      },
+      {
+        "kiksht": "emdít",
+        "english": "you are coming"
+      },
+      {
+        "kiksht": "idít",
+        "english": "he is coming"
+      },
+      {
+        "kiksht": "adít",
+        "english": "she is coming"
+      },
+      {
+        "kiksht": "łdít",
+        "english": "it is/they are coming"
+      },
+      {
+        "kiksht": "txdít",
+        "english": "we 2 (you and I) are coming"
+      },
+      {
+        "kiksht": "endít/ enddít",
+        "english": "we 2 (not including you) are coming"
+      },
+      {
+        "kiksht": "emdít/emddít",
+        "english": "you 2 are coming"
+      },
+      {
+        "kiksht": "shdít",
+        "english": "they 2 are coming"
+      },
+      {
+        "kiksht": "elxdít",
+        "english": "we (including you) are com- ing"
+      },
+      {
+        "kiksht": "enshdít",
+        "english": "we (not including you) are coming"
+      },
+      {
+        "kiksht": "emshdít",
+        "english": "you folks are coming"
+      },
+      {
+        "kiksht": "tgadít",
+        "english": "they are coming [Dyk]"
+      },
+      {
+        "kiksht": "inyuya",
+        "english": "I went"
+      },
+      {
+        "kiksht": "imuya",
+        "english": "you went"
+      },
+      {
+        "kiksht": "iyuya",
+        "english": "he went"
+      },
+      {
+        "kiksht": "iguya",
+        "english": "she went"
+      },
+      {
+        "kiksht": "induya",
+        "english": "we 2 (not including you) went"
+      },
+      {
+        "kiksht": "imduya",
+        "english": "you 2 went"
+      },
+      {
+        "kiksht": "ishduya",
+        "english": "they 2 went"
+      },
+      {
+        "kiksht": "ilxuya",
+        "english": "we (including you) went"
+      },
+      {
+        "kiksht": "imshuya",
+        "english": "you folks went"
+      },
+      {
+        "kiksht": "iłduya",
+        "english": "they went [AF 3/19/53]"
+      },
+      {
+        "kiksht": "miya!",
+        "english": "you go on!"
+      },
+      {
+        "kiksht": "amdiya",
+        "english": "you 2 go on!"
+      },
+      {
+        "kiksht": "amshiya",
+        "english": "you folks go on! [HS 7/24/51]"
+      },
+      {
+        "kiksht": "mia!",
+        "english": "go!"
+      },
+      {
+        "kiksht": "mdia!",
+        "english": "(you 2) go!"
+      },
+      {
+        "kiksht": "emshia!",
+        "english": "(you folks) go!"
+      },
+      {
+        "kiksht": "emtí!",
+        "english": "come!"
+      },
+      {
+        "kiksht": "emttí!",
+        "english": "(you 2) come!"
+      },
+      {
+        "kiksht": "emshtí",
+        "english": "(you folks) come!"
+      },
+      {
+        "kiksht": "textí!",
+        "english": "let's (you and I) go!"
+      },
+      {
+        "kiksht": "nanuya",
+        "english": "I went"
+      },
+      {
+        "kiksht": "ninuya",
+        "english": "I went \" ganuya, ganuix \"I went"
+      },
+      {
+        "kiksht": "alidia",
+        "english": "he will come"
+      },
+      {
+        "kiksht": "igiti",
+        "english": "he came"
+      },
+      {
+        "kiksht": "nalidia",
+        "english": "he came"
+      },
+      {
+        "kiksht": "nigiti",
+        "english": "he came"
+      },
+      {
+        "kiksht": "galiti",
+        "english": "he came [Dyk]"
+      },
+      {
+        "kiksht": "textí",
+        "english": "let's (you and I) come!"
+      },
+      {
+        "kiksht": "txuya",
+        "english": "let's (you and I) go!"
+      },
+      {
+        "kiksht": "gantí",
+        "english": "I came [PK 7/31/56]"
+      },
+      {
+        "kiksht": "with suffix -im",
+        "english": "continually, repeat- edly"
+      },
+      {
+        "kiksht": ": yuyim",
+        "english": "he is going (every time, at different times)"
+      },
+      {
+        "kiksht": "niyuyim",
+        "english": "he went (repeatedly)"
+      },
+      {
+        "kiksht": "gatgiem",
+        "english": "they go (repeatedly)"
+      },
+      {
+        "kiksht": "gandiem b§t",
+        "english": "whenever I go"
+      },
+      {
+        "kiksht": "nichtugwiem",
+        "english": "they 2 were going/coming to them (re- peatedly, last season)"
+      },
+      {
+        "kiksht": "nishtugwidiem",
+        "english": "they 2 were going/ coming to them (repeatedly, last week) [Dyk]"
+      },
+      {
+        "kiksht": "with relational prefix -gl-",
+        "english": "to, to- wards, up to"
+      },
+      {
+        "kiksht": ": anigluya",
+        "english": "I will go up to him"
+      },
+      {
+        "kiksht": "yugwit",
+        "english": "he is going to them"
+      },
+      {
+        "kiksht": "yagluit",
+        "english": "he is going to her"
+      },
+      {
+        "kiksht": "iglúidix",
+        "english": "he is going to it[i-] (a place)"
+      },
+      {
+        "kiksht": "aiglúidix",
+        "english": "she is going to it[i-] (a place)"
+      },
+      {
+        "kiksht": "shiglúdix",
+        "english": "they 2 are going to it[i-] (a place)"
+      },
+      {
+        "kiksht": "shagluit",
+        "english": "they 2 are going to her"
+      },
+      {
+        "kiksht": "inugwiya",
+        "english": "I went to them"
+      },
+      {
+        "kiksht": "(i)yagluya",
+        "english": "he (just) went towards her"
+      },
+      {
+        "kiksht": "niugwit",
+        "english": "he was going to them (last season)"
+      },
+      {
+        "kiksht": "nishtugwiya",
+        "english": "they 2 went/came to them (last season)"
+      },
+      {
+        "kiksht": "gayugwiya",
+        "english": "he went to/up to/towards them"
+      },
+      {
+        "kiksht": "gayagluya",
+        "english": "he went to/up to/towards her"
+      },
+      {
+        "kiksht": "galigluya",
+        "english": "he went to/up to/towards him"
+      },
+      {
+        "kiksht": "yugwidit",
+        "english": "he is coming to them"
+      },
+      {
+        "kiksht": "igídidix",
+        "english": "he is coming to it[i-] (a place)"
+      },
+      {
+        "kiksht": "aidgídidix",
+        "english": "she is coming to it[i-] (a place)"
+      },
+      {
+        "kiksht": "shtigididix",
+        "english": "they 2 are coming to it[i-] (a place)"
+      },
+      {
+        "kiksht": "shugwidit",
+        "english": "they 2 are coming to them"
+      },
+      {
+        "kiksht": "niugwidit",
+        "english": "he was coming/ going to them (last week)"
+      },
+      {
+        "kiksht": "nshtugwidit",
+        "english": "they were coming/ going to them (last week)"
+      },
+      {
+        "kiksht": "nishtugwidit",
+        "english": "they came/went to them (last week)"
+      },
+      {
+        "kiksht": "[",
+        "english": "Note that in ni- tense the primary function of direc- tional -t- is temporal {marking time around \"last week} not spatial {\"hither}\": Dyk]"
+      },
+      {
+        "kiksht": "with relational prefix -x-",
+        "english": "along the edge of"
+      },
+      {
+        "kiksht": ": ixúidix",
+        "english": "he is going along the edge (of water)"
+      },
+      {
+        "kiksht": "yuxwait",
+        "english": "he is going along the edge (of a cliff)"
+      },
+      {
+        "kiksht": "yuxwaya",
+        "english": "he went along the edge (of a cliff)"
+      },
+      {
+        "kiksht": "ixádidix",
+        "english": "he is coming along the edge (of water)"
+      },
+      {
+        "kiksht": "yuxwadit",
+        "english": "he is coming along the edge (of a cliff)"
+      },
+      {
+        "kiksht": "yuxwadi",
+        "english": "he came along the edge (of a cliff) [Dyk]"
+      },
+      {
+        "kiksht": "with relational prefix -l-",
+        "english": "to"
+      },
+      {
+        "kiksht": "(-l-i used idiomatically for",
+        "english": "catch in dipnet or fish wheel"
+      },
+      {
+        "kiksht": "): alimluya",
+        "english": "he will go to you; you will catch him (he will go to you[r dipnet])"
+      },
+      {
+        "kiksht": "imluit",
+        "english": "he's gone to you! he is in your net there now!"
+      },
+      {
+        "kiksht": "yaluit",
+        "english": "he is going into her; she is catching him (he is going into her [dipnet])"
+      },
+      {
+        "kiksht": "iginluya",
+        "english": "he went into me; I caught him (he went into me [=my dipnet])"
+      },
+      {
+        "kiksht": "iniluya",
+        "english": "I went into him"
+      },
+      {
+        "kiksht": "iqaluya",
+        "english": "someone went into her; someone caught her"
+      },
+      {
+        "kiksht": "ichenluya",
+        "english": "he caught me [Dyk]"
+      },
+      {
+        "kiksht": "with reflexive relational prefix -xl-",
+        "english": "to -self"
+      },
+      {
+        "kiksht": "(-xl-i=\"come/go together, gather, concentrate\"): uxuit",
+        "english": ""
+      },
+      {
+        "kiksht": "come/go together, gather, concentrate\"): uxuit",
+        "english": ""
+      },
+      {
+        "kiksht": "): uxuit",
+        "english": "they are gathering"
+      },
+      {
+        "kiksht": "ixlúidix",
+        "english": "it[i-] is going together (for instance, a hole falling together)"
+      },
+      {
+        "kiksht": "ixídidix",
+        "english": "it[i-] is coming together"
+      },
+      {
+        "kiksht": "ixluit",
+        "english": "he is coming to- gether"
+      },
+      {
+        "kiksht": "niguxwit",
+        "english": "they were gather- ing (last season)"
+      },
+      {
+        "kiksht": "niguxwia",
+        "english": "they gathered (last season)"
+      },
+      {
+        "kiksht": "nugxwidit",
+        "english": "they were gathering (last week)"
+      },
+      {
+        "kiksht": "niguxwidi",
+        "english": "they gathered (last week)"
+      },
+      {
+        "kiksht": "[Dyk gives",
+        "english": "concentrate"
+      },
+      {
+        "kiksht": "where",
+        "english": "gather"
+      },
+      {
+        "kiksht": "is given here; but",
+        "english": "gather appears to be the meaning] [Dyk]"
+      },
+      {
+        "kiksht": "with other relational prefixes: yaguít",
+        "english": "it[i-] is going on/over her; she is staying all day (it [the day] is passing over her)"
+      },
+      {
+        "kiksht": "ixuidix",
+        "english": "they[i-] (for in- stance, marks on the ground) are all gone"
+      },
+      {
+        "kiksht": "yaxuit",
+        "english": "it[i-] is going/melting from her [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Kwaish atgadia idelxam.",
+        "english": "Soon the people will come."
+      },
+      {
+        "kiksht": "Xabixix ididix.",
+        "english": "Darkness is coming on."
+      },
+      {
+        "kiksht": "Ałq(i) igluya!",
+        "english": "Go to him for a while!"
+      },
+      {
+        "kiksht": "Ałqi ámigluya.",
+        "english": "You will go to him after a while, later on."
+      },
+      {
+        "kiksht": "ałq(i) ámigluya",
+        "english": "You will go to him for a while."
+      },
+      {
+        "kiksht": "Ałqi dab(a) anuya.",
+        "english": "I'll go there for a while."
+      },
+      {
+        "kiksht": "Atxuy(a) ag̲a ałqi kwaish.",
+        "english": "Let's go now, put it off for a while."
+      },
+      {
+        "kiksht": "Ałqi alidia.",
+        "english": "He won't come for some time yet."
+      },
+      {
+        "kiksht": "Ałq(i) álidia.",
+        "english": "Let him come for a while. [Dyk]"
+      },
+      {
+        "kiksht": "Iginluya igunat.",
+        "english": "I caught the salmon in my dipnet (=he went into me [my dipnet])"
+      },
+      {
+        "kiksht": "Alimidia igunat.",
+        "english": "The salmon will come into your net (might be said to person making nets in January, in expectation that he would catch the first fish in February and have a feast) [PK 7/31/56]"
+      }
+    ],
+    "notes": [
+      "This root becomes -ya when it occurs at the end of a word—that is, when no suffix follows. See the third form above. It also becomes -ya when followed by the suffix -mit; see the entries given below. It is written -y- when it occurs between vowels, as in the second form."
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
