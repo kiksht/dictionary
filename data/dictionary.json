@@ -4867,6 +4867,14 @@
     "partOfSpeech": "n",
     "definition": "toads"
   },
+  "a-gamaug̲ui": {
+    "root": "a-gamaug̲ui",
+    "partOfSpeech": "n",
+    "definition": "front of neck",
+    "seeAlso": [
+      "a-mugi"
+    ]
+  },
   "a-gálamat": {
     "root": "a-gálamat",
     "partOfSpeech": "n",
@@ -22746,6 +22754,252 @@
       "-xl-QŁA-xit"
     ]
   },
+  "gamatxa": {
+    "root": "gamatxa",
+    "partOfSpeech": "vb",
+    "definition": "you did to it[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gamduyam": {
+    "root": "gamduyam",
+    "partOfSpeech": "vb",
+    "definition": "you 2 went",
+    "seeAlso": [
+      "-I, -I-am"
+    ]
+  },
+  "gamengmatxaulutkwaichk": {
+    "root": "gamengmatxaulutkwaichk",
+    "partOfSpeech": "vb",
+    "definition": "you had pity on me",
+    "seeAlso": [
+      "-gm-X̲AULUT-kw"
+    ]
+  },
+  "gamentxa": {
+    "root": "gamentxa",
+    "partOfSpeech": "vb",
+    "definition": "you did [to] me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gamentłuk": {
+    "root": "gamentłuk",
+    "partOfSpeech": "vb",
+    "definition": "you carried me",
+    "seeAlso": [
+      "-TŁUK"
+    ]
+  },
+  "gamenłada": {
+    "root": "gamenłada",
+    "partOfSpeech": "vb",
+    "definition": "you threw me away",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "gamshxdlalamninchk": {
+    "root": "gamshxdlalamninchk",
+    "partOfSpeech": "vb",
+    "definition": "you folks keep singing",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "gamshxdlálamnił": {
+    "root": "gamshxdlálamnił",
+    "partOfSpeech": "vb",
+    "definition": "you folks were singing",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "gamtgidwaq": {
+    "root": "gamtgidwaq",
+    "partOfSpeech": "vb",
+    "definition": "you 2 killed him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gamtxulal": {
+    "root": "gamtxulal",
+    "partOfSpeech": "vb",
+    "definition": "you 2 are managing",
+    "examples": [
+      {
+        "kiksht": "Qengi gamtxulal gamduyam?",
+        "english": "How have you been managing to go all along? [WTI.2.23]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gamumqtx": {
+    "root": "gamumqtx",
+    "partOfSpeech": "vb",
+    "definition": "you died",
+    "notes": [
+      "This verb, though with the ga- remote past prefix, is translated as future in Wishram Texts: \"you will die.\""
+    ],
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "gamxátx": {
+    "root": "gamxátx",
+    "partOfSpeech": "vb",
+    "definition": "you did to yourself",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gamxátxulal": {
+    "root": "gamxátxulal",
+    "partOfSpeech": "vb",
+    "definition": "you were doing to yourself",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganadla": {
+    "root": "ganadla",
+    "partOfSpeech": "vb",
+    "definition": "he sharpened it[a-]",
+    "seeAlso": [
+      "-LA"
+    ]
+  },
+  "ganduix": {
+    "root": "ganduix",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gang̲adix": {
+    "root": "gang̲adix",
+    "partOfSpeech": "adv",
+    "definition": "long ago"
+  },
+  "ganidwaq": {
+    "root": "ganidwaq",
+    "partOfSpeech": "vb",
+    "definition": "I killed him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "ganig̲elkel": {
+    "root": "ganig̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "I saw it[i-]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ganig̲itkel": {
+    "root": "ganig̲itkel",
+    "partOfSpeech": "vb",
+    "definition": "I saw it[i-]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ganitglaqłq": {
+    "root": "ganitglaqłq",
+    "partOfSpeech": "vb",
+    "definition": "I recognized it[i-]",
+    "seeAlso": [
+      "-GLA-qłq"
+    ]
+  },
+  "ganitqmit": {
+    "root": "ganitqmit",
+    "partOfSpeech": "vb",
+    "definition": "I saw him",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "ganitxtga": {
+    "root": "ganitxtga",
+    "partOfSpeech": "vb",
+    "definition": "I stole him",
+    "seeAlso": [
+      "-XTK"
+    ]
+  },
+  "ganixtga": {
+    "root": "ganixtga",
+    "partOfSpeech": "vb",
+    "definition": "I stole him",
+    "seeAlso": [
+      "-XTK"
+    ]
+  },
+  "ganixtkixax": {
+    "root": "ganixtkixax",
+    "partOfSpeech": "vb",
+    "definition": "I was",
+    "seeAlso": [
+      "-XTKIX̲AX̲"
+    ]
+  },
+  "ganshaxtłakwax": {
+    "root": "ganshaxtłakwax",
+    "partOfSpeech": "vb",
+    "definition": "we passed around it[a-], we passed by it[a-]",
+    "seeAlso": [
+      "-x-TŁA-kw"
+    ]
+  },
+  "ganshaxtłakwaxix": {
+    "root": "ganshaxtłakwaxix",
+    "partOfSpeech": "vb",
+    "definition": "we passed around it[a-], we passed by it[a-]",
+    "seeAlso": [
+      "-x-TŁA-kw"
+    ]
+  },
+  "gansúsgenem": {
+    "root": "gansúsgenem",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) went on in front",
+    "seeAlso": [
+      "-SKN"
+    ]
+  },
+  "ganíuxwax": {
+    "root": "ganíuxwax",
+    "partOfSpeech": "vb",
+    "definition": "I did it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganłulxam": {
+    "root": "ganłulxam",
+    "partOfSpeech": "vb",
+    "definition": "I told them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "ganłulxamam": {
+    "root": "ganłulxamam",
+    "partOfSpeech": "vb",
+    "definition": "I went to tell them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
   "gayux̲uni": {
     "root": "gayux̲uni",
     "partOfSpeech": "vb",
@@ -24035,6 +24289,20 @@
     "partOfSpeech": "vb",
     "definition": "they came together"
   },
+  "gałxuxwax": {
+    "root": "gałxuxwax",
+    "partOfSpeech": "vb",
+    "definition": "they became, they were made, it did, they did",
+    "examples": [
+      {
+        "kiksht": "Łáłilxam qígmtkix gałxuxwax.",
+        "english": "Ten were put in the rear. [WTIV.2.8]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
   "gałxwaitam": {
     "root": "gałxwaitam",
     "partOfSpeech": "vb",
@@ -24049,6 +24317,14 @@
     "definition": "they started to run away, they ran off",
     "seeAlso": [
       "-x-WA"
+    ]
+  },
+  "gałxwáq": {
+    "root": "gałxwáq",
+    "partOfSpeech": "vb",
+    "definition": "they killed each other",
+    "seeAlso": [
+      "-WA-qw"
     ]
   },
   "gałxálutkam": {
@@ -24382,6 +24658,23 @@
     ],
     "seeAlso": [
       "-MT"
+    ]
+  },
+  "i- -gamla": {
+    "root": "i- -gamla",
+    "partOfSpeech": "adj n",
+    "definition": "bad, very bad",
+    "forms": [
+      {
+        "kiksht": "ichgamla",
+        "english": "I'm very bad [Dyk]"
+      }
+    ],
+    "notes": [
+      "Stronger than i- -k'amla; re- fers to someone or something worse than i- -k'amla."
+    ],
+    "seeAlso": [
+      "i- -k'amla"
     ]
   },
   "i- -gáitłmxash": {
@@ -25688,6 +25981,17 @@
       "i-gabnashq, ił-nachkan"
     ]
   },
+  "i-gánasisi": {
+    "root": "i-gánasisi",
+    "partOfSpeech": "n",
+    "definition": "snipe",
+    "notes": [
+      "Apparently this refers to some variety of snipe."
+    ],
+    "seeAlso": [
+      "i-nxíst"
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -25895,6 +26199,11 @@
     "seeAlso": [
       "is-elpqdit, is-qalpdit"
     ]
+  },
+  "is-gamúlik'as": {
+    "root": "is-gamúlik'as",
+    "partOfSpeech": "n",
+    "definition": "scorpion"
   },
   "ish- -ditł'i": {
     "root": "ish- -ditł'i",
