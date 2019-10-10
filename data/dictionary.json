@@ -3946,6 +3946,14 @@
     "partOfSpeech": "place",
     "definition": "Sherar's Bridge"
   },
+  "GACHłALUx": {
+    "root": "GACHłALUx",
+    "partOfSpeech": "vb",
+    "definition": "he did it on her",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "Notes: Refers to oak of which igaben, digging stick, is made": {
     "root": "Notes: Refers to oak of which igaben, digging stick, is made",
     "partOfSpeech": "Notes: Refers to oak of which igaben, digging stick, is made",
@@ -18785,6 +18793,101 @@
       "-ŁX̲LM"
     ]
   },
+  "gachiwaq": {
+    "root": "gachiwaq",
+    "partOfSpeech": "vb",
+    "definition": "he killed him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gachiwax": {
+    "root": "gachiwax",
+    "partOfSpeech": "vb",
+    "definition": "he followed him",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "gachixga": {
+    "root": "gachixga",
+    "partOfSpeech": "vb",
+    "definition": "he pulled it[i-] out of it[i-]",
+    "seeAlso": [
+      "-KA, -x-KA"
+    ]
+  },
+  "gachixgax": {
+    "root": "gachixgax",
+    "partOfSpeech": "vb",
+    "definition": "he held him back",
+    "seeAlso": [
+      "-x-KA"
+    ]
+  },
+  "gachixlux": {
+    "root": "gachixlux",
+    "partOfSpeech": "vb",
+    "definition": "he did them in him- self",
+    "examples": [
+      {
+        "kiksht": "Saqw kwulkwul idiapiqba gachixlux.",
+        "english": "He sheltered them com- pletely under his wings. [WTI.4.6]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachixluxix": {
+    "root": "gachixluxix",
+    "partOfSpeech": "vb",
+    "definition": "he discovered it",
+    "examples": [
+      {
+        "kiksht": "C'iks gachixluxix.",
+        "english": "He discovered an easy place [i.e., where it would be easy to put a channel across]. [WTI.1a3]"
+      }
+    ]
+  },
+  "gachixnimaix": {
+    "root": "gachixnimaix",
+    "partOfSpeech": "vb",
+    "definition": "he pointed out his way",
+    "seeAlso": [
+      "-x-NIMA"
+    ]
+  },
+  "gachixtqwa": {
+    "root": "gachixtqwa",
+    "partOfSpeech": "vb",
+    "definition": "he turned it[i-] over",
+    "examples": [
+      {
+        "kiksht": "Inag̲un gachikwatkix, gachiuqapk; saqw gayúkst. Ag̲a kwapt dag gachiux, gachixtqwa.",
+        "english": "He laid the sturgeon out, he steamed it; it was all done. Then he removed it, he turned it over. [WTI.1d.5]"
+      }
+    ],
+    "seeAlso": [
+      "-i-k-TQW-ix"
+    ]
+  },
+  "gachixutxumit": {
+    "root": "gachixutxumit",
+    "partOfSpeech": "vb",
+    "definition": "he put it[i-] on himself",
+    "seeAlso": [
+      "-TXW-mit"
+    ]
+  },
+  "gachixux": {
+    "root": "gachixux",
+    "partOfSpeech": "vb",
+    "definition": "he did it[i-] from him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gachiúgmaxix": {
     "root": "gachiúgmaxix",
     "partOfSpeech": "vb",
@@ -18846,6 +18949,169 @@
     "seeAlso": [
       "-WA"
     ]
+  },
+  "gachłakux": {
+    "root": "gachłakux",
+    "partOfSpeech": "vb",
+    "definition": "he did it on her",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachłalutk": {
+    "root": "gachłalutk",
+    "partOfSpeech": "vb",
+    "definition": "he packed it into it[a-]",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "gachłgelchim": {
+    "root": "gachłgelchim",
+    "partOfSpeech": "vb",
+    "definition": "he struck him[ił-] with them",
+    "seeAlso": [
+      "-CHIM"
+    ]
+  },
+  "gachłgelga": {
+    "root": "gachłgelga",
+    "partOfSpeech": "vb",
+    "definition": "he took hold of them [WTI.1j.7], he caught them [WTIV.3.3]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachłg̲elkel": {
+    "root": "gachłg̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "he saw it, he saw him[ił-], he saw them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gachłilagwa": {
+    "root": "gachłilagwa",
+    "partOfSpeech": "vb",
+    "definition": "he threw them at him",
+    "seeAlso": [
+      "-l-LA-kw"
+    ]
+  },
+  "gachłilgwichu": {
+    "root": "gachłilgwichu",
+    "partOfSpeech": "vb",
+    "definition": "he dropped them down into him",
+    "seeAlso": [
+      "-l-GWI-chu"
+    ]
+  },
+  "gachłilux": {
+    "root": "gachłilux",
+    "partOfSpeech": "vb",
+    "definition": "he did it into it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachłixelgwichu": {
+    "root": "gachłixelgwichu",
+    "partOfSpeech": "vb",
+    "definition": "he dropped them down into himself",
+    "seeAlso": [
+      "-l-GWI-chu"
+    ]
+  },
+  "gachłixux": {
+    "root": "gachłixux",
+    "partOfSpeech": "vb",
+    "definition": "he did it[i-] from him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachłlagwa": {
+    "root": "gachłlagwa",
+    "partOfSpeech": "vb",
+    "definition": "he threw it at them",
+    "seeAlso": [
+      "-LA-kw, -l-LA-kw"
+    ]
+  },
+  "gachłlxadáyugwa": {
+    "root": "gachłlxadáyugwa",
+    "partOfSpeech": "vb",
+    "definition": "they each came back to life",
+    "seeAlso": [
+      "-ch-l-xa-TA-kw"
+    ]
+  },
+  "gachłshelút": {
+    "root": "gachłshelút",
+    "partOfSpeech": "vb",
+    "definition": "he gave it to them 2",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gachłshenqw'átłgnaba": {
+    "root": "gachłshenqw'átłgnaba",
+    "partOfSpeech": "vb",
+    "definition": "he took hold of it with his claws",
+    "examples": [
+      {
+        "kiksht": "Gachłshenqw'áłgnaba iłlipaq.",
+        "english": "He took hold of the rope with his claws. [WT1.4.2]"
+      }
+    ],
+    "seeAlso": [
+      "-n-QW'ATłGNA-pa"
+    ]
+  },
+  "gachłudina": {
+    "root": "gachłudina",
+    "partOfSpeech": "vb",
+    "definition": "he killed them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "gachług̲emshtam": {
+    "root": "gachług̲emshtam",
+    "partOfSpeech": "vb",
+    "definition": "he went to drink it",
+    "seeAlso": [
+      "-QMSHT"
+    ]
+  },
+  "gachłukshtam": {
+    "root": "gachłukshtam",
+    "partOfSpeech": "vb",
+    "definition": "he went to look at him[ił-]",
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "gachłukwatłq": {
+    "root": "gachłukwatłq",
+    "partOfSpeech": "vb",
+    "definition": "he finished them",
+    "seeAlso": [
+      "-ł-k-TŁQ"
+    ]
+  },
+  "gachłágmunxa": {
+    "root": "gachłágmunxa",
+    "partOfSpeech": "vb",
+    "definition": "he stuck them near it[a-]",
+    "seeAlso": [
+      "-NXA"
+    ]
+  },
+  "gachłúgwalqł": {
+    "root": "gachłúgwalqł",
+    "partOfSpeech": "vb",
+    "definition": "he recognized him[ił-]"
   },
   "gaciukwshtam": {
     "root": "gaciukwshtam",
