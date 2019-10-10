@@ -19503,6 +19503,172 @@
       "-MILA"
     ]
   },
+  "gachushgam": {
+    "root": "gachushgam",
+    "partOfSpeech": "vb",
+    "definition": "he married her",
+    "seeAlso": [
+      "-SHKAM"
+    ]
+  },
+  "gachushtga": {
+    "root": "gachushtga",
+    "partOfSpeech": "vb",
+    "definition": "he copulated with her",
+    "seeAlso": [
+      "-SHTK"
+    ]
+  },
+  "gachushtgax": {
+    "root": "gachushtgax",
+    "partOfSpeech": "vb",
+    "definition": "he copulated with her",
+    "seeAlso": [
+      "-SHTK"
+    ]
+  },
+  "gachushtxwa": {
+    "root": "gachushtxwa",
+    "partOfSpeech": "vb",
+    "definition": "he carried it[a-] on his back",
+    "examples": [
+      {
+        "kiksht": "Gachushtxwa ich'inun waskán.",
+        "english": "Eagle carried the box on his back. [WTI.9.9]"
+      }
+    ],
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "gachut'aba": {
+    "root": "gachut'aba",
+    "partOfSpeech": "vb",
+    "definition": "he caught it[a-] (fish)",
+    "seeAlso": [
+      "-T'A-pa"
+    ]
+  },
+  "gachut'iwa": {
+    "root": "gachut'iwa",
+    "partOfSpeech": "vb",
+    "definition": "he pushed her",
+    "seeAlso": [
+      "-T'IWA"
+    ]
+  },
+  "gachut'ábaba": {
+    "root": "gachut'ábaba",
+    "partOfSpeech": "vb",
+    "definition": "because he caught it[a-]",
+    "seeAlso": [
+      "-T'A-pa"
+    ]
+  },
+  "gachutxmit": {
+    "root": "gachutxmit",
+    "partOfSpeech": "vb",
+    "definition": "he stood it[a-] up",
+    "seeAlso": [
+      "-TX-mit"
+    ]
+  },
+  "gachuwa": {
+    "root": "gachuwa",
+    "partOfSpeech": "vb",
+    "definition": "he followed her",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "gachuwaq": {
+    "root": "gachuwaq",
+    "partOfSpeech": "vb",
+    "definition": "he killed her",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gachux": {
+    "root": "gachux",
+    "partOfSpeech": "vb",
+    "definition": "he did it[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachuxa": {
+    "root": "gachuxa",
+    "partOfSpeech": "vb",
+    "definition": "he did to her [WTI.1c.7], it[i-] did her [Raccoon G]",
+    "examples": [
+      {
+        "kiksht": "Ikmakán gachuxa.",
+        "english": "She got angry. [Raccoon G]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachuxabu": {
+    "root": "gachuxabu",
+    "partOfSpeech": "vb",
+    "definition": "he closed it[a-]",
+    "seeAlso": [
+      "-x-PU"
+    ]
+  },
+  "gachuxigamit": {
+    "root": "gachuxigamit",
+    "partOfSpeech": "vb",
+    "definition": "he stuck them on themselves",
+    "seeAlso": [
+      "-KA-mit, -l-GA-mit"
+    ]
+  },
+  "gachuxtga": {
+    "root": "gachuxtga",
+    "partOfSpeech": "vb",
+    "definition": "he stole them[a-]",
+    "seeAlso": [
+      "-XTK"
+    ]
+  },
+  "gachuxwa": {
+    "root": "gachuxwa",
+    "partOfSpeech": "vb",
+    "definition": "he did it[a-] [WTI.11.17, 13.4, 17.3, 17], he did her [WTI.12.8,14.3], he made it[a-] [WTIV.3.2]",
+    "forms": [
+      {
+        "kiksht": "Dadakdák gachuxwa wachlx.",
+        "english": "He broke throught the underground lodge. [WTI.11.17]"
+      },
+      {
+        "kiksht": "Łq'up gachuxwa.",
+        "english": "He cut her. [WTI.14.3]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachuxwachmaq": {
+    "root": "gachuxwachmaq",
+    "partOfSpeech": "vb",
+    "definition": "he heard them",
+    "seeAlso": [
+      "-x-CHM-qw"
+    ]
+  },
+  "gachuxwax": {
+    "root": "gachuxwax",
+    "partOfSpeech": "vb",
+    "definition": "he did her [WTI.1e.4], they[i-] did it[a-] [WTI.15.5], he did them[a-] [WTI.17.1], he did it[a-] [WTI.17.2]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gachułada": {
     "root": "gachułada",
     "partOfSpeech": "vb",
@@ -19517,6 +19683,17 @@
     "definition": "he ate them[a-]",
     "seeAlso": [
       "-ŁX̲UM"
+    ]
+  },
+  "gachwaqwax": {
+    "root": "gachwaqwax",
+    "partOfSpeech": "vb",
+    "definition": "he killed (it[a-])",
+    "notes": [
+      "This is apparently song lan- guage; in normal language it would be gachawaqwax, but the second -a- has apparently been elided (slurred over)."
+    ],
+    "seeAlso": [
+      "-WA-qw"
     ]
   },
   "gacháwichmaq": {
@@ -19609,6 +19786,14 @@
     ],
     "seeAlso": [
       "-MQU(I)-it"
+    ]
+  },
+  "gachúwalalemchk": {
+    "root": "gachúwalalemchk",
+    "partOfSpeech": "vb",
+    "definition": "he kept run- ning after her",
+    "seeAlso": [
+      "-WA"
     ]
   },
   "gachłakux": {
@@ -20045,6 +20230,66 @@
     "definition": "he looked at him[ił-]",
     "seeAlso": [
       "-s-k'l-TK"
+    ]
+  },
+  "gadagláit": {
+    "root": "gadagláit",
+    "partOfSpeech": "vb",
+    "definition": "they sat down in it[a-]",
+    "examples": [
+      {
+        "kiksht": "Gadagláit aknim.",
+        "english": "They sat down in the canoe. [WTI.6.2]"
+      }
+    ],
+    "seeAlso": [
+      "-LA-it"
+    ]
+  },
+  "gadag̲lułx": {
+    "root": "gadag̲lułx",
+    "partOfSpeech": "vb",
+    "definition": "they got out of it onto land[a-]",
+    "examples": [
+      {
+        "kiksht": "Gadag̲lułx aknimiamt.",
+        "english": "They got out of the canoe. [WTI.6.2]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁX̲"
+    ]
+  },
+  "gadalimałxixit": {
+    "root": "gadalimałxixit",
+    "partOfSpeech": "vb",
+    "definition": "they fell into the water",
+    "seeAlso": [
+      "-a-l-l-IMA-łx-xit"
+    ]
+  },
+  "gadashkupq": {
+    "root": "gadashkupq",
+    "partOfSpeech": "vb",
+    "definition": "they entered",
+    "seeAlso": [
+      "-PQ"
+    ]
+  },
+  "gadnsxsgenmex": {
+    "root": "gadnsxsgenmex",
+    "partOfSpeech": "vb",
+    "definition": "they went on ahead of us",
+    "seeAlso": [
+      "-SKN"
+    ]
+  },
+  "gadántłakwax": {
+    "root": "gadántłakwax",
+    "partOfSpeech": "vb",
+    "definition": "they went around in it[a-]",
+    "seeAlso": [
+      "-n-TŁA-kw"
     ]
   },
   "gagułada": {
@@ -22119,6 +22364,14 @@
     ],
     "notes": [
       "Obviously borrowed from English. The first part may come from \"thick,\" with a reference to \"thick shoes\"—so called, perhaps, because of their thick soles which prevented people from feeling the ground, as opposed to traditional thin-soled moccasins."
+    ]
+  },
+  "it-gach'anksh": {
+    "root": "it-gach'anksh",
+    "partOfSpeech": "n",
+    "definition": "basketry design featuring deer",
+    "seeAlso": [
+      "-ch'ank"
     ]
   },
   "ił-alakásgwilit": {
