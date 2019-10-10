@@ -2892,6 +2892,24 @@
       }
     ]
   },
+  "-g̲iuqt": {
+    "root": "-g̲iuqt",
+    "partOfSpeech": "n",
+    "definition": "dead parent, dead father, dead mother",
+    "forms": [
+      {
+        "kiksht": "iyag̲iuqt",
+        "english": "his dead father"
+      },
+      {
+        "kiksht": "agág̲iuqt",
+        "english": "her dead mother [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-q'iuqt"
+    ]
+  },
   "-g̲m-CHX̲U-kw": {
     "root": "-g̲m-CHX̲U-kw",
     "partOfSpeech": "vb",
@@ -6609,6 +6627,14 @@
     ],
     "seeAlso": [
       "-a-l- G̲ILA-pa"
+    ]
+  },
+  "a-g̲itałx": {
+    "root": "a-g̲itałx",
+    "partOfSpeech": "n",
+    "definition": "moss, pond scum",
+    "notes": [
+      "Refers to the green and yellow scum in water, or that remains after water is gone."
     ]
   },
   "a-g̲áditix": {
@@ -30248,6 +30274,17 @@
       }
     ]
   },
+  "i- -g̲íwabemxach": {
+    "root": "i- -g̲íwabemxach",
+    "partOfSpeech": "adj n",
+    "definition": "fierce, vi- cious",
+    "forms": [
+      {
+        "kiksht": "iyag̲iwabemxach",
+        "english": "he is fierce, vicious [Dyk]"
+      }
+    ]
+  },
   "i- -ánana": {
     "root": "i- -ánana",
     "partOfSpeech": "adj n",
@@ -32842,6 +32879,99 @@
       "i-chag̲iqshtamnił"
     ]
   },
+  "i-g̲itkuq": {
+    "root": "i-g̲itkuq",
+    "partOfSpeech": "n",
+    "definition": "furnace, fireplace"
+  },
+  "i-g̲iwam": {
+    "root": "i-g̲iwam",
+    "partOfSpeech": "n",
+    "definition": "sleep, sleepiness",
+    "forms": [
+      {
+        "kiksht": "ichag̲iwam",
+        "english": "her sleep; she is a sleeper, sleepy, sleepyhead"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ig̲iwam chi chmuxt?",
+        "english": "Are you sleepy? [GT, MMc]"
+      },
+      {
+        "kiksht": "Ig̲iwam chiuxt.",
+        "english": "He's sleepy. [GT, MMc 12/ 30/97]"
+      },
+      {
+        "kiksht": "Ig̲iwam chnuxt.",
+        "english": "I'm getting sleepy. [PK 8/31/55]"
+      }
+    ],
+    "seeAlso": [
+      "tg̲iwam"
+    ]
+  },
+  "i-g̲iwaq": {
+    "root": "i-g̲iwaq",
+    "partOfSpeech": "n",
+    "definition": "meat, flesh",
+    "forms": [
+      {
+        "kiksht": "itg̲iwaq",
+        "english": "meats"
+      },
+      {
+        "kiksht": "ichg̲iwaq",
+        "english": "my meat; my flesh"
+      }
+    ]
+  },
+  "i-g̲iwig̲imax": {
+    "root": "i-g̲iwig̲imax",
+    "partOfSpeech": "n",
+    "definition": "irons",
+    "notes": [
+      "Any kind of irons. [GT, MMc 6/5/98]"
+    ],
+    "seeAlso": [
+      "i-g̲íwiqi"
+    ]
+  },
+  "i-g̲iwitxlit": {
+    "root": "i-g̲iwitxlit",
+    "partOfSpeech": "n",
+    "definition": "sleep, sleeping",
+    "examples": [
+      {
+        "kiksht": "Ig̲iwitxlit bama itqwłí.",
+        "english": "The house is for sleeping. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-qiw-it"
+    ]
+  },
+  "i-g̲ixba": {
+    "root": "i-g̲ixba",
+    "partOfSpeech": "n",
+    "definition": "bumblebee"
+  },
+  "i-g̲láu": {
+    "root": "i-g̲láu",
+    "partOfSpeech": "n",
+    "definition": "blue racer snake",
+    "forms": [
+      {
+        "kiksht": "ishg̲láu",
+        "english": "2 blue racer snakes [HS 7/4/51]"
+      },
+      {
+        "kiksht": "itg̲láuksh",
+        "english": "blue racer snakes [Dyk]"
+      }
+    ]
+  },
   "i-g̲ánina": {
     "root": "i-g̲ánina",
     "partOfSpeech": "n",
@@ -32868,6 +32998,41 @@
     "root": "i-g̲íluqwaq",
     "partOfSpeech": "n",
     "definition": "water lily"
+  },
+  "i-g̲íwiqi": {
+    "root": "i-g̲íwiqi",
+    "partOfSpeech": "n",
+    "definition": "iron",
+    "examples": [
+      {
+        "kiksht": "ig̲íwiqi isiamtł'uxwi bama g̲aug̲au",
+        "english": "claw hammer"
+      },
+      {
+        "kiksht": "(literally",
+        "english": "iron with its ears for hammering) [PK 9/3/55]"
+      }
+    ],
+    "seeAlso": [
+      "a-q'íwiqi, i-g̲iwig̲imax"
+    ]
+  },
+  "i-g̲íxltkiu": {
+    "root": "i-g̲íxltkiu",
+    "partOfSpeech": "n",
+    "definition": "slave",
+    "forms": [
+      {
+        "kiksht": "idiag̲ixltkiu",
+        "english": "his slaves [WTIV.3.2; corrected from idiag̲ixltkiu]"
+      }
+    ],
+    "notes": [
+      "Note from Sapir [WT p. 174] on ilaitix and ig̲ixltkiu: \"Of these two words for 'slave,' ilaitix belongs more properly to Lower Chinook, but has become current, probably throught the medium of the Chinook jargon, in Wishram [Wasco] as well.\""
+    ],
+    "seeAlso": [
+      "i-laitix"
+    ]
   },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
@@ -33872,6 +34037,78 @@
     "seeAlso": [
       "-l-QWIM, it-qig̲iqwim"
     ]
+  },
+  "it-g̲itłba": {
+    "root": "it-g̲itłba",
+    "partOfSpeech": "n",
+    "definition": "moccasins, shoes",
+    "forms": [
+      {
+        "kiksht": "itg̲itłba",
+        "english": "(one) moccasin; pair of moccasins"
+      },
+      {
+        "kiksht": "idiag̲itłpamax",
+        "english": "his moccasins [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "dnatka itg̲itłba [Dyk], inatka itg̲itlba [HS 7/24/51]",
+        "english": "one side of a pair of moccasins"
+      }
+    ],
+    "notes": [
+      "In old times this word was used for (Anglo-style) shoes also. [PK 4/12/56]"
+    ]
+  },
+  "it-g̲iwam": {
+    "root": "it-g̲iwam",
+    "partOfSpeech": "n",
+    "definition": "spirit power, medicine power, tamanwis",
+    "forms": [
+      {
+        "kiksht": "idiag̲iwam",
+        "english": "he has spirit power; he is an Indian doctor"
+      },
+      {
+        "kiksht": "itg̲íwamemax",
+        "english": "powers"
+      },
+      {
+        "kiksht": "itłg̲iwamemax",
+        "english": "they are doctors"
+      },
+      {
+        "kiksht": "ag̲unmiksh itgag̲íwamemax",
+        "english": "5 doc- tors"
+      },
+      {
+        "kiksht": "ichag̲íwamix",
+        "english": "she has him for doctoring [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Itgagiwam alaxuxwa naika akán.",
+        "english": "My daughter will become a medicine woman. [WTI.5.1]"
+      },
+      {
+        "kiksht": "Idiag̲iwam tg̲iwam ichiux.",
+        "english": "The doc- tor bewitched him. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Apparently refers to a greater degree of power than it-kílalit"
+    ],
+    "seeAlso": [
+      "-gi-la-it, it-kílalit, tg̲iwam, i- yułmax, id-iag̲iwam"
+    ]
+  },
+  "it-g̲ixaba": {
+    "root": "it-g̲ixaba",
+    "partOfSpeech": "n",
+    "definition": "paying a debt, paying back"
   },
   "it-g̲iłba": {
     "root": "it-g̲iłba",
