@@ -6301,3 +6301,115 @@ See also: -KSHT-am
 
 gach¬ukwat¬q [vb] he finished them
 See also: -¬-k-TÒQ
+
+
+
+
+
+
+gach¬ukw¬ [vb] he carried it
+See also: -KÒ
+
+gach¬ulxam [vb] he said to them
+See also: -LXAM
+
+gach¬ulxamx [vb] he said to them
+See also: -LXAM
+
+gach¬ ̈mamagwa [vb] he made a mistake about them
+See also: -MAMA-kw
+
+gach¬ ̈michk’i [vb] he gathered them
+See also: -MICHK’I
+
+gach¬umquit [vb] he spat it out
+See also: -MQU-it
+
+gach¬una¬x [vb] he dried them
+See also: -NA-¬x
+
+gach¬unax¬am [vb] he went to look for them
+See also: -NA ̨Ò
+
+gach¬uqemsht [vb] he drank it
+See also: -QEMSHT
+
+gach¬uqwumsht [vb] he drank it
+See also: -QEMSHT
+
+gach¬ushgamagwa [vb] he captured him[i¬-]
+See also: -SHKAMA-kw
+
+gach¬ ̈t’iba [vb] he dipped it down
+See also: -T’I-pa
+
+gach¬uwa [vb] he pursued them [WTI.3.9], he followed behind them [WTI.13.2]
+See also: -WA
+
+gach¬uwaq [vb] he killed him[i¬-]
+See also: -WA-qw
+
+gach¬uwaq’ichxa [vb] he defecated
+See also: -CHXA, -qi-CHXA
+
+gach¬ ̈x [vb] he made them [WT1.1a3], he did it [WTI.7.1], he did to them [WTI.13.9], he did it [WTI.14.3], he did them [WTI.17.17, 18.6], he did him[i¬-] [WTI.18.11]
+Examples: Wax gach¬ ̈x i¬k’acha. “He poured grease.” [WTI.7.1]
+See also: - ̨
+
+gach¬xshamit [vb] he dried them
+See also: -x-SHA-mit
+
+gach¬xchmaq [vb] he heard him[i¬-]
+See also: -x-CHMA-qw
+
+gach¬xinxa [vb] he stuck them in
+See also: -NXA, -xi-NXA
+
+gach¬xlima [vb] he put them down
+See also: -x-l-IMA
+
+gach¬xl ̈x [vb] he did them to one another
+See also: - ̨
+
+gach¬x¬lamax [vb] he heated them
+See also: -x-ÒL-am
+
+gachnitgalq [vb] it burnt me, I got burnt
+See also: -ch-l-GAL-qw
+
+gachnshulxamx [vb] he told us
+See also: -LXAM
+
+gachnulxamx [vb] he told me
+See also: -LXAM
+
+gachshgelga [vb] he took it[ish-]
+See also: -gl-GA
+
+gachshgelgax [vb] he caught them 2
+See also: -gl-GA
+
+gachshgelgeni¬ [vb] he kept catching them 2
+See also: -gl-GA
+
+gachshgˆluma [vb] he called to them 2
+See also: -gi-LUMA
+
+gachsh©elkel [vb] he saw them 2
+See also: -©l-KL
+
+gachshiguxax [vb] he did them 2 at him
+Examples: Òk’up gachshiguxax. “He fired at him.” [WTIV.2.12]
+See also: - ̨, ¬k’up -sh-l- ̨
+
+gachshink’imnagwa [vb] he took revenge on them 2 for him
+See also: -K’IMNA-kw
+
+gachshk’itkiq [vb] he covered them 2 over
+See also: -k’i-TKI-qw, -¬-k-TKI-qw, -k- TKI-qw
+
+gachshkw’amit [vb] he took them 2 home
+See also: -KW’A
+
+gachshluqwim [vb] he gave them 2 to eat, he fed them 2
+See also: -l-QWIM

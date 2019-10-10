@@ -18904,6 +18904,116 @@
       "-MAMA-kw"
     ]
   },
+  "gachnitgalq": {
+    "root": "gachnitgalq",
+    "partOfSpeech": "vb",
+    "definition": "it burnt me, I got burnt",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "gachnshulxamx": {
+    "root": "gachnshulxamx",
+    "partOfSpeech": "vb",
+    "definition": "he told us",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachnulxamx": {
+    "root": "gachnulxamx",
+    "partOfSpeech": "vb",
+    "definition": "he told me",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachshgelga": {
+    "root": "gachshgelga",
+    "partOfSpeech": "vb",
+    "definition": "he took it[ish-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachshgelgax": {
+    "root": "gachshgelgax",
+    "partOfSpeech": "vb",
+    "definition": "he caught them 2",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachshgelgenił": {
+    "root": "gachshgelgenił",
+    "partOfSpeech": "vb",
+    "definition": "he kept catching them 2",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachshgíluma": {
+    "root": "gachshgíluma",
+    "partOfSpeech": "vb",
+    "definition": "he called to them 2",
+    "seeAlso": [
+      "-gi-LUMA"
+    ]
+  },
+  "gachshg̲elkel": {
+    "root": "gachshg̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "he saw them 2",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gachshiguxax": {
+    "root": "gachshiguxax",
+    "partOfSpeech": "vb",
+    "definition": "he did them 2 at him",
+    "examples": [
+      {
+        "kiksht": "Łk'up gachshiguxax.",
+        "english": "He fired at him. [WTIV.2.12]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, łk'up -sh-l-X̲"
+    ]
+  },
+  "gachshink'imnagwa": {
+    "root": "gachshink'imnagwa",
+    "partOfSpeech": "vb",
+    "definition": "he took revenge on them 2 for him",
+    "seeAlso": [
+      "-K'IMNA-kw"
+    ]
+  },
+  "gachshk'itkiq": {
+    "root": "gachshk'itkiq",
+    "partOfSpeech": "vb",
+    "definition": "he covered them 2 over",
+    "seeAlso": [
+      "-k'i-TKI-qw, -ł-k-TKI-qw, -k- TKI-qw"
+    ]
+  },
+  "gachshkw'amit": {
+    "root": "gachshkw'amit",
+    "partOfSpeech": "vb",
+    "definition": "he took them 2 home",
+    "seeAlso": [
+      "-KW'A"
+    ]
+  },
+  "gachshluqwim": {
+    "root": "gachshluqwim",
+    "partOfSpeech": "vb",
+    "definition": "he gave them 2 to eat, he fed them 2",
+    "seeAlso": [
+      "-l-QWIM"
+    ]
+  },
   "gacháwichmaq": {
     "root": "gacháwichmaq",
     "partOfSpeech": "vb",
@@ -19100,6 +19210,150 @@
       "-ł-k-TŁQ"
     ]
   },
+  "gachłukwł": {
+    "root": "gachłukwł",
+    "partOfSpeech": "vb",
+    "definition": "he carried it",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gachłulxam": {
+    "root": "gachłulxam",
+    "partOfSpeech": "vb",
+    "definition": "he said to them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachłulxamx": {
+    "root": "gachłulxamx",
+    "partOfSpeech": "vb",
+    "definition": "he said to them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachłumquit": {
+    "root": "gachłumquit",
+    "partOfSpeech": "vb",
+    "definition": "he spat it out",
+    "seeAlso": [
+      "-MQU-it"
+    ]
+  },
+  "gachłunaxłam": {
+    "root": "gachłunaxłam",
+    "partOfSpeech": "vb",
+    "definition": "he went to look for them",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "gachłunałx": {
+    "root": "gachłunałx",
+    "partOfSpeech": "vb",
+    "definition": "he dried them",
+    "seeAlso": [
+      "-NA-łx"
+    ]
+  },
+  "gachłuqemsht": {
+    "root": "gachłuqemsht",
+    "partOfSpeech": "vb",
+    "definition": "he drank it",
+    "seeAlso": [
+      "-QEMSHT"
+    ]
+  },
+  "gachłuqwumsht": {
+    "root": "gachłuqwumsht",
+    "partOfSpeech": "vb",
+    "definition": "he drank it",
+    "seeAlso": [
+      "-QEMSHT"
+    ]
+  },
+  "gachłushgamagwa": {
+    "root": "gachłushgamagwa",
+    "partOfSpeech": "vb",
+    "definition": "he captured him[ił-]",
+    "seeAlso": [
+      "-SHKAMA-kw"
+    ]
+  },
+  "gachłuwa": {
+    "root": "gachłuwa",
+    "partOfSpeech": "vb",
+    "definition": "he pursued them [WTI.3.9], he followed behind them [WTI.13.2]",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "gachłuwaq": {
+    "root": "gachłuwaq",
+    "partOfSpeech": "vb",
+    "definition": "he killed him[ił-]",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gachłuwaq'ichxa": {
+    "root": "gachłuwaq'ichxa",
+    "partOfSpeech": "vb",
+    "definition": "he defecated",
+    "seeAlso": [
+      "-CHXA, -qi-CHXA"
+    ]
+  },
+  "gachłxchmaq": {
+    "root": "gachłxchmaq",
+    "partOfSpeech": "vb",
+    "definition": "he heard him[ił-]",
+    "seeAlso": [
+      "-x-CHMA-qw"
+    ]
+  },
+  "gachłxinxa": {
+    "root": "gachłxinxa",
+    "partOfSpeech": "vb",
+    "definition": "he stuck them in",
+    "seeAlso": [
+      "-NXA, -xi-NXA"
+    ]
+  },
+  "gachłxlima": {
+    "root": "gachłxlima",
+    "partOfSpeech": "vb",
+    "definition": "he put them down",
+    "seeAlso": [
+      "-x-l-IMA"
+    ]
+  },
+  "gachłxlúx": {
+    "root": "gachłxlúx",
+    "partOfSpeech": "vb",
+    "definition": "he did them to one another",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachłxshamit": {
+    "root": "gachłxshamit",
+    "partOfSpeech": "vb",
+    "definition": "he dried them",
+    "seeAlso": [
+      "-x-SHA-mit"
+    ]
+  },
+  "gachłxłlamax": {
+    "root": "gachłxłlamax",
+    "partOfSpeech": "vb",
+    "definition": "he heated them",
+    "seeAlso": [
+      "-x-ŁL-am"
+    ]
+  },
   "gachłágmunxa": {
     "root": "gachłágmunxa",
     "partOfSpeech": "vb",
@@ -19112,6 +19366,44 @@
     "root": "gachłúgwalqł",
     "partOfSpeech": "vb",
     "definition": "he recognized him[ił-]"
+  },
+  "gachłúmamagwa": {
+    "root": "gachłúmamagwa",
+    "partOfSpeech": "vb",
+    "definition": "he made a mistake about them",
+    "seeAlso": [
+      "-MAMA-kw"
+    ]
+  },
+  "gachłúmichk'i": {
+    "root": "gachłúmichk'i",
+    "partOfSpeech": "vb",
+    "definition": "he gathered them",
+    "seeAlso": [
+      "-MICHK'I"
+    ]
+  },
+  "gachłút'iba": {
+    "root": "gachłút'iba",
+    "partOfSpeech": "vb",
+    "definition": "he dipped it down",
+    "seeAlso": [
+      "-T'I-pa"
+    ]
+  },
+  "gachłúx": {
+    "root": "gachłúx",
+    "partOfSpeech": "vb",
+    "definition": "he made them [WT1.1a3], he did it [WTI.7.1], he did to them [WTI.13.9], he did it [WTI.14.3], he did them [WTI.17.17, 18.6], he did him[ił-] [WTI.18.11]",
+    "examples": [
+      {
+        "kiksht": "Wax gachłúx iłk'acha.",
+        "english": "He poured grease. [WTI.7.1]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
   },
   "gaciukwshtam": {
     "root": "gaciukwshtam",
