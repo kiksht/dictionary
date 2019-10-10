@@ -23766,12 +23766,133 @@
       "-WA-qłq"
     ]
   },
+  "gałxatłait": {
+    "root": "gałxatłait",
+    "partOfSpeech": "vb",
+    "definition": "they died",
+    "seeAlso": [
+      "-x-ŁA-it"
+    ]
+  },
   "gałxdagwa": {
     "root": "gałxdagwa",
     "partOfSpeech": "vb",
     "definition": "they turned back",
     "seeAlso": [
       "-x-TA-kw"
+    ]
+  },
+  "gałxdina": {
+    "root": "gałxdina",
+    "partOfSpeech": "vb",
+    "definition": "they fought each other",
+    "seeAlso": [
+      "-x-DINA"
+    ]
+  },
+  "gałxelkchu": {
+    "root": "gałxelkchu",
+    "partOfSpeech": "vb",
+    "definition": "they put them down in themselves, they sank them down in themselves",
+    "examples": [
+      {
+        "kiksht": "Gałxelkchu iłdudu iłakwshxatpa nawit łxwab wilx.",
+        "english": "They sank tubes down in themselves through their mouths reaching down straight to the ground. [WTI.4.4]"
+      }
+    ],
+    "seeAlso": [
+      "-x-LK-chu"
+    ]
+  },
+  "gałxelmux": {
+    "root": "gałxelmux",
+    "partOfSpeech": "vb",
+    "definition": "they ate them",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "gałxelp'álawulalemchk": {
+    "root": "gałxelp'álawulalemchk",
+    "partOfSpeech": "vb",
+    "definition": "they talked to one another",
+    "seeAlso": [
+      "-xl-P'ALAWU-lal"
+    ]
+  },
+  "gałxelp'álawulalemx": {
+    "root": "gałxelp'álawulalemx",
+    "partOfSpeech": "vb",
+    "definition": "they were talking among themselves",
+    "seeAlso": [
+      "-xl-P'ALAWU-lal"
+    ]
+  },
+  "gałxeng̲elwaqłq": {
+    "root": "gałxeng̲elwaqłq",
+    "partOfSpeech": "vb",
+    "definition": "they abandoned me",
+    "seeAlso": [
+      "-x-g̲l-WA-qłq"
+    ]
+  },
+  "gałxeng̲wiananemchk": {
+    "root": "gałxeng̲wiananemchk",
+    "partOfSpeech": "vb",
+    "definition": "they kept putting it off on one another"
+  },
+  "gałxidlaitix": {
+    "root": "gałxidlaitix",
+    "partOfSpeech": "vb",
+    "definition": "they dwelt",
+    "seeAlso": [
+      "-xi-LA-it"
+    ]
+  },
+  "gałxigilaxidix": {
+    "root": "gałxigilaxidix",
+    "partOfSpeech": "vb",
+    "definition": "they came ashore"
+  },
+  "gałxilait": {
+    "root": "gałxilait",
+    "partOfSpeech": "vb",
+    "definition": "they stayed [WTI.4.6, 13.9, IV.1.2, 3], they sat [WTI.11.13, 11.16]",
+    "examples": [
+      {
+        "kiksht": "Gałxilait itqwłiba.",
+        "english": "They stayed in the house. [WTI.4.6]"
+      }
+    ],
+    "seeAlso": [
+      "-xi-LA-it, -LA-it"
+    ]
+  },
+  "gałxilkwłichk": {
+    "root": "gałxilkwłichk",
+    "partOfSpeech": "vb",
+    "definition": "they told him",
+    "seeAlso": [
+      "-KWŁI"
+    ]
+  },
+  "gałximaxitam": {
+    "root": "gałximaxitam",
+    "partOfSpeech": "vb",
+    "definition": "they were thrown on to land",
+    "seeAlso": [
+      "-x-IMA, -x-IMA-xit"
+    ]
+  },
+  "gałxiqatq": {
+    "root": "gałxiqatq",
+    "partOfSpeech": "vb",
+    "definition": "he laid them",
+    "examples": [
+      {
+        "kiksht": "Gałxiqatq idiáqwitba.",
+        "english": "He laid them on his legs. [WTI.18.6]"
+      }
     ]
   },
   "gałxkw'ayu": {
@@ -23790,12 +23911,72 @@
       "-xl-QŁA-xit"
     ]
   },
+  "gałxlxamx": {
+    "root": "gałxlxamx",
+    "partOfSpeech": "vb",
+    "definition": "they said to one an- other",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
   "gałxlxaq": {
     "root": "gałxlxaq",
     "partOfSpeech": "vb",
     "definition": "they were assembled",
     "seeAlso": [
       "-xa-QW"
+    ]
+  },
+  "gałxmuya": {
+    "root": "gałxmuya",
+    "partOfSpeech": "vb",
+    "definition": "they wrestled",
+    "seeAlso": [
+      "-x-MUI"
+    ]
+  },
+  "gałxnatłx": {
+    "root": "gałxnatłx",
+    "partOfSpeech": "vb",
+    "definition": "they wiped themselves",
+    "seeAlso": [
+      "-NA-tłx"
+    ]
+  },
+  "gałxqwát": {
+    "root": "gałxqwát",
+    "partOfSpeech": "vb",
+    "definition": "they bathed them- selves",
+    "seeAlso": [
+      "-QWAT"
+    ]
+  },
+  "gałxshkám": {
+    "root": "gałxshkám",
+    "partOfSpeech": "vb",
+    "definition": "they gambled",
+    "examples": [
+      {
+        "kiksht": "Gałxshkám iłúguma.",
+        "english": "They gambled at bones. [WTI.4.7]"
+      }
+    ],
+    "seeAlso": [
+      "-x-SHKAM"
+    ]
+  },
+  "gałxsháq": {
+    "root": "gałxsháq",
+    "partOfSpeech": "vb",
+    "definition": "it dried up",
+    "examples": [
+      {
+        "kiksht": "Saqw gałxsháq iłchqwá.",
+        "english": "All the water dried up. [WTI.2.12]"
+      }
+    ],
+    "seeAlso": [
+      "-SHA-qw"
     ]
   },
   "gałxtkixax": {
@@ -23819,6 +24000,41 @@
     "partOfSpeech": "vb",
     "definition": "they shifted in their seats"
   },
+  "gałxulekchu": {
+    "root": "gałxulekchu",
+    "partOfSpeech": "vb",
+    "definition": "it dropped down",
+    "seeAlso": [
+      "-x-LK-chu"
+    ]
+  },
+  "gałxuq": {
+    "root": "gałxuq",
+    "partOfSpeech": "vb",
+    "definition": "they came together",
+    "seeAlso": [
+      "-x-QW"
+    ]
+  },
+  "gałxux": {
+    "root": "gałxux",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] became [WTI.1d.1], it became [WTI.13.9], they did themselves [WTI.17.17, IV.1.1], it came to be [WTI.4.11], he did [WTI.18.3]",
+    "examples": [
+      {
+        "kiksht": "Iłchqwá gałxúx wilxpa.",
+        "english": "Water came to be on the ground. [WTI.4.11]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "gałxuxamx": {
+    "root": "gałxuxamx",
+    "partOfSpeech": "vb",
+    "definition": "they came together"
+  },
   "gałxwaitam": {
     "root": "gałxwaitam",
     "partOfSpeech": "vb",
@@ -23841,6 +24057,57 @@
     "definition": "they came to put themselves in it[a-]",
     "seeAlso": [
       "-TK"
+    ]
+  },
+  "gałxíg̲elwaba": {
+    "root": "gałxíg̲elwaba",
+    "partOfSpeech": "vb",
+    "definition": "they went out of him",
+    "notes": [
+      "Literally \"they (-ł-) did (ga-) pursue (-wa-) one another (-x-) out (- ba) from (-g̲l-) him (-i-).\""
+    ],
+    "seeAlso": [
+      "-WA, -PA"
+    ]
+  },
+  "gałxłél": {
+    "root": "gałxłél",
+    "partOfSpeech": "vb",
+    "definition": "it became hot",
+    "seeAlso": [
+      "-x-ŁL"
+    ]
+  },
+  "gałxłélx": {
+    "root": "gałxłélx",
+    "partOfSpeech": "vb",
+    "definition": "they became heated",
+    "seeAlso": [
+      "-ŁL, -x-ŁL"
+    ]
+  },
+  "gałxłuxwait": {
+    "root": "gałxłuxwait",
+    "partOfSpeech": "vb",
+    "definition": "they thought",
+    "seeAlso": [
+      "-x-ŁUXWA(N)"
+    ]
+  },
+  "gałxłxlémchk": {
+    "root": "gałxłxlémchk",
+    "partOfSpeech": "vb",
+    "definition": "they ate",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "gałxłáit": {
+    "root": "gałxłáit",
+    "partOfSpeech": "vb",
+    "definition": "they died",
+    "seeAlso": [
+      "-x-ŁA-it"
     ]
   },
   "gałágluya": {
