@@ -1217,6 +1217,103 @@
       "i-kidugwalalmat, i- k'idugwalal"
     ]
   },
+  "-GAL": {
+    "root": "-GAL",
+    "partOfSpeech": "vb",
+    "definition": "go for, go to fetch, bring back, escort",
+    "examples": [
+      {
+        "kiksht": "Ag̲a amshkiugalmama iq'iyuqt idiag̲iwam.",
+        "english": "Now you folks will go for the old Indian doctor. [WTI.1c.5]"
+      },
+      {
+        "kiksht": "Amtkługwálmama bama naika.",
+        "english": "You two will go get her[ił-] for me. [WTI.2.26]"
+      },
+      {
+        "kiksht": "Shmanix tq'ix muxt atxuya atgshugwálmama.",
+        "english": "If you want her, let us two go to bring them two back. [WTI.9.1]"
+      }
+    ]
+  },
+  "-GAL-mam": {
+    "root": "-GAL-mam",
+    "partOfSpeech": "vb",
+    "definition": "go to get, come to get",
+    "forms": [
+      {
+        "kiksht": "anyugwálmama",
+        "english": "I'll go to get him"
+      },
+      {
+        "kiksht": "anitgálmama",
+        "english": "I'll come to get him"
+      },
+      {
+        "kiksht": "amdugwálmama",
+        "english": "you 2 will go get them"
+      },
+      {
+        "kiksht": "amshktugwálmama",
+        "english": "you folks will go get them"
+      },
+      {
+        "kiksht": "niugwalmamt",
+        "english": "I am going to get him"
+      },
+      {
+        "kiksht": "chiugwamamt",
+        "english": "he is going to get him, is on his way to get him"
+      },
+      {
+        "kiksht": "chiugwalmamnił",
+        "english": "he is going to get him"
+      },
+      {
+        "kiksht": "nichiugwalmam",
+        "english": "he went to get him"
+      },
+      {
+        "kiksht": "nichitgalmam",
+        "english": "he came to get him"
+      },
+      {
+        "kiksht": "gachiugwálmamnił",
+        "english": "he goes to get him (repeatedly)"
+      },
+      {
+        "kiksht": "gachitgalmamnił",
+        "english": "he comes to get him (repeatedly)"
+      },
+      {
+        "kiksht": "chanxatgalmamt",
+        "english": "he is coming to get her from me [Dyk's note: does not mean taking her away from me]"
+      },
+      {
+        "kiksht": "ichanelgalmam",
+        "english": "he went to get her for me"
+      },
+      {
+        "kiksht": "nachinitgálmama",
+        "english": "he came to get her for me"
+      },
+      {
+        "kiksht": "shxgalmamt",
+        "english": "they 2 are going to get theirs (their belongings)"
+      },
+      {
+        "kiksht": "ixatgalmamt",
+        "english": "he is coming to get his own (belongings)"
+      },
+      {
+        "kiksht": "ishxgalmam",
+        "english": "they 2 went to get their (belongings) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'igalmamnił"
+    ]
+  },
   "-a-gl-CHKW'AYA-mit": {
     "root": "-a-gl-CHKW'AYA-mit",
     "partOfSpeech": "vb",
@@ -1590,6 +1687,66 @@
     ],
     "seeAlso": [
       "-i-l-BWA-mit, -BU, -BWA"
+    ]
+  },
+  "-ch-l-GAL-qw": {
+    "root": "-ch-l-GAL-qw",
+    "partOfSpeech": "vb",
+    "definition": "burn, be burnt, smolder",
+    "forms": [
+      {
+        "kiksht": "achalgalgwa",
+        "english": "it[a-] will burn"
+      },
+      {
+        "kiksht": "chalgálqwt",
+        "english": "it[a-] is burning, is burnt"
+      },
+      {
+        "kiksht": "chilgalqwt",
+        "english": "it[i-] is burning, is burnt"
+      },
+      {
+        "kiksht": "chilgalilq",
+        "english": "it[i-] is burning (continually)"
+      },
+      {
+        "kiksht": "ichilgálilqmchk",
+        "english": "it[i-] burned (continually)"
+      },
+      {
+        "kiksht": "ichalgálq",
+        "english": "it[a-] burned, burnt up"
+      },
+      {
+        "kiksht": "nichaitgalq",
+        "english": "it[i-] burned, burnt up (last week)"
+      },
+      {
+        "kiksht": "nichaitgalqwt",
+        "english": "it[a-] was burning (last week)"
+      },
+      {
+        "kiksht": "nicháwitgalq",
+        "english": "it/they burnt (last week) [Dyk]"
+      },
+      {
+        "kiksht": "ichnelgalqwt",
+        "english": "I am burned"
+      },
+      {
+        "kiksht": "ichemgalqwt",
+        "english": "you are burned [PK]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Itq'ushu chauwigalaq.",
+        "english": "The bones were smoldering. [WTI.4.6]"
+      }
+    ],
+    "seeAlso": [
+      "i-chaxigalalq"
     ]
   },
   "-chasdi": {
@@ -21070,6 +21227,54 @@
       "-X̲"
     ]
   },
+  "galademqt": {
+    "root": "galademqt",
+    "partOfSpeech": "vb",
+    "definition": "she died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "galaglalamchk": {
+    "root": "galaglalamchk",
+    "partOfSpeech": "vb",
+    "definition": "she sang",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "galagluma": {
+    "root": "galagluma",
+    "partOfSpeech": "vb",
+    "definition": "she called out",
+    "seeAlso": [
+      "-k-LUMA"
+    ]
+  },
+  "galaigluya": {
+    "root": "galaigluya",
+    "partOfSpeech": "vb",
+    "definition": "she went to him",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "galaigug̲wamx": {
+    "root": "galaigug̲wamx",
+    "partOfSpeech": "vb",
+    "definition": "she reached him",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "galaig̲elbax": {
+    "root": "galaig̲elbax",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] darted out of it[i-]",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
   "galishgluya": {
     "root": "galishgluya",
     "partOfSpeech": "vb",
@@ -21098,6 +21303,14 @@
     ],
     "seeAlso": [
       "-X̲, -x̲-X̲"
+    ]
+  },
+  "galáig̲luqłq": {
+    "root": "galáig̲luqłq",
+    "partOfSpeech": "vb",
+    "definition": "she went off from him",
+    "seeAlso": [
+      "-g̲l-QŁQ"
     ]
   },
   "gayux̲uni": {
@@ -22594,6 +22807,32 @@
     ],
     "seeAlso": [
       "i-k'ak'ush"
+    ]
+  },
+  "i-gakw'almat": {
+    "root": "i-gakw'almat",
+    "partOfSpeech": "n",
+    "definition": "(single) braid",
+    "notes": [
+      "Used nowadays by Indian dancers."
+    ],
+    "seeAlso": [
+      "-k'akw'almat"
+    ]
+  },
+  "i-gakwal": {
+    "root": "i-gakwal",
+    "partOfSpeech": "n",
+    "definition": "eel",
+    "forms": [
+      {
+        "kiksht": "ishgakwal",
+        "english": "eel, eels"
+      },
+      {
+        "kiksht": "(Appar- ently this may be used even for just one eel, in addition to igakwal.) ágakwal",
+        "english": "bunch of eels [Dyk]"
+      }
     ]
   },
   "i-gábenash": {
