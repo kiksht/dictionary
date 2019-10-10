@@ -1991,6 +1991,86 @@
       }
     ]
   },
+  "-gikal": {
+    "root": "-gikal",
+    "partOfSpeech": "n",
+    "definition": "spouse, mate, husband, wife",
+    "forms": [
+      {
+        "kiksht": "akgikal, axgikal",
+        "english": "my wife"
+      },
+      {
+        "kiksht": "ichgikal",
+        "english": "my husband [Dyk]"
+      },
+      {
+        "kiksht": "ishkgikal",
+        "english": "my 2 wives [Relatives]"
+      },
+      {
+        "kiksht": "shxagikal",
+        "english": "they 2 are spouses to each other, they are husband and wife"
+      },
+      {
+        "kiksht": "łxagíkaluksh",
+        "english": "they are spouses (a group of husbands and wifes married among themselves)"
+      },
+      {
+        "kiksht": "txagikal",
+        "english": "we 2 (you and I) are spouses to each other"
+      },
+      {
+        "kiksht": "ntxagikal",
+        "english": "we 2 (not includ- ing you) are spouses to each other"
+      },
+      {
+        "kiksht": "mtxagikal",
+        "english": "you 2 are spouses to each other"
+      },
+      {
+        "kiksht": "qígikal",
+        "english": "wife! or husband!(address) yamágikal [Dyk], yámagikal [PK 7/24/56]"
+      },
+      {
+        "kiksht": "",
+        "english": "you are my spouse"
+      },
+      {
+        "kiksht": "emnágikal",
+        "english": "I am your spouse [Dyk]"
+      },
+      {
+        "kiksht": "yamshagikal",
+        "english": "you are my spouses"
+      },
+      {
+        "kiksht": "emshnágikal",
+        "english": "we are your spouses [PK 7/24/56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Amigikál agawan.",
+        "english": "Your wife is pregnant."
+      },
+      {
+        "kiksht": "Ak'ashkash ayagikal.",
+        "english": "His wife is younger than he. [Dyk]"
+      },
+      {
+        "kiksht": "Ag̲a maika amígikal igaxux.",
+        "english": "Now she has become your wife. [WTI.1c.12]"
+      },
+      {
+        "kiksht": "G̲ang̲at ichgikal galixtkiax.",
+        "english": "Long ago he was my hus- band. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "qígikal"
+    ]
+  },
   "-gl-CHIM": {
     "root": "-gl-CHIM",
     "partOfSpeech": "vb",
@@ -5093,6 +5173,17 @@
     "definition": "submarine",
     "notes": [
       "Coined by PK 8/10/56 from gigwal \"below\" and -mał \"water.\""
+    ]
+  },
+  "a-gig̲emshtxmat": {
+    "root": "a-gig̲emshtxmat",
+    "partOfSpeech": "n",
+    "definition": "something to drink from, dipper",
+    "notes": [
+      "PK described this as an \"old- time word.\""
+    ],
+    "seeAlso": [
+      "-QEMSHT, i-gig̲emshtx, it- gig̲emshtxxat"
     ]
   },
   "a-gálamat": {
@@ -27875,6 +27966,20 @@
       "gigat, iwádiwa"
     ]
   },
+  "giká": {
+    "root": "giká",
+    "partOfSpeech": "adv",
+    "definition": "here",
+    "examples": [
+      {
+        "kiksht": "Qikláix giká mshkiax kanawá kiksht emshxelp'álaulal.",
+        "english": "Glad you're here all talking Wasco. [CLL5]"
+      }
+    ],
+    "seeAlso": [
+      "daba, dika"
+    ]
+  },
   "gáyaluqstk": {
     "root": "gáyaluqstk",
     "partOfSpeech": "n",
@@ -29620,6 +29725,28 @@
       "gigwal, gigwalix, gigwáladamt"
     ]
   },
+  "i-gigwalqut": {
+    "root": "i-gigwalqut",
+    "partOfSpeech": "n",
+    "definition": "underslip",
+    "seeAlso": [
+      "it-gigwalqut, i-gigwál"
+    ]
+  },
+  "i-gigwilal": {
+    "root": "i-gigwilal",
+    "partOfSpeech": "n",
+    "definition": "taking away, carrying",
+    "forms": [
+      {
+        "kiksht": "iyagigwilal",
+        "english": "he is a taker away of things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-GWI"
+    ]
+  },
   "i-gigwál": {
     "root": "i-gigwál",
     "partOfSpeech": "n",
@@ -29643,6 +29770,64 @@
     ],
     "seeAlso": [
       "gigwal"
+    ]
+  },
+  "i-gig̲émshtx": {
+    "root": "i-gig̲émshtx",
+    "partOfSpeech": "n",
+    "definition": "drinking",
+    "forms": [
+      {
+        "kiksht": "iyagig̲émshtx",
+        "english": "he is a drinker; he is a drunkard [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-QEMSHT, a-gig̲emshtxmat, it-gig̲emshtxxat"
+    ]
+  },
+  "i-gig̲wiamat": {
+    "root": "i-gig̲wiamat",
+    "partOfSpeech": "n",
+    "definition": "something to poke with, something to press with",
+    "seeAlso": [
+      "- G̲WIA, i-g̲wianan, i- gig̲wiananmat"
+    ]
+  },
+  "i-gig̲wianan": {
+    "root": "i-gig̲wianan",
+    "partOfSpeech": "n",
+    "definition": "pressing against, poking against",
+    "forms": [
+      {
+        "kiksht": "iyagig̲wíanan",
+        "english": "he is one who presses or pokes with something against something [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "- G̲WIA, i-gig̲wíamat, i- gig̲wiananmat"
+    ]
+  },
+  "i-gig̲wiananmat": {
+    "root": "i-gig̲wiananmat",
+    "partOfSpeech": "n",
+    "definition": "something to poke with (continually), something to press with (continually)",
+    "seeAlso": [
+      "- G̲WIA, i-gig̲wianan, i- gig̲wiamat"
+    ]
+  },
+  "i-gikshdamnił": {
+    "root": "i-gikshdamnił",
+    "partOfSpeech": "n",
+    "definition": "going to see, over- seeing, inspecting",
+    "forms": [
+      {
+        "kiksht": "ichagikshdamnił",
+        "english": "she is one who goes to see, to oversee, to in- spect; she is an inspector [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-KSHT-am"
     ]
   },
   "i-gábenash": {
@@ -30326,6 +30511,28 @@
     "definition": "singers helping Indian doctor",
     "seeAlso": [
       "-k-LALAM"
+    ]
+  },
+  "it-gigwalqut": {
+    "root": "it-gigwalqut",
+    "partOfSpeech": "n",
+    "definition": "skirt",
+    "forms": [
+      {
+        "kiksht": "itgigwalqutksh",
+        "english": "skirts [GT, MMc 6/5/98]"
+      }
+    ],
+    "seeAlso": [
+      "i-gigwál, i-gigwalqut"
+    ]
+  },
+  "it-gig̲emshtxxat": {
+    "root": "it-gig̲emshtxxat",
+    "partOfSpeech": "n",
+    "definition": "drinking place",
+    "seeAlso": [
+      "-QEMSHT, i-gig̲émshtx, a- gig̲emshtxmat"
     ]
   },
   "ił-alakásgwilit": {

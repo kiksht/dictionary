@@ -9752,3 +9752,59 @@ See also: gigwal, gigwaladamt, shÅxelix
 
 a-gigwalma¬ [n] submarine
 Notes: Coined by PK 8/10/56 from gigwal “below” and -ma¬ “water.”
+
+
+
+
+
+
+
+
+
+
+
+
+i-gigwalqut [n] underslip
+See also: it-gigwalqut, i-gigwÅl
+
+it-gigwalqut [n] skirt
+Forms: itgigwalqutksh “skirts” [GT, MMc 6/5/98]
+See also: i-gigwÅl, i-gigwalqut
+
+i-gigwilal [n] taking away, carrying
+Forms: iyagigwilal “he is a taker away of things” [Dyk]
+See also: -GWI
+
+i-gi©émshtx [n] drinking
+Forms: iyagi©émshtx “he is a drinker; he is a drunkard” [Dyk]
+See also: -QEMSHT, a-gi©emshtxmat, it-gi©emshtxxat
+
+a-gi©emshtxmat [n] something to drink from, dipper
+Notes: PK described this as an “old- time word.”
+See also: -QEMSHT, i-gi©emshtx, it- gi©emshtxxat
+
+it-gi©emshtxxat [n] drinking place
+See also: -QEMSHT, i-gi©émshtx, a- gi©emshtxmat
+
+i-gi©wiamat [n] something to poke with, something to press with
+See also: - ̋WIA, i-©wianan, i- gi©wiananmat
+
+i-gi©wianan [n] pressing against, poking against
+Forms: iyagi©wˆanan “he is one who presses or pokes with something against something” [Dyk]
+See also: - ̋WIA, i-gi©wˆamat, i- gi©wiananmat
+
+i-gi©wiananmat [n] something to poke with (continually), something to press with (continually)
+See also: - ̋WIA, i-gi©wianan, i- gi©wiamat
+
+gikÅ [adv] here
+Examples: QiklÅix gikÅ mshkiax kanawÅ kiksht emshxelp’Ålaulal. “Glad you’re here all talking Wasco.” [CLL5]
+See also: daba, dika
+
+-gikal [n] spouse, mate, husband, wife
+Forms: akgikal, axgikal “my wife” ichgikal “my husband” [Dyk] ishkgikal “my 2 wives” [Relatives] shxagikal “they 2 are spouses to each other, they are husband and wife” ¬xagˆkaluksh “they are spouses (a group of husbands and wifes married among themselves)” txagikal “we 2 (you and I) are spouses to each other” ntxagikal “we 2 (not includ- ing you) are spouses to each other” mtxagikal “you 2 are spouses to each other” qˆgikal “wife! or husband!(address)” yamÅgikal [Dyk], yÅmagikal [PK 7/24/56] “you are my spouse” emnÅgikal “I am your spouse” [Dyk] yamshagikal “you are my spouses” emshnÅgikal “we are your spouses” [PK 7/24/56]
+Examples: AmigikÅl agawan. “Your wife is pregnant.” Ak’ashkash ayagikal. “His wife is younger than he.” [Dyk] A©a maika amˆgikal igaxux. “Now she has become your wife.” [WTI.1c.12]  ̋an©at ichgikal galixtkiax. “Long ago he was my hus- band.” [Dyk]
+See also: qˆgikal
+
+i-gikshdamni¬ [n] going to see, over- seeing, inspecting
+Forms: ichagikshdamni¬ “she is one who goes to see, to oversee, to in- spect; she is an inspector” [Dyk]
+See also: -KSHT-am
