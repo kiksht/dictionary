@@ -1964,6 +1964,33 @@
     "definition": "mink",
     "forms": []
   },
+  "-gian": {
+    "root": "-gian",
+    "partOfSpeech": "n",
+    "definition": "woman's son's child, grand- child, grandson, granddaughter",
+    "forms": [
+      {
+        "kiksht": "ichagian",
+        "english": "her son's son, her grandson"
+      },
+      {
+        "kiksht": "agagian",
+        "english": "her son's daugh- ter, her granddaughter"
+      },
+      {
+        "kiksht": "ichgian",
+        "english": "my son's son, my grandson [woman speaking]"
+      },
+      {
+        "kiksht": "akgian",
+        "english": "my son's daugh- ter, my granddaughter [woman speaking]"
+      },
+      {
+        "kiksht": "iłxgianksh",
+        "english": "my son's children, my grandchildren [woman speaking]"
+      }
+    ]
+  },
   "-gl-CHIM": {
     "root": "-gl-CHIM",
     "partOfSpeech": "vb",
@@ -5050,6 +5077,14 @@
     ],
     "seeAlso": [
       "a-k'axitk"
+    ]
+  },
+  "a-gemán": {
+    "root": "a-gemán",
+    "partOfSpeech": "n",
+    "definition": "fir boughs",
+    "seeAlso": [
+      "a-dexdex"
     ]
   },
   "a-gálamat": {
@@ -26172,12 +26207,81 @@
       "-xl-MUX̲"
     ]
   },
+  "gayuxuganut": {
+    "root": "gayuxuganut",
+    "partOfSpeech": "vb",
+    "definition": "he urinated on them",
+    "seeAlso": [
+      "-GANUT, -UNUDA-pa, - X̲ANUT"
+    ]
+  },
+  "gayuxugumałiłx": {
+    "root": "gayuxugumałiłx",
+    "partOfSpeech": "vb",
+    "definition": "he moved for- ward while sitting, he moved forward in a sitting position"
+  },
+  "gayuxugwitkiq": {
+    "root": "gayuxugwitkiq",
+    "partOfSpeech": "vb",
+    "definition": "he set a trap for them",
+    "seeAlso": [
+      "-x-TKI-qw"
+    ]
+  },
+  "gayuxuni": {
+    "root": "gayuxuni",
+    "partOfSpeech": "vb",
+    "definition": "he drifted along",
+    "seeAlso": [
+      "-NI"
+    ]
+  },
+  "gayuxwatłagwa": {
+    "root": "gayuxwatłagwa",
+    "partOfSpeech": "vb",
+    "definition": "he passed them by",
+    "seeAlso": [
+      "-x-TŁA-kw"
+    ]
+  },
+  "gayuxwilait": {
+    "root": "gayuxwilait",
+    "partOfSpeech": "vb",
+    "definition": "they[i-] sat down",
+    "seeAlso": [
+      "-xi-LA-it"
+    ]
+  },
+  "gayuxwitím": {
+    "root": "gayuxwitím",
+    "partOfSpeech": "vb",
+    "definition": "they used to give it[i-] to one another",
+    "seeAlso": [
+      "-T"
+    ]
+  },
   "gayux̲uni": {
     "root": "gayux̲uni",
     "partOfSpeech": "vb",
     "definition": "he drifted along",
     "seeAlso": [
       "-NI"
+    ]
+  },
+  "gayuyax": {
+    "root": "gayuyax",
+    "partOfSpeech": "vb",
+    "definition": "he went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gayuyix": {
+    "root": "gayuyix",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] went [WTI.11.16], he went on [WTIV.2.11]",
+    "seeAlso": [
+      "-I, gayuix"
     ]
   },
   "gayułait": {
@@ -27634,6 +27738,38 @@
     "definition": "they each danced",
     "seeAlso": [
       "-WI"
+    ]
+  },
+  "gdigelchił": {
+    "root": "gdigelchił",
+    "partOfSpeech": "vb",
+    "definition": "she is throwing them at him",
+    "seeAlso": [
+      "-CHI"
+    ]
+  },
+  "gduxt": {
+    "root": "gduxt",
+    "partOfSpeech": "vb",
+    "definition": "she is making it[it-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "giåltåpck": {
+    "root": "giåltåpck",
+    "partOfSpeech": "vb",
+    "definition": "he went ashore"
+  },
+  "gigá": {
+    "root": "gigá",
+    "partOfSpeech": "adv",
+    "definition": "still, continually, yet [Dyk], here, this way [GT, MMc]",
+    "examples": [
+      {
+        "kiksht": "Gigá yutxwit.",
+        "english": "He is still standing. [Dyk]"
+      }
     ]
   },
   "gáyaluqstk": {
@@ -29206,6 +29342,112 @@
     "partOfSpeech": "n",
     "definition": "penis"
   },
+  "i-géch": {
+    "root": "i-géch",
+    "partOfSpeech": "n",
+    "definition": "nose",
+    "forms": [
+      {
+        "kiksht": "itgéch",
+        "english": "noses [HS 7/28/56]"
+      },
+      {
+        "kiksht": "ittxagéchkaksh",
+        "english": "our (your and my) noses [Dyk]"
+      }
+    ]
+  },
+  "i-gibixwł": {
+    "root": "i-gibixwł",
+    "partOfSpeech": "n",
+    "definition": "sea-lion",
+    "notes": [
+      "A Cascade word. Supposedly five times larger than an ordinary seal, this animal came up to the Cas- cade area once in a great while."
+    ],
+    "seeAlso": [
+      "i-bixwł"
+    ]
+  },
+  "i-gich'aqch'aq": {
+    "root": "i-gich'aqch'aq",
+    "partOfSpeech": "n",
+    "definition": "washing",
+    "forms": [
+      {
+        "kiksht": "ichgich'aqch'aq",
+        "english": "my washing; I'm a washer"
+      },
+      {
+        "kiksht": "ichach'aqch'aq",
+        "english": "washerwoman [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ch'aq"
+    ]
+  },
+  "i-gich'au": {
+    "root": "i-gich'au",
+    "partOfSpeech": "n",
+    "definition": "branding, burning",
+    "forms": [
+      {
+        "kiksht": "iyagich'au",
+        "english": "he is a brander (of animals) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ch'au, xagichau"
+    ]
+  },
+  "i-gichgwa": {
+    "root": "i-gichgwa",
+    "partOfSpeech": "vb",
+    "definition": "mashed berries",
+    "examples": [
+      {
+        "kiksht": "Igichgwa inyúx iłqia engi.",
+        "english": "I made mashed strawberries."
+      },
+      {
+        "kiksht": "(More literally:",
+        "english": "I made a mash out of strawberries.) [Spilyay/Food2]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ichgwa"
+    ]
+  },
+  "i-gichmat": {
+    "root": "i-gichmat",
+    "partOfSpeech": "n",
+    "definition": "halter"
+  },
+  "i-gidelk": {
+    "root": "i-gidelk",
+    "partOfSpeech": "n",
+    "definition": "smoking",
+    "forms": [
+      {
+        "kiksht": "iyagidelk",
+        "english": "he is a smoker [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "It'ukdi igidelk.",
+        "english": "Smoking is good. [Dyk]"
+      }
+    ]
+  },
+  "i-gidmat": {
+    "root": "i-gidmat",
+    "partOfSpeech": "n",
+    "definition": "bag full of dried roots or ground salmon",
+    "notes": [
+      "Implies a bag full of either dried roots or ground dried salmon ready to trade."
+    ]
+  },
   "i-gábenash": {
     "root": "i-gábenash",
     "partOfSpeech": "n",
@@ -29529,6 +29771,22 @@
         "kiksht": "idelxłxmax",
         "english": "scaffolds [Dyk]"
       }
+    ]
+  },
+  "ish-géch": {
+    "root": "ish-géch",
+    "partOfSpeech": "n",
+    "definition": "nostrils",
+    "seeAlso": [
+      "i-géch"
+    ]
+  },
+  "ish-gich'ap": {
+    "root": "ish-gich'ap",
+    "partOfSpeech": "n",
+    "definition": "notochord (in eel)",
+    "notes": [
+      "The cord or string-like thing in an eel's or sturgeon's back that takes the place of a backbone."
     ]
   },
   "ishktälgwipchk": {
@@ -30067,6 +30325,14 @@
     ],
     "seeAlso": [
       "ił-qitłamit"
+    ]
+  },
+  "ił-gibunit": {
+    "root": "ił-gibunit",
+    "partOfSpeech": "n",
+    "definition": "wet snow in spring",
+    "seeAlso": [
+      "ił-bunit, ił-kibuna"
     ]
   },
   "kinwa": {
