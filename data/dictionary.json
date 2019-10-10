@@ -1490,6 +1490,74 @@
     ],
     "pronunciation": "The root in this word was sometimes pronounced -gela."
   },
+  "-GWI": {
+    "root": "-GWI",
+    "partOfSpeech": "vb",
+    "definition": "carry, take, bring, remove; move, carry",
+    "forms": [
+      {
+        "kiksht": "achiugwia",
+        "english": "he will take it[i-] (bride-price, consisting of several items) [WTII.1.1]"
+      },
+      {
+        "kiksht": "chiugwít",
+        "english": "he is carrying them[i-] (multiple objects, considered as a unit); he is carrying him away"
+      },
+      {
+        "kiksht": "chtugwít",
+        "english": "he is taking them away"
+      },
+      {
+        "kiksht": "qiugwit",
+        "english": "someone has him taken away, he is taken away"
+      },
+      {
+        "kiksht": "chettgwít",
+        "english": "he is bringing them [Gladys Thompson pronounces this word chetgwít]"
+      },
+      {
+        "kiksht": "chitgwít",
+        "english": "he is bring- ing it"
+      },
+      {
+        "kiksht": "ichttgwí",
+        "english": "he brought them (several trips)"
+      },
+      {
+        "kiksht": "igigwit",
+        "english": "he is taking away"
+      },
+      {
+        "kiksht": "ixgigwit",
+        "english": "he is taking away (something) from himself, belonging to himself"
+      },
+      {
+        "kiksht": "yugwitix",
+        "english": "it[i-] is taken away [Dyk]"
+      },
+      {
+        "kiksht": "nachtgwia",
+        "english": "he brought them [GT 6/9/99]"
+      }
+    ],
+    "notes": [
+      "Usually used with objects plural in meaning."
+    ],
+    "seeAlso": [
+      "i-gigwilal, xaxagwit"
+    ]
+  },
+  "-GWI-chu": {
+    "root": "-GWI-chu",
+    "partOfSpeech": "vb",
+    "definition": "drop, drop down",
+    "forms": [
+      {
+        "kiksht": "gachłilgwichu",
+        "english": "he dropped them down into him [WTI.17.17]"
+      }
+    ]
+  },
   "-a-gl-CHKW'AYA-mit": {
     "root": "-a-gl-CHKW'AYA-mit",
     "partOfSpeech": "vb",
@@ -1536,6 +1604,20 @@
     ],
     "seeAlso": [
       "it-kádemgwa"
+    ]
+  },
+  "-a-l-GWACHI": {
+    "root": "-a-l-GWACHI",
+    "partOfSpeech": "vb",
+    "definition": "say that one who is dead deserved his/her fate",
+    "forms": [
+      {
+        "kiksht": "chailgwachinan",
+        "english": "he is saying that he, who is dead, deserved his fate, that it served him right [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-qígwachinan"
     ]
   },
   "-bali": {
@@ -2374,6 +2456,75 @@
       }
     ]
   },
+  "-gwalac'inc'in": {
+    "root": "-gwalac'inc'in",
+    "partOfSpeech": "n",
+    "definition": "blue bird [Dyk], swallow [HS 7/28/56; GT 6/5/98 \"probably\"]",
+    "forms": [
+      {
+        "kiksht": "igwalac'inc'in",
+        "english": "blue bird [Dyk] iłgwalac'inc'in [HS 7/28/56] [GT accepted either]"
+      },
+      {
+        "kiksht": "itgwalac'inc'inks",
+        "english": "blue birds [Dyk]"
+      },
+      {
+        "kiksht": "",
+        "english": "swallows [HS 7/ 28/56]"
+      }
+    ]
+  },
+  "-gwałilx": {
+    "root": "-gwałilx",
+    "partOfSpeech": "adj",
+    "definition": "poor",
+    "examples": [
+      {
+        "kiksht": "Igwałilx i'ish'ish; ag̲a łkúp igixux iyag̲wamnił.",
+        "english": "Poor Bluejay! Now his heart has burst! [WTI.4.12]"
+      },
+      {
+        "kiksht": "agwałilx",
+        "english": "poor thing! [AF 12/21/55]"
+      }
+    ],
+    "seeAlso": [
+      "ił-gwałilx, -gwałílayax"
+    ]
+  },
+  "-gwałílayax": {
+    "root": "-gwałílayax",
+    "partOfSpeech": "adj",
+    "definition": "pitiful, poor",
+    "forms": [
+      {
+        "kiksht": "emgwałílayax",
+        "english": "you are piti- ful; you poor person [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "agwałilayax akk'ísh",
+        "english": "my poor (paternal) grandmother [WTI.13.3]"
+      }
+    ]
+  },
+  "-gwálamisht": {
+    "root": "-gwálamisht",
+    "partOfSpeech": "n",
+    "definition": "slave [GT 6/5/98], \"a bad word[?]\" [Dyk]",
+    "forms": [
+      {
+        "kiksht": "agwálamisht",
+        "english": "female slave"
+      },
+      {
+        "kiksht": "idgwálamishtiksh",
+        "english": "slaves [GT 6/5/ 98]"
+      }
+    ]
+  },
   "-g̲m-CHX̲U-kw": {
     "root": "-g̲m-CHX̲U-kw",
     "partOfSpeech": "vb",
@@ -2523,6 +2674,20 @@
     ],
     "seeAlso": [
       "-ch-l-BU"
+    ]
+  },
+  "-i-l-xi-GWAK": {
+    "root": "-i-l-xi-GWAK",
+    "partOfSpeech": "vb",
+    "definition": "eddy",
+    "forms": [
+      {
+        "kiksht": "łilxigwakdix",
+        "english": "it [the water] is eddying [PK 8/29/55]"
+      }
+    ],
+    "seeAlso": [
+      "ił-qigwakdix"
     ]
   },
   "-k-CHA": {
@@ -28573,6 +28738,54 @@
     "definition": "she is doing it[a-]",
     "seeAlso": [
       "-X̲"
+    ]
+  },
+  "gwak": {
+    "root": "gwak",
+    "partOfSpeech": "interj",
+    "definition": "awk!",
+    "examples": [
+      {
+        "kiksht": "Gwak galigimx.",
+        "english": "Awk! he said. [Dyk]"
+      }
+    ]
+  },
+  "gwanixch'a": {
+    "root": "gwanixch'a",
+    "partOfSpeech": "adv",
+    "definition": "let's see",
+    "examples": [
+      {
+        "kiksht": "Gwanixch'a au.",
+        "english": "Let me see, we'll try. [GT 1/12/99]"
+      }
+    ]
+  },
+  "gwap gwap": {
+    "root": "gwap gwap",
+    "partOfSpeech": "part",
+    "definition": "break to pieces",
+    "examples": [
+      {
+        "kiksht": "Gwapgwap igixímaxitam.",
+        "english": "It[i-] fell and broke to pieces. [Dyk]"
+      },
+      {
+        "kiksht": "Yaxi gascubna ishkán; gwapgwap galixímaxitam ishkan.",
+        "english": "Over there the cedar bounded; the cedar fell down broken to pieces. [WTI.4.14]"
+      }
+    ],
+    "seeAlso": [
+      "gup, kw'ap"
+    ]
+  },
+  "gwánisem": {
+    "root": "gwánisem",
+    "partOfSpeech": "adv",
+    "definition": "always, forever, all the time",
+    "seeAlso": [
+      "daminwa"
     ]
   },
   "gáyaluqstk": {

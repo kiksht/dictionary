@@ -10284,3 +10284,59 @@ See also: - ̨
 wi-gwa [n] day
 Forms: i¬gwamax “days” [WTI.11.1, MMc 6/3-5/98]
 Examples: it’ukdi wigwa “good day” [GT, MMc]
+
+
+
+
+
+
+
+
+
+
+-a-l-GWACHI [vb] say that one who is dead deserved his/her fate
+Forms: chailgwachinan “he is saying that he, who is dead, deserved his fate, that it served him right” [Dyk]
+See also: a-qˆgwachinan
+
+gwak [interj] awk!
+Examples: Gwak galigimx. “Awk! he said.” [Dyk]
+
+-i-l-xi-GWAK [vb] eddy
+Forms: ¬ilxigwakdix “it [the water] is eddying” [PK 8/29/55]
+See also: i¬-qigwakdix
+
+-gwalac’inc’in [n] blue bird [Dyk], swallow [HS 7/28/56; GT 6/5/98 “probably”]
+Forms: igwalac’inc’in “blue bird” [Dyk] i¬gwalac’inc’in [HS 7/28/56] [GT accepted either] itgwalac’inc’inks “blue birds” [Dyk] “swallows” [HS 7/ 28/56]
+
+-gwÅlamisht [n] slave [GT 6/5/98], “a bad word[?]” [Dyk]
+Forms: agwÅlamisht “female slave” idgwÅlamishtiksh “slaves” [GT 6/5/ 98]
+
+-gwa¬ˆlayax [adj] pitiful, poor
+Forms: emgwa¬ˆlayax “you are piti- ful; you poor person” [Dyk]
+Examples: agwa¬ilayax akk’ˆsh “my poor (paternal) grandmother” [WTI.13.3]
+
+-gwa¬ilx [n] person
+Forms: i¬gwa¬ilx “person” engwa¬ilx “I am a person” emgwa¬ilx “you are a person” igwa¬ilx “he is a person” agwa¬ilx “she is a person” For the plural use id-elxam. [Dyk]
+Notes: It seems curious that this same root can mean either “person” (without any obvious emotive conno- tation) or “poor, pitiful;” nonethe- less, there are examples of both us- ages.
+
+-gwa¬ilx [adj] poor
+Examples: Igwa¬ilx i’ish’ish; a©a ¬k ̈p igixux iya©wamni¬. “Poor Bluejay! Now his heart has burst!” [WTI.4.12] agwa¬ilx “poor thing!” [AF 12/21/55]
+See also: i¬-gwa¬ilx, -gwa¬ˆlayax
+
+gwÅnisem [adv] always, forever, all the time
+See also: daminwa
+
+gwanixch’a [adv] let’s see
+Examples: Gwanixch’a au. “Let me see, we’ll try.” [GT 1/12/99]
+
+gwap gwap [part] break to pieces
+Examples: Gwapgwap igixˆmaxitam. “It[i-] fell and broke to pieces.” [Dyk] Yaxi gascubna ishkÅn; gwapgwap galixˆmaxitam ishkan. “Over there the cedar bounded; the cedar fell down broken to pieces.” [WTI.4.14]
+See also: gup, kw’ap
+
+-GWI [vb] carry, take, bring, remove; move, carry
+Forms: achiugwia “he will take it[i-] (bride-price, consisting of several items)” [WTII.1.1] chiugwˆt “he is carrying them[i-] (multiple objects, considered as a unit); he is carrying him away” chtugwˆt “he is taking them away” qiugwit “someone has him taken away, he is taken away” chettgwˆt “he is bringing them” [Gladys Thompson pronounces this word chetgwˆt] chitgwˆt “he is bring- ing it” ichttgwˆ “he brought them (several trips)” igigwit “he is taking away” ixgigwit “he is taking away (something) from himself, belonging to himself” yugwitix “it[i-] is taken away” [Dyk] nachtgwia “he brought them” [GT 6/9/99]
+Notes: Usually used with objects plural in meaning.
+See also: i-gigwilal, xaxagwit
+
+-GWI-chu [vb] drop, drop down
+Forms: gach¬ilgwichu “he dropped them down into him” [WTI.17.17]
