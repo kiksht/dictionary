@@ -3946,6 +3946,14 @@
     "partOfSpeech": "place",
     "definition": "Sherar's Bridge"
   },
+  "Notes: Refers to oak of which igaben, digging stick, is made": {
+    "root": "Notes: Refers to oak of which igaben, digging stick, is made",
+    "partOfSpeech": "Notes: Refers to oak of which igaben, digging stick, is made",
+    "definition": "Notes: Refers to oak of which igaben, digging stick, is made.",
+    "seeAlso": [
+      "i-gaben"
+    ]
+  },
   "See also: łil, dałál, i- -łlumi": {
     "root": "See also: łil, dałál, i- -łlumi",
     "partOfSpeech": "See also: ¬il, da¬Ål, i- -¬lumi",
@@ -4576,6 +4584,42 @@
     ],
     "seeAlso": [
       "i-dúiha"
+    ]
+  },
+  "a-gabu": {
+    "root": "a-gabu",
+    "partOfSpeech": "n",
+    "definition": "coat, jacket",
+    "forms": [
+      {
+        "kiksht": "iłgabu",
+        "english": "(any) coat"
+      },
+      {
+        "kiksht": "itgábumax",
+        "english": "coats [Dyk]"
+      },
+      {
+        "kiksht": "ishgabu",
+        "english": "regular coat [HS 7/14/54]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "ichatłqt agabu",
+        "english": "overcoat, long coat"
+      },
+      {
+        "kiksht": "agabu ichaxu",
+        "english": "coat sleeve [Dyk]"
+      },
+      {
+        "kiksht": "Amxlúx chaxelłixbama amigabu.",
+        "english": "Put on your winter coat. [GT, MMc]"
+      }
+    ],
+    "notes": [
+      "Related to Warm Springs kapú. Both are probably borrowed from French capot through Chinook Jargon."
     ]
   },
   "a-g̲agilak": {
@@ -12749,6 +12793,17 @@
       "chaxelłix, chag̲elqłix"
     ]
   },
+  "chaxelłixbama agabu": {
+    "root": "chaxelłixbama agabu",
+    "partOfSpeech": "n",
+    "definition": "winter coat",
+    "notes": [
+      "Literally \"for (-bama) winter (chaxelłix-) coat (agabu).\""
+    ],
+    "seeAlso": [
+      "a-gabu"
+    ]
+  },
   "chaxgwilxł": {
     "root": "chaxgwilxł",
     "partOfSpeech": "vb",
@@ -17884,12 +17939,192 @@
       "ełbál, ełbål, ił- -pálumit, dałbål"
     ]
   },
+  "gacalcgima": {
+    "root": "gacalcgima",
+    "partOfSpeech": "vb",
+    "definition": "he laid her down belly-up",
+    "seeAlso": [
+      "-l-CGI-ma"
+    ]
+  },
+  "gachagelga": {
+    "root": "gachagelga",
+    "partOfSpeech": "vb",
+    "definition": "he took hold of it[a-] [WTI.2.4, 13.2], he took hold of her [WTI.12.8, 14.3]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachagelgax": {
+    "root": "gachagelgax",
+    "partOfSpeech": "vb",
+    "definition": "he took it[a-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachagelxim": {
+    "root": "gachagelxim",
+    "partOfSpeech": "vb",
+    "definition": "he called her",
+    "seeAlso": [
+      "-gl-XIM"
+    ]
+  },
+  "gachagélłada": {
+    "root": "gachagélłada",
+    "partOfSpeech": "vb",
+    "definition": "he threw them[a-] at her",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "gachag̲elgelx": {
+    "root": "gachag̲elgelx",
+    "partOfSpeech": "vb",
+    "definition": "he saw her",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gachag̲elkel": {
+    "root": "gachag̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "he saw her [WTI.1b1], he saw it[a-] [WTI.13.2,3]",
+    "pronunciation": "ga-cha-g̲él-kel [WTI.1b1] ga-chá-g̲el-kel [WTI.13.2]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gachaigenxda": {
+    "root": "gachaigenxda",
+    "partOfSpeech": "vb",
+    "definition": "he wound it[a-] on it[i-]",
+    "seeAlso": [
+      "-k-NXDA"
+    ]
+  },
+  "gachaiktquix": {
+    "root": "gachaiktquix",
+    "partOfSpeech": "vb",
+    "definition": "he turned her over",
+    "seeAlso": [
+      "-i-k-TQW-ix"
+    ]
+  },
+  "gachailagwa": {
+    "root": "gachailagwa",
+    "partOfSpeech": "vb",
+    "definition": "he hit him with it[a-]",
+    "seeAlso": [
+      "-l-LA-kw"
+    ]
+  },
+  "gachailut": {
+    "root": "gachailut",
+    "partOfSpeech": "vb",
+    "definition": "he gave it[a-] to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
   "gachawiqłaxit": {
     "root": "gachawiqłaxit",
     "partOfSpeech": "vb",
     "definition": "he heard about them",
     "seeAlso": [
       "-l-QŁA-xit"
+    ]
+  },
+  "gaciukwshtam": {
+    "root": "gaciukwshtam",
+    "partOfSpeech": "vb",
+    "definition": "he went to look for him",
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "gackłsk'lútk": {
+    "root": "gackłsk'lútk",
+    "partOfSpeech": "vb",
+    "definition": "he looked at them",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "gacsiglutk": {
+    "root": "gacsiglutk",
+    "partOfSpeech": "vb",
+    "definition": "he looked at him [Bear and Crane G], he glared at him [GT, MMc 1/15/99]",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "gacsik'lutk": {
+    "root": "gacsik'lutk",
+    "partOfSpeech": "vb",
+    "definition": "he looked at him",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "gacsubna": {
+    "root": "gacsubna",
+    "partOfSpeech": "vb",
+    "definition": "he jumped",
+    "seeAlso": [
+      "-s-BNA"
+    ]
+  },
+  "gacsubnayu": {
+    "root": "gacsubnayu",
+    "partOfSpeech": "vb",
+    "definition": "they[i-] each jumped",
+    "seeAlso": [
+      "-s-BNA"
+    ]
+  },
+  "gacsug̲icxaba": {
+    "root": "gacsug̲icxaba",
+    "partOfSpeech": "vb",
+    "definition": "he defecated them 2",
+    "notes": [
+      "This is a \"talking small\" form; compare -chxa, -qichxa."
+    ],
+    "seeAlso": [
+      "-qi-CXA-pa"
+    ]
+  },
+  "gacsukw'itkax": {
+    "root": "gacsukw'itkax",
+    "partOfSpeech": "vb",
+    "definition": "he looked at them",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "gacsulxam": {
+    "root": "gacsulxam",
+    "partOfSpeech": "vb",
+    "definition": "he told them 2",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gacsúx": {
+    "root": "gacsúx",
+    "partOfSpeech": "vb",
+    "definition": "he made it[ish-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gacłsk'lútk": {
+    "root": "gacłsk'lútk",
+    "partOfSpeech": "vb",
+    "definition": "he looked at him[ił-]",
+    "seeAlso": [
+      "-s-k'l-TK"
     ]
   },
   "galishgluya": {
@@ -19349,6 +19584,56 @@
     ],
     "seeAlso": [
       "i-duiha, i-giwaq"
+    ]
+  },
+  "i-gaben": {
+    "root": "i-gaben",
+    "partOfSpeech": "n",
+    "definition": "digging stick, kapn",
+    "forms": [
+      {
+        "kiksht": "ishgaben",
+        "english": "2 digging sticks [HS 7/22/51]"
+      },
+      {
+        "kiksht": "iłgaben",
+        "english": "digging sticks [Dyk, HS 7/22/51]"
+      }
+    ]
+  },
+  "i-gabmint": {
+    "root": "i-gabmint",
+    "partOfSpeech": "n",
+    "definition": "government",
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
+  "i-gabnashq": {
+    "root": "i-gabnashq",
+    "partOfSpeech": "n",
+    "definition": "oak sapling",
+    "forms": [
+      {
+        "kiksht": "igábnashqmax",
+        "english": "oak saplings [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-gábnashg̲lit, ił-nachkan"
+    ]
+  },
+  "i-gábenash": {
+    "root": "i-gábenash",
+    "partOfSpeech": "n",
+    "definition": "young oak"
+  },
+  "i-gábnashg̲lit": {
+    "root": "i-gábnashg̲lit",
+    "partOfSpeech": "n",
+    "definition": "grove of oak sap- lings",
+    "seeAlso": [
+      "i-gabnashq, ił-nachkan"
     ]
   },
   "i-k'ámunaq": {

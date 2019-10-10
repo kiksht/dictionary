@@ -5796,3 +5796,112 @@ See also: -x-k-WICHA-tk
 
 ‘ex [part] transform, exert spirit power on, create
 Examples: ‘Ex galixux iq’iuqt. “He transformed himself into an old man.” ‘Ex ikiax. “He is transformed.” I¬chqwÅ ‘ex gach¬ux. “He created the water.” [Dyk] Qidau ‘ex gachiux isk’ulya ich’ixyan. “Thus Coyote transformed the water-monster.” (i.e., made him harmless) [WTI.1l.3] ‘Ex gachiux ich’inun, idia¬xiwulx gachdilux ich’inun ikuma. “Eagle exerted spirit power on it, Eagle put strength into the cottonwood.” [WTI.4.14]
+
+
+
+
+
+
+
+i-gaben [n] digging stick, kapn
+Forms: ishgaben “2 digging sticks” [HS 7/22/51] i¬gaben “digging sticks” [Dyk, HS 7/22/51]
+
+i-gÅbenash [n] young oak
+
+Notes: Refers to oak of which igaben, digging stick, is made.
+See also: i-gaben
+
+i-gabmint [n] government
+Notes: Borrowed from English.
+
+i-gÅbnash©lit [n] grove of oak sap- lings
+See also: i-gabnashq, i¬-nachkan
+
+i-gabnashq [n] oak sapling
+Forms: igÅbnashqmax “oak saplings” [Dyk]
+See also: i-gÅbnash©lit, i¬-nachkan
+
+a-gabu [n] coat, jacket
+Forms: i¬gabu “(any) coat” itgÅbumax “coats” [Dyk] ishgabu “regular coat” [HS 7/14/54]
+Examples: ichat¬qt agabu “overcoat, long coat” agabu ichaxu “coat sleeve” [Dyk] Amxl ̈x chaxel¬ixbama amigabu. “Put on your winter coat.” [GT, MMc]
+Notes: Related to Warm Springs kap ̈. Both are probably borrowed from French capot through Chinook Jargon.
+
+chaxel¬ixbama agabu [n] winter coat
+Notes: Literally “for (-bama) winter (chaxel¬ix-) coat (agabu).”
+See also: a-gabu
+
+gacalcgima [vb] he laid her down belly-up
+See also: -l-CGI-ma
+
+gaciukwshtam [vb] he went to look for him
+See also: -KSHT-am
+
+gack¬sk’l ̈tk [vb] he looked at them
+See also: -s-k’l-TK
+
+gac¬sk’l ̈tk [vb] he looked at him[i¬-]
+See also: -s-k’l-TK
+
+gacsiglutk [vb] he looked at him [Bear and Crane G], he glared at him [GT, MMc 1/15/99]
+See also: -s-k’l-TK
+
+gacsik’lutk [vb] he looked at him
+See also: -s-k’l-TK
+
+gacsubna [vb] he jumped
+See also: -s-BNA
+
+gacsubnayu [vb] they[i-] each jumped
+See also: -s-BNA
+
+gacsukw’itkax [vb] he looked at them
+See also: -s-k’l-TK
+
+gacsulxam [vb] he told them 2
+See also: -LXAM
+
+gacs ̈x [vb] he made it[ish-]
+See also: - ̨
+
+gacsu©icxaba [vb] he defecated them 2
+Notes: This is a “talking small” form; compare -chxa, -qichxa.
+See also: -qi-CXA-pa
+
+gachagelga [vb] he took hold of it[a-] [WTI.2.4, 13.2], he took hold of her [WTI.12.8, 14.3]
+See also: -gl-GA
+
+gachagelgax [vb] he took it[a-]
+See also: -gl-GA
+
+gachagél¬ada [vb] he threw them[a-] at her
+See also: -ÒADA
+
+gachagelxim [vb] he called her
+See also: -gl-XIM
+
+gacha©elgelx [vb] he saw her
+See also: -©l-KL
+
+gacha©elkel [vb] he saw her [WTI.1b1], he saw it[a-] [WTI.13.2,3]
+Pronunciation: ga-cha-©él-kel [WTI.1b1] ga-chÅ-©el-kel [WTI.13.2]
+See also: -©l-KL
+
+gachaigenxda [vb] he wound it[a-] on it[i-]
+See also: -k-NXDA
+
+gachaiktquix [vb] he turned her over
+See also: -i-k-TQW-ix
+
+gachailagwa [vb] he hit him with it[a-]
+See also: -l-LA-kw
+
+gachailut [vb] he gave it[a-] to him
+See also: -T
+
+
+
+
+
+
+
+
