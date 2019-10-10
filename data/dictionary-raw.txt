@@ -10340,3 +10340,52 @@ See also: i-gigwilal, xaxagwit
 
 -GWI-chu [vb] drop, drop down
 Forms: gach¬ilgwichu “he dropped them down into him” [WTI.17.17]
+
+
+
+
+
+
+
+
+
+
+-l-GWI-chu [vb] drop into, throw into, fill with
+Forms: gach¬ilgwichu “he filled it[i-] with them (by throwing or dropping into it)” ga¬ixelgwichu “he filled himself with them [Dyk]; he threw them down in himself [WTI.17.16]
+
+-GWI-kw [vb] lift
+Forms: chiakgwˆkwt “he has it[i-] lifted over her” [Dyk]
+
+-GWI-¬x [vb] take to water, carry to water, take to fire, put in fire
+Forms: ch¬ugwi¬xt “he is taking them to water” ichukwi¬x “he carried her to the edge of the water” ichiukwi¬x “he put it[i-] in fire, on fire” [Dyk]
+
+-gma-GWI-¬x [vb] remove from, throw from
+Forms: ch¬ugmatgwˆ¬xt “he is remov- ing them from it (for instance, a wall) (in that direction)” ch¬ugmatgwˆ¬xt “he is removing them from it (for instance, a wall) (in this direction)” ichtugmagwi¬x “he threw them from it (a wall)” [Dyk]
+
+-GWI-pa [vb] throw out, discard
+Forms: gachiugwiba “he threw them[i-] out (one at a time)” gachttgwiba “he threw them out (one at a time, this way)” [Dyk] dugwipx, ¬ugwipx “they are thrown out, dis- carded” [PK 8/19/55] dugwipxix “they have been thrown out” [Dyk]
+Notes: Used only with objects plural in meaning.
+
+-GWI-pchk [vb] remove, carry away
+Forms: ch¬ugwˆpchkt “he is removing them (in that direction) [Dyk]; he is pulling them out of the water [GT 6/ 5/98]” che¬tgwˆpchkt “he is removing them (in this direction) [Dyk].”
+Notes: Dyk’s translations do not mention removing from fire or water, as one would expect from -pchk, which refers to motion from water; Gladys Thompson’s translation does include this element.
+
+-x-GWI-qw [vb] throw away
+Forms: anshguxwagwilq¬a “we (not including you) will throw them away (one at a time)” chaxgwiqwt “he has it[a-] thrown away” chaxgwˆlq¬ “he is throwing it[a-] away” chuxwagwilq¬, ch¬xgwˆlq¬ “he is throwing them away (one at a time)” qixgwilq¬ “it[i-] is being thrown away” ich¬xgwilq¬chk “he threw them away (one by one)” nichixatgwilq¬ “he was throwing them away (one by one, last week)” ixxagwilq¬ “he is throwing himself away; his is throwing it[i-] which belongs to him away” ik’ixagwilq¬ “he is throwing away” ixgwiqux “they[i-] are thrown away” [Dyk]
+
+-GWI-wulx [vb] raise, lift
+Forms: chiaxatgwiwulxt “he was raising them[i-] from her” chdashxatgwiwulxt “he was raising his legs high with knees bent (either walking or standing)” [Dyk]
+
+-sh-i-n-GWIYA-dix [vb] lie down on bent knees, kneel
+Forms: chshingwiyadix “he is lying down” [Spilyay/Animal Sentences] kshˆtgwiyadix “she (an animal) was lying down” [GT 1/15/99]
+Examples: Kshˆngwiyadix ad ̈iha “The cow is lying down on bent knees.” [GT 1/15/99]
+Notes: Refers to being down on bent knees: kneeling in the case of a per- son, lying in the case of a quadruped.
+
+gwutgwut [part] exhaust, tire out
+Examples: Gwutgwut kiuxt abaks. “The box is tiring him out (by being too heavy).” [Dyk]
+Notes: Gladys Thompson [1/15/99] says that this refers to an object that is too heavy (to handle).
+See also: dagwatgwÅt, gutgut
+
+©adademt [adv] in Klickitat language
+Examples: Ixlp’alaulal ©adademt. “He is speaking Klickitat.”
+See also: -©adat, i-©adatxul

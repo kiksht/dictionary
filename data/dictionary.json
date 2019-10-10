@@ -1558,6 +1558,95 @@
       }
     ]
   },
+  "-GWI-kw": {
+    "root": "-GWI-kw",
+    "partOfSpeech": "vb",
+    "definition": "lift",
+    "forms": [
+      {
+        "kiksht": "chiakgwíkwt",
+        "english": "he has it[i-] lifted over her [Dyk]"
+      }
+    ]
+  },
+  "-GWI-pa": {
+    "root": "-GWI-pa",
+    "partOfSpeech": "vb",
+    "definition": "throw out, discard",
+    "forms": [
+      {
+        "kiksht": "gachiugwiba",
+        "english": "he threw them[i-] out (one at a time)"
+      },
+      {
+        "kiksht": "gachttgwiba",
+        "english": "he threw them out (one at a time, this way) [Dyk]"
+      },
+      {
+        "kiksht": "dugwipx, ługwipx",
+        "english": "they are thrown out, dis- carded [PK 8/19/55]"
+      },
+      {
+        "kiksht": "dugwipxix",
+        "english": "they have been thrown out [Dyk]"
+      }
+    ],
+    "notes": [
+      "Used only with objects plural in meaning."
+    ]
+  },
+  "-GWI-pchk": {
+    "root": "-GWI-pchk",
+    "partOfSpeech": "vb",
+    "definition": "remove, carry away",
+    "forms": [
+      {
+        "kiksht": "chługwípchkt",
+        "english": "he is removing them (in that direction) [Dyk]; he is pulling them out of the water [GT 6/ 5/98]"
+      },
+      {
+        "kiksht": "chełtgwípchkt",
+        "english": "he is removing them (in this direction) [Dyk]."
+      }
+    ],
+    "notes": [
+      "Dyk's translations do not mention removing from fire or water, as one would expect from -pchk, which refers to motion from water; Gladys Thompson's translation does include this element."
+    ]
+  },
+  "-GWI-wulx": {
+    "root": "-GWI-wulx",
+    "partOfSpeech": "vb",
+    "definition": "raise, lift",
+    "forms": [
+      {
+        "kiksht": "chiaxatgwiwulxt",
+        "english": "he was raising them[i-] from her"
+      },
+      {
+        "kiksht": "chdashxatgwiwulxt",
+        "english": "he was raising his legs high with knees bent (either walking or standing) [Dyk]"
+      }
+    ]
+  },
+  "-GWI-łx": {
+    "root": "-GWI-łx",
+    "partOfSpeech": "vb",
+    "definition": "take to water, carry to water, take to fire, put in fire",
+    "forms": [
+      {
+        "kiksht": "chługwiłxt",
+        "english": "he is taking them to water"
+      },
+      {
+        "kiksht": "ichukwiłx",
+        "english": "he carried her to the edge of the water"
+      },
+      {
+        "kiksht": "ichiukwiłx",
+        "english": "he put it[i-] in fire, on fire [Dyk]"
+      }
+    ]
+  },
   "-a-gl-CHKW'AYA-mit": {
     "root": "-a-gl-CHKW'AYA-mit",
     "partOfSpeech": "vb",
@@ -2456,6 +2545,25 @@
       }
     ]
   },
+  "-gma-GWI-łx": {
+    "root": "-gma-GWI-łx",
+    "partOfSpeech": "vb",
+    "definition": "remove from, throw from",
+    "forms": [
+      {
+        "kiksht": "chługmatgwíłxt",
+        "english": "he is remov- ing them from it (for instance, a wall) (in that direction)"
+      },
+      {
+        "kiksht": "chługmatgwíłxt",
+        "english": "he is removing them from it (for instance, a wall) (in this direction)"
+      },
+      {
+        "kiksht": "ichtugmagwiłx",
+        "english": "he threw them from it (a wall) [Dyk]"
+      }
+    ]
+  },
   "-gwalac'inc'in": {
     "root": "-gwalac'inc'in",
     "partOfSpeech": "n",
@@ -3131,6 +3239,17 @@
       }
     ]
   },
+  "-l-GWI-chu": {
+    "root": "-l-GWI-chu",
+    "partOfSpeech": "vb",
+    "definition": "drop into, throw into, fill with",
+    "forms": [
+      {
+        "kiksht": "gachłilgwichu",
+        "english": "he filled it[i-] with them (by throwing or dropping into it)"
+      }
+    ]
+  },
   "-l-xa-GLA-qłq-mit": {
     "root": "-l-xa-GLA-qłq-mit",
     "partOfSpeech": "vb",
@@ -3567,6 +3686,30 @@
     ],
     "seeAlso": [
       "ish- -ditł'i"
+    ]
+  },
+  "-sh-i-n-GWIYA-dix": {
+    "root": "-sh-i-n-GWIYA-dix",
+    "partOfSpeech": "vb",
+    "definition": "lie down on bent knees, kneel",
+    "forms": [
+      {
+        "kiksht": "chshingwiyadix",
+        "english": "he is lying down [Spilyay/Animal Sentences]"
+      },
+      {
+        "kiksht": "kshítgwiyadix",
+        "english": "she (an animal) was lying down [GT 1/15/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Kshíngwiyadix adúiha",
+        "english": "The cow is lying down on bent knees. [GT 1/15/99]"
+      }
+    ],
+    "notes": [
+      "Refers to being down on bent knees: kneeling in the case of a per- son, lying in the case of a quadruped."
     ]
   },
   "-sh-k'-CHXI-qw": {
@@ -4336,6 +4479,53 @@
       {
         "kiksht": "shixglagwax",
         "english": "he knows about them 2"
+      }
+    ]
+  },
+  "-x-GWI-qw": {
+    "root": "-x-GWI-qw",
+    "partOfSpeech": "vb",
+    "definition": "throw away",
+    "forms": [
+      {
+        "kiksht": "anshguxwagwilqła",
+        "english": "we (not including you) will throw them away (one at a time)"
+      },
+      {
+        "kiksht": "chaxgwiqwt",
+        "english": "he has it[a-] thrown away"
+      },
+      {
+        "kiksht": "chaxgwílqł",
+        "english": "he is throwing it[a-] away"
+      },
+      {
+        "kiksht": "chuxwagwilqł, chłxgwílqł",
+        "english": "he is throwing them away (one at a time)"
+      },
+      {
+        "kiksht": "qixgwilqł",
+        "english": "it[i-] is being thrown away"
+      },
+      {
+        "kiksht": "ichłxgwilqłchk",
+        "english": "he threw them away (one by one)"
+      },
+      {
+        "kiksht": "nichixatgwilqł",
+        "english": "he was throwing them away (one by one, last week)"
+      },
+      {
+        "kiksht": "ixxagwilqł",
+        "english": "he is throwing himself away; his is throwing it[i-] which belongs to him away"
+      },
+      {
+        "kiksht": "ik'ixagwilqł",
+        "english": "he is throwing away"
+      },
+      {
+        "kiksht": "ixgwiqux",
+        "english": "they[i-] are thrown away [Dyk]"
       }
     ]
   },
@@ -28780,6 +28970,23 @@
       "gup, kw'ap"
     ]
   },
+  "gwutgwut": {
+    "root": "gwutgwut",
+    "partOfSpeech": "part",
+    "definition": "exhaust, tire out",
+    "examples": [
+      {
+        "kiksht": "Gwutgwut kiuxt abaks.",
+        "english": "The box is tiring him out (by being too heavy). [Dyk]"
+      }
+    ],
+    "notes": [
+      "Gladys Thompson [1/15/99] says that this refers to an object that is too heavy (to handle)."
+    ],
+    "seeAlso": [
+      "dagwatgwát, gutgut"
+    ]
+  },
   "gwánisem": {
     "root": "gwánisem",
     "partOfSpeech": "adv",
@@ -28830,6 +29037,20 @@
     ],
     "seeAlso": [
       "-X̲"
+    ]
+  },
+  "g̲adademt": {
+    "root": "g̲adademt",
+    "partOfSpeech": "adv",
+    "definition": "in Klickitat language",
+    "examples": [
+      {
+        "kiksht": "Ixlp'alaulal g̲adademt.",
+        "english": "He is speaking Klickitat."
+      }
+    ],
+    "seeAlso": [
+      "-g̲adat, i-g̲adatxul"
     ]
   },
   "i- -bagúmxch": {
