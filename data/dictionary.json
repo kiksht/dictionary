@@ -6775,45 +6775,20 @@
   "-x-YA-mit": {
     "root": "-x-YA-mit",
     "partOfSpeech": "vb",
-    "definition": "erase, rub off, obliter- ate",
+    "definition": "line up, sight",
     "forms": [
       {
-        "kiksht": "achaxyámida",
-        "english": "he will erase it[a-]"
+        "kiksht": "chditxyamit",
+        "english": "he has lined them up"
       },
       {
-        "kiksht": "chnxyámalit",
-        "english": "he is erasing me"
+        "kiksht": "chdiguxyamit",
+        "english": "he's lining them up in it[i-]"
       },
       {
-        "kiksht": "chnxadíamalit",
-        "english": "he was erasing me"
-      },
-      {
-        "kiksht": "ichaxíamit",
-        "english": "he erased it[a-], rubbed it off, obliterated it"
-      },
-      {
-        "kiksht": "inixyamit",
-        "english": "I erased it[i-]"
-      },
-      {
-        "kiksht": "ixíamitix",
-        "english": "it[i-] has been erased"
-      },
-      {
-        "kiksht": "igixyámixit",
-        "english": "it[i-] became erased [Dyk]"
+        "kiksht": "initxiamit!",
+        "english": "sight it[i-] to me! [PK 7/31/56]"
       }
-    ],
-    "examples": [
-      {
-        "kiksht": "Alixyámixida ishg̲íłti engi.",
-        "english": "It[a-] will become erased by the rain. [Dyk]"
-      }
-    ],
-    "seeAlso": [
-      "-x-LA-mit"
     ]
   },
   "-x-gi-CHM-g̲wa-mit": {
@@ -7234,6 +7209,45 @@
       {
         "kiksht": "gashxitgáyuwam",
         "english": "they 2 came to fight [Dyk]"
+      }
+    ]
+  },
+  "-xl-YA-mit": {
+    "root": "-xl-YA-mit",
+    "partOfSpeech": "vb",
+    "definition": "line up, sight",
+    "forms": [
+      {
+        "kiksht": "anuxwíamida",
+        "english": "I will line them up"
+      },
+      {
+        "kiksht": "nuxwíyamit",
+        "english": "I am lining them up, have them lined up"
+      },
+      {
+        "kiksht": "chuxwíamit",
+        "english": "he is lining them up"
+      },
+      {
+        "kiksht": "chuxlúyamalit",
+        "english": "he is lining them up (continuously)"
+      },
+      {
+        "kiksht": "łxlúyamitix",
+        "english": "they have been lines up (someone lined them up and left them so)"
+      },
+      {
+        "kiksht": "iguxwiamixit",
+        "english": "they became lined up [Dyk]"
+      },
+      {
+        "kiksht": "anuxwídyamida",
+        "english": "I will line them up (distant future)"
+      },
+      {
+        "kiksht": "uxwíamit!",
+        "english": "line them up! [PK 7/31/56]"
       }
     ]
   },
@@ -33081,6 +33095,14 @@
       "i-ch'axwi iyakikwchan i-ch'axwi"
     ]
   },
+  "i-ch'axwi iyakikwchan": {
+    "root": "i-ch'axwi iyakikwchan",
+    "partOfSpeech": "n",
+    "definition": "mail car- rier, mailman",
+    "seeAlso": [
+      "i-ch'axwi"
+    ]
+  },
   "i-ch'emqał": {
     "root": "i-ch'emqał",
     "partOfSpeech": "n",
@@ -35542,6 +35564,87 @@
       }
     ]
   },
+  "i-k'íwulal": {
+    "root": "i-k'íwulal",
+    "partOfSpeech": "n",
+    "definition": "root-digging",
+    "forms": [
+      {
+        "kiksht": "idak'íwulal",
+        "english": "they are root diggers [CLL15]"
+      }
+    ],
+    "notes": [
+      "An alternate form of i-k'iulal."
+    ],
+    "seeAlso": [
+      "-LA"
+    ]
+  },
+  "iagluxtix": {
+    "root": "iagluxtix",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] is done for it[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iag̲elpx": {
+    "root": "iag̲elpx",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] flows from her",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "ialuxt": {
+    "root": "ialuxt",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] sits in it[a-]",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
+  "iaxilax": {
+    "root": "iaxilax",
+    "partOfSpeech": "vb",
+    "definition": "she eats him",
+    "seeAlso": [
+      "-xi-LAX̲"
+    ]
+  },
+  "ibalauyamt": {
+    "root": "ibalauyamt",
+    "partOfSpeech": "adv",
+    "definition": "unexpectedly"
+  },
+  "icacumit (a)waskán": {
+    "root": "icacumit (a)waskán",
+    "partOfSpeech": "n",
+    "definition": "cooler, refrig- erator",
+    "seeAlso": [
+      "wa-skán, i-cumit"
+    ]
+  },
+  "icak'aic wakshén": {
+    "root": "icak'aic wakshén",
+    "partOfSpeech": "n",
+    "definition": "pinky, little finger",
+    "seeAlso": [
+      "wa-kshén, i- -k'aic"
+    ]
+  },
+  "ichachachaq akłmín": {
+    "root": "ichachachaq akłmín",
+    "partOfSpeech": "n",
+    "definition": "January",
+    "notes": [
+      "Means \"cold month.\" Some people also cited wachg̲en akłmín as a name for January. [DH]"
+    ],
+    "seeAlso": [
+      "i-chachaq, wachg̲en akłmín"
+    ]
+  },
   "id-elxam": {
     "root": "id-elxam",
     "partOfSpeech": "n",
@@ -35587,6 +35690,41 @@
     "definition": "bathing place",
     "seeAlso": [
       "-g̲wat, i-g̲watuł"
+    ]
+  },
+  "id-iachxwanix": {
+    "root": "id-iachxwanix",
+    "partOfSpeech": "n",
+    "definition": "xaush place, place that has xaush",
+    "seeAlso": [
+      "wa-chxwán"
+    ]
+  },
+  "id-iag̲iwam": {
+    "root": "id-iag̲iwam",
+    "partOfSpeech": "n",
+    "definition": "medicine man, twati",
+    "seeAlso": [
+      "it-g̲iwam"
+    ]
+  },
+  "id-iamshti'wix": {
+    "root": "id-iamshti'wix",
+    "partOfSpeech": "n",
+    "definition": "serviceberry place",
+    "seeAlso": [
+      "i-mst'iwiq"
+    ]
+  },
+  "id-iaxílalit": {
+    "root": "id-iaxílalit",
+    "partOfSpeech": "n",
+    "definition": "doctor, Indian doctor, possessor of powers",
+    "notes": [
+      "Originally used of Indian doctor, but now sometimes used of Anglo-style doctor as well."
+    ],
+    "seeAlso": [
+      "it-xílalit, i-dakta"
     ]
   },
   "id-náchk": {
@@ -35917,6 +36055,14 @@
     ],
     "seeAlso": [
       "i-qwit, -shtk, -QWIM"
+    ]
+  },
+  "ish-iak'iwax": {
+    "root": "ish-iak'iwax",
+    "partOfSpeech": "n",
+    "definition": "great big domestic sunflower",
+    "seeAlso": [
+      "it-k'iwax"
     ]
   },
   "ishktälgwipchk": {
@@ -36968,6 +37114,52 @@
       "ił-xulit"
     ]
   },
+  "ił-iabaumax": {
+    "root": "ił-iabaumax",
+    "partOfSpeech": "n",
+    "definition": "bear berries",
+    "notes": [
+      "Refers to red berries eaten by bears, not otherwise identified."
+    ]
+  },
+  "ił-iak'ánanamstaq": {
+    "root": "ił-iak'ánanamstaq",
+    "partOfSpeech": "n",
+    "definition": "plant with white flowers that grows all over",
+    "notes": [
+      "There is a story about Grass- hopper jumping on iłiak'ánanamstaq in a fire; when one burned he would jump to another one."
+    ],
+    "seeAlso": [
+      "i-k'ananamshtaq"
+    ]
+  },
+  "ił-iamalks": {
+    "root": "ił-iamalks",
+    "partOfSpeech": "n",
+    "definition": "squared timber",
+    "seeAlso": [
+      "wa-mal"
+    ]
+  },
+  "ił-iasul": {
+    "root": "ił-iasul",
+    "partOfSpeech": "n",
+    "definition": "salted salmon",
+    "notes": [
+      "Literally \"it is salted\": ił-ia-sul. See ił- -sul."
+    ],
+    "seeAlso": [
+      "ił- -sul"
+    ]
+  },
+  "ił-iaxipsdalal": {
+    "root": "ił-iaxipsdalal",
+    "partOfSpeech": "n",
+    "definition": "small bug resem- bling a yellow jacket that digs into the ground",
+    "seeAlso": [
+      "ił-qipsdalal"
+    ]
+  },
   "kinwa": {
     "root": "kinwa",
     "partOfSpeech": "adv",
@@ -37337,6 +37529,43 @@
       "i-sk'imks, ił-katichk"
     ]
   },
+  "wa-ich": {
+    "root": "wa-ich",
+    "partOfSpeech": "n",
+    "definition": "tail",
+    "forms": [
+      {
+        "kiksht": "idichkáksh [Dyk, PK], idichxaksh [HS 8/5/56]",
+        "english": "tails (cut off and lying around)"
+      },
+      {
+        "kiksht": "agích",
+        "english": "my tail"
+      },
+      {
+        "kiksht": "amích",
+        "english": "your tail"
+      },
+      {
+        "kiksht": "ayáich",
+        "english": "his tail"
+      },
+      {
+        "kiksht": "agáich",
+        "english": "her tail"
+      },
+      {
+        "kiksht": "itłáich",
+        "english": "their tails"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Axdau waich aximat.",
+        "english": "That tail is lying."
+      }
+    ]
+  },
   "wi-ck'entłex": {
     "root": "wi-ck'entłex",
     "partOfSpeech": "n",
@@ -37527,6 +37756,14 @@
         "kiksht": "Amigemgíkwdia áwachi k'aya?",
         "english": "Will you pay him or not? [Dyk] ="
       }
+    ]
+  },
+  "ł-iaxaluksh": {
+    "root": "ł-iaxaluksh",
+    "partOfSpeech": "n",
+    "definition": "stalk that comes up and blooms (apparently a specific plant, as yet unidentified)",
+    "seeAlso": [
+      "i-xala"
     ]
   }
 }
