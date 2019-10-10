@@ -24580,6 +24580,46 @@
       "-KŁ-am"
     ]
   },
+  "gashgiulxam": {
+    "root": "gashgiulxam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 told him",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gashgiunaxtłam": {
+    "root": "gashgiunaxtłam",
+    "partOfSpeech": "vb",
+    "definition": "they two went to look for him",
+    "seeAlso": [
+      "-NAX̲TŁ"
+    ]
+  },
+  "gashgiux": {
+    "root": "gashgiux",
+    "partOfSpeech": "vb",
+    "definition": "they 2 did it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gashgiwa": {
+    "root": "gashgiwa",
+    "partOfSpeech": "vb",
+    "definition": "they 2 pursued him",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "gashgiwaq": {
+    "root": "gashgiwaq",
+    "partOfSpeech": "vb",
+    "definition": "they 2 killed him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
   "gashgiłkwax": {
     "root": "gashgiłkwax",
     "partOfSpeech": "vb",
@@ -24588,12 +24628,250 @@
       "-ŁKW"
     ]
   },
+  "gashgluma": {
+    "root": "gashgluma",
+    "partOfSpeech": "vb",
+    "definition": "they sang out",
+    "seeAlso": [
+      "-k-LUMA"
+    ]
+  },
+  "gashgugwalmam": {
+    "root": "gashgugwalmam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went to get her",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "gashgugwamit": {
+    "root": "gashgugwamit",
+    "partOfSpeech": "vb",
+    "definition": "they 2 flew off with it[a-]",
+    "seeAlso": [
+      "-KA-mit"
+    ]
+  },
+  "gashgugwámidaulx": {
+    "root": "gashgugwámidaulx",
+    "partOfSpeech": "vb",
+    "definition": "they 2 flew up with it[a-]",
+    "seeAlso": [
+      "-KA, -KA-mit, -WULX"
+    ]
+  },
+  "gashgukchanemx": {
+    "root": "gashgukchanemx",
+    "partOfSpeech": "vb",
+    "definition": "they 2 carried it[a-] about with them",
+    "seeAlso": [
+      "-k-CHA"
+    ]
+  },
+  "gashgukłam": {
+    "root": "gashgukłam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 brought it[a- ]",
+    "seeAlso": [
+      "-KŁ, -KŁ-am"
+    ]
+  },
+  "gashgula": {
+    "root": "gashgula",
+    "partOfSpeech": "vb",
+    "definition": "they 2 sharpened it[a-]",
+    "seeAlso": [
+      "-LA"
+    ]
+  },
+  "gashgulxam": {
+    "root": "gashgulxam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 told her",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gashgunaxtłx": {
+    "root": "gashgunaxtłx",
+    "partOfSpeech": "vb",
+    "definition": "they 2 looked for her",
+    "seeAlso": [
+      "-NAX̲TŁ"
+    ]
+  },
+  "gashguwaq": {
+    "root": "gashguwaq",
+    "partOfSpeech": "vb",
+    "definition": "they 2 killed her",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gashguxwaqwiq": {
+    "root": "gashguxwaqwiq",
+    "partOfSpeech": "vb",
+    "definition": "they two threw them down"
+  },
   "gashgíukł": {
     "root": "gashgíukł",
     "partOfSpeech": "vb",
     "definition": "they two carried him",
     "seeAlso": [
       "-KŁ"
+    ]
+  },
+  "gashgíushxux": {
+    "root": "gashgíushxux",
+    "partOfSpeech": "vb",
+    "definition": "he cut him up"
+  },
+  "gashgíułada": {
+    "root": "gashgíułada",
+    "partOfSpeech": "vb",
+    "definition": "they two threw it[i- ] down",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "gashildaulx": {
+    "root": "gashildaulx",
+    "partOfSpeech": "vb",
+    "definition": "they two jumped up into him",
+    "seeAlso": [
+      "-TA, -WULX"
+    ]
+  },
+  "gashixelq'iłx": {
+    "root": "gashixelq'iłx",
+    "partOfSpeech": "vb",
+    "definition": "he cried",
+    "seeAlso": [
+      "-sh-xl-Q'IŁX̲, -sh-xl- G̲IŁX̲"
+    ]
+  },
+  "gashkchax": {
+    "root": "gashkchax",
+    "partOfSpeech": "vb",
+    "definition": "they 2 cried out",
+    "seeAlso": [
+      "-k-CHAX̲"
+    ]
+  },
+  "gashkdixux": {
+    "root": "gashkdixux",
+    "partOfSpeech": "vb",
+    "definition": "they 2 did them from him",
+    "examples": [
+      {
+        "kiksht": "Dakdák gashkdixux itgaxaxwálagadit.",
+        "english": "They loosened their claws from him. [WTI.4.22]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gashkengmatxáulutkwaichk": {
+    "root": "gashkengmatxáulutkwaichk",
+    "partOfSpeech": "vb",
+    "definition": "they 2 took pity on me",
+    "seeAlso": [
+      "-gm-XAULUT-kw"
+    ]
+  },
+  "gashkim": {
+    "root": "gashkim",
+    "partOfSpeech": "vb",
+    "definition": "they 2 said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "gashkiux": {
+    "root": "gashkiux",
+    "partOfSpeech": "vb",
+    "definition": "they 2 did to him, they 2 made him",
+    "examples": [
+      {
+        "kiksht": "Shdaushtax isk'ulya gashkiux kw'álalak.",
+        "english": "Those two made Coyote crazy. [WTI.1b2]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gashkshg̲elkel": {
+    "root": "gashkshg̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "they 2 saw them 2",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gashkshilut": {
+    "root": "gashkshilut",
+    "partOfSpeech": "vb",
+    "definition": "they 2 gave it[ish-] to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gashkshixshkam": {
+    "root": "gashkshixshkam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 took it[ish-] away from him",
+    "seeAlso": [
+      "-SHKAM"
+    ]
+  },
+  "gashkshugulaqłq": {
+    "root": "gashkshugulaqłq",
+    "partOfSpeech": "vb",
+    "definition": "they two rec- ognized them two",
+    "seeAlso": [
+      "-GULA-qłq"
+    ]
+  },
+  "gashkshugwalmam": {
+    "root": "gashkshugwalmam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went to fetch them 2, they 2 went to bring them 2 back",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "gashkshuwa": {
+    "root": "gashkshuwa",
+    "partOfSpeech": "vb",
+    "definition": "they 2 pursued them 2",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "gashkshúksht": {
+    "root": "gashkshúksht",
+    "partOfSpeech": "vb",
+    "definition": "they 2 looked at them 2",
+    "seeAlso": [
+      "-KSHT"
+    ]
+  },
+  "gashkłxlémchk": {
+    "root": "gashkłxlémchk",
+    "partOfSpeech": "vb",
+    "definition": "they 2 ate",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "gashkłáxłlama": {
+    "root": "gashkłáxłlama",
+    "partOfSpeech": "vb",
+    "definition": "they 2 heated them",
+    "seeAlso": [
+      "-x-ŁLA-ma"
     ]
   },
   "gasixelcgi": {
