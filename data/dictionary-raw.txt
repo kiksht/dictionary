@@ -11179,3 +11179,35 @@ Forms: indiam “I came here to go” imdiam “you came here to go” igidiam �
 -I-am-am [vb] get there in order to go, go to go
 Forms: n ̈yamamt “I am going to get there to go” in ̈yamam “I got there to go” itgiamam “they went to go, got there to go” nanuyamama “I got there to go” [Dyk]
 Examples: Gay ̈amam makwapt k’aya gayuyam. “He went to get there but he never got there.” [Dyk]
+
+
+
+
+
+-d-I-mam [vb] arrive, get here, come
+Forms: andˆmama “I’ll get here” atgadˆmama “they’ll get there” endimamt “I’m a newcomer, I just arrived” indimam “I got here” imdimam “you got here” igidimam “he got there” igadimam “she got here” i¬dimam “it got there” inshdimam “we (not including you) got here” itgadimam “they got here” nandˆmama “I got here” nindimam “I got here” gandimam “I got here” galidimam “he got here” [Dyk]
+Examples: Koshk indimam. “I re- turned empty-handed.” NagwÅtx ndimamx. “I wish I came there, were there.” [Dyk]
+See also: -i, -i-am, -i-am-am
+
+-i-x-YA-mid-ix [vb] not let one do as one should, prevent one from doing what one cannot later take up again
+Forms: nix ̈yamidix “I am not letting him do what he naturally should (as go to school, get married, etc.)” nichaixadyÅmidix “he prevented her (last week)” aix ̈yamidix “she has been prevented” [Dyk] gachaixadiamidagwaix “he caused her not to (get married, go to school, get educated, visit relatives, etc.), he caused her to miss out (on something important of that sort)” [PK 6/26/ 56] aixuyamidix! “don’t let her do (something she should naturally do)!” nix ̈yamidix “I didn’t go to school and now it’s too late (i.e., I was prevented from going)” enshix ̈yamidix “we were prevented (from doing what we naturally should have done)” [PK 7/31/56]
+Examples: Aix ̈yamidix ikala engi. “She has been prevented (from doing what she should) by the man.” [Dyk]
+Notes: This verb literally means “be (-ix) caused (-mid-) to go (-ya-) from (-x-) it[i-] (-i-).”
+
+-l-u-YA-mit [vb] line up with, put in line with
+Forms: chail ̈yamit “he is lining them[a-] up with it[i-], putting them in line with it” [Dyk]
+Notes: This verb literally means “cause (-mit) to go (-uya, compare aluya “she will go” under verb -i-) to (-l-).”
+
+-l-x-YA-mit [vb] line up with, line up to, sight up with
+Forms: chailxˆamit “he is sighting it[a-] up with it[i-]” inailxˆamit “I sighted it[a-] up with it[i-]” [Dyk] chdilxyamit “he is lining them up to it[i-]” andilxiÅmida “I will line them up to it[i-]” [PK 7/31/56]
+See also: i-qiamitix
+
+-¬-l-u-YA-mit [vb] stain, dye
+Forms: ch¬aluyamit “he is staining it[a-]” ¬ixl ̈yamit “he is staining himself” ¬aluyamitix “it[a-] has been stained, washed with color” ¬¬luyÅmitix “it has been stained, washed with color” a¬al ̈yamixida “it[a-] will become stained, will be stained” [Dyk]
+Examples: Ich¬¬luyamit i¬gapaisgwa. “He stained her blanket.” Ich¬aiyalamit i¬gapaisgwa. “He stained her blanket for her.” [PK 7/ 31/56]
+Notes: Means to stain or dye cloth or basket by soaking material in color- ing. This verb literally means “cause (-mit) it (-¬-) to go (-uya-; compare aluya “she will go,” under verb -i-) into (-l-).”
+
+-x-YA-mit [vb] erase, rub off, obliter- ate
+Forms: achaxyÅmida “he will erase it[a-]” chnxyÅmalit “he is erasing me” chnxadˆamalit “he was erasing me” ichaxˆamit “he erased it[a-], rubbed it off, obliterated it” inixyamit “I erased it[i-]” ixˆamitix “it[i-] has been erased” igixyÅmixit “it[i-] became erased” [Dyk]
+Examples: AlixyÅmixida ish©ˆ¬ti engi. “It[a-] will become erased by the rain.” [Dyk]
+See also: -x-LA-mit

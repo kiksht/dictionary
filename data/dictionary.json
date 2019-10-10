@@ -3594,6 +3594,82 @@
       }
     ]
   },
+  "-d-I-mam": {
+    "root": "-d-I-mam",
+    "partOfSpeech": "vb",
+    "definition": "arrive, get here, come",
+    "forms": [
+      {
+        "kiksht": "andímama",
+        "english": "I'll get here"
+      },
+      {
+        "kiksht": "atgadímama",
+        "english": "they'll get there"
+      },
+      {
+        "kiksht": "endimamt",
+        "english": "I'm a newcomer, I just arrived"
+      },
+      {
+        "kiksht": "indimam",
+        "english": "I got here"
+      },
+      {
+        "kiksht": "imdimam",
+        "english": "you got here"
+      },
+      {
+        "kiksht": "igidimam",
+        "english": "he got there"
+      },
+      {
+        "kiksht": "igadimam",
+        "english": "she got here"
+      },
+      {
+        "kiksht": "iłdimam",
+        "english": "it got there"
+      },
+      {
+        "kiksht": "inshdimam",
+        "english": "we (not including you) got here"
+      },
+      {
+        "kiksht": "itgadimam",
+        "english": "they got here"
+      },
+      {
+        "kiksht": "nandímama",
+        "english": "I got here"
+      },
+      {
+        "kiksht": "nindimam",
+        "english": "I got here"
+      },
+      {
+        "kiksht": "gandimam",
+        "english": "I got here"
+      },
+      {
+        "kiksht": "galidimam",
+        "english": "he got here [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Koshk indimam.",
+        "english": "I re- turned empty-handed."
+      },
+      {
+        "kiksht": "Nagwátx ndimamx.",
+        "english": "I wish I came there, were there. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-i, -i-am, -i-am-am"
+    ]
+  },
   "-daptiksh": {
     "root": "-daptiksh",
     "partOfSpeech": "pron",
@@ -4503,6 +4579,50 @@
       "ił-qigwakdix"
     ]
   },
+  "-i-x-YA-mid-ix": {
+    "root": "-i-x-YA-mid-ix",
+    "partOfSpeech": "vb",
+    "definition": "not let one do as one should, prevent one from doing what one cannot later take up again",
+    "forms": [
+      {
+        "kiksht": "nixúyamidix",
+        "english": "I am not letting him do what he naturally should (as go to school, get married, etc.)"
+      },
+      {
+        "kiksht": "nichaixadyámidix",
+        "english": "he prevented her (last week)"
+      },
+      {
+        "kiksht": "aixúyamidix",
+        "english": "she has been prevented [Dyk]"
+      },
+      {
+        "kiksht": "gachaixadiamidagwaix",
+        "english": "he caused her not to (get married, go to school, get educated, visit relatives, etc.), he caused her to miss out (on something important of that sort) [PK 6/26/ 56]"
+      },
+      {
+        "kiksht": "aixuyamidix!",
+        "english": "don't let her do (something she should naturally do)!"
+      },
+      {
+        "kiksht": "nixúyamidix",
+        "english": "I didn't go to school and now it's too late (i.e., I was prevented from going)"
+      },
+      {
+        "kiksht": "enshixúyamidix",
+        "english": "we were prevented (from doing what we naturally should have done) [PK 7/31/56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Aixúyamidix ikala engi.",
+        "english": "She has been prevented (from doing what she should) by the man. [Dyk]"
+      }
+    ],
+    "notes": [
+      "This verb literally means \"be (-ix) caused (-mid-) to go (-ya-) from (-x-) it[i-] (-i-).\""
+    ]
+  },
   "-i-x-gi- G̲WA-qw": {
     "root": "-i-x-gi- G̲WA-qw",
     "partOfSpeech": "vb",
@@ -4994,6 +5114,46 @@
         "kiksht": "iqaluya",
         "english": "someone caught her [Dyk]"
       }
+    ]
+  },
+  "-l-u-YA-mit": {
+    "root": "-l-u-YA-mit",
+    "partOfSpeech": "vb",
+    "definition": "line up with, put in line with",
+    "forms": [
+      {
+        "kiksht": "chailúyamit",
+        "english": "he is lining them[a-] up with it[i-], putting them in line with it [Dyk]"
+      }
+    ],
+    "notes": [
+      "This verb literally means \"cause (-mit) to go (-uya, compare aluya \"she will go\" under verb -i-) to (-l-).\""
+    ]
+  },
+  "-l-x-YA-mit": {
+    "root": "-l-x-YA-mit",
+    "partOfSpeech": "vb",
+    "definition": "line up with, line up to, sight up with",
+    "forms": [
+      {
+        "kiksht": "chailxíamit",
+        "english": "he is sighting it[a-] up with it[i-]"
+      },
+      {
+        "kiksht": "inailxíamit",
+        "english": "I sighted it[a-] up with it[i-] [Dyk]"
+      },
+      {
+        "kiksht": "chdilxyamit",
+        "english": "he is lining them up to it[i-]"
+      },
+      {
+        "kiksht": "andilxiámida",
+        "english": "I will line them up to it[i-] [PK 7/31/56]"
+      }
+    ],
+    "seeAlso": [
+      "i-qiamitix"
     ]
   },
   "-l-xa-GLA-qłq-mit": {
@@ -6612,6 +6772,50 @@
       "-NI, -X̲UNI"
     ]
   },
+  "-x-YA-mit": {
+    "root": "-x-YA-mit",
+    "partOfSpeech": "vb",
+    "definition": "erase, rub off, obliter- ate",
+    "forms": [
+      {
+        "kiksht": "achaxyámida",
+        "english": "he will erase it[a-]"
+      },
+      {
+        "kiksht": "chnxyámalit",
+        "english": "he is erasing me"
+      },
+      {
+        "kiksht": "chnxadíamalit",
+        "english": "he was erasing me"
+      },
+      {
+        "kiksht": "ichaxíamit",
+        "english": "he erased it[a-], rubbed it off, obliterated it"
+      },
+      {
+        "kiksht": "inixyamit",
+        "english": "I erased it[i-]"
+      },
+      {
+        "kiksht": "ixíamitix",
+        "english": "it[i-] has been erased"
+      },
+      {
+        "kiksht": "igixyámixit",
+        "english": "it[i-] became erased [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Alixyámixida ishg̲íłti engi.",
+        "english": "It[a-] will become erased by the rain. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x-LA-mit"
+    ]
+  },
   "-x-gi-CHM-g̲wa-mit": {
     "root": "-x-gi-CHM-g̲wa-mit",
     "partOfSpeech": "vb",
@@ -7119,6 +7323,46 @@
     ],
     "notes": [
       "Apparently means literally something like \"[his/her blood] fell out;\" compare -a-k-xa-DEM-kw."
+    ]
+  },
+  "-ł-l-u-YA-mit": {
+    "root": "-ł-l-u-YA-mit",
+    "partOfSpeech": "vb",
+    "definition": "stain, dye",
+    "forms": [
+      {
+        "kiksht": "chłaluyamit",
+        "english": "he is staining it[a-]"
+      },
+      {
+        "kiksht": "łixlúyamit",
+        "english": "he is staining himself"
+      },
+      {
+        "kiksht": "łaluyamitix",
+        "english": "it[a-] has been stained, washed with color"
+      },
+      {
+        "kiksht": "łłluyámitix",
+        "english": "it has been stained, washed with color"
+      },
+      {
+        "kiksht": "ałalúyamixida",
+        "english": "it[a-] will become stained, will be stained [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ichłłluyamit iłgapaisgwa.",
+        "english": "He stained her blanket."
+      },
+      {
+        "kiksht": "Ichłaiyalamit iłgapaisgwa.",
+        "english": "He stained her blanket for her. [PK 7/ 31/56]"
+      }
+    ],
+    "notes": [
+      "Means to stain or dye cloth or basket by soaking material in color- ing. This verb literally means \"cause (-mit) it (-ł-) to go (-uya-; compare aluya \"she will go,\" under verb -i-) into (-l-).\""
     ]
   },
   "-ł-q'l-DIWA": {
