@@ -5211,6 +5211,14 @@
       }
     ]
   },
+  "a-git'ilpłxat": {
+    "root": "a-git'ilpłxat",
+    "partOfSpeech": "n",
+    "definition": "steam shovel",
+    "seeAlso": [
+      "-T'I-pa, i-git'ilpłxat"
+    ]
+  },
   "a-gálamat": {
     "root": "a-gálamat",
     "partOfSpeech": "n",
@@ -30246,6 +30254,135 @@
       "st'ex"
     ]
   },
+  "i-git'alpł": {
+    "root": "i-git'alpł",
+    "partOfSpeech": "n",
+    "definition": "catching with hook and line",
+    "forms": [
+      {
+        "kiksht": "iyat'ugit'álpł",
+        "english": "he is a good catcher with hook and line [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-T'A-pa, it-git'apxat"
+    ]
+  },
+  "i-git'aut'aumat": {
+    "root": "i-git'aut'aumat",
+    "partOfSpeech": "n",
+    "definition": "black snake whip",
+    "notes": [
+      "A long black whip used on horses on wagons."
+    ],
+    "seeAlso": [
+      "t'au, dau"
+    ]
+  },
+  "i-git'ilpł": {
+    "root": "i-git'ilpł",
+    "partOfSpeech": "n",
+    "definition": "dipping",
+    "forms": [
+      {
+        "kiksht": "iyagit'ílpł",
+        "english": "he is a dipper [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-T'I-pa"
+    ]
+  },
+  "i-git'ilpłxat": {
+    "root": "i-git'ilpłxat",
+    "partOfSpeech": "n",
+    "definition": "dipper, dredger",
+    "forms": [
+      {
+        "kiksht": "iyagit'ilpłxat",
+        "english": "his dredger; the dredger's scoop (with which it digs) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-T'I-pa, a-git'ilpłxat"
+    ]
+  },
+  "i-git'iwalal": {
+    "root": "i-git'iwalal",
+    "partOfSpeech": "n",
+    "definition": "pushing",
+    "forms": [
+      {
+        "kiksht": "iyagit'íwalal",
+        "english": "his pushing; he is one who pushes"
+      },
+      {
+        "kiksht": "iyat'ugit'íwalal",
+        "english": "his good pushing"
+      },
+      {
+        "kiksht": "iyamlagit'íwalal",
+        "english": "he is a bad pusher [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Igit'íwalal ikiax.",
+        "english": "Pushing is going on."
+      },
+      {
+        "kiksht": "Iyagit'íwalal ikiax.",
+        "english": "He is becoming one who pushes. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-T'IWA"
+    ]
+  },
+  "i-git'iwamat": {
+    "root": "i-git'iwamat",
+    "partOfSpeech": "n",
+    "definition": "something to push with",
+    "seeAlso": [
+      "-T'IWA"
+    ]
+  },
+  "i-git'ámadit": {
+    "root": "i-git'ámadit",
+    "partOfSpeech": "n",
+    "definition": "belt",
+    "seeAlso": [
+      "-T'A-mit, i-git'ámalit"
+    ]
+  },
+  "i-git'ámalit": {
+    "root": "i-git'ámalit",
+    "partOfSpeech": "n",
+    "definition": "putting around the waist",
+    "forms": [
+      {
+        "kiksht": "iyagit'ámalit",
+        "english": "he is one who puts things around the waist [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-T'A-mit, i-qit'ámadit"
+    ]
+  },
+  "i-git'ámanwash": {
+    "root": "i-git'ámanwash",
+    "partOfSpeech": "n",
+    "definition": "suspicion, being suspicious",
+    "forms": [
+      {
+        "kiksht": "iyagit'ámanwash",
+        "english": "he is one who suspects people, he is suspi- cious [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "t'ámanwash, -a-l- T'AMANWASH-ix, it-t'amanwash"
+    ]
+  },
   "i-gitk'i": {
     "root": "i-gitk'i",
     "partOfSpeech": "n",
@@ -30270,6 +30407,82 @@
     ],
     "seeAlso": [
       "tk'i"
+    ]
+  },
+  "i-gitquq": {
+    "root": "i-gitquq",
+    "partOfSpeech": "n",
+    "definition": "barbecue pit",
+    "examples": [
+      {
+        "kiksht": "adat'ałia ichagitquq",
+        "english": "can- nibal monster's barbecue pit [Dyk]"
+      }
+    ],
+    "notes": [
+      "Pit for method of cooking by putting hot rocks at bottom of pit with food placed over them and cov- ered over. See -g̲wapk."
+    ],
+    "seeAlso": [
+      "- G̲WA-pk"
+    ]
+  },
+  "i-gitł'atł'a": {
+    "root": "i-gitł'atł'a",
+    "partOfSpeech": "n",
+    "definition": "curing by warming",
+    "forms": [
+      {
+        "kiksht": "ichagitł'atł'a",
+        "english": "she is one who cures by warming [PK 6/18/56]"
+      }
+    ],
+    "notes": [
+      "Refers to a treatment in which the healer warms her or his hands with ashes and then warms the pa- tient up with hands. Done nowadays with hot water bottles or electric heaters. It is considered a woman's job."
+    ],
+    "seeAlso": [
+      "i-tł'atł'a, tł'a"
+    ]
+  },
+  "i-gitłk'igwamanit": {
+    "root": "i-gitłk'igwamanit",
+    "partOfSpeech": "n",
+    "definition": "putting to sleep",
+    "forms": [
+      {
+        "kiksht": "iyagitłk'igwamanit",
+        "english": "he is one who puts to sleep [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-TŁK'I-kw, -TŁK'I-gwa-mit"
+    ]
+  },
+  "i-gitłq'uptłq'up": {
+    "root": "i-gitłq'uptłq'up",
+    "partOfSpeech": "n",
+    "definition": "cutting",
+    "forms": [
+      {
+        "kiksht": "iyagitłq'uptłq'up",
+        "english": "he is a cutter [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tłq'up"
+    ]
+  },
+  "i-gitłxuł": {
+    "root": "i-gitłxuł",
+    "partOfSpeech": "n",
+    "definition": "consuming quickly",
+    "forms": [
+      {
+        "kiksht": "iyagitłxuł",
+        "english": "it[i-] is a fast con- sumer, big consumer (for instance, a car of gas) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-TŁXUM, i-k'itłxumnił, i- qatłxumnił, i-qatłxuł"
     ]
   },
   "i-gábenash": {
@@ -31033,12 +31246,66 @@
       "-MIMTUM"
     ]
   },
+  "it-git'apxat": {
+    "root": "it-git'apxat",
+    "partOfSpeech": "n",
+    "definition": "place for catching with hook and line, fishing place",
+    "forms": [
+      {
+        "kiksht": "itt'ugit'apxat",
+        "english": "good fishing place"
+      },
+      {
+        "kiksht": "idmlagit'apxat",
+        "english": "bad fishing place [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-T'A-pa, it-k'áng̲uxwat"
+    ]
+  },
+  "it-git'ilpłxat": {
+    "root": "it-git'ilpłxat",
+    "partOfSpeech": "n",
+    "definition": "digging place",
+    "seeAlso": [
+      "-T'I-pa"
+    ]
+  },
+  "it-git'iwaxat": {
+    "root": "it-git'iwaxat",
+    "partOfSpeech": "n",
+    "definition": "place where pushing goes on",
+    "seeAlso": [
+      "-T'IWA"
+    ]
+  },
   "it-gitk": {
     "root": "it-gitk",
     "partOfSpeech": "n",
     "definition": "memory",
     "seeAlso": [
       "-xl-TK, it-kítk"
+    ]
+  },
+  "it-gitł'ap": {
+    "root": "it-gitł'ap",
+    "partOfSpeech": "n",
+    "definition": "owing, debt",
+    "forms": [
+      {
+        "kiksht": "iyaxitł'ap",
+        "english": "he is one who owes, a debtor [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "idatłqt itgitł'áp",
+        "english": "a long- standing debt [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tł'ap"
     ]
   },
   "ił-alakásgwilit": {
@@ -31251,6 +31518,14 @@
     "definition": "wet snow in spring",
     "seeAlso": [
       "ił-bunit, ił-kibuna"
+    ]
+  },
+  "ił-git'ámalit": {
+    "root": "ił-git'ámalit",
+    "partOfSpeech": "n",
+    "definition": "skipping the line across the water when fishing",
+    "seeAlso": [
+      "-T'A-mit"
     ]
   },
   "kinwa": {

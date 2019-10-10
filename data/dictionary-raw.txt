@@ -9962,3 +9962,88 @@ See also: -xl-TK, it-kˆtk
 i-gitk’i [n] looking on
 Forms: ¬agitk’i “onlookers” [WTI.11.17] ichgitk’i “my looking on; I’m a looker on” [Dyk] iyagitk’i “his looking on; he’s a looker on” ichÅgitk’i “her looking on; she’s a looker on” [HS 7/26/56, GT, MMc 1/ 14/99]
 See also: tk’i
+
+
+
+
+
+
+
+
+i-gitquq [n] barbecue pit
+Examples: adat’a¬ia ichagitquq “can- nibal monster’s barbecue pit” [Dyk]
+Notes: Pit for method of cooking by putting hot rocks at bottom of pit with food placed over them and cov- ered over. See -©wapk.
+See also: - ̋WA-pk
+
+i-git’alp¬ [n] catching with hook and line
+Forms: iyat’ugit’Ålp¬ “he is a good catcher with hook and line” [Dyk]
+See also: -T’A-pa, it-git’apxat
+
+i-git’Åmadit [n] belt
+See also: -T’A-mit, i-git’Åmalit
+
+i¬-git’Åmalit [n] skipping the line across the water when fishing
+See also: -T’A-mit
+
+i-git’Åmalit [n] putting around the waist
+Forms: iyagit’Åmalit “he is one who puts things around the waist” [Dyk]
+See also: -T’A-mit, i-qit’Åmadit
+
+i-git’Åmanwash [n] suspicion, being suspicious
+Forms: iyagit’Åmanwash “he is one who suspects people, he is suspi- cious” [Dyk]
+See also: t’Åmanwash, -a-l- T’AMANWASH-ix, it-t’amanwash
+
+it-git’apxat [n] place for catching with hook and line, fishing place
+Forms: itt’ugit’apxat “good fishing place” idmlagit’apxat “bad fishing place” [Dyk]
+See also: -T’A-pa, it-k’Ån©uxwat
+
+i-git’aut’aumat [n] black snake whip
+Notes: A long black whip used on horses on wagons.
+See also: t’au, dau
+
+i-git’ilp¬ [n] dipping
+Forms: iyagit’ˆlp¬ “he is a dipper” [Dyk]
+See also: -T’I-pa
+
+a-git’ilp¬xat [n] steam shovel
+See also: -T’I-pa, i-git’ilp¬xat
+
+i-git’ilp¬xat [n] dipper, dredger
+Forms: iyagit’ilp¬xat “his dredger; the dredger’s scoop (with which it digs)” [Dyk]
+See also: -T’I-pa, a-git’ilp¬xat
+
+it-git’ilp¬xat [n] digging place
+See also: -T’I-pa
+
+i-git’iwalal [n] pushing
+Forms: iyagit’ˆwalal “his pushing; he is one who pushes” iyat’ugit’ˆwalal “his good pushing” iyamlagit’ˆwalal “he is a bad pusher” [Dyk]
+Examples: Igit’ˆwalal ikiax. “Pushing is going on.” Iyagit’ˆwalal ikiax. “He is becoming one who pushes.” [Dyk]
+See also: -T’IWA
+
+i-git’iwamat [n] something to push with
+See also: -T’IWA
+
+it-git’iwaxat [n] place where pushing goes on
+See also: -T’IWA
+
+i-git¬k’igwamanit [n] putting to sleep
+Forms: iyagit¬k’igwamanit “he is one who puts to sleep” [Dyk]
+See also: -TÒK’I-kw, -TÒK’I-gwa-mit
+
+i-git¬q’upt¬q’up [n] cutting
+Forms: iyagit¬q’upt¬q’up “he is a cutter” [Dyk]
+See also: t¬q’up
+
+i-git¬xu¬ [n] consuming quickly
+Forms: iyagit¬xu¬ “it[i-] is a fast con- sumer, big consumer (for instance, a car of gas)” [Dyk]
+See also: -TÒXUM, i-k’it¬xumni¬, i- qat¬xumni¬, i-qat¬xu¬
+
+it-git¬’ap [n] owing, debt
+Forms: iyaxit¬’ap “he is one who owes, a debtor” [Dyk]
+Examples: idat¬qt itgit¬’Åp “a long- standing debt” [Dyk]
+See also: t¬’ap
+
+i-git¬’at¬’a [n] curing by warming
+Forms: ichagit¬’at¬’a “she is one who cures by warming” [PK 6/18/56]
+Notes: Refers to a treatment in which the healer warms her or his hands with ashes and then warms the pa- tient up with hands. Done nowadays with hot water bottles or electric heaters. It is considered a woman’s job.
+See also: i-t¬’at¬’a, t¬’a
