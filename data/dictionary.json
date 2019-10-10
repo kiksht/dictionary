@@ -23360,6 +23360,14 @@
       "-X̲"
     ]
   },
+  "gałk'ínaxłchk": {
+    "root": "gałk'ínaxłchk",
+    "partOfSpeech": "vb",
+    "definition": "he searched",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
   "gałkshgelga": {
     "root": "gałkshgelga",
     "partOfSpeech": "vb",
@@ -23452,6 +23460,22 @@
       "-g̲l-KL"
     ]
   },
+  "gałkuqti": {
+    "root": "gałkuqti",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] pointed it[a-]",
+    "seeAlso": [
+      "-QTI"
+    ]
+  },
+  "gałkux": {
+    "root": "gałkux",
+    "partOfSpeech": "vb",
+    "definition": "",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gałkím": {
     "root": "gałkím",
     "partOfSpeech": "vb",
@@ -23472,6 +23496,20 @@
     ],
     "seeAlso": [
       "-ki-ŁKW"
+    ]
+  },
+  "gałkúx": {
+    "root": "gałkúx",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] did it[a-] [WTI.9.5], they did her [WTI.1c3]",
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt luq' gałkúx iłgwałilx akłmín.",
+        "english": "Now then the per- son swallowed the moon. [WTI.9.5]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "gałkłakxaima": {
@@ -23544,6 +23582,267 @@
       "-X̲"
     ]
   },
+  "gałnxitx": {
+    "root": "gałnxitx",
+    "partOfSpeech": "vb",
+    "definition": "I put it on myself",
+    "seeAlso": [
+      "-X̲, -xl-X̲"
+    ]
+  },
+  "gałshxelmux": {
+    "root": "gałshxelmux",
+    "partOfSpeech": "vb",
+    "definition": "they ate them[ish-]",
+    "examples": [
+      {
+        "kiksht": "Kwapt gałshxelmuxbax ałumqta.",
+        "english": "Then when some of them ate of them[ish-], they died."
+      },
+      {
+        "kiksht": "[WTIV.3.2; -bax on gałshxlmuxbax appears to be an alternate form of - bet",
+        "english": "when.]"
+      }
+    ],
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "gałshxlux": {
+    "root": "gałshxlux",
+    "partOfSpeech": "vb",
+    "definition": "they did to it[ish-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałsik'lutkax": {
+    "root": "gałsik'lutkax",
+    "partOfSpeech": "vb",
+    "definition": "they looked at him",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "gałsxlutkax": {
+    "root": "gałsxlutkax",
+    "partOfSpeech": "vb",
+    "definition": "they looked",
+    "seeAlso": [
+      "-s-xl-TK"
+    ]
+  },
+  "gałuix": {
+    "root": "gałuix",
+    "partOfSpeech": "vb",
+    "definition": "they went off",
+    "notes": [
+      "This is translated \"go off\" (as a command) in WT I.18.3, which fits the context; but what would normally be the meaning of this word is given above. It is translated \"they went\" in WTIV.2.14."
+    ],
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gałuk'íxiyux": {
+    "root": "gałuk'íxiyux",
+    "partOfSpeech": "vb",
+    "definition": "they each swam off",
+    "seeAlso": [
+      "-K'IXA"
+    ]
+  },
+  "gałulkchu": {
+    "root": "gałulkchu",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] fell down",
+    "seeAlso": [
+      "-LK-chu"
+    ]
+  },
+  "gałumqt": {
+    "root": "gałumqt",
+    "partOfSpeech": "vb",
+    "definition": "they died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "gałupa": {
+    "root": "gałupa",
+    "partOfSpeech": "vb",
+    "definition": "they went out",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "gałupg̲a": {
+    "root": "gałupg̲a",
+    "partOfSpeech": "vb",
+    "definition": "they went in, they en- tered",
+    "seeAlso": [
+      "-PQ"
+    ]
+  },
+  "gałuqui": {
+    "root": "gałuqui",
+    "partOfSpeech": "vb",
+    "definition": "they slept overnight",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "gałuqwui": {
+    "root": "gałuqwui",
+    "partOfSpeech": "vb",
+    "definition": "they slept overnight",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "gałuskenemx": {
+    "root": "gałuskenemx",
+    "partOfSpeech": "vb",
+    "definition": "it went ahead [WTIV.2.3], they went on in front [WTIV.2.8]",
+    "seeAlso": [
+      "-SKN"
+    ]
+  },
+  "gałuwi": {
+    "root": "gałuwi",
+    "partOfSpeech": "vb",
+    "definition": "it dripped",
+    "seeAlso": [
+      "-WIT"
+    ]
+  },
+  "gałuxuni": {
+    "root": "gałuxuni",
+    "partOfSpeech": "vb",
+    "definition": "it floated",
+    "seeAlso": [
+      "-X̲UNI"
+    ]
+  },
+  "gałuya": {
+    "root": "gałuya",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] went [WTI.1d.4], it went [WTIV.2.3]",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gałuyam": {
+    "root": "gałuyam",
+    "partOfSpeech": "vb",
+    "definition": "they arrived",
+    "seeAlso": [
+      "-I, -I-am"
+    ]
+  },
+  "gałuyamx": {
+    "root": "gałuyamx",
+    "partOfSpeech": "vb",
+    "definition": "they arrived",
+    "seeAlso": [
+      "-I, -I-am"
+    ]
+  },
+  "gałuyáaaa": {
+    "root": "gałuyáaaa",
+    "partOfSpeech": "vb",
+    "definition": "they went on",
+    "notes": [
+      "A lengthened form of gałuya; the lengthening indicates continuing or extended action."
+    ],
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gałxanshg̲luwaqłqax": {
+    "root": "gałxanshg̲luwaqłqax",
+    "partOfSpeech": "vb",
+    "definition": "they es- caped from us",
+    "seeAlso": [
+      "-WA-qłq"
+    ]
+  },
+  "gałxdagwa": {
+    "root": "gałxdagwa",
+    "partOfSpeech": "vb",
+    "definition": "they turned back",
+    "seeAlso": [
+      "-x-TA-kw"
+    ]
+  },
+  "gałxkw'ayu": {
+    "root": "gałxkw'ayu",
+    "partOfSpeech": "vb",
+    "definition": "they each went home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "gałxlqłaxit": {
+    "root": "gałxlqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "they found out",
+    "seeAlso": [
+      "-xl-QŁA-xit"
+    ]
+  },
+  "gałxlxaq": {
+    "root": "gałxlxaq",
+    "partOfSpeech": "vb",
+    "definition": "they were assembled",
+    "seeAlso": [
+      "-xa-QW"
+    ]
+  },
+  "gałxtkixax": {
+    "root": "gałxtkixax",
+    "partOfSpeech": "vb",
+    "definition": "they used to do",
+    "seeAlso": [
+      "-XTKIX̲AX̲"
+    ]
+  },
+  "gałxtkím": {
+    "root": "gałxtkím",
+    "partOfSpeech": "vb",
+    "definition": "they said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "gałxtłiwananemchk": {
+    "root": "gałxtłiwananemchk",
+    "partOfSpeech": "vb",
+    "definition": "they shifted in their seats"
+  },
+  "gałxwaitam": {
+    "root": "gałxwaitam",
+    "partOfSpeech": "vb",
+    "definition": "they ran home",
+    "seeAlso": [
+      "-x-WA"
+    ]
+  },
+  "gałxwáchk": {
+    "root": "gałxwáchk",
+    "partOfSpeech": "vb",
+    "definition": "they started to run away, they ran off",
+    "seeAlso": [
+      "-x-WA"
+    ]
+  },
+  "gałxálutkam": {
+    "root": "gałxálutkam",
+    "partOfSpeech": "vb",
+    "definition": "they came to put themselves in it[a-]",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
   "gałágluya": {
     "root": "gałágluya",
     "partOfSpeech": "vb",
@@ -23564,6 +23863,22 @@
     ],
     "seeAlso": [
       "-PQ"
+    ]
+  },
+  "gałúgemałx": {
+    "root": "gałúgemałx",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] came forward",
+    "seeAlso": [
+      "-gm-ŁX̲"
+    ]
+  },
+  "gałúwiuchk": {
+    "root": "gałúwiuchk",
+    "partOfSpeech": "vb",
+    "definition": "they each danced",
+    "seeAlso": [
+      "-WI"
     ]
   },
   "i- -bagúmxch": {
