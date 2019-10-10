@@ -19014,6 +19014,294 @@
       "-l-QWIM"
     ]
   },
+  "gachshugmatk": {
+    "root": "gachshugmatk",
+    "partOfSpeech": "vb",
+    "definition": "he tied them together",
+    "seeAlso": [
+      "-sh-gm-TK"
+    ]
+  },
+  "gachshuksht": {
+    "root": "gachshuksht",
+    "partOfSpeech": "vb",
+    "definition": "he saw them 2",
+    "seeAlso": [
+      "-KSHT"
+    ]
+  },
+  "gachshukshtam": {
+    "root": "gachshukshtam",
+    "partOfSpeech": "vb",
+    "definition": "he went to look for them 2",
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "gachshukł": {
+    "root": "gachshukł",
+    "partOfSpeech": "vb",
+    "definition": "he brought them[ish- ]",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gachshulxam": {
+    "root": "gachshulxam",
+    "partOfSpeech": "vb",
+    "definition": "he said to them 2 [WTI.1a5, 12.6, 14.3], he spoke of it[ish-] [WTIV.4.2]",
+    "examples": [
+      {
+        "kiksht": "Qushtíaxa ishg̲wálala yaxdau gachshulxam.",
+        "english": "As it turned out, it was a gun of which he spoke. [WTIV.4.2]"
+      }
+    ],
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachshupg̲na": {
+    "root": "gachshupg̲na",
+    "partOfSpeech": "vb",
+    "definition": "he named them 2",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "gachshuquchk": {
+    "root": "gachshuquchk",
+    "partOfSpeech": "vb",
+    "definition": "he woke up them 2",
+    "seeAlso": [
+      "-QUCHK"
+    ]
+  },
+  "gachshut'aba": {
+    "root": "gachshut'aba",
+    "partOfSpeech": "vb",
+    "definition": "he caught them 2",
+    "seeAlso": [
+      "-T'A-pa"
+    ]
+  },
+  "gachshutuksh": {
+    "root": "gachshutuksh",
+    "partOfSpeech": "vb",
+    "definition": "he sucked it[ish-]",
+    "seeAlso": [
+      "-tuksh"
+    ]
+  },
+  "gachshuwa": {
+    "root": "gachshuwa",
+    "partOfSpeech": "vb",
+    "definition": "he pursued them 2",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "gachshuwaq": {
+    "root": "gachshuwaq",
+    "partOfSpeech": "vb",
+    "definition": "he killed them 2",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gachshux": {
+    "root": "gachshux",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] made them two",
+    "examples": [
+      {
+        "kiksht": "Ik'mokan gachshux.",
+        "english": "They two became frenzied. [WTI.4.21]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachshuxwa": {
+    "root": "gachshuxwa",
+    "partOfSpeech": "vb",
+    "definition": "he did it[ish-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachshuxwax": {
+    "root": "gachshuxwax",
+    "partOfSpeech": "vb",
+    "definition": "he did it[ish-]",
+    "examples": [
+      {
+        "kiksht": "Łk'up gachshuxwax.",
+        "english": "He shot. off his gun. [WTIV.2.17]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, łk'up -sh-l-X̲"
+    ]
+  },
+  "gachshułxlem": {
+    "root": "gachshułxlem",
+    "partOfSpeech": "vb",
+    "definition": "he ate it[ish-]",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "gachshxchmáq": {
+    "root": "gachshxchmáq",
+    "partOfSpeech": "vb",
+    "definition": "he heard them 2",
+    "seeAlso": [
+      "-x-CHMA-qw"
+    ]
+  },
+  "gachshxima": {
+    "root": "gachshxima",
+    "partOfSpeech": "vb",
+    "definition": "he laid them 2 down",
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
+  "gachshúdamit": {
+    "root": "gachshúdamit",
+    "partOfSpeech": "vb",
+    "definition": "he ran away with it[ish-]",
+    "seeAlso": [
+      "-TA"
+    ]
+  },
+  "gachtalgamit": {
+    "root": "gachtalgamit",
+    "partOfSpeech": "vb",
+    "definition": "he poked them into her",
+    "examples": [
+      {
+        "kiksht": "Nawit tł'man tł'man idiakshén gachtalgamit.",
+        "english": "Immedi- ately he stuck his hands into her private parts and fingered them. [WTI.1c.6]"
+      }
+    ],
+    "seeAlso": [
+      "-KA, -KA-mit"
+    ]
+  },
+  "gachtawix": {
+    "root": "gachtawix",
+    "partOfSpeech": "vb",
+    "definition": "he made them for them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachtigux": {
+    "root": "gachtigux",
+    "partOfSpeech": "vb",
+    "definition": "he did them on him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachtig̲eldibaix": {
+    "root": "gachtig̲eldibaix",
+    "partOfSpeech": "vb",
+    "definition": "he hollowed them out",
+    "seeAlso": [
+      "-TI-pa"
+    ]
+  },
+  "gachtshlút": {
+    "root": "gachtshlút",
+    "partOfSpeech": "vb",
+    "definition": "he gave them to them 2",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gachtshxshkám": {
+    "root": "gachtshxshkám",
+    "partOfSpeech": "vb",
+    "definition": "he took them away from them 2",
+    "seeAlso": [
+      "-SHKAM"
+    ]
+  },
+  "gachtugwalmam": {
+    "root": "gachtugwalmam",
+    "partOfSpeech": "vb",
+    "definition": "he went to get them",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "gachtug̲wílx": {
+    "root": "gachtug̲wílx",
+    "partOfSpeech": "vb",
+    "definition": "he struck them",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "gachtukłam": {
+    "root": "gachtukłam",
+    "partOfSpeech": "vb",
+    "definition": "he brought them with him",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gachtulxam": {
+    "root": "gachtulxam",
+    "partOfSpeech": "vb",
+    "definition": "he told them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachtulxamam": {
+    "root": "gachtulxamam",
+    "partOfSpeech": "vb",
+    "definition": "he went to tell them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachtúdina": {
+    "root": "gachtúdina",
+    "partOfSpeech": "vb",
+    "definition": "he killed them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "gachtúksht": {
+    "root": "gachtúksht",
+    "partOfSpeech": "vb",
+    "definition": "he looked at them",
+    "seeAlso": [
+      "-KSHT"
+    ]
+  },
+  "gachtúkł": {
+    "root": "gachtúkł",
+    "partOfSpeech": "vb",
+    "definition": "he took them along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gachtłlút": {
+    "root": "gachtłlút",
+    "partOfSpeech": "vb",
+    "definition": "he gave them to them",
+    "seeAlso": [
+      "-T"
+    ]
+  },
   "gacháwichmaq": {
     "root": "gacháwichmaq",
     "partOfSpeech": "vb",
