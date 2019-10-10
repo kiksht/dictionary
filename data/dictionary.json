@@ -23242,12 +23242,306 @@
       "-PA"
     ]
   },
+  "gałg̲íwitxit": {
+    "root": "gałg̲íwitxit",
+    "partOfSpeech": "vb",
+    "definition": "they went to sleep",
+    "seeAlso": [
+      "-QIU, -QIW-it, -QIW-it-xit"
+    ]
+  },
+  "gałigluyaix": {
+    "root": "gałigluyaix",
+    "partOfSpeech": "vb",
+    "definition": "they went to it[i-]",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gałiguqam": {
+    "root": "gałiguqam",
+    "partOfSpeech": "vb",
+    "definition": "they went to meet him",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "gałiguqwam": {
+    "root": "gałiguqwam",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] went to meet him",
+    "seeAlso": [
+      "-k-QW-am"
+    ]
+  },
+  "gałig̲elba": {
+    "root": "gałig̲elba",
+    "partOfSpeech": "vb",
+    "definition": "it flowed out of him, he[ił-] came out of him",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "gałikg̲updit": {
+    "root": "gałikg̲updit",
+    "partOfSpeech": "vb",
+    "definition": "they slept on him",
+    "seeAlso": [
+      "- G̲UPT-it"
+    ]
+  },
+  "gałikłaitx": {
+    "root": "gałikłaitx",
+    "partOfSpeech": "vb",
+    "definition": "they sat on him",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "gałilgaxit": {
+    "root": "gałilgaxit",
+    "partOfSpeech": "vb",
+    "definition": "they pierced him",
+    "seeAlso": [
+      "-l-KA-xit"
+    ]
+  },
+  "gałilwulxt": {
+    "root": "gałilwulxt",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] swelled up",
+    "seeAlso": [
+      "-ł-l-WULX"
+    ]
+  },
+  "gałilwulxtx": {
+    "root": "gałilwulxtx",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] swelled",
+    "examples": [
+      {
+        "kiksht": "Iyamaq gałilwulxtx.",
+        "english": "His wound swelled. [WTIV.2.16]"
+      }
+    ],
+    "seeAlso": [
+      "-ł-l-WULXT"
+    ]
+  },
   "gałiukł": {
     "root": "gałiukł",
     "partOfSpeech": "vb",
     "definition": "he[ił-] carried it[i-], he[ił-] took it[i-] with him",
     "seeAlso": [
       "-KŁ"
+    ]
+  },
+  "gałixélgwichu": {
+    "root": "gałixélgwichu",
+    "partOfSpeech": "vb",
+    "definition": "he threw them down in himself",
+    "seeAlso": [
+      "-l-GWI-chu"
+    ]
+  },
+  "gałixlux": {
+    "root": "gałixlux",
+    "partOfSpeech": "vb",
+    "definition": "he did them on himself",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałixux": {
+    "root": "gałixux",
+    "partOfSpeech": "vb",
+    "definition": "he did it on himself",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałkshgelga": {
+    "root": "gałkshgelga",
+    "partOfSpeech": "vb",
+    "definition": "they held onto it[ish-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gałkshudámitam": {
+    "root": "gałkshudámitam",
+    "partOfSpeech": "vb",
+    "definition": "they came to run away with it[ish-]",
+    "seeAlso": [
+      "-TA"
+    ]
+  },
+  "gałkshulxamx": {
+    "root": "gałkshulxamx",
+    "partOfSpeech": "vb",
+    "definition": "they told them 2",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gałkshux": {
+    "root": "gałkshux",
+    "partOfSpeech": "vb",
+    "definition": "they 2 did to it",
+    "examples": [
+      {
+        "kiksht": "Gałkshúx dakdák.",
+        "english": "They 2 took it off. [WTI.1a2]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałkshuxax": {
+    "root": "gałkshuxax",
+    "partOfSpeech": "vb",
+    "definition": "they did them 2",
+    "examples": [
+      {
+        "kiksht": "Łk'up gałkshuxax.",
+        "english": "They shot. [WTIV.2.14]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, łk'up -sh-l-X̲"
+    ]
+  },
+  "gałksik'lutkax": {
+    "root": "gałksik'lutkax",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] looked at him",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "gałksubnayux": {
+    "root": "gałksubnayux",
+    "partOfSpeech": "vb",
+    "definition": "they each jumped",
+    "seeAlso": [
+      "-s-BNA"
+    ]
+  },
+  "gałksukłam": {
+    "root": "gałksukłam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 arrived home with it",
+    "seeAlso": [
+      "-KŁ-am"
+    ]
+  },
+  "gałktúx": {
+    "root": "gałktúx",
+    "partOfSpeech": "vb",
+    "definition": "they did them, they caught them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałkug̲ikel": {
+    "root": "gałkug̲ikel",
+    "partOfSpeech": "vb",
+    "definition": "they saw them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gałkím": {
+    "root": "gałkím",
+    "partOfSpeech": "vb",
+    "definition": "they said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "gałkíłk": {
+    "root": "gałkíłk",
+    "partOfSpeech": "vb",
+    "definition": "they won",
+    "examples": [
+      {
+        "kiksht": "Gałkíłk iłúgumaba.",
+        "english": "They won at stick game. [WTI.4.10]"
+      }
+    ],
+    "seeAlso": [
+      "-ki-ŁKW"
+    ]
+  },
+  "gałkłakxaima": {
+    "root": "gałkłakxaima",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] put them down in it[a-]",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "gałkłayu": {
+    "root": "gałkłayu",
+    "partOfSpeech": "vb",
+    "definition": "they moved",
+    "seeAlso": [
+      "-k-ŁAYU"
+    ]
+  },
+  "gałkłgelga": {
+    "root": "gałkłgelga",
+    "partOfSpeech": "vb",
+    "definition": "they took them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gałkłg̲elkel": {
+    "root": "gałkłg̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "they saw her[ił-]",
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt gałkłg̲elkel iłg̲agilak.",
+        "english": "Then they saw a woman. [WTI.4.2]"
+      }
+    ],
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gałkłulxam": {
+    "root": "gałkłulxam",
+    "partOfSpeech": "vb",
+    "definition": "they told them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gałkłulxamam": {
+    "root": "gałkłulxamam",
+    "partOfSpeech": "vb",
+    "definition": "they went to tell them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gałkłuqła": {
+    "root": "gałkłuqła",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] counted them",
+    "seeAlso": [
+      "-QŁA"
+    ]
+  },
+  "gałkłúx": {
+    "root": "gałkłúx",
+    "partOfSpeech": "vb",
+    "definition": "they did them",
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "gałágluya": {
