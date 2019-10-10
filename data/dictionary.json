@@ -18290,6 +18290,235 @@
       "-X̲"
     ]
   },
+  "gachiaxshgam": {
+    "root": "gachiaxshgam",
+    "partOfSpeech": "vb",
+    "definition": "he took it[i-] away from her",
+    "seeAlso": [
+      "-SHKAM"
+    ]
+  },
+  "gachiaxuxax": {
+    "root": "gachiaxuxax",
+    "partOfSpeech": "vb",
+    "definition": "he did it[i-] from her",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachigelga": {
+    "root": "gachigelga",
+    "partOfSpeech": "vb",
+    "definition": "he took hold of it[i-] [WTI.1a4], he took hold of him [WT12.8], they[i-] took him [WTI.15.5]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachigelganił": {
+    "root": "gachigelganił",
+    "partOfSpeech": "vb",
+    "definition": "he began to catch it[i-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachigelximchk": {
+    "root": "gachigelximchk",
+    "partOfSpeech": "vb",
+    "definition": "he invited him, he called him, he called for him",
+    "seeAlso": [
+      "-gl-XIM"
+    ]
+  },
+  "gachigiluma": {
+    "root": "gachigiluma",
+    "partOfSpeech": "vb",
+    "definition": "he called out to him",
+    "seeAlso": [
+      "-gi-LUMA"
+    ]
+  },
+  "gachig̲elgelx": {
+    "root": "gachig̲elgelx",
+    "partOfSpeech": "vb",
+    "definition": "he saw it[i-]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gachig̲elkel": {
+    "root": "gachig̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "he saw him",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gachikwatkix": {
+    "root": "gachikwatkix",
+    "partOfSpeech": "vb",
+    "definition": "he laid it[i-] out",
+    "examples": [
+      {
+        "kiksht": "T'ayat'aya gachłúx iłk'álamat. Inag̲un gachikwatkix, gachiuqapk.",
+        "english": "He made ready the stones. He laid the sturgeon out on the stones, he steamed it. [WTI.1d.5]"
+      }
+    ]
+  },
+  "gachilgalg̲ulitemchkix": {
+    "root": "gachilgalg̲ulitemchkix",
+    "partOfSpeech": "vb",
+    "definition": "it got to be burning here and there",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "gachilgalq": {
+    "root": "gachilgalq",
+    "partOfSpeech": "vb",
+    "definition": "he was burned [WTI.4.9], it[i-] burned up [WTI.17.17]",
+    "seeAlso": [
+      "-ch-l-GAL-qw"
+    ]
+  },
+  "gachilgamidix": {
+    "root": "gachilgamidix",
+    "partOfSpeech": "vb",
+    "definition": "he stuck it in it[i- ] there",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "gachilgamit": {
+    "root": "gachilgamit",
+    "partOfSpeech": "vb",
+    "definition": "he stuck it[i-] in it[i- ]",
+    "examples": [
+      {
+        "kiksht": "Gachilgamit wilxba iyagaben.",
+        "english": "He stuck his digging stick in the ground. [WTI.1a4]"
+      }
+    ],
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "gachilux": {
+    "root": "gachilux",
+    "partOfSpeech": "vb",
+    "definition": "he did it[i-] to him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachiluxax": {
+    "root": "gachiluxax",
+    "partOfSpeech": "vb",
+    "definition": "he made it[i-] for him",
+    "examples": [
+      {
+        "kiksht": "Iyamaq gachiluxax iłiakshenba.",
+        "english": "He wounded him in his hand. [WTIV.2.12]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachilxádagwa": {
+    "root": "gachilxádagwa",
+    "partOfSpeech": "vb",
+    "definition": "he came to [WTI.3.9], he recovered [WTI.4.22]",
+    "seeAlso": [
+      "-ch-l-xa-TA-kw"
+    ]
+  },
+  "gachilłútk": {
+    "root": "gachilłútk",
+    "partOfSpeech": "vb",
+    "definition": "he blew into it[i-]",
+    "examples": [
+      {
+        "kiksht": "Gachilłútk idudu ich'inun.",
+        "english": "Eagle blew into the flute. [WTI.9.1]"
+      }
+    ],
+    "seeAlso": [
+      "-l-ŁUT-kw"
+    ]
+  },
+  "gachinshit": {
+    "root": "gachinshit",
+    "partOfSpeech": "vb",
+    "definition": "he gave it[i-] to us (including you)",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gachinxanawunxt": {
+    "root": "gachinxanawunxt",
+    "partOfSpeech": "vb",
+    "definition": "he looked up it[i-]",
+    "seeAlso": [
+      "-i-n-XANA-wunx"
+    ]
+  },
+  "gachiudamitx": {
+    "root": "gachiudamitx",
+    "partOfSpeech": "vb",
+    "definition": "he ran off with him",
+    "seeAlso": [
+      "-TA-mit"
+    ]
+  },
+  "gachiugulaqłq": {
+    "root": "gachiugulaqłq",
+    "partOfSpeech": "vb",
+    "definition": "he recognized him",
+    "seeAlso": [
+      "-GULA-qłq"
+    ]
+  },
+  "gachiugwalmamax": {
+    "root": "gachiugwalmamax",
+    "partOfSpeech": "vb",
+    "definition": "he went and brought it back",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "gachiug̲emchxugwa": {
+    "root": "gachiug̲emchxugwa",
+    "partOfSpeech": "vb",
+    "definition": "he asked him",
+    "seeAlso": [
+      "-g̲m-CHX̲U-kw"
+    ]
+  },
+  "gachiug̲wilx": {
+    "root": "gachiug̲wilx",
+    "partOfSpeech": "vb",
+    "definition": "he beat him",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "gachiug̲wámchxugwa": {
+    "root": "gachiug̲wámchxugwa",
+    "partOfSpeech": "vb",
+    "definition": "he asked him",
+    "seeAlso": [
+      "-g̲m-CHX̲U-kw"
+    ]
+  },
+  "gachiúgmaxix": {
+    "root": "gachiúgmaxix",
+    "partOfSpeech": "vb",
+    "definition": "he made it[i-] near them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gacháwichmaq": {
     "root": "gacháwichmaq",
     "partOfSpeech": "vb",
@@ -18304,6 +18533,20 @@
     "definition": "it[it-] burned",
     "seeAlso": [
       "-ch-l-GAL-qw"
+    ]
+  },
+  "gachíugwichim": {
+    "root": "gachíugwichim",
+    "partOfSpeech": "vb",
+    "definition": "he struck him with it[i-]",
+    "examples": [
+      {
+        "kiksht": "Gachíugwichim iyatálamqsg̲it.",
+        "english": "He struck him with his battle-axe. [WTI.4.10]"
+      }
+    ],
+    "seeAlso": [
+      "-gl-CHIM"
     ]
   },
   "gaciukwshtam": {
