@@ -3871,6 +3871,50 @@
       "This verb appears to have meant originally to eat at other than a set or customary time, and then presumably took on the meaning \"eat lunch\" because Anglo-American \"lunch\" seemed like a \"between- times\" meal to the original Wasco schedule."
     ]
   },
+  "-x-l-GAYA-kw": {
+    "root": "-x-l-GAYA-kw",
+    "partOfSpeech": "vb",
+    "definition": "put finger into, feel with finger, finger, hand",
+    "forms": [
+      {
+        "kiksht": "yaxalgáyagwax",
+        "english": "he is putting his finger into her, feeling her with his finger"
+      },
+      {
+        "kiksht": "iyaxalgáyakwachk",
+        "english": "he fingered her [Dyk]"
+      }
+    ]
+  },
+  "-x-l-GAYA-pq": {
+    "root": "-x-l-GAYA-pq",
+    "partOfSpeech": "vb",
+    "definition": "put hand into, feel with hand",
+    "forms": [
+      {
+        "kiksht": "enxilgayalpq",
+        "english": "I am putting my hand into him"
+      },
+      {
+        "kiksht": "ixanelgayalpq",
+        "english": "he is putting his hand into me"
+      },
+      {
+        "kiksht": "yaxalgayalpq",
+        "english": "he is putting his hand between her hands [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "̨axigayapq igaxux.",
+        "english": "She put her hand into herself."
+      },
+      {
+        "kiksht": "̨ixigayapq igixux.",
+        "english": "He put his hand into himself. [Dyk]"
+      }
+    ]
+  },
   "-xa-xi-CHU": {
     "root": "-xa-xi-CHU",
     "partOfSpeech": "vb",
@@ -4915,6 +4959,17 @@
     "definition": "front of neck",
     "seeAlso": [
       "a-mugi"
+    ]
+  },
+  "a-gaxitk": {
+    "root": "a-gaxitk",
+    "partOfSpeech": "n",
+    "definition": "island",
+    "notes": [
+      "Possibly a specifically Wishram word."
+    ],
+    "seeAlso": [
+      "a-k'axitk"
     ]
   },
   "a-gálamat": {
@@ -25498,6 +25553,129 @@
       "-I"
     ]
   },
+  "gatgúyuchkwax": {
+    "root": "gatgúyuchkwax",
+    "partOfSpeech": "vb",
+    "definition": "they each danced",
+    "seeAlso": [
+      "-WI"
+    ]
+  },
+  "gatkdíxnimananemchk": {
+    "root": "gatkdíxnimananemchk",
+    "partOfSpeech": "vb",
+    "definition": "they showed them to him",
+    "seeAlso": [
+      "-x-NIMA"
+    ]
+  },
+  "gatkdúkł": {
+    "root": "gatkdúkł",
+    "partOfSpeech": "vb",
+    "definition": "they took them along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gatkiluqtilalemx": {
+    "root": "gatkiluqtilalemx",
+    "partOfSpeech": "vb",
+    "definition": "he[it-] kept pointing at him",
+    "seeAlso": [
+      "-QTI"
+    ]
+  },
+  "gatkniuchk": {
+    "root": "gatkniuchk",
+    "partOfSpeech": "vb",
+    "definition": "they each floated up to the surface",
+    "seeAlso": [
+      "-NI"
+    ]
+  },
+  "gatkqui": {
+    "root": "gatkqui",
+    "partOfSpeech": "vb",
+    "definition": "they camped overnight",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "gatktxwitx": {
+    "root": "gatktxwitx",
+    "partOfSpeech": "vb",
+    "definition": "they stopped, they came to a standstill",
+    "seeAlso": [
+      "-TXWI)-it"
+    ]
+  },
+  "gatktłam": {
+    "root": "gatktłam",
+    "partOfSpeech": "vb",
+    "definition": "they brought them",
+    "seeAlso": [
+      "-TŁ-am"
+    ]
+  },
+  "gatkúx": {
+    "root": "gatkúx",
+    "partOfSpeech": "vb",
+    "definition": "they made them[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gatkłukłam": {
+    "root": "gatkłukłam",
+    "partOfSpeech": "vb",
+    "definition": "they went to get it",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gatshdiltag̲uix": {
+    "root": "gatshdiltag̲uix",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went back"
+  },
+  "gatxiglukł": {
+    "root": "gatxiglukł",
+    "partOfSpeech": "vb",
+    "definition": "they took themselves to him",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gatxuit": {
+    "root": "gatxuit",
+    "partOfSpeech": "vb",
+    "definition": "they stood up",
+    "seeAlso": [
+      "-TX(WI)-it"
+    ]
+  },
+  "gatxwaba": {
+    "root": "gatxwaba",
+    "partOfSpeech": "vb",
+    "definition": "they ran out",
+    "seeAlso": [
+      "-x-WA-pa"
+    ]
+  },
+  "gaya": {
+    "root": "gaya",
+    "partOfSpeech": "n",
+    "definition": "my son's child! [woman speaking], grandson!",
+    "forms": [
+      {
+        "kiksht": "gayamax",
+        "english": "my son's children! grandchildren! [Relatives]"
+      }
+    ],
+    "notes": [
+      "Used by a woman to address her son's children."
+    ]
+  },
   "gayux̲uni": {
     "root": "gayux̲uni",
     "partOfSpeech": "vb",
@@ -29097,6 +29275,41 @@
       "i-qw'inan"
     ]
   },
+  "it-gaulalxam": {
+    "root": "it-gaulalxam",
+    "partOfSpeech": "n",
+    "definition": "being Sahaptin [Dyk], being a stranger [WT, GT, MMc]",
+    "forms": [
+      {
+        "kiksht": "idiagaulalxam",
+        "english": "he is a Sahaptin [Dyk]"
+      },
+      {
+        "kiksht": "itłagaulalxam",
+        "english": "strangers [WTI.4.10]"
+      },
+      {
+        "kiksht": "idiagáulalxam",
+        "english": "he is a stranger, man stranger"
+      },
+      {
+        "kiksht": "itgagaulalxam",
+        "english": "woman stranger [GT, MMc 1/12/99]"
+      },
+      {
+        "kiksht": "[GT, MMc 1/12/ 99 rejected idmigaulalxam on the grounds that",
+        "english": "you don't ask a person if he's a stranger (in other words, it is culturally but not grammatically inappropriate)]"
+      }
+    ]
+  },
+  "it-gaxilalamax": {
+    "root": "it-gaxilalamax",
+    "partOfSpeech": "n",
+    "definition": "singers helping Indian doctor",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
   "ił-alakásgwilit": {
     "root": "ił-alakásgwilit",
     "partOfSpeech": "n",
@@ -29288,6 +29501,17 @@
     ],
     "seeAlso": [
       "ił-k'akstaquks"
+    ]
+  },
+  "ił-gaxitłamit": {
+    "root": "ił-gaxitłamit",
+    "partOfSpeech": "n",
+    "definition": "Shakers",
+    "notes": [
+      "No singular form known."
+    ],
+    "seeAlso": [
+      "ił-qitłamit"
     ]
   },
   "kinwa": {
