@@ -4282,6 +4282,20 @@
       }
     ]
   },
+  "-xn-gi-q'na": {
+    "root": "-xn-gi-q'na",
+    "partOfSpeech": "vb",
+    "definition": "learn, teach oneself",
+    "forms": [
+      {
+        "kiksht": "ixngiq'nan",
+        "english": "he is learning, teaching himself [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-n-Q'NA, -xn-Q'NAN, -n- Q'NAN"
+    ]
+  },
   "-ániwat": {
     "root": "-ániwat",
     "partOfSpeech": "adj",
@@ -27991,6 +28005,20 @@
       "daba, dika"
     ]
   },
+  "gisaqw'saqw'": {
+    "root": "gisaqw'saqw'",
+    "partOfSpeech": "part",
+    "definition": "attack",
+    "examples": [
+      {
+        "kiksht": "Gisaqw'saqw' ikiax.",
+        "english": "He was attacking. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "saqw'"
+    ]
+  },
   "giłgelxulal": {
     "root": "giłgelxulal",
     "partOfSpeech": "vb",
@@ -30057,6 +30085,193 @@
       "-ŁQW, i-gugwakiłq"
     ]
   },
+  "i-gimak": {
+    "root": "i-gimak",
+    "partOfSpeech": "n",
+    "definition": "gift, giving away, rations, Saturday",
+    "examples": [],
+    "seeAlso": [
+      "-MA-kw, wi-mak, i-qigimak, it-qigimak, i-gimalk, -xi-gi-MA-kw"
+    ]
+  },
+  "i-gimalk": {
+    "root": "i-gimalk",
+    "partOfSpeech": "n",
+    "definition": "giving away, distributing",
+    "forms": [
+      {
+        "kiksht": "imigimalk",
+        "english": "you're the one giving out rations [HS]"
+      },
+      {
+        "kiksht": "iyagimalk (=iyaxigimak)",
+        "english": "he's the one giving away [GT 12/30/97]"
+      },
+      {
+        "kiksht": "imit'úgimalk",
+        "english": "you are good distributor"
+      },
+      {
+        "kiksht": "imímlagimalk",
+        "english": "you are a bad dis- tributor [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Shan iłagimalk?",
+        "english": "Who is the distributor, who is the one giving away? [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-xigimak, -MA-kw, i-gimak, i-qigimak, it-qigimak, it-qígimalk, -xi- gi-MA-kw"
+    ]
+  },
+  "i-gimgash": {
+    "root": "i-gimgash",
+    "partOfSpeech": "n",
+    "definition": "snake of golden color",
+    "notes": [
+      "No further identification available."
+    ]
+  },
+  "i-gimichk'inan": {
+    "root": "i-gimichk'inan",
+    "partOfSpeech": "n",
+    "definition": "finding",
+    "forms": [
+      {
+        "kiksht": "iyagímichk'inan",
+        "english": "he is a finder, one who always finds things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'imichk'inan, -MICHK'I"
+    ]
+  },
+  "i-giq'ilalal": {
+    "root": "i-giq'ilalal",
+    "partOfSpeech": "n",
+    "definition": "pressing, pinching",
+    "forms": [
+      {
+        "kiksht": "iyagiq'ilalal",
+        "english": "he is a presser, pincher (as of pimples) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-Q'ILA"
+    ]
+  },
+  "i-giqnan": {
+    "root": "i-giqnan",
+    "partOfSpeech": "n",
+    "definition": "teaching, teacher",
+    "forms": [
+      {
+        "kiksht": "iyagiqnan",
+        "english": "he is a teacher; (male) teacher"
+      },
+      {
+        "kiksht": "ichagiqnan",
+        "english": "she is a teacher; (female) teacher"
+      }
+    ],
+    "seeAlso": [
+      "-QNAN, i-xigiqnan"
+    ]
+  },
+  "i-giqnanan": {
+    "root": "i-giqnanan",
+    "partOfSpeech": "n",
+    "definition": "class (of learners), teaching",
+    "examples": [
+      {
+        "kiksht": "Kwultkwult ag̲a tług emxátx igiqnánanyamt.",
+        "english": "Hurry up and come back to class. [CLL19]"
+      }
+    ]
+  },
+  "i-giqw'ulqw'ul": {
+    "root": "i-giqw'ulqw'ul",
+    "partOfSpeech": "n",
+    "definition": "stirring up, mixing up",
+    "forms": [
+      {
+        "kiksht": "iyagiqw'ulqw'ul",
+        "english": "he is a stir- rer up, a mixer up, of things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "qw'ul"
+    ]
+  },
+  "i-giqw'utłmat": {
+    "root": "i-giqw'utłmat",
+    "partOfSpeech": "n",
+    "definition": "broom, something to sweep with",
+    "seeAlso": [
+      "qw'utł, i-k'ibaqbaqmat"
+    ]
+  },
+  "i-giqw'útł": {
+    "root": "i-giqw'útł",
+    "partOfSpeech": "n",
+    "definition": "sweeping",
+    "forms": [
+      {
+        "kiksht": "iyagiqw'útl",
+        "english": "he is a sweeper [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "qw'utł"
+    ]
+  },
+  "i-gisga": {
+    "root": "i-gisga",
+    "partOfSpeech": "n",
+    "definition": "white weasel"
+  },
+  "i-gist'éx": {
+    "root": "i-gist'éx",
+    "partOfSpeech": "n",
+    "definition": "being wrapped up",
+    "forms": [
+      {
+        "kiksht": "iyagist'éx",
+        "english": "he is one who is wrapped up (for instance, with a kerchief around his head) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "st'ex"
+    ]
+  },
+  "i-gitk'i": {
+    "root": "i-gitk'i",
+    "partOfSpeech": "n",
+    "definition": "looking on",
+    "forms": [
+      {
+        "kiksht": "łagitk'i",
+        "english": "onlookers [WTI.11.17]"
+      },
+      {
+        "kiksht": "ichgitk'i",
+        "english": "my looking on; I'm a looker on [Dyk]"
+      },
+      {
+        "kiksht": "iyagitk'i",
+        "english": "his looking on; he's a looker on"
+      },
+      {
+        "kiksht": "ichágitk'i",
+        "english": "her looking on; she's a looker on [HS 7/26/56, GT, MMc 1/ 14/99]"
+      }
+    ],
+    "seeAlso": [
+      "tk'i"
+    ]
+  },
   "i-gábenash": {
     "root": "i-gábenash",
     "partOfSpeech": "n",
@@ -30796,6 +31011,34 @@
     "definition": "testing place",
     "seeAlso": [
       "-KW'A-ksht, i-gikw'alksht"
+    ]
+  },
+  "it-gimaq'imeł": {
+    "root": "it-gimaq'imeł",
+    "partOfSpeech": "n",
+    "definition": "things given away",
+    "forms": [],
+    "seeAlso": [
+      "it-xigimaq'imnił, -MAQ'IMŁ"
+    ]
+  },
+  "it-gimimtum": {
+    "root": "it-gimimtum",
+    "partOfSpeech": "n",
+    "definition": "doctor's fees, doctor's payment",
+    "notes": [
+      "Refers to the payment made to an Indian doctor."
+    ],
+    "seeAlso": [
+      "-MIMTUM"
+    ]
+  },
+  "it-gitk": {
+    "root": "it-gitk",
+    "partOfSpeech": "n",
+    "definition": "memory",
+    "seeAlso": [
+      "-xl-TK, it-kítk"
     ]
   },
   "ił-alakásgwilit": {
