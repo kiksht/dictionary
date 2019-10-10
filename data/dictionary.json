@@ -18511,12 +18511,294 @@
       "-g̲m-CHX̲U-kw"
     ]
   },
+  "gachiuk'idi": {
+    "root": "gachiuk'idi",
+    "partOfSpeech": "vb",
+    "definition": "he clothed him",
+    "seeAlso": [
+      "-K'ITI"
+    ]
+  },
+  "gachiuksht": {
+    "root": "gachiuksht",
+    "partOfSpeech": "vb",
+    "definition": "he looked at him",
+    "seeAlso": [
+      "-KSHT"
+    ]
+  },
+  "gachiukshtam": {
+    "root": "gachiukshtam",
+    "partOfSpeech": "vb",
+    "definition": "he went to look at him",
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "gachiukwł": {
+    "root": "gachiukwł",
+    "partOfSpeech": "vb",
+    "definition": "he carried it[i-]",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gachiukł": {
+    "root": "gachiukł",
+    "partOfSpeech": "vb",
+    "definition": "he took him",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gachiulgwíamit": {
+    "root": "gachiulgwíamit",
+    "partOfSpeech": "vb",
+    "definition": "he caused it[i-] to be spread out",
+    "examples": [
+      {
+        "kiksht": "Ikaba gachiulgwíamit.",
+        "english": "He caused ice to be spread out. [WTI.7.1]"
+      }
+    ],
+    "seeAlso": [
+      "-LGWIA, -LGWIA-mit"
+    ]
+  },
+  "gachiulg̲wima": {
+    "root": "gachiulg̲wima",
+    "partOfSpeech": "vb",
+    "definition": "he gave him to eat",
+    "seeAlso": [
+      "-l-QWIM"
+    ]
+  },
+  "gachiulxam": {
+    "root": "gachiulxam",
+    "partOfSpeech": "vb",
+    "definition": "he said to him",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachiulxamninchk": {
+    "root": "gachiulxamninchk",
+    "partOfSpeech": "vb",
+    "definition": "he kept tell- ing him",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachiulxamx": {
+    "root": "gachiulxamx",
+    "partOfSpeech": "vb",
+    "definition": "he said to him",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachiumg̲ug̲mit": {
+    "root": "gachiumg̲ug̲mit",
+    "partOfSpeech": "vb",
+    "definition": "he caused him to vomit",
+    "seeAlso": [
+      "-MQU-qw-mit"
+    ]
+  },
+  "gachiunaxtł": {
+    "root": "gachiunaxtł",
+    "partOfSpeech": "vb",
+    "definition": "he looked for him",
+    "seeAlso": [
+      "-NAX̲TŁ"
+    ]
+  },
+  "gachiunaxłam": {
+    "root": "gachiunaxłam",
+    "partOfSpeech": "vb",
+    "definition": "he went to look for him",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "gachiupg̲na": {
+    "root": "gachiupg̲na",
+    "partOfSpeech": "vb",
+    "definition": "he named it[i-] [WTI.1h], he called upon him [WTI.4.20]",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "gachiupshut": {
+    "root": "gachiupshut",
+    "partOfSpeech": "vb",
+    "definition": "he hid him",
+    "seeAlso": [
+      "-PSHU-t"
+    ]
+  },
+  "gachiuqapk": {
+    "root": "gachiuqapk",
+    "partOfSpeech": "vb",
+    "definition": "he steamed it[i-]",
+    "seeAlso": [
+      "-QAPK"
+    ]
+  },
+  "gachiuqchk": {
+    "root": "gachiuqchk",
+    "partOfSpeech": "vb",
+    "definition": "he took him in",
+    "examples": [
+      {
+        "kiksht": "Gachiuqchk itqwłiba.",
+        "english": "He took him into the house. [WTI.6.2]"
+      }
+    ]
+  },
+  "gachiuqdi": {
+    "root": "gachiuqdi",
+    "partOfSpeech": "vb",
+    "definition": "he stretched it[i-] out",
+    "seeAlso": [
+      "-QTI"
+    ]
+  },
+  "gachiuqsh": {
+    "root": "gachiuqsh",
+    "partOfSpeech": "vb",
+    "definition": "he bit at it[i-]",
+    "seeAlso": [
+      "-QSH"
+    ]
+  },
+  "gachiushtx": {
+    "root": "gachiushtx",
+    "partOfSpeech": "vb",
+    "definition": "he packed it[i-] on his back",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "gachiut'iwalalemchk": {
+    "root": "gachiut'iwalalemchk",
+    "partOfSpeech": "vb",
+    "definition": "he pushed him about",
+    "seeAlso": [
+      "-T'IWA"
+    ]
+  },
+  "gachiuwaq": {
+    "root": "gachiuwaq",
+    "partOfSpeech": "vb",
+    "definition": "he killed him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gachiuxix": {
+    "root": "gachiuxix",
+    "partOfSpeech": "vb",
+    "definition": "he did it to him there",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachiuxsh": {
+    "root": "gachiuxsh",
+    "partOfSpeech": "vb",
+    "definition": "he cut it[i-]",
+    "seeAlso": [
+      "-X̲SH"
+    ]
+  },
+  "gachiuxuchk'i": {
+    "root": "gachiuxuchk'i",
+    "partOfSpeech": "vb",
+    "definition": "he made it[i-], he designed it[i-] [GT, MMc 1/15/99]",
+    "examples": [
+      {
+        "kiksht": "Ag̲a nux g̲áng̲adix sháxalix ishtámx gachiuxuchk'i wilx.",
+        "english": "Long ago, the Creator designed the world. [Bear and Crane A]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲UCHK'I"
+    ]
+  },
+  "gachiuxutkix": {
+    "root": "gachiuxutkix",
+    "partOfSpeech": "vb",
+    "definition": "he barbecued it[i-] in ashes"
+  },
+  "gachiuxwax": {
+    "root": "gachiuxwax",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] did him",
+    "examples": [
+      {
+        "kiksht": "Ik'makan gachiuxwax.",
+        "english": "He got angry. [WTI.17.1]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachiułada": {
+    "root": "gachiułada",
+    "partOfSpeech": "vb",
+    "definition": "he dropped it[i-], he let it[i-] fall",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "gachiułaimit": {
+    "root": "gachiułaimit",
+    "partOfSpeech": "vb",
+    "definition": "he set him down",
+    "seeAlso": [
+      "-ŁAI-mit"
+    ]
+  },
+  "gachiułat'ámelq": {
+    "root": "gachiułat'ámelq",
+    "partOfSpeech": "vb",
+    "definition": "he swallowed it[i-]",
+    "seeAlso": [
+      "-łat'amlq, ktułat'amlqt, achnułat'amlqma"
+    ]
+  },
+  "gachiułem": {
+    "root": "gachiułem",
+    "partOfSpeech": "vb",
+    "definition": "he speared it[i-]",
+    "seeAlso": [
+      "-ŁM"
+    ]
+  },
+  "gachiułxlem": {
+    "root": "gachiułxlem",
+    "partOfSpeech": "vb",
+    "definition": "he ate it[i-]",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
   "gachiúgmaxix": {
     "root": "gachiúgmaxix",
     "partOfSpeech": "vb",
     "definition": "he made it[i-] near them",
     "seeAlso": [
       "-X̲"
+    ]
+  },
+  "gachiúmamagwa": {
+    "root": "gachiúmamagwa",
+    "partOfSpeech": "vb",
+    "definition": "he made a mistake about him",
+    "seeAlso": [
+      "-MAMA-kw"
     ]
   },
   "gacháwichmaq": {
@@ -18547,6 +18829,22 @@
     ],
     "seeAlso": [
       "-gl-CHIM"
+    ]
+  },
+  "gachíupshut": {
+    "root": "gachíupshut",
+    "partOfSpeech": "vb",
+    "definition": "he hid it[i-]",
+    "seeAlso": [
+      "-PSHU-t"
+    ]
+  },
+  "gachíuwa": {
+    "root": "gachíuwa",
+    "partOfSpeech": "vb",
+    "definition": "he pursued him",
+    "seeAlso": [
+      "-WA"
     ]
   },
   "gaciukwshtam": {
