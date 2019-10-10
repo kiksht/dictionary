@@ -1916,6 +1916,23 @@
       }
     ]
   },
+  "-ganut": {
+    "root": "-ganut",
+    "partOfSpeech": "vb",
+    "definition": "urinate",
+    "examples": [
+      {
+        "kiksht": "gayuxuganut",
+        "english": "he urinated on them [WTI.1k]"
+      }
+    ],
+    "notes": [
+      "This root is very doubtful. Compare -unudaba and -xanut."
+    ],
+    "seeAlso": [
+      "-unudaba, -xanut"
+    ]
+  },
   "-gl-CHIM": {
     "root": "-gl-CHIM",
     "partOfSpeech": "vb",
@@ -23397,6 +23414,30 @@
       "-I, -I-am"
     ]
   },
+  "ganshxdinax": {
+    "root": "ganshxdinax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) fought one another",
+    "seeAlso": [
+      "-x-DINA"
+    ]
+  },
+  "ganshxelchmaqwax": {
+    "root": "ganshxelchmaqwax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) heard",
+    "seeAlso": [
+      "-xl-CHMA-qw"
+    ]
+  },
+  "ganshxeltxwichkax": {
+    "root": "ganshxeltxwichkax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) got ready",
+    "seeAlso": [
+      "-xl-TX(WI)-chkw"
+    ]
+  },
   "ganshxkw'ayux": {
     "root": "ganshxkw'ayux",
     "partOfSpeech": "vb",
@@ -23411,6 +23452,58 @@
     "definition": "we (not including you) started home",
     "seeAlso": [
       "-x-KW'A"
+    ]
+  },
+  "ganshxlaichkax": {
+    "root": "ganshxlaichkax",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) got up from bed",
+    "seeAlso": [
+      "-x-LA-chkw"
+    ]
+  },
+  "ganshxuxwamx": {
+    "root": "ganshxuxwamx",
+    "partOfSpeech": "vb",
+    "definition": "we (not includ- ing you) kept, we (not including you) did",
+    "examples": [
+      {
+        "kiksht": "Watch ganshxuxwamx.",
+        "english": "We kept watch. [WTIV.2.10]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganshxuxwax": {
+    "root": "ganshxuxwax",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) were, we (not including you) became, we (not including you) did",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "ganshxádina": {
+    "root": "ganshxádina",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) fought",
+    "seeAlso": [
+      "-x-DINA"
+    ]
+  },
+  "ganshxátx": {
+    "root": "ganshxátx",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) became",
+    "examples": [
+      {
+        "kiksht": "P'ala ganshxátx.",
+        "english": "We stopped. [WTIV.2.23]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
     ]
   },
   "ganshúg̲uix": {
@@ -23443,6 +23536,94 @@
       "-SKN"
     ]
   },
+  "gantgag̲elgelx": {
+    "root": "gantgag̲elgelx",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not includ- ing you) saw it[a-]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ganuxwag̲wamitx": {
+    "root": "ganuxwag̲wamitx",
+    "partOfSpeech": "vb",
+    "definition": "I destroyed them",
+    "notes": [
+      "This verb, though with ga- remote past prefix, is translated as future in WTI.5.4: \"I will destroy...\""
+    ],
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "ganuxwax": {
+    "root": "ganuxwax",
+    "partOfSpeech": "vb",
+    "definition": "I made it[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ganuyamx": {
+    "root": "ganuyamx",
+    "partOfSpeech": "vb",
+    "definition": "I arrived",
+    "seeAlso": [
+      "-I, -I-am"
+    ]
+  },
+  "ganwit": {
+    "root": "ganwit",
+    "partOfSpeech": "adv",
+    "definition": "indeed, truly"
+  },
+  "ganxatx": {
+    "root": "ganxatx",
+    "partOfSpeech": "vb",
+    "definition": "I became",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "ganxelchmaq": {
+    "root": "ganxelchmaq",
+    "partOfSpeech": "vb",
+    "definition": "I made myself heard, I made a sound",
+    "seeAlso": [
+      "-xl-CHMA-qw"
+    ]
+  },
+  "ganxelqłaxit": {
+    "root": "ganxelqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "I learned, I found out",
+    "seeAlso": [
+      "-xl-QŁA-xit"
+    ]
+  },
+  "ganxtgimninxtł": {
+    "root": "ganxtgimninxtł",
+    "partOfSpeech": "vb",
+    "definition": "I kept saying",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "ganxtkixax": {
+    "root": "ganxtkixax",
+    "partOfSpeech": "vb",
+    "definition": "I was",
+    "seeAlso": [
+      "-XTKIX̲AX̲"
+    ]
+  },
+  "ganxádina": {
+    "root": "ganxádina",
+    "partOfSpeech": "vb",
+    "definition": "I fought",
+    "seeAlso": [
+      "-x-DINA"
+    ]
+  },
   "ganíuxwax": {
     "root": "ganíuxwax",
     "partOfSpeech": "vb",
@@ -23465,6 +23646,70 @@
     "definition": "I went to tell them",
     "seeAlso": [
       "-LXAM"
+    ]
+  },
+  "gaqagelga": {
+    "root": "gaqagelga",
+    "partOfSpeech": "vb",
+    "definition": "one took it[a-], it[a-] was taken",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gaqailut": {
+    "root": "gaqailut",
+    "partOfSpeech": "vb",
+    "definition": "one gave it[a-] to him, he was given it[a-], one gave her to him, she was given to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gaqalchmaq": {
+    "root": "gaqalchmaq",
+    "partOfSpeech": "vb",
+    "definition": "one heard it[a-], it[a-] was heard",
+    "seeAlso": [
+      "-l-CHMA-qw"
+    ]
+  },
+  "gaqawaqax": {
+    "root": "gaqawaqax",
+    "partOfSpeech": "vb",
+    "definition": "one killed her, she was killed",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gaqałlux": {
+    "root": "gaqałlux",
+    "partOfSpeech": "vb",
+    "definition": "one made it[a-] for them, it[a-] was made for them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqág̲elgelx": {
+    "root": "gaqág̲elgelx",
+    "partOfSpeech": "vb",
+    "definition": "one saw them[a-], they[a-] were seen",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gaqáwichmaqax": {
+    "root": "gaqáwichmaqax",
+    "partOfSpeech": "vb",
+    "definition": "one heard them, they were heard",
+    "seeAlso": [
+      "-l-CHMA-qw"
+    ]
+  },
+  "gaqáłxuxax": {
+    "root": "gaqáłxuxax",
+    "partOfSpeech": "vb",
+    "definition": "one did it[a-] from them, it[a-] was done from them",
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "gayux̲uni": {

@@ -8499,3 +8499,104 @@ See also: -x-KW’A
 
 ganshxkw’ayux [vb] we (not includ- ing you) each went home
 See also: -x-KW’A
+
+
+
+
+
+
+
+
+ganshxÅdina [vb] we (not including you) fought
+See also: -x-DINA
+
+ganshxÅtx [vb] we (not including you) became
+Examples: P’ala ganshxÅtx. “We stopped.” [WTIV.2.23]
+See also: - ̨, -x- ̨
+
+ganshxdinax [vb] we (not including you) fought one another
+See also: -x-DINA
+
+ganshxelchmaqwax [vb] we (not including you) heard
+See also: -xl-CHMA-qw
+
+ganshxeltxwichkax [vb] we (not including you) got ready
+See also: -xl-TX(WI)-chkw
+
+ganshxlaichkax [vb] we (not includ- ing you) got up from bed
+See also: -x-LA-chkw
+
+ganshxuxwamx [vb] we (not includ- ing you) kept, we (not including you) did
+Examples: Watch ganshxuxwamx. “We kept watch.” [WTIV.2.10]
+See also: - ̨
+
+ganshxuxwax [vb] we (not including you) were, we (not including you) became, we (not including you) did
+See also: - ̨, -x- ̨
+
+gantga©elgelx [vb] we 2 (not includ- ing you) saw it[a-]
+See also: -©l-KL
+
+-ganut [vb] urinate
+Examples: gayuxuganut “he urinated on them” [WTI.1k]
+Notes: This root is very doubtful. Compare -unudaba and -xanut.
+See also: -unudaba, -xanut
+
+ganuxwa©wamitx [vb] I destroyed them
+Notes: This verb, though with ga- remote past prefix, is translated as future in WTI.5.4: “I will destroy...”
+See also: -WA-qw
+
+ganuxwax [vb] I did her
+See also: - ̨
+
+ganuxwax [vb] I made it[a-]
+See also: - ̨
+
+ganuyamx [vb] I arrived
+See also: -I, -I-am
+
+ganuyamx [vb] I arrived
+See also: -I, -I-am
+
+ganwit [adv] indeed, truly
+
+ganxtkixax [vb] I was
+See also: -XTKI ̨A ̨
+
+ganxÅdina [vb] I fought
+See also: -x-DINA
+
+ganxatx [vb] I became
+See also: - ̨, -x- ̨
+
+ganxelchmaq [vb] I made myself heard, I made a sound
+See also: -xl-CHMA-qw
+
+ganxelq¬axit [vb] I learned, I found out
+See also: -xl-QÒA-xit
+
+ganxtgimninxt¬ [vb] I kept saying
+See also: -KIM
+
+gaqagelga [vb] one took it[a-], it[a-] was taken
+See also: -gl-GA
+
+gaqÅ©elgelx [vb] one saw them[a-], they[a-] were seen
+See also: -©l-KL
+
+gaqailut [vb] one gave it[a-] to him, he was given it[a-], one gave her to him, she was given to him
+See also: -T
+
+gaqalchmaq [vb] one heard it[a-], it[a-] was heard
+See also: -l-CHMA-qw
+
+gaqa¬lux [vb] one made it[a-] for them, it[a-] was made for them
+See also: - ̨
+
+gaqÅ¬xuxax [vb] one did it[a-] from them, it[a-] was done from them
+See also: - ̨
+
+gaqawaqax [vb] one killed her, she was killed
+See also: -WA-qw
+
+gaqÅwichmaqax [vb] one heard them, they were heard
+See also: -l-CHMA-qw
