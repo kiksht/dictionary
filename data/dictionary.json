@@ -1944,6 +1944,20 @@
       }
     ]
   },
+  "-gaqwtatx": {
+    "root": "-gaqwtatx",
+    "partOfSpeech": "adj",
+    "definition": "naked",
+    "forms": [
+      {
+        "kiksht": "igaqwtatx",
+        "english": "he is/was naked [WTIV.2.6]"
+      }
+    ],
+    "seeAlso": [
+      "-gakwdatx, -gaqwdátx"
+    ]
+  },
   "-gl-CHIM": {
     "root": "-gl-CHIM",
     "partOfSpeech": "vb",
@@ -24403,6 +24417,252 @@
       "-T"
     ]
   },
+  "gasengatk'agwax": {
+    "root": "gasengatk'agwax",
+    "partOfSpeech": "vb",
+    "definition": "it[ish-] waves over me",
+    "notes": [
+      "This is song language, and may not conform to normal Wasco speech."
+    ]
+  },
+  "gashaxelq'iłx": {
+    "root": "gashaxelq'iłx",
+    "partOfSpeech": "vb",
+    "definition": "she was crying, she wept, she burst into tears",
+    "seeAlso": [
+      "-sh-xl-Q'IŁX̲"
+    ]
+  },
+  "gashdałílakwit": {
+    "root": "gashdałílakwit",
+    "partOfSpeech": "vb",
+    "definition": "they 2 struck it",
+    "examples": [
+      {
+        "kiksht": "Gashdałílakwit iłchqwá.",
+        "english": "They struck the water. [WTI.9.4]"
+      }
+    ],
+    "seeAlso": [
+      "-l-LA-kw"
+    ]
+  },
+  "gashdildáchuxwix": {
+    "root": "gashdildáchuxwix",
+    "partOfSpeech": "vb",
+    "definition": "they 2 ran down into it[i-]",
+    "seeAlso": [
+      "-TA"
+    ]
+  },
+  "gashdiltłaguix": {
+    "root": "gashdiltłaguix",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went around"
+  },
+  "gashdilwulxt": {
+    "root": "gashdilwulxt",
+    "partOfSpeech": "vb",
+    "definition": "they two went up to it[i-]",
+    "seeAlso": [
+      "-WULX"
+    ]
+  },
+  "gashdug̲idaqłqax": {
+    "root": "gashdug̲idaqłqax",
+    "partOfSpeech": "vb",
+    "definition": "they 2 left them behind",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "gashduix": {
+    "root": "gashduix",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "gashdułait": {
+    "root": "gashdułait",
+    "partOfSpeech": "vb",
+    "definition": "they 2 stayed, they 2 dwelt",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "gashdułxuxwitx": {
+    "root": "gashdułxuxwitx",
+    "partOfSpeech": "vb",
+    "definition": "they 2 were beaten, they 2 lost",
+    "seeAlso": [
+      "-ŁKW"
+    ]
+  },
+  "gashdułádapg̲xid": {
+    "root": "gashdułádapg̲xid",
+    "partOfSpeech": "vb",
+    "definition": "it[ish-] was thrown inside",
+    "seeAlso": [
+      "-ŁADA, -PQ, -ŁADA-pq-xit"
+    ]
+  },
+  "gashgagelga": {
+    "root": "gashgagelga",
+    "partOfSpeech": "vb",
+    "definition": "they 2 seized her",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gashgag̲elkel": {
+    "root": "gashgag̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "they 2 saw her",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gashgailukłam": {
+    "root": "gashgailukłam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 brought it[a-] to him",
+    "seeAlso": [
+      "-KŁ, -KŁ-am"
+    ]
+  },
+  "gashgaxaima": {
+    "root": "gashgaxaima",
+    "partOfSpeech": "vb",
+    "definition": "they 2 laid her down",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "gashgdiluxix": {
+    "root": "gashgdiluxix",
+    "partOfSpeech": "vb",
+    "definition": "they two did them on it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gashgiaxux": {
+    "root": "gashgiaxux",
+    "partOfSpeech": "vb",
+    "definition": "they 2 did it[i-] from her",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gashgigelga": {
+    "root": "gashgigelga",
+    "partOfSpeech": "vb",
+    "definition": "they 2 got hold of him",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gashgig̲elkel": {
+    "root": "gashgig̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "they 2 saw him",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gashgiukłam": {
+    "root": "gashgiukłam",
+    "partOfSpeech": "vb",
+    "definition": "they two brought him",
+    "seeAlso": [
+      "-KŁ-am"
+    ]
+  },
+  "gashgiłkwax": {
+    "root": "gashgiłkwax",
+    "partOfSpeech": "vb",
+    "definition": "they 2 won",
+    "seeAlso": [
+      "-ŁKW"
+    ]
+  },
+  "gashgíukł": {
+    "root": "gashgíukł",
+    "partOfSpeech": "vb",
+    "definition": "they two carried him",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gasixelcgi": {
+    "root": "gasixelcgi",
+    "partOfSpeech": "vb",
+    "definition": "he lay belly up",
+    "seeAlso": [
+      "-s-xl-CGI"
+    ]
+  },
+  "gasixeldi": {
+    "root": "gasixeldi",
+    "partOfSpeech": "vb",
+    "definition": "he put it[ish-] around himself",
+    "seeAlso": [
+      "-l-DI"
+    ]
+  },
+  "gasixemk'nakwack": {
+    "root": "gasixemk'nakwack",
+    "partOfSpeech": "vb",
+    "definition": "he looked all around",
+    "seeAlso": [
+      "-s-gm-K'NA-kw"
+    ]
+  },
+  "gasixlutk": {
+    "root": "gasixlutk",
+    "partOfSpeech": "vb",
+    "definition": "he put himself into (a cradleboard)",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "gasixmitłgwa": {
+    "root": "gasixmitłgwa",
+    "partOfSpeech": "vb",
+    "definition": "he turned a som- ersault",
+    "seeAlso": [
+      "-s-k'-MI-tłkw"
+    ]
+  },
+  "gasixtkiq": {
+    "root": "gasixtkiq",
+    "partOfSpeech": "vb",
+    "definition": "he wrapped himself in it[ish-]",
+    "seeAlso": [
+      "-k-TKI-qw"
+    ]
+  },
+  "gasktanakw'ast": {
+    "root": "gasktanakw'ast",
+    "partOfSpeech": "n",
+    "definition": "my feathered cloak",
+    "notes": [
+      "This is song language, which does not conform to normal Wasco speech."
+    ],
+    "seeAlso": [
+      "is-tánakw'ast"
+    ]
+  },
+  "gasxúx": {
+    "root": "gasxúx",
+    "partOfSpeech": "vb",
+    "definition": "they 2 became",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
   "gayux̲uni": {
     "root": "gayux̲uni",
     "partOfSpeech": "vb",
@@ -27974,6 +28234,14 @@
     "definition": "basketry design featuring deer",
     "seeAlso": [
       "-ch'ank"
+    ]
+  },
+  "it-gaqw'inanksh": {
+    "root": "it-gaqw'inanksh",
+    "partOfSpeech": "n",
+    "definition": "saddle stirrup leather (flat part)",
+    "seeAlso": [
+      "i-qw'inan"
     ]
   },
   "ił-alakásgwilit": {
