@@ -10845,3 +10845,60 @@ Forms: icha©unam “she has a goiter” [Dyk]
 ©up [part] close
 Examples:  ̋up ixa imikwshxÅt! “Close your mouth!” [GT, MMc 1/15/ 99]  ̋up gachi ̈x iyakwshxÅt. “He closed his mouth.” [Coyote and Rab- bit K]
 Notes: Apparently used only of clos- ing the mouth.
+
+
+
+
+
+
+
+
+
+- ̋UPT-it [vb] go to sleep, fall asleep, sleep
+See also: - ̋UPT, - ̋UPDA
+Forms: m©uptˆt! “go to sleep! sleep!” ayu© ̈ptida “he will go to sleep, will sleep” yu©updlit/yu©uptlit “he is sleeping (repeatedly); he is sleepy; he sleeps and wakes and sleeps again, as from loss of sleep before” it©uptlit “he was sleeping (repeatedly), was sleepy, slept and woke and slept again” iyu©uptit “he just went to sleep” igit©uptit “he just slept (over there, before coming here)” nanu©uptida “I slept, fell asleep” nanit©upt¬idma “I fell asleep (repeat- edly, over there, before coming here)” niyu©uptit “he slept (last season)” niyu©uptlit “he slept (re- peatedly, last season)” nigit©uptit “he slept (last week)” nigit©uptlit “he slept (repeatedly, last week)” ga¬u©uptit “they went to sleep” ga¬u©uyuptit “they each went to sleep” [Dyk] gayu©uptit “he fell asleep” iyu©uptit “he is sleeping” [WTI.1a2]
+Examples: DakwÅsh galu©uptˆt. “She went right to sleep.” [Dyk]
+See also: -GU-chu, -(x)- ̋UITQ
+
+- ̋UPDA-mit [vb] put to sleep, cause to fall asleep
+Forms: ichiu©updamit “he made him fall asleep” iyu©updÅmixit “he was caused to fall asleep” u©updÅmitix “she is asleep, having been caused to fall asleep” [Dyk]
+See also: - ̋UYUSHGA-mit, -TÒK’I- gwa-mit, -TÒK’I-kw
+
+-©uqshen [n] in-law, spouse’s relative
+Forms: ak©uqshen “my (female) in- law” [Alice Florendo thought this referred specifically to a daughter-in- law.] ich©uqshen “my (male) in-law” ¬a©uqshnana “in-laws” [Relatives] iya©uqshen “his wife’s male relative” aya©uqshen “his wife’s female rela- tive” icha©uqshen “her husband’s male relative” aga©uqshen “her husband’s female relative” idia©uqshnana “his wife’s relatives” [Dyk]
+Notes: Refers to the relationship between the families of a married couple, especially perhaps the par- ents on both sides.
+
+i-©ush©ush [n] wharf rat
+Forms: ish©ush©ush “2 wharf rats” it©ush©ushuksh “wharf rats” [HS]
+
+a-©utx [n] mother’s sister, (maternal) aunt, stepmother
+Forms: ak©utx “my (maternal) aunt” aya©utx “his (maternal) aunt” i¬ensha©utx “our (maternal) aunts” i¬ga©utxnana “her (maternal) aunts” agutx “(maternal) aunt!” [Relatives]
+Notes: May refer either to a maternal aunt or to a stepmother.
+See also: a©utx
+
+i-© ̈t¬ [n] sore on the back, saddle sore
+Forms: idia© ̈t¬kaksh “his sores” [Dyk]
+Examples: Dadakdak iya©ut¬. “His back sore is loosening, coming off.” [Dyk]
+
+©ut¬qt [num] eight
+
+©ut¬qtt¬iya¬ [num] eighty
+
+i-©uyam [n] life, living
+Forms: ich©uyam “my living” [GT 1/ 15/99]
+Examples: QiklÅix alma imi©uyam gigat. “Live well from now on.” [Spilyay/Healthy Nations]
+
+it-© ̈yemxat [n] overnight camping place
+See also: -qui, i-©uyim, - ̋UY
+
+i-©uyim [n] overnight camping
+See also: -qui, it-© ̈yimxat
+
+- ̋UYUSHGA-mit [vb] put to sleep
+Forms: aq¬u© ̈yushgamida “someone will put it to sleep” [Dyk]
+Notes: Apparently used particularly of putting children to sleep
+See also: - ̋UPDA-mit, -TÒK’I-gwa-mit, -TÒK’I-kw
+
+-i-x-gi- ̋WA-qw [vb] dream
+Forms: inixgi©wa©wa “I dreamed” [WTIV.2.2] galixgi©waqwax “he dreamt” [WTIV.4.1]
+See also: - ̋WA

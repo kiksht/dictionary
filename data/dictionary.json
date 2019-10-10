@@ -226,6 +226,126 @@
       "- G̲UPT-it"
     ]
   },
+  "- G̲UPDA-mit": {
+    "root": "- G̲UPDA-mit",
+    "partOfSpeech": "vb",
+    "definition": "put to sleep, cause to fall asleep",
+    "forms": [
+      {
+        "kiksht": "ichiug̲updamit",
+        "english": "he made him fall asleep"
+      },
+      {
+        "kiksht": "iyug̲updámixit",
+        "english": "he was caused to fall asleep"
+      },
+      {
+        "kiksht": "ug̲updámitix",
+        "english": "she is asleep, having been caused to fall asleep [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "- G̲UYUSHGA-mit, -TŁK'I- gwa-mit, -TŁK'I-kw"
+    ]
+  },
+  "- G̲UPT-it": {
+    "root": "- G̲UPT-it",
+    "partOfSpeech": "vb",
+    "definition": "go to sleep, fall asleep, sleep",
+    "seeAlso": [
+      "- G̲UPT, - G̲UPDA",
+      "-GU-chu, -(x)- G̲UITQ"
+    ],
+    "forms": [
+      {
+        "kiksht": "mg̲uptít!",
+        "english": "go to sleep! sleep!"
+      },
+      {
+        "kiksht": "ayug̲úptida",
+        "english": "he will go to sleep, will sleep"
+      },
+      {
+        "kiksht": "yug̲updlit/yug̲uptlit",
+        "english": "he is sleeping (repeatedly); he is sleepy; he sleeps and wakes and sleeps again, as from loss of sleep before"
+      },
+      {
+        "kiksht": "itg̲uptlit",
+        "english": "he was sleeping (repeatedly), was sleepy, slept and woke and slept again"
+      },
+      {
+        "kiksht": "iyug̲uptit",
+        "english": "he just went to sleep"
+      },
+      {
+        "kiksht": "igitg̲uptit",
+        "english": "he just slept (over there, before coming here)"
+      },
+      {
+        "kiksht": "nanug̲uptida",
+        "english": "I slept, fell asleep"
+      },
+      {
+        "kiksht": "nanitg̲uptłidma",
+        "english": "I fell asleep (repeat- edly, over there, before coming here)"
+      },
+      {
+        "kiksht": "niyug̲uptit",
+        "english": "he slept (last season)"
+      },
+      {
+        "kiksht": "niyug̲uptlit",
+        "english": "he slept (re- peatedly, last season)"
+      },
+      {
+        "kiksht": "nigitg̲uptit",
+        "english": "he slept (last week)"
+      },
+      {
+        "kiksht": "nigitg̲uptlit",
+        "english": "he slept (repeatedly, last week)"
+      },
+      {
+        "kiksht": "gaług̲uptit",
+        "english": "they went to sleep"
+      },
+      {
+        "kiksht": "gaług̲uyuptit",
+        "english": "they each went to sleep [Dyk]"
+      },
+      {
+        "kiksht": "gayug̲uptit",
+        "english": "he fell asleep"
+      },
+      {
+        "kiksht": "iyug̲uptit",
+        "english": "he is sleeping [WTI.1a2]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Dakwásh galug̲uptít.",
+        "english": "She went right to sleep. [Dyk]"
+      }
+    ]
+  },
+  "- G̲UYUSHGA-mit": {
+    "root": "- G̲UYUSHGA-mit",
+    "partOfSpeech": "vb",
+    "definition": "put to sleep",
+    "forms": [
+      {
+        "kiksht": "aqług̲úyushgamida",
+        "english": "someone will put it to sleep [Dyk]"
+      }
+    ],
+    "notes": [
+      "Apparently used particularly of putting children to sleep"
+    ],
+    "seeAlso": [
+      "- G̲UPDA-mit, -TŁK'I-gwa-mit, -TŁK'I-kw"
+    ]
+  },
   "-(i)-gl-xi-GLA-dix": {
     "root": "-(i)-gl-xi-GLA-dix",
     "partOfSpeech": "vb",
@@ -3137,6 +3257,48 @@
       "a-kag̲uliu"
     ]
   },
+  "-g̲uqshen": {
+    "root": "-g̲uqshen",
+    "partOfSpeech": "n",
+    "definition": "in-law, spouse's relative",
+    "forms": [
+      {
+        "kiksht": "akg̲uqshen",
+        "english": "my (female) in- law [Alice Florendo thought this referred specifically to a daughter-in- law.]"
+      },
+      {
+        "kiksht": "ichg̲uqshen",
+        "english": "my (male) in-law"
+      },
+      {
+        "kiksht": "łag̲uqshnana",
+        "english": "in-laws [Relatives]"
+      },
+      {
+        "kiksht": "iyag̲uqshen",
+        "english": "his wife's male relative"
+      },
+      {
+        "kiksht": "ayag̲uqshen",
+        "english": "his wife's female rela- tive"
+      },
+      {
+        "kiksht": "ichag̲uqshen",
+        "english": "her husband's male relative"
+      },
+      {
+        "kiksht": "agag̲uqshen",
+        "english": "her husband's female relative"
+      },
+      {
+        "kiksht": "idiag̲uqshnana",
+        "english": "his wife's relatives [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to the relationship between the families of a married couple, especially perhaps the par- ents on both sides."
+    ]
+  },
   "-g̲úlulmax": {
     "root": "-g̲úlulmax",
     "partOfSpeech": "n",
@@ -3239,6 +3401,24 @@
     ],
     "seeAlso": [
       "ił-qigwakdix"
+    ]
+  },
+  "-i-x-gi- G̲WA-qw": {
+    "root": "-i-x-gi- G̲WA-qw",
+    "partOfSpeech": "vb",
+    "definition": "dream",
+    "forms": [
+      {
+        "kiksht": "inixgig̲wag̲wa",
+        "english": "I dreamed [WTIV.2.2]"
+      },
+      {
+        "kiksht": "galixgig̲waqwax",
+        "english": "he dreamt [WTIV.4.1]"
+      }
+    ],
+    "seeAlso": [
+      "- G̲WA"
     ]
   },
   "-k-CHA": {
@@ -6828,6 +7008,39 @@
         "kiksht": "In WTI.16, ag̲ulul is translated as plural:",
         "english": "acorns."
       }
+    ]
+  },
+  "a-g̲utx": {
+    "root": "a-g̲utx",
+    "partOfSpeech": "n",
+    "definition": "mother's sister, (maternal) aunt, stepmother",
+    "forms": [
+      {
+        "kiksht": "akg̲utx",
+        "english": "my (maternal) aunt"
+      },
+      {
+        "kiksht": "ayag̲utx",
+        "english": "his (maternal) aunt"
+      },
+      {
+        "kiksht": "iłenshag̲utx",
+        "english": "our (maternal) aunts"
+      },
+      {
+        "kiksht": "iłgag̲utxnana",
+        "english": "her (maternal) aunts"
+      },
+      {
+        "kiksht": "agutx",
+        "english": "(maternal) aunt! [Relatives]"
+      }
+    ],
+    "notes": [
+      "May refer either to a maternal aunt or to a stepmother."
+    ],
+    "seeAlso": [
+      "ag̲utx"
     ]
   },
   "a-g̲áditix": {
@@ -30095,6 +30308,16 @@
       "Apparently used only of clos- ing the mouth."
     ]
   },
+  "g̲utłqt": {
+    "root": "g̲utłqt",
+    "partOfSpeech": "num",
+    "definition": "eight"
+  },
+  "g̲utłqttłiyał": {
+    "root": "g̲utłqttłiyał",
+    "partOfSpeech": "num",
+    "definition": "eighty"
+  },
   "g̲ánwicha": {
     "root": "g̲ánwicha",
     "partOfSpeech": "interj",
@@ -33205,6 +33428,46 @@
       }
     ]
   },
+  "i-g̲ushg̲ush": {
+    "root": "i-g̲ushg̲ush",
+    "partOfSpeech": "n",
+    "definition": "wharf rat",
+    "forms": [
+      {
+        "kiksht": "ishg̲ushg̲ush",
+        "english": "2 wharf rats"
+      },
+      {
+        "kiksht": "itg̲ushg̲ushuksh",
+        "english": "wharf rats [HS]"
+      }
+    ]
+  },
+  "i-g̲uyam": {
+    "root": "i-g̲uyam",
+    "partOfSpeech": "n",
+    "definition": "life, living",
+    "forms": [
+      {
+        "kiksht": "ichg̲uyam",
+        "english": "my living [GT 1/ 15/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qikláix alma imig̲uyam gigat.",
+        "english": "Live well from now on. [Spilyay/Healthy Nations]"
+      }
+    ]
+  },
+  "i-g̲uyim": {
+    "root": "i-g̲uyim",
+    "partOfSpeech": "n",
+    "definition": "overnight camping",
+    "seeAlso": [
+      "-qui, it-g̲úyimxat"
+    ]
+  },
   "i-g̲ánina": {
     "root": "i-g̲ánina",
     "partOfSpeech": "n",
@@ -33276,6 +33539,23 @@
     ],
     "seeAlso": [
       "i-q'elłxipdix"
+    ]
+  },
+  "i-g̲útł": {
+    "root": "i-g̲útł",
+    "partOfSpeech": "n",
+    "definition": "sore on the back, saddle sore",
+    "forms": [
+      {
+        "kiksht": "idiag̲útłkaksh",
+        "english": "his sores [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Dadakdak iyag̲utł.",
+        "english": "His back sore is loosening, coming off. [Dyk]"
+      }
     ]
   },
   "i-k'ámunaq": {
@@ -34365,6 +34645,14 @@
     "definition": "beating sticks",
     "notes": [
       "Refers to sticks beaten against wooden plank, used in both an In- dian doctor's song and gambling songs."
+    ]
+  },
+  "it-g̲úyemxat": {
+    "root": "it-g̲úyemxat",
+    "partOfSpeech": "n",
+    "definition": "overnight camping place",
+    "seeAlso": [
+      "-qui, i-g̲uyim, - G̲UY"
     ]
   },
   "ił-alakásgwilit": {
