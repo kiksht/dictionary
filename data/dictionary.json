@@ -17397,6 +17397,243 @@
       "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"you do that, we for our part do this.\""
     ]
   },
+  "endaya": {
+    "root": "endaya",
+    "partOfSpeech": "pron",
+    "definition": "we 2 (not including you) for our part, us 2 (not including you) for our part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"you do that, we for our part do this.\""
+    ]
+  },
+  "endayax": {
+    "root": "endayax",
+    "partOfSpeech": "pron",
+    "definition": "we 2 (not including you) for our part, us 2 (not including you) for our part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"you do that, we for our part do this.\""
+    ]
+  },
+  "endimam": {
+    "root": "endimam",
+    "partOfSpeech": "vb",
+    "definition": "I am coming, I am arriving",
+    "seeAlso": [
+      "-d-I-mam"
+    ]
+  },
+  "endimamt": {
+    "root": "endimamt",
+    "partOfSpeech": "vb",
+    "definition": "I have arrived",
+    "examples": [
+      {
+        "kiksht": "Qikláix daba emdimamt.",
+        "english": "I'm glad I've come here. [CLL4]"
+      }
+    ],
+    "seeAlso": [
+      "-d-I-mam"
+    ]
+  },
+  "endimamx": {
+    "root": "endimamx",
+    "partOfSpeech": "vb",
+    "definition": "I am coming",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "enduit": {
+    "root": "enduit",
+    "partOfSpeech": "vb",
+    "definition": "we 2 are going",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "enduqmit": {
+    "root": "enduqmit",
+    "partOfSpeech": "vb",
+    "definition": "I see them",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "enduxt": {
+    "root": "enduxt",
+    "partOfSpeech": "vb",
+    "definition": "I am doing it[it-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "endwalal": {
+    "root": "endwalal",
+    "partOfSpeech": "vb",
+    "definition": "I am journeying to them",
+    "seeAlso": [
+      "-WA"
+    ]
+  },
+  "engitxudínamchk": {
+    "root": "engitxudínamchk",
+    "partOfSpeech": "vb",
+    "definition": "come help me!",
+    "seeAlso": [
+      "-gn-X̲UTIN"
+    ]
+  },
+  "engu": {
+    "root": "engu",
+    "partOfSpeech": "part",
+    "definition": "take care of, care for",
+    "examples": [
+      {
+        "kiksht": "Engu anyuxa.",
+        "english": "I'll take care of him. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Used particularly of taking care of a child."
+    ],
+    "seeAlso": [
+      "nugu"
+    ]
+  },
+  "engushgiwal": {
+    "root": "engushgiwal",
+    "partOfSpeech": "vb",
+    "definition": "I am walking about",
+    "seeAlso": [
+      "-k-SHGIWA"
+    ]
+  },
+  "engúxtgelal": {
+    "root": "engúxtgelal",
+    "partOfSpeech": "vb",
+    "definition": "I am stealing",
+    "seeAlso": [
+      "-k-XTK, ik'uxtgalal"
+    ]
+  },
+  "enkiax": {
+    "root": "enkiax",
+    "partOfSpeech": "vb",
+    "definition": "I am",
+    "seeAlso": [
+      "-KIAX̲"
+    ]
+  },
+  "enkinaxł": {
+    "root": "enkinaxł",
+    "partOfSpeech": "vb",
+    "definition": "I am looking for, I am seeking to find",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "enkixax": {
+    "root": "enkixax",
+    "partOfSpeech": "vb",
+    "definition": "I am doing",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "enkshtám": {
+    "root": "enkshtám",
+    "partOfSpeech": "vb",
+    "definition": "come look at me!",
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "enp'i": {
+    "root": "enp'i",
+    "partOfSpeech": "part",
+    "definition": "work on fish",
+    "examples": [
+      {
+        "kiksht": "Enp'i nkiax.",
+        "english": "I'm working on fish."
+      },
+      {
+        "kiksht": "Enp'i ikiax.",
+        "english": "He's working on fish. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Usually refers to cutting and drying, sometimes to catching, cut- ting and drying."
+    ]
+  },
+  "ensak'lutkt": {
+    "root": "ensak'lutkt",
+    "partOfSpeech": "vb",
+    "definition": "I am looking at it[a-]",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "ensha": {
+    "root": "ensha",
+    "partOfSpeech": "pron",
+    "definition": "we (not including you) for our part, us (not including you) for our part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"they do that, we for our part do this.\""
+    ]
+  },
+  "enshaichkengi": {
+    "root": "enshaichkengi",
+    "partOfSpeech": "pron",
+    "definition": "by ourselves"
+  },
+  "enshaika": {
+    "root": "enshaika",
+    "partOfSpeech": "pron",
+    "definition": "we (not including you), us (not including you)",
+    "notes": [
+      "Independent personal pro- noun."
+    ]
+  },
+  "enshaima": {
+    "root": "enshaima",
+    "partOfSpeech": "pron",
+    "definition": "only we (not in- cluding you), only us (not including you)"
+  },
+  "enshait'a": {
+    "root": "enshait'a",
+    "partOfSpeech": "pron",
+    "definition": "we (not including you) also, us (not including you) also"
+  },
+  "enshait'ax": {
+    "root": "enshait'ax",
+    "partOfSpeech": "pron",
+    "definition": "we (not including you) also, us (not including you) also"
+  },
+  "enshałeldat": {
+    "root": "enshałeldat",
+    "partOfSpeech": "vb",
+    "definition": "we are running on it",
+    "seeAlso": [
+      "-ta"
+    ]
+  },
+  "enłuxt": {
+    "root": "enłuxt",
+    "partOfSpeech": "vb",
+    "definition": "I do to it",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "enłxelmax": {
+    "root": "enłxelmax",
+    "partOfSpeech": "vb",
+    "definition": "I am eating",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
   "ełbél": {
     "root": "ełbél",
     "partOfSpeech": "part",
@@ -19061,6 +19298,20 @@
       "ish-lepqtit"
     ]
   },
+  "is-enquq": {
+    "root": "is-enquq",
+    "partOfSpeech": "n",
+    "definition": "small short fish line",
+    "examples": [
+      {
+        "kiksht": "Imsenlux isgenquq.",
+        "english": "You made my fishline for me."
+      }
+    ],
+    "seeAlso": [
+      "i-pchudit"
+    ]
+  },
   "ish- -ditł'i": {
     "root": "ish- -ditł'i",
     "partOfSpeech": "adj n",
@@ -19110,6 +19361,22 @@
     "seeAlso": [
       "ch'iqch'iq, -ch'iqch'iq"
     ]
+  },
+  "ish-eng̲itg̲it": {
+    "root": "ish-eng̲itg̲it",
+    "partOfSpeech": "n",
+    "definition": "chicken hawk",
+    "forms": [
+      {
+        "kiksht": "ideng̲itg̲itksh, ideng̲ítg̲ituksh",
+        "english": "chicken hawks [Dyk]"
+      }
+    ]
+  },
+  "ish-enquq": {
+    "root": "ish-enquq",
+    "partOfSpeech": "n",
+    "definition": "fishline"
   },
   "ish-élxłx": {
     "root": "ish-élxłx",
