@@ -23680,12 +23680,205 @@
       "-WA-qw"
     ]
   },
+  "gaqawiqłaxit": {
+    "root": "gaqawiqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "one found out about it[it-], it[it-] was found out",
+    "seeAlso": [
+      "-l-QŁA-xit"
+    ]
+  },
+  "gaqaxima": {
+    "root": "gaqaxima",
+    "partOfSpeech": "vb",
+    "definition": "one laid her down, she was laid down",
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
   "gaqałlux": {
     "root": "gaqałlux",
     "partOfSpeech": "vb",
     "definition": "one made it[a-] for them, it[a-] was made for them",
     "seeAlso": [
       "-X̲"
+    ]
+  },
+  "gaqdilut": {
+    "root": "gaqdilut",
+    "partOfSpeech": "vb",
+    "definition": "one gave it[it-] to him, it[it-] was given to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gaqdilux": {
+    "root": "gaqdilux",
+    "partOfSpeech": "vb",
+    "definition": "one did them to him, they were done to him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqdálimałx": {
+    "root": "gaqdálimałx",
+    "partOfSpeech": "vb",
+    "definition": "they fell into the water",
+    "notes": [
+      "Literally \"one threw them into the water.\""
+    ],
+    "seeAlso": [
+      "-a-l-IMA-łx"
+    ]
+  },
+  "gaqdíguxax": {
+    "root": "gaqdíguxax",
+    "partOfSpeech": "vb",
+    "definition": "one did them at him",
+    "examples": [
+      {
+        "kiksht": "Łk'up gaqdíguxax.",
+        "english": "He was shot at. [WTIV.2.12]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqdíluxax": {
+    "root": "gaqdíluxax",
+    "partOfSpeech": "vb",
+    "definition": "one did them on it[i- ], they were done on it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqendulapax": {
+    "root": "gaqendulapax",
+    "partOfSpeech": "vb",
+    "definition": "one dug us two (not including you) up",
+    "seeAlso": [
+      "-LA, -PA, -LA-pa"
+    ]
+  },
+  "gaqenshupg̲náiwanananumx": {
+    "root": "gaqenshupg̲náiwanananumx",
+    "partOfSpeech": "vb",
+    "definition": "one called us (not including you) out by name, we (not including you) were called out by name",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "gaqenshuqłpax": {
+    "root": "gaqenshuqłpax",
+    "partOfSpeech": "vb",
+    "definition": "one missed us, we were missed",
+    "seeAlso": [
+      "-QŁ-pa"
+    ]
+  },
+  "gaqénshukłamax": {
+    "root": "gaqénshukłamax",
+    "partOfSpeech": "vb",
+    "definition": "one brought us (not including you), we (not in- cluding you) were brought",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gaqéntx": {
+    "root": "gaqéntx",
+    "partOfSpeech": "vb",
+    "definition": "one did to me, I was done to",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqidwaq": {
+    "root": "gaqidwaq",
+    "partOfSpeech": "vb",
+    "definition": "one killed him, he was killed",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gaqigelga": {
+    "root": "gaqigelga",
+    "partOfSpeech": "vb",
+    "definition": "one got it[i-], it[i-] was gotten [WTI.1c.10], one took hold of him, he was taken hold of [WTI.15.5]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gaqigiluma": {
+    "root": "gaqigiluma",
+    "partOfSpeech": "vb",
+    "definition": "one called out to him",
+    "seeAlso": [
+      "-gi-LUMA"
+    ]
+  },
+  "gaqig̲elgelx": {
+    "root": "gaqig̲elgelx",
+    "partOfSpeech": "vb",
+    "definition": "one saw him, he was seen",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gaqilchmaq": {
+    "root": "gaqilchmaq",
+    "partOfSpeech": "vb",
+    "definition": "one heard him, he was heard",
+    "seeAlso": [
+      "-l-CHMA-qw"
+    ]
+  },
+  "gaqilqd(i)": {
+    "root": "gaqilqd(i)",
+    "partOfSpeech": "vb",
+    "definition": "one pointed to him, he was pointed to",
+    "seeAlso": [
+      "-l-QTI"
+    ]
+  },
+  "gaqilud": {
+    "root": "gaqilud",
+    "partOfSpeech": "vb",
+    "definition": "one gave it[i-] to him, he was given it[i-]",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gaqinshit": {
+    "root": "gaqinshit",
+    "partOfSpeech": "vb",
+    "definition": "one gave it[i-] to us (including you), it[i-] was given to us (including you)",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gaqiqłáit": {
+    "root": "gaqiqłáit",
+    "partOfSpeech": "vb",
+    "definition": "one threw him down, he was thrown down",
+    "seeAlso": [
+      "-QŁA-it"
+    ]
+  },
+  "gaqiálimałxax": {
+    "root": "gaqiálimałxax",
+    "partOfSpeech": "vb",
+    "definition": "one put him into water, he was put into water",
+    "seeAlso": [
+      "-a-l-IMA-łx"
+    ]
+  },
+  "gaqiłlutx": {
+    "root": "gaqiłlutx",
+    "partOfSpeech": "vb",
+    "definition": "one gave it[i-] to them, it[i-] was given to them",
+    "seeAlso": [
+      "-T"
     ]
   },
   "gaqág̲elgelx": {
@@ -23704,10 +23897,54 @@
       "-l-CHMA-qw"
     ]
   },
+  "gaqáwigitkax": {
+    "root": "gaqáwigitkax",
+    "partOfSpeech": "vb",
+    "definition": "one loaded them, they were loaded",
+    "seeAlso": [
+      "-TK, -l-gi-TK"
+    ]
+  },
   "gaqáłxuxax": {
     "root": "gaqáłxuxax",
     "partOfSpeech": "vb",
     "definition": "one did it[a-] from them, it[a-] was done from them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqígelgax": {
+    "root": "gaqígelgax",
+    "partOfSpeech": "vb",
+    "definition": "one took him, he was taken",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gaqíluxwax": {
+    "root": "gaqíluxwax",
+    "partOfSpeech": "vb",
+    "definition": "one did it[i-] to him, it[i-] was done to him",
+    "forms": [
+      {
+        "kiksht": "Iyamaq gaqíluxwax.",
+        "english": "He was fired at. [WTIV.2.22]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqíłluxax": {
+    "root": "gaqíłluxax",
+    "partOfSpeech": "vb",
+    "definition": "one did it[i-] to them, it[i-] was done to them",
+    "examples": [
+      {
+        "kiksht": "Naqi shan iłamaq gaqiłluxax.",
+        "english": "No one was wounded. [WTIV.2.17]"
+      }
+    ],
     "seeAlso": [
       "-X̲"
     ]
