@@ -4630,6 +4630,17 @@
       "Related to Warm Springs kapú. Both are probably borrowed from French capot through Chinook Jargon."
     ]
   },
+  "a-gagaps": {
+    "root": "a-gagaps",
+    "partOfSpeech": "n",
+    "definition": "big hat",
+    "notes": [
+      "Refers to a hat larger than a- gak'aps or a-k'ak'aps."
+    ],
+    "seeAlso": [
+      "-gak'aps, -k'ak'aps"
+    ]
+  },
   "a-g̲agilak": {
     "root": "a-g̲agilak",
     "partOfSpeech": "n",
@@ -20276,12 +20287,146 @@
       "-PQ"
     ]
   },
+  "gadenxítx": {
+    "root": "gadenxítx",
+    "partOfSpeech": "vb",
+    "definition": "I did them on myself",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gadigelxaq": {
+    "root": "gadigelxaq",
+    "partOfSpeech": "vb",
+    "definition": "they gathered to- gether to him",
+    "seeAlso": [
+      "-xa-QW"
+    ]
+  },
+  "gadigláit": {
+    "root": "gadigláit",
+    "partOfSpeech": "vb",
+    "definition": "they sat on him",
+    "seeAlso": [
+      "-LA-it"
+    ]
+  },
+  "gadigusgwáix": {
+    "root": "gadigusgwáix",
+    "partOfSpeech": "vb",
+    "definition": "they slid over it[i- ]",
+    "seeAlso": [
+      "-S-kw"
+    ]
+  },
+  "gadig̲elba": {
+    "root": "gadig̲elba",
+    "partOfSpeech": "vb",
+    "definition": "they went out of him",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "gadilmuya": {
+    "root": "gadilmuya",
+    "partOfSpeech": "vb",
+    "definition": "he was tired",
+    "seeAlso": [
+      "-d-l-MUI"
+    ]
+  },
+  "gadiq'lłxiuba": {
+    "root": "gadiq'lłxiuba",
+    "partOfSpeech": "vb",
+    "definition": "they (each one) flowed out through him",
+    "seeAlso": [
+      "-ŁX̲-pa"
+    ]
+  },
+  "gadixelmux": {
+    "root": "gadixelmux",
+    "partOfSpeech": "vb",
+    "definition": "he ate them",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "gadixlushtxmit": {
+    "root": "gadixlushtxmit",
+    "partOfSpeech": "vb",
+    "definition": "he packed them on himself",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "gadixlux": {
+    "root": "gadixlux",
+    "partOfSpeech": "vb",
+    "definition": "he did them on himself [WTI.4.14], he put them on himself [WTI.1e.3]",
+    "examples": [
+      {
+        "kiksht": "Itk'ámunak qutłqutł gadixlux iyawanba ig̲anuk.",
+        "english": "Beaver stuck sticks onto himself all over his body. [WTI.4.14]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gadixtłagwa": {
+    "root": "gadixtłagwa",
+    "partOfSpeech": "vb",
+    "definition": "they marched around it[i-]",
+    "seeAlso": [
+      "-x-TŁA-kw"
+    ]
+  },
+  "gadixtłagwaix": {
+    "root": "gadixtłagwaix",
+    "partOfSpeech": "vb",
+    "definition": "they passed around him",
+    "seeAlso": [
+      "-x-TŁA-kw"
+    ]
+  },
+  "gadixúchkwt": {
+    "root": "gadixúchkwt",
+    "partOfSpeech": "vb",
+    "definition": "he trapped them",
+    "seeAlso": [
+      "-x-CHKWT"
+    ]
+  },
+  "gadiłxelmex": {
+    "root": "gadiłxelmex",
+    "partOfSpeech": "vb",
+    "definition": "he ate them",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
   "gadnsxsgenmex": {
     "root": "gadnsxsgenmex",
     "partOfSpeech": "vb",
     "definition": "they went on ahead of us",
     "seeAlso": [
       "-SKN"
+    ]
+  },
+  "gaduxwikwłichk": {
+    "root": "gaduxwikwłichk",
+    "partOfSpeech": "vb",
+    "definition": "they told one another, they spread the news",
+    "seeAlso": [
+      "-xl-KWŁI"
+    ]
+  },
+  "gaduxwátłagwa": {
+    "root": "gaduxwátłagwa",
+    "partOfSpeech": "vb",
+    "definition": "they passed them",
+    "seeAlso": [
+      "-x-TŁA-kw"
     ]
   },
   "gadántłakwax": {
@@ -20292,12 +20437,128 @@
       "-n-TŁA-kw"
     ]
   },
+  "gagadmank": {
+    "root": "gagadmank",
+    "partOfSpeech": "adv",
+    "definition": "a little further over this way",
+    "seeAlso": [
+      "gigat, mank"
+    ]
+  },
+  "gagag̲elkel": {
+    "root": "gagag̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "she saw them[a-]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gagialut": {
+    "root": "gagialut",
+    "partOfSpeech": "vb",
+    "definition": "she gave it[i-] to her",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gagialutx": {
+    "root": "gagialutx",
+    "partOfSpeech": "vb",
+    "definition": "she gave it[i-] to her",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gagig̲elkel": {
+    "root": "gagig̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "she saw him",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gagilqwim": {
+    "root": "gagilqwim",
+    "partOfSpeech": "vb",
+    "definition": "she gave it[i-] to him to eat",
+    "seeAlso": [
+      "-QWIM"
+    ]
+  },
+  "gagilqłaxit": {
+    "root": "gagilqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "she discovered about him, she found out about him",
+    "seeAlso": [
+      "-l-QŁA-xit"
+    ]
+  },
+  "gagitxá": {
+    "root": "gagitxá",
+    "partOfSpeech": "vb",
+    "definition": "she did to him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gagiugulaqłq": {
+    "root": "gagiugulaqłq",
+    "partOfSpeech": "vb",
+    "definition": "she recognized him [WTI.2.7], she recognized it[i-] [WTIV.3.3]",
+    "pronunciation": "gagiúgulaqłq: WTI.2.7; gagíugulaqłq: WTIV.3.3",
+    "seeAlso": [
+      "-GULA-qłq"
+    ]
+  },
+  "gagiłlút": {
+    "root": "gagiłlút",
+    "partOfSpeech": "vb",
+    "definition": "she gave it[i-] to them",
+    "seeAlso": [
+      "-T"
+    ]
+  },
   "gagułada": {
     "root": "gagułada",
     "partOfSpeech": "vb",
     "definition": "she lost hold of it[a-]",
     "seeAlso": [
       "-ŁADA"
+    ]
+  },
+  "gagáilagwa": {
+    "root": "gagáilagwa",
+    "partOfSpeech": "vb",
+    "definition": "she struck her with it[i-]",
+    "seeAlso": [
+      "-l-LA-kw"
+    ]
+  },
+  "gagáiluqwim": {
+    "root": "gagáiluqwim",
+    "partOfSpeech": "vb",
+    "definition": "she gave to him to eat, she fed him",
+    "seeAlso": [
+      "-l-QWIM"
+    ]
+  },
+  "gagíaxshgam": {
+    "root": "gagíaxshgam",
+    "partOfSpeech": "vb",
+    "definition": "she took it[i-] away from her",
+    "seeAlso": [
+      "-x-SHKAM"
+    ]
+  },
+  "gagílukshmit": {
+    "root": "gagílukshmit",
+    "partOfSpeech": "vb",
+    "definition": "she put it[i-] into it[i-]",
+    "examples": [
+      {
+        "kiksht": "Łq'up gagiux igakwal, ishialisht gagílukshmit iakwshxatpa.",
+        "english": "She cut up the eel, she put its tail in his mouth. [WTI.1a2]"
+      }
     ]
   },
   "galishgluya": {
@@ -21795,6 +22056,11 @@
     "seeAlso": [
       "i-gábnashg̲lit, ił-nachkan"
     ]
+  },
+  "i-gagínua": {
+    "root": "i-gagínua",
+    "partOfSpeech": "n",
+    "definition": "chicken-hawk"
   },
   "i-gábenash": {
     "root": "i-gábenash",
