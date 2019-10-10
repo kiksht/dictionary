@@ -1933,6 +1933,17 @@
       "-unudaba, -xanut"
     ]
   },
+  "-gaqwdátx": {
+    "root": "-gaqwdátx",
+    "partOfSpeech": "adj",
+    "definition": "naked",
+    "examples": [
+      {
+        "kiksht": "Dakdak aqnuxwa engaqwdátx.",
+        "english": "I was undressed en- tirely naked. [WTII.10.1]"
+      }
+    ]
+  },
   "-gl-CHIM": {
     "root": "-gl-CHIM",
     "partOfSpeech": "vb",
@@ -24026,6 +24037,204 @@
       "-LA, -PA, -LA-pa"
     ]
   },
+  "gaqshalut": {
+    "root": "gaqshalut",
+    "partOfSpeech": "vb",
+    "definition": "one gave it[ish-] to her, she was given it[ish-]",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gaqshenshluxax": {
+    "root": "gaqshenshluxax",
+    "partOfSpeech": "vb",
+    "definition": "one did them 2 at us (not including you)",
+    "examples": [
+      {
+        "kiksht": "Łk'up gaqshnshluxax.",
+        "english": "One shot at us, we were shot at. [WTIV.2.8]"
+      }
+    ],
+    "notes": [
+      "The use of the dual object pronoun -sh- \"them 2\" is apparently part of an idiom meaning \"shoot at.\""
+    ],
+    "seeAlso": [
+      "-X̲, łk'up -sh-l-X̲"
+    ]
+  },
+  "gaqshilut": {
+    "root": "gaqshilut",
+    "partOfSpeech": "vb",
+    "definition": "one gave it[ish-] to him, it[ish-] was given to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gaqshshlút": {
+    "root": "gaqshshlút",
+    "partOfSpeech": "vb",
+    "definition": "one gave it[ish-] to them 2, they 2 were given it[ish-]",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gaqshukłam": {
+    "root": "gaqshukłam",
+    "partOfSpeech": "vb",
+    "definition": "one went to get it[ish-]",
+    "seeAlso": [
+      "-KŁ, -KŁ-am"
+    ]
+  },
+  "gaqshíguxwax": {
+    "root": "gaqshíguxwax",
+    "partOfSpeech": "vb",
+    "definition": "one did it[ish-] at him, it[ish-] was done at him",
+    "examples": [
+      {
+        "kiksht": "Łkup gaqshíguxwax.",
+        "english": "He was shot. [WTIV.2.22]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, łk'up -sh-l-X̲"
+    ]
+  },
+  "gaqshúkł": {
+    "root": "gaqshúkł",
+    "partOfSpeech": "vb",
+    "definition": "one brought them 2, they 2 were brought",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gaqshúx": {
+    "root": "gaqshúx",
+    "partOfSpeech": "vb",
+    "definition": "one did them 2",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqshúłk": {
+    "root": "gaqshúłk",
+    "partOfSpeech": "vb",
+    "definition": "one beat them 2, they 2 were beaten",
+    "seeAlso": [
+      "-ŁKW"
+    ]
+  },
+  "gaqtaxpu": {
+    "root": "gaqtaxpu",
+    "partOfSpeech": "vb",
+    "definition": "one covered it[a-] with them, it[a-] was covered with them",
+    "examples": [
+      {
+        "kiksht": "G̲wnma itk'álamat gaqtaxpu.",
+        "english": "It [sweathouse] was cov- ered with five stones. [WTI.4.10]"
+      }
+    ],
+    "seeAlso": [
+      "-x-PU"
+    ]
+  },
+  "gaqtudinax": {
+    "root": "gaqtudinax",
+    "partOfSpeech": "vb",
+    "definition": "one killed them, they were killed",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "gaqtuxwax": {
+    "root": "gaqtuxwax",
+    "partOfSpeech": "vb",
+    "definition": "one did them, they were done",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqtíluxwax": {
+    "root": "gaqtíluxwax",
+    "partOfSpeech": "vb",
+    "definition": "one did them to it[i-], they were done to it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqtúx": {
+    "root": "gaqtúx",
+    "partOfSpeech": "vb",
+    "definition": "one did (to) them, they were done to",
+    "examples": [
+      {
+        "kiksht": "Dak gaqtúx itk'álamat.",
+        "english": "The stones were removed. [WTI.4.13]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqugwiga": {
+    "root": "gaqugwiga",
+    "partOfSpeech": "vb",
+    "definition": "one got them, they were gotten",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gaqug̲wilxemx": {
+    "root": "gaqug̲wilxemx",
+    "partOfSpeech": "vb",
+    "definition": "one mauled her, she was mauled",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "gaqukshtka": {
+    "root": "gaqukshtka",
+    "partOfSpeech": "vb",
+    "definition": "one carried her, she was carried"
+  },
+  "gaqukła": {
+    "root": "gaqukła",
+    "partOfSpeech": "vb",
+    "definition": "one took her, she was taken",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gaqulxamx": {
+    "root": "gaqulxamx",
+    "partOfSpeech": "vb",
+    "definition": "one told her, she was told",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gaquxikiłx": {
+    "root": "gaquxikiłx",
+    "partOfSpeech": "vb",
+    "definition": "one burned them, they were burned",
+    "examples": [
+      {
+        "kiksht": "Idmímlushtiksh itgáq'uchu gaquxikiłx.",
+        "english": "The dead people's bones were burned. [WTI.4.6]"
+      }
+    ],
+    "seeAlso": [
+      "-xi-KIŁX̲"
+    ]
+  },
+  "gaquxwax": {
+    "root": "gaquxwax",
+    "partOfSpeech": "vb",
+    "definition": "one made them, they were made",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gaqág̲elgelx": {
     "root": "gaqág̲elgelx",
     "partOfSpeech": "vb",
@@ -24110,6 +24319,20 @@
       {
         "kiksht": "Naqi shan iłamaq gaqiłluxax.",
         "english": "No one was wounded. [WTIV.2.17]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaqúx": {
+    "root": "gaqúx",
+    "partOfSpeech": "vb",
+    "definition": "one did (to) it[a-], it[a-] was done (to) [WTI.4.13], one made them[a-], they[a-] were made [WTII.5.2]",
+    "examples": [
+      {
+        "kiksht": "Saqw tł'ak gaqúx aqábudit.",
+        "english": "The door was entirely uncovered. [WTI.4.13]"
       }
     ],
     "seeAlso": [
