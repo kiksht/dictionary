@@ -19270,6 +19270,54 @@
       "-LXAM"
     ]
   },
+  "gachtuqsham": {
+    "root": "gachtuqsham",
+    "partOfSpeech": "vb",
+    "definition": "he went and bit at them",
+    "seeAlso": [
+      "-QSH"
+    ]
+  },
+  "gachtushkam": {
+    "root": "gachtushkam",
+    "partOfSpeech": "vb",
+    "definition": "he took it[it-] up (song)",
+    "seeAlso": [
+      "-SHKAM"
+    ]
+  },
+  "gachtushtxuit": {
+    "root": "gachtushtxuit",
+    "partOfSpeech": "vb",
+    "definition": "he packed them",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "gachtuxwax": {
+    "root": "gachtuxwax",
+    "partOfSpeech": "vb",
+    "definition": "he did them [WTI.11.17], he did it[it-] [WTIV.2.14]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachtuxwimchk": {
+    "root": "gachtuxwimchk",
+    "partOfSpeech": "vb",
+    "definition": "he challenged them",
+    "seeAlso": [
+      "-XIM"
+    ]
+  },
+  "gachtułxum": {
+    "root": "gachtułxum",
+    "partOfSpeech": "vb",
+    "definition": "he ate them",
+    "seeAlso": [
+      "-ŁX̲UM"
+    ]
+  },
   "gachtúdina": {
     "root": "gachtúdina",
     "partOfSpeech": "vb",
@@ -19294,12 +19342,181 @@
       "-KŁ"
     ]
   },
+  "gachtúshtx": {
+    "root": "gachtúshtx",
+    "partOfSpeech": "vb",
+    "definition": "he carried it[it-] on his back",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "gachtúx": {
+    "root": "gachtúx",
+    "partOfSpeech": "vb",
+    "definition": "he did to them, he did (to) it[it-]",
+    "examples": [
+      {
+        "kiksht": "Luq' gachtúx itxwdlít.",
+        "english": "He swallowed the smoke. [WTI.4.6]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachtłlux": {
+    "root": "gachtłlux",
+    "partOfSpeech": "vb",
+    "definition": "he did them at him[ił- ]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gachtłlúlamitx": {
+    "root": "gachtłlúlamitx",
+    "partOfSpeech": "vb",
+    "definition": "he deceived them in regard to them"
+  },
   "gachtłlút": {
     "root": "gachtłlút",
     "partOfSpeech": "vb",
     "definition": "he gave them to them",
     "seeAlso": [
       "-T"
+    ]
+  },
+  "gachudukwachkwax": {
+    "root": "gachudukwachkwax",
+    "partOfSpeech": "vb",
+    "definition": "he sent her, he made her go, he bossed her",
+    "examples": [
+      {
+        "kiksht": "Aduxixikłxa ikala gachudukwashkwax ayágikal.",
+        "english": "They tell about a man who sent his wife (to get food). [WTIV.3.1]"
+      }
+    ],
+    "seeAlso": [
+      "-DUGWA"
+    ]
+  },
+  "gachugwiga": {
+    "root": "gachugwiga",
+    "partOfSpeech": "vb",
+    "definition": "he seized it[it-], he caught them, he took hold of them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachugwitxúdinmchk": {
+    "root": "gachugwitxúdinmchk",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] helped them",
+    "seeAlso": [
+      "-gn-X̲UTIN"
+    ]
+  },
+  "gachug̲igelx": {
+    "root": "gachug̲igelx",
+    "partOfSpeech": "vb",
+    "definition": "he saw them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gachug̲ikel": {
+    "root": "gachug̲ikel",
+    "partOfSpeech": "vb",
+    "definition": "he saw it[it-] [WTI.11.9], he saw them [WTI.18.10]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gachug̲mchxuga": {
+    "root": "gachug̲mchxuga",
+    "partOfSpeech": "vb",
+    "definition": "he asked her",
+    "seeAlso": [
+      "-g̲m-CHX̲U-kw"
+    ]
+  },
+  "gachug̲wikel": {
+    "root": "gachug̲wikel",
+    "partOfSpeech": "vb",
+    "definition": "he saw them [WTI.1c.1, 13.9], he saw it[it-] [WTI.13.6]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gachug̲wilx": {
+    "root": "gachug̲wilx",
+    "partOfSpeech": "vb",
+    "definition": "he struck her",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "gachukła": {
+    "root": "gachukła",
+    "partOfSpeech": "vb",
+    "definition": "he took her along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gachukłam": {
+    "root": "gachukłam",
+    "partOfSpeech": "vb",
+    "definition": "he took her along with him",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gachulkchamit": {
+    "root": "gachulkchamit",
+    "partOfSpeech": "vb",
+    "definition": "he roasted them",
+    "seeAlso": [
+      "-LKCH"
+    ]
+  },
+  "gachulxam": {
+    "root": "gachulxam",
+    "partOfSpeech": "vb",
+    "definition": "he told her",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gachumichk'i": {
+    "root": "gachumichk'i",
+    "partOfSpeech": "vb",
+    "definition": "he picked them",
+    "seeAlso": [
+      "-MICHK'I"
+    ]
+  },
+  "gachumila": {
+    "root": "gachumila",
+    "partOfSpeech": "vb",
+    "definition": "he scolded her",
+    "seeAlso": [
+      "-MILA"
+    ]
+  },
+  "gachułada": {
+    "root": "gachułada",
+    "partOfSpeech": "vb",
+    "definition": "he threw her off [WTI.2.19], he threw it[a-] away [WTI.9.12]",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "gachułxum": {
+    "root": "gachułxum",
+    "partOfSpeech": "vb",
+    "definition": "he ate them[a-]",
+    "seeAlso": [
+      "-ŁX̲UM"
     ]
   },
   "gacháwichmaq": {
@@ -19346,6 +19563,52 @@
     "definition": "he pursued him",
     "seeAlso": [
       "-WA"
+    ]
+  },
+  "gachúgelaqłq": {
+    "root": "gachúgelaqłq",
+    "partOfSpeech": "vb",
+    "definition": "he recognized it[a-]",
+    "seeAlso": [
+      "-GLA-qłq"
+    ]
+  },
+  "gachúgwalmam": {
+    "root": "gachúgwalmam",
+    "partOfSpeech": "vb",
+    "definition": "he went to get them[a-]",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "gachúgwiga": {
+    "root": "gachúgwiga",
+    "partOfSpeech": "vb",
+    "definition": "he took them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachúgwigax": {
+    "root": "gachúgwigax",
+    "partOfSpeech": "vb",
+    "definition": "he took them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gachúmquit": {
+    "root": "gachúmquit",
+    "partOfSpeech": "vb",
+    "definition": "he spat it[a-] out",
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt gachúmquit akłmín isk'ulya, gachułada.",
+        "english": "Now then Coyote spat out the moon, he threw it away. [WTI.9.9]"
+      }
+    ],
+    "seeAlso": [
+      "-MQU(I)-it"
     ]
   },
   "gachłakux": {
@@ -19782,6 +20045,14 @@
     "definition": "he looked at him[ił-]",
     "seeAlso": [
       "-s-k'l-TK"
+    ]
+  },
+  "gagułada": {
+    "root": "gagułada",
+    "partOfSpeech": "vb",
+    "definition": "she lost hold of it[a-]",
+    "seeAlso": [
+      "-ŁADA"
     ]
   },
   "galishgluya": {
