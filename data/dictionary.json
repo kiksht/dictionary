@@ -22942,12 +22942,304 @@
       "-gl-GA"
     ]
   },
+  "gałgig̲elkel": {
+    "root": "gałgig̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "they saw him",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "gałgikxaima": {
+    "root": "gałgikxaima",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] put it[i-] down, he[ił-] laid it[i-] down",
+    "examples": [
+      {
+        "kiksht": "Gałgikxaima aknimba inag̲un.",
+        "english": "He laid the sturgeon down in the canoe. [WTI.1d.1]"
+      }
+    ],
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "gałgikłada": {
+    "root": "gałgikłada",
+    "partOfSpeech": "vb",
+    "definition": "he threw it[i-] to him",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "gałgitqmit": {
+    "root": "gałgitqmit",
+    "partOfSpeech": "vb",
+    "definition": "they saw him",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "gałgiug̲mchxuga": {
+    "root": "gałgiug̲mchxuga",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] asked him",
+    "seeAlso": [
+      "-g̲m-CHX̲U-kw"
+    ]
+  },
+  "gałgiukeł": {
+    "root": "gałgiukeł",
+    "partOfSpeech": "vb",
+    "definition": "they brought him [WTI.2.15], they took [i-] along [WTI.4.15, IV.1.3]",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gałgiukłam": {
+    "root": "gałgiukłam",
+    "partOfSpeech": "vb",
+    "definition": "they came along with them",
+    "seeAlso": [
+      "-KŁ-am"
+    ]
+  },
+  "gałgiulxam": {
+    "root": "gałgiulxam",
+    "partOfSpeech": "vb",
+    "definition": "they said to him",
+    "seeAlso": [
+      "-LYAM"
+    ]
+  },
+  "gałgiunaxł": {
+    "root": "gałgiunaxł",
+    "partOfSpeech": "vb",
+    "definition": "they looked for him",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "gałgiuqti": {
+    "root": "gałgiuqti",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] pointed at him",
+    "seeAlso": [
+      "-QTI"
+    ]
+  },
+  "gałgiux": {
+    "root": "gałgiux",
+    "partOfSpeech": "vb",
+    "definition": "they did him",
+    "examples": [
+      {
+        "kiksht": "Ai gałgiux.",
+        "english": "They con- sented to him. [WTI.11.16]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałgiuxax": {
+    "root": "gałgiuxax",
+    "partOfSpeech": "vb",
+    "definition": "they did him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałgiuxwax": {
+    "root": "gałgiuxwax",
+    "partOfSpeech": "vb",
+    "definition": "they did it[i-] [WTIV.2.15, 21], they did to him [WTI.11.1]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałgiułada": {
+    "root": "gałgiułada",
+    "partOfSpeech": "vb",
+    "definition": "they threw it[i-]",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "gałgiuładax": {
+    "root": "gałgiuładax",
+    "partOfSpeech": "vb",
+    "definition": "they threw it[i-]",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "gałgiwaq": {
+    "root": "gałgiwaq",
+    "partOfSpeech": "vb",
+    "definition": "they killed him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "gałgixima": {
+    "root": "gałgixima",
+    "partOfSpeech": "vb",
+    "definition": "they put them down",
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
+  "gałgixwaxix": {
+    "root": "gałgixwaxix",
+    "partOfSpeech": "vb",
+    "definition": "they headed him off",
+    "seeAlso": [
+      "-i-x-WA-ix"
+    ]
+  },
   "gałgiálimałx": {
     "root": "gałgiálimałx",
     "partOfSpeech": "vb",
     "definition": "they threw it[i-] into water",
     "seeAlso": [
       "-a-l-IMA-łx"
+    ]
+  },
+  "gałgiúnaxłam": {
+    "root": "gałgiúnaxłam",
+    "partOfSpeech": "vb",
+    "definition": "they went to look for it[i-]",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "gałgluma": {
+    "root": "gałgluma",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] shouted",
+    "seeAlso": [
+      "-k-LUMA"
+    ]
+  },
+  "gałgnshulxamx": {
+    "root": "gałgnshulxamx",
+    "partOfSpeech": "vb",
+    "definition": "they said to us",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gałgunaxłchk": {
+    "root": "gałgunaxłchk",
+    "partOfSpeech": "vb",
+    "definition": "they looked for it[a-]",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "gałgwułem": {
+    "root": "gałgwułem",
+    "partOfSpeech": "vb",
+    "definition": "they speared her",
+    "examples": [
+      {
+        "kiksht": "Gałgwułem walxayu.",
+        "english": "They speared the seal. [WTI.4.1]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁM"
+    ]
+  },
+  "gałgíluxax": {
+    "root": "gałgíluxax",
+    "partOfSpeech": "vb",
+    "definition": "they did it[i-] to him",
+    "examples": [
+      {
+        "kiksht": "Ixt ikíutan iyamaq gałgíluxax ayachk'nba.",
+        "english": "They wounded one horse in the shoulder. [WTIV.2.14]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałgímx": {
+    "root": "gałgímx",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "gałgítx": {
+    "root": "gałgítx",
+    "partOfSpeech": "vb",
+    "definition": "they did it[i-] to it[i-]",
+    "examples": [
+      {
+        "kiksht": "Iyaułmax iyamaq gałgítx.",
+        "english": "They shot at his guardian spirit (literally 'they did its shot to his guardian spirit'). [WTIV.2.20]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gałgíunaxłchk": {
+    "root": "gałgíunaxłchk",
+    "partOfSpeech": "vb",
+    "definition": "they looked for him",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "gałgíutkam": {
+    "root": "gałgíutkam",
+    "partOfSpeech": "vb",
+    "definition": "they went to put them away",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "gałgúgiga": {
+    "root": "gałgúgiga",
+    "partOfSpeech": "vb",
+    "definition": "they found it[it-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gałgúgwiga": {
+    "root": "gałgúgwiga",
+    "partOfSpeech": "vb",
+    "definition": "they took them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gałgúgwigax": {
+    "root": "gałgúgwigax",
+    "partOfSpeech": "vb",
+    "definition": "they seized them",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gałg̲elba": {
+    "root": "gałg̲elba",
+    "partOfSpeech": "vb",
+    "definition": "it went out through them",
+    "examples": [
+      {
+        "kiksht": "Gałxelmux; nawit gałg̲elba.",
+        "english": "They ate it; at once it went out through them. [WTI.4.5]"
+      }
+    ],
+    "seeAlso": [
+      "-PA"
     ]
   },
   "gałiukł": {
