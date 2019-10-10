@@ -346,6 +346,61 @@
       "- G̲UPDA-mit, -TŁK'I-gwa-mit, -TŁK'I-kw"
     ]
   },
+  "- G̲WA-pk": {
+    "root": "- G̲WA-pk",
+    "partOfSpeech": "vb",
+    "definition": "cook underground [Dyk, PK], steam [WT]",
+    "forms": [
+      {
+        "kiksht": "aqiug̲wapga",
+        "english": "one will steam it[i-] [WTII.6.1]"
+      },
+      {
+        "kiksht": "chiug̲walpk",
+        "english": "he is cooking it[i-] underground (continu- ally)"
+      },
+      {
+        "kiksht": "chiug̲wápkt",
+        "english": "he is cooking it[i- ] underground"
+      },
+      {
+        "kiksht": "ichiuqwápk",
+        "english": "he coooked it[i-] underground"
+      },
+      {
+        "kiksht": "yug̲wapkix",
+        "english": "it[i-] has been cooked underground [Dyk]"
+      },
+      {
+        "kiksht": "iqwápk!",
+        "english": "cook it underground!"
+      },
+      {
+        "kiksht": "amiug̲wapga",
+        "english": "you will cook it[i-] underground"
+      },
+      {
+        "kiksht": "amitg̲wapga",
+        "english": "you will cook it[i-] un- derground (distant future)"
+      },
+      {
+        "kiksht": "chialg̲wapkt",
+        "english": "he is cooking it[i-] un- derground for her [PK 7/31/56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Inag̲un gachikwatkix, gachiuqapk.",
+        "english": "He laid the sturgeon out, he steamed it. [WTI.1d.5]"
+      }
+    ],
+    "notes": [
+      "Refers to cooking in a pit with hot rocks placed in the bottom; leaves (generally of wild cherry) are put over the rocks, and meat or fish to be cooked is put over the leaves and covered over with tuli mats or something of the sort; then the whole thing is covered with dirt until the meat or fish is cooked. Compare lux, which refers to cooking in a pit with a fire above. [PK 7/31/56] This word is translated \"steam\" in Wishram Texts."
+    ],
+    "seeAlso": [
+      "i-kig̲walpk, i-g̲wapkax, it- kig̲walpkxat, lux"
+    ]
+  },
   "- G̲WAN-it": {
     "root": "- G̲WAN-it",
     "partOfSpeech": "vb",
@@ -30509,6 +30564,35 @@
     "partOfSpeech": "num",
     "definition": "eighty"
   },
+  "g̲wanixch'a": {
+    "root": "g̲wanixch'a",
+    "partOfSpeech": "interj",
+    "definition": "let's see",
+    "examples": [
+      {
+        "kiksht": "G̲wanixch'a anit.",
+        "english": "Let's see, give it[a-] to me. [Dyk]"
+      }
+    ]
+  },
+  "g̲wap": {
+    "root": "g̲wap",
+    "partOfSpeech": "part",
+    "definition": "cross, over, across",
+    "examples": [
+      {
+        "kiksht": "Gasixlútk g̲wap.",
+        "english": "He looked across. [Dyk]"
+      },
+      {
+        "kiksht": "G̲wab anuya iłk'álaimatba.",
+        "english": "I'll cross the bridge. [GT, MMc 1/14/99]"
+      }
+    ],
+    "seeAlso": [
+      "qw'ap, i-k'ig̲wap, it- k'ig̲wapxat"
+    ]
+  },
   "g̲ánwicha": {
     "root": "g̲ánwicha",
     "partOfSpeech": "interj",
@@ -33695,6 +33779,42 @@
       }
     ]
   },
+  "i-g̲wapkax": {
+    "root": "i-g̲wapkax",
+    "partOfSpeech": "n",
+    "definition": "cooking underground",
+    "notes": [
+      "Coined by Phillip Kahclamat [4/11/56], on the basis of a word he heard Sam Wahkedaw say, something like anig̲wapkax \"I'm going to bake it,\" said at the last [traditional?] salmon-feast held in the 1920's."
+    ],
+    "seeAlso": [
+      "i-kig̲walpk, - G̲WA-pk"
+    ]
+  },
+  "i-g̲washg̲wash": {
+    "root": "i-g̲washg̲wash",
+    "partOfSpeech": "n",
+    "definition": "crane [bird]",
+    "notes": [
+      "A variant form of i- g̲washqwash."
+    ],
+    "seeAlso": [
+      "i-g̲washqwash"
+    ]
+  },
+  "i-g̲washqwash": {
+    "root": "i-g̲washqwash",
+    "partOfSpeech": "n",
+    "definition": "crane (bird)",
+    "forms": [
+      {
+        "kiksht": "itg̲washqwáshksh",
+        "english": "cranes [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qw'ashqw'ash"
+    ]
+  },
   "i-g̲wálapik": {
     "root": "i-g̲wálapik",
     "partOfSpeech": "n",
@@ -35566,6 +35686,23 @@
     ],
     "seeAlso": [
       "ish-g̲iłti"
+    ]
+  },
+  "wa-g̲washt": {
+    "root": "wa-g̲washt",
+    "partOfSpeech": "n",
+    "definition": "dried half side of fish",
+    "forms": [
+      {
+        "kiksht": "iłg̲washt",
+        "english": "dried half sides [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a side of any fish but chinook salmon, with slits across from stakes. A side of chinook is i- sk'imks. A slice of dried salmon with- out slits is ił-katichk."
+    ],
+    "seeAlso": [
+      "i-sk'imks, ił-katichk"
     ]
   },
   "wi-ck'entłex": {
