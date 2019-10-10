@@ -16733,6 +16733,190 @@
       }
     ]
   },
+  "elxa": {
+    "root": "elxa",
+    "partOfSpeech": "pron",
+    "definition": "we (including you) for our part, us (including you) for our part, we and you, for our part, us and you, for our part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"they do that, we for our part do this.\""
+    ]
+  },
+  "elxaika": {
+    "root": "elxaika",
+    "partOfSpeech": "pron",
+    "definition": "we (including you), us (including you), we and you, us and you",
+    "notes": [
+      "Independent personal pro- noun."
+    ]
+  },
+  "elxaima": {
+    "root": "elxaima",
+    "partOfSpeech": "pron",
+    "definition": "only we (including you), only us (including you), only we and you, only us and you"
+  },
+  "elxait'a": {
+    "root": "elxait'a",
+    "partOfSpeech": "pron",
+    "definition": "we (including you) also, us (including you) also"
+  },
+  "elxait'ax": {
+    "root": "elxait'ax",
+    "partOfSpeech": "pron",
+    "definition": "we (including you) also, us (including you) also"
+  },
+  "elxalqłáxilit": {
+    "root": "elxalqłáxilit",
+    "partOfSpeech": "vb",
+    "definition": "we know it[a-]",
+    "seeAlso": [
+      "-l-QŁA-xit"
+    ]
+  },
+  "elxax": {
+    "root": "elxax",
+    "partOfSpeech": "pron",
+    "definition": "we (including you) for our part, us (including you) for our part, we and you, for our part, us and you, for our part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"they do that, we for our part do this.\""
+    ]
+  },
+  "elxaya": {
+    "root": "elxaya",
+    "partOfSpeech": "pron",
+    "definition": "we (including you) for our part, us (including you) for our part, we and you, for our part, us and you, for our part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"they do that, we for our part do this.\""
+    ]
+  },
+  "elxayax": {
+    "root": "elxayax",
+    "partOfSpeech": "pron",
+    "definition": "we (including you) for our part, us (including you) for our part, we and you, for our part, us and you, for our part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"they do that, we for our part do this.\""
+    ]
+  },
+  "emdaika": {
+    "root": "emdaika",
+    "partOfSpeech": "pron",
+    "definition": "you 2",
+    "notes": [
+      "Independent personal pro- noun."
+    ]
+  },
+  "emdaima": {
+    "root": "emdaima",
+    "partOfSpeech": "pron",
+    "definition": "only you 2"
+  },
+  "emdait'a": {
+    "root": "emdait'a",
+    "partOfSpeech": "pron",
+    "definition": "you 2 also"
+  },
+  "emdait'ax": {
+    "root": "emdait'ax",
+    "partOfSpeech": "pron",
+    "definition": "you 2 also"
+  },
+  "emdexichx": {
+    "root": "emdexichx",
+    "partOfSpeech": "vb",
+    "definition": "you 2 talk to each other",
+    "seeAlso": [
+      "-xi-CHU"
+    ]
+  },
+  "emdimamt": {
+    "root": "emdimamt",
+    "partOfSpeech": "vb",
+    "definition": "you have arrived",
+    "examples": [
+      {
+        "kiksht": "Qikláix daba emdimamt.",
+        "english": "I'm glad you've come here. [CLL4]"
+      }
+    ],
+    "seeAlso": [
+      "-d-I-mam"
+    ]
+  },
+  "emduit": {
+    "root": "emduit",
+    "partOfSpeech": "vb",
+    "definition": "you 2 are going",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "emkaxax": {
+    "root": "emkaxax",
+    "partOfSpeech": "vb",
+    "definition": "you are"
+  },
+  "emkiax": {
+    "root": "emkiax",
+    "partOfSpeech": "vb",
+    "definition": "you are doing [WTI.1e.1], you are [CLL3]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "emkixax": {
+    "root": "emkixax",
+    "partOfSpeech": "vb",
+    "definition": "you are",
+    "seeAlso": [
+      "-X̲, -KIX̲AX̲"
+    ]
+  },
+  "emkím": {
+    "root": "emkím",
+    "partOfSpeech": "vb",
+    "definition": "say!",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "emlala": {
+    "root": "emlala",
+    "partOfSpeech": "part",
+    "definition": "feel like vomiting",
+    "examples": [
+      {
+        "kiksht": "Emlala nkiax.",
+        "english": "I feel like vomiting. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a stronger urge to vomit than damlalá."
+    ],
+    "seeAlso": [
+      "damlalá, i-mlalmxach"
+    ]
+  },
+  "emłuxwan": {
+    "root": "emłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "you think",
+    "seeAlso": [
+      "łuxwa"
+    ]
+  },
+  "ełbél": {
+    "root": "ełbél",
+    "partOfSpeech": "part",
+    "definition": "red",
+    "examples": [
+      {
+        "kiksht": "Ełbél igiux.",
+        "english": "She made him red. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ełbál, ełbål, ił- -pálumit, dałbål"
+    ]
+  },
   "gachawiqłaxit": {
     "root": "gachawiqłaxit",
     "partOfSpeech": "vb",
@@ -18219,6 +18403,27 @@
       }
     ]
   },
+  "id-elxam": {
+    "root": "id-elxam",
+    "partOfSpeech": "n",
+    "definition": "people, village"
+  },
+  "id-elxúłxat": {
+    "root": "id-elxúłxat",
+    "partOfSpeech": "n",
+    "definition": "dipnetting place",
+    "seeAlso": [
+      "-a-xi-LXUŁ, wa-lxułat, wa- lxułxi"
+    ]
+  },
+  "id-emg̲waq": {
+    "root": "id-emg̲waq",
+    "partOfSpeech": "n",
+    "definition": "puke, vomit",
+    "seeAlso": [
+      "-MQU-qw"
+    ]
+  },
   "id-náchk": {
     "root": "id-náchk",
     "partOfSpeech": "n",
@@ -18392,6 +18597,17 @@
     ],
     "seeAlso": [
       "ch'iqch'iq, -ch'iqch'iq"
+    ]
+  },
+  "ish-élxłx": {
+    "root": "ish-élxłx",
+    "partOfSpeech": "n",
+    "definition": "staging, fishing scaffold",
+    "forms": [
+      {
+        "kiksht": "idelxłxmax",
+        "english": "scaffolds [Dyk]"
+      }
     ]
   },
   "ishktälgwipchk": {
@@ -18828,6 +19044,11 @@
     "seeAlso": [
       "ił-du"
     ]
+  },
+  "ił-emqa": {
+    "root": "ił-emqa",
+    "partOfSpeech": "n",
+    "definition": "valley [WTI.3.13], meadow [Dyk]"
   },
   "kinwa": {
     "root": "kinwa",
