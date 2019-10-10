@@ -26,6 +26,33 @@
       }
     ]
   },
+  "(i)yag̲aitłemix \"large place": {
+    "root": "(i)yag̲aitłemix \"large place",
+    "partOfSpeech": "(i)ya©ait¬emix “large place",
+    "definition": "(i)yag̲aitłemix \"large place\"",
+    "examples": [
+      {
+        "kiksht": "idag̲aitł itqwłí",
+        "english": "big house"
+      },
+      {
+        "kiksht": "idag̲aitłax itqat",
+        "english": "big potatoes"
+      },
+      {
+        "kiksht": "idag̲aitłax idlxam",
+        "english": "big people"
+      },
+      {
+        "kiksht": "Idag̲aitłax itłákwshxatksh.",
+        "english": "They have big mouths. [Dyk]"
+      },
+      {
+        "kiksht": "iyag̲áitł ikala inshaxilaitixba",
+        "english": "an important man in our community [HS 2/1/52]"
+      }
+    ]
+  },
   "(w)a-chixchix": {
     "root": "(w)a-chixchix",
     "partOfSpeech": "n",
@@ -2545,6 +2572,21 @@
       }
     ]
   },
+  "-gm- G̲A-it": {
+    "root": "-gm- G̲A-it",
+    "partOfSpeech": "vb",
+    "definition": "wear off of, get over the effects of",
+    "forms": [
+      {
+        "kiksht": "łigemg̲áit",
+        "english": "it is wearing off him; he is getting over the effects of it [Dyk]"
+      },
+      {
+        "kiksht": "łagemg̲áit",
+        "english": "it is wearing off her, she is getting over the effects of it [GT, MMc 6/5/98]"
+      }
+    ]
+  },
   "-gma-GWI-łx": {
     "root": "-gma-GWI-łx",
     "partOfSpeech": "vb",
@@ -2630,6 +2672,42 @@
       {
         "kiksht": "idgwálamishtiksh",
         "english": "slaves [GT 6/5/ 98]"
+      }
+    ]
+  },
+  "-g̲adat": {
+    "root": "-g̲adat",
+    "partOfSpeech": "n",
+    "definition": "Klickitat",
+    "forms": [
+      {
+        "kiksht": "ig̲adat",
+        "english": "Klickitat man; he is a Klickitat"
+      },
+      {
+        "kiksht": "iłg̲adat",
+        "english": "Klickitats [Dyk]"
+      }
+    ],
+    "notes": [
+      "From g̲adat \"side (of moun- tain, hill, house, fence, etc);\" appar- ently refers to the fact that Klickitats lived \"over the hill\" (Mt. Hood?) from Wishrams and Wascos."
+    ],
+    "seeAlso": [
+      "g̲adat, i-g̲adatxul"
+    ]
+  },
+  "-g̲akwdatx": {
+    "root": "-g̲akwdatx",
+    "partOfSpeech": "adj",
+    "definition": "naked",
+    "forms": [
+      {
+        "kiksht": "eng̲akwdátx",
+        "english": "I am naked"
+      },
+      {
+        "kiksht": "tg̲akwdátx",
+        "english": "they are naked [Dyk]"
       }
     ]
   },
@@ -6013,13 +6091,61 @@
     "definition": "woman",
     "forms": [
       {
-        "kiksht": "idnémshksh, iłnémshksh",
+        "kiksht": "idnémshksh, iłnémshksh",
         "english": "women"
       }
     ],
     "seeAlso": [
-      "id-némshksh, it-g̲agilakkti, i-g̲agilakk'iganimx̲"
+      "id-némshksh, it-g̲agilakkti, i- -g̲agilakk'iganimx"
     ]
+  },
+  "a-g̲amachx": {
+    "root": "a-g̲amachx",
+    "partOfSpeech": "n",
+    "definition": "arrow, bullet, car- tridge",
+    "forms": [
+      {
+        "kiksht": "itg̲amachx",
+        "english": "arrows [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Daxkangi itg̲amachx idak'itłgup.",
+        "english": "The cartridges are self- explosives. [Dyk]"
+      }
+    ]
+  },
+  "a-g̲amwa": {
+    "root": "a-g̲amwa",
+    "partOfSpeech": "n",
+    "definition": "camas",
+    "forms": [
+      {
+        "kiksht": "itg̲amwa",
+        "english": "camas plants [Dyk]"
+      }
+    ]
+  },
+  "a-g̲ałax": {
+    "root": "a-g̲ałax",
+    "partOfSpeech": "n",
+    "definition": "sun, day",
+    "examples": [
+      {
+        "kiksht": "Ag̲ałax akiax.",
+        "english": "It's sunny, the sun is shining. [GT, MMc]"
+      },
+      {
+        "kiksht": "Daua ag̲ałax ag̲a alxłaida.",
+        "english": "This day we will die. [WTIV.2.9]"
+      }
+    ]
+  },
+  "a-g̲áditix": {
+    "root": "a-g̲áditix",
+    "partOfSpeech": "n",
+    "definition": "fringe"
   },
   "a-mulal": {
     "root": "a-mulal",
@@ -29053,6 +29179,24 @@
       "-g̲adat, i-g̲adatxul"
     ]
   },
+  "g̲adat": {
+    "root": "g̲adat",
+    "partOfSpeech": "adv",
+    "definition": "side (of hill, mountain, house, fence, etc.)",
+    "examples": [
+      {
+        "kiksht": "yaxat g̲adat",
+        "english": "other side"
+      },
+      {
+        "kiksht": "gigat g̲adat",
+        "english": "this side [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-g̲adat"
+    ]
+  },
   "i- -bagúmxch": {
     "root": "i- -bagúmxch",
     "partOfSpeech": "adj n",
@@ -29332,6 +29476,39 @@
       {
         "kiksht": "imigáitłemxash",
         "english": "you are nervy [WTI.17.13]"
+      }
+    ]
+  },
+  "i- -g̲agilakk'iganimx": {
+    "root": "i- -g̲agilakk'iganimx",
+    "partOfSpeech": "adj n",
+    "definition": "laughing like a woman, laughing at women",
+    "forms": [
+      {
+        "kiksht": "imig̲agilakk'iganimx",
+        "english": "you laugh like a woman; you laugh at women [Dyk]"
+      }
+    ]
+  },
+  "i- -g̲alashmuni": {
+    "root": "i- -g̲alashmuni",
+    "partOfSpeech": "adj n",
+    "definition": "talkative",
+    "forms": [
+      {
+        "kiksht": "idiag̲alashmuni",
+        "english": "he is a very talkative person [Dyk]"
+      }
+    ]
+  },
+  "i- -g̲áitł": {
+    "root": "i- -g̲áitł",
+    "partOfSpeech": "adj n",
+    "definition": "big, large, important",
+    "forms": [
+      {
+        "kiksht": "ichag̲aitł",
+        "english": "she/it[a-] is big"
       }
     ]
   },
@@ -31773,6 +31950,36 @@
       "i-gushu, i-gúshumug̲wal, i- wan"
     ]
   },
+  "i-g̲adatxul": {
+    "root": "i-g̲adatxul",
+    "partOfSpeech": "n",
+    "definition": "Klickitat language",
+    "notes": [
+      "Klickitat is a form of Sahaptin, now spoken by some people on the Yakima Reservation."
+    ],
+    "seeAlso": [
+      "-g̲adat, g̲adademt"
+    ]
+  },
+  "i-g̲ainxqan": {
+    "root": "i-g̲ainxqan",
+    "partOfSpeech": "n",
+    "definition": "thimbleberry"
+  },
+  "i-g̲aitłemxach": {
+    "root": "i-g̲aitłemxach",
+    "partOfSpeech": "n",
+    "definition": "nerves, guts, cour- age, toughness",
+    "forms": [
+      {
+        "kiksht": "imig̲aitłemxach",
+        "english": "you have nerve, guts, you are courageous, tough [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i- -g̲aitł, wa-mxch, i- k'aicemxach"
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -32667,6 +32874,19 @@
       "waukw'a"
     ]
   },
+  "it-g̲agilakkti": {
+    "root": "it-g̲agilakkti",
+    "partOfSpeech": "n",
+    "definition": "things used by women",
+    "seeAlso": [
+      "a-g̲agilak"
+    ]
+  },
+  "it-g̲alamxwaksh": {
+    "root": "it-g̲alamxwaksh",
+    "partOfSpeech": "n",
+    "definition": "big hanging cheeks of fat people"
+  },
   "ił-alakásgwilit": {
     "root": "ił-alakásgwilit",
     "partOfSpeech": "n",
@@ -32885,6 +33105,20 @@
     "definition": "skipping the line across the water when fishing",
     "seeAlso": [
       "-T'A-mit"
+    ]
+  },
+  "ił-g̲agilak": {
+    "root": "ił-g̲agilak",
+    "partOfSpeech": "n",
+    "definition": "female, lady",
+    "examples": [
+      {
+        "kiksht": "Iłg̲agilak iłk'ashkash.",
+        "english": "It's a girl! [MMc 6/3-5/98]"
+      }
+    ],
+    "seeAlso": [
+      "a-g̲agilak"
     ]
   },
   "kinwa": {
