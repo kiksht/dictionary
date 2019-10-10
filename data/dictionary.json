@@ -4862,6 +4862,25 @@
       "i-gakwal, i-michkán"
     ]
   },
+  "a-gálamat": {
+    "root": "a-gálamat",
+    "partOfSpeech": "n",
+    "definition": "boulder",
+    "notes": [
+      "Refers to a large boulder, too heavy to lift."
+    ],
+    "seeAlso": [
+      "-k'álamat"
+    ]
+  },
+  "a-gálamg̲a": {
+    "root": "a-gálamg̲a",
+    "partOfSpeech": "n",
+    "definition": "toad",
+    "seeAlso": [
+      "a-tlalamg̲a"
+    ]
+  },
   "a-g̲agilak": {
     "root": "a-g̲agilak",
     "partOfSpeech": "n",
@@ -21275,6 +21294,255 @@
       "-PA"
     ]
   },
+  "galailgachuix": {
+    "root": "galailgachuix",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] came down to it[i-]",
+    "examples": [
+      {
+        "kiksht": "Kwapt akłmín galailgachuix, nuit qatki dawáx galixuxix.",
+        "english": "Then the moon came down it earth, at once it became somewhat light. [WTI.9.5]"
+      }
+    ],
+    "seeAlso": [
+      "-KA-chu"
+    ]
+  },
+  "galaixelmux": {
+    "root": "galaixelmux",
+    "partOfSpeech": "vb",
+    "definition": "he ate it[a-]",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "galaixelqushqush": {
+    "root": "galaixelqushqush",
+    "partOfSpeech": "vb",
+    "definition": "he discharged wind, he farted",
+    "seeAlso": [
+      "-a-xl-QUSHQUSH"
+    ]
+  },
+  "galaixentłichu": {
+    "root": "galaixentłichu",
+    "partOfSpeech": "vb",
+    "definition": "he put her down over himself",
+    "seeAlso": [
+      "-xn-TŁI-chu"
+    ]
+  },
+  "galaixinatłx": {
+    "root": "galaixinatłx",
+    "partOfSpeech": "vb",
+    "definition": "he wiped it[a-] on himself",
+    "seeAlso": [
+      "-NATŁX̲"
+    ]
+  },
+  "galaixlupsht": {
+    "root": "galaixlupsht",
+    "partOfSpeech": "vb",
+    "definition": "he started a fire",
+    "seeAlso": [
+      "-a-xl-PSHT"
+    ]
+  },
+  "galaixlux": {
+    "root": "galaixlux",
+    "partOfSpeech": "vb",
+    "definition": "he did it[a-] in himself",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "galaixlútk": {
+    "root": "galaixlútk",
+    "partOfSpeech": "vb",
+    "definition": "he saved it[a-] for himself",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "galaixux": {
+    "root": "galaixux",
+    "partOfSpeech": "vb",
+    "definition": "they[a-], belonging to him, were",
+    "examples": [
+      {
+        "kiksht": "Qawat wabana galaixux.",
+        "english": "A few of his were left over. [WTI.17.4]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "galaiłaitam": {
+    "root": "galaiłaitam",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] got between her legs"
+  },
+  "galak'ílapam": {
+    "root": "galak'ílapam",
+    "partOfSpeech": "vb",
+    "definition": "she went digging",
+    "seeAlso": [
+      "-LA-pa"
+    ]
+  },
+  "galakchax": {
+    "root": "galakchax",
+    "partOfSpeech": "vb",
+    "definition": "she cried out",
+    "seeAlso": [
+      "-k-CHAX̲"
+    ]
+  },
+  "galakchaxemx": {
+    "root": "galakchaxemx",
+    "partOfSpeech": "vb",
+    "definition": "she cried",
+    "seeAlso": [
+      "-k-CHAX̲"
+    ]
+  },
+  "galakim": {
+    "root": "galakim",
+    "partOfSpeech": "vb",
+    "definition": "she said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "galakta": {
+    "root": "galakta",
+    "partOfSpeech": "vb",
+    "definition": "she ran away",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "galamqt": {
+    "root": "galamqt",
+    "partOfSpeech": "vb",
+    "definition": "she died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "galanxítlagwa": {
+    "root": "galanxítlagwa",
+    "partOfSpeech": "vb",
+    "definition": "I hit myself with it[a-]",
+    "seeAlso": [
+      "-l-LA-kw"
+    ]
+  },
+  "galashg̲eltaqłq": {
+    "root": "galashg̲eltaqłq",
+    "partOfSpeech": "vb",
+    "definition": "she ran away from them 2",
+    "seeAlso": [
+      "-TA, -g̲l-TA-qłq"
+    ]
+  },
+  "galashxelmux": {
+    "root": "galashxelmux",
+    "partOfSpeech": "vb",
+    "definition": "they 2 ate it[a-]",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "galati": {
+    "root": "galati",
+    "partOfSpeech": "vb",
+    "definition": "she came",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "galaxalux": {
+    "root": "galaxalux",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] became to her",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "galaxashxux": {
+    "root": "galaxashxux",
+    "partOfSpeech": "vb",
+    "definition": "she became from them 2",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "galaxeltwichk": {
+    "root": "galaxeltwichk",
+    "partOfSpeech": "vb",
+    "definition": "she got ready to go",
+    "seeAlso": [
+      "-xl-TX(WI)-chk"
+    ]
+  },
+  "galaxkw'a": {
+    "root": "galaxkw'a",
+    "partOfSpeech": "vb",
+    "definition": "she went home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "galaxkw'ax": {
+    "root": "galaxkw'ax",
+    "partOfSpeech": "vb",
+    "definition": "she went home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "galaxkw'ayaitam": {
+    "root": "galaxkw'ayaitam",
+    "partOfSpeech": "vb",
+    "definition": "she arrived home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "galaxshgílalemchk": {
+    "root": "galaxshgílalemchk",
+    "partOfSpeech": "vb",
+    "definition": "she rolled about",
+    "seeAlso": [
+      "-x-SHGI"
+    ]
+  },
+  "galaxux": {
+    "root": "galaxux",
+    "partOfSpeech": "vb",
+    "definition": "she became [WTI.1c.2, 17.12], it[a-] became [WTI.11.13; Coyote and Rabbit G]",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "galaxuxwax": {
+    "root": "galaxuxwax",
+    "partOfSpeech": "vb",
+    "definition": "she became [WTI.1c.12, 17.9], it[a-] became [WTI.11.15], she did [WTI.17.11]",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "galaxłuxwait": {
+    "root": "galaxłuxwait",
+    "partOfSpeech": "vb",
+    "definition": "she thought",
+    "seeAlso": [
+      "-x-ŁUXWA-it"
+    ]
+  },
   "galishgluya": {
     "root": "galishgluya",
     "partOfSpeech": "vb",
@@ -21311,6 +21579,14 @@
     "definition": "she went off from him",
     "seeAlso": [
       "-g̲l-QŁQ"
+    ]
+  },
+  "galáxmasait": {
+    "root": "galáxmasait",
+    "partOfSpeech": "vb",
+    "definition": "she was ashamed",
+    "seeAlso": [
+      "-x-MASA"
     ]
   },
   "gayux̲uni": {
@@ -22833,6 +23109,14 @@
         "kiksht": "(Appar- ently this may be used even for just one eel, in addition to igakwal.) ágakwal",
         "english": "bunch of eels [Dyk]"
       }
+    ]
+  },
+  "i-galal": {
+    "root": "i-galal",
+    "partOfSpeech": "n",
+    "definition": "flying",
+    "seeAlso": [
+      "i-dagáiwalal, i-yagalal, -KA"
     ]
   },
   "i-gábenash": {
