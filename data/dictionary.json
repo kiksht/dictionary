@@ -2907,6 +2907,94 @@
       "This root becomes -ya when it occurs at the end of a word—that is, when no suffix follows. See the third form above. It also becomes -ya when followed by the suffix -mit; see the entries given below. It is written -y- when it occurs between vowels, as in the second form."
     ]
   },
+  "-I-am": {
+    "root": "-I-am",
+    "partOfSpeech": "vb",
+    "definition": "arrive, get there",
+    "forms": [
+      {
+        "kiksht": "anúyama",
+        "english": "I'll get there"
+      },
+      {
+        "kiksht": "ayúyama",
+        "english": "he'll get there"
+      },
+      {
+        "kiksht": "nuyamt",
+        "english": "I'm going to get there"
+      },
+      {
+        "kiksht": "inuyam",
+        "english": "I got there"
+      },
+      {
+        "kiksht": "itgiam",
+        "english": "they got there"
+      },
+      {
+        "kiksht": "nanuyama",
+        "english": "I got there"
+      },
+      {
+        "kiksht": "nanshuyama",
+        "english": "we (not including you) got there"
+      },
+      {
+        "kiksht": "natgíama",
+        "english": "they got there"
+      },
+      {
+        "kiksht": "ninuyam",
+        "english": "I got there"
+      },
+      {
+        "kiksht": "ninuyamt",
+        "english": "I was going to get there, I was getting there"
+      },
+      {
+        "kiksht": "ganuyam",
+        "english": "I got there"
+      },
+      {
+        "kiksht": "gayuyamx",
+        "english": "he got there"
+      },
+      {
+        "kiksht": "gatgiam",
+        "english": "they got there [Dyk]"
+      }
+    ]
+  },
+  "-I-am-am": {
+    "root": "-I-am-am",
+    "partOfSpeech": "vb",
+    "definition": "get there in order to go, go to go",
+    "forms": [
+      {
+        "kiksht": "núyamamt",
+        "english": "I am going to get there to go"
+      },
+      {
+        "kiksht": "inúyamam",
+        "english": "I got there to go"
+      },
+      {
+        "kiksht": "itgiamam",
+        "english": "they went to go, got there to go"
+      },
+      {
+        "kiksht": "nanuyamama",
+        "english": "I got there to go [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gayúamam makwapt k'aya gayuyam.",
+        "english": "He went to get there but he never got there. [Dyk]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -3480,6 +3568,29 @@
       {
         "kiksht": "",
         "english": "her root- digging holes No singular. Appar- ently either it- or ił- prefixes may be used."
+      }
+    ]
+  },
+  "-d-I-am": {
+    "root": "-d-I-am",
+    "partOfSpeech": "vb",
+    "definition": "arrive to go, come to go",
+    "forms": [
+      {
+        "kiksht": "indiam",
+        "english": "I came here to go"
+      },
+      {
+        "kiksht": "imdiam",
+        "english": "you came here to go"
+      },
+      {
+        "kiksht": "igidiam",
+        "english": "he came here to go"
+      },
+      {
+        "kiksht": "itgadiam",
+        "english": "they came here to go [Dyk]"
       }
     ]
   },
@@ -4859,6 +4970,29 @@
       {
         "kiksht": "gachłilgwichu",
         "english": "he filled it[i-] with them (by throwing or dropping into it)"
+      }
+    ]
+  },
+  "-l-u-I": {
+    "root": "-l-u-I",
+    "partOfSpeech": "vb",
+    "definition": "catch (with dipnet or fish wheel)",
+    "forms": [
+      {
+        "kiksht": "yaluit",
+        "english": "she is catching him"
+      },
+      {
+        "kiksht": "iginluya",
+        "english": "I caught him"
+      },
+      {
+        "kiksht": "ichnluya",
+        "english": "he caught me"
+      },
+      {
+        "kiksht": "iqaluya",
+        "english": "someone caught her [Dyk]"
       }
     ]
   },
@@ -6730,6 +6864,17 @@
       {
         "kiksht": "gachiuxídikwax",
         "english": "he cut it[i-] out (long ago) [Dyk]"
+      }
+    ]
+  },
+  "-xi-t-I": {
+    "root": "-xi-t-I",
+    "partOfSpeech": "vb",
+    "definition": "gather together",
+    "forms": [
+      {
+        "kiksht": "niguxwidit",
+        "english": "they were gather- ing together [DykGr 28]"
       }
     ]
   },
