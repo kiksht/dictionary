@@ -99,6 +99,24 @@
       "adau"
     ]
   },
+  "- G̲ANIM": {
+    "root": "- G̲ANIM",
+    "partOfSpeech": "vb",
+    "definition": "laugh at",
+    "forms": [
+      {
+        "kiksht": "aqług̲animchgwa",
+        "english": "one will laugh at him[ił-] [WTII.2.2]"
+      },
+      {
+        "kiksht": "chiug̲animx",
+        "english": "he is laughing at him [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ig̲animx"
+    ]
+  },
   "-(i)-gl-xi-GLA-dix": {
     "root": "-(i)-gl-xi-GLA-dix",
     "partOfSpeech": "vb",
@@ -2708,6 +2726,45 @@
       {
         "kiksht": "tg̲akwdátx",
         "english": "they are naked [Dyk]"
+      }
+    ]
+  },
+  "-g̲an": {
+    "root": "-g̲an",
+    "partOfSpeech": "adj",
+    "definition": "silent, quiet",
+    "forms": [
+      {
+        "kiksht": "ig̲an",
+        "english": "he is quiet [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "iłg̲an iłgwałilx",
+        "english": "quiet per- son [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "g̲an"
+    ]
+  },
+  "-g̲anuq": {
+    "root": "-g̲anuq",
+    "partOfSpeech": "n",
+    "definition": "beaver",
+    "forms": [
+      {
+        "kiksht": "ig̲anuq",
+        "english": "(male) beaver"
+      },
+      {
+        "kiksht": "ag̲anuq",
+        "english": "(female) beaver itg̲ánuqaksh [Dyk], ig̲anuqaksh [PK 8/24/55]"
+      },
+      {
+        "kiksht": "",
+        "english": "beavers"
       }
     ]
   },
@@ -6124,6 +6181,17 @@
       {
         "kiksht": "itg̲amwa",
         "english": "camas plants [Dyk]"
+      }
+    ]
+  },
+  "a-g̲apłqau": {
+    "root": "a-g̲apłqau",
+    "partOfSpeech": "n",
+    "definition": "yellowhammer (wood- pecker), Northern flicker",
+    "forms": [
+      {
+        "kiksht": "itg̲apłqau",
+        "english": "yellowhammers"
       }
     ]
   },
@@ -29197,6 +29265,129 @@
       "-g̲adat"
     ]
   },
+  "g̲an": {
+    "root": "g̲an",
+    "partOfSpeech": "part",
+    "definition": "be quiet, silent, silence, quiet",
+    "examples": [
+      {
+        "kiksht": "G̲an yuxt.",
+        "english": "He is sitting silently, not speaking."
+      },
+      {
+        "kiksht": "G̲an ixemgapx.",
+        "english": "He is working quietly."
+      },
+      {
+        "kiksht": "G̲ang̲an ixa!",
+        "english": "Make him quiet! (as in stopping him from crying)"
+      },
+      {
+        "kiksht": "G̲ang̲an ichiux.",
+        "english": "He quieted him."
+      },
+      {
+        "kiksht": "G̲an igixux.",
+        "english": "He quieted down, stopped crying."
+      },
+      {
+        "kiksht": "Shaig̲án ixmgapx.",
+        "english": "He is working quietly. [Dyk]"
+      },
+      {
+        "kiksht": "G̲an iximat ich'ixyan.",
+        "english": "The monster is lying silently. [WTI.1m.3]"
+      }
+    ],
+    "seeAlso": [
+      "-g̲an, shaig̲enbaingix"
+    ]
+  },
+  "g̲ang̲adag̲a": {
+    "root": "g̲ang̲adag̲a",
+    "partOfSpeech": "adv",
+    "definition": "already",
+    "seeAlso": [
+      "g̲áng̲adix, ag̲a"
+    ]
+  },
+  "g̲ang̲at": {
+    "root": "g̲ang̲at",
+    "partOfSpeech": "adv",
+    "definition": "formerly, long ago",
+    "examples": [
+      {
+        "kiksht": "g̲ang̲atbam(a) ikala",
+        "english": "old man"
+      },
+      {
+        "kiksht": "(Compare kwaishbam(a) ikala",
+        "english": "new man, one just coming to man- hood) [Dyk]"
+      }
+    ]
+  },
+  "g̲ang̲atbama": {
+    "root": "g̲ang̲atbama",
+    "partOfSpeech": "adv",
+    "definition": "of old, ancient",
+    "examples": [
+      {
+        "kiksht": "G̲ang̲atbama nshkigmxanawnxt insháit.",
+        "english": "We trea- sure our heritage"
+      },
+      {
+        "kiksht": "(literally",
+        "english": "We look up to our ways of old.) [Museum 4]"
+      }
+    ],
+    "seeAlso": [
+      "g̲áng̲adix"
+    ]
+  },
+  "g̲anuicha": {
+    "root": "g̲anuicha",
+    "partOfSpeech": "adv",
+    "definition": "indeed",
+    "pronunciation": "g̲anuichá [WTI.10.4], g̲ánuichaaa [WTI.11.5]",
+    "seeAlso": [
+      "g̲anuit"
+    ]
+  },
+  "g̲anuit": {
+    "root": "g̲anuit",
+    "partOfSpeech": "adv",
+    "definition": "certainly, surely"
+  },
+  "g̲anwit": {
+    "root": "g̲anwit",
+    "partOfSpeech": "adv",
+    "definition": "surely"
+  },
+  "g̲ashu": {
+    "root": "g̲ashu",
+    "partOfSpeech": "n",
+    "definition": "my son's child! [man speaking], grandchild!, grandson!, granddaughter!",
+    "forms": [
+      {
+        "kiksht": "g̲ashumax [?]",
+        "english": "my son's chil- dren! grandchildren! [man speaking] [Relatives]"
+      }
+    ],
+    "notes": [
+      "Used by a man to address his son's children"
+    ]
+  },
+  "g̲ánwicha": {
+    "root": "g̲ánwicha",
+    "partOfSpeech": "interj",
+    "definition": "oh yes!",
+    "examples": [
+      {
+        "kiksht": "G̲ánwicha iq'álalash nigíkatxtk; yaxdau qidau yuqwúlqt.",
+        "english": "Oh yes! Raccoon has been stealing, that is why he is crying. [WTI.17.6]"
+      }
+    ]
+  },
   "i- -bagúmxch": {
     "root": "i- -bagúmxch",
     "partOfSpeech": "adj n",
@@ -29499,6 +29690,34 @@
         "kiksht": "idiag̲alashmuni",
         "english": "he is a very talkative person [Dyk]"
       }
+    ]
+  },
+  "i- -g̲anaxixi": {
+    "root": "i- -g̲anaxixi",
+    "partOfSpeech": "adj n",
+    "definition": "giggling con- stantly",
+    "forms": [
+      {
+        "kiksht": "iyag̲ánaxixi",
+        "english": "he is giggling all the time [GT 6/5/98]"
+      }
+    ],
+    "seeAlso": [
+      "i- -g̲antxixi"
+    ]
+  },
+  "i- -g̲antxixi": {
+    "root": "i- -g̲antxixi",
+    "partOfSpeech": "adj n",
+    "definition": "laughing always, laughing at every little thing",
+    "forms": [
+      {
+        "kiksht": "iyag̲ántxixi",
+        "english": "he is one who is always laughing at every little thing [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i- -g̲ánaxixi"
     ]
   },
   "i- -g̲áitł": {
@@ -31980,6 +32199,47 @@
       "i- -g̲aitł, wa-mxch, i- k'aicemxach"
     ]
   },
+  "i-g̲apkwal": {
+    "root": "i-g̲apkwal",
+    "partOfSpeech": "n",
+    "definition": "side of fish"
+  },
+  "i-g̲ashnan": {
+    "root": "i-g̲ashnan",
+    "partOfSpeech": "n",
+    "definition": "large grey lizard",
+    "forms": [
+      {
+        "kiksht": "itg̲áshnanuksh",
+        "english": "large grey lizards [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k'asnan, a-q'asnan, ish- g̲ashnaigi"
+    ]
+  },
+  "i-g̲ánina": {
+    "root": "i-g̲ánina",
+    "partOfSpeech": "n",
+    "definition": "butterfly",
+    "forms": [
+      {
+        "kiksht": "itg̲ánina",
+        "english": "butterflies [Dyk]"
+      }
+    ]
+  },
+  "i-g̲ápt": {
+    "root": "i-g̲ápt",
+    "partOfSpeech": "n",
+    "definition": "sturgeon roe, sturgeon eggs",
+    "notes": [
+      "This refers solely to sturgeon roe; eggs of other fish are iłg̲apt. Dyk notes that ig̲ápt is \"larger and darker than itsk'intłx.\""
+    ],
+    "seeAlso": [
+      "ił-g̲apt"
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -32299,6 +32559,11 @@
     "seeAlso": [
       "i-k'uk'u"
     ]
+  },
+  "ish-g̲ashnaigi": {
+    "root": "ish-g̲ashnaigi",
+    "partOfSpeech": "n",
+    "definition": "small blue and white lizard"
   },
   "ishktälgwipchk": {
     "root": "ishktälgwipchk",
@@ -32887,6 +33152,14 @@
     "partOfSpeech": "n",
     "definition": "big hanging cheeks of fat people"
   },
+  "it-g̲apan": {
+    "root": "it-g̲apan",
+    "partOfSpeech": "n",
+    "definition": "crust formed by rocks over the ground, crust of a rock for- mation, natural rocky pavement",
+    "seeAlso": [
+      "a-q'apan"
+    ]
+  },
   "ił-alakásgwilit": {
     "root": "ił-alakásgwilit",
     "partOfSpeech": "n",
@@ -33119,6 +33392,18 @@
     ],
     "seeAlso": [
       "a-g̲agilak"
+    ]
+  },
+  "ił-g̲apt": {
+    "root": "ił-g̲apt",
+    "partOfSpeech": "n",
+    "definition": "fish eggs",
+    "forms": [],
+    "notes": [
+      "Refers to all fish eggs except sturgeon roe, which is i-g̲apt."
+    ],
+    "seeAlso": [
+      "i-g̲apt"
     ]
   },
   "kinwa": {
