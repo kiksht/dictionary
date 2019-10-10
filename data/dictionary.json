@@ -708,6 +708,25 @@
       "-x-i-n- G̲WIA-ix, i-gig̲wianan"
     ]
   },
+  "- G̲WULIL": {
+    "root": "- G̲WULIL",
+    "partOfSpeech": "vb",
+    "definition": "chase after someone of opposite sex, look for someone of opposite sex; seek partner, flirt",
+    "forms": [
+      {
+        "kiksht": "emg̲wulílalemchk!",
+        "english": "look for a woman (said to a man)! look for a man (said to a woman)!"
+      },
+      {
+        "kiksht": "yug̲wulilal",
+        "english": "he is looking for women, chasing after women"
+      },
+      {
+        "kiksht": "ug̲wulilal",
+        "english": "she is look- ing for men, chasing after men"
+      }
+    ]
+  },
   "-(i)-gl-xi-GLA-dix": {
     "root": "-(i)-gl-xi-GLA-dix",
     "partOfSpeech": "vb",
@@ -3176,6 +3195,21 @@
       "qígikal"
     ]
   },
+  "-gl- G̲WULIL": {
+    "root": "-gl- G̲WULIL",
+    "partOfSpeech": "vb",
+    "definition": "flirt with, attract attention of someone of opposite sex",
+    "forms": [
+      {
+        "kiksht": "yagelg̲wulilal",
+        "english": "he's flirting with her, attracting her attention"
+      },
+      {
+        "kiksht": "ayagelg̲wulilma",
+        "english": "he will flirt with her [PK 7/31/56]"
+      }
+    ]
+  },
   "-gl-CHIM": {
     "root": "-gl-CHIM",
     "partOfSpeech": "vb",
@@ -3659,6 +3693,47 @@
     ],
     "notes": [
       "Refers to the relationship between the families of a married couple, especially perhaps the par- ents on both sides."
+    ]
+  },
+  "-g̲wilalmat": {
+    "root": "-g̲wilalmat",
+    "partOfSpeech": "n",
+    "definition": "one who has recently lost a child",
+    "forms": [
+      {
+        "kiksht": "ag̲wílalmat",
+        "english": "she who has lost a child"
+      },
+      {
+        "kiksht": "ig̲wílalmat",
+        "english": "he who has lost a child"
+      },
+      {
+        "kiksht": "ishg̲wílalmat",
+        "english": "they 2 (as a mother and father) who have re- cently lost a child [Dyk]"
+      }
+    ],
+    "notes": [
+      "According to a note from David French, this word may also refer to someone who has lost a sib- ling."
+    ]
+  },
+  "-g̲wixqwix": {
+    "root": "-g̲wixqwix",
+    "partOfSpeech": "n",
+    "definition": "duck",
+    "forms": [
+      {
+        "kiksht": "ig̲wixqwix",
+        "english": "(male) duck"
+      },
+      {
+        "kiksht": "ag̲wixqwix",
+        "english": "(female) duck"
+      },
+      {
+        "kiksht": "itg̲waxg̲wixuksh",
+        "english": "ducks [Dyk]"
+      }
     ]
   },
   "-g̲úlulmax": {
@@ -7539,6 +7614,21 @@
       {
         "kiksht": "beshten q'uic'ap",
         "english": "tame [cultivated?] blackberries [ChJ 7/ 19/51]"
+      }
+    ]
+  },
+  "a-g̲wutg̲wut": {
+    "root": "a-g̲wutg̲wut",
+    "partOfSpeech": "n",
+    "definition": "partridge",
+    "forms": [
+      {
+        "kiksht": "ishg̲wutg̲wut",
+        "english": "2 partridges"
+      },
+      {
+        "kiksht": "itg̲wutg̲wutuksh",
+        "english": "partridges [HS 11/ 29/51]"
       }
     ]
   },
@@ -30886,6 +30976,64 @@
       "i-g̲wiaqwt"
     ]
   },
+  "g̲wula": {
+    "root": "g̲wula",
+    "partOfSpeech": "part",
+    "definition": "gather food for a short time [Dyk], go up to gather food [PK 6/19/56]",
+    "examples": [
+      {
+        "kiksht": "G̲wula alxuya.",
+        "english": "We will go to gather food [Dyk]; we'll go up to pick [PK 6/19/56]"
+      }
+    ],
+    "seeAlso": [
+      "i-chag̲ulaimxat"
+    ]
+  },
+  "g̲wunma": {
+    "root": "g̲wunma",
+    "partOfSpeech": "num",
+    "definition": "five"
+  },
+  "g̲wunmaba wigwa": {
+    "root": "g̲wunmaba wigwa",
+    "partOfSpeech": "n",
+    "definition": "Friday",
+    "notes": [
+      "Literally \"fifth day.\" This was suggested by Dell Hymes, following the pattern of makwshtba wigwa, which is found in Wishram Texts for \"Tuesday.\""
+    ]
+  },
+  "g̲wunmatłiyał": {
+    "root": "g̲wunmatłiyał",
+    "partOfSpeech": "num",
+    "definition": "fifty"
+  },
+  "g̲wunmix": {
+    "root": "g̲wunmix",
+    "partOfSpeech": "adv",
+    "definition": "five times",
+    "examples": [
+      {
+        "kiksht": "G̲wnmix gashtuqui.",
+        "english": "They slept together five nights. [WTI.8.2]"
+      }
+    ]
+  },
+  "g̲wutg̲wut": {
+    "root": "g̲wutg̲wut",
+    "partOfSpeech": "part",
+    "definition": "rub",
+    "examples": [
+      {
+        "kiksht": "G̲wutg̲wut ikiax.",
+        "english": "He is rubbing himself. [Dyk]"
+      },
+      {
+        "kiksht": "Galixux g̲wutg̲wut.",
+        "english": "He rubbed himself. [WTI.17.17]"
+      }
+    ]
+  },
   "g̲ánwicha": {
     "root": "g̲ánwicha",
     "partOfSpeech": "interj",
@@ -30894,6 +31042,31 @@
       {
         "kiksht": "G̲ánwicha iq'álalash nigíkatxtk; yaxdau qidau yuqwúlqt.",
         "english": "Oh yes! Raccoon has been stealing, that is why he is crying. [WTI.17.6]"
+      }
+    ]
+  },
+  "ha'ai": {
+    "root": "ha'ai",
+    "partOfSpeech": "part",
+    "definition": "satisfy, satisfied",
+    "examples": [
+      {
+        "kiksht": "Ha'ai enkiax.",
+        "english": "I am satis- fied. [GT 1/15/99]"
+      }
+    ],
+    "seeAlso": [
+      "hai"
+    ]
+  },
+  "ha'as": {
+    "root": "ha'as",
+    "partOfSpeech": "part",
+    "definition": "plentiful, more than enough",
+    "examples": [
+      {
+        "kiksht": "Ha'as ilibum inyumlal.",
+        "english": "I bought more than enough apples. [DykGr 131]"
       }
     ]
   },
@@ -31257,6 +31430,17 @@
       {
         "kiksht": "iyag̲wanaxtłgntłgn",
         "english": "he is humpbacked [Dyk]"
+      }
+    ]
+  },
+  "i- -g̲wilal": {
+    "root": "i- -g̲wilal",
+    "partOfSpeech": "adj n",
+    "definition": "flirty, flirtatious, cha'ash",
+    "forms": [
+      {
+        "kiksht": "iyag̲wilal",
+        "english": "he's flirty, cha'ash [GT, MMc 6/5/98]"
       }
     ]
   },
@@ -34177,6 +34361,14 @@
       }
     ]
   },
+  "i-g̲wínapuch": {
+    "root": "i-g̲wínapuch",
+    "partOfSpeech": "n",
+    "definition": "large fat buttocks",
+    "seeAlso": [
+      "i-puch, a-tł'nxpuch"
+    ]
+  },
   "i-g̲ánina": {
     "root": "i-g̲ánina",
     "partOfSpeech": "n",
@@ -34647,6 +34839,20 @@
     ],
     "seeAlso": [
       "ił-g̲walala"
+    ]
+  },
+  "ish-g̲witushtk": {
+    "root": "ish-g̲witushtk",
+    "partOfSpeech": "n",
+    "definition": "certain part of crotch",
+    "forms": [
+      {
+        "kiksht": "ishiag̲witushtk",
+        "english": "his ... [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qwit, -shtk, -QWIM"
     ]
   },
   "ishktälgwipchk": {
@@ -35375,6 +35581,17 @@
     "root": "it-g̲iłba",
     "partOfSpeech": "n",
     "definition": "moccasins"
+  },
+  "it-g̲wíyemxat": {
+    "root": "it-g̲wíyemxat",
+    "partOfSpeech": "n",
+    "definition": "camp",
+    "examples": [
+      {
+        "kiksht": "Qawig̲iqnánbama itg̲wíyrmxat",
+        "english": "Teaching camp (name given to culture camp, equivalent to Sahaptin Sápsikw'at wáutukt)"
+      }
+    ]
   },
   "it-g̲áug̲aumat": {
     "root": "it-g̲áug̲aumat",
