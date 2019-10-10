@@ -172,6 +172,60 @@
     "partOfSpeech": "- ̋IÒDE see - ̋IÒT",
     "definition": "- G̲IŁDE see - G̲IŁTI"
   },
+  "- G̲U-chu": {
+    "root": "- G̲U-chu",
+    "partOfSpeech": "vb",
+    "definition": "sleep bent over, bend over while sleeping",
+    "forms": [
+      {
+        "kiksht": "yug̲úchx",
+        "english": "he is sleeping bent over"
+      },
+      {
+        "kiksht": "itg̲ulchł",
+        "english": "he bent over sleeping (repeatedly)"
+      },
+      {
+        "kiksht": "yug̲uchu",
+        "english": "he bent over sleeping; he slept bent over"
+      },
+      {
+        "kiksht": "nayug̲ulchła",
+        "english": "he repeatedly bent over while sleeping"
+      },
+      {
+        "kiksht": "nalitg̲ulchła",
+        "english": "he repeatedly bent over while sleeping (before arriving here)"
+      },
+      {
+        "kiksht": "niyug̲uchu",
+        "english": "he bent over sleeping (last season)"
+      },
+      {
+        "kiksht": "niyug̲uchx",
+        "english": "he was bending over sleeping (last season)"
+      },
+      {
+        "kiksht": "niyug̲ulchł",
+        "english": "he bent over sleeping (last season, repeatedly)"
+      },
+      {
+        "kiksht": "nigitg̲uchu",
+        "english": "he bent over sleeping (last week)"
+      },
+      {
+        "kiksht": "nigitg̲uchx",
+        "english": "he was bending over sleeping (last week)"
+      },
+      {
+        "kiksht": "nigitg̲ulchł",
+        "english": "he bent over sleeping (last week, repeatedly) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "- G̲UPT-it"
+    ]
+  },
   "-(i)-gl-xi-GLA-dix": {
     "root": "-(i)-gl-xi-GLA-dix",
     "partOfSpeech": "vb",
@@ -189,6 +243,59 @@
         "kiksht": "yamgelxigladix",
         "english": "I understand you [Spilyay/Learning Phrases]"
       }
+    ]
+  },
+  "-(x)- G̲UITQ": {
+    "root": "-(x)- G̲UITQ",
+    "partOfSpeech": "vb",
+    "definition": "wake up, awake",
+    "forms": [
+      {
+        "kiksht": "alixg̲uitg̲ma",
+        "english": "he will wake up [GT, MMc 6/4/98]"
+      },
+      {
+        "kiksht": "ixg̲úidelqłq",
+        "english": "he is waking up (repeatedly)"
+      },
+      {
+        "kiksht": "axg̲uitqt",
+        "english": "she is waking up"
+      },
+      {
+        "kiksht": "uxwag̲uyutqt",
+        "english": "they are waking up (each individu- ally, one at a time)"
+      },
+      {
+        "kiksht": "emshg̲uyutq!",
+        "english": "you folks, each one of you, wake up!"
+      },
+      {
+        "kiksht": "igag̲uitq",
+        "english": "she just awoke"
+      },
+      {
+        "kiksht": "nalaxg̲uitqma",
+        "english": "she woke up"
+      },
+      {
+        "kiksht": "galixg̲uitq",
+        "english": "he woke up"
+      },
+      {
+        "kiksht": "ganshxg̲úitg̲mx",
+        "english": "we (not including you) woke up"
+      },
+      {
+        "kiksht": "ganshxg̲uyutg̲mx",
+        "english": "we (not including you) woke up (each individually, one at a time) [Dyk]"
+      }
+    ],
+    "notes": [
+      "This verb is sometimes used with the reflexive prefix -x- and sometimes without. It is not yet clear when one form or the other should be used."
+    ],
+    "seeAlso": [
+      "- G̲UPT-it"
     ]
   },
   "-BICHEM(A)": {
@@ -2978,6 +3085,65 @@
     ],
     "seeAlso": [
       "i-k'ig̲mchxugwalal"
+    ]
+  },
+  "-g̲uliu": {
+    "root": "-g̲uliu",
+    "partOfSpeech": "n",
+    "definition": "rat, pack rat; stealer, thief",
+    "forms": [
+      {
+        "kiksht": "ig̲úliu",
+        "english": "(male) rat"
+      },
+      {
+        "kiksht": "ag̲úliu",
+        "english": "(female) rat"
+      },
+      {
+        "kiksht": "itg̲úliuksh",
+        "english": "rats"
+      },
+      {
+        "kiksht": "itkg̲ulyuksh",
+        "english": "my rats"
+      },
+      {
+        "kiksht": "iyag̲úliu",
+        "english": "his rat; he is a thief [Dyk]"
+      },
+      {
+        "kiksht": "iłag̲úliumax",
+        "english": "they are thieves [WTIV.2.23; Dyk]"
+      },
+      {
+        "kiksht": "ishdag̲uliu",
+        "english": "2 thieves"
+      },
+      {
+        "kiksht": "iłgaguliumax",
+        "english": "thieves"
+      },
+      {
+        "kiksht": "ichag̲uliu",
+        "english": "she is a thief ayag̲uliu [sic]"
+      },
+      {
+        "kiksht": "",
+        "english": "he is a thief [HS 7/ 24/51]"
+      }
+    ],
+    "seeAlso": [
+      "a-kag̲uliu"
+    ]
+  },
+  "-g̲úlulmax": {
+    "root": "-g̲úlulmax",
+    "partOfSpeech": "n",
+    "definition": "shiny beads, necklace of shiny beads",
+    "forms": [],
+    "notes": [
+      "May refer to either gold or shiny brass beads. May be related to ag̲ulul \"acorn.\""
     ]
   },
   "-i-CHUKDI-ix": {
@@ -6635,6 +6801,33 @@
     "definition": "moss, pond scum",
     "notes": [
       "Refers to the green and yellow scum in water, or that remains after water is gone."
+    ]
+  },
+  "a-g̲ulul": {
+    "root": "a-g̲ulul",
+    "partOfSpeech": "n",
+    "definition": "acorn",
+    "forms": [
+      {
+        "kiksht": "ishg̲ulul",
+        "english": "2 acorns [HS 7/3/ 52]"
+      },
+      {
+        "kiksht": "itg̲ulul",
+        "english": "acorns [Dyk, HS 7/3/ 52]"
+      },
+      {
+        "kiksht": "idiag̲úlulix",
+        "english": "place of acorns"
+      },
+      {
+        "kiksht": "ichag̲úlulix",
+        "english": "she has been acorning [Dyk]"
+      },
+      {
+        "kiksht": "In WTI.16, ag̲ulul is translated as plural:",
+        "english": "acorns."
+      }
     ]
   },
   "a-g̲áditix": {
@@ -29884,6 +30077,24 @@
       "k'ig̲ishg̲ish, i-k'ig̲ishg̲ish"
     ]
   },
+  "g̲up": {
+    "root": "g̲up",
+    "partOfSpeech": "part",
+    "definition": "close",
+    "examples": [
+      {
+        "kiksht": "G̲up ixa imikwshxát!",
+        "english": "Close your mouth! [GT, MMc 1/15/ 99]"
+      },
+      {
+        "kiksht": "G̲up gachiúx iyakwshxát.",
+        "english": "He closed his mouth. [Coyote and Rab- bit K]"
+      }
+    ],
+    "notes": [
+      "Apparently used only of clos- ing the mouth."
+    ]
+  },
   "g̲ánwicha": {
     "root": "g̲ánwicha",
     "partOfSpeech": "interj",
@@ -32972,6 +33183,28 @@
       }
     ]
   },
+  "i-g̲ug̲u": {
+    "root": "i-g̲ug̲u",
+    "partOfSpeech": "n",
+    "definition": "chub, pike",
+    "forms": [
+      {
+        "kiksht": "iłg̲ug̲u",
+        "english": "chubs [Dyk]"
+      }
+    ]
+  },
+  "i-g̲unam": {
+    "root": "i-g̲unam",
+    "partOfSpeech": "n",
+    "definition": "goiter",
+    "forms": [
+      {
+        "kiksht": "ichag̲unam",
+        "english": "she has a goiter [Dyk]"
+      }
+    ]
+  },
   "i-g̲ánina": {
     "root": "i-g̲ánina",
     "partOfSpeech": "n",
@@ -33032,6 +33265,17 @@
     ],
     "seeAlso": [
       "i-laitix"
+    ]
+  },
+  "i-g̲úlidix": {
+    "root": "i-g̲úlidix",
+    "partOfSpeech": "n",
+    "definition": "passageway, corridor",
+    "notes": [
+      "Refers to an open passageway where you can see daylight."
+    ],
+    "seeAlso": [
+      "i-q'elłxipdix"
     ]
   },
   "i-k'ámunaq": {
