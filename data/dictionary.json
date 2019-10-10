@@ -1706,6 +1706,59 @@
       "at'at'ałia"
     ]
   },
+  "-gak'aps": {
+    "root": "-gak'aps",
+    "partOfSpeech": "n",
+    "definition": "hat",
+    "forms": [
+      {
+        "kiksht": "igak'aps",
+        "english": "(larger) hat"
+      },
+      {
+        "kiksht": "agak'aps",
+        "english": "(smaller) hat [Dyk]"
+      },
+      {
+        "kiksht": "isgak'aps",
+        "english": "child's hat [HS 7/25/56]; warbonnet [HS 7/14/54]"
+      },
+      {
+        "kiksht": "itgak'aps",
+        "english": "hats [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k'ak'aps"
+    ]
+  },
+  "-gakan": {
+    "root": "-gakan",
+    "partOfSpeech": "n",
+    "definition": "man's daughter's child, grandchild, granddaughter, grandson",
+    "forms": [
+      {
+        "kiksht": "iyagakan",
+        "english": "his daughter's son, his grandson"
+      },
+      {
+        "kiksht": "ayagakan",
+        "english": "his daughter's daughter, his grand- daughter"
+      },
+      {
+        "kiksht": "ichgakan",
+        "english": "my daughter's son, my grandson [man speaking]"
+      },
+      {
+        "kiksht": "akgakan",
+        "english": "my daughter's daughter, my granddaughter"
+      },
+      {
+        "kiksht": "iłxgakanksh",
+        "english": "my daughter's children, my grandchil- dren [Relatives]"
+      }
+    ]
+  },
   "-gl-CHIM": {
     "root": "-gl-CHIM",
     "partOfSpeech": "vb",
@@ -4639,6 +4692,17 @@
     ],
     "seeAlso": [
       "-gak'aps, -k'ak'aps"
+    ]
+  },
+  "a-gakwal": {
+    "root": "a-gakwal",
+    "partOfSpeech": "n",
+    "definition": "eel berries",
+    "notes": [
+      "Small sweet berries that used to grow around Breitenbush, grew about middle height. [GT, MMc 6/5/ 98]"
+    ],
+    "seeAlso": [
+      "i-gakwal, i-michkán"
     ]
   },
   "a-g̲agilak": {
@@ -20806,6 +20870,206 @@
       "-WA"
     ]
   },
+  "gakdúmichk'i": {
+    "root": "gakdúmichk'i",
+    "partOfSpeech": "vb",
+    "definition": "she found them",
+    "seeAlso": [
+      "-MICHK'I"
+    ]
+  },
+  "gakshgelga": {
+    "root": "gakshgelga",
+    "partOfSpeech": "vb",
+    "definition": "she took hold of them 2",
+    "seeAlso": [
+      "-gl-KA"
+    ]
+  },
+  "gakshubna": {
+    "root": "gakshubna",
+    "partOfSpeech": "vb",
+    "definition": "she jumped up",
+    "seeAlso": [
+      "-s-BNA"
+    ]
+  },
+  "gakshudamit": {
+    "root": "gakshudamit",
+    "partOfSpeech": "vb",
+    "definition": "she ran away with it[ish-]",
+    "seeAlso": [
+      "-TA, -TA-mit"
+    ]
+  },
+  "gakshulxam": {
+    "root": "gakshulxam",
+    "partOfSpeech": "vb",
+    "definition": "she told them 2",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gakshúx": {
+    "root": "gakshúx",
+    "partOfSpeech": "vb",
+    "definition": "she did them 2",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "gaksík'lutkax": {
+    "root": "gaksík'lutkax",
+    "partOfSpeech": "vb",
+    "definition": "she looked at him",
+    "seeAlso": [
+      "-s-k'l-TK"
+    ]
+  },
+  "gaktúx": {
+    "root": "gaktúx",
+    "partOfSpeech": "vb",
+    "definition": "she made it[it-] [WTI.13.7], it[a-] did them [WTIV.3.1]",
+    "examples": [
+      {
+        "kiksht": "Walu gaktúx.",
+        "english": "They were hungry. [WTIV.3.1]"
+      }
+    ],
+    "seeAlso": [
+      "X̲"
+    ]
+  },
+  "gaktłlúd": {
+    "root": "gaktłlúd",
+    "partOfSpeech": "vb",
+    "definition": "she gave it[it-] to them",
+    "examples": [
+      {
+        "kiksht": "Gaktłlúd itłxlém.",
+        "english": "She gave them food. [WTI.4.5]"
+      }
+    ],
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gaktłlút": {
+    "root": "gaktłlút",
+    "partOfSpeech": "vb",
+    "definition": "she gave it[it-] to them",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gakłakutłq": {
+    "root": "gakłakutłq",
+    "partOfSpeech": "vb",
+    "definition": "she finished it[a-]",
+    "seeAlso": [
+      "-ł-k-TŁQ"
+    ]
+  },
+  "gakłakxaima": {
+    "root": "gakłakxaima",
+    "partOfSpeech": "vb",
+    "definition": "she laid it down in it[a-]",
+    "examples": [
+      {
+        "kiksht": "Gakłakxaima iłk'ashkash aknimba.",
+        "english": "She laid the child down in the canoe. [WTI.1a1]"
+      }
+    ],
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "gakłgelga": {
+    "root": "gakłgelga",
+    "partOfSpeech": "vb",
+    "definition": "she took him[ił-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gakłgelgax": {
+    "root": "gakłgelgax",
+    "partOfSpeech": "vb",
+    "definition": "she took it",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "gakłilut": {
+    "root": "gakłilut",
+    "partOfSpeech": "vb",
+    "definition": "she gave them to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gakłlqwim": {
+    "root": "gakłlqwim",
+    "partOfSpeech": "vb",
+    "definition": "she fed them, she gave them to eat",
+    "examples": [
+      {
+        "kiksht": "Gakłlqwim itkulal kwadau idunayax.",
+        "english": "She gave them nuts and huckleberries to eat. [WTI.4.7]"
+      }
+    ],
+    "seeAlso": [
+      "-l-QWIM"
+    ]
+  },
+  "gakłshlútx": {
+    "root": "gakłshlútx",
+    "partOfSpeech": "vb",
+    "definition": "she gave them 2 to them",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "gakłulxam": {
+    "root": "gakłulxam",
+    "partOfSpeech": "vb",
+    "definition": "she said to them",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "gakłut'iba": {
+    "root": "gakłut'iba",
+    "partOfSpeech": "vb",
+    "definition": "she dipped it down",
+    "seeAlso": [
+      "-T'I-pa"
+    ]
+  },
+  "gakłuxtum": {
+    "root": "gakłuxtum",
+    "partOfSpeech": "vb",
+    "definition": "she gave birth to it [WTI.1e.4], she gave birth to him[ił-] [WTI.12.1]",
+    "seeAlso": [
+      "-xtum"
+    ]
+  },
+  "gakłúkł": {
+    "root": "gakłúkł",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] took them along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "gakłúx": {
+    "root": "gakłúx",
+    "partOfSpeech": "vb",
+    "definition": "she did him[ił-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "galishgluya": {
     "root": "galishgluya",
     "partOfSpeech": "vb",
@@ -22318,6 +22582,20 @@
     "partOfSpeech": "n",
     "definition": "chicken-hawk"
   },
+  "i-gak'ush": {
+    "root": "i-gak'ush",
+    "partOfSpeech": "n",
+    "definition": "mother's father, mater- nal grandfather",
+    "forms": [
+      {
+        "kiksht": "ichgak'ush",
+        "english": "my (maternal) grandfather, my mother's father [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ak'ush"
+    ]
+  },
   "i-gábenash": {
     "root": "i-gábenash",
     "partOfSpeech": "n",
@@ -23069,6 +23347,25 @@
     "partOfSpeech": "n",
     "definition": "cantaloupe",
     "forms": []
+  },
+  "ił-gak'alaxutaksh": {
+    "root": "ił-gak'alaxutaksh",
+    "partOfSpeech": "n",
+    "definition": "worm-eaten nuts",
+    "seeAlso": [
+      "a-k'álalaxut"
+    ]
+  },
+  "ił-gaktaguks": {
+    "root": "ił-gaktaguks",
+    "partOfSpeech": "n",
+    "definition": "small heads",
+    "notes": [
+      "This was formerly used as a slang term for Paiutes; it is no longer so used. It supposedly means \"small heads,\" as given above, from iq'aqshtaq \"head,\" but a change from -q'- to -g- would normally indicate larger size."
+    ],
+    "seeAlso": [
+      "ił-k'akstaquks"
+    ]
   },
   "kinwa": {
     "root": "kinwa",
