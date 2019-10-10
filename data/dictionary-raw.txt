@@ -10210,3 +10210,77 @@ See also: - ̨
 gnuxt [vb] it[a-] does me
 Examples: K’axsh gnuxt a©ulul. “I want acorn.” [Raccoon C]
 See also: - ̨
+
+
+
+
+
+
+
+
+
+
+
+
+
+ish-gugu [n] hoof
+Forms: itgugumax “hooves” [Dyk]
+See also: i-k’uk’u
+
+i-gugwaki¬q [n] winning side of a game
+See also: -ÒQW, igil¬q
+
+a-gui [n] raspberry
+Forms: i¬gui “raspberries” [Dyk] -GULA see -GLA. It is likely that verbs with root written -gula- should really be spelled -gela-, which would be simply a variant of -gla.
+
+i-gunat [n] Chinook salmon
+Forms: itg ̈nat, itg ̈natmax “Chinook salmon (plural)” [Dyk] itgÅgunat “salmon basketing design” [WE 288(a)] agunat “jack salmon” [HS 12/26/52]
+Examples: Igunat anxuxa. “I will become a Chinook salmon.” Engunat enkiax. “I’m become a Chinook salmon.” [Dyk]
+See also: it-kunatxus
+
+gup [part] break off sharply
+Examples: Gub igixux. “It[i-] (for instance, chalk, or a sand bank) broke off.” Gupg ̈p chduxt. “He is breaking them (for instance, pieces of chalk).”
+See also: gwap, kw’ap
+
+a-gusgus [n] squirrel [WTI.4.7], chip- munk [Dyk; Spilyay]
+Forms: ishgusgus “2 chipmunks” [HS 7/54] itgusgusuks “chipmunks” [Dyk]
+
+i-gushax [n] sky
+Examples: DalÅu igushax. “It’s cloudy.” [lit. “fuzzy sky”]
+
+i-gushaxelgwilit [n] sky color, sky blue
+Forms: iyagushaxelgwilit “it[i-] is sky blue” [Dyk]
+See also: i-gushax, -lgwilit
+
+i-gushu [n] pig, hog
+Forms: igush ̈max [Dyk], ig ̈shumax [HS 7/28/56] “pigs”
+Notes: From the French word “cochon” meaning “pig,” probably via Chinook Jargon.
+See also: i-gushumu©wal, i-gushuwan
+
+i-gushu iyagiwaq [n] pork
+Notes: Literally “pig’s meat.”
+See also: i-gushu, i-giwaq
+
+i-g ̈shumu©wal [n] pig-like paunch
+Forms: imig ̈shumu©wal “you are pig-paunched” [Dyk]
+Notes: A compound from i-gushu “pig” and i-mu©wÅl “big belly.”
+See also: i-gushu, i-gushuwan, i- mu©wal
+
+i-g ̈shuwan [n] pig-like belly
+Forms: imig ̈shuwan “you are pig- bellied” [Dyk]
+Notes: From i-gushu “pig” (from Chinook Jargon, which is in turn from French cochon “pig”) and -wan “belly.”
+See also: i-gushu, i-g ̈shumu©wal, i- wan
+
+gut [part] pluck
+Examples: Kwapt gut gach ̈x wachkti. “Then he plucked grass.” [WTI.1m.7]
+
+gutgut [part] be too heavy for, weigh down, burden
+Examples: Gutgut giuxt abÅks. “The box is (too) heavy for him, is weigh- ing down on him.” [GT, MMc 6/5/98]
+See also: gwutgwut
+
+guxt [vb] she is doing it[a-]
+See also: - ̨
+
+wi-gwa [n] day
+Forms: i¬gwamax “days” [WTI.11.1, MMc 6/3-5/98]
+Examples: it’ukdi wigwa “good day” [GT, MMc]

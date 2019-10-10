@@ -5598,6 +5598,32 @@
       "-T'I-pa, i-git'ilpłxat"
     ]
   },
+  "a-gui": {
+    "root": "a-gui",
+    "partOfSpeech": "n",
+    "definition": "raspberry",
+    "forms": [
+      {
+        "kiksht": "iłgui",
+        "english": "raspberries [Dyk] -GULA see -GLA. It is likely that verbs with root written -gula- should really be spelled -gela-, which would be simply a variant of -gla."
+      }
+    ]
+  },
+  "a-gusgus": {
+    "root": "a-gusgus",
+    "partOfSpeech": "n",
+    "definition": "squirrel [WTI.4.7], chip- munk [Dyk; Spilyay]",
+    "forms": [
+      {
+        "kiksht": "ishgusgus",
+        "english": "2 chipmunks [HS 7/54]"
+      },
+      {
+        "kiksht": "itgusgusuks",
+        "english": "chipmunks [Dyk]"
+      }
+    ]
+  },
   "a-gálamat": {
     "root": "a-gálamat",
     "partOfSpeech": "n",
@@ -28498,6 +28524,57 @@
       "-X̲"
     ]
   },
+  "gup": {
+    "root": "gup",
+    "partOfSpeech": "part",
+    "definition": "break off sharply",
+    "examples": [
+      {
+        "kiksht": "Gub igixux.",
+        "english": "It[i-] (for instance, chalk, or a sand bank) broke off."
+      },
+      {
+        "kiksht": "Gupgúp chduxt.",
+        "english": "He is breaking them (for instance, pieces of chalk)."
+      }
+    ],
+    "seeAlso": [
+      "gwap, kw'ap"
+    ]
+  },
+  "gut": {
+    "root": "gut",
+    "partOfSpeech": "part",
+    "definition": "pluck",
+    "examples": [
+      {
+        "kiksht": "Kwapt gut gachúx wachkti.",
+        "english": "Then he plucked grass. [WTI.1m.7]"
+      }
+    ]
+  },
+  "gutgut": {
+    "root": "gutgut",
+    "partOfSpeech": "part",
+    "definition": "be too heavy for, weigh down, burden",
+    "examples": [
+      {
+        "kiksht": "Gutgut giuxt abáks.",
+        "english": "The box is (too) heavy for him, is weigh- ing down on him. [GT, MMc 6/5/98]"
+      }
+    ],
+    "seeAlso": [
+      "gwutgwut"
+    ]
+  },
+  "guxt": {
+    "root": "guxt",
+    "partOfSpeech": "vb",
+    "definition": "she is doing it[a-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gáyaluqstk": {
     "root": "gáyaluqstk",
     "partOfSpeech": "n",
@@ -31074,6 +31151,103 @@
     "partOfSpeech": "n",
     "definition": "smooth round water worn stone"
   },
+  "i-gugwakiłq": {
+    "root": "i-gugwakiłq",
+    "partOfSpeech": "n",
+    "definition": "winning side of a game",
+    "seeAlso": [
+      "-ŁQW, igilłq"
+    ]
+  },
+  "i-gunat": {
+    "root": "i-gunat",
+    "partOfSpeech": "n",
+    "definition": "Chinook salmon",
+    "forms": [
+      {
+        "kiksht": "itgúnat, itgúnatmax",
+        "english": "Chinook salmon (plural) [Dyk]"
+      },
+      {
+        "kiksht": "itgágunat",
+        "english": "salmon basketing design [WE 288(a)]"
+      },
+      {
+        "kiksht": "agunat",
+        "english": "jack salmon [HS 12/26/52]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Igunat anxuxa.",
+        "english": "I will become a Chinook salmon."
+      },
+      {
+        "kiksht": "Engunat enkiax.",
+        "english": "I'm become a Chinook salmon. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-kunatxus"
+    ]
+  },
+  "i-gushax": {
+    "root": "i-gushax",
+    "partOfSpeech": "n",
+    "definition": "sky",
+    "examples": [
+      {
+        "kiksht": "Daláu igushax.",
+        "english": "It's cloudy."
+      },
+      {
+        "kiksht": "[lit.",
+        "english": "fuzzy sky]"
+      }
+    ]
+  },
+  "i-gushaxelgwilit": {
+    "root": "i-gushaxelgwilit",
+    "partOfSpeech": "n",
+    "definition": "sky color, sky blue",
+    "forms": [
+      {
+        "kiksht": "iyagushaxelgwilit",
+        "english": "it[i-] is sky blue [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-gushax, -lgwilit"
+    ]
+  },
+  "i-gushu": {
+    "root": "i-gushu",
+    "partOfSpeech": "n",
+    "definition": "pig, hog",
+    "forms": [
+      {
+        "kiksht": "igushúmax [Dyk], igúshumax [HS 7/28/56]",
+        "english": "pigs"
+      }
+    ],
+    "notes": [
+      "From the French word \"cochon\" meaning \"pig,\" probably via Chinook Jargon."
+    ],
+    "seeAlso": [
+      "i-gushumug̲wal, i-gushuwan"
+    ]
+  },
+  "i-gushu iyagiwaq": {
+    "root": "i-gushu iyagiwaq",
+    "partOfSpeech": "n",
+    "definition": "pork",
+    "notes": [
+      "Literally \"pig's meat.\""
+    ],
+    "seeAlso": [
+      "i-gushu, i-giwaq"
+    ]
+  },
   "i-gábenash": {
     "root": "i-gábenash",
     "partOfSpeech": "n",
@@ -31129,6 +31303,40 @@
     ],
     "seeAlso": [
       "-LA"
+    ]
+  },
+  "i-gúshumug̲wal": {
+    "root": "i-gúshumug̲wal",
+    "partOfSpeech": "n",
+    "definition": "pig-like paunch",
+    "forms": [
+      {
+        "kiksht": "imigúshumug̲wal",
+        "english": "you are pig-paunched [Dyk]"
+      }
+    ],
+    "notes": [
+      "A compound from i-gushu \"pig\" and i-mug̲wál \"big belly.\""
+    ],
+    "seeAlso": [
+      "i-gushu, i-gushuwan, i- mug̲wal"
+    ]
+  },
+  "i-gúshuwan": {
+    "root": "i-gúshuwan",
+    "partOfSpeech": "n",
+    "definition": "pig-like belly",
+    "forms": [
+      {
+        "kiksht": "imigúshuwan",
+        "english": "you are pig- bellied [Dyk]"
+      }
+    ],
+    "notes": [
+      "From i-gushu \"pig\" (from Chinook Jargon, which is in turn from French cochon \"pig\") and -wan \"belly.\""
+    ],
+    "seeAlso": [
+      "i-gushu, i-gúshumug̲wal, i- wan"
     ]
   },
   "i-k'ámunaq": {
@@ -31435,6 +31643,20 @@
     "definition": "notochord (in eel)",
     "notes": [
       "The cord or string-like thing in an eel's or sturgeon's back that takes the place of a backbone."
+    ]
+  },
+  "ish-gugu": {
+    "root": "ish-gugu",
+    "partOfSpeech": "n",
+    "definition": "hoof",
+    "forms": [
+      {
+        "kiksht": "itgugumax",
+        "english": "hooves [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'uk'u"
     ]
   },
   "ishktälgwipchk": {
@@ -32578,6 +32800,23 @@
     ],
     "seeAlso": [
       "a-ck'entłx, -s-n-CK'IAX̲TŁ"
+    ]
+  },
+  "wi-gwa": {
+    "root": "wi-gwa",
+    "partOfSpeech": "n",
+    "definition": "day",
+    "forms": [
+      {
+        "kiksht": "iłgwamax",
+        "english": "days [WTI.11.1, MMc 6/3-5/98]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "it'ukdi wigwa",
+        "english": "good day [GT, MMc]"
+      }
     ]
   },
   "wi-lx": {
