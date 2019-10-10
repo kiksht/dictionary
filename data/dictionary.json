@@ -5186,6 +5186,17 @@
       "-QEMSHT, i-gig̲emshtx, it- gig̲emshtxxat"
     ]
   },
+  "a-gikw'inc": {
+    "root": "a-gikw'inc",
+    "partOfSpeech": "n",
+    "definition": "pin",
+    "forms": [
+      {
+        "kiksht": "iłgikw'inc",
+        "english": "pins [Dyk]"
+      }
+    ]
+  },
   "a-gálamat": {
     "root": "a-gálamat",
     "partOfSpeech": "n",
@@ -27980,6 +27991,20 @@
       "daba, dika"
     ]
   },
+  "giłgelxulal": {
+    "root": "giłgelxulal",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] prepares him for it",
+    "examples": [
+      {
+        "kiksht": "Iyułmax giłgelxulal.",
+        "english": "It[a-] prepares him for a guardian spirit. [WTII.10.3]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "gáyaluqstk": {
     "root": "gáyaluqstk",
     "partOfSpeech": "n",
@@ -29816,6 +29841,48 @@
       "- G̲WIA, i-gig̲wianan, i- gig̲wiamat"
     ]
   },
+  "i-gik'alit": {
+    "root": "i-gik'alit",
+    "partOfSpeech": "n",
+    "definition": "leaving (food) over",
+    "forms": [
+      {
+        "kiksht": "iyagik'alit",
+        "english": "he is one who leaves things over (for instance, food for his dog) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-K'A-it"
+    ]
+  },
+  "i-gik'epk'ep": {
+    "root": "i-gik'epk'ep",
+    "partOfSpeech": "n",
+    "definition": "winking",
+    "forms": [
+      {
+        "kiksht": "iyagik'epk'ep",
+        "english": "he is one who winks at people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "k'ep, is-k'epk'epxus"
+    ]
+  },
+  "i-gik'manan": {
+    "root": "i-gik'manan",
+    "partOfSpeech": "n",
+    "definition": "tasting, trying by taste",
+    "forms": [
+      {
+        "kiksht": "iyagik'manan",
+        "english": "he is a taster"
+      }
+    ],
+    "seeAlso": [
+      "-K'MA-nan"
+    ]
+  },
   "i-gikshdamnił": {
     "root": "i-gikshdamnił",
     "partOfSpeech": "n",
@@ -29828,6 +29895,166 @@
     ],
     "seeAlso": [
       "-KSHT-am"
+    ]
+  },
+  "i-gikshtamnił": {
+    "root": "i-gikshtamnił",
+    "partOfSpeech": "n",
+    "definition": "inspecting",
+    "forms": [
+      {
+        "kiksht": "iłagikshtamnił",
+        "english": "he[ił-] is one who inspects, inspector [WTII.9.2]"
+      }
+    ],
+    "notes": [
+      "Literally \"repeatedly (-nił) going (-am-) to look at (-ksht-) some- thing (-gi-).\""
+    ],
+    "seeAlso": [
+      "-KSHT"
+    ]
+  },
+  "i-gikshtim": {
+    "root": "i-gikshtim",
+    "partOfSpeech": "n",
+    "definition": "seeing",
+    "forms": [
+      {
+        "kiksht": "ichagikshtim",
+        "english": "she is one who sees [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-KSHT, i-gikshdamnił"
+    ]
+  },
+  "i-gikshtxul": {
+    "root": "i-gikshtxul",
+    "partOfSpeech": "n",
+    "definition": "Kiksht language, dia- lect of Kiksht",
+    "forms": [
+      {
+        "kiksht": "igikshtxulmax",
+        "english": "Kiksht dia- lects"
+      },
+      {
+        "kiksht": "iyagikshtxul",
+        "english": "his Kiksht; he is a Kiksht speaker"
+      },
+      {
+        "kiksht": "idagikshtxulmax",
+        "english": "they are Kiksht speakers [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "Kiksht"
+    ]
+  },
+  "i-gikw'alksht": {
+    "root": "i-gikw'alksht",
+    "partOfSpeech": "n",
+    "definition": "trying out, testing",
+    "forms": [
+      {
+        "kiksht": "iyagikw'alksht",
+        "english": "he is one who tries out things, people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-KW'A-ksht, it-gikw'alkshtxat"
+    ]
+  },
+  "i-gikw'ashkw'ash": {
+    "root": "i-gikw'ashkw'ash",
+    "partOfSpeech": "n",
+    "definition": "frightening, scaring",
+    "forms": [
+      {
+        "kiksht": "iyagikw'ashkw'ash",
+        "english": "he is a scarer, a frightener of people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kw'ash"
+    ]
+  },
+  "i-gikw'utkw'ut": {
+    "root": "i-gikw'utkw'ut",
+    "partOfSpeech": "n",
+    "definition": "picking, plucking",
+    "forms": [
+      {
+        "kiksht": "iyagikw'utkw'ut",
+        "english": "he is a picker [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kw'utkw'ut, i-kw'utkw'ut"
+    ]
+  },
+  "i-gikwchan": {
+    "root": "i-gikwchan",
+    "partOfSpeech": "n",
+    "definition": "taking along, carrying",
+    "forms": [
+      {
+        "kiksht": "iyagikwchan",
+        "english": "he is one who takes things, people along; he is a mail-carrier, paper-carrier"
+      },
+      {
+        "kiksht": "idagikwchan",
+        "english": "they are carriers [Dyk]"
+      }
+    ],
+    "notes": [
+      "Alternate form of i-k'ikwchan."
+    ],
+    "seeAlso": [
+      "-KWCHAN, i-k'ikwchan"
+    ]
+  },
+  "i-gilik": {
+    "root": "i-gilik",
+    "partOfSpeech": "n",
+    "definition": "sturgeon hook [HS 7/28/ 56], anchor for gillnet or sturgeon line [PK 9/4/55]",
+    "notes": [
+      "Refers to a fork-shaped hook used to catch sturgeon, with the bait tied on in such a way that the hook turns when he bites on so that it will not come out of his mouth."
+    ]
+  },
+  "i-giluk'mat": {
+    "root": "i-giluk'mat",
+    "partOfSpeech": "n",
+    "definition": "something to straighten with",
+    "seeAlso": [
+      "luk', dalúk'"
+    ]
+  },
+  "i-giluq'": {
+    "root": "i-giluq'",
+    "partOfSpeech": "n",
+    "definition": "swallowing, eating",
+    "forms": [
+      {
+        "kiksht": "iyagiluq'",
+        "english": "he is a swallower (monster or animal) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "luq'"
+    ]
+  },
+  "i-gilłq": {
+    "root": "i-gilłq",
+    "partOfSpeech": "n",
+    "definition": "winning",
+    "forms": [
+      {
+        "kiksht": "iyagilłq",
+        "english": "he is a winner [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁQW, i-gugwakiłq"
     ]
   },
   "i-gábenash": {
@@ -29871,6 +30098,20 @@
     "definition": "handle of a bucket",
     "seeAlso": [
       "i-gíganił, -gl-GA"
+    ]
+  },
+  "i-gílamat": {
+    "root": "i-gílamat",
+    "partOfSpeech": "n",
+    "definition": "whetstone",
+    "forms": [
+      {
+        "kiksht": "ishgílamat",
+        "english": "2 whetstones [HS 7/28/56]"
+      }
+    ],
+    "seeAlso": [
+      "-LA"
     ]
   },
   "i-k'ámunaq": {
@@ -30533,6 +30774,28 @@
     "definition": "drinking place",
     "seeAlso": [
       "-QEMSHT, i-gig̲émshtx, a- gig̲emshtxmat"
+    ]
+  },
+  "it-gikshgamit": {
+    "root": "it-gikshgamit",
+    "partOfSpeech": "n",
+    "definition": "being born a freak because of what a parent saw while pregnant",
+    "forms": [
+      {
+        "kiksht": "idiagikshgamit",
+        "english": "he is born a freak because of what his mother saw while pregnant"
+      }
+    ],
+    "notes": [
+      "This apparently refers to the belief that a child would be born deformed if the mother saw some- thing evil (for instance, according to Gladys Thompson [1/12/99] any- thing dying) while pregnant with her or him."
+    ]
+  },
+  "it-gikw'alkshtxat": {
+    "root": "it-gikw'alkshtxat",
+    "partOfSpeech": "n",
+    "definition": "testing place",
+    "seeAlso": [
+      "-KW'A-ksht, i-gikw'alksht"
     ]
   },
   "ił-alakásgwilit": {
