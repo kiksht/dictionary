@@ -35645,6 +35645,178 @@
       "i-chachaq, wachg̲en akłmín"
     ]
   },
+  "ichachaqłq akłmín": {
+    "root": "ichachaqłq akłmín",
+    "partOfSpeech": "n",
+    "definition": "February",
+    "notes": [
+      "Means \"snowbrush month.\" Some people also cited wachg̲en akłmín as a name for February. [DH]"
+    ],
+    "seeAlso": [
+      "i-chaqłq, wachg̲en akłmín"
+    ]
+  },
+  "ichag̲úlulix akłmín": {
+    "root": "ichag̲úlulix akłmín",
+    "partOfSpeech": "n",
+    "definition": "September",
+    "notes": [
+      "Means \"acorn-gathering month.\" [DH]"
+    ],
+    "seeAlso": [
+      "a-g̲ulul"
+    ]
+  },
+  "ichaixemlal": {
+    "root": "ichaixemlal",
+    "partOfSpeech": "vb",
+    "definition": "he bought her from him",
+    "seeAlso": [
+      "-MLAL"
+    ]
+  },
+  "ichakshtilit akłmín": {
+    "root": "ichakshtilit akłmín",
+    "partOfSpeech": "n",
+    "definition": "June",
+    "notes": [
+      "Means \"rotting month,\" refer- ring to the fact that fish rot rapidly at this time. [DH]"
+    ]
+  },
+  "ichalxchaq akłmín": {
+    "root": "ichalxchaq akłmín",
+    "partOfSpeech": "n",
+    "definition": "November",
+    "notes": [
+      "Means \"frost month.\" [DH]"
+    ],
+    "seeAlso": [
+      "(w)i-lxchaq"
+    ]
+  },
+  "ichaxwdémalal akłmín": {
+    "root": "ichaxwdémalal akłmín",
+    "partOfSpeech": "n",
+    "definition": "July",
+    "notes": [
+      "Means \"attacking month,\" referring to fish advancing in a body, coming up the rivers in schools. [DH]"
+    ]
+  },
+  "ichdalut": {
+    "root": "ichdalut",
+    "partOfSpeech": "vb",
+    "definition": "he gave them to her",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "ichdilut": {
+    "root": "ichdilut",
+    "partOfSpeech": "vb",
+    "definition": "he has given them to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "ichenxima": {
+    "root": "ichenxima",
+    "partOfSpeech": "vb",
+    "definition": "he passed away, he died, he left me",
+    "notes": [
+      "This appears to mean literally \"he left me;\" the other meanings emerge from the context in the origi- nal letter."
+    ],
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
+  "ichialut": {
+    "root": "ichialut",
+    "partOfSpeech": "vb",
+    "definition": "he gave it[i-] to her",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "ichilgimaq": {
+    "root": "ichilgimaq",
+    "partOfSpeech": "vb",
+    "definition": "he decreed",
+    "notes": [
+      "As at end of Coyote story."
+    ]
+  },
+  "ichinxchkem": {
+    "root": "ichinxchkem",
+    "partOfSpeech": "vb",
+    "definition": "he took it[i-] back again from me",
+    "seeAlso": [
+      "-CHKM"
+    ]
+  },
+  "ichiułada": {
+    "root": "ichiułada",
+    "partOfSpeech": "vb",
+    "definition": "he threw it[i-] away",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "ichiúx": {
+    "root": "ichiúx",
+    "partOfSpeech": "vb",
+    "definition": "he (just) did it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ichiłglux": {
+    "root": "ichiłglux",
+    "partOfSpeech": "vb",
+    "definition": "he did it[i-] to them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ichnux": {
+    "root": "ichnux",
+    "partOfSpeech": "vb",
+    "definition": "he has done to me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ichtxux": {
+    "root": "ichtxux",
+    "partOfSpeech": "vb",
+    "definition": "he has done to us 2",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ichuwaq": {
+    "root": "ichuwaq",
+    "partOfSpeech": "vb",
+    "definition": "he killed her",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "ichłilut": {
+    "root": "ichłilut",
+    "partOfSpeech": "vb",
+    "definition": "he has given them to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "ichłuqemsht": {
+    "root": "ichłuqemsht",
+    "partOfSpeech": "vb",
+    "definition": "he has drunk them",
+    "seeAlso": [
+      "-QEMSHT"
+    ]
+  },
   "id-elxam": {
     "root": "id-elxam",
     "partOfSpeech": "n",
@@ -35765,12 +35937,131 @@
       "i-kaqmit"
     ]
   },
+  "idamlut": {
+    "root": "idamlut",
+    "partOfSpeech": "vb",
+    "definition": "I gave them to you",
+    "seeAlso": [
+      "-T"
+    ]
+  },
   "idiawacha": {
     "root": "idiawacha",
     "partOfSpeech": "n",
     "definition": "newspaper",
     "seeAlso": [
       "i-ch'axwi, id-wacha"
+    ]
+  },
+  "idimam": {
+    "root": "idimam",
+    "partOfSpeech": "vb",
+    "definition": "he came, he arrived",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "idít": {
+    "root": "idít",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] is coming",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "igadimam": {
+    "root": "igadimam",
+    "partOfSpeech": "vb",
+    "definition": "she just arrived",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "igamxlux": {
+    "root": "igamxlux",
+    "partOfSpeech": "vb",
+    "definition": "you put it[a-] on",
+    "seeAlso": [
+      "-xl-X̲"
+    ]
+  },
+  "iganglutk": {
+    "root": "iganglutk",
+    "partOfSpeech": "vb",
+    "definition": "she saved it[a-] for me",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "igaxux": {
+    "root": "igaxux",
+    "partOfSpeech": "vb",
+    "definition": "she has become",
+    "examples": [
+      {
+        "kiksht": "Qngi dan igaxux?",
+        "english": "What happened to her? [Spilyay/Dialog]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "igidimam": {
+    "root": "igidimam",
+    "partOfSpeech": "vb",
+    "definition": "he just arrived",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "igimguya": {
+    "root": "igimguya",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] went for you",
+    "examples": [
+      {
+        "kiksht": "Qengi igimguya daya wigwa?",
+        "english": "How did your day go? [Spilyay/Health]"
+      }
+    ],
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "igimxelmux": {
+    "root": "igimxelmux",
+    "partOfSpeech": "vb",
+    "definition": "you ate it[i-]",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "iginelqwim": {
+    "root": "iginelqwim",
+    "partOfSpeech": "vb",
+    "definition": "she gave it[i-] to me to eat",
+    "seeAlso": [
+      "-l-QWIM"
+    ]
+  },
+  "iginluya": {
+    "root": "iginluya",
+    "partOfSpeech": "vb",
+    "definition": "I caught it[i-]",
+    "notes": [
+      "Refers to catching a fish. Lit- erally \"it[i-] (-i-) did (ig-) go (-uya) to (-l-) me (-l-).\""
+    ],
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "igiúx": {
+    "root": "igiúx",
+    "partOfSpeech": "vb",
+    "definition": "she (just) did it[i-]",
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "is-bnanan": {
