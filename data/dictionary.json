@@ -6718,6 +6718,51 @@
       "it-k'ani, i-łak'ani"
     ]
   },
+  "-k'ashkash": {
+    "root": "-k'ashkash",
+    "partOfSpeech": "n",
+    "definition": "child, boy, girl, baby, young",
+    "forms": [
+      {
+        "kiksht": "ik'ashkash",
+        "english": "boy"
+      },
+      {
+        "kiksht": "ak'ashkash",
+        "english": "girl"
+      },
+      {
+        "kiksht": "iłk'ashkash",
+        "english": "child ik'askas \"small boy"
+      },
+      {
+        "kiksht": "ak'askas",
+        "english": "small girl"
+      },
+      {
+        "kiksht": "iłk'askas",
+        "english": "small child [forms in - k'askas refer to babies or children from a few to days to 2 or 3 years old] [Dyk]"
+      },
+      {
+        "kiksht": "No plural; itqádutinksh",
+        "english": "children used for plural."
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Iłg̲agilak iłk'ashkash.",
+        "english": "It's a girl."
+      },
+      {
+        "kiksht": "enk'ashkashbet",
+        "english": "when I was a boy/girl"
+      },
+      {
+        "kiksht": "Ak'ashkash ayagikal.",
+        "english": "His wife is younger than he."
+      }
+    ]
+  },
   "-k'asnan": {
     "root": "-k'asnan",
     "partOfSpeech": "n",
@@ -13298,6 +13343,43 @@
     "partOfSpeech": "n",
     "definition": "acorns with worm-holes",
     "forms": []
+  },
+  "a-k'auk'au": {
+    "root": "a-k'auk'au",
+    "partOfSpeech": "n",
+    "definition": "murdering",
+    "forms": [
+      {
+        "kiksht": "ayak'ashkashk'auk'au",
+        "english": "he is a murder of children, he is a child- murderer [Dyk]"
+      },
+      {
+        "kiksht": "ayak'auk'au",
+        "english": "he's a murderer [GT, MMc 6/4/98]"
+      }
+    ]
+  },
+  "a-k'axan": {
+    "root": "a-k'axan",
+    "partOfSpeech": "n",
+    "definition": "chokecherry",
+    "forms": [
+      {
+        "kiksht": "itk'axan",
+        "english": "chokecherries [Dyk]"
+      }
+    ]
+  },
+  "a-k'axitk": {
+    "root": "a-k'axitk",
+    "partOfSpeech": "n",
+    "definition": "isle, islet",
+    "notes": [
+      "This refers to an island smaller than a-g̲axitk."
+    ],
+    "seeAlso": [
+      "a-g̲axitk"
+    ]
   },
   "a-k'álak'ia": {
     "root": "a-k'álak'ia",
@@ -40930,6 +41012,62 @@
       "In the old days, a lumb of lead tied to a line a couple of feet long used to sling with. The lead either had an eye by which it was attached to the line, or was tied up in a piece of leather."
     ]
   },
+  "i-k'astila": {
+    "root": "i-k'astila",
+    "partOfSpeech": "n",
+    "definition": "crab",
+    "forms": [
+      {
+        "kiksht": "iłk'astila",
+        "english": "crabs"
+      }
+    ]
+  },
+  "i-k'asxanana": {
+    "root": "i-k'asxanana",
+    "partOfSpeech": "n",
+    "definition": "carrying a child in a cradleboard on the back",
+    "forms": [
+      {
+        "kiksht": "ichak'asxanana",
+        "english": "she is carry- ing a child in a cradleboard on her back [Dyk]"
+      }
+    ]
+  },
+  "i-k'asxat": {
+    "root": "i-k'asxat",
+    "partOfSpeech": "n",
+    "definition": "eel",
+    "seeAlso": [
+      "i-gakwal"
+    ]
+  },
+  "i-k'audan": {
+    "root": "i-k'audan",
+    "partOfSpeech": "n",
+    "definition": "flying squirrel",
+    "seeAlso": [
+      "i-cuxabwalal"
+    ]
+  },
+  "i-k'auwan": {
+    "root": "i-k'auwan",
+    "partOfSpeech": "n",
+    "definition": "white salmon, white- fish"
+  },
+  "i-k'axam": {
+    "root": "i-k'axam",
+    "partOfSpeech": "n",
+    "definition": "cherries (domesticated or wild)",
+    "seeAlso": [
+      "i-chilish"
+    ]
+  },
+  "i-k'ayai": {
+    "root": "i-k'ayai",
+    "partOfSpeech": "n",
+    "definition": "last season's roots, last season's salmon"
+  },
   "i-k'ałmgwadit": {
     "root": "i-k'ałmgwadit",
     "partOfSpeech": "n",
@@ -40961,6 +41099,14 @@
     "definition": "wood, stick of wood",
     "seeAlso": [
       "i-k'amunak"
+    ]
+  },
+  "i-k'áxnag̲lit": {
+    "root": "i-k'áxnag̲lit",
+    "partOfSpeech": "n",
+    "definition": "chokecherry brush [Dyk], chokecherry shrubbery [DykGr 107]",
+    "seeAlso": [
+      "a-k'axan, i-k'axnaq"
     ]
   },
   "i-k'áłamgwadid": {
@@ -44566,6 +44712,31 @@
       "i-duiha, ił-psh"
     ]
   },
+  "it- -k'axayik'": {
+    "root": "it- -k'axayik'",
+    "partOfSpeech": "adj n",
+    "definition": "dissatisfied (with a trade)",
+    "forms": [
+      {
+        "kiksht": "idiak'axayik'",
+        "english": "he's dissatis- fied"
+      },
+      {
+        "kiksht": "itgak'axayik'",
+        "english": "she's dissatis- fied"
+      },
+      {
+        "kiksht": "idmik'axayik'",
+        "english": "you're dissatis- fied"
+      }
+    ],
+    "notes": [
+      "Apparently used of someone who feels herself or himself short- changed in a trade."
+    ],
+    "seeAlso": [
+      "-u-k'-XAYU-kw"
+    ]
+  },
   "it-address": {
     "root": "it-address",
     "partOfSpeech": "n",
@@ -45333,6 +45504,14 @@
     ],
     "seeAlso": [
       "-k'ani, i-łak'ani"
+    ]
+  },
+  "it-k'ashkashkti": {
+    "root": "it-k'ashkashkti",
+    "partOfSpeech": "n",
+    "definition": "things used by children",
+    "seeAlso": [
+      "-k'ashkash"
     ]
   },
   "it-k'áicimum": {
@@ -47018,6 +47197,17 @@
       "ił-yak'askas, i-kwaxa"
     ]
   },
+  "ił-k'auk'au": {
+    "root": "ił-k'auk'au",
+    "partOfSpeech": "n",
+    "definition": "Oregon grape",
+    "notes": [
+      "Almost certainly borrowed from Sahaptin."
+    ],
+    "seeAlso": [
+      "ił-kálaikalai"
+    ]
+  },
   "ił-k'álamat": {
     "root": "ił-k'álamat",
     "partOfSpeech": "n",
@@ -47589,6 +47779,76 @@
     ],
     "seeAlso": [
       "łxliu, łxliwix, łxlíwadamt"
+    ]
+  },
+  "k'ashish": {
+    "root": "k'ashish",
+    "partOfSpeech": "part",
+    "definition": "smile",
+    "seeAlso": [
+      "k'esis"
+    ]
+  },
+  "k'ashwalk'ashwal": {
+    "root": "k'ashwalk'ashwal",
+    "partOfSpeech": "part",
+    "definition": "see-saw",
+    "examples": [
+      {
+        "kiksht": "k'ashwalk'ashwal łxmutxemx",
+        "english": "they are playing see- saw [Dyk]"
+      }
+    ]
+  },
+  "k'au": {
+    "root": "k'au",
+    "partOfSpeech": "part",
+    "definition": "tie together, bind, bound",
+    "examples": [
+      {
+        "kiksht": "Galiguqam ikala idiapsh k'au uxwíxt.",
+        "english": "He met a man whose feet were tied together. [WTI.1e.5]"
+      }
+    ],
+    "seeAlso": [
+      "-gmatk"
+    ]
+  },
+  "k'aya": {
+    "root": "k'aya",
+    "partOfSpeech": "adv",
+    "definition": "no, not",
+    "examples": [
+      {
+        "kiksht": "K'aya, naqi amduxa qidau.",
+        "english": "No, you will not do them that way."
+      },
+      {
+        "kiksht": "K'aya niminitam.",
+        "english": "You didn't send him to me."
+      },
+      {
+        "kiksht": "k'aya dan",
+        "english": "nothing"
+      },
+      {
+        "kiksht": "k'aya qama",
+        "english": "nowhere"
+      },
+      {
+        "kiksht": "k'aya qengi",
+        "english": "never mind, it doesn't matter"
+      },
+      {
+        "kiksht": "k'aya wit'ax",
+        "english": "no more, no longer"
+      }
+    ],
+    "notes": [
+      "For the difference between k'aya and naqi, see the grammar."
+    ],
+    "seeAlso": [
+      "naqi"
     ]
   },
   "k'ámunaq": {
