@@ -5927,6 +5927,34 @@
       "-kalagwadit"
     ]
   },
+  "-kanaximsht": {
+    "root": "-kanaximsht",
+    "partOfSpeech": "n",
+    "definition": "chiefs, chiefly class, heads, council",
+    "forms": [
+      {
+        "kiksht": "iłkanaxímsht",
+        "english": "chiefs, chiefly class"
+      },
+      {
+        "kiksht": "itkanaxímsht",
+        "english": "chiefs"
+      },
+      {
+        "kiksht": "idenshaxánaximsht",
+        "english": "our chiefs [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qug̲wik'ayapx itkanaximsht.",
+        "english": "The chiefs are being removed [This expression is now used for election.] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-shtámx"
+    ]
+  },
   "-ki-CHKWA-mit": {
     "root": "-ki-CHKWA-mit",
     "partOfSpeech": "vb",
@@ -11504,6 +11532,19 @@
     "definition": "steering a boat",
     "seeAlso": [
       "-a-k-LA-qw"
+    ]
+  },
+  "a-kanakwatłk": {
+    "root": "a-kanakwatłk",
+    "partOfSpeech": "n",
+    "definition": "buttercup"
+  },
+  "a-kanxdamat": {
+    "root": "a-kanxdamat",
+    "partOfSpeech": "n",
+    "definition": "fishing reel",
+    "seeAlso": [
+      "-k-NXDA"
     ]
   },
   "a-kaładagwax": {
@@ -38838,6 +38879,19 @@
       "Refers to something put on the end of something else to extend it or make it longer. [GT 1/12/99]"
     ]
   },
+  "i-kanagwamat": {
+    "root": "i-kanagwamat",
+    "partOfSpeech": "n",
+    "definition": "frame to stretch hide on in tanning",
+    "seeAlso": [
+      "gixáninagwamt"
+    ]
+  },
+  "i-kanåka": {
+    "root": "i-kanåka",
+    "partOfSpeech": "n",
+    "definition": "Hawaiian"
+  },
   "i-kałalit": {
     "root": "i-kałalit",
     "partOfSpeech": "n",
@@ -40705,6 +40759,31 @@
       "-s-k'-MI-tłkw"
     ]
   },
+  "is-kanust": {
+    "root": "is-kanust",
+    "partOfSpeech": "n",
+    "definition": "kidney",
+    "forms": [
+      {
+        "kiksht": "iskkanust",
+        "english": "my kidney [HS 7/ 26/51]"
+      }
+    ]
+  },
+  "is-kanxanan": {
+    "root": "is-kanxanan",
+    "partOfSpeech": "n",
+    "definition": "weaving",
+    "forms": [
+      {
+        "kiksht": "isgaxanxanan",
+        "english": "she is a weaver [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-s-k'-NXA"
+    ]
+  },
   "ish- -ditł'i": {
     "root": "ish- -ditł'i",
     "partOfSpeech": "adj n",
@@ -40930,6 +41009,20 @@
     ],
     "seeAlso": [
       "-sh-k'-ŁQŁ"
+    ]
+  },
+  "ish-kányagwamat": {
+    "root": "ish-kányagwamat",
+    "partOfSpeech": "n",
+    "definition": "suspenders",
+    "forms": [
+      {
+        "kiksht": "ishiaxányagwamat",
+        "english": "his sus- penders [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-NYA-kw"
     ]
   },
   "ish-káłemniłix": {
@@ -41869,6 +41962,30 @@
       "-i-k-mixtk"
     ]
   },
+  "it-kanakanamax": {
+    "root": "it-kanakanamax",
+    "partOfSpeech": "n",
+    "definition": "somewhere about the private parts"
+  },
+  "it-kanli": {
+    "root": "it-kanli",
+    "partOfSpeech": "n",
+    "definition": "cannery",
+    "forms": [
+      {
+        "kiksht": "itkánlimax",
+        "english": "canneries [Dyk]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
+  "it-kanutkmax": {
+    "root": "it-kanutkmax",
+    "partOfSpeech": "n",
+    "definition": "partly finished beadwork (mostly of bags)"
+  },
   "it-kałagwax": {
     "root": "it-kałagwax",
     "partOfSpeech": "n",
@@ -41999,6 +42116,17 @@
     ],
     "seeAlso": [
       "i-kala, i-k'itit"
+    ]
+  },
+  "it-kánaximsht": {
+    "root": "it-kánaximsht",
+    "partOfSpeech": "n",
+    "definition": "chiefs",
+    "notes": [
+      "This word apparently func- tions as a plural of i-shtámx."
+    ],
+    "seeAlso": [
+      "i-shtámx"
     ]
   },
   "itgachaxelqwłimax akłmín": {
@@ -42927,12 +43055,34 @@
       "-quak, i-shixwa"
     ]
   },
+  "ił-kanap'ustemks": {
+    "root": "ił-kanap'ustemks",
+    "partOfSpeech": "n",
+    "definition": "non-edible small fine hair-like plant [Dyk]",
+    "notes": [
+      "When a cow eats this plant, her milk gets strong."
+    ]
+  },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
     "partOfSpeech": "n",
     "definition": "berries resembling Oregon grapes",
     "seeAlso": [
       "ił-k'auk'au"
+    ]
+  },
+  "ił-kántłq": {
+    "root": "ił-kántłq",
+    "partOfSpeech": "n",
+    "definition": "finishing",
+    "forms": [
+      {
+        "kiksht": "iłiaxántłq",
+        "english": "his finishing; he is one who finishes [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ł-k-TŁQ"
     ]
   },
   "iłac'imam iłk'ílagwadit": {
@@ -43338,6 +43488,134 @@
       }
     ]
   },
+  "kana'admax": {
+    "root": "kana'admax",
+    "partOfSpeech": "adv",
+    "definition": "both, both sides",
+    "examples": [
+      {
+        "kiksht": "kana'admax iwimałba",
+        "english": "on both sides of the Columbia River [Museum 3]"
+      }
+    ]
+  },
+  "kana'amdmax": {
+    "root": "kana'amdmax",
+    "partOfSpeech": "adv",
+    "definition": "on both sides",
+    "examples": [
+      {
+        "kiksht": "G̲ángadix galuxwílaitix adasq'ú idelxam kana'amdmax wimałba.",
+        "english": "Long ago the Wasco people lived on both sides of the Columbia River. [GT, MMc]"
+      }
+    ]
+  },
+  "kana-": {
+    "root": "kana-",
+    "partOfSpeech": "num",
+    "definition": "all (with pronoun and number)",
+    "forms": [
+      {
+        "kiksht": "kanashtamakwsht, kanashtmakwsht",
+        "english": "both of them"
+      },
+      {
+        "kiksht": "kanandamakwsht",
+        "english": "both of us"
+      },
+      {
+        "kiksht": "kananshlakdiksh",
+        "english": "all 4 of us"
+      },
+      {
+        "kiksht": "kanałg̲unmiksh",
+        "english": "all 5, all 5 of them [=kanawi łgunmiksh] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kanam-, kanawá, kanawi"
+    ]
+  },
+  "kanam-": {
+    "root": "kanam-",
+    "partOfSpeech": "num",
+    "definition": "all (with number)",
+    "forms": [
+      {
+        "kiksht": "kanamakwsht",
+        "english": "both"
+      },
+      {
+        "kiksht": "kanamłun",
+        "english": "all 3"
+      },
+      {
+        "kiksht": "kanamlakt",
+        "english": "all 4"
+      },
+      {
+        "kiksht": "kanamg̲unma",
+        "english": "all 5"
+      },
+      {
+        "kiksht": "kanamsinmakwst",
+        "english": "all 7"
+      },
+      {
+        "kiksht": "kanamaksht idiakshen",
+        "english": "both his hands"
+      },
+      {
+        "kiksht": "akanamg̲unmiksh",
+        "english": "all 5 strangers"
+      },
+      {
+        "kiksht": "łkanamg̲unmiksh",
+        "english": "all 5 people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kanawá"
+    ]
+  },
+  "kanamdimaxix": {
+    "root": "kanamdimaxix",
+    "partOfSpeech": "adv",
+    "definition": "both sides of river, tree, lake, hole"
+  },
+  "kanamxalak": {
+    "root": "kanamxalak",
+    "partOfSpeech": "adv",
+    "definition": "both sides, pair, both",
+    "examples": [
+      {
+        "kiksht": "kanamxalak idmikshen",
+        "english": "both hands [GT, MMc 6/4/98]"
+      }
+    ],
+    "seeAlso": [
+      "kanawá, kanawi"
+    ]
+  },
+  "kanashtmakwsht": {
+    "root": "kanashtmakwsht",
+    "partOfSpeech": "pron",
+    "definition": "both"
+  },
+  "kanawá": {
+    "root": "kanawá",
+    "partOfSpeech": "adv",
+    "definition": "all",
+    "examples": [
+      {
+        "kiksht": "Kw'ankw'an enkiax kanawá diká emshkiax.",
+        "english": "I'm glad you are all here. [GT, MMc]"
+      }
+    ],
+    "seeAlso": [
+      "kanawi"
+    ]
+  },
   "kinwa": {
     "root": "kinwa",
     "partOfSpeech": "adv",
@@ -43393,6 +43671,19 @@
     ],
     "seeAlso": [
       "makwapt, mag̲kwapt,kwáptkag̲a, kwapdix, kwabát"
+    ]
+  },
+  "kánawi": {
+    "root": "kánawi",
+    "partOfSpeech": "adv",
+    "definition": "all"
+  },
+  "kánawi shan": {
+    "root": "kánawi shan",
+    "partOfSpeech": "pron",
+    "definition": "everyone, every- body",
+    "seeAlso": [
+      "kánawi, shan"
     ]
   },
   "qengi": {
