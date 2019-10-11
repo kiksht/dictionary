@@ -12136,3 +12136,77 @@ itkwait [vb] they capsized
 itqiu [vb] he slept
 Examples: GayaxÅwikw¬ichk idlxam dan gachi©lglx itqˆuba xÅbixix. “He told the people what had had seen when he slept at night.” [WTIV.4.1]
 See also: -QIU
+
+
+
+
+
+
+
+
+
+itxa [vb] do to it
+Examples: Òq’up itxa ilipaq. “Cut the rope.” [WTI.4.1]
+See also: - ̨
+
+itxdimam [vb] we 2 (you and I) have arrived
+See also: -I, -d-I-mam
+
+itxya [vb] we 2 (you and I) have gone
+Examples: Chxa itxya. “We 2 have drowned.” [WTI.9.4]
+See also: -YA, -I
+
+it’uktix [adv] well, right, rightly
+Examples: Miuxt it’uktix. “You are doing it right.” [Dyk]
+See also: i-t’ukdi
+
+it¬ug [vb] bring it[i-]!
+Examples: It¬ug i¬ana. “Give me string.” [WTI.1g.2]
+See also: -TÒUK
+
+iu©uptit [vb] he is sleeping
+See also: - ̋UPT-it
+
+iu©uit [vb] he camps overnight
+See also: -QUI
+
+iumqt [vb] he is dead
+See also: -MQT
+
+iuqixtba [vb] he crawls out
+See also: -QI ̨T
+
+iwadÅn [pron] one thing after an- other
+Examples: IwadÅn chi©elgel. “He sees one thing after another.” IwadÅn ©wat txelp’aulal. “We 2 (you and I) talked about one thing after an- other.” iwadÅn iwadÅn “that thing and that thing” [Dyk]
+Notes: It is not clear whether this should be considered a different word from iwÅdan “something else” or merely a variant pronunciation of it.
+See also: dan, iwÅdan
+
+iwÅdan [pron] something else
+Notes: It is not clear whether this should be considered a different word from iwadÅn “one thing after another” or merely a variant pronun- ciation of it.
+See also: dan, iwadÅn
+
+iwÅdiwa [adv] this way, this side
+Examples: Yax ayuya iwÅdiwa naiyax gigÅdiwa. “He will go that way but I will go this way.” [Dyk]
+See also: gigÅdiwa
+
+iwashÅn [pron] one (person) after another
+Examples: IwashÅn i¬kxilch¬. “He is talking about one after another.” [Dyk]
+See also: shan
+
+iwat [adv] across, to the other side, on the other side
+Examples: Iwat semxlutk ˆnadix. “Look across yonder.” [WTI.9.2]
+See also: iwatka
+
+iwÅtiwa [adv] in that direction
+
+iwatka [adv] in that direction
+See also: iwat
+
+iwi [part] turn around, turn to look
+Examples: Iwi nixux. “He turned around.” [WTI.1b3] Iwi gacht ̈x idiapiq. “He turned to look at his wings.” [WTI.4.6] A©a kwapt gachigelga; iwi gachiux iaqaqshtaq. “He caught hold of him; he turned his head around.” [WTI.12.8]
+
+iwi [part] do thus, do so and so
+Examples: A©a kwapt wit’a iwi gachiuxax. “Then again he did thus to him.” Shpak iwi ga¬uix idkiudanyuksh ngi. “They went hard thus with horses.” [Dyk]
+
+iwi [part] move
+Examples: Dau¬ax i¬sandi alma iwi a¬xuxwa wilxba ¬unix. “This flag will move three times from the ground.” [WTIV.2.3] Ch’pak iwi ga¬uix. “Very quickly they went ahead.” [WTIV.2.14]

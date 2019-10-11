@@ -38899,6 +38899,20 @@
       "-X̲, -x-X̲"
     ]
   },
+  "it'uktix": {
+    "root": "it'uktix",
+    "partOfSpeech": "adv",
+    "definition": "well, right, rightly",
+    "examples": [
+      {
+        "kiksht": "Miuxt it'uktix.",
+        "english": "You are doing it right. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-t'ukdi"
+    ]
+  },
   "it- -baishxilal": {
     "root": "it- -baishxilal",
     "partOfSpeech": "adj n",
@@ -39720,6 +39734,194 @@
     "seeAlso": [
       "-QIU"
     ]
+  },
+  "itxa": {
+    "root": "itxa",
+    "partOfSpeech": "vb",
+    "definition": "do to it",
+    "examples": [
+      {
+        "kiksht": "Łq'up itxa ilipaq.",
+        "english": "Cut the rope. [WTI.4.1]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "itxdimam": {
+    "root": "itxdimam",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) have arrived",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "itxya": {
+    "root": "itxya",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (you and I) have gone",
+    "examples": [
+      {
+        "kiksht": "Chxa itxya.",
+        "english": "We 2 have drowned. [WTI.9.4]"
+      }
+    ],
+    "seeAlso": [
+      "-YA, -I"
+    ]
+  },
+  "itług": {
+    "root": "itług",
+    "partOfSpeech": "vb",
+    "definition": "bring it[i-]!",
+    "examples": [
+      {
+        "kiksht": "Itług iłana.",
+        "english": "Give me string. [WTI.1g.2]"
+      }
+    ],
+    "seeAlso": [
+      "-TŁUK"
+    ]
+  },
+  "iug̲uit": {
+    "root": "iug̲uit",
+    "partOfSpeech": "vb",
+    "definition": "he camps overnight",
+    "seeAlso": [
+      "-QUI"
+    ]
+  },
+  "iug̲uptit": {
+    "root": "iug̲uptit",
+    "partOfSpeech": "vb",
+    "definition": "he is sleeping",
+    "seeAlso": [
+      "- G̲UPT-it"
+    ]
+  },
+  "iumqt": {
+    "root": "iumqt",
+    "partOfSpeech": "vb",
+    "definition": "he is dead",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "iuqixtba": {
+    "root": "iuqixtba",
+    "partOfSpeech": "vb",
+    "definition": "he crawls out",
+    "seeAlso": [
+      "-QIX̲T"
+    ]
+  },
+  "iwadán": {
+    "root": "iwadán",
+    "partOfSpeech": "pron",
+    "definition": "one thing after an- other",
+    "examples": [
+      {
+        "kiksht": "Iwadán chig̲elgel.",
+        "english": "He sees one thing after another."
+      },
+      {
+        "kiksht": "Iwadán g̲wat txelp'aulal.",
+        "english": "We 2 (you and I) talked about one thing after an- other."
+      },
+      {
+        "kiksht": "iwadán iwadán",
+        "english": "that thing and that thing [Dyk]"
+      }
+    ],
+    "notes": [
+      "It is not clear whether this should be considered a different word from iwádan \"something else\" or merely a variant pronunciation of it."
+    ],
+    "seeAlso": [
+      "dan, iwádan"
+    ]
+  },
+  "iwashán": {
+    "root": "iwashán",
+    "partOfSpeech": "pron",
+    "definition": "one (person) after another",
+    "examples": [
+      {
+        "kiksht": "Iwashán iłkxilchł.",
+        "english": "He is talking about one after another. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "shan"
+    ]
+  },
+  "iwat": {
+    "root": "iwat",
+    "partOfSpeech": "adv",
+    "definition": "across, to the other side, on the other side",
+    "examples": [
+      {
+        "kiksht": "Iwat semxlutk ínadix.",
+        "english": "Look across yonder. [WTI.9.2]"
+      }
+    ],
+    "seeAlso": [
+      "iwatka"
+    ]
+  },
+  "iwatka": {
+    "root": "iwatka",
+    "partOfSpeech": "adv",
+    "definition": "in that direction",
+    "seeAlso": [
+      "iwat"
+    ]
+  },
+  "iwi": {
+    "root": "iwi",
+    "partOfSpeech": "part",
+    "definition": "move",
+    "examples": [
+      {
+        "kiksht": "Daułax iłsandi alma iwi ałxuxwa wilxba łunix.",
+        "english": "This flag will move three times from the ground. [WTIV.2.3]"
+      },
+      {
+        "kiksht": "Ch'pak iwi gałuix.",
+        "english": "Very quickly they went ahead. [WTIV.2.14]"
+      }
+    ]
+  },
+  "iwádan": {
+    "root": "iwádan",
+    "partOfSpeech": "pron",
+    "definition": "something else",
+    "notes": [
+      "It is not clear whether this should be considered a different word from iwadán \"one thing after another\" or merely a variant pronun- ciation of it."
+    ],
+    "seeAlso": [
+      "dan, iwadán"
+    ]
+  },
+  "iwádiwa": {
+    "root": "iwádiwa",
+    "partOfSpeech": "adv",
+    "definition": "this way, this side",
+    "examples": [
+      {
+        "kiksht": "Yax ayuya iwádiwa naiyax gigádiwa.",
+        "english": "He will go that way but I will go this way. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "gigádiwa"
+    ]
+  },
+  "iwátiwa": {
+    "root": "iwátiwa",
+    "partOfSpeech": "adv",
+    "definition": "in that direction"
   },
   "ił-'ishałx": {
     "root": "ił-'ishałx",
