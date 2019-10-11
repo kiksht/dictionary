@@ -121,6 +121,14 @@
       }
     ]
   },
+  "(w)i-káq": {
+    "root": "(w)i-káq",
+    "partOfSpeech": "n",
+    "definition": "east wind",
+    "seeAlso": [
+      "i-kxalal"
+    ]
+  },
   "- -'adau": {
     "root": "- -'adau",
     "partOfSpeech": "n",
@@ -10346,6 +10354,14 @@
       "Undoubtedly related to i- k'alamat \"rock.\""
     ]
   },
+  "Kaskit": {
+    "root": "Kaskit",
+    "partOfSpeech": "place",
+    "definition": "Cascade Locks",
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
   "Notes: Refers to oak of which igaben, digging stick, is made": {
     "root": "Notes: Refers to oak of which igaben, digging stick, is made",
     "partOfSpeech": "Notes: Refers to oak of which igaben, digging stick, is made",
@@ -11546,6 +11562,30 @@
     "seeAlso": [
       "-k-NXDA"
     ]
+  },
+  "a-kap'ilili": {
+    "root": "a-kap'ilili",
+    "partOfSpeech": "n",
+    "definition": "small round edible root"
+  },
+  "a-kapshak": {
+    "root": "a-kapshak",
+    "partOfSpeech": "n",
+    "definition": "pine-nut",
+    "forms": [
+      {
+        "kiksht": "itkapshak",
+        "english": "pine-nuts [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-kapshaklit"
+    ]
+  },
+  "a-kashat": {
+    "root": "a-kashat",
+    "partOfSpeech": "n",
+    "definition": "Indian hemp"
   },
   "a-kaładagwax": {
     "root": "a-kaładagwax",
@@ -38892,6 +38932,88 @@
     "partOfSpeech": "n",
     "definition": "Hawaiian"
   },
+  "i-kapten": {
+    "root": "i-kapten",
+    "partOfSpeech": "n",
+    "definition": "captain",
+    "forms": [
+      {
+        "kiksht": "itkaptenmax",
+        "english": "captains [Dyk]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
+  "i-kaptłak": {
+    "root": "i-kaptłak",
+    "partOfSpeech": "n",
+    "definition": "white salmon already rotted, old white salmon [Dyk], male white salmon, matured and ready to die [HS 6/23/56]"
+  },
+  "i-kaq'íladix": {
+    "root": "i-kaq'íladix",
+    "partOfSpeech": "n",
+    "definition": "sleet, fine hail",
+    "examples": [
+      {
+        "kiksht": "Ikaq'íladix ikiax.",
+        "english": "It is sleeting."
+      }
+    ],
+    "notes": [
+      "Refers to rainwater that freezes before it hits the ground, causing a fine crust on snow."
+    ],
+    "seeAlso": [
+      "-Q'ILA"
+    ]
+  },
+  "i-kaqmit": {
+    "root": "i-kaqmit",
+    "partOfSpeech": "n",
+    "definition": "law, order, command, way of life, traditions",
+    "forms": [
+      {
+        "kiksht": "ikaqmitmax",
+        "english": "laws [Dyk]"
+      }
+    ],
+    "notes": [
+      "Hiram Smith [11/24/51] defined this specifically as \"white man's law,\" but others who have commented on this word apparently did not do so. It appears in a strictly Indian context in WTII.9.1. In Mu- seum 10 it appears to mean \"way of life\" or \"traditions.\""
+    ],
+    "seeAlso": [
+      "id-áit"
+    ]
+  },
+  "i-kaqwt": {
+    "root": "i-kaqwt",
+    "partOfSpeech": "n",
+    "definition": "gathering for a good time, celebration",
+    "forms": [
+      {
+        "kiksht": "ichxaqwt",
+        "english": "I'm joining a gath- ering for a good time"
+      },
+      {
+        "kiksht": "iyaxaqwt",
+        "english": "he is a good fellow, good sport [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-xa-QW"
+    ]
+  },
+  "i-kas": {
+    "root": "i-kas",
+    "partOfSpeech": "n",
+    "definition": "railroad, railroad cars",
+    "notes": [
+      "From English \"cars.\""
+    ],
+    "seeAlso": [
+      "i-kásyaixat"
+    ]
+  },
   "i-kałalit": {
     "root": "i-kałalit",
     "partOfSpeech": "n",
@@ -38940,6 +39062,17 @@
         "kiksht": "Kw'utkw'ut chitx ikámusak.",
         "english": "He was picking gooseber- ries (little green berries). [Dyk, as corrected by GT, MMc 6/4/98]"
       }
+    ]
+  },
+  "i-kásyaixat": {
+    "root": "i-kásyaixat",
+    "partOfSpeech": "n",
+    "definition": "railroad yard",
+    "notes": [
+      "A compound from i-kas \"cars, railroad\", -ya- \"its[i-],\" and i-xat \"road.\""
+    ],
+    "seeAlso": [
+      "i-kas, i-xat"
     ]
   },
   "iagluxtix": {
@@ -40989,6 +41122,20 @@
       "-sh-k'-CHXI-qw (does this exist?)"
     ]
   },
+  "ish-kap'iqwkwt": {
+    "root": "ish-kap'iqwkwt",
+    "partOfSpeech": "n",
+    "definition": "mouth twisted to one side from an encounter with ghosts",
+    "forms": [
+      {
+        "kiksht": "ishyaxa'iqwkwt",
+        "english": "he has a twisted mouth from an encounter with ghosts [Dyk]"
+      }
+    ],
+    "notes": [
+      "Meeting with ghosts is be- lieved to cause a paralysis of the mouth that leaves it twisted to one side."
+    ]
+  },
   "ish-kałlámadix": {
     "root": "ish-kałlámadix",
     "partOfSpeech": "n",
@@ -41985,6 +42132,43 @@
     "root": "it-kanutkmax",
     "partOfSpeech": "n",
     "definition": "partly finished beadwork (mostly of bags)"
+  },
+  "it-kapshak": {
+    "root": "it-kapshak",
+    "partOfSpeech": "n",
+    "definition": "tomato"
+  },
+  "it-kapshaklit": {
+    "root": "it-kapshaklit",
+    "partOfSpeech": "n",
+    "definition": "pine-nut tree",
+    "seeAlso": [
+      "a-kapshak"
+    ]
+  },
+  "it-kaq": {
+    "root": "it-kaq",
+    "partOfSpeech": "n",
+    "definition": "pillow",
+    "notes": [
+      "Formerly referred to anything to rest one's head on; now it means a soft (Anglo-style) pillow."
+    ]
+  },
+  "it-kaq'ayagwadit": {
+    "root": "it-kaq'ayagwadit",
+    "partOfSpeech": "n",
+    "definition": "shield on cradleboard that protects and keeps warm the baby's head",
+    "seeAlso": [
+      "-Q'AYA-kw"
+    ]
+  },
+  "it-kaq'íchxayuqwł": {
+    "root": "it-kaq'íchxayuqwł",
+    "partOfSpeech": "n",
+    "definition": "toilet",
+    "seeAlso": [
+      "-q'i-CHXA"
+    ]
   },
   "it-kałagwax": {
     "root": "it-kałagwax",
@@ -43063,6 +43247,32 @@
       "When a cow eats this plant, her milk gets strong."
     ]
   },
+  "ił-kap'ushtem": {
+    "root": "ił-kap'ushtem",
+    "partOfSpeech": "n",
+    "definition": "braid",
+    "forms": [
+      {
+        "kiksht": "itkap'ushdemksh",
+        "english": "braids"
+      },
+      {
+        "kiksht": "iłgaxap'ushtem",
+        "english": "she has her hair braided, is no longer in widow's mourning period; she has her hair braided for the wedding trade [PK]"
+      },
+      {
+        "kiksht": "itgaxap'ushtemksh",
+        "english": "her braids"
+      },
+      {
+        "kiksht": "itkxap'ushtemksh",
+        "english": "my braid [GT, MMc 6/9/99]"
+      }
+    ],
+    "notes": [
+      "Women wore their hair unbraided during the mourning period for a deceased husband, hence their braiding of their hair when receiving clean clothes at the end of the mourning period served to mark their end to mourning. A bride, also, braided her hair for the wed- ding. Hence the derived meanings given above."
+    ]
+  },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
     "partOfSpeech": "n",
@@ -44069,6 +44279,17 @@
     "root": "wa-kac",
     "partOfSpeech": "n",
     "definition": "thorn"
+  },
+  "wa-kash": {
+    "root": "wa-kash",
+    "partOfSpeech": "n",
+    "definition": "little baby",
+    "notes": [
+      "Refers to a baby before it walks or talks."
+    ],
+    "seeAlso": [
+      "-k'askas"
+    ]
   },
   "wi-'ísh": {
     "root": "wi-'ísh",
