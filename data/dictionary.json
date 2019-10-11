@@ -3247,6 +3247,17 @@
       }
     ]
   },
+  "-ash-k'-IMA-wulx": {
+    "root": "-ash-k'-IMA-wulx",
+    "partOfSpeech": "vb",
+    "definition": "turn bottom side up",
+    "forms": [
+      {
+        "kiksht": "ichiashk'ímawlx",
+        "english": "he turned (it[i-]?) bottom side up [Dyk]"
+      }
+    ]
+  },
   "-bali": {
     "root": "-bali",
     "partOfSpeech": "n",
@@ -4939,6 +4950,56 @@
       {
         "kiksht": "chakgiglagwax",
         "english": "he feels something on her; he sees some- thing moving on her"
+      }
+    ]
+  },
+  "-k-IMA-qw": {
+    "root": "-k-IMA-qw",
+    "partOfSpeech": "vb",
+    "definition": "lean against",
+    "forms": [
+      {
+        "kiksht": "chiagádimaqwt",
+        "english": "he had it[i-] leaning against it[a-]"
+      },
+      {
+        "kiksht": "chiagimalq",
+        "english": "he leans it[i-] against it[a-]"
+      },
+      {
+        "kiksht": "ichaigímag̲wix",
+        "english": "he leaned it[a-] against it[i-] (a place)"
+      },
+      {
+        "kiksht": "ichig̲ímag̲waix",
+        "english": "he leaned it[i-] against it[i-] (a place)"
+      },
+      {
+        "kiksht": "ixigímaqwdix",
+        "english": "he is leaning against it[i-] (a place)"
+      },
+      {
+        "kiksht": "yagimaqwt",
+        "english": "he is leaning against it[a- ]"
+      },
+      {
+        "kiksht": "igímaqwdix",
+        "english": "it[i-] (for instance, a pole or board) is leaning against it[i- ] [Dyk]"
+      }
+    ]
+  },
+  "-k-xa-IMA-wulx": {
+    "root": "-k-xa-IMA-wulx",
+    "partOfSpeech": "vb",
+    "definition": "put up on",
+    "forms": [
+      {
+        "kiksht": "ałkdugwatxaimawulxma",
+        "english": "it will put them up on them"
+      },
+      {
+        "kiksht": "łkdugwaxámaulilxł",
+        "english": "they are putting them up on them [Dyk]"
       }
     ]
   },
@@ -7054,6 +7115,109 @@
       {
         "kiksht": "gachaxímachu",
         "english": "he laid her down [Dyk]"
+      }
+    ]
+  },
+  "-x-IMA-t": {
+    "root": "-x-IMA-t",
+    "partOfSpeech": "vb",
+    "definition": "be lying, be lying down, be lying out",
+    "forms": [
+      {
+        "kiksht": "iximat",
+        "english": "he is lying, lying out"
+      },
+      {
+        "kiksht": "łximat",
+        "english": "it (for instance, sand [iłg̲ininwa] or water [ílchqwa]) is lying"
+      },
+      {
+        "kiksht": "enxadimat",
+        "english": "I was lying"
+      },
+      {
+        "kiksht": "axadimat",
+        "english": "she was lying [Dyk]"
+      }
+    ],
+    "notes": [
+      "The more common form for \"lie, be lying\" is -xaima (from the same root). This form is apparently used only in the present (no tense prefix) tense, with the suffix -t and without any relational prefixes. Oth- erwise, -xa-IMA is used."
+    ]
+  },
+  "-x-IMA-xit": {
+    "root": "-x-IMA-xit",
+    "partOfSpeech": "vb",
+    "definition": "fall down, drop, be laid down",
+    "forms": [
+      {
+        "kiksht": "nigixímaxit",
+        "english": "he fell down"
+      },
+      {
+        "kiksht": "nigixímaxlit",
+        "english": "he fell down continu- ously"
+      },
+      {
+        "kiksht": "igiximaxitam",
+        "english": "it[i-] arrived falling (for instance, a rock being thrown)"
+      },
+      {
+        "kiksht": "nixímaxidamx",
+        "english": "he went to fall, he arrived falling (long ago)"
+      },
+      {
+        "kiksht": "nixímaxlidamx",
+        "english": "he went to fall, ar- rived falling (continuously, long ago)"
+      },
+      {
+        "kiksht": "galiximaxlit",
+        "english": "he falls down repeatedly"
+      },
+      {
+        "kiksht": "galixímaxitam",
+        "english": "it[i-] went to fall (for instance, a rock that has been thrown)"
+      },
+      {
+        "kiksht": "gałxímaxitam",
+        "english": "it went to drop there"
+      },
+      {
+        "kiksht": "alixímaxida",
+        "english": "he will be caused to fall down suddenly"
+      },
+      {
+        "kiksht": "dalxáimaxlit",
+        "english": "it is being laid in it[a-] (a container)"
+      },
+      {
+        "kiksht": "ixímaxidamt",
+        "english": "it is going to fall there (for instance, a stone thrown into the air)"
+      },
+      {
+        "kiksht": "igiximaxit",
+        "english": "he was laid down; he fell down, stumbled, was caused to fall, let go of suddenly"
+      },
+      {
+        "kiksht": "idalxaimaxit",
+        "english": "they became laid in it[a-] [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Datł'aba galixímaxit.",
+        "english": "At a warm place he fell down."
+      },
+      {
+        "kiksht": "Datł'aba galixímaxitx.",
+        "english": "At a warm place he fell down (suddenly, as when stum- bling)."
+      },
+      {
+        "kiksht": "Tłxwip igixímaxit.",
+        "english": "He fell with his head down and the crack of his buttocks in the air."
+      },
+      {
+        "kiksht": "Igiximaxit yulkchu.",
+        "english": "He fell, he dropped. [Dyk]"
       }
     ]
   },
@@ -37334,6 +37498,108 @@
     "definition": "we (including you) have died",
     "seeAlso": [
       "-x-ŁA-it"
+    ]
+  },
+  "imdimam": {
+    "root": "imdimam",
+    "partOfSpeech": "vb",
+    "definition": "you got there, you arrived",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "imengenxwédinemchk": {
+    "root": "imengenxwédinemchk",
+    "partOfSpeech": "vb",
+    "definition": "you helped me",
+    "seeAlso": [
+      "-gn-X̲UTIN"
+    ]
+  },
+  "imig̲elkel": {
+    "root": "imig̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "you saw it[i-]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "iminkux": {
+    "root": "iminkux",
+    "partOfSpeech": "vb",
+    "definition": "you were after me for it[i-]",
+    "examples": [
+      {
+        "kiksht": "Iminkux inag̲un.",
+        "english": "You got after me for the sturgeon. [WTI.1d.8]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iminlut": {
+    "root": "iminlut",
+    "partOfSpeech": "vb",
+    "definition": "you gave it[i-] to me",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "imiuqapk": {
+    "root": "imiuqapk",
+    "partOfSpeech": "vb",
+    "definition": "you steamed it[i-]",
+    "seeAlso": [
+      "-QAPK"
+    ]
+  },
+  "imiux": {
+    "root": "imiux",
+    "partOfSpeech": "vb",
+    "definition": "you did to him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "imiuxix": {
+    "root": "imiuxix",
+    "partOfSpeech": "vb",
+    "definition": "you have made it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "imiułada": {
+    "root": "imiułada",
+    "partOfSpeech": "vb",
+    "definition": "you have thrown him",
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "imiúx": {
+    "root": "imiúx",
+    "partOfSpeech": "vb",
+    "definition": "you (just) did it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "imlxashat": {
+    "root": "imlxashat",
+    "partOfSpeech": "vb",
+    "definition": "you are thirsty",
+    "seeAlso": [
+      "-i-l-xa-SHA"
+    ]
+  },
+  "imłg̲elkel": {
+    "root": "imłg̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "you saw him[ił-]",
+    "seeAlso": [
+      "-g̲l-KL"
     ]
   },
   "is-bnanan": {

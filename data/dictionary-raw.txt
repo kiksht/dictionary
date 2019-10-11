@@ -11685,3 +11685,61 @@ Forms: ashdalimÅ¬xixida “they 2 will fall into water and drown” [GT 12/ 3
 Forms: inxxÅimani¬ “I am carrying out the power testing ceremony on him” chnxxÅimani¬ “he is carrying out the power testing ceremony on me” [Dyk]
 Notes: This stem literally means “lay” (-xaima-) “on oneself” (-x-). (The suffix -ni¬ indicates repeated action.) It refers to the following ceremony: “To test and perhaps to initiate a boy into his power. A[n Indian] doctor lays the boy (before the age of 14) on his own back, back to back, and so dances with him. If the boy has power, the doctor is able to hypnotize him, whereupon he is laid down stiff and after the doctor has found out what they boy’s power is he gives it back to him by blowing on him. All the time the doctor is singing.” [Dyk]
 See also: it-kaxÅimani¬
+
+
+
+
+
+-k-IMA-qw [vb] lean against
+Forms: chiagÅdimaqwt “he had it[i-] leaning against it[a-]” chiagimalq “he leans it[i-] against it[a-]” ichaigˆma©wix “he leaned it[a-] against it[i-] (a place)” ichi©ˆma©waix “he leaned it[i-] against it[i-] (a place)” ixigˆmaqwdix “he is leaning against it[i-] (a place)” yagimaqwt “he is leaning against it[a- ]” igˆmaqwdix “it[i-] (for instance, a pole or board) is leaning against it[i- ]” [Dyk]
+
+-x-IMA-t [vb] be lying, be lying down, be lying out
+Forms: iximat “he is lying, lying out” ¬ximat “it (for instance, sand [i¬©ininwa] or water [ˆlchqwa]) is lying” enxadimat “I was lying” axadimat “she was lying” [Dyk]
+Notes: The more common form for “lie, be lying” is -xaima (from the same root). This form is apparently used only in the present (no tense prefix) tense, with the suffix -t and without any relational prefixes. Oth- erwise, -xa-IMA is used.
+
+-ash-k’-IMA-wulx [vb] turn bottom side up
+Forms: ichiashk’ˆmawlx “he turned (it[i-]?) bottom side up” [Dyk]
+
+-k-xa-IMA-wulx [vb] put up on
+Forms: a¬kdugwatxaimawulxma “it will put them up on them” ¬kdugwaxÅmaulilx¬ “they are putting them up on them” [Dyk]
+
+-x-IMA-xit [vb] fall down, drop, be laid down
+Forms: nigixˆmaxit “he fell down” nigixˆmaxlit “he fell down continu- ously” igiximaxitam “it[i-] arrived falling (for instance, a rock being thrown)” nixˆmaxidamx “he went to fall, he arrived falling (long ago)” nixˆmaxlidamx “he went to fall, ar- rived falling (continuously, long ago)” galiximaxlit “he falls down repeatedly” galixˆmaxitam “it[i-] went to fall (for instance, a rock that has been thrown)” ga¬xˆmaxitam “it went to drop there” alixˆmaxida “he will be caused to fall down suddenly” dalxÅimaxlit “it is being laid in it[a-] (a container)” ixˆmaxidamt “it is going to fall there (for instance, a stone thrown into the air)” igiximaxit “he was laid down; he fell down, stumbled, was caused to fall, let go of suddenly” idalxaimaxit “they became laid in it[a-]” [Dyk]
+Examples: Dat¬’aba galixˆmaxit. “At a warm place he fell down.” Dat¬’aba galixˆmaxitx. “At a warm place he fell down (suddenly, as when stum- bling).” T¬xwip igixˆmaxit. “He fell with his head down and the crack of his buttocks in the air.” Igiximaxit yulkchu. “He fell, he dropped.” [Dyk]
+
+imdimam [vb] you got there, you arrived
+See also: -I, -d-I-mam
+
+imengenxwédinemchk [vb] you helped me
+See also: -gn- ̨UTIN
+
+imi©elkel [vb] you saw it[i-]
+See also: -©l-KL
+
+iminkux [vb] you were after me for it[i-]
+Examples: Iminkux ina©un. “You got after me for the sturgeon.” [WTI.1d.8]
+See also: - ̨
+
+iminlut [vb] you gave it[i-] to me
+See also: -T
+
+imiu¬ada [vb] you have thrown him
+See also: -ÒADA
+
+imiuqapk [vb] you steamed it[i-]
+See also: -QAPK
+
+imi ̈x [vb] you (just) did it[i-]
+See also: - ̨
+
+imiux [vb] you did to him
+See also: - ̨
+
+imiuxix [vb] you have made it[i-]
+See also: - ̨
+
+imlxashat [vb] you are thirsty
+See also: -i-l-xa-SHA
+
+im¬©elkel [vb] you saw him[i¬-]
+See also: -©l-KL
