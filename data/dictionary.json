@@ -5881,6 +5881,28 @@
       "Note from Phillip Kahclamat 7/23/56: \"Dyk didn't get this word right (meaning). As Elmer Tom's Dee is to Philip. You go, live with woman; don't want to marry her; she'll take you all right. Got a wife, go to this one, you go with her, she take au- thority on her pretty soon; she'll wait, take a chance something hap- pen to your wife; she'll step in. From -gug̲a 'go to accompany somebody (but not bring her in).' \"Man has wife, old and sick—she say, 'Okay, you go to her; when I die, you bring her in.' Even before old woman dies; 'I'm gonna let her in here, even before I die; I'll just lie here my last days.' Legal in Wishram. \"ił.ła.xa.g̲wamx: their —. When a man has a harem, like PK's grandfather; he took 3; or like Arabs. With Wishram, second wife is equal to first, 3rd same way; children all equal; my mother was bornin harem, others born in harem my cousins from same Silaetsi. All equal. All upperclass Wishrams anyway.\""
     ]
   },
+  "-kaimamt": {
+    "root": "-kaimamt",
+    "partOfSpeech": "n",
+    "definition": "Sahaptin person, Sahaptin speaker, Warm Springs person",
+    "forms": [
+      {
+        "kiksht": "ikaimamt",
+        "english": "Sahaptin man; he is a Sahaptin"
+      },
+      {
+        "kiksht": "akaimamt",
+        "english": "Sahaptin woman; she is a Sahaptin"
+      },
+      {
+        "kiksht": "iłkaimamt",
+        "english": "Sahaptins"
+      }
+    ],
+    "notes": [
+      "According to Dyk and to Phillip Kahclamat [5/31/52], this term referred only to Sahaptin speak- ers from Wayam (Celilo) or Sk'in (across the river from Celilo. JeMc 8/ 19/52 said it referred to Sahaptins on the Oregon side of the river. To- day, it seems to be used for Sahaptins in general."
+    ]
+  },
   "-ki-CHKWA-mit": {
     "root": "-ki-CHKWA-mit",
     "partOfSpeech": "vb",
@@ -10156,6 +10178,14 @@
     "partOfSpeech": "place",
     "definition": "Sherar's Bridge"
   },
+  "Forms: iłkakshti \"wild onions\"": {
+    "root": "Forms: iłkakshti \"wild onions\"",
+    "partOfSpeech": "Dyk",
+    "definition": "",
+    "seeAlso": [
+      "i- -kshti"
+    ]
+  },
   "GACHłALUx": {
     "root": "GACHłALUx",
     "partOfSpeech": "vb",
@@ -11421,6 +11451,27 @@
     ],
     "seeAlso": [
       "-g̲uliu, a- -xag̲úliwix"
+    ]
+  },
+  "a-kakan": {
+    "root": "a-kakan",
+    "partOfSpeech": "n",
+    "definition": "mountain, snowpeak, Mt. Hood"
+  },
+  "a-kakshti": {
+    "root": "a-kakshti",
+    "partOfSpeech": "n",
+    "definition": "wild onion"
+  },
+  "a-kakwłxak": {
+    "root": "a-kakwłxak",
+    "partOfSpeech": "n",
+    "definition": "small net for catching eels",
+    "forms": [
+      {
+        "kiksht": "itkakwłxak",
+        "english": "nets for eels"
+      }
     ]
   },
   "a-káas": {
@@ -38460,6 +38511,86 @@
       "- G̲ILX"
     ]
   },
+  "i-kaimak": {
+    "root": "i-kaimak",
+    "partOfSpeech": "n",
+    "definition": "prepared elk hide, tanned elk hide"
+  },
+  "i-kak'alalkwł": {
+    "root": "i-kak'alalkwł",
+    "partOfSpeech": "n",
+    "definition": "stepping over",
+    "forms": [
+      {
+        "kiksht": "iyaxak'alalkwł",
+        "english": "he is one who steps over [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-k'ala-kw, it-kak'alalkwłxat"
+    ]
+  },
+  "i-kak'axwlalmat": {
+    "root": "i-kak'axwlalmat",
+    "partOfSpeech": "n",
+    "definition": "fish-cutting board",
+    "notes": [
+      "Refers to a 1x12 board, 4 feet long, leaned upon a box, used to cut fish up on."
+    ]
+  },
+  "i-kak'itgilqł": {
+    "root": "i-kak'itgilqł",
+    "partOfSpeech": "n",
+    "definition": "covering",
+    "seeAlso": [
+      "-k-TK'I-qw, i-katk'ig̲wamat"
+    ]
+  },
+  "i-kak'ínxdanan": {
+    "root": "i-kak'ínxdanan",
+    "partOfSpeech": "n",
+    "definition": "winding around",
+    "forms": [
+      {
+        "kiksht": "iyaxak'ínxdanan",
+        "english": "he is one who winds things around things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-NXDA"
+    ]
+  },
+  "i-kakw'anił": {
+    "root": "i-kakw'anił",
+    "partOfSpeech": "n",
+    "definition": "going home",
+    "forms": [
+      {
+        "kiksht": "iyaxakw'anił",
+        "english": "he is one who goes home [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ikakw'aníł chnuxt.",
+        "english": "I am longing to go home. [Dyk]"
+      }
+    ]
+  },
+  "i-kakwiq": {
+    "root": "i-kakwiq",
+    "partOfSpeech": "n",
+    "definition": "mountain sheep",
+    "forms": [
+      {
+        "kiksht": "ikakwiqmax [Dyk], itkaukwyaq [Dyk, who marks this form with a question mark], itkaqwiq [WTI.15.3]",
+        "english": "mountain sheep [plural]"
+      }
+    ],
+    "seeAlso": [
+      "i-yakakwiqix, i-shixwa"
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -41347,6 +41478,22 @@
       "- G̲ILX"
     ]
   },
+  "it-kak'alalkwłxat": {
+    "root": "it-kak'alalkwłxat",
+    "partOfSpeech": "n",
+    "definition": "stepping-over place, place where one steps over",
+    "seeAlso": [
+      "-k-K'ALA-kw, i-kak'alalkwł"
+    ]
+  },
+  "it-kak'ánamankwł": {
+    "root": "it-kak'ánamankwł",
+    "partOfSpeech": "n",
+    "definition": "doing over again",
+    "seeAlso": [
+      "-x-K'ANAMA-kw"
+    ]
+  },
   "it-ká": {
     "root": "it-ká",
     "partOfSpeech": "n",
@@ -42315,6 +42462,14 @@
     ],
     "seeAlso": [
       "Łgaxach'a"
+    ]
+  },
+  "ił-kala": {
+    "root": "ił-kala",
+    "partOfSpeech": "n",
+    "definition": "friend [WTI.1c.1], some man or other [GT]",
+    "notes": [
+      "In Wishram Texts, the stem - kala (\"man\") is used with the prefix (i)ł- to mean \"friend.\" A note from Sapir (Wishram Texts 123): \"The use of łkala as 'friend' is said to be a Wishram colloquialism, not recog- nized in other Upper Chinook dia- lects.\" In contemporary Wasco usage, this form is used to mean \"some man or other,\" \"some (unknown or un- specified) man.\""
     ]
   },
   "iłac'imam iłk'ílagwadit": {
