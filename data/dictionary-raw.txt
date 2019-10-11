@@ -12689,3 +12689,68 @@ Examples: Ikakw’anˆ¬ chnuxt. “I am longing to go home.” [Dyk]
 
 i¬-kala [n] friend [WTI.1c.1], some man or other [GT]
 Notes: In Wishram Texts, the stem - kala (“man”) is used with the prefix (i)¬- to mean “friend.” A note from Sapir (Wishram Texts 123): “The use of ¬kala as ‘friend’ is said to be a Wishram colloquialism, not recog- nized in other Upper Chinook dia- lects.” In contemporary Wasco usage, this form is used to mean “some man or other,” “some (unknown or un- specified) man.”
+
+
+
+
+
+
+
+
+
+
+i-kala [n] man, male (animal), hus- band, partner
+Forms: itkal ̈ksh “men” i¬kala “men, some men” i¬mixala “some men of yours” ishkala “(two) men” amakwshdiksh akaluksh “two men” a¬uniksh akaluksh “three men” alakdiksh akaluksh “four men” a©unmiksh akaluksh “five men” atxmiksh akaluksh “six men” asenmakwsdiks akaluksh “seven men” a©ut¬qdiks akaluksh “eight men” kw’isiks itkaluksh “nine men” ¬lakdiksh i¬kaluksh “four men” [num- bers can be used with prefixes a- or (i)¬- on both number or noun; but if number is used without a prefix then itkaluksh is used for “men”] [Dyk] imixala “your man; your husband (said to woman); your friend (said to man)” ilxaxila “our man (women speaking); our partner (men speak- ing)” [HS 7/26/56]
+Examples: ixt ikala “one man (in contrast to many)” ixÅt ikala “a man” ixatka ikala “one man” ¬ixat i¬kala “some men” i¬kaluksh a¬ati¬x “many men” yaxdau ikala “that man (present and in sight)” shtaxya ishkala “those 2 men” shtaxk(a) ishkala “they 2 men” iyak’ˆdinax itkaluksh iskintxwa “he is a man- killing bear” iyak’ˆdinax iskˆntxwamax ikala “he is a bear- killing man” ikaluksh iskˆntxwamax iyak’ˆdinax “he is a killer of male bears” [Dyk] datgup ikala “white man” [PK 4/14/56]
+See also: it-kÅlaimum, i-xalaix, i¬- kalayak’iwalq
+
+it-kala [n] horse collar
+Forms: itkalamax “horse collars” [PK was unsure]
+Notes: Borrowed from English
+
+-kalagwadit [n] roofing
+Forms: The prefix used depends on what is referred to, whether it-can- vas, a-gabu, etc.
+Notes: Seems to mean the same as - kalagwamat.
+See also: -kalagwamat
+
+-kalagwamat [n] roofing
+Forms: The prefix used depends on what is referred to, whether it-can- vas, a-gabu, etc.
+Notes: Seems to mean the same as - kalagwadit.
+See also: -kalagwadit
+
+i¬-kÅlaikalai [n] berries resembling Oregon grapes
+See also: i¬-k’auk’au
+
+it-kÅlaimum [n] manhood
+Forms: idiaxÅlaimum “his manhood” [Dyk]
+See also: i-kala
+
+kalÅix [adv] from now on
+See also: klaix
+
+it-kÅlak’itit [n] men’s clothes
+Notes: A compound from i-kala “man” and it-k’itit “clothes.”
+See also: i-kala, i-k’itit
+
+a-kalalalq [n] steering a boat
+See also: -a-k-LA-qw
+
+a-kÅlamat [n] smokehole
+Forms: i¬kÅlamat “smokeholes”
+Examples: itqw¬imax i¬kakÅlamat “the smokeholes of the houses”
+Notes: Refers to the hole left at the top of a traditional dwelling for smoke from the cooking and heating fire to escape.
+
+i¬-kalamatbama [n] mountain goat
+Notes: This appears to be a newly- created word. Literally it means “from/at” (-bama) “rocks” (i¬- kalamat-).
+See also: -quak, i-shixwa
+
+i-kalxaluksh [n] Chinese coins used as ornaments
+Forms: Both singular and plural.
+Notes: Refers to old Chinese coins, which were round with square holes. Apparently, these were collected and strung together or otherwise used for decoration and/or regalia.
+
+a-ka¬adagwax [n] bawling out, cussing out
+Forms: ayaxa¬Ådagwax “he is one who is always bawling people out, cussing people out” [Dyk]
+See also: -a-k-ÒADA-kw
+
+it-ka¬agwax [n] mountains, berry patches
+Notes: Dell Hymes gives this in the sense “berry patches.” Gladys Th- ompson and Madeline McInturff use it for “mountains.” Compare in Sahaptin the contemporary use of Xatiwaaptkˆ, which originally re- ferred to a berry patch on the slopes of Mt. Jefferson, as a name for Mt. Jefferson itself.

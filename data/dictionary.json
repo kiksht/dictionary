@@ -5903,6 +5903,30 @@
       "According to Dyk and to Phillip Kahclamat [5/31/52], this term referred only to Sahaptin speak- ers from Wayam (Celilo) or Sk'in (across the river from Celilo. JeMc 8/ 19/52 said it referred to Sahaptins on the Oregon side of the river. To- day, it seems to be used for Sahaptins in general."
     ]
   },
+  "-kalagwadit": {
+    "root": "-kalagwadit",
+    "partOfSpeech": "n",
+    "definition": "roofing",
+    "forms": [],
+    "notes": [
+      "Seems to mean the same as - kalagwamat."
+    ],
+    "seeAlso": [
+      "-kalagwamat"
+    ]
+  },
+  "-kalagwamat": {
+    "root": "-kalagwamat",
+    "partOfSpeech": "n",
+    "definition": "roofing",
+    "forms": [],
+    "notes": [
+      "Seems to mean the same as - kalagwadit."
+    ],
+    "seeAlso": [
+      "-kalagwadit"
+    ]
+  },
   "-ki-CHKWA-mit": {
     "root": "-ki-CHKWA-mit",
     "partOfSpeech": "vb",
@@ -11474,12 +11498,54 @@
       }
     ]
   },
+  "a-kalalalq": {
+    "root": "a-kalalalq",
+    "partOfSpeech": "n",
+    "definition": "steering a boat",
+    "seeAlso": [
+      "-a-k-LA-qw"
+    ]
+  },
+  "a-kaładagwax": {
+    "root": "a-kaładagwax",
+    "partOfSpeech": "n",
+    "definition": "bawling out, cussing out",
+    "forms": [
+      {
+        "kiksht": "ayaxałádagwax",
+        "english": "he is one who is always bawling people out, cussing people out [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-a-k-ŁADA-kw"
+    ]
+  },
   "a-káas": {
     "root": "a-káas",
     "partOfSpeech": "n",
     "definition": "train",
     "notes": [
       "Borrowed from English \"cars.\""
+    ]
+  },
+  "a-kálamat": {
+    "root": "a-kálamat",
+    "partOfSpeech": "n",
+    "definition": "smokehole",
+    "forms": [
+      {
+        "kiksht": "iłkálamat",
+        "english": "smokeholes"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "itqwłimax iłkakálamat",
+        "english": "the smokeholes of the houses"
+      }
+    ],
+    "notes": [
+      "Refers to the hole left at the top of a traditional dwelling for smoke from the cooking and heating fire to escape."
     ]
   },
   "a-mulal": {
@@ -38591,6 +38657,139 @@
       "i-yakakwiqix, i-shixwa"
     ]
   },
+  "i-kala": {
+    "root": "i-kala",
+    "partOfSpeech": "n",
+    "definition": "man, male (animal), hus- band, partner",
+    "forms": [
+      {
+        "kiksht": "itkalúksh",
+        "english": "men"
+      },
+      {
+        "kiksht": "iłkala",
+        "english": "men, some men"
+      },
+      {
+        "kiksht": "iłmixala",
+        "english": "some men of yours"
+      },
+      {
+        "kiksht": "ishkala",
+        "english": "(two) men"
+      },
+      {
+        "kiksht": "amakwshdiksh akaluksh",
+        "english": "two men"
+      },
+      {
+        "kiksht": "ałuniksh akaluksh",
+        "english": "three men"
+      },
+      {
+        "kiksht": "alakdiksh akaluksh",
+        "english": "four men"
+      },
+      {
+        "kiksht": "ag̲unmiksh akaluksh",
+        "english": "five men"
+      },
+      {
+        "kiksht": "atxmiksh akaluksh",
+        "english": "six men"
+      },
+      {
+        "kiksht": "asenmakwsdiks akaluksh",
+        "english": "seven men"
+      },
+      {
+        "kiksht": "ag̲utłqdiks akaluksh",
+        "english": "eight men"
+      },
+      {
+        "kiksht": "kw'isiks itkaluksh",
+        "english": "nine men"
+      },
+      {
+        "kiksht": "łlakdiksh iłkaluksh",
+        "english": "four men"
+      },
+      {
+        "kiksht": "[num- bers can be used with prefixes a- or (i)ł- on both number or noun; but if number is used without a prefix then itkaluksh is used for",
+        "english": "men] [Dyk]"
+      },
+      {
+        "kiksht": "imixala",
+        "english": "your man; your husband (said to woman); your friend (said to man)"
+      },
+      {
+        "kiksht": "ilxaxila",
+        "english": "our man (women speaking); our partner (men speak- ing) [HS 7/26/56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "ixt ikala",
+        "english": "one man (in contrast to many)"
+      },
+      {
+        "kiksht": "ixát ikala",
+        "english": "a man"
+      },
+      {
+        "kiksht": "ixatka ikala",
+        "english": "one man"
+      },
+      {
+        "kiksht": "łixat iłkala",
+        "english": "some men"
+      },
+      {
+        "kiksht": "iłkaluksh ałatiłx",
+        "english": "many men"
+      },
+      {
+        "kiksht": "yaxdau ikala",
+        "english": "that man (present and in sight)"
+      },
+      {
+        "kiksht": "shtaxya ishkala",
+        "english": "those 2 men"
+      },
+      {
+        "kiksht": "shtaxk(a) ishkala",
+        "english": "they 2 men"
+      },
+      {
+        "kiksht": "iyak'ídinax itkaluksh iskintxwa",
+        "english": "he is a man- killing bear"
+      },
+      {
+        "kiksht": "iyak'ídinax iskíntxwamax ikala",
+        "english": "he is a bear- killing man"
+      },
+      {
+        "kiksht": "ikaluksh iskíntxwamax iyak'ídinax",
+        "english": "he is a killer of male bears [Dyk]"
+      },
+      {
+        "kiksht": "datgup ikala",
+        "english": "white man [PK 4/14/56]"
+      }
+    ],
+    "seeAlso": [
+      "it-kálaimum, i-xalaix, ił- kalayak'iwalq"
+    ]
+  },
+  "i-kalxaluksh": {
+    "root": "i-kalxaluksh",
+    "partOfSpeech": "n",
+    "definition": "Chinese coins used as ornaments",
+    "forms": [],
+    "notes": [
+      "Refers to old Chinese coins, which were round with square holes. Apparently, these were collected and strung together or otherwise used for decoration and/or regalia."
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -41494,6 +41693,28 @@
       "-x-K'ANAMA-kw"
     ]
   },
+  "it-kala": {
+    "root": "it-kala",
+    "partOfSpeech": "n",
+    "definition": "horse collar",
+    "forms": [
+      {
+        "kiksht": "itkalamax",
+        "english": "horse collars [PK was unsure]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English"
+    ]
+  },
+  "it-kałagwax": {
+    "root": "it-kałagwax",
+    "partOfSpeech": "n",
+    "definition": "mountains, berry patches",
+    "notes": [
+      "Dell Hymes gives this in the sense \"berry patches.\" Gladys Th- ompson and Madeline McInturff use it for \"mountains.\" Compare in Sahaptin the contemporary use of Xatiwaaptkí, which originally re- ferred to a berry patch on the slopes of Mt. Jefferson, as a name for Mt. Jefferson itself."
+    ]
+  },
   "it-ká": {
     "root": "it-ká",
     "partOfSpeech": "n",
@@ -41555,6 +41776,31 @@
     ],
     "seeAlso": [
       "-x- G̲WA-kw"
+    ]
+  },
+  "it-kálaimum": {
+    "root": "it-kálaimum",
+    "partOfSpeech": "n",
+    "definition": "manhood",
+    "forms": [
+      {
+        "kiksht": "idiaxálaimum",
+        "english": "his manhood [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-kala"
+    ]
+  },
+  "it-kálak'itit": {
+    "root": "it-kálak'itit",
+    "partOfSpeech": "n",
+    "definition": "men's clothes",
+    "notes": [
+      "A compound from i-kala \"man\" and it-k'itit \"clothes.\""
+    ],
+    "seeAlso": [
+      "i-kala, i-k'itit"
     ]
   },
   "itgachaxelqwłimax akłmín": {
@@ -42472,6 +42718,25 @@
       "In Wishram Texts, the stem - kala (\"man\") is used with the prefix (i)ł- to mean \"friend.\" A note from Sapir (Wishram Texts 123): \"The use of łkala as 'friend' is said to be a Wishram colloquialism, not recog- nized in other Upper Chinook dia- lects.\" In contemporary Wasco usage, this form is used to mean \"some man or other,\" \"some (unknown or un- specified) man.\""
     ]
   },
+  "ił-kalamatbama": {
+    "root": "ił-kalamatbama",
+    "partOfSpeech": "n",
+    "definition": "mountain goat",
+    "notes": [
+      "This appears to be a newly- created word. Literally it means \"from/at\" (-bama) \"rocks\" (ił- kalamat-)."
+    ],
+    "seeAlso": [
+      "-quak, i-shixwa"
+    ]
+  },
+  "ił-kálaikalai": {
+    "root": "ił-kálaikalai",
+    "partOfSpeech": "n",
+    "definition": "berries resembling Oregon grapes",
+    "seeAlso": [
+      "ił-k'auk'au"
+    ]
+  },
   "iłac'imam iłk'ílagwadit": {
     "root": "iłac'imam iłk'ílagwadit",
     "partOfSpeech": "n",
@@ -42840,6 +43105,14 @@
     "definition": "breakfast",
     "seeAlso": [
       "saiba ag̲ałax itłxlém, chushdix itłxlém"
+    ]
+  },
+  "kaláix": {
+    "root": "kaláix",
+    "partOfSpeech": "adv",
+    "definition": "from now on",
+    "seeAlso": [
+      "klaix"
     ]
   },
   "kinwa": {
