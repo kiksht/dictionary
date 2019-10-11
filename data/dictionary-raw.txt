@@ -13405,3 +13405,42 @@ Forms: niukw ̈l “I know, am ac- quainted with him” yamukwul “I know you�
 Examples: Naqi enshgˆukel i¬ ̈guma. “We do not know how to play bones.” (literally “We do not know bones.”) [WTI.4.7]
 Notes: Not used in future, i-, or na- tenses. For “will know,” stem -gla-q¬q is used: achiuglaq¬qa “he will know him”
 See also: -GLA-q¬q
+
+
+
+
+
+
+-©l-KL [vb] see
+Forms: ani©elglaya “I will see him” ani©itglaya “I will see him (distant future)” ani©itglima “I will see him (repeatedly, distant future)” acha©elglaya “he will see her” acha©elglima “he will see her (repeat- edly)” atga©elglaya “we 2 will see her” atgu©iglaya “we 2 will see them” ni©elglim “I am seeing him” nu©iglim “I see them” cha©elglim “he is seeing her (continually)” cha©elglt “he has her seen, has her in sight” i©elkel! “see him!” icha©elkel “he saw her” icha©elglˆmchk “he saw her (several times)” nachi©elglaya “he saw him” nini©itglim “I saw him (continually, every day; last week)” nichi©itkel “he saw him (last week)” nichu©itkel “he saw them (last week)” nichu©ikel “he saw them (last sea- son)” nichi©elkel “he saw him (last season)” gachn©elkel “he saw me (long ago)” gachi©elkel “he saw him (long ago)” gacha©elkel “he saw her (long ago)” gach¬©elkel “he saw it (long ago)” gachl©elkel “he saw us[inc] (long ago)” gachen©itkel “he saw me (last year)” gachi©itkel “he saw him (last year)” gacha©itkel “he saw her (last year)” gach¬©itkel “he saw it (last year)” gachl©itkel “he saw us[inc] (last year)” i©elgelt “he is seen” with reflexive -x-: ixgigelt “he sees himself” nigix©ikel “he saw himself” with relational -l- “in”: ichial©ikel “he saw him in it[a-]” with relational -x- “belonging to”: ichiÅx©ikel “he saw it[i-] which be- longed to her” nigix©ikel “she saw it[i-] which belonged to him”
+Examples: QiklÅix iyam©elkel. “Glad to see you.” Nanshu©iglaya idenshasiksmax. “We saw our friends.” [GT, MMc] Nagwatx yam©itgelx. “I wish I could see you.” IwadÅn chi©elgelem. “He sees one thing after another.” [Dyk]
+See also: -QMIT
+
+-x-KL [vb] be awake, stay awake, be unable to sleep
+Forms: ixkél “he isn’t sleeping (when he is supposed to be)” [Dyk]
+Examples: Wapul enxkél. “I was awake all night.” [Dyk]
+Notes: Means literally “know one- self,” thus presumably “be conscious, awake.”
+See also: i-qakl
+
+klaix [adv] to one side, different place, somewhere else, different man- ner, different way
+Forms: klaixmax “separately, differ- ent places”
+Examples: Klaix ikiax. “He is off, somewhere else.” Klaix ichiux. “He put him somewhere else.” Klaix analuxa agawan. “I will make her pregnant another way.” [Dyk] Klaix pu aqiu©wˆlxma iyÅgechpa. “When standing at his side, one could strike him on the nose.” [WTI.10.2] Òxilaitx klaix ixtpa wilx. “They lived far away in a certain land.” [WTI.11.1]
+
+a-klÅk [n] clock, watch
+Notes: Borrowed from English.
+See also: a-wÅch
+
+i¬-klaulauks [n] seeds
+See also: i¬-klaulauksh
+
+i¬-klaulauksh [n] round water- washed stones, gravel
+
+-klial [n] (older) unmarried person, single person, “old maid”, bachelor
+Forms: iklial “bachelor, single man” aklial “unmarried woman, old maid”
+
+kliiisi [interj] crazy
+Notes: Borrowed from English.
+
+k¬ [part] interlock
+Examples: K¬ gashguxix itshtapiq. “They 2 interlocked their wings.” [WTI.2.24]
+See also: aikwÅ¬

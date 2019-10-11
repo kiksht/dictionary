@@ -5453,6 +5453,186 @@
       }
     ]
   },
+  "-g̲l-KL": {
+    "root": "-g̲l-KL",
+    "partOfSpeech": "vb",
+    "definition": "see",
+    "forms": [
+      {
+        "kiksht": "anig̲elglaya",
+        "english": "I will see him"
+      },
+      {
+        "kiksht": "anig̲itglaya",
+        "english": "I will see him (distant future)"
+      },
+      {
+        "kiksht": "anig̲itglima",
+        "english": "I will see him (repeatedly, distant future)"
+      },
+      {
+        "kiksht": "achag̲elglaya",
+        "english": "he will see her"
+      },
+      {
+        "kiksht": "achag̲elglima",
+        "english": "he will see her (repeat- edly)"
+      },
+      {
+        "kiksht": "atgag̲elglaya",
+        "english": "we 2 will see her"
+      },
+      {
+        "kiksht": "atgug̲iglaya",
+        "english": "we 2 will see them"
+      },
+      {
+        "kiksht": "nig̲elglim",
+        "english": "I am seeing him"
+      },
+      {
+        "kiksht": "nug̲iglim",
+        "english": "I see them"
+      },
+      {
+        "kiksht": "chag̲elglim",
+        "english": "he is seeing her (continually)"
+      },
+      {
+        "kiksht": "chag̲elglt",
+        "english": "he has her seen, has her in sight"
+      },
+      {
+        "kiksht": "ig̲elkel!",
+        "english": "see him!"
+      },
+      {
+        "kiksht": "ichag̲elkel",
+        "english": "he saw her"
+      },
+      {
+        "kiksht": "ichag̲elglímchk",
+        "english": "he saw her (several times)"
+      },
+      {
+        "kiksht": "nachig̲elglaya",
+        "english": "he saw him"
+      },
+      {
+        "kiksht": "ninig̲itglim",
+        "english": "I saw him (continually, every day; last week)"
+      },
+      {
+        "kiksht": "nichig̲itkel",
+        "english": "he saw him (last week)"
+      },
+      {
+        "kiksht": "nichug̲itkel",
+        "english": "he saw them (last week)"
+      },
+      {
+        "kiksht": "nichug̲ikel",
+        "english": "he saw them (last sea- son)"
+      },
+      {
+        "kiksht": "nichig̲elkel",
+        "english": "he saw him (last season)"
+      },
+      {
+        "kiksht": "gachng̲elkel",
+        "english": "he saw me (long ago)"
+      },
+      {
+        "kiksht": "gachig̲elkel",
+        "english": "he saw him (long ago)"
+      },
+      {
+        "kiksht": "gachag̲elkel",
+        "english": "he saw her (long ago)"
+      },
+      {
+        "kiksht": "gachłg̲elkel",
+        "english": "he saw it (long ago)"
+      },
+      {
+        "kiksht": "gachlg̲elkel",
+        "english": "he saw us[inc] (long ago)"
+      },
+      {
+        "kiksht": "gacheng̲itkel",
+        "english": "he saw me (last year)"
+      },
+      {
+        "kiksht": "gachig̲itkel",
+        "english": "he saw him (last year)"
+      },
+      {
+        "kiksht": "gachag̲itkel",
+        "english": "he saw her (last year)"
+      },
+      {
+        "kiksht": "gachłg̲itkel",
+        "english": "he saw it (last year)"
+      },
+      {
+        "kiksht": "gachlg̲itkel",
+        "english": "he saw us[inc] (last year)"
+      },
+      {
+        "kiksht": "ig̲elgelt",
+        "english": "he is seen"
+      },
+      {
+        "kiksht": "with reflexive -x-: ixgigelt",
+        "english": "he sees himself"
+      },
+      {
+        "kiksht": "nigixg̲ikel",
+        "english": "he saw himself"
+      },
+      {
+        "kiksht": "with relational -l-",
+        "english": "in"
+      },
+      {
+        "kiksht": ": ichialg̲ikel",
+        "english": "he saw him in it[a-]"
+      },
+      {
+        "kiksht": "with relational -x-",
+        "english": "belonging to"
+      },
+      {
+        "kiksht": ": ichiáxg̲ikel",
+        "english": "he saw it[i-] which be- longed to her"
+      },
+      {
+        "kiksht": "nigixg̲ikel",
+        "english": "she saw it[i-] which belonged to him"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qikláix iyamg̲elkel.",
+        "english": "Glad to see you."
+      },
+      {
+        "kiksht": "Nanshug̲iglaya idenshasiksmax.",
+        "english": "We saw our friends. [GT, MMc]"
+      },
+      {
+        "kiksht": "Nagwatx yamg̲itgelx.",
+        "english": "I wish I could see you."
+      },
+      {
+        "kiksht": "Iwadán chig̲elgelem.",
+        "english": "He sees one thing after another. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
   "-g̲m-CHX̲U-kw": {
     "root": "-g̲m-CHX̲U-kw",
     "partOfSpeech": "vb",
@@ -6457,6 +6637,21 @@
     ],
     "seeAlso": [
       "ish-kichkw'ámalit"
+    ]
+  },
+  "-klial": {
+    "root": "-klial",
+    "partOfSpeech": "n",
+    "definition": "(older) unmarried person, single person, \"old maid\", bachelor",
+    "forms": [
+      {
+        "kiksht": "iklial",
+        "english": "bachelor, single man"
+      },
+      {
+        "kiksht": "aklial",
+        "english": "unmarried woman, old maid"
+      }
     ]
   },
   "-l-CGI-ma": {
@@ -9118,6 +9313,29 @@
         "kiksht": "Igiximaxit yulkchu.",
         "english": "He fell, he dropped. [Dyk]"
       }
+    ]
+  },
+  "-x-KL": {
+    "root": "-x-KL",
+    "partOfSpeech": "vb",
+    "definition": "be awake, stay awake, be unable to sleep",
+    "forms": [
+      {
+        "kiksht": "ixkél",
+        "english": "he isn't sleeping (when he is supposed to be) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Wapul enxkél.",
+        "english": "I was awake all night. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Means literally \"know one- self,\" thus presumably \"be conscious, awake.\""
+    ],
+    "seeAlso": [
+      "i-qakl"
     ]
   },
   "-x-NI": {
@@ -12223,6 +12441,17 @@
     ],
     "seeAlso": [
       "-XNI"
+    ]
+  },
+  "a-klák": {
+    "root": "a-klák",
+    "partOfSpeech": "n",
+    "definition": "clock, watch",
+    "notes": [
+      "Borrowed from English."
+    ],
+    "seeAlso": [
+      "a-wách"
     ]
   },
   "a-káas": {
@@ -44602,6 +44831,19 @@
       }
     ]
   },
+  "ił-klaulauks": {
+    "root": "ił-klaulauks",
+    "partOfSpeech": "n",
+    "definition": "seeds",
+    "seeAlso": [
+      "ił-klaulauksh"
+    ]
+  },
+  "ił-klaulauksh": {
+    "root": "ił-klaulauksh",
+    "partOfSpeech": "n",
+    "definition": "round water- washed stones, gravel"
+  },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
     "partOfSpeech": "n",
@@ -45354,6 +45596,47 @@
       }
     ]
   },
+  "klaix": {
+    "root": "klaix",
+    "partOfSpeech": "adv",
+    "definition": "to one side, different place, somewhere else, different man- ner, different way",
+    "forms": [
+      {
+        "kiksht": "klaixmax",
+        "english": "separately, differ- ent places"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Klaix ikiax.",
+        "english": "He is off, somewhere else."
+      },
+      {
+        "kiksht": "Klaix ichiux.",
+        "english": "He put him somewhere else."
+      },
+      {
+        "kiksht": "Klaix analuxa agawan.",
+        "english": "I will make her pregnant another way. [Dyk]"
+      },
+      {
+        "kiksht": "Klaix pu aqiug̲wílxma iyágechpa.",
+        "english": "When standing at his side, one could strike him on the nose. [WTI.10.2]"
+      },
+      {
+        "kiksht": "Łxilaitx klaix ixtpa wilx.",
+        "english": "They lived far away in a certain land. [WTI.11.1]"
+      }
+    ]
+  },
+  "kliiisi": {
+    "root": "kliiisi",
+    "partOfSpeech": "interj",
+    "definition": "crazy",
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
   "kwapt": {
     "root": "kwapt",
     "partOfSpeech": "adv",
@@ -45431,6 +45714,20 @@
     "definition": "in vain",
     "seeAlso": [
       "kinwa"
+    ]
+  },
+  "kł": {
+    "root": "kł",
+    "partOfSpeech": "part",
+    "definition": "interlock",
+    "examples": [
+      {
+        "kiksht": "Kł gashguxix itshtapiq.",
+        "english": "They 2 interlocked their wings. [WTI.2.24]"
+      }
+    ],
+    "seeAlso": [
+      "aikwáł"
     ]
   },
   "qengi": {
