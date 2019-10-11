@@ -37125,6 +37125,12 @@
       "i-kaqmit"
     ]
   },
+  "id-ínxt": {
+    "root": "id-ínxt",
+    "partOfSpeech": "n",
+    "definition": "biscuits from ground adwak",
+    "forms": []
+  },
   "idamlut": {
     "root": "idamlut",
     "partOfSpeech": "vb",
@@ -37843,6 +37849,250 @@
       "-gl-GA"
     ]
   },
+  "inigemłait": {
+    "root": "inigemłait",
+    "partOfSpeech": "vb",
+    "definition": "I have sat down be- side it[i-]",
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "inigwayukwidix": {
+    "root": "inigwayukwidix",
+    "partOfSpeech": "vb",
+    "definition": "I got stuck",
+    "examples": [
+      {
+        "kiksht": "Inigwayukwidix iłtgaba.",
+        "english": "I got stuck in snow. [CLL10]"
+      }
+    ],
+    "seeAlso": [
+      "-i-GWA-yu-kw-id-ix"
+    ]
+  },
+  "inig̲elkel": {
+    "root": "inig̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "I saw it[i-]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "inilqwim": {
+    "root": "inilqwim",
+    "partOfSpeech": "vb",
+    "definition": "I gave it[i-] to him to eat",
+    "seeAlso": [
+      "-l-QWIM"
+    ]
+  },
+  "inilłutk": {
+    "root": "inilłutk",
+    "partOfSpeech": "vb",
+    "definition": "I have blown into it[i-]",
+    "examples": [
+      {
+        "kiksht": "Inilłutk idudu.",
+        "english": "I have blown into the flute. [WTI.9.3]"
+      }
+    ],
+    "seeAlso": [
+      "-l-ŁUT-kw"
+    ]
+  },
+  "initxashat": {
+    "root": "initxashat",
+    "partOfSpeech": "vb",
+    "definition": "I was thirsty",
+    "seeAlso": [
+      "-i-l-xa-SHA"
+    ]
+  },
+  "iniunaxł": {
+    "root": "iniunaxł",
+    "partOfSpeech": "vb",
+    "definition": "I have looked for it[i-]",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "iniuwaq": {
+    "root": "iniuwaq",
+    "partOfSpeech": "vb",
+    "definition": "I have killed him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "iniux": {
+    "root": "iniux",
+    "partOfSpeech": "vb",
+    "definition": "I did him [WTI.17.9], I have made it[i-] [WTII.1.1]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "inixgig̲wag̲wa": {
+    "root": "inixgig̲wag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "I dreamed",
+    "seeAlso": [
+      "-i-x-gi- G̲WA-qw, -x- G̲WA-kw"
+    ]
+  },
+  "iniúx": {
+    "root": "iniúx",
+    "partOfSpeech": "vb",
+    "definition": "I (just) did it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "inkinaxł": {
+    "root": "inkinaxł",
+    "partOfSpeech": "vb",
+    "definition": "I have sought, I have looked for",
+    "seeAlso": [
+      "-NAX̲Ł, -NAX̲TŁ"
+    ]
+  },
+  "inlxashat": {
+    "root": "inlxashat",
+    "partOfSpeech": "vb",
+    "definition": "I am thirsty",
+    "seeAlso": [
+      "i-l-xa-SHA"
+    ]
+  },
+  "inshglalamchk": {
+    "root": "inshglalamchk",
+    "partOfSpeech": "vb",
+    "definition": "we have sung",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "inshg̲elkel": {
+    "root": "inshg̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "I have seen them 2",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "inshkłuqmit": {
+    "root": "inshkłuqmit",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) saw it",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "inshqitaqłq": {
+    "root": "inshqitaqłq",
+    "partOfSpeech": "vb",
+    "definition": "I have left it[ish-] behind",
+    "examples": [
+      {
+        "kiksht": "Ishenquq k'ma nait'ax inshqitaqłq.",
+        "english": "But I for my part have left behind a fishline. [WTI.1b.1]"
+      }
+    ],
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "inshxux": {
+    "root": "inshxux",
+    "partOfSpeech": "vb",
+    "definition": "we (not including you) have become",
+    "examples": [
+      {
+        "kiksht": "P'ala inshxux.",
+        "english": "We have stopped. [WTIV.2.23]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "intgag̲elkel": {
+    "root": "intgag̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) have seen it[a-]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "inti": {
+    "root": "inti",
+    "partOfSpeech": "vb",
+    "definition": "I have come",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "inttgalmam": {
+    "root": "inttgalmam",
+    "partOfSpeech": "vb",
+    "definition": "I have come for them",
+    "seeAlso": [
+      "-GAL"
+    ]
+  },
+  "intłíchxw": {
+    "root": "intłíchxw",
+    "partOfSpeech": "vb",
+    "definition": "he has put it on",
+    "examples": [
+      {
+        "kiksht": "Gachig̲elkel ag̲a dengi ixlúidet intłichxw isk'ulya.",
+        "english": "He saw that Coyote had put on something strange. [WTI.9.7]"
+      }
+    ],
+    "seeAlso": [
+      "-xn-TŁI-chu"
+    ]
+  },
+  "inug̲uptit": {
+    "root": "inug̲uptit",
+    "partOfSpeech": "vb",
+    "definition": "I have slept",
+    "seeAlso": [
+      "- G̲UPT-it"
+    ]
+  },
+  "inuxtga": {
+    "root": "inuxtga",
+    "partOfSpeech": "vb",
+    "definition": "I have stolen her",
+    "examples": [
+      {
+        "kiksht": "Akán inushgam, inuxtga dauya wigwa.",
+        "english": "I have married my daughter, I have stolen her today. [WTI.8.3]"
+      }
+    ],
+    "seeAlso": [
+      "-XTK"
+    ]
+  },
+  "inuxwashamit": {
+    "root": "inuxwashamit",
+    "partOfSpeech": "vb",
+    "definition": "I dried them",
+    "seeAlso": [
+      "-x-SHA-mit"
+    ]
+  },
+  "inxelqłaxit": {
+    "root": "inxelqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "I have found out",
+    "seeAlso": [
+      "-xl-QŁA-xit"
+    ]
+  },
   "inátkadix": {
     "root": "inátkadix",
     "partOfSpeech": "adv",
@@ -37859,6 +38109,54 @@
     ],
     "seeAlso": [
       "inatka"
+    ]
+  },
+  "inít": {
+    "root": "inít",
+    "partOfSpeech": "vb",
+    "definition": "give it[i-] to me!",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "inłg̲elkel": {
+    "root": "inłg̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "I saw them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "inłuxwan": {
+    "root": "inłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "I thought",
+    "seeAlso": [
+      "-ŁUXWA(N)"
+    ]
+  },
+  "inłxlémchk": {
+    "root": "inłxlémchk",
+    "partOfSpeech": "vb",
+    "definition": "I (just) ate",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "inłúdina": {
+    "root": "inłúdina",
+    "partOfSpeech": "vb",
+    "definition": "I have killed them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "inłúx": {
+    "root": "inłúx",
+    "partOfSpeech": "vb",
+    "definition": "I did him[ił-] [WTI.17.15], I did it [CLL19]",
+    "seeAlso": [
+      "-X̲"
     ]
   },
   "is-bnanan": {
