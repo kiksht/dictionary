@@ -13683,3 +13683,64 @@ Forms: nukshdit “I am full” mukshdit “you are full” emshukshdit “you f
 
 i-kshnaimat [n] glove
 Forms: itkshnaimat “gloves” [GT, MMc]
+
+
+
+
+
+
+
+-KSHT [vb] look at, see, glance, ex- amine, look over, look for
+Forms: achiukshda “he will see him” achitkshda “he will see him (distant future)” nyukshtˆm “I am looking, glancing at him (several times)” nukshtˆm “I am looking, glancing at her (several times)” endukshtˆm “I am looking, glancing at them (several times), examining them (for instance, to see if berries or roots are ripe)” chiukshtim “he is looking at him, looking him over, examining him to see if he is OK” inyuksht “I saw him” inuksht “I saw her” ichiuksht “he saw him” inyukshtimchk “I glanced at him (several times)” nachiukshda “he saw him” nichitkshda “he saw him (over there)” nitchiuksht “he saw him (last season)” nichitksht “he saw him (last week)” gachiuksht “he saw him (long ago)” gachitksht, gachikshda “he glanced at him (last year)” nukshdamt “I am going to see her” natkshdamt “I am coming to see her” inyukshtÅm “I went to see him” ichitkshdam “I came to see him” nanyukshdama, nanyukshtama “I went to see him” nanitkshtama “I came to see him” ninyukshtam “I went to see him” ninitkshtam “I came to see him” ganyukshtam “I went to see him” ganukshtam “I went to see her” ixkshtim “he is look himself over” yukshtix “he is looked at” niniaxukshtam “I went to see it[i- ] which belonged to her” [Dyk]
+Examples: Gachshuksht. “He saw them 2.” [WTI.1a3] Kwaish anyukshdama ikala. “Soon I’ll go to see the man.” Shaik’ilu ichuksht. “He gave her a quick glance.” [Dyk] Gaciukwshtam. “He went to look for him.” [WTI.6.5]
+See also: qilgikshtim, qselgikstim
+
+-KSHT-ix [vb] look like, appear
+Examples: Ukshtˆx Xatiwaptkˆ. “It looks like Mt. Jefferson.” Mukshtˆx dmelmuit. “You look tired.” [GT, MMc] Tai t’ukti ¬ukshdixba kˆmangi igunat i¬iakach’a. “It looks very good [lit. ‘very good in its looking] like salmon grease.” [Bear and Crane G]
+
+-KSHT-am [vb] look for, search for
+
+-x-KSHT-am [vb] look after
+Forms: ¬kduxwakshtamni¬ “he[i¬-] looks after them” [WTII.9.2]
+
+-l-gi-KSHT-im [vb] look through
+Forms: chilgikshtim “he is looking through it[i-]” [Dyk] nilgikshtim “I am looking through it[i-]” achilkshdima “he will look through it” ichilgikshtim “he looked through it” [GT 12/29/97]
+Notes: Can refer, for instance, to looking through binoculars.
+See also: i-qˆlgikshtim
+
+i- -kshti [adj n] strong-smelling, stinking
+Forms: iyakakshti “it[i-] is strong- smelling” [Dyk] ichakshti “she stinks” [GT, CS, AS 5/12/96]
+See also: a-kakshti
+
+wa-kshti [n] bugs, lice, fleas
+
+wa-kshti [n] things poured over head of bride in wedding ceremony
+Examples: Waxa ¬gaguxa wakshti ashumax walˆmk. “They (people on woman’s side) pour trinkets over the head of the new bride.” (which were then picked up by people on man’s side) [GT, MMc 6/5/98]
+Notes: Gladys Thompson and Madeline McInturff see this as a spe- cial use of wakshti “bugs.”
+
+i-kshui [n] cedarbark container, cedarbark basket
+Forms: i¬kshui “cedarbark contain- ers” [Dyk]
+Notes: Refers to a container made of one piece of cedar and laced up the sides.
+
+it-kti [n] things, belongings
+Forms: idlxakdi “our things” [WTIV.4.2]
+Examples: K’aya wit’ax dauda idlxakdi kwaish alkd ̈shima. “No longer, as will soon happen, will we use these things of ours.” [WTIV.4.2] See also: -ktiana
+
+-ktiana [pron] a certain
+Examples: iktiana Gayabaxm “a cer- tain Gayabaxm” [WTI.10.1]
+See also: it-kti
+
+-ktukw’aicax [adj] tiny, very small
+Examples: itgaq’ucu¬xlm itktukw’aicax “her tiny dogs” [WTI.4.15]
+See also: i- -k’aic
+
+ktu¬at’amelqt [vb] she is swallowing them
+See also: -¬at’amlq
+
+ktuxt [vb] it[a-] does them
+Examples: Walu ktuxt idelxam. “The people are hungry (literally ‘hunger does them’).” [WTI.13.8]
+See also: - ̨
+
+a-kt¬mˆn [n] moon, month
+Forms: i¬kt¬minaksh “months”
+Examples: aixt akt¬min “one month” utxwulal akt¬min [HS 8/23/54], pat¬ aktlmˆn [HS 6/25/56] “full moon” shit’ix akt¬mˆn “half moon” [HS 6/ 25/56] axt¬ ̈mt akt¬min “last quarter moon” [HS 8/23/54] ashumax akt¬mˆn “new moon” [HS 8/23/54, 6/ 25/56]

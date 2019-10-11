@@ -3625,6 +3625,174 @@
       }
     ]
   },
+  "-KSHT": {
+    "root": "-KSHT",
+    "partOfSpeech": "vb",
+    "definition": "look at, see, glance, ex- amine, look over, look for",
+    "forms": [
+      {
+        "kiksht": "achiukshda",
+        "english": "he will see him"
+      },
+      {
+        "kiksht": "achitkshda",
+        "english": "he will see him (distant future)"
+      },
+      {
+        "kiksht": "nyukshtím",
+        "english": "I am looking, glancing at him (several times)"
+      },
+      {
+        "kiksht": "nukshtím",
+        "english": "I am looking, glancing at her (several times)"
+      },
+      {
+        "kiksht": "endukshtím",
+        "english": "I am looking, glancing at them (several times), examining them (for instance, to see if berries or roots are ripe)"
+      },
+      {
+        "kiksht": "chiukshtim",
+        "english": "he is looking at him, looking him over, examining him to see if he is OK"
+      },
+      {
+        "kiksht": "inyuksht",
+        "english": "I saw him"
+      },
+      {
+        "kiksht": "inuksht",
+        "english": "I saw her"
+      },
+      {
+        "kiksht": "ichiuksht",
+        "english": "he saw him"
+      },
+      {
+        "kiksht": "inyukshtimchk",
+        "english": "I glanced at him (several times)"
+      },
+      {
+        "kiksht": "nachiukshda",
+        "english": "he saw him"
+      },
+      {
+        "kiksht": "nichitkshda",
+        "english": "he saw him (over there)"
+      },
+      {
+        "kiksht": "nitchiuksht",
+        "english": "he saw him (last season)"
+      },
+      {
+        "kiksht": "nichitksht",
+        "english": "he saw him (last week)"
+      },
+      {
+        "kiksht": "gachiuksht",
+        "english": "he saw him (long ago)"
+      },
+      {
+        "kiksht": "gachitksht, gachikshda",
+        "english": "he glanced at him (last year)"
+      },
+      {
+        "kiksht": "nukshdamt",
+        "english": "I am going to see her"
+      },
+      {
+        "kiksht": "natkshdamt",
+        "english": "I am coming to see her"
+      },
+      {
+        "kiksht": "inyukshtám",
+        "english": "I went to see him"
+      },
+      {
+        "kiksht": "ichitkshdam",
+        "english": "I came to see him"
+      },
+      {
+        "kiksht": "nanyukshdama, nanyukshtama",
+        "english": "I went to see him"
+      },
+      {
+        "kiksht": "nanitkshtama",
+        "english": "I came to see him"
+      },
+      {
+        "kiksht": "ninyukshtam",
+        "english": "I went to see him"
+      },
+      {
+        "kiksht": "ninitkshtam",
+        "english": "I came to see him"
+      },
+      {
+        "kiksht": "ganyukshtam",
+        "english": "I went to see him"
+      },
+      {
+        "kiksht": "ganukshtam",
+        "english": "I went to see her"
+      },
+      {
+        "kiksht": "ixkshtim",
+        "english": "he is look himself over"
+      },
+      {
+        "kiksht": "yukshtix",
+        "english": "he is looked at"
+      },
+      {
+        "kiksht": "niniaxukshtam",
+        "english": "I went to see it[i- ] which belonged to her [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gachshuksht.",
+        "english": "He saw them 2. [WTI.1a3]"
+      },
+      {
+        "kiksht": "Kwaish anyukshdama ikala.",
+        "english": "Soon I'll go to see the man."
+      },
+      {
+        "kiksht": "Shaik'ilu ichuksht.",
+        "english": "He gave her a quick glance. [Dyk]"
+      },
+      {
+        "kiksht": "Gaciukwshtam.",
+        "english": "He went to look for him. [WTI.6.5]"
+      }
+    ],
+    "seeAlso": [
+      "qilgikshtim, qselgikstim"
+    ]
+  },
+  "-KSHT-am": {
+    "root": "-KSHT-am",
+    "partOfSpeech": "vb",
+    "definition": "look for, search for"
+  },
+  "-KSHT-ix": {
+    "root": "-KSHT-ix",
+    "partOfSpeech": "vb",
+    "definition": "look like, appear",
+    "examples": [
+      {
+        "kiksht": "Ukshtíx Xatiwaptkí.",
+        "english": "It looks like Mt. Jefferson."
+      },
+      {
+        "kiksht": "Mukshtíx dmelmuit.",
+        "english": "You look tired. [GT, MMc]"
+      },
+      {
+        "kiksht": "Tai t'ukti łukshdixba kímangi igunat iłiakach'a.",
+        "english": "It looks very good [lit. 'very good in its looking] like salmon grease. [Bear and Crane G]"
+      }
+    ]
+  },
   "-KST": {
     "root": "-KST",
     "partOfSpeech": "vb",
@@ -6987,6 +7155,34 @@
       }
     ]
   },
+  "-ktiana": {
+    "root": "-ktiana",
+    "partOfSpeech": "pron",
+    "definition": "a certain",
+    "examples": [
+      {
+        "kiksht": "iktiana Gayabaxm",
+        "english": "a cer- tain Gayabaxm [WTI.10.1]"
+      }
+    ],
+    "seeAlso": [
+      "it-kti"
+    ]
+  },
+  "-ktukw'aicax": {
+    "root": "-ktukw'aicax",
+    "partOfSpeech": "adj",
+    "definition": "tiny, very small",
+    "examples": [
+      {
+        "kiksht": "itgaq'ucułxlm itktukw'aicax",
+        "english": "her tiny dogs [WTI.4.15]"
+      }
+    ],
+    "seeAlso": [
+      "i- -k'aic"
+    ]
+  },
   "-l-CGI-ma": {
     "root": "-l-CGI-ma",
     "partOfSpeech": "vb",
@@ -7463,6 +7659,35 @@
         "kiksht": "igixlkałx",
         "english": "he reminded himself [Dyk]"
       }
+    ]
+  },
+  "-l-gi-KSHT-im": {
+    "root": "-l-gi-KSHT-im",
+    "partOfSpeech": "vb",
+    "definition": "look through",
+    "forms": [
+      {
+        "kiksht": "chilgikshtim",
+        "english": "he is looking through it[i-] [Dyk]"
+      },
+      {
+        "kiksht": "nilgikshtim",
+        "english": "I am looking through it[i-]"
+      },
+      {
+        "kiksht": "achilkshdima",
+        "english": "he will look through it"
+      },
+      {
+        "kiksht": "ichilgikshtim",
+        "english": "he looked through it [GT 12/29/97]"
+      }
+    ],
+    "notes": [
+      "Can refer, for instance, to looking through binoculars."
+    ],
+    "seeAlso": [
+      "i-qílgikshtim"
     ]
   },
   "-l-u-I": {
@@ -9696,6 +9921,17 @@
     ],
     "seeAlso": [
       "i-qakl"
+    ]
+  },
+  "-x-KSHT-am": {
+    "root": "-x-KSHT-am",
+    "partOfSpeech": "vb",
+    "definition": "look after",
+    "forms": [
+      {
+        "kiksht": "łkduxwakshtamnił",
+        "english": "he[ił-] looks after them [WTII.9.2]"
+      }
     ]
   },
   "-x-NI": {
@@ -12870,6 +13106,39 @@
     "definition": "adze",
     "seeAlso": [
       "a-kshgúchian"
+    ]
+  },
+  "a-ktłmín": {
+    "root": "a-ktłmín",
+    "partOfSpeech": "n",
+    "definition": "moon, month",
+    "forms": [
+      {
+        "kiksht": "iłktłminaksh",
+        "english": "months"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "aixt aktłmin",
+        "english": "one month utxwulal aktłmin [HS 8/23/54], patł aktlmín [HS 6/25/56]"
+      },
+      {
+        "kiksht": "",
+        "english": "full moon"
+      },
+      {
+        "kiksht": "shit'ix aktłmín",
+        "english": "half moon [HS 6/ 25/56]"
+      },
+      {
+        "kiksht": "axtłúmt aktłmin",
+        "english": "last quarter moon [HS 8/23/54]"
+      },
+      {
+        "kiksht": "ashumax aktłmín",
+        "english": "new moon [HS 8/23/54, 6/ 25/56]"
+      }
     ]
   },
   "a-káas": {
@@ -36854,6 +37123,24 @@
       "qwała"
     ]
   },
+  "i- -kshti": {
+    "root": "i- -kshti",
+    "partOfSpeech": "adj n",
+    "definition": "strong-smelling, stinking",
+    "forms": [
+      {
+        "kiksht": "iyakakshti",
+        "english": "it[i-] is strong- smelling [Dyk]"
+      },
+      {
+        "kiksht": "ichakshti",
+        "english": "she stinks [GT, CS, AS 5/12/96]"
+      }
+    ],
+    "seeAlso": [
+      "a-kakshti"
+    ]
+  },
   "i- -ánana": {
     "root": "i- -ánana",
     "partOfSpeech": "adj n",
@@ -40806,6 +41093,20 @@
       }
     ]
   },
+  "i-kshui": {
+    "root": "i-kshui",
+    "partOfSpeech": "n",
+    "definition": "cedarbark container, cedarbark basket",
+    "forms": [
+      {
+        "kiksht": "iłkshui",
+        "english": "cedarbark contain- ers [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a container made of one piece of cedar and laced up the sides."
+    ]
+  },
   "i-kámusak": {
     "root": "i-kámusak",
     "partOfSpeech": "n",
@@ -44477,6 +44778,23 @@
       "i-c'aimc'aim"
     ]
   },
+  "it-kti": {
+    "root": "it-kti",
+    "partOfSpeech": "n",
+    "definition": "things, belongings",
+    "forms": [
+      {
+        "kiksht": "idlxakdi",
+        "english": "our things [WTIV.4.2]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "K'aya wit'ax dauda idlxakdi kwaish alkdúshima.",
+        "english": "No longer, as will soon happen, will we use these things of ours. [WTIV.4.2] See also: -ktiana"
+      }
+    ]
+  },
   "it-ká": {
     "root": "it-ká",
     "partOfSpeech": "n",
@@ -46581,6 +46899,28 @@
     ],
     "pronunciation": "This word is appar- ently unique among Wasco words in having a definite -o- sound which cannot be interchanged with -u-."
   },
+  "ktuxt": {
+    "root": "ktuxt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] does them",
+    "examples": [
+      {
+        "kiksht": "Walu ktuxt idelxam.",
+        "english": "The people are hungry (literally 'hunger does them'). [WTI.13.8]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ktułat'amelqt": {
+    "root": "ktułat'amelqt",
+    "partOfSpeech": "vb",
+    "definition": "she is swallowing them",
+    "seeAlso": [
+      "-łat'amlq"
+    ]
+  },
   "kwapt": {
     "root": "kwapt",
     "partOfSpeech": "adv",
@@ -47129,6 +47469,20 @@
     ],
     "seeAlso": [
       "kmálalidix"
+    ]
+  },
+  "wa-kshti": {
+    "root": "wa-kshti",
+    "partOfSpeech": "n",
+    "definition": "things poured over head of bride in wedding ceremony",
+    "examples": [
+      {
+        "kiksht": "Waxa łgaguxa wakshti ashumax walímk.",
+        "english": "They (people on woman's side) pour trinkets over the head of the new bride. (which were then picked up by people on man's side) [GT, MMc 6/5/98]"
+      }
+    ],
+    "notes": [
+      "Gladys Thompson and Madeline McInturff see this as a spe- cial use of wakshti \"bugs.\""
     ]
   },
   "wi-'ísh": {
