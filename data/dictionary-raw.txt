@@ -13349,3 +13349,59 @@ See also: it-gitk, -TK, -KITK
 -KITK [vb] pack
 Forms: gachalkitk “he packed them[a-] into it[a-]” [WTI.17.4]
 See also: -TK
+
+
+
+
+
+
+
+
+it-kit’Ågwamat [n] braid ties
+Forms: No singular given.
+
+a-kˆutan [n] horse, mare
+
+i-kˆutan [n] horse, stallion
+Forms: itkˆudanyuksh “horses” [anamalous plural forms: idkˆudaniksh, tkiudaniksh, WTIV.2.3; itki ̈daniksh, WTIV.2.8]
+
+it-kˆwichatk [n] listening
+Forms: idiaxˆwichatk “his listening; he is a listener” [Dyk]
+Examples: itgaxˆwichatk qidau “her way of listening” Ixaxˆwichatk ikiax. “He is listening to himself.” [Dyk]
+See also: -xl-WICHA-tk
+
+it-kiwichatkbama [n] earphones, telephone receiver
+Notes: Literally “(something) for (- bama) listening (itkˆwichatk).”
+See also: -WICHA-tk, it-kˆwichatk
+
+a-kixninamat [n] float used along top of gill-net
+Forms: itkixninamat “gill-net floats” [PK 9/4/55]
+See also: -XNI
+
+i-kixtgit [n] annoying, bothering, troubling
+Forms: yaxixtgit “he is one who bothers, annoys, troubles people” ichaxixtgit “she is one one who both- ers, annoys, troubles people” [Dyk] See also: -gl-XTGI
+
+-KI ̨A ̨ [vb] be, become
+Forms: enkixax “I am” mkixax “you are” ikixax “he is” akixax “she is” enshkixax “we are” [Dyk]
+Examples: Qidau enshkixax saqw’. “That’s the way we all are.” [Dyk]
+Notes: Used only in present tense. An alternate form of -kiax. It is not clear what the difference in meaning or usage, if any, is. Stem for past tense is -xtkixax.
+See also: -XTKI ̨A ̨, -KIA ̨, -XTKIA ̨, - ̨
+
+i-kiximu¬ [n] inviting, calling over {- xim or -xim?}
+Forms: iyaxiximu¬ “he is one who invites people, calls people over” [Dyk]
+Notes: Means the same as i-k’iximni¬. One would expect this word to be i- kiximu¬.
+See also: i-k’iximni¬, -gl-XIM
+
+i¬- -kixiwat [adj n] greedy
+Forms: i¬iaxixiwat “he is a greedy fellow” [Dyk]
+See also: -¬-gi-xi-WA
+
+it-kixutin [n] helping
+Forms: idiaxixutin “his helping; he is a helper” [Dyk]
+See also: -gn- ̨UTIN
+
+-KL [vb] know, be acquainted with; perceieve
+Forms: niukw ̈l “I know, am ac- quainted with him” yamukwul “I know you” emnukwul “you know me” chiukw ̈l “he knows him” k’aya chiukel “he does not know him” quikwul “one knows him, he is known” chitkel “he knew him” niyamtkel “I knew you (last week)” nichitkel “he knew him (last week)” gachatkel “he knew her” [Dyk]
+Examples: Naqi enshgˆukel i¬ ̈guma. “We do not know how to play bones.” (literally “We do not know bones.”) [WTI.4.7]
+Notes: Not used in future, i-, or na- tenses. For “will know,” stem -gla-q¬q is used: achiuglaq¬qa “he will know him”
+See also: -GLA-q¬q

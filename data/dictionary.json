@@ -3431,6 +3431,45 @@
       "-TK"
     ]
   },
+  "-KIX̲AX̲": {
+    "root": "-KIX̲AX̲",
+    "partOfSpeech": "vb",
+    "definition": "be, become",
+    "forms": [
+      {
+        "kiksht": "enkixax",
+        "english": "I am"
+      },
+      {
+        "kiksht": "mkixax",
+        "english": "you are"
+      },
+      {
+        "kiksht": "ikixax",
+        "english": "he is"
+      },
+      {
+        "kiksht": "akixax",
+        "english": "she is"
+      },
+      {
+        "kiksht": "enshkixax",
+        "english": "we are [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qidau enshkixax saqw'.",
+        "english": "That's the way we all are. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Used only in present tense. An alternate form of -kiax. It is not clear what the difference in meaning or usage, if any, is. Stem for past tense is -xtkixax."
+    ],
+    "seeAlso": [
+      "-XTKIX̲AX̲, -KIAX̲, -XTKIAX̲, -X̲"
+    ]
+  },
   "-KIŁX̲": {
     "root": "-KIŁX̲",
     "partOfSpeech": "vb",
@@ -3455,6 +3494,69 @@
         "kiksht": "dugwiłxix",
         "english": "a fire has been made with them"
       }
+    ]
+  },
+  "-KL": {
+    "root": "-KL",
+    "partOfSpeech": "vb",
+    "definition": "know, be acquainted with; perceieve",
+    "forms": [
+      {
+        "kiksht": "niukwúl",
+        "english": "I know, am ac- quainted with him"
+      },
+      {
+        "kiksht": "yamukwul",
+        "english": "I know you"
+      },
+      {
+        "kiksht": "emnukwul",
+        "english": "you know me"
+      },
+      {
+        "kiksht": "chiukwúl",
+        "english": "he knows him"
+      },
+      {
+        "kiksht": "k'aya chiukel",
+        "english": "he does not know him"
+      },
+      {
+        "kiksht": "quikwul",
+        "english": "one knows him, he is known"
+      },
+      {
+        "kiksht": "chitkel",
+        "english": "he knew him"
+      },
+      {
+        "kiksht": "niyamtkel",
+        "english": "I knew you (last week)"
+      },
+      {
+        "kiksht": "nichitkel",
+        "english": "he knew him (last week)"
+      },
+      {
+        "kiksht": "gachatkel",
+        "english": "he knew her [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Naqi enshgíukel iłúguma.",
+        "english": "We do not know how to play bones."
+      },
+      {
+        "kiksht": "(literally",
+        "english": "We do not know bones.) [WTI.4.7]"
+      }
+    ],
+    "notes": [
+      "Not used in future, i-, or na- tenses. For \"will know,\" stem -gla-qłq is used: achiuglaqłqa \"he will know him\""
+    ],
+    "seeAlso": [
+      "-GLA-qłq"
     ]
   },
   "-a-gl- G̲AYA": {
@@ -12109,6 +12211,20 @@
     "partOfSpeech": "n",
     "definition": "fish heart"
   },
+  "a-kixninamat": {
+    "root": "a-kixninamat",
+    "partOfSpeech": "n",
+    "definition": "float used along top of gill-net",
+    "forms": [
+      {
+        "kiksht": "itkixninamat",
+        "english": "gill-net floats [PK 9/4/55]"
+      }
+    ],
+    "seeAlso": [
+      "-XNI"
+    ]
+  },
   "a-káas": {
     "root": "a-káas",
     "partOfSpeech": "n",
@@ -12150,6 +12266,11 @@
     "seeAlso": [
       "-k-LUMA, -gi-LUMA"
     ]
+  },
+  "a-kíutan": {
+    "root": "a-kíutan",
+    "partOfSpeech": "n",
+    "definition": "horse, mare"
   },
   "a-mulal": {
     "root": "a-mulal",
@@ -39789,6 +39910,38 @@
       "-SHTK, i-kishtk"
     ]
   },
+  "i-kiximuł": {
+    "root": "i-kiximuł",
+    "partOfSpeech": "n",
+    "definition": "inviting, calling over {- xim or -xim?}",
+    "forms": [
+      {
+        "kiksht": "iyaxiximuł",
+        "english": "he is one who invites people, calls people over [Dyk]"
+      }
+    ],
+    "notes": [
+      "Means the same as i-k'iximnił. One would expect this word to be i- kiximuł."
+    ],
+    "seeAlso": [
+      "i-k'iximnił, -gl-XIM"
+    ]
+  },
+  "i-kixtgit": {
+    "root": "i-kixtgit",
+    "partOfSpeech": "n",
+    "definition": "annoying, bothering, troubling",
+    "forms": [
+      {
+        "kiksht": "yaxixtgit",
+        "english": "he is one who bothers, annoys, troubles people"
+      },
+      {
+        "kiksht": "ichaxixtgit",
+        "english": "she is one one who both- ers, annoys, troubles people [Dyk] See also: -gl-XTGI"
+      }
+    ]
+  },
   "i-kiłádachwamat": {
     "root": "i-kiłádachwamat",
     "partOfSpeech": "n",
@@ -39871,6 +40024,17 @@
     ],
     "seeAlso": [
       "-x-mutxm"
+    ]
+  },
+  "i-kíutan": {
+    "root": "i-kíutan",
+    "partOfSpeech": "n",
+    "definition": "horse, stallion",
+    "forms": [
+      {
+        "kiksht": "itkíudanyuksh",
+        "english": "horses [anamalous plural forms: idkíudaniksh, tkiudaniksh, WTIV.2.3; itkiúdaniksh, WTIV.2.8]"
+      }
     ]
   },
   "iagluxtix": {
@@ -43173,12 +43337,43 @@
       "i-xigiqnan"
     ]
   },
+  "it-kit'ágwamat": {
+    "root": "it-kit'ágwamat",
+    "partOfSpeech": "n",
+    "definition": "braid ties",
+    "forms": []
+  },
   "it-kitgilal": {
     "root": "it-kitgilal",
     "partOfSpeech": "n",
     "definition": "mistreating (when no one is around to protect the victim) [Dyk], swindling, cheating [HS 7/26/ 56]",
     "seeAlso": [
       "-xl-TGI"
+    ]
+  },
+  "it-kiwichatkbama": {
+    "root": "it-kiwichatkbama",
+    "partOfSpeech": "n",
+    "definition": "earphones, telephone receiver",
+    "notes": [
+      "Literally \"(something) for (- bama) listening (itkíwichatk).\""
+    ],
+    "seeAlso": [
+      "-WICHA-tk, it-kíwichatk"
+    ]
+  },
+  "it-kixutin": {
+    "root": "it-kixutin",
+    "partOfSpeech": "n",
+    "definition": "helping",
+    "forms": [
+      {
+        "kiksht": "idiaxixutin",
+        "english": "his helping; he is a helper [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gn-X̲UTIN"
     ]
   },
   "it-ká": {
@@ -43335,6 +43530,30 @@
     "definition": "something saved",
     "seeAlso": [
       "it-gitk, -TK, -KITK"
+    ]
+  },
+  "it-kíwichatk": {
+    "root": "it-kíwichatk",
+    "partOfSpeech": "n",
+    "definition": "listening",
+    "forms": [
+      {
+        "kiksht": "idiaxíwichatk",
+        "english": "his listening; he is a listener [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "itgaxíwichatk qidau",
+        "english": "her way of listening"
+      },
+      {
+        "kiksht": "Ixaxíwichatk ikiax.",
+        "english": "He is listening to himself. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-xl-WICHA-tk"
     ]
   },
   "itgachaxelqwłimax akłmín": {
@@ -43866,6 +44085,20 @@
     "definition": "I have killed you",
     "seeAlso": [
       "-WA-qw"
+    ]
+  },
+  "ił- -kixiwat": {
+    "root": "ił- -kixiwat",
+    "partOfSpeech": "adj n",
+    "definition": "greedy",
+    "forms": [
+      {
+        "kiksht": "iłiaxixiwat",
+        "english": "he is a greedy fellow [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ł-gi-xi-WA"
     ]
   },
   "ił-'ishałx": {
