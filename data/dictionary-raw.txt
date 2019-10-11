@@ -14082,3 +14082,51 @@ Forms: itk’anat “pistols, revolvers” [WTIV.2.4; Dyk]
 it-k’anatxus [n] buttercup
 See also: is-qus, ish-k’anat
 
+
+
+
+
+
+
+it-k’Ån©uxwat [n] trout-fishing place
+Forms: Does not change for plural.
+See also: it-git’apxat
+
+-k’ani [n] white person [Dyk, SW 3/ 22/52, HS 7/27/54], non-Wasco, non-Nadidanwit [PK 6/29/56], story, legend, character (of person)
+Forms: ik’ani “white man” ak’ani “white woman” itk’anyuksh [Dyk, PK 9/2/55], i¬k’anyuks [SW 3/22/52] “white persons” k’ank’ani “story- story” [formula for announcing the close of a legend] [WTI.11.17]
+Notes: The noun stem -k’ani has a variety of meanings. Its original meaning appears to have been “natu- ral way” or “story;” then it came to be used of white people through a process that is not entirely clear. When used with the prefix i- it usu- ally has the meaning “white man,” but may also mean “story, legend” or “character (of a person).” When used with the prefix a-, it always now means “white woman.” The forms itk’anyuksh and i¬k’anyuks mean “white persons.” Otherwise, when used with the prefix it-, it means “people’s ways,” usually “Indian ways” or “ancient (Indian) ways;” see it-k’ani. It also usually has that mean- ing when used with the initial prefix i- and the possessive prefix -¬a- (“their”), to form i¬ak’ani; but i¬ak’ani may also refer to white people’s ways.
+See also: it-k’ani, i-¬ak’ani
+
+it-k’ani [n] ways, nature, character, Indian ways, traditional ways, legend
+Examples: itxk’ani “my nature, char- acter” Daukwa a©a idiak’ani. “That’s his nature.” itkk’Ånimax “my ways” itk’Ånimax “according to custom, the natural way” Qidau itk’Ånimax. “That’s the custom, the natural way.” [Dyk] itk’ani “ancient times; Indian way of doing things” [JM 7/14/54] Qidau itk’ani. “Thus is the legend” [formula used to end the telling of a legend] [WTI.12.10]
+See also: -k’ani, i-¬ak’ani
+
+-x-gn-K’ANQUT [vb] fish with hook and line for
+Forms: ixigenk’anqut “he is fishing for it[i-] (fish)” yaxagenk’anqut “he is fishing for it[a-] (fish)” ixigitk’anqut “he was fishing for it[i-] (fish)” [Dyk]
+See also: i-k’anqut, -K’ANQUT
+
+-xn-K’ANQUT [vb] fish with hook and line
+Forms: ixenk’anqut “he is fishing” ixitk’anqut “he was fishing” igixenk’anqut “he fished” galixenk’Ån©udni¬ “he fishes every day” [Dyk]
+See also: i-k’anqut
+
+i-k’anqut [n] fishing with hook and line
+Forms: iyak’anqut “he is a fisher- man” [Dyk]
+See also: -x-gn-K’ANQUT, -xn- K’ANQUT
+
+it-k’Ånxadit [n] weaving material, thread
+Notes: Originally used of the corn husk material from which an isik’nxat was woven; now refers also to thread.
+See also: -s-k’nxa
+
+i-k’aplash [n] billy club
+Examples: ishp’Åubama ik’aplash “baseball bat” [HS 7/2/56]
+Notes: In the old days, a lumb of lead tied to a line a couple of feet long used to sling with. The lead either had an eye by which it was attached to the line, or was tied up in a piece of leather.
+
+ishp’Åubama i-k’Åplash [n] baseball bat
+
+i¬-k’askas [n] pine nuts
+See also: i¬-yak’askas, i-kwaxa
+
+-k’asnan [n] little black lizard
+Forms: ik’asnan “(male) little black lizard” ak’asnan “(female) little black lizard” [Dyk]
+See also: a-q’asnan, i-©ashnan, ish- ©ashnaigi
+

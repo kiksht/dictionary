@@ -6689,6 +6689,53 @@
       "-gak'aps"
     ]
   },
+  "-k'ani": {
+    "root": "-k'ani",
+    "partOfSpeech": "n",
+    "definition": "white person [Dyk, SW 3/ 22/52, HS 7/27/54], non-Wasco, non-Nadidanwit [PK 6/29/56], story, legend, character (of person)",
+    "forms": [
+      {
+        "kiksht": "ik'ani",
+        "english": "white man"
+      },
+      {
+        "kiksht": "ak'ani",
+        "english": "white woman itk'anyuksh [Dyk, PK 9/2/55], iłk'anyuks [SW 3/22/52]"
+      },
+      {
+        "kiksht": "",
+        "english": "white persons"
+      },
+      {
+        "kiksht": "k'ank'ani",
+        "english": "story- story [formula for announcing the close of a legend] [WTI.11.17]"
+      }
+    ],
+    "notes": [
+      "The noun stem -k'ani has a variety of meanings. Its original meaning appears to have been \"natu- ral way\" or \"story;\" then it came to be used of white people through a process that is not entirely clear. When used with the prefix i- it usu- ally has the meaning \"white man,\" but may also mean \"story, legend\" or \"character (of a person).\" When used with the prefix a-, it always now means \"white woman.\" The forms itk'anyuksh and iłk'anyuks mean \"white persons.\" Otherwise, when used with the prefix it-, it means \"people's ways,\" usually \"Indian ways\" or \"ancient (Indian) ways;\" see it-k'ani. It also usually has that mean- ing when used with the initial prefix i- and the possessive prefix -ła- (\"their\"), to form iłak'ani; but iłak'ani may also refer to white people's ways."
+    ],
+    "seeAlso": [
+      "it-k'ani, i-łak'ani"
+    ]
+  },
+  "-k'asnan": {
+    "root": "-k'asnan",
+    "partOfSpeech": "n",
+    "definition": "little black lizard",
+    "forms": [
+      {
+        "kiksht": "ik'asnan",
+        "english": "(male) little black lizard"
+      },
+      {
+        "kiksht": "ak'asnan",
+        "english": "(female) little black lizard [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-q'asnan, i-g̲ashnan, ish- g̲ashnaigi"
+    ]
+  },
   "-k'álamat": {
     "root": "-k'álamat",
     "partOfSpeech": "n",
@@ -10514,6 +10561,28 @@
       "Literally means \"throw (- chim) oneself (-x-) at (-gl-).\" The -m- is omitted before the suffix -ł-."
     ]
   },
+  "-x-gn-K'ANQUT": {
+    "root": "-x-gn-K'ANQUT",
+    "partOfSpeech": "vb",
+    "definition": "fish with hook and line for",
+    "forms": [
+      {
+        "kiksht": "ixigenk'anqut",
+        "english": "he is fishing for it[i-] (fish)"
+      },
+      {
+        "kiksht": "yaxagenk'anqut",
+        "english": "he is fishing for it[a-] (fish)"
+      },
+      {
+        "kiksht": "ixigitk'anqut",
+        "english": "he was fishing for it[i-] (fish) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'anqut, -K'ANQUT"
+    ]
+  },
   "-x-i-n- G̲WIA-ix": {
     "root": "-x-i-n- G̲WIA-ix",
     "partOfSpeech": "vb",
@@ -11689,6 +11758,32 @@
         "kiksht": "Enxaxemgapx anxuxa.",
         "english": "I will work on myself/on my clothes. [Dyk]"
       }
+    ]
+  },
+  "-xn-K'ANQUT": {
+    "root": "-xn-K'ANQUT",
+    "partOfSpeech": "vb",
+    "definition": "fish with hook and line",
+    "forms": [
+      {
+        "kiksht": "ixenk'anqut",
+        "english": "he is fishing"
+      },
+      {
+        "kiksht": "ixitk'anqut",
+        "english": "he was fishing"
+      },
+      {
+        "kiksht": "igixenk'anqut",
+        "english": "he fished"
+      },
+      {
+        "kiksht": "galixenk'áng̲udnił",
+        "english": "he fishes every day [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'anqut"
     ]
   },
   "-xn-gi-q'na": {
@@ -40807,6 +40902,34 @@
       "ił-k'amwat"
     ]
   },
+  "i-k'anqut": {
+    "root": "i-k'anqut",
+    "partOfSpeech": "n",
+    "definition": "fishing with hook and line",
+    "forms": [
+      {
+        "kiksht": "iyak'anqut",
+        "english": "he is a fisher- man [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x-gn-K'ANQUT, -xn- K'ANQUT"
+    ]
+  },
+  "i-k'aplash": {
+    "root": "i-k'aplash",
+    "partOfSpeech": "n",
+    "definition": "billy club",
+    "examples": [
+      {
+        "kiksht": "ishp'áubama ik'aplash",
+        "english": "baseball bat [HS 7/2/56]"
+      }
+    ],
+    "notes": [
+      "In the old days, a lumb of lead tied to a line a couple of feet long used to sling with. The lead either had an eye by which it was attached to the line, or was tied up in a piece of leather."
+    ]
+  },
   "i-k'ałmgwadit": {
     "root": "i-k'ałmgwadit",
     "partOfSpeech": "n",
@@ -44363,6 +44486,11 @@
       "-GWI-pchk"
     ]
   },
+  "ishp'áubama i-k'áplash": {
+    "root": "ishp'áubama i-k'áplash",
+    "partOfSpeech": "n",
+    "definition": "baseball bat"
+  },
   "ishtugwilait": {
     "root": "ishtugwilait",
     "partOfSpeech": "vb",
@@ -45169,12 +45297,70 @@
       "is-qus, ish-k'anat"
     ]
   },
+  "it-k'ani": {
+    "root": "it-k'ani",
+    "partOfSpeech": "n",
+    "definition": "ways, nature, character, Indian ways, traditional ways, legend",
+    "examples": [
+      {
+        "kiksht": "itxk'ani",
+        "english": "my nature, char- acter"
+      },
+      {
+        "kiksht": "Daukwa ag̲a idiak'ani.",
+        "english": "That's his nature."
+      },
+      {
+        "kiksht": "itkk'ánimax",
+        "english": "my ways"
+      },
+      {
+        "kiksht": "itk'ánimax",
+        "english": "according to custom, the natural way"
+      },
+      {
+        "kiksht": "Qidau itk'ánimax.",
+        "english": "That's the custom, the natural way. [Dyk]"
+      },
+      {
+        "kiksht": "itk'ani",
+        "english": "ancient times; Indian way of doing things [JM 7/14/54]"
+      },
+      {
+        "kiksht": "Qidau itk'ani.",
+        "english": "Thus is the legend [formula used to end the telling of a legend] [WTI.12.10]"
+      }
+    ],
+    "seeAlso": [
+      "-k'ani, i-łak'ani"
+    ]
+  },
   "it-k'áicimum": {
     "root": "it-k'áicimum",
     "partOfSpeech": "n",
     "definition": "smallness",
     "seeAlso": [
       "i- -k'aic"
+    ]
+  },
+  "it-k'áng̲uxwat": {
+    "root": "it-k'áng̲uxwat",
+    "partOfSpeech": "n",
+    "definition": "trout-fishing place",
+    "forms": [],
+    "seeAlso": [
+      "it-git'apxat"
+    ]
+  },
+  "it-k'ánxadit": {
+    "root": "it-k'ánxadit",
+    "partOfSpeech": "n",
+    "definition": "weaving material, thread",
+    "notes": [
+      "Originally used of the corn husk material from which an isik'nxat was woven; now refers also to thread."
+    ],
+    "seeAlso": [
+      "-s-k'nxa"
     ]
   },
   "it-kadnam": {
@@ -46822,6 +47008,14 @@
     "definition": "hair rope",
     "seeAlso": [
       "i-k'amwat"
+    ]
+  },
+  "ił-k'askas": {
+    "root": "ił-k'askas",
+    "partOfSpeech": "n",
+    "definition": "pine nuts",
+    "seeAlso": [
+      "ił-yak'askas, i-kwaxa"
     ]
   },
   "ił-k'álamat": {
