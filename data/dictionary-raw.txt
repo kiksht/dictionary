@@ -12455,3 +12455,39 @@ Forms: ikshikgÅmidagwa “she pushed him over backward” [Dyk]
 
 -xl-GA-mida-kw [vb] turn, turn around, make to face toward
 Forms: chixlgÅmidakwt “he has him turned, faced toward” qshxelgamidalkw¬ “someone is turn- ing them 2 around, they 2 are being turned around” nichixelgamidagwa “he turned him around (last season)” nichixitgamidagwa “he turned him around (last week)” ixelgÅmidakux “he is/has been turned” with relational prefixes: chiagelxigÅmidakwt “he has him turned toward her” chia©elxigÅmidakwt “he has him turned from her” [Dyk]
+
+
+
+
+
+
+
+-xm-GA-mida-pa [vb] cause to work, make to work
+Forms: chixemgÅmidapx “he is making him work” chialxmagÅmidapx “he is making him work for her” [Dyk]
+
+-ch-l-GA-mida-qw [vb] burn, scorch
+Forms: chialgamidaqwt “he is burn- ing it[a-], has it burning” chialgÅmidalq “he is lighting it[a-], trying to burn it” ichilgÅmitaq “he burnt/scorched it[i-]” nishgiaitgamitaq “they 2 burnt it[a-] (last week)” ishxelgÅmidaqwt “they 2 are burning themselves” [Dyk]
+See also: -ch-l-GAL-qw, i-chaxigalalq
+
+-l-GA-mit [vb] stick into, shove into, put into
+Forms: ilgÅmidix! “stick it[i-] in it[i-] (a place)!” anialgÅmida “I will stick it[i-] in it[a-]” ichialgamit “he shoved it[i-] into it[a-]” nichiaitgamit “he stuck it[i-] into it[a-] (last week)” gachialgamit “he put it[i-] into it[a-]” gachuxigamit “he stuck them to one another, stuck them together” [Dyk]
+
+-sh-l-x-GA-mit [vb] be proud of, praise
+Forms: enshelxgamit “I’m praising it, am proud of it” [GT 12/29/97]
+See also: ish-qagamit
+
+-sh-x-GA-mit [vb] appraise oneself or one’s own possession above all oth- ers, consider superior, brag
+Forms: ashaxgÅmida “she will ap- praise herself above all the others” shaxgamit “she is appraising herself above all the others” shixgamit “he is appraising himself or it[i-] of his (for instance, his horse) above all the others” ishaxgamit “she appraised herself above all the others” [Dyk] See also: is-qagamit
+
+-x-GA-mit [vb] praise, brag about
+Forms: achaxgÅmida “he will brag on her, praise her” [GT, MMc 6/4/98]
+
+-l-GA-mita-pq [vb] put into, cause to go into, cause to enter
+Forms: gachialgÅmitapq “he put it[i-] into it[a-], made it go into it” [Dyk]
+
+-KA-pa [vb] come out, go out, emerge, be born, fly out, escape
+Forms: yugwÅpx “he is going out, flying out” gayugwaba “he went out” galugwaba “she went out” igitgapam “he got here to get out” [Dyk] gayugwaba “he rushed out” [WTI.4.13] with relational prefix -©l- “out from”: i©elgaptix “he is coming out from it[i- ] (a place, a hole)” ai©elgaptix “she is coming out from it[i-] (a place, a hole)” ai©itgapdix “she is coming out from it[i-] (a place, a hole), getting out of it” nigi©elgaba “it[i-] ejected out of it[i-] (last season)” gali©elgaba “he went out of it[i-]” gaya©elgaba “he went out of it[a-]” gayu©igaba “he went out of them” galu©igaba “she went out of them” gali©elgabaix, gali©elgapaxix “he went out of it[i-] (a place, a hole)” gashdi©elgabaix, gashdi©elgapaxix “they 2 went out of it[i-] (a place, a hole)” with relational prefix -x- “from”: gayaxgaba “he came from her (pres- ence); he came out of it[a-]” with relational prefix -gm- “by, past”: iyagemgaba “he went out by/past her” [Dyk]
+Examples: Galugwaba waskaniamt. “They escaped from the box.” [WTI.9.12] A©a kwapt gayaktxuit. A©a kwapt ga¬a©elgaba i¬ak’Åic i¬sk’iluks. “Now then he stepped on her. Now then a small wolf came out of her.” [WTI.2.17] A©a¬ax ˆgatgaba. “The sun came out.” [GT, MMc 5/22/ 96]
+
+-a-l-GA-pa [vb] not speak very well, be unable to think what to say, stam- mer
+Forms: ailgÅlp¬ “he’s stammering” anelgÅlp¬ “I’m stammering” [PK 5/ 12/57]

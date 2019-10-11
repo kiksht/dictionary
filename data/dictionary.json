@@ -3135,6 +3135,107 @@
       }
     ]
   },
+  "-KA-pa": {
+    "root": "-KA-pa",
+    "partOfSpeech": "vb",
+    "definition": "come out, go out, emerge, be born, fly out, escape",
+    "forms": [
+      {
+        "kiksht": "yugwápx",
+        "english": "he is going out, flying out"
+      },
+      {
+        "kiksht": "gayugwaba",
+        "english": "he went out"
+      },
+      {
+        "kiksht": "galugwaba",
+        "english": "she went out"
+      },
+      {
+        "kiksht": "igitgapam",
+        "english": "he got here to get out [Dyk]"
+      },
+      {
+        "kiksht": "gayugwaba",
+        "english": "he rushed out [WTI.4.13]"
+      },
+      {
+        "kiksht": "with relational prefix -g̲l-",
+        "english": "out from"
+      },
+      {
+        "kiksht": ": ig̲elgaptix",
+        "english": "he is coming out from it[i- ] (a place, a hole)"
+      },
+      {
+        "kiksht": "aig̲elgaptix",
+        "english": "she is coming out from it[i-] (a place, a hole)"
+      },
+      {
+        "kiksht": "aig̲itgapdix",
+        "english": "she is coming out from it[i-] (a place, a hole), getting out of it"
+      },
+      {
+        "kiksht": "nigig̲elgaba",
+        "english": "it[i-] ejected out of it[i-] (last season)"
+      },
+      {
+        "kiksht": "galig̲elgaba",
+        "english": "he went out of it[i-]"
+      },
+      {
+        "kiksht": "gayag̲elgaba",
+        "english": "he went out of it[a-]"
+      },
+      {
+        "kiksht": "gayug̲igaba",
+        "english": "he went out of them"
+      },
+      {
+        "kiksht": "galug̲igaba",
+        "english": "she went out of them"
+      },
+      {
+        "kiksht": "galig̲elgabaix, galig̲elgapaxix",
+        "english": "he went out of it[i-] (a place, a hole)"
+      },
+      {
+        "kiksht": "gashdig̲elgabaix, gashdig̲elgapaxix",
+        "english": "they 2 went out of it[i-] (a place, a hole)"
+      },
+      {
+        "kiksht": "with relational prefix -x-",
+        "english": "from"
+      },
+      {
+        "kiksht": ": gayaxgaba",
+        "english": "he came from her (pres- ence); he came out of it[a-]"
+      },
+      {
+        "kiksht": "with relational prefix -gm-",
+        "english": "by, past"
+      },
+      {
+        "kiksht": ": iyagemgaba",
+        "english": "he went out by/past her [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Galugwaba waskaniamt.",
+        "english": "They escaped from the box. [WTI.9.12]"
+      },
+      {
+        "kiksht": "Ag̲a kwapt gayaktxuit. Ag̲a kwapt gałag̲elgaba iłak'áic iłsk'iluks.",
+        "english": "Now then he stepped on her. Now then a small wolf came out of her. [WTI.2.17]"
+      },
+      {
+        "kiksht": "Ag̲ałax ígatgaba.",
+        "english": "The sun came out. [GT, MMc 5/22/ 96]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -3224,6 +3325,21 @@
     ],
     "seeAlso": [
       "a-g̲ilapx"
+    ]
+  },
+  "-a-l-GA-pa": {
+    "root": "-a-l-GA-pa",
+    "partOfSpeech": "vb",
+    "definition": "not speak very well, be unable to think what to say, stam- mer",
+    "forms": [
+      {
+        "kiksht": "ailgálpł",
+        "english": "he's stammering"
+      },
+      {
+        "kiksht": "anelgálpł",
+        "english": "I'm stammering [PK 5/ 12/57]"
+      }
     ]
   },
   "-a-l-GWACHI": {
@@ -3723,6 +3839,36 @@
     ],
     "seeAlso": [
       "-i-l-BWA-mit, -BU, -BWA"
+    ]
+  },
+  "-ch-l-GA-mida-qw": {
+    "root": "-ch-l-GA-mida-qw",
+    "partOfSpeech": "vb",
+    "definition": "burn, scorch",
+    "forms": [
+      {
+        "kiksht": "chialgamidaqwt",
+        "english": "he is burn- ing it[a-], has it burning"
+      },
+      {
+        "kiksht": "chialgámidalq",
+        "english": "he is lighting it[a-], trying to burn it"
+      },
+      {
+        "kiksht": "ichilgámitaq",
+        "english": "he burnt/scorched it[i-]"
+      },
+      {
+        "kiksht": "nishgiaitgamitaq",
+        "english": "they 2 burnt it[a-] (last week)"
+      },
+      {
+        "kiksht": "ishxelgámidaqwt",
+        "english": "they 2 are burning themselves [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ch-l-GAL-qw, i-chaxigalalq"
     ]
   },
   "-ch-l-GAL-qw": {
@@ -5828,6 +5974,48 @@
       }
     ]
   },
+  "-l-GA-mit": {
+    "root": "-l-GA-mit",
+    "partOfSpeech": "vb",
+    "definition": "stick into, shove into, put into",
+    "forms": [
+      {
+        "kiksht": "ilgámidix!",
+        "english": "stick it[i-] in it[i-] (a place)!"
+      },
+      {
+        "kiksht": "anialgámida",
+        "english": "I will stick it[i-] in it[a-]"
+      },
+      {
+        "kiksht": "ichialgamit",
+        "english": "he shoved it[i-] into it[a-]"
+      },
+      {
+        "kiksht": "nichiaitgamit",
+        "english": "he stuck it[i-] into it[a-] (last week)"
+      },
+      {
+        "kiksht": "gachialgamit",
+        "english": "he put it[i-] into it[a-]"
+      },
+      {
+        "kiksht": "gachuxigamit",
+        "english": "he stuck them to one another, stuck them together [Dyk]"
+      }
+    ]
+  },
+  "-l-GA-mita-pq": {
+    "root": "-l-GA-mita-pq",
+    "partOfSpeech": "vb",
+    "definition": "put into, cause to go into, cause to enter",
+    "forms": [
+      {
+        "kiksht": "gachialgámitapq",
+        "english": "he put it[i-] into it[a-], made it go into it [Dyk]"
+      }
+    ]
+  },
   "-l-GWI-chu": {
     "root": "-l-GWI-chu",
     "partOfSpeech": "vb",
@@ -6796,6 +6984,20 @@
       }
     ]
   },
+  "-sh-l-x-GA-mit": {
+    "root": "-sh-l-x-GA-mit",
+    "partOfSpeech": "vb",
+    "definition": "be proud of, praise",
+    "forms": [
+      {
+        "kiksht": "enshelxgamit",
+        "english": "I'm praising it, am proud of it [GT 12/29/97]"
+      }
+    ],
+    "seeAlso": [
+      "ish-qagamit"
+    ]
+  },
   "-sh-x-CHUCHEMNA-kw": {
     "root": "-sh-x-CHUCHEMNA-kw",
     "partOfSpeech": "vb",
@@ -6812,6 +7014,29 @@
     ],
     "seeAlso": [
       "ish-qachichemnakwt"
+    ]
+  },
+  "-sh-x-GA-mit": {
+    "root": "-sh-x-GA-mit",
+    "partOfSpeech": "vb",
+    "definition": "appraise oneself or one's own possession above all oth- ers, consider superior, brag",
+    "forms": [
+      {
+        "kiksht": "ashaxgámida",
+        "english": "she will ap- praise herself above all the others"
+      },
+      {
+        "kiksht": "shaxgamit",
+        "english": "she is appraising herself above all the others"
+      },
+      {
+        "kiksht": "shixgamit",
+        "english": "he is appraising himself or it[i-] of his (for instance, his horse) above all the others"
+      },
+      {
+        "kiksht": "ishaxgamit",
+        "english": "she appraised herself above all the others [Dyk] See also: is-qagamit"
+      }
     ]
   },
   "-sh-xl- G̲IŁQAU": {
@@ -7733,6 +7958,17 @@
       {
         "kiksht": "inixgágwachkwam",
         "english": "I went to pull it around [Dyk]"
+      }
+    ]
+  },
+  "-x-GA-mit": {
+    "root": "-x-GA-mit",
+    "partOfSpeech": "vb",
+    "definition": "praise, brag about",
+    "forms": [
+      {
+        "kiksht": "achaxgámida",
+        "english": "he will brag on her, praise her [GT, MMc 6/4/98]"
       }
     ]
   },
@@ -9372,6 +9608,21 @@
       {
         "kiksht": "Anshxengiglaya qengi adasq'ú idáit.",
         "english": "We will understand what Wasco ways are. [Museum 5]"
+      }
+    ]
+  },
+  "-xm-GA-mida-pa": {
+    "root": "-xm-GA-mida-pa",
+    "partOfSpeech": "vb",
+    "definition": "cause to work, make to work",
+    "forms": [
+      {
+        "kiksht": "chixemgámidapx",
+        "english": "he is making him work"
+      },
+      {
+        "kiksht": "chialxmagámidapx",
+        "english": "he is making him work for her [Dyk]"
       }
     ]
   },
