@@ -3147,6 +3147,20 @@
       "i-gik'alit"
     ]
   },
+  "-K'AYAU-lal": {
+    "root": "-K'AYAU-lal",
+    "partOfSpeech": "vb",
+    "definition": "cause to laugh, make laugh",
+    "forms": [
+      {
+        "kiksht": "chiuk'ayaulal",
+        "english": "he is making him laugh [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-k'ayulal, -K'AYAU, -K'AYAWU"
+    ]
+  },
   "-KA": {
     "root": "-KA",
     "partOfSpeech": "vb",
@@ -5934,6 +5948,49 @@
         "kiksht": "igig̲lgaqłqixit",
         "english": "something became separated from him [Dyk]"
       }
+    ]
+  },
+  "-g̲l-K'AYA-pa": {
+    "root": "-g̲l-K'AYA-pa",
+    "partOfSpeech": "vb",
+    "definition": "renew memory of, renew knowledge of, catch on, teach",
+    "forms": [
+      {
+        "kiksht": "chiag̲itk'áyalpł",
+        "english": "he was trying to teach her to catch on to it[i-], to learn it"
+      },
+      {
+        "kiksht": "ichiag̲elk'áyaba",
+        "english": "he made her catch on to it[i-], taught her how"
+      },
+      {
+        "kiksht": "yag̲elk'ayapx.",
+        "english": "she has caught on to him again"
+      },
+      {
+        "kiksht": "ag̲elk'ayapx",
+        "english": "she has her memory renewed, is catching on, has caught on"
+      },
+      {
+        "kiksht": "ag̲elk'ayapxlit",
+        "english": "she is catching on"
+      },
+      {
+        "kiksht": "shg̲elk'áyapxlit",
+        "english": "they 2 are renewing their knowledge [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qug̲wik'áyapx itkanaximsht.",
+        "english": "The chiefs or being renewed, replaced. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Generally means to renew memory or knowledge which has been forgotten for some time, by practicing a little until one catches on. [PK]"
+    ],
+    "seeAlso": [
+      "i-qik'ayapxlit"
     ]
   },
   "-g̲l-KL": {
@@ -10339,6 +10396,61 @@
       "it-kak'ánamankwł"
     ]
   },
+  "-x-K'AYAU-lal": {
+    "root": "-x-K'AYAU-lal",
+    "partOfSpeech": "vb",
+    "definition": "laugh",
+    "forms": [
+      {
+        "kiksht": "alixk'áyaulalma",
+        "english": "he will laugh"
+      },
+      {
+        "kiksht": "aluxwak'áyualalma",
+        "english": "they'll laugh"
+      },
+      {
+        "kiksht": "ixk'áyaulal",
+        "english": "he is laughing"
+      },
+      {
+        "kiksht": "uxwak'áyaulal, łxk'áyaulal",
+        "english": "they are laughing"
+      },
+      {
+        "kiksht": "igixk'ayaulalmchk",
+        "english": "he just laughed"
+      },
+      {
+        "kiksht": "ixk'ayulalmamt",
+        "english": "he is go- ing there to laugh"
+      },
+      {
+        "kiksht": "igixk'ayaulalmam",
+        "english": "he went there to laugh [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Yaxawik'ayaulal itqwłí.",
+        "english": "He is laughing in the house. [Dyk]"
+      }
+    ]
+  },
+  "-x-K'AYAWU-lal": {
+    "root": "-x-K'AYAWU-lal",
+    "partOfSpeech": "vb",
+    "definition": "laugh",
+    "forms": [
+      {
+        "kiksht": "uxwik'áyawulal",
+        "english": "they are laughing among themselves [WTI.9.10]"
+      }
+    ],
+    "seeAlso": [
+      "-x-K'AYAU-lal"
+    ]
+  },
   "-x-KL": {
     "root": "-x-KL",
     "partOfSpeech": "vb",
@@ -13381,6 +13493,14 @@
       "a-g̲axitk"
     ]
   },
+  "a-k'ibwat": {
+    "root": "a-k'ibwat",
+    "partOfSpeech": "n",
+    "definition": "awl",
+    "seeAlso": [
+      "ił-iak'ibwatks"
+    ]
+  },
   "a-k'álak'ia": {
     "root": "a-k'álak'ia",
     "partOfSpeech": "n",
@@ -13446,6 +13566,26 @@
     "definition": "bow on cradleboard, cradleboard bow",
     "notes": [
       "Refers to the bow on the cradleboard arching in front of the baby's face to protect it in case of a fall forward."
+    ]
+  },
+  "a-k'áyaulal": {
+    "root": "a-k'áyaulal",
+    "partOfSpeech": "n",
+    "definition": "laughing, laughter",
+    "forms": [
+      {
+        "kiksht": "iyaxak'ayaulal",
+        "english": "he is a laugher [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Inaxchmaq aqak'áyaulal.",
+        "english": "I heard laughter. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-K'AYAU-lal"
     ]
   },
   "a-kachkdama": {
@@ -41068,12 +41208,87 @@
     "partOfSpeech": "n",
     "definition": "last season's roots, last season's salmon"
   },
+  "i-k'ayuchk": {
+    "root": "i-k'ayuchk",
+    "partOfSpeech": "n",
+    "definition": "tadpole",
+    "forms": [
+      {
+        "kiksht": "itk'ayuchk",
+        "english": "tadpoles [Dyk]"
+      }
+    ]
+  },
   "i-k'ałmgwadit": {
     "root": "i-k'ałmgwadit",
     "partOfSpeech": "n",
     "definition": "forepiece of arrow",
     "notes": [
       "Formerly made of hardwood, now sometimes made of copper."
+    ]
+  },
+  "i-k'i'ayayat": {
+    "root": "i-k'i'ayayat",
+    "partOfSpeech": "n",
+    "definition": "longhouse religion, seven drum religion, waashat",
+    "forms": [
+      {
+        "kiksht": "iyak'i'ayayat",
+        "english": "his waashat religion; he's religious [PK]"
+      }
+    ],
+    "notes": [
+      "From Sahaptin ayáyat \"good time, celebration.\""
+    ]
+  },
+  "i-k'ibaqbaqmat": {
+    "root": "i-k'ibaqbaqmat",
+    "partOfSpeech": "n",
+    "definition": "brush, broom, anything used for brushing",
+    "seeAlso": [
+      "baqbaq"
+    ]
+  },
+  "i-k'ibaxbax": {
+    "root": "i-k'ibaxbax",
+    "partOfSpeech": "n",
+    "definition": "giving bad luck, hoodooing",
+    "forms": [
+      {
+        "kiksht": "iyak'ibaxbax",
+        "english": "he is a bad-luck giver [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ik'ibaxbax chiuxt.",
+        "english": "He is giving bad luck to him. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "bax, i-k'ibaxbaxmat"
+    ]
+  },
+  "i-k'ibushiksh": {
+    "root": "i-k'ibushiksh",
+    "partOfSpeech": "n",
+    "definition": "giving gifts by the parents of a new-born child",
+    "forms": [
+      {
+        "kiksht": "iyak'ibushiksh",
+        "english": "he is one who gives gifts [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "bushiksh"
+    ]
+  },
+  "i-k'ichakchakgumat": {
+    "root": "i-k'ichakchakgumat",
+    "partOfSpeech": "n",
+    "definition": "linament",
+    "notes": [
+      "Refers to the remedy that comes in a bottle."
     ]
   },
   "i-k'ámunak": {
@@ -44071,6 +44286,28 @@
     "definition": "cone-shaped pile of rocks, cairn",
     "notes": [
       "Refers to a pile of rocks put down as a marker."
+    ]
+  },
+  "is-k'epk'epxus": {
+    "root": "is-k'epk'epxus",
+    "partOfSpeech": "n",
+    "definition": "blinking",
+    "forms": [
+      {
+        "kiksht": "isiak'epk'epxus",
+        "english": "he is one who blinks his eyes continually [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "k'ep, i-gik'epk'ep"
+    ]
+  },
+  "is-k'émtk": {
+    "root": "is-k'émtk",
+    "partOfSpeech": "n",
+    "definition": "fork, scissors, pitchfork",
+    "seeAlso": [
+      "is-q'émtk"
     ]
   },
   "is-kamintłk": {
@@ -47849,6 +48086,65 @@
     ],
     "seeAlso": [
       "naqi"
+    ]
+  },
+  "k'ep": {
+    "root": "k'ep",
+    "partOfSpeech": "part",
+    "definition": "wink, blink, shut eyes",
+    "examples": [
+      {
+        "kiksht": "K'ep ichuxa.",
+        "english": "He winked at her."
+      },
+      {
+        "kiksht": "K'ep icsux.",
+        "english": "He closed his eyes."
+      },
+      {
+        "kiksht": "K'ep nsuxt.",
+        "english": "I have my eyes closed."
+      },
+      {
+        "kiksht": "K'epk'ep ikiax.",
+        "english": "He is blink- ing."
+      },
+      {
+        "kiksht": "̨agik'ep intxux.",
+        "english": "We 2 winked at each other. [Dyk]"
+      },
+      {
+        "kiksht": "K'ep emxux!",
+        "english": "Shut your eyes! [WTI.17.17]"
+      }
+    ],
+    "seeAlso": [
+      "i-gik'epk'ep, is-k'epk'epxus"
+    ]
+  },
+  "k'eses": {
+    "root": "k'eses",
+    "partOfSpeech": "part",
+    "definition": "smile",
+    "examples": [
+      {
+        "kiksht": "K'eses ikiax.",
+        "english": "He is smil- ing. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "c'mumu"
+    ]
+  },
+  "k'eshk'esh": {
+    "root": "k'eshk'esh",
+    "partOfSpeech": "part",
+    "definition": "eat up",
+    "examples": [
+      {
+        "kiksht": "K'eshk'esh aniuxwa iłaqaqshtáq.",
+        "english": "I will eat up his head. [WTI.5.3]"
+      }
     ]
   },
   "k'ámunaq": {
