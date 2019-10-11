@@ -6425,6 +6425,20 @@
       "Refers to a person sensing what is about to happen to another or him/herself, as that s/he is about to become sick; or to a person in- specting someone to see what is about to happen to him/her."
     ]
   },
+  "-i-gm-K'A-qw": {
+    "root": "-i-gm-K'A-qw",
+    "partOfSpeech": "vb",
+    "definition": "be fit for (a job), be suitable for (a job)",
+    "forms": [
+      {
+        "kiksht": "nigemk'aqwdix",
+        "english": "I fit into the job, am able to do it [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-kmak'áq"
+    ]
+  },
   "-i-l-BWA-mit": {
     "root": "-i-l-BWA-mit",
     "partOfSpeech": "vb",
@@ -6482,6 +6496,33 @@
     ],
     "seeAlso": [
       "i-qik'ankwł"
+    ]
+  },
+  "-i-n-K'A-qw": {
+    "root": "-i-n-K'A-qw",
+    "partOfSpeech": "vb",
+    "definition": "be suited for (a job), fit into (a job)",
+    "forms": [
+      {
+        "kiksht": "nink'aqwdix",
+        "english": "I fit into the job, am able to do it"
+      },
+      {
+        "kiksht": "idink'ag̲wix",
+        "english": "they fit into the job, did it OK"
+      },
+      {
+        "kiksht": "aink'aqwdix",
+        "english": "she is just right for a job"
+      },
+      {
+        "kiksht": "idenink'áq",
+        "english": "they suited me for the job [Dyk]; I was pleased with it [GT 6/4/98]."
+      },
+      {
+        "kiksht": "idaink'aq",
+        "english": "they suited her for the job [Dyk; rejected by GT, MMc 6/4/98]"
+      }
     ]
   },
   "-i-x-YA-mid-ix": {
@@ -6620,6 +6661,32 @@
     ],
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "-k'ak'aps": {
+    "root": "-k'ak'aps",
+    "partOfSpeech": "n",
+    "definition": "hat, cap",
+    "forms": [
+      {
+        "kiksht": "ik'ak'aps",
+        "english": "(larger) hat"
+      },
+      {
+        "kiksht": "ak'ak'aps",
+        "english": "(smaller) hat"
+      },
+      {
+        "kiksht": "isk'ak'aps",
+        "english": "child's hat"
+      },
+      {
+        "kiksht": "itk'ak'aps",
+        "english": "hats [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gak'aps"
     ]
   },
   "-k-CHA": {
@@ -6812,6 +6879,17 @@
       {
         "kiksht": "igímaqwdix",
         "english": "it[i-] (for instance, a pole or board) is leaning against it[i- ] [Dyk]"
+      }
+    ]
+  },
+  "-k-K'A-qw": {
+    "root": "-k-K'A-qw",
+    "partOfSpeech": "vb",
+    "definition": "fit",
+    "forms": [
+      {
+        "kiksht": "ługwak'ánq",
+        "english": "it fits them [WTII.7.1]"
       }
     ]
   },
@@ -7590,6 +7668,23 @@
       }
     ]
   },
+  "-l-K'A-xit": {
+    "root": "-l-K'A-xit",
+    "partOfSpeech": "vb",
+    "definition": "become stuck to- gether, copulate",
+    "forms": [
+      {
+        "kiksht": "gashxlk'axit",
+        "english": "they 2 became stuck together, they copulated [Dyk]"
+      }
+    ],
+    "notes": [
+      "This is derived from -l-ga-xit, with a specialized meaning."
+    ],
+    "seeAlso": [
+      "-l-GA-xit"
+    ]
+  },
   "-l-KA-pq": {
     "root": "-l-KA-pq",
     "partOfSpeech": "vb",
@@ -7862,6 +7957,11 @@
       "Literally means \"cause (-mit) to know (-xaglaqłq-) to (-l-).\""
     ]
   },
+  "-l-xi-K'A-łx": {
+    "root": "-l-xi-K'A-łx",
+    "partOfSpeech": "vb",
+    "definition": "tell story to Examples: nilxik'áłx \"I'm telling him a story\" nalxik'áłx \"I'm telling her a story\" nanilxik'ałxa \"I told him a story\" nachnlxik'ałxa \"he told me a story\" [GT, MMc 1/12/99]"
+  },
   "-n-GA-kw": {
     "root": "-n-GA-kw",
     "partOfSpeech": "vb",
@@ -7941,6 +8041,43 @@
       {
         "kiksht": "chdangámidankwł",
         "english": "he is making them too much for her [PK was unsure of these last 2 forms; GT, MMc 6/5/98 were unable to clarify them.]"
+      }
+    ]
+  },
+  "-n-K'A-qw": {
+    "root": "-n-K'A-qw",
+    "partOfSpeech": "vb",
+    "definition": "be fit for, be suitable for, fit into, be pleased with",
+    "forms": [
+      {
+        "kiksht": "yank'áqwt",
+        "english": "he is suitable for her"
+      },
+      {
+        "kiksht": "aink'anqwłix",
+        "english": "it[a-] is just right (repeatedly, as a clock that is right for a time but needs rewinding every hour)"
+      },
+      {
+        "kiksht": "ink'aqwdix",
+        "english": "he fits in it[i-] (a place)"
+      },
+      {
+        "kiksht": "iyank'aq",
+        "english": "he suited her"
+      },
+      {
+        "kiksht": "chaink'ág̲wamidix",
+        "english": "he is setting time for her [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ławik'ánq idelxam.",
+        "english": "They are suitable for them. [Dyk]"
+      },
+      {
+        "kiksht": "idank'aq",
+        "english": "she was pleased with it[it- ] [GT 6/4/98]"
       }
     ]
   },
@@ -8189,6 +8326,24 @@
     ],
     "seeAlso": [
       "-s-l-CGI-ma, -s-l-CGI, -s-xl- CGI"
+    ]
+  },
+  "-s-l-K'A-mit": {
+    "root": "-s-l-K'A-mit",
+    "partOfSpeech": "vb",
+    "definition": "stick fingers into rectum",
+    "forms": [
+      {
+        "kiksht": "iksalk'amit",
+        "english": "she stuck her finger into her (another's) rectum"
+      },
+      {
+        "kiksht": "isaxlk'amit",
+        "english": "she stuck her fingers into her own rectum [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-l-GA-mit, is-qik'amit"
     ]
   },
   "-s-n-CK'IAX̲TŁ": {
@@ -12912,6 +13067,31 @@
         "kiksht": "itk'ádaqi",
         "english": "chubs [WTI.18.9]"
       }
+    ]
+  },
+  "a-k'álak'ia": {
+    "root": "a-k'álak'ia",
+    "partOfSpeech": "n",
+    "definition": "an edible root",
+    "forms": [
+      {
+        "kiksht": "iłk'álak'ia",
+        "english": "roots (of this variety)"
+      }
+    ],
+    "notes": [
+      "Small round root with caps, very tasty; Gladys Thompson be- lieved it had white flowers but was not sure."
+    ]
+  },
+  "a-k'álakia": {
+    "root": "a-k'álakia",
+    "partOfSpeech": "n",
+    "definition": "wild onion",
+    "notes": [
+      "Apparently a root similar to ak'ústxulal but larger in size. See Sapir Wishram Texts p.95."
+    ],
+    "seeAlso": [
+      "a-k'ústxulal"
     ]
   },
   "a-kachkdama": {
@@ -40366,6 +40546,30 @@
     "partOfSpeech": "n",
     "definition": "tobacco"
   },
+  "i-k'ak'ush": {
+    "root": "i-k'ak'ush",
+    "partOfSpeech": "n",
+    "definition": "mother's father, mater- nal grandfather",
+    "seeAlso": [
+      "i-gak'ush"
+    ]
+  },
+  "i-k'akw'almat": {
+    "root": "i-k'akw'almat",
+    "partOfSpeech": "n",
+    "definition": "braid",
+    "notes": [
+      "Same as igakw'almat. Refers to a long single braid down the back of the neck. [Dyk] Used nowadays by Indian dancers. [GT, MMc 12/30/97] See also: i-gakw'almat, it- p'ushdemksh, it-xabustemqsh"
+    ]
+  },
+  "i-k'aladás": {
+    "root": "i-k'aladás",
+    "partOfSpeech": "n",
+    "definition": "bowl",
+    "seeAlso": [
+      "i-ladás"
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -46234,6 +46438,14 @@
       "ił-brij"
     ]
   },
+  "ił-k'alaimat": {
+    "root": "ił-k'alaimat",
+    "partOfSpeech": "n",
+    "definition": "stepping-stones, bridge",
+    "seeAlso": [
+      "-kk'alakw, -k'álamat, Łiak'álaimadix"
+    ]
+  },
   "ił-kabwalal": {
     "root": "ił-kabwalal",
     "partOfSpeech": "n",
@@ -46759,6 +46971,33 @@
     "definition": "they have died",
     "seeAlso": [
       "-x-ŁA-it"
+    ]
+  },
+  "k'ala": {
+    "root": "k'ala",
+    "partOfSpeech": "part",
+    "definition": "pack on back",
+    "examples": [
+      {
+        "kiksht": "K'al(a) ikixax.",
+        "english": "He is being packed."
+      },
+      {
+        "kiksht": "K'ala chiuxt.",
+        "english": "He is packing it[i-]."
+      },
+      {
+        "kiksht": "K'ala gashkux.",
+        "english": "They 2 packed it[a-]."
+      },
+      {
+        "kiksht": "K'ala gashgiux.",
+        "english": "They packed it[i-]. K'ala gachuxa ag̲agilak. \"They packed the woman way over here. [Dyk]"
+      },
+      {
+        "kiksht": "",
+        "english": "Aish k'ala ałgnuxa. \"They will just pack me on their back. [WTI.1c.5]"
+      }
     ]
   },
   "ka'as": {
