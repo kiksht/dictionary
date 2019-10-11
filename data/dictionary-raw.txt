@@ -13573,3 +13573,73 @@ See also: -sh-gm-SHKW’A-pa
 it-kmat’ayuchk [n] racing, race
 Forms: idiaxmat’ayuchk “his race; he is a racer” itgaxmat’ayuchgmax, itgaxmat’ayuchkmax “they are rac- ers” [Dyk]
 See also: it-gmat’ayuchkxat
+
+
+
+
+
+
+
+
+it-kmat¬q’ia [n] tools, utensils
+Forms: No singular form.
+See also: -TÒQ’IA-mit
+
+it-kmÅwacwamat [n] fruit
+Notes: General word for any kind of fruit. [GT 1/15/99]
+
+-kmÅwachwamat [adj] cooked for the table (of fruit)
+Examples: ikmawachwamat ilib ̈m “cooked apple” [HS]
+
+ish-kmÅwagwax [n] midwifery, doing midwifery
+Forms: ishgamÅwagwax “she is a midwife” [Dyk]
+See also: -sh-xm-WA-kw
+
+it-kmaxÅtgalit [n] advertising some- thing lost, asking to look out for something lost [Dyk], promises [GT, MMc 1/12/99]
+See also: -gma-xa-TGA-it
+
+i-kmaxemshkwt [n] being helpless, helplessness
+Forms: iyaxmaxemshkwt “he is help- less” [Dyk]
+See also: -gm-xm-SHKW
+
+i-kna’an [n] magpie
+Forms: iskna’an “2 magpies” itknÅ’anuksh “magpies” ayaknÅ’anix “place of magpies” [Dyk]
+See also: a-yakna’anix
+
+i¬-knaksh [n] reeds
+
+a-knˆm [n] canoe
+Forms: aknimmax “canoes” akxnim “my canoe”
+See also: i-knˆm, wa-t’ama
+
+i-knˆm [n] large dugout canoe
+See also: a-knˆm
+
+koshk [part] be empty handed (from fishing or hunting)
+Examples: Koshk indimam. “I re- turned empty-handed, without any- thing.” [PK 6/29/56]
+Pronunciation: This word is appar- ently unique among Wasco words in having a definite -o- sound which cannot be interchanged with -u-.
+
+-kristian [n] Christian
+Forms: ikristian “Christian man” akristian “Christian woman” [PK 6/ 28/57]
+Notes: Borrowed from English. The “r” is not normally a Wasco sound, but has likewise been borrowed from English.
+
+-ksalk’uc [n] vertebra
+Forms: iksalk’uc “vertebra” [singular only] aksalk’uc “vertebra, vertebrae; backbone” [either singular or plural] ikshalk’uc “large vertebra” ikshalguch “large, rough vertebra” [Dyk]
+
+a-ksg ̈cian [n] small sucker
+See also: a-ksguchyan
+
+a-ksguchyan [n] sucker-like fish
+Notes: A round (in what dimension?) fish with red mouth. Presumably the same as a-ksgucian, which HS trans- lated “small sucker.”
+See also: a-ksg ̈cian
+
+a-ksk’ ̈cian [n] adze
+See also: a-kshg ̈chian
+
+-KST [vb] be ripe, be mature, be done, be cooked
+See also: -KSDA
+Forms: alukstima “it[a-] will get done” igukst “it[a-] became done” ukstim “it[a-] is getting done” igukstˆmck “they[a-] became done (each, separately)” [Dyk] tgekst “they are ripe” yukst “it[i-] is done” ayuksda “it[i-] will be done” [PK 12/ 21/55, 6/15/56]
+Examples: Dukst chi idunayax? “Are the huckleberries ripe?” [GT, MMc] Kwaish ayuksta. “Soon it[i-] will be done.” A©a ukst. “Now it[a-] is done” A©a ¬uxwan ukst. “Now I think it[a-] is done.”
+
+-KSDA-mit [vb] cook
+Forms: achiuksdÅmida “he will cook it[i-]” chiuksdamit “he is coooking it[i-]” [Dyk]

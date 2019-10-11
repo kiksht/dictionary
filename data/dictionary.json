@@ -3559,6 +3559,77 @@
       "-GLA-qłq"
     ]
   },
+  "-KSDA-mit": {
+    "root": "-KSDA-mit",
+    "partOfSpeech": "vb",
+    "definition": "cook",
+    "forms": [
+      {
+        "kiksht": "achiuksdámida",
+        "english": "he will cook it[i-]"
+      },
+      {
+        "kiksht": "chiuksdamit",
+        "english": "he is coooking it[i-] [Dyk]"
+      }
+    ]
+  },
+  "-KST": {
+    "root": "-KST",
+    "partOfSpeech": "vb",
+    "definition": "be ripe, be mature, be done, be cooked",
+    "seeAlso": [
+      "-KSDA"
+    ],
+    "forms": [
+      {
+        "kiksht": "alukstima",
+        "english": "it[a-] will get done"
+      },
+      {
+        "kiksht": "igukst",
+        "english": "it[a-] became done"
+      },
+      {
+        "kiksht": "ukstim",
+        "english": "it[a-] is getting done"
+      },
+      {
+        "kiksht": "igukstímck",
+        "english": "they[a-] became done (each, separately) [Dyk]"
+      },
+      {
+        "kiksht": "tgekst",
+        "english": "they are ripe"
+      },
+      {
+        "kiksht": "yukst",
+        "english": "it[i-] is done"
+      },
+      {
+        "kiksht": "ayuksda",
+        "english": "it[i-] will be done [PK 12/ 21/55, 6/15/56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Dukst chi idunayax?",
+        "english": "Are the huckleberries ripe? [GT, MMc]"
+      },
+      {
+        "kiksht": "Kwaish ayuksta.",
+        "english": "Soon it[i-] will be done."
+      },
+      {
+        "kiksht": "Ag̲a ukst.",
+        "english": "Now it[a-] is done"
+      },
+      {
+        "kiksht": "Ag̲a łuxwan ukst.",
+        "english": "Now I think it[a-] is done."
+      }
+    ]
+  },
   "-KŁ": {
     "root": "-KŁ",
     "partOfSpeech": "vb",
@@ -6810,6 +6881,58 @@
       {
         "kiksht": "aklial",
         "english": "unmarried woman, old maid"
+      }
+    ]
+  },
+  "-kmáwachwamat": {
+    "root": "-kmáwachwamat",
+    "partOfSpeech": "adj",
+    "definition": "cooked for the table (of fruit)",
+    "examples": [
+      {
+        "kiksht": "ikmawachwamat ilibúm",
+        "english": "cooked apple [HS]"
+      }
+    ]
+  },
+  "-kristian": {
+    "root": "-kristian",
+    "partOfSpeech": "n",
+    "definition": "Christian",
+    "forms": [
+      {
+        "kiksht": "ikristian",
+        "english": "Christian man"
+      },
+      {
+        "kiksht": "akristian",
+        "english": "Christian woman [PK 6/ 28/57]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English. The \"r\" is not normally a Wasco sound, but has likewise been borrowed from English."
+    ]
+  },
+  "-ksalk'uc": {
+    "root": "-ksalk'uc",
+    "partOfSpeech": "n",
+    "definition": "vertebra",
+    "forms": [
+      {
+        "kiksht": "iksalk'uc",
+        "english": "vertebra [singular only]"
+      },
+      {
+        "kiksht": "aksalk'uc",
+        "english": "vertebra, vertebrae; backbone [either singular or plural]"
+      },
+      {
+        "kiksht": "ikshalk'uc",
+        "english": "large vertebra"
+      },
+      {
+        "kiksht": "ikshalguch",
+        "english": "large, rough vertebra [Dyk]"
       }
     ]
   },
@@ -12617,6 +12740,51 @@
     "root": "a-kmałait",
     "partOfSpeech": "n",
     "definition": "serious, sometimes fatal, variety of diarrhea"
+  },
+  "a-kním": {
+    "root": "a-kním",
+    "partOfSpeech": "n",
+    "definition": "canoe",
+    "forms": [
+      {
+        "kiksht": "aknimmax",
+        "english": "canoes"
+      },
+      {
+        "kiksht": "akxnim",
+        "english": "my canoe"
+      }
+    ],
+    "seeAlso": [
+      "i-kním, wa-t'ama"
+    ]
+  },
+  "a-ksguchyan": {
+    "root": "a-ksguchyan",
+    "partOfSpeech": "n",
+    "definition": "sucker-like fish",
+    "notes": [
+      "A round (in what dimension?) fish with red mouth. Presumably the same as a-ksgucian, which HS trans- lated \"small sucker.\""
+    ],
+    "seeAlso": [
+      "a-ksgúcian"
+    ]
+  },
+  "a-ksgúcian": {
+    "root": "a-ksgúcian",
+    "partOfSpeech": "n",
+    "definition": "small sucker",
+    "seeAlso": [
+      "a-ksguchyan"
+    ]
+  },
+  "a-ksk'úcian": {
+    "root": "a-ksk'úcian",
+    "partOfSpeech": "n",
+    "definition": "adze",
+    "seeAlso": [
+      "a-kshgúchian"
+    ]
   },
   "a-káas": {
     "root": "a-káas",
@@ -40471,6 +40639,20 @@
       "-i-gm-NA-pa"
     ]
   },
+  "i-kmaxemshkwt": {
+    "root": "i-kmaxemshkwt",
+    "partOfSpeech": "n",
+    "definition": "being helpless, helplessness",
+    "forms": [
+      {
+        "kiksht": "iyaxmaxemshkwt",
+        "english": "he is help- less [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gm-xm-SHKW"
+    ]
+  },
   "i-kmałuxwan": {
     "root": "i-kmałuxwan",
     "partOfSpeech": "n",
@@ -40487,6 +40669,36 @@
     ],
     "seeAlso": [
       "-ŁUXWA(N)"
+    ]
+  },
+  "i-kna'an": {
+    "root": "i-kna'an",
+    "partOfSpeech": "n",
+    "definition": "magpie",
+    "forms": [
+      {
+        "kiksht": "iskna'an",
+        "english": "2 magpies"
+      },
+      {
+        "kiksht": "itkná'anuksh",
+        "english": "magpies"
+      },
+      {
+        "kiksht": "ayakná'anix",
+        "english": "place of magpies [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-yakna'anix"
+    ]
+  },
+  "i-kním": {
+    "root": "i-kním",
+    "partOfSpeech": "n",
+    "definition": "large dugout canoe",
+    "seeAlso": [
+      "a-kním"
     ]
   },
   "i-kámusak": {
@@ -42756,6 +42968,20 @@
       "-sh-gm-SHKW'A-pa"
     ]
   },
+  "ish-kmáwagwax": {
+    "root": "ish-kmáwagwax",
+    "partOfSpeech": "n",
+    "definition": "midwifery, doing midwifery",
+    "forms": [
+      {
+        "kiksht": "ishgamáwagwax",
+        "english": "she is a midwife [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-sh-xm-WA-kw"
+    ]
+  },
   "ish-kányagwamat": {
     "root": "ish-kányagwamat",
     "partOfSpeech": "n",
@@ -44085,10 +44311,35 @@
       "it-gmat'ayuchkxat"
     ]
   },
+  "it-kmatłq'ia": {
+    "root": "it-kmatłq'ia",
+    "partOfSpeech": "n",
+    "definition": "tools, utensils",
+    "forms": [],
+    "seeAlso": [
+      "-TŁQ'IA-mit"
+    ]
+  },
+  "it-kmaxátgalit": {
+    "root": "it-kmaxátgalit",
+    "partOfSpeech": "n",
+    "definition": "advertising some- thing lost, asking to look out for something lost [Dyk], promises [GT, MMc 1/12/99]",
+    "seeAlso": [
+      "-gma-xa-TGA-it"
+    ]
+  },
   "it-kmái": {
     "root": "it-kmái",
     "partOfSpeech": "n",
     "definition": "land bank straight up and down [Dyk], bank (along a river) [HS 7/28/56], steep rock wall or rimrock [GT, MMc 6/4/98]"
+  },
+  "it-kmáwacwamat": {
+    "root": "it-kmáwacwamat",
+    "partOfSpeech": "n",
+    "definition": "fruit",
+    "notes": [
+      "General word for any kind of fruit. [GT 1/15/99]"
+    ]
   },
   "it-ká": {
     "root": "it-ká",
@@ -45351,6 +45602,11 @@
       "-ł-gm-ŁL-kw"
     ]
   },
+  "ił-knaksh": {
+    "root": "ił-knaksh",
+    "partOfSpeech": "n",
+    "definition": "reeds"
+  },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
     "partOfSpeech": "n",
@@ -46151,6 +46407,18 @@
     "seeAlso": [
       "wa-kmalalidix"
     ]
+  },
+  "koshk": {
+    "root": "koshk",
+    "partOfSpeech": "part",
+    "definition": "be empty handed (from fishing or hunting)",
+    "examples": [
+      {
+        "kiksht": "Koshk indimam.",
+        "english": "I re- turned empty-handed, without any- thing. [PK 6/29/56]"
+      }
+    ],
+    "pronunciation": "This word is appar- ently unique among Wasco words in having a definite -o- sound which cannot be interchanged with -u-."
   },
   "kwapt": {
     "root": "kwapt",
