@@ -7232,6 +7232,487 @@
       "Apparently refers mostly to shooting with bow and arrow."
     ]
   },
+  "-xa-IMA": {
+    "root": "-xa-IMA",
+    "partOfSpeech": "vb",
+    "definition": "lie down, go to bed, put down, lay down, put",
+    "forms": [
+      {
+        "kiksht": "with reflexive -x-: anxaimaya",
+        "english": "I'm going to bed [GT, MMc]"
+      },
+      {
+        "kiksht": "alixáimaya",
+        "english": "he will lie down"
+      },
+      {
+        "kiksht": "alixatxáimaya",
+        "english": "he will lie down (dis- tant future)"
+      },
+      {
+        "kiksht": "ixaimat",
+        "english": "he is lying down, he has himself laid down"
+      },
+      {
+        "kiksht": "ixáimanił",
+        "english": "he is laying himself down"
+      },
+      {
+        "kiksht": "kwaish enxáimanił",
+        "english": "right soon I am lying down"
+      },
+      {
+        "kiksht": "dika enxámanił",
+        "english": "I am lying down here"
+      },
+      {
+        "kiksht": "uxwaxaimat",
+        "english": "they are lying (together)"
+      },
+      {
+        "kiksht": "shexxaimat",
+        "english": "they 2 are laying about, have them- selves laid out"
+      },
+      {
+        "kiksht": "ixatxaimat",
+        "english": "he was lying"
+      },
+      {
+        "kiksht": "ixatxáimanił",
+        "english": "he was lying down, in process of lying down"
+      },
+      {
+        "kiksht": "enxatxaimat",
+        "english": "I had myself laid down, I was laying myself down"
+      },
+      {
+        "kiksht": "igixaima",
+        "english": "he lay down"
+      },
+      {
+        "kiksht": "igixámaniłchk",
+        "english": "he lay down (several times)"
+      },
+      {
+        "kiksht": "nalixáimaya",
+        "english": "he was lying down"
+      },
+      {
+        "kiksht": "nalixatxáimaya",
+        "english": "he was lying down (while coming this way)"
+      },
+      {
+        "kiksht": "nigixaima",
+        "english": "he lay (last season)"
+      },
+      {
+        "kiksht": "nigixáimenił",
+        "english": "he (usually) lay down (last season)"
+      },
+      {
+        "kiksht": "nigixámeniłchk",
+        "english": "he lay down (several times, last season)"
+      },
+      {
+        "kiksht": "nigixatxaima",
+        "english": "he lay (last week)"
+      },
+      {
+        "kiksht": "nigixatxáimenił",
+        "english": "he (usually) lay down (last week)"
+      },
+      {
+        "kiksht": "nigixatxáimeniłchk",
+        "english": "he lay down (several times, last week)"
+      },
+      {
+        "kiksht": "naxaima",
+        "english": "she was lying (long ago)"
+      },
+      {
+        "kiksht": "galixaima",
+        "english": "he lay down"
+      },
+      {
+        "kiksht": "with -l-",
+        "english": "in"
+      },
+      {
+        "kiksht": ": ichiałlxaima",
+        "english": "he put him in it (water)"
+      },
+      {
+        "kiksht": "ichiawixaima",
+        "english": "he put him in them, among them"
+      },
+      {
+        "kiksht": "nichailxaimaix",
+        "english": "he put her in it[i-] (a hole)"
+      },
+      {
+        "kiksht": "with reflexive -x- plus -l-",
+        "english": "in"
+      },
+      {
+        "kiksht": ": yaxałlxaimat",
+        "english": "he is lying in it"
+      },
+      {
+        "kiksht": "axałlxaimat",
+        "english": "she is lying in it"
+      },
+      {
+        "kiksht": "with -k-",
+        "english": "on"
+      },
+      {
+        "kiksht": ": aqiłkxaimaya",
+        "english": "someone will put him on it"
+      },
+      {
+        "kiksht": "achaigatxámayaxdix",
+        "english": "he will put her on it[i-] (a place)"
+      },
+      {
+        "kiksht": "giałkxaimnił",
+        "english": "she is putting him on it (fire)"
+      },
+      {
+        "kiksht": "ichiakxámagwa",
+        "english": "he put him past over her"
+      },
+      {
+        "kiksht": "gachałkxaima",
+        "english": "he put, laid her on it"
+      },
+      {
+        "kiksht": "gachiałkxaima",
+        "english": "he put, laid him on it (fire)"
+      },
+      {
+        "kiksht": "gachikxaima, gachikxaimax",
+        "english": "he let him go on it[i-] [Dyk]"
+      },
+      {
+        "kiksht": "with -x-",
+        "english": "on"
+      },
+      {
+        "kiksht": "(reflexive): ichemxxaima",
+        "english": "he put me on himself"
+      },
+      {
+        "kiksht": "iyaxxaima",
+        "english": "she put him on herself"
+      },
+      {
+        "kiksht": "shexxaimat",
+        "english": "they 2 are lying on each other"
+      },
+      {
+        "kiksht": "with reflexive -x- plus -k-",
+        "english": "on"
+      },
+      {
+        "kiksht": ": ixikxaimat",
+        "english": "he is lying on him [Dyk]"
+      },
+      {
+        "kiksht": "yuxugatxaimat",
+        "english": "he was lying on them"
+      },
+      {
+        "kiksht": "gayuxugatxaimat",
+        "english": "he lay on them [GT, MMc 1/15/99]"
+      },
+      {
+        "kiksht": "with -x-",
+        "english": "on edge of"
+      },
+      {
+        "kiksht": ": inyuxwaxaima",
+        "english": "I put it[i-] at the edge of them"
+      },
+      {
+        "kiksht": "niyamałgatxaima",
+        "english": "I put you at the edge of it (fire, water, rocks)"
+      },
+      {
+        "kiksht": "with reflexive -x- plus -x-",
+        "english": "on edge of"
+      },
+      {
+        "kiksht": ": yuxuxaxaimat",
+        "english": "he is lying on the edge of it (for instance, a cliff)"
+      },
+      {
+        "kiksht": "yuxuxatxaimat",
+        "english": "he was lying on the edge of it (for instance, a cliff)"
+      },
+      {
+        "kiksht": "yuxuxaxaima",
+        "english": "he lay at the edge of it"
+      },
+      {
+        "kiksht": "yuxuxatxaima",
+        "english": "he lay at the edge of it (over there)"
+      },
+      {
+        "kiksht": "igixixaimaix",
+        "english": "he lay at the edge of it[i-] (place, water, hole)"
+      },
+      {
+        "kiksht": "with -gl-",
+        "english": "for"
+      },
+      {
+        "kiksht": ": chiagelxaimat",
+        "english": "he is laying him down for her"
+      },
+      {
+        "kiksht": "igiagelxaima",
+        "english": "she laid him down for her"
+      },
+      {
+        "kiksht": "naniłgelxáimama",
+        "english": "I went to lay him down for them, it"
+      },
+      {
+        "kiksht": "naniagitxáimama",
+        "english": "I came to lay him down for her"
+      },
+      {
+        "kiksht": "with -xl-",
+        "english": "for"
+      },
+      {
+        "kiksht": "(reflexive)\": yamxelxaima",
+        "english": ""
+      },
+      {
+        "kiksht": ": yamxelxaima",
+        "english": "I put you for myself"
+      },
+      {
+        "kiksht": "yamtxelxaima",
+        "english": "I put you 2 for my- self"
+      },
+      {
+        "kiksht": "yamshxelxaima",
+        "english": "I put you folks for myself"
+      },
+      {
+        "kiksht": "iginxelxaima",
+        "english": "I put him for myself"
+      },
+      {
+        "kiksht": "iganxelxaima",
+        "english": "I put her for myself"
+      },
+      {
+        "kiksht": "iłnxelxaima",
+        "english": "I put it for myself"
+      },
+      {
+        "kiksht": "ishnxelxaima",
+        "english": "I put them 2 for myself"
+      },
+      {
+        "kiksht": "idnxelxaima",
+        "english": "I put them for myself"
+      },
+      {
+        "kiksht": "imnxelxaima",
+        "english": "you put me for yourself"
+      },
+      {
+        "kiksht": "igimxelxaima",
+        "english": "you put him for yourself"
+      },
+      {
+        "kiksht": "ichenxelxaima",
+        "english": "he put me for himself"
+      },
+      {
+        "kiksht": "igaixelxaima",
+        "english": "he put her for himself"
+      },
+      {
+        "kiksht": "igenxelxaima",
+        "english": "she put me for herself"
+      },
+      {
+        "kiksht": "igemxelxaima",
+        "english": "she put you for her- self"
+      },
+      {
+        "kiksht": "igaxelxaima",
+        "english": "she put her for herself"
+      },
+      {
+        "kiksht": "iłgenxelxaima",
+        "english": "it put me for itself"
+      },
+      {
+        "kiksht": "isgenxelxaima",
+        "english": "they 2 put me for themselves"
+      },
+      {
+        "kiksht": "iguxwaxixaima",
+        "english": "they put themselves for themselves; they put themselves for each other"
+      },
+      {
+        "kiksht": "with -sk'm-",
+        "english": "under"
+      },
+      {
+        "kiksht": ": iciask'emxaima",
+        "english": "he put it[i-] underneath something (as house, porch, stove—something with a space between it and the ground)"
+      },
+      {
+        "kiksht": "with -gm-",
+        "english": "beside"
+      },
+      {
+        "kiksht": ": ichaigemxaima",
+        "english": "he laid him close by her"
+      },
+      {
+        "kiksht": "ichaigemxaimaix",
+        "english": "he laid her close by, near it[i-] (place, wall, bluff)"
+      },
+      {
+        "kiksht": "ichagemgixaima",
+        "english": "he laid something close by her"
+      },
+      {
+        "kiksht": "igiagemxaima",
+        "english": "she laid him by her"
+      },
+      {
+        "kiksht": "naniagmatxáimama",
+        "english": "I came to lay him by her"
+      },
+      {
+        "kiksht": "with -xm-",
+        "english": "beside"
+      },
+      {
+        "kiksht": "(reflexive): ichenxemxaima",
+        "english": "he put me by him- self"
+      },
+      {
+        "kiksht": "ichtxemxaima",
+        "english": "he put us 2 beside each other"
+      },
+      {
+        "kiksht": "ichitxemxaima",
+        "english": "he put us 2 beside himself"
+      },
+      {
+        "kiksht": "ishdixemxaima, ishixemxaima",
+        "english": "he put them 2 beside himself"
+      },
+      {
+        "kiksht": "ichshxemxaima",
+        "english": "he put them 2 be- side each other"
+      },
+      {
+        "kiksht": "inshxemxaima",
+        "english": "I put them 2 beside each other"
+      },
+      {
+        "kiksht": "ixemgixaimat, ixaxemgixaimat",
+        "english": "he has laid something by himself, he has something lying beside himself (which he himself put there)"
+      },
+      {
+        "kiksht": "[PK says there is a slight difference be- tween these two, with the latter per- haps meaning:",
+        "english": "he put something beside his own place (rather than beside himself)]"
+      },
+      {
+        "kiksht": "uxemagixaimat",
+        "english": "they have something lying beside themselves"
+      },
+      {
+        "kiksht": "aixemxaimat",
+        "english": "he has her laying beside himself"
+      },
+      {
+        "kiksht": "uxmaxaimat",
+        "english": "they are lying beside each other; they have her lying be- side themselves"
+      },
+      {
+        "kiksht": "inxemxaimat",
+        "english": "I'm having him laid by me"
+      },
+      {
+        "kiksht": "ixaxmaxaimat",
+        "english": "he is laying himself by himself; he is lying side by side (as snakes lying side by side consid- ered or spoken of as one)"
+      },
+      {
+        "kiksht": "igixaxemgixaima",
+        "english": "he laid something beside himself"
+      },
+      {
+        "kiksht": "with reflexive -x- plus -gm-",
+        "english": "beside"
+      },
+      {
+        "kiksht": ": ixangemxaimat",
+        "english": "he is lying by me"
+      },
+      {
+        "kiksht": "ixangemxáimanił",
+        "english": "he is (in the pro- cess of) lying down by me"
+      },
+      {
+        "kiksht": "txangemxaimat",
+        "english": "they are lying by me"
+      },
+      {
+        "kiksht": "yaxagemxaimat",
+        "english": "he is lying by her"
+      },
+      {
+        "kiksht": "yaxagemxaima",
+        "english": "he lay by her [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gakłakxaima iłk'ashkash aknimba.",
+        "english": "She laid the child down in the canoe. [WTI.1a1]"
+      },
+      {
+        "kiksht": "Ag̲a nu igixaima.",
+        "english": "He was just going to lie down (and did)."
+      },
+      {
+        "kiksht": "Pu igixaima.",
+        "english": "He was just going to lie down, but didn't."
+      },
+      {
+        "kiksht": "Dika ganxáimanił.",
+        "english": "Here I habitually sleep."
+      },
+      {
+        "kiksht": "Ichiakxaima alashísh.",
+        "english": "He put him on the chair."
+      },
+      {
+        "kiksht": "Ichiagwaxaima alashishba.",
+        "english": "He put him on top of the chair."
+      },
+      {
+        "kiksht": "Daqł nandia nanxagemxáimaya.",
+        "english": "Yester- day I cam and lay by her. [Dyk]"
+      },
+      {
+        "kiksht": "Yuxugaxaimat idiapápakwn.",
+        "english": "He's lying on his paws. [GT, MMc 1/15/ 99]"
+      }
+    ]
+  },
   "-xa-xi-CHU": {
     "root": "-xa-xi-CHU",
     "partOfSpeech": "vb",
