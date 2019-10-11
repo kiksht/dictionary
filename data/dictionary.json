@@ -10606,6 +10606,31 @@
       "Borrowed from English."
     ]
   },
+  "Kiksht": {
+    "root": "Kiksht",
+    "partOfSpeech": "part",
+    "definition": "Wasco language",
+    "examples": [
+      {
+        "kiksht": "Kiksht wawa ayamuxa.",
+        "english": "I will speak Wasco with you. [GT, MMc]"
+      },
+      {
+        "kiksht": "Kiksht ixlp'alulal.",
+        "english": "He is talk- ing Kiksht."
+      },
+      {
+        "kiksht": "kiksht engi",
+        "english": "in Kiksht [Dyk]"
+      }
+    ],
+    "notes": [
+      "Does not take prefixes. Refers to Wasco, Wishram, Cascades and Clackamas dialects, which were all looked on as a single language."
+    ],
+    "seeAlso": [
+      "i-gikshtxul"
+    ]
+  },
   "Notes: Refers to oak of which igaben, digging stick, is made": {
     "root": "Notes: Refers to oak of which igaben, digging stick, is made",
     "partOfSpeech": "Notes: Refers to oak of which igaben, digging stick, is made",
@@ -11915,6 +11940,23 @@
       "-a-gl- G̲AYA"
     ]
   },
+  "a-kikal": {
+    "root": "a-kikal",
+    "partOfSpeech": "n",
+    "definition": "wife",
+    "forms": [
+      {
+        "kiksht": "ayákikal",
+        "english": "his wife [WTI.8.1]"
+      }
+    ],
+    "notes": [
+      "This is simply a variant form of a-gikal \"wife.\""
+    ],
+    "seeAlso": [
+      "-gikal"
+    ]
+  },
   "a-káas": {
     "root": "a-káas",
     "partOfSpeech": "n",
@@ -11941,6 +11983,20 @@
     ],
     "notes": [
       "Refers to the hole left at the top of a traditional dwelling for smoke from the cooking and heating fire to escape."
+    ]
+  },
+  "a-kílumnił": {
+    "root": "a-kílumnił",
+    "partOfSpeech": "n",
+    "definition": "shouting",
+    "forms": [
+      {
+        "kiksht": "ayaxílumnił",
+        "english": "he is one who shouts at people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-LUMA, -gi-LUMA"
     ]
   },
   "a-mulal": {
@@ -39507,6 +39563,28 @@
       "-gl-KIŁX̲, it-kigiłxalxat, i- kigiłxalmat"
     ]
   },
+  "i-kig̲walpk": {
+    "root": "i-kig̲walpk",
+    "partOfSpeech": "n",
+    "definition": "cooking underground",
+    "forms": [
+      {
+        "kiksht": "iyakig̲wálpk",
+        "english": "he is one who cooks underground [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a method of cooking in which hot ashes are spread in a pit; the ashes are covered with a layer of leaves and the food is then placed on top of the leaves and cov- ered over with earth until done."
+    ],
+    "seeAlso": [
+      "- G̲WA-pk, it-kig̲walpkxat, i-g̲apkwax"
+    ]
+  },
+  "i-kiłádachwamat": {
+    "root": "i-kiłádachwamat",
+    "partOfSpeech": "n",
+    "definition": "decorative yoke around horse's neck or shoulders"
+  },
   "i-kámusak": {
     "root": "i-kámusak",
     "partOfSpeech": "n",
@@ -39542,6 +39620,34 @@
     ],
     "seeAlso": [
       "i-k'idugwalal, it-k'idugwalal, -DU-kw"
+    ]
+  },
+  "i-kíkismagwadit": {
+    "root": "i-kíkismagwadit",
+    "partOfSpeech": "n",
+    "definition": "mesh-board for (making?) nets",
+    "notes": [
+      "A note reads \"Wa[sco?] only.\" PK gives a-lxłxmágwadit for \"mesh- board,\" labelling it \"Wishram.\""
+    ],
+    "seeAlso": [
+      "a-lxłxmágwadit"
+    ]
+  },
+  "i-kílgigwiat": {
+    "root": "i-kílgigwiat",
+    "partOfSpeech": "n",
+    "definition": "rug, mattress, mat, spread",
+    "forms": [
+      {
+        "kiksht": "itkílgigwiat",
+        "english": "rugs [Dyk]"
+      }
+    ],
+    "notes": [
+      "Can refer to anything you can spread out. [GT, MMc 6/4/98]"
+    ],
+    "seeAlso": [
+      "it-kilgigwyát, -LGWIA"
     ]
   },
   "iagluxtix": {
@@ -42793,6 +42899,25 @@
       "it-kigłxalmat"
     ]
   },
+  "it-kig̲walpkxat": {
+    "root": "it-kig̲walpkxat",
+    "partOfSpeech": "n",
+    "definition": "place of cooking underground",
+    "seeAlso": [
+      "- G̲WA-pk, i-kig̲walpk"
+    ]
+  },
+  "it-kilgigwyát": {
+    "root": "it-kilgigwyát",
+    "partOfSpeech": "n",
+    "definition": "small gift the mother of a new baby gives to each guest who comes [JeMc 8/24/52], mats or spreads that people might bring for a new baby, spread, quilt, blanket, rug",
+    "notes": [
+      "According to Gladys Thomp- son [1/12/99], this refers to some- thing spread out under something, such as bedding or flooring."
+    ],
+    "seeAlso": [
+      "i-kílgigwiat"
+    ]
+  },
   "it-ká": {
     "root": "it-ká",
     "partOfSpeech": "n",
@@ -42890,6 +43015,55 @@
     ],
     "seeAlso": [
       "i-shtámx"
+    ]
+  },
+  "it-kíkikwł": {
+    "root": "it-kíkikwł",
+    "partOfSpeech": "n",
+    "definition": "lunch",
+    "examples": [
+      {
+        "kiksht": "Dixlukwłt idiaxíkikwł.",
+        "english": "He is taking his lunch along. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Dyk specifies that this refers to \"lunch taken along,\" while Hiram Smith [7/27/56] defines it as \"any kind of lunch.\" Perhaps the word took on a more general meaning between the time Dyk wrote (early 1930s) and 1956. However, Gladys Thompson and Madeline McInturff [6/4/98] say this refers specifically to lunch or other meal packed along."
+    ],
+    "seeAlso": [
+      "-KWŁ"
+    ]
+  },
+  "it-kílalit": {
+    "root": "it-kílalit",
+    "partOfSpeech": "n",
+    "definition": "doctoring, functioning as Indian doctor",
+    "forms": [
+      {
+        "kiksht": "idiaxílalit",
+        "english": "his doctoring, his ability to doctor; he is an Indian doctor [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gi-LA-it, i-xílalidix"
+    ]
+  },
+  "it-kílimak": {
+    "root": "it-kílimak",
+    "partOfSpeech": "n",
+    "definition": "selling, sale",
+    "forms": [
+      {
+        "kiksht": "itt'ukti itkílimak",
+        "english": "a good sale"
+      },
+      {
+        "kiksht": "idiaxílimak",
+        "english": "his sale; he is a seller, a clerk [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kilimak"
     ]
   },
   "itgachaxelqwłimax akłmín": {
@@ -43913,6 +44087,17 @@
     "partOfSpeech": "n",
     "definition": "eddy [Frank Esterbrook 3/23/52], sound of flowing water [PK 7/24/56]"
   },
+  "ił-kikcham": {
+    "root": "ił-kikcham",
+    "partOfSpeech": "n",
+    "definition": "handkerchief [Dyk, PK 7/24/56], bandana [PK 7/24/56, HS 7/27/56]",
+    "forms": [
+      {
+        "kiksht": "itkikcham",
+        "english": "handkerchiefs [Dyk]"
+      }
+    ]
+  },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
     "partOfSpeech": "n",
@@ -44558,6 +44743,32 @@
       "kemkit"
     ]
   },
+  "kilimak": {
+    "root": "kilimak",
+    "partOfSpeech": "part",
+    "definition": "sell",
+    "examples": [
+      {
+        "kiksht": "Kilimak ikiax.",
+        "english": "It[i-] is being sold."
+      },
+      {
+        "kiksht": "Kilimak qiuxt.",
+        "english": "He is selling (as his job); one sells it[i-], it is sold."
+      },
+      {
+        "kiksht": "̨ak'ikilimak ikiax.",
+        "english": "He is selling himself."
+      },
+      {
+        "kiksht": "kilimak bama",
+        "english": "for sale [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-kílimak"
+    ]
+  },
   "kinwa": {
     "root": "kinwa",
     "partOfSpeech": "adv",
@@ -44627,6 +44838,11 @@
     "seeAlso": [
       "kánawi, shan"
     ]
+  },
+  "kílimakbama": {
+    "root": "kílimakbama",
+    "partOfSpeech": "adv",
+    "definition": "for sale"
   },
   "qengi": {
     "root": "qengi",
