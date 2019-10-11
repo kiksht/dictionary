@@ -5963,6 +5963,29 @@
       "i-shtámx"
     ]
   },
+  "-kawa": {
+    "root": "-kawa",
+    "partOfSpeech": "n",
+    "definition": "badger",
+    "forms": [
+      {
+        "kiksht": "ikawa",
+        "english": "(male) badger"
+      },
+      {
+        "kiksht": "akawa",
+        "english": "(female) badger akáwamax [Dyk], ikwayuksh [PK 8/24/56], itkawayuksh [RS 7/8/51, JT 7/9/51]"
+      },
+      {
+        "kiksht": "",
+        "english": "badgers"
+      },
+      {
+        "kiksht": "iłkawa",
+        "english": "small badger [Dyk]"
+      }
+    ]
+  },
   "-ki-CHKWA-mit": {
     "root": "-ki-CHKWA-mit",
     "partOfSpeech": "vb",
@@ -11586,6 +11609,28 @@
     "root": "a-kashat",
     "partOfSpeech": "n",
     "definition": "Indian hemp"
+  },
+  "a-katł'ipx": {
+    "root": "a-katł'ipx",
+    "partOfSpeech": "n",
+    "definition": "foreskin, pulling one's foreskin back",
+    "notes": [
+      "Dyk gives both meanings given above, on different cards."
+    ],
+    "seeAlso": [
+      "-a-k-TŁ'I-pa"
+    ]
+  },
+  "a-katłam": {
+    "root": "a-katłam",
+    "partOfSpeech": "n",
+    "definition": "tumpline",
+    "forms": [
+      {
+        "kiksht": "itkatłam",
+        "english": "tumplines [PK]"
+      }
+    ]
   },
   "a-kaładagwax": {
     "root": "a-kaładagwax",
@@ -39014,6 +39059,99 @@
       "i-kásyaixat"
     ]
   },
+  "i-kasht'x": {
+    "root": "i-kasht'x",
+    "partOfSpeech": "n",
+    "definition": "impotent (from age)"
+  },
+  "i-katichk": {
+    "root": "i-katichk",
+    "partOfSpeech": "n",
+    "definition": "slice of dried salmon",
+    "forms": [
+      {
+        "kiksht": "iłkatichk",
+        "english": "slices of dried salmon [Dyk]"
+      }
+    ]
+  },
+  "i-katk'ig̲wamat": {
+    "root": "i-katk'ig̲wamat",
+    "partOfSpeech": "n",
+    "definition": "cover, blanket, quilt",
+    "forms": [
+      {
+        "kiksht": "iłk'atk'íg̲wamat",
+        "english": "cover, blan- ket (for sleeping) [HS 7/23/56]"
+      },
+      {
+        "kiksht": "itkatk'ig̲wamat",
+        "english": "blankets, quilts; bed [HS 7/23/56]; covers [Dyk]"
+      },
+      {
+        "kiksht": "itkatk'ig̲wamatmax",
+        "english": "covers (sepa- rately) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-TK'I-qw, i-kak'itgilqł"
+    ]
+  },
+  "i-katk'ilqł": {
+    "root": "i-katk'ilqł",
+    "partOfSpeech": "n",
+    "definition": "covering",
+    "forms": [
+      {
+        "kiksht": "iyaxatk'ilqł",
+        "english": "he is a coverer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-TK'I-qw, i-katk'ig̲wamat"
+    ]
+  },
+  "i-katxwit": {
+    "root": "i-katxwit",
+    "partOfSpeech": "n",
+    "definition": "standing",
+    "forms": [
+      {
+        "kiksht": "icaxatxwit",
+        "english": "her standing"
+      },
+      {
+        "kiksht": "yaxatxwit",
+        "english": "his standing [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "ikatxwit bama",
+        "english": "something for standing on"
+      },
+      {
+        "kiksht": "Enxaxatxwit inxux.",
+        "english": "I stepped on myself. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-tx(wi)-it"
+    ]
+  },
+  "i-katłxaq": {
+    "root": "i-katłxaq",
+    "partOfSpeech": "n",
+    "definition": "doing regardless",
+    "seeAlso": [
+      "-k-TŁXA-qw"
+    ]
+  },
+  "i-kauxau": {
+    "root": "i-kauxau",
+    "partOfSpeech": "n",
+    "definition": "owl"
+  },
   "i-kałalit": {
     "root": "i-kałalit",
     "partOfSpeech": "n",
@@ -41136,6 +41274,17 @@
       "Meeting with ghosts is be- lieved to cause a paralysis of the mouth that leaves it twisted to one side."
     ]
   },
+  "ish-katuksh": {
+    "root": "ish-katuksh",
+    "partOfSpeech": "n",
+    "definition": "sucking",
+    "forms": [
+      {
+        "kiksht": "ishyaxatuksh",
+        "english": "he is one who sucks [Dyk]"
+      }
+    ]
+  },
   "ish-kałlámadix": {
     "root": "ish-kałlámadix",
     "partOfSpeech": "n",
@@ -42168,6 +42317,20 @@
     "definition": "toilet",
     "seeAlso": [
       "-q'i-CHXA"
+    ]
+  },
+  "it-kaxai'ik'": {
+    "root": "it-kaxai'ik'",
+    "partOfSpeech": "n",
+    "definition": "being dissatisfied, wanting more, dissatisfaction",
+    "forms": [
+      {
+        "kiksht": "idiaxaxai'ik'",
+        "english": "he is one who is always dissatisfied [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-u-k'-XAYU-kw"
     ]
   },
   "it-kałagwax": {
@@ -43273,6 +43436,51 @@
       "Women wore their hair unbraided during the mourning period for a deceased husband, hence their braiding of their hair when receiving clean clothes at the end of the mourning period served to mark their end to mourning. A bride, also, braided her hair for the wed- ding. Hence the derived meanings given above."
     ]
   },
+  "ił-katgilqł": {
+    "root": "ił-katgilqł",
+    "partOfSpeech": "n",
+    "definition": "covering (as with dirt)",
+    "forms": [
+      {
+        "kiksht": "iłyaxatgilqł",
+        "english": "he is a coverer [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "iłkatgilqł bama",
+        "english": "for cover- ing (for instance, a shovel) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-TK'I-qw, ił-katgílqłxat"
+    ]
+  },
+  "ił-katgílqłxat": {
+    "root": "ił-katgílqłxat",
+    "partOfSpeech": "n",
+    "definition": "cover (of dirt, etc.)",
+    "forms": [
+      {
+        "kiksht": "iłkatgílqłxatmax",
+        "english": "covers or hills on a garden (in various places) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-TK'I-qw, ił-katgilqł"
+    ]
+  },
+  "ił-katichk": {
+    "root": "ił-katichk",
+    "partOfSpeech": "n",
+    "definition": "dried salmon slice",
+    "notes": [
+      "Refers to a dried slice of salmon without slits in it. A side of dried salmon with slits (from stakes) is wa-g̲washt."
+    ],
+    "seeAlso": [
+      "wa-g̲washt, i-sk'imks"
+    ]
+  },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
     "partOfSpeech": "n",
@@ -43293,6 +43501,20 @@
     ],
     "seeAlso": [
       "-ł-k-TŁQ"
+    ]
+  },
+  "ił-kátłq": {
+    "root": "ił-kátłq",
+    "partOfSpeech": "n",
+    "definition": "finishing",
+    "forms": [
+      {
+        "kiksht": "iłiaxátłq",
+        "english": "his finishing; he is the finisher; his finishing work [HS 7/26/56]"
+      }
+    ],
+    "seeAlso": [
+      "-ł-KTŁQ"
     ]
   },
   "iłac'imam iłk'ílagwadit": {
@@ -43824,6 +44046,55 @@
     ],
     "seeAlso": [
       "kanawi"
+    ]
+  },
+  "kashtxu": {
+    "root": "kashtxu",
+    "partOfSpeech": "adv",
+    "definition": "a certain amount, somewhat",
+    "examples": [
+      {
+        "kiksht": "Kashtxu imigikshtxul.",
+        "english": "You can speak some kiksht."
+      },
+      {
+        "kiksht": "Kashtxu ag̲a yadumt tł'ax nyuxt.",
+        "english": "He is pretty tall, but I'm taller. [Dyk]"
+      }
+    ]
+  },
+  "katkadmax": {
+    "root": "katkadmax",
+    "partOfSpeech": "adv",
+    "definition": "separately [Dyk], every now and then [WTII.7.1]",
+    "examples": [
+      {
+        "kiksht": "Katkadmax shtuit.",
+        "english": "They 2 are going separately. [Dyk]"
+      },
+      {
+        "kiksht": "Katkadmax ługwak'ánq iłchqwá.",
+        "english": "Ev- ery now and then the water comes up in time to use them (literally, 'fits them') [fishing-scaffolds]. [WTII.7.1]"
+      }
+    ]
+  },
+  "kauxkaux": {
+    "root": "kauxkaux",
+    "partOfSpeech": "part",
+    "definition": "cream-colored, buckskin-colored",
+    "notes": [
+      "Refers particularly to horses. Borrowed from Sahaptin."
+    ]
+  },
+  "kawach'ayaxa": {
+    "root": "kawach'ayaxa",
+    "partOfSpeech": "conj",
+    "definition": "but yet",
+    "examples": [
+      {
+        "kiksht": "Kashtxu ag̲a yadumt kawach'ayaxa tł'ax nyuxt.",
+        "english": "He is pretty tall but yet I am taller. [Dyk]"
+      }
     ]
   },
   "kinwa": {
