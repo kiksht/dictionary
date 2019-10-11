@@ -13444,3 +13444,53 @@ Notes: Borrowed from English.
 k¬ [part] interlock
 Examples: K¬ gashguxix itshtapiq. “They 2 interlocked their wings.” [WTI.2.24]
 See also: aikwÅ¬
+
+
+
+
+
+
+
+
+-KÒ [vb] take, take away, take along, carry, bring
+Forms: ayamukw¬a “I will take you” achiukw¬a “he will take him” nudkw¬t, en¬ukw¬t “I am taking them” chiukwu¬t “he is taking him (away)” ichn ̈kw¬ “he took me away” ichm ̈kw¬ “he took you away” ichi ̈kw¬, ichy ̈kw¬ “he took him away” ich ̈kw¬ “he took her away” icht ̈kw¬ “he took them away” nach¬ukw¬a “he took it” nichi ̈kw¬ “he took him away” gachukw¬a “he took her” gachiukw¬ “he took him” gagukw¬a “she took her” ixtk’ikw¬t “he is taking (something) this way” ik’ikw¬t “he is taking (something) away” yukw¬ix “he has been taken away” nichiukw¬Åm “he brought him there” gach¬uk¬am “he arrived there bringing it” [Dyk] ga¬ksuk¬am “they 2 arrived home with it, they brought it home” [WTI.1a2] with -l- “to”: amniluk¬a “you will take me to him” endal ̈kw¬ “I am taking them to her” inailukw¬ “I took her to him” inilukw¬ “I took him to him” ganailukw¬ “I took her to him” gachdalukw¬ “he took them to her” gaqailukw¬ “one took her to him, she was taken to him” gaqa¬lukw¬ “one took her to them, she was taken to them” [Dyk]
+Examples: Ichtukw¬ ikxalal itxwtlit. “The wind took the smoke off, the smoke is flying.” Gach¬ukw¬ i¬chqwa itqw¬iyamt. “He took water to the house.” K’ala aish gashkux gashkukw¬. “They 2 were forced to take her away on their backs.” Dixlukw¬t idiaxˆkikw¬. “He is taking his lunch away.” [Dyk] Aknˆm chukw¬t. “He’s taking a skiff, a small boat.” [HS 7/2/56]
+See also: -KWÒ
+
+i-k¬ama¬ [n] lake people, Klamath
+Notes: Possibly a “Wascoized” ver- sion of English “Klamath,” which is an anglicized version of Wasco it¬ama¬.
+See also: it- -ma¬
+
+-KÒI [vb] be stretched
+Examples: Alxmuya i¬ipaq ¬uk¬ˆt i¬chqwaba. “We will wrestle on a rope stretched out across the water.” [WTI.4.16]
+
+k¬udlk [vb] she is putting them away
+See also: -TK
+
+k¬uxt [vb] it[a-] is doing them
+Examples: Walu k¬uxt. “They are hungry.” (Literally “hunger is doing them.”) [Spilyay/Going Hunting]
+See also: - ̨
+
+k¬uyam [vb] he[i¬-] goes
+Examples: bama naqi chxa k¬uyam “in order that he[i¬-] might not drown” [WTII.7.1]
+
+i-kmagapx [n] working, work, job
+Forms: ikmagabexmax “(different) jobs” iyaxmagapx “his work, job; he is a worker” idaxmagapx “they are workers” yaxmagapx ikala “working man” enxaxmagapx “I am self-work- ing, work on myself, on my clothes (while they are on me)” [Dyk]
+Examples: i¬gwa¬ilx i¬axmagapx “working person, worker” [WTII.7.1] IkmagÅpx iqikux. “For working he was blamed, fired.” Enxaxmagapx anxuxa. “I will work on myself.” [Dyk]
+See also: -xm-GA-pa
+
+it-kmÅi [n] land bank straight up and down [Dyk], bank (along a river) [HS 7/28/56], steep rock wall or rimrock [GT, MMc 6/4/98]
+
+i-kmakan [n] anger
+Forms: ichaxmakan “she is an angry one, one who is habitually angry, mean” [Dyk]
+Examples: Ikmakan wa’au gachiux. “He got angrier.” [Dyk]
+
+it-kmakitk [n] betting
+See also: -gm-gi-TK
+
+it-kmak’aq [n] being fit for a job
+Examples: Itkmak’aq iguxax. “They were fit for the job and accepted.” [Dyk]
+See also: -i-gm-K’A-qw, -n-K’A-qw
+
+i-kmak’ikw¬imat [n] something to measure by or with
+See also: -gm-KWÒI

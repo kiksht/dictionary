@@ -3559,6 +3559,165 @@
       "-GLA-qłq"
     ]
   },
+  "-KŁ": {
+    "root": "-KŁ",
+    "partOfSpeech": "vb",
+    "definition": "take, take away, take along, carry, bring",
+    "forms": [
+      {
+        "kiksht": "ayamukwła",
+        "english": "I will take you"
+      },
+      {
+        "kiksht": "achiukwła",
+        "english": "he will take him"
+      },
+      {
+        "kiksht": "nudkwłt, enłukwłt",
+        "english": "I am taking them"
+      },
+      {
+        "kiksht": "chiukwułt",
+        "english": "he is taking him (away)"
+      },
+      {
+        "kiksht": "ichnúkwł",
+        "english": "he took me away"
+      },
+      {
+        "kiksht": "ichmúkwł",
+        "english": "he took you away"
+      },
+      {
+        "kiksht": "ichiúkwł, ichyúkwł",
+        "english": "he took him away"
+      },
+      {
+        "kiksht": "ichúkwł",
+        "english": "he took her away"
+      },
+      {
+        "kiksht": "ichtúkwł",
+        "english": "he took them away"
+      },
+      {
+        "kiksht": "nachłukwła",
+        "english": "he took it"
+      },
+      {
+        "kiksht": "nichiúkwł",
+        "english": "he took him away"
+      },
+      {
+        "kiksht": "gachukwła",
+        "english": "he took her"
+      },
+      {
+        "kiksht": "gachiukwł",
+        "english": "he took him"
+      },
+      {
+        "kiksht": "gagukwła",
+        "english": "she took her"
+      },
+      {
+        "kiksht": "ixtk'ikwłt",
+        "english": "he is taking (something) this way"
+      },
+      {
+        "kiksht": "ik'ikwłt",
+        "english": "he is taking (something) away"
+      },
+      {
+        "kiksht": "yukwłix",
+        "english": "he has been taken away"
+      },
+      {
+        "kiksht": "nichiukwłám",
+        "english": "he brought him there"
+      },
+      {
+        "kiksht": "gachłukłam",
+        "english": "he arrived there bringing it [Dyk]"
+      },
+      {
+        "kiksht": "gałksukłam",
+        "english": "they 2 arrived home with it, they brought it home [WTI.1a2]"
+      },
+      {
+        "kiksht": "with -l-",
+        "english": "to"
+      },
+      {
+        "kiksht": ": amnilukła",
+        "english": "you will take me to him"
+      },
+      {
+        "kiksht": "endalúkwł",
+        "english": "I am taking them to her"
+      },
+      {
+        "kiksht": "inailukwł",
+        "english": "I took her to him"
+      },
+      {
+        "kiksht": "inilukwł",
+        "english": "I took him to him"
+      },
+      {
+        "kiksht": "ganailukwł",
+        "english": "I took her to him"
+      },
+      {
+        "kiksht": "gachdalukwł",
+        "english": "he took them to her"
+      },
+      {
+        "kiksht": "gaqailukwł",
+        "english": "one took her to him, she was taken to him"
+      },
+      {
+        "kiksht": "gaqałlukwł",
+        "english": "one took her to them, she was taken to them [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ichtukwł ikxalal itxwtlit.",
+        "english": "The wind took the smoke off, the smoke is flying."
+      },
+      {
+        "kiksht": "Gachłukwł iłchqwa itqwłiyamt.",
+        "english": "He took water to the house."
+      },
+      {
+        "kiksht": "K'ala aish gashkux gashkukwł.",
+        "english": "They 2 were forced to take her away on their backs."
+      },
+      {
+        "kiksht": "Dixlukwłt idiaxíkikwł.",
+        "english": "He is taking his lunch away. [Dyk]"
+      },
+      {
+        "kiksht": "Akním chukwłt.",
+        "english": "He's taking a skiff, a small boat. [HS 7/2/56]"
+      }
+    ],
+    "seeAlso": [
+      "-KWŁ"
+    ]
+  },
+  "-KŁI": {
+    "root": "-KŁI",
+    "partOfSpeech": "vb",
+    "definition": "be stretched",
+    "examples": [
+      {
+        "kiksht": "Alxmuya iłipaq łukłít iłchqwaba.",
+        "english": "We will wrestle on a rope stretched out across the water. [WTI.4.16]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -40176,6 +40335,75 @@
     "partOfSpeech": "n",
     "definition": "decorative yoke around horse's neck or shoulders"
   },
+  "i-kmagapx": {
+    "root": "i-kmagapx",
+    "partOfSpeech": "n",
+    "definition": "working, work, job",
+    "forms": [
+      {
+        "kiksht": "ikmagabexmax",
+        "english": "(different) jobs"
+      },
+      {
+        "kiksht": "iyaxmagapx",
+        "english": "his work, job; he is a worker"
+      },
+      {
+        "kiksht": "idaxmagapx",
+        "english": "they are workers"
+      },
+      {
+        "kiksht": "yaxmagapx ikala",
+        "english": "working man"
+      },
+      {
+        "kiksht": "enxaxmagapx",
+        "english": "I am self-work- ing, work on myself, on my clothes (while they are on me) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "iłgwałilx iłaxmagapx",
+        "english": "working person, worker [WTII.7.1]"
+      },
+      {
+        "kiksht": "Ikmagápx iqikux.",
+        "english": "For working he was blamed, fired."
+      },
+      {
+        "kiksht": "Enxaxmagapx anxuxa.",
+        "english": "I will work on myself. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-xm-GA-pa"
+    ]
+  },
+  "i-kmak'ikwłimat": {
+    "root": "i-kmak'ikwłimat",
+    "partOfSpeech": "n",
+    "definition": "something to measure by or with",
+    "seeAlso": [
+      "-gm-KWŁI"
+    ]
+  },
+  "i-kmakan": {
+    "root": "i-kmakan",
+    "partOfSpeech": "n",
+    "definition": "anger",
+    "forms": [
+      {
+        "kiksht": "ichaxmakan",
+        "english": "she is an angry one, one who is habitually angry, mean [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ikmakan wa'au gachiux.",
+        "english": "He got angrier. [Dyk]"
+      }
+    ]
+  },
   "i-kámusak": {
     "root": "i-kámusak",
     "partOfSpeech": "n",
@@ -40264,6 +40492,17 @@
         "kiksht": "itkíudanyuksh",
         "english": "horses [anamalous plural forms: idkíudaniksh, tkiudaniksh, WTIV.2.3; itkiúdaniksh, WTIV.2.8]"
       }
+    ]
+  },
+  "i-kłamał": {
+    "root": "i-kłamał",
+    "partOfSpeech": "n",
+    "definition": "lake people, Klamath",
+    "notes": [
+      "Possibly a \"Wascoized\" ver- sion of English \"Klamath,\" which is an anglicized version of Wasco itłamał."
+    ],
+    "seeAlso": [
+      "it- -mał"
     ]
   },
   "iagluxtix": {
@@ -43605,6 +43844,33 @@
       "-gn-X̲UTIN"
     ]
   },
+  "it-kmak'aq": {
+    "root": "it-kmak'aq",
+    "partOfSpeech": "n",
+    "definition": "being fit for a job",
+    "examples": [
+      {
+        "kiksht": "Itkmak'aq iguxax.",
+        "english": "They were fit for the job and accepted. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-i-gm-K'A-qw, -n-K'A-qw"
+    ]
+  },
+  "it-kmakitk": {
+    "root": "it-kmakitk",
+    "partOfSpeech": "n",
+    "definition": "betting",
+    "seeAlso": [
+      "-gm-gi-TK"
+    ]
+  },
+  "it-kmái": {
+    "root": "it-kmái",
+    "partOfSpeech": "n",
+    "definition": "land bank straight up and down [Dyk], bank (along a river) [HS 7/28/56], steep rock wall or rimrock [GT, MMc 6/4/98]"
+  },
   "it-ká": {
     "root": "it-ká",
     "partOfSpeech": "n",
@@ -45728,6 +45994,43 @@
     ],
     "seeAlso": [
       "aikwáł"
+    ]
+  },
+  "kłudlk": {
+    "root": "kłudlk",
+    "partOfSpeech": "vb",
+    "definition": "she is putting them away",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "kłuxt": {
+    "root": "kłuxt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is doing them",
+    "examples": [
+      {
+        "kiksht": "Walu kłuxt.",
+        "english": "They are hungry."
+      },
+      {
+        "kiksht": "(Literally",
+        "english": "hunger is doing them.) [Spilyay/Going Hunting]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "kłuyam": {
+    "root": "kłuyam",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] goes",
+    "examples": [
+      {
+        "kiksht": "bama naqi chxa kłuyam",
+        "english": "in order that he[ił-] might not drown [WTII.7.1]"
+      }
     ]
   },
   "qengi": {
