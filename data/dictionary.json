@@ -3267,6 +3267,20 @@
       }
     ]
   },
+  "-KAX̲AX̲": {
+    "root": "-KAX̲AX̲",
+    "partOfSpeech": "vb",
+    "definition": "be",
+    "forms": [
+      {
+        "kiksht": "mshkaxax",
+        "english": "you folks are [WTI.13.1]"
+      }
+    ],
+    "seeAlso": [
+      "-KIAX̲, -KIX̲AX̲"
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -5983,6 +5997,77 @@
       {
         "kiksht": "iłkawa",
         "english": "small badger [Dyk]"
+      }
+    ]
+  },
+  "-kaxdau": {
+    "root": "-kaxdau",
+    "partOfSpeech": "pron",
+    "definition": "same",
+    "examples": [
+      {
+        "kiksht": "Galaxux ashmudmud akaxdau łqusht ayak'ish iq'álalash.",
+        "english": "That same paternal grandmother of Raccoon, in truth, had become Pheas- ant. [WTI.17.12]"
+      }
+    ]
+  },
+  "-kemkit": {
+    "root": "-kemkit",
+    "partOfSpeech": "n",
+    "definition": "end",
+    "forms": [
+      {
+        "kiksht": "ikemkit",
+        "english": "first or last male in a family"
+      },
+      {
+        "kiksht": "ishkemkitmax",
+        "english": "the two, the first and the last, at the end; the two at either end"
+      },
+      {
+        "kiksht": "kemkiudmax",
+        "english": "at the ends, as of a line or road [Dyk] kemxiudmax [WTII.10.2]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Kemkitba yuxt.",
+        "english": "He is sitting on the end."
+      },
+      {
+        "kiksht": "Kemkídixba yuxt.",
+        "english": "He is sitting on the end of a place."
+      },
+      {
+        "kiksht": "Kemkit emtxwít!",
+        "english": "Stand at the end!"
+      },
+      {
+        "kiksht": "Yakemkit init!",
+        "english": "Give me its end!"
+      },
+      {
+        "kiksht": "Kemkidmax łnít!",
+        "english": "Give me the ends!"
+      },
+      {
+        "kiksht": "Kemkiudmax k'auk'au uxwíx!",
+        "english": "Tie the ends! [Dyk]"
+      },
+      {
+        "kiksht": "Kwapt gagiug̲wílilqłchk iyagechyamt nawít kemkit ayaichba.",
+        "english": "Then she whipped him from his nose to the end of his tail. [Raccoon I]"
+      }
+    ]
+  },
+  "-kemxem": {
+    "root": "-kemxem",
+    "partOfSpeech": "n",
+    "definition": "ashes",
+    "forms": [
+      {
+        "kiksht": "(w)akemxem, iłkemxem",
+        "english": "ashes [Dyk; GT, MMc 6/4/98 say both these forms are equivalent in meaning]"
       }
     ]
   },
@@ -39152,6 +39237,60 @@
     "partOfSpeech": "n",
     "definition": "owl"
   },
+  "i-kaxichx": {
+    "root": "i-kaxichx",
+    "partOfSpeech": "n",
+    "definition": "discussion, council [HS 7/26/56], court [Dyk, HS 7/26/56], trial, case [Dyk], meeting [Wasco Conversation 11]",
+    "forms": [
+      {
+        "kiksht": "iyaxaxíchx",
+        "english": "(male) member of court, councilperson; his case"
+      },
+      {
+        "kiksht": "ichaxaxichx",
+        "english": "(female) member of court, councilperson; her case"
+      },
+      {
+        "kiksht": "iyat'uxwaxichx",
+        "english": "he is a good talker- over of things (for instance, a good lawyer)"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ikaxichx alixuxa.",
+        "english": "There's going to be a council meeting. [Dyk]"
+      },
+      {
+        "kiksht": "Enxelchemlit ikaxichx ikiax Simnasho-ba dauya chushdix.",
+        "english": "I hear there's a meeting in Simnasho this evening. [Wasco Conversation 11]"
+      }
+    ],
+    "seeAlso": [
+      "-k-xi-CHU, -xa-xi-CHU"
+    ]
+  },
+  "i-kaxnaq": {
+    "root": "i-kaxnaq",
+    "partOfSpeech": "n",
+    "definition": "chokecherry tree",
+    "seeAlso": [
+      "a-k'axan, i-káxnag̲lit"
+    ]
+  },
+  "i-kayuqwdit": {
+    "root": "i-kayuqwdit",
+    "partOfSpeech": "n",
+    "definition": "rafter",
+    "forms": [
+      {
+        "kiksht": "iłkayuqwdit",
+        "english": "rafters [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers either to small poles in traditional houses which took the place of rafters, or to rafters in an Anglo-type building."
+    ]
+  },
   "i-kałalit": {
     "root": "i-kałalit",
     "partOfSpeech": "n",
@@ -39188,6 +39327,14 @@
     "definition": "something to sit on, hide used for a saddle",
     "seeAlso": [
       "-ŁA-it, i-kałalit, it-kałálidmat"
+    ]
+  },
+  "i-keskessá": {
+    "root": "i-keskessá",
+    "partOfSpeech": "n",
+    "definition": "soft growth out of dead cottonwoods [SB], mushroom that grows on dead trees [GT 6/5/98]",
+    "notes": [
+      "Borrowed from Sahaptin"
     ]
   },
   "i-kámusak": {
@@ -41335,6 +41482,17 @@
       "-sh-i-k-ŁM-nił-ix"
     ]
   },
+  "ish-kí": {
+    "root": "ish-kí",
+    "partOfSpeech": "n",
+    "definition": "paddle",
+    "forms": [
+      {
+        "kiksht": "iłshkí, iłshkimax",
+        "english": "paddles [GT, MMc 1/12/99]"
+      }
+    ]
+  },
   "ish-íxtksh": {
     "root": "ish-íxtksh",
     "partOfSpeech": "n",
@@ -42331,6 +42489,22 @@
     ],
     "seeAlso": [
       "-u-k'-XAYU-kw"
+    ]
+  },
+  "it-kaxáimanił": {
+    "root": "it-kaxáimanił",
+    "partOfSpeech": "n",
+    "definition": "carrying out the power testing ceremony",
+    "notes": [
+      "See -x-xa-IMA-nił for a de- scription of the ceremony referred to by this word."
+    ]
+  },
+  "it-kaxáwaxachkwt": {
+    "root": "it-kaxáwaxachkwt",
+    "partOfSpeech": "n",
+    "definition": "singing to pass the time",
+    "seeAlso": [
+      "-t-xá-WAX̲A-chkw"
     ]
   },
   "it-kałagwax": {
@@ -44097,6 +44271,35 @@
       }
     ]
   },
+  "kegáu": {
+    "root": "kegáu",
+    "partOfSpeech": "part",
+    "definition": "worry, bewail, lament, miss",
+    "examples": [
+      {
+        "kiksht": "Kegáu ixigúxt.",
+        "english": "He bewails something that he has lost; he is stressed out about it, misses it. [GT 6/4/98]"
+      },
+      {
+        "kiksht": "Kegáu ixiguxt iyakishatk.",
+        "english": "He bewails something of his lost; he bewails his past lovemaking. [Dyk] See also: i-k'ikgau"
+      }
+    ]
+  },
+  "kemxiudmax": {
+    "root": "kemxiudmax",
+    "partOfSpeech": "adv",
+    "definition": "at the ends",
+    "examples": [
+      {
+        "kiksht": "iłganałxat kemxíudmax",
+        "english": "at the ends of my hair [WTII.10.2]"
+      }
+    ],
+    "seeAlso": [
+      "kemkit"
+    ]
+  },
   "kinwa": {
     "root": "kinwa",
     "partOfSpeech": "adv",
@@ -44560,6 +44763,20 @@
     ],
     "seeAlso": [
       "-k'askas"
+    ]
+  },
+  "wa-kénksh": {
+    "root": "wa-kénksh",
+    "partOfSpeech": "n",
+    "definition": "rush, reed",
+    "forms": [
+      {
+        "kiksht": "iłkénksh",
+        "english": "rushes [Dyk]"
+      }
+    ],
+    "notes": [
+      "May refer either to reeds in a natural state or to a split reed used for a knife."
     ]
   },
   "wi-'ísh": {
