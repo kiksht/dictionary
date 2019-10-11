@@ -12754,3 +12754,72 @@ See also: -a-k-ÒADA-kw
 
 it-ka¬agwax [n] mountains, berry patches
 Notes: Dell Hymes gives this in the sense “berry patches.” Gladys Th- ompson and Madeline McInturff use it for “mountains.” Compare in Sahaptin the contemporary use of Xatiwaaptkˆ, which originally re- ferred to a berry patch on the slopes of Mt. Jefferson, as a name for Mt. Jefferson itself.
+
+
+
+
+
+
+it-ka¬agwax [n] huckleberry patch, huckleberry grounds
+Forms: itka¬agwamax “huckleberry patches” ichaxa¬agwaxix “she has been to the huckleberry grounds” [Dyk] ityaxa¬agwax “August” [PK 8/23/55]
+Examples: ItkÅ¬agwax alxuya. “We will go to the mountains, to the huck- leberry grounds.” [PK]
+Notes: The correct pronunciation and spelling of this word is unclear. Dell Hymes writes it as itka¬agwax, which corresponds to the pronuncia- tion of Madeline McInturff and Gladys Thompson. Dyk, however, and (probably) David French, tran- scribed the word from Phillip Kachlamat as itka¬agwax.
+
+i-ka¬Ålidmat [n] something to sit on, hide used for a saddle
+See also: -ÒA-it, i-ka¬alit, it-ka¬Ålidmat
+
+it-ka¬Ålidmat [n] saddle
+See also: -ÒA-it, i-ka¬alit, i-ka¬Ålaidmat
+
+i-ka¬alit [n] riding
+Forms: iyaxa¬alit “he is a rider” iyat’uxa¬alit “he is a good rider” iyamlaxa¬alit “he is a poor rider” [Dyk]
+See also: -ÒA-it, it-ka¬Ålidmat, i- ka¬Ålidmat
+
+i-ka¬atÅ©wamat [n] cinch
+See also: i-qachmat
+
+ish-kÅ¬emni¬ix [n] crying loudly
+Forms: ishgaxa¬émni¬ix “she is a loud crier” [Dyk]
+See also: -sh-i-k-ÒM-ni¬-ix
+
+ish-ka¬lÅmadix [n] being sunburnt, being windburnt
+See also: -¬l
+
+it-ka¬magwax [n] doing something for the last time, saying farewell [Dyk], farewell dance before men go to war [PK 4/14/52]
+See also: -k’-ÒM-kw
+
+ish-ka¬q¬ [n] hammering, blacksmithing
+Forms: ishiaxa¬q¬ “he is a black- smith” [Dyk]
+See also: -sh-k’-ÒQÒ
+
+a-ka¬t©lal [n] kicking
+Forms: ayaxa¬t©lal “his kicking; he is a kicker” [Dyk]
+See also: -k-ÒTQ, a-ka¬tq
+
+a-ka¬tq [n] kick
+Forms: ayaxa¬tq “his kick; it[i-] has a kick (for instance, booze)” [Dyk]
+Examples:  ̨axa¬tq igixux. “He kicked himself.” [Dyk]
+See also: -k-ÒTQ, a-ka¬t©lal
+
+is-kamint¬k [n] somersaulting
+Forms: isgaxamˆnt¬k “her somer- saulting; she is a somersaulter” [Dyk]
+See also: -s-k’-MI-t¬kw
+
+kamisk’i [conj] while, during
+Examples: Alanxˆlxu¬amam kamisk’i ¬ablat itgunat tgit. “I’ll go fishing with a dip net while lots of Chinook salmon are running.” [Dyk]
+See also: kadix
+
+i-kamit¬qdit [n] extension, something to splice on, something put on the end of
+Examples: a©amÅchx ichxÅmit¬qdit “arrow point” [Dyk]
+Notes: Refers to something put on the end of something else to extend it or make it longer. [GT 1/12/99]
+
+it-kamixtglal [n] cussing, talking behind one’s back, acting double- faced, telling stories about someone behind her/his back
+Forms: idiaxamixtglal “he is one who cusses about people” [Dyk]
+See also: -i-k-mixtk
+
+i-kÅmusak [n] red currant [Dyk], wild currant [HS 7/26/56], gooseber- ries [GT, MMc 6/4/98]
+Forms: No change for plural.
+Examples: Kw’utkw’ut chitx ikÅmusak. “He was picking gooseber- ries (little green berries).” [Dyk, as corrected by GT, MMc 6/4/98]
+
+kamusmus [part] eat the meat of another’s first kill and so give him luck
+Examples: KÅmusmus algiuxa. “We will eat of his first kill (meat or fish) and give him luck.” [Dyk]

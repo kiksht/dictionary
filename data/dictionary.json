@@ -11520,6 +11520,40 @@
       "-a-k-ŁADA-kw"
     ]
   },
+  "a-kałtg̲lal": {
+    "root": "a-kałtg̲lal",
+    "partOfSpeech": "n",
+    "definition": "kicking",
+    "forms": [
+      {
+        "kiksht": "ayaxałtg̲lal",
+        "english": "his kicking; he is a kicker [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-ŁTQ, a-kałtq"
+    ]
+  },
+  "a-kałtq": {
+    "root": "a-kałtq",
+    "partOfSpeech": "n",
+    "definition": "kick",
+    "forms": [
+      {
+        "kiksht": "ayaxałtq",
+        "english": "his kick; it[i-] has a kick (for instance, booze) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "̨axałtq igixux.",
+        "english": "He kicked himself. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-ŁTQ, a-kałtg̲lal"
+    ]
+  },
   "a-káas": {
     "root": "a-káas",
     "partOfSpeech": "n",
@@ -38790,6 +38824,70 @@
       "Refers to old Chinese coins, which were round with square holes. Apparently, these were collected and strung together or otherwise used for decoration and/or regalia."
     ]
   },
+  "i-kamitłqdit": {
+    "root": "i-kamitłqdit",
+    "partOfSpeech": "n",
+    "definition": "extension, something to splice on, something put on the end of",
+    "examples": [
+      {
+        "kiksht": "ag̲amáchx ichxámitłqdit",
+        "english": "arrow point [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to something put on the end of something else to extend it or make it longer. [GT 1/12/99]"
+    ]
+  },
+  "i-kałalit": {
+    "root": "i-kałalit",
+    "partOfSpeech": "n",
+    "definition": "riding",
+    "forms": [
+      {
+        "kiksht": "iyaxałalit",
+        "english": "he is a rider"
+      },
+      {
+        "kiksht": "iyat'uxałalit",
+        "english": "he is a good rider"
+      },
+      {
+        "kiksht": "iyamlaxałalit",
+        "english": "he is a poor rider [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁA-it, it-kałálidmat, i- kałálidmat"
+    ]
+  },
+  "i-kałatág̲wamat": {
+    "root": "i-kałatág̲wamat",
+    "partOfSpeech": "n",
+    "definition": "cinch",
+    "seeAlso": [
+      "i-qachmat"
+    ]
+  },
+  "i-kałálidmat": {
+    "root": "i-kałálidmat",
+    "partOfSpeech": "n",
+    "definition": "something to sit on, hide used for a saddle",
+    "seeAlso": [
+      "-ŁA-it, i-kałalit, it-kałálidmat"
+    ]
+  },
+  "i-kámusak": {
+    "root": "i-kámusak",
+    "partOfSpeech": "n",
+    "definition": "red currant [Dyk], wild currant [HS 7/26/56], gooseber- ries [GT, MMc 6/4/98]",
+    "forms": [],
+    "examples": [
+      {
+        "kiksht": "Kw'utkw'ut chitx ikámusak.",
+        "english": "He was picking gooseber- ries (little green berries). [Dyk, as corrected by GT, MMc 6/4/98]"
+      }
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -40593,6 +40691,20 @@
       "is-galpqdit, is-qalpdit"
     ]
   },
+  "is-kamintłk": {
+    "root": "is-kamintłk",
+    "partOfSpeech": "n",
+    "definition": "somersaulting",
+    "forms": [
+      {
+        "kiksht": "isgaxamíntłk",
+        "english": "her somer- saulting; she is a somersaulter [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-s-k'-MI-tłkw"
+    ]
+  },
   "ish- -ditł'i": {
     "root": "ish- -ditł'i",
     "partOfSpeech": "adj n",
@@ -40796,6 +40908,42 @@
     ],
     "seeAlso": [
       "-sh-k'-CHXI-qw (does this exist?)"
+    ]
+  },
+  "ish-kałlámadix": {
+    "root": "ish-kałlámadix",
+    "partOfSpeech": "n",
+    "definition": "being sunburnt, being windburnt",
+    "seeAlso": [
+      "-łl"
+    ]
+  },
+  "ish-kałqł": {
+    "root": "ish-kałqł",
+    "partOfSpeech": "n",
+    "definition": "hammering, blacksmithing",
+    "forms": [
+      {
+        "kiksht": "ishiaxałqł",
+        "english": "he is a black- smith [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-sh-k'-ŁQŁ"
+    ]
+  },
+  "ish-káłemniłix": {
+    "root": "ish-káłemniłix",
+    "partOfSpeech": "n",
+    "definition": "crying loudly",
+    "forms": [
+      {
+        "kiksht": "ishgaxałémniłix",
+        "english": "she is a loud crier [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-sh-i-k-ŁM-nił-ix"
     ]
   },
   "ish-íxtksh": {
@@ -41707,12 +41855,62 @@
       "Borrowed from English"
     ]
   },
+  "it-kamixtglal": {
+    "root": "it-kamixtglal",
+    "partOfSpeech": "n",
+    "definition": "cussing, talking behind one's back, acting double- faced, telling stories about someone behind her/his back",
+    "forms": [
+      {
+        "kiksht": "idiaxamixtglal",
+        "english": "he is one who cusses about people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-i-k-mixtk"
+    ]
+  },
   "it-kałagwax": {
     "root": "it-kałagwax",
     "partOfSpeech": "n",
-    "definition": "mountains, berry patches",
+    "definition": "huckleberry patch, huckleberry grounds",
+    "forms": [
+      {
+        "kiksht": "itkałagwamax",
+        "english": "huckleberry patches"
+      },
+      {
+        "kiksht": "ichaxałagwaxix",
+        "english": "she has been to the huckleberry grounds [Dyk]"
+      },
+      {
+        "kiksht": "ityaxałagwax",
+        "english": "August [PK 8/23/55]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Itkáłagwax alxuya.",
+        "english": "We will go to the mountains, to the huck- leberry grounds. [PK]"
+      }
+    ],
     "notes": [
-      "Dell Hymes gives this in the sense \"berry patches.\" Gladys Th- ompson and Madeline McInturff use it for \"mountains.\" Compare in Sahaptin the contemporary use of Xatiwaaptkí, which originally re- ferred to a berry patch on the slopes of Mt. Jefferson, as a name for Mt. Jefferson itself."
+      "The correct pronunciation and spelling of this word is unclear. Dell Hymes writes it as itkałagwax, which corresponds to the pronuncia- tion of Madeline McInturff and Gladys Thompson. Dyk, however, and (probably) David French, tran- scribed the word from Phillip Kachlamat as itkałagwax."
+    ]
+  },
+  "it-kałmagwax": {
+    "root": "it-kałmagwax",
+    "partOfSpeech": "n",
+    "definition": "doing something for the last time, saying farewell [Dyk], farewell dance before men go to war [PK 4/14/52]",
+    "seeAlso": [
+      "-k'-ŁM-kw"
+    ]
+  },
+  "it-kałálidmat": {
+    "root": "it-kałálidmat",
+    "partOfSpeech": "n",
+    "definition": "saddle",
+    "seeAlso": [
+      "-ŁA-it, i-kałalit, i-kałálaidmat"
     ]
   },
   "it-ká": {
@@ -43113,6 +43311,31 @@
     "definition": "from now on",
     "seeAlso": [
       "klaix"
+    ]
+  },
+  "kamisk'i": {
+    "root": "kamisk'i",
+    "partOfSpeech": "conj",
+    "definition": "while, during",
+    "examples": [
+      {
+        "kiksht": "Alanxílxułamam kamisk'i łablat itgunat tgit.",
+        "english": "I'll go fishing with a dip net while lots of Chinook salmon are running. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kadix"
+    ]
+  },
+  "kamusmus": {
+    "root": "kamusmus",
+    "partOfSpeech": "part",
+    "definition": "eat the meat of another's first kill and so give him luck",
+    "examples": [
+      {
+        "kiksht": "Kámusmus algiuxa.",
+        "english": "We will eat of his first kill (meat or fish) and give him luck. [Dyk]"
+      }
     ]
   },
   "kinwa": {
