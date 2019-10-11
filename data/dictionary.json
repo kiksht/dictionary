@@ -5722,6 +5722,45 @@
       }
     ]
   },
+  "-l-GA": {
+    "root": "-l-GA",
+    "partOfSpeech": "vb",
+    "definition": "stick in, be stuck in, stick to, be stuck to",
+    "forms": [
+      {
+        "kiksht": "yalgát",
+        "english": "it[i-] is stuck in it[a-], it is sticking in it"
+      },
+      {
+        "kiksht": "shtalgát",
+        "english": "they 2 are stuck to it[a-]"
+      },
+      {
+        "kiksht": "ctilgadix",
+        "english": "they 2 are stuck to it[i-] (a place)"
+      },
+      {
+        "kiksht": "ailgadix",
+        "english": "it[a-] is stuck to it[i-]"
+      },
+      {
+        "kiksht": "yaitgat",
+        "english": "it[i-] was sticking in it[a-]"
+      },
+      {
+        "kiksht": "ailgayudix",
+        "english": "they[a-] (each one) are stuck in it[i-] (a place)"
+      },
+      {
+        "kiksht": "shxlgat",
+        "english": "they 2 are stuck together"
+      },
+      {
+        "kiksht": "shxitgat",
+        "english": "they 2 were stuck together [Dyk]"
+      }
+    ]
+  },
   "-l-GWI-chu": {
     "root": "-l-GWI-chu",
     "partOfSpeech": "vb",
