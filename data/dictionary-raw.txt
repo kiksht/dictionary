@@ -13271,3 +13271,81 @@ Notes: Unless -u- precedes or the directional -t- follows, the -k- rela- tional 
 kimach’a [conj] because, therefore, must have, nevertheless, even though, although
 Examples: Kwaish k’aya ©unmaba ¬qÅ nishduyam kimach’a nini©lkl Snooks qw’ap ©unmaba. “Not yet five o’clock they must have gotten there, because I saw Snooks near five o’clock.” kimach’a qw’ap gunmaba niniluidix “because close to five I was walking in the place” kimach’a it’ukdi gas “nevertheless it is good gas” [Dyk]
 See also: kimatx ̈
+
+
+
+
+
+
+
+
+
+kˆmangi [conj] as, like
+Examples: K’aya it’ukti kˆmangi dukst itshaxu. “It’s not as good as cooked clams.” [Bear and Crane J]
+
+kimatx ̈ [conj] even, even though, although, whereas, whereas in con- trast, nevertheless
+Examples: Òqun shtu©wi¬ti Nixl ̈idixba kimatx ̈ daba shtu©wi¬ti. “I think it’s raining at Spearfish, whereas it is raining here.” Kimatx ̈ naika anuya mait’a amuya. “Never- theless I will go (even though[?]) you too will go.” Cmanix niuqmit ikauxau kimatx ̈ enq’iuqt. “In plain sight I see the owl even though I am old.” [Dyk] See also: kimach’a
+
+i-kˆmutxmat [n] toy
+Forms: itkˆmutxmat “toys”
+See also: -x-mutxm
+
+it-kimxatgemax [n] burial vault
+
+kinuwaqshumax [n] Thunderers
+Examples: Saqw a©(a) idlxam ¬kdu¬x ̈mt kˆnuwaqshumax ¬xauxiksh. “The Thunder brothers have con- sumed all the people.” [WTI.11.2]
+See also: i-kinwÅqshumax
+
+kinwa [adv] try, in vain, futilely, no matter
+Examples: Kinua ik’Åmunaq galixux. “He tried (to get them to pick him up) by turning himself into a piece of wood.” [WTI.1a1] kinwa dan “no matter what; nothing will do” [Dyk]
+
+kˆnwachi’ [adv] in vain
+See also: kinwa
+
+a-kinwaks [n] fish heart
+
+i-kinwÅkshumax [n] thunder
+See also: kinuwaqshumax
+
+kinwaqi [conj] even, although, even though
+Examples: Kinwaqi wa©i¬ti anuya taunyamt. “Even though it’s raining I’ll go to town.” [Dyk]
+
+i-kipstmat [n] tool to poke hide for tanning
+Forms: itkipstmat “tools to poke hide” [Dyk]
+See also: is-kipstmat, it-kipshtmat
+
+it-kipshdamat [n] fire drill
+See also: -a-xl-PSHT, -a-gl-PSHT, i- pstamat, it-kipshtmat
+
+it-kipshtmat [n] fire drill
+Notes: In Dyk’s definition, refers to a stick twirled in a piece of willow or other wood to produce a spark for fire-making. Apparently Dyk also found the word it-kipshdamat used for this.
+See also: it-kipshdamat
+
+it-kiqnanix [n] school
+See also: i-xigiqnan
+
+i-kishachk [n] cascade, rapids
+
+i-kishatk [n] lovemaking
+Examples: KegÅu ixiguxt iyakishatk. “He bewails something of his lost; he bewails his past lovemaking.” [Dyk]
+See also: -SHTK
+
+i-kishtk [n] lovemaking, making love
+See also: -SHTK, it-kishtkxat
+
+i-kishtkxat [n] place of cohabitation, place of copulation
+See also: -SHTK, i-kishtk
+
+wi-kˆt [n] wedding [HS 7/26/56], giving things for a wife [HS 7/26/56, AF 8/19/53], bridal gift [Dyk], bride- price [WTII.1.1]
+Examples: Wikˆt ichiux. “He made bridal gifts.” [Dyk]
+Notes: Refers to the bridal gifts given by the groom to the bride’s parents, who then distributed them among relatives.
+
+it-kitgilal [n] mistreating (when no one is around to protect the victim) [Dyk], swindling, cheating [HS 7/26/ 56]
+See also: -xl-TGI
+
+it-kˆtk [n] something saved
+See also: it-gitk, -TK, -KITK
+
+-KITK [vb] pack
+Forms: gachalkitk “he packed them[a-] into it[a-]” [WTI.17.4]
+See also: -TK

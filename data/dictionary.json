@@ -3417,6 +3417,20 @@
       "-XTKIAX̲, -KIX̲AX̲, -XTKIX̲AX̲, - X̲"
     ]
   },
+  "-KITK": {
+    "root": "-KITK",
+    "partOfSpeech": "vb",
+    "definition": "pack",
+    "forms": [
+      {
+        "kiksht": "gachalkitk",
+        "english": "he packed them[a-] into it[a-] [WTI.17.4]"
+      }
+    ],
+    "seeAlso": [
+      "-TK"
+    ]
+  },
   "-KIŁX̲": {
     "root": "-KIŁX̲",
     "partOfSpeech": "vb",
@@ -12089,6 +12103,11 @@
     "seeAlso": [
       "-gikal"
     ]
+  },
+  "a-kinwaks": {
+    "root": "a-kinwaks",
+    "partOfSpeech": "n",
+    "definition": "fish heart"
   },
   "a-káas": {
     "root": "a-káas",
@@ -39713,6 +39732,63 @@
       "- G̲WA-pk, it-kig̲walpkxat, i-g̲apkwax"
     ]
   },
+  "i-kinwákshumax": {
+    "root": "i-kinwákshumax",
+    "partOfSpeech": "n",
+    "definition": "thunder",
+    "seeAlso": [
+      "kinuwaqshumax"
+    ]
+  },
+  "i-kipstmat": {
+    "root": "i-kipstmat",
+    "partOfSpeech": "n",
+    "definition": "tool to poke hide for tanning",
+    "forms": [
+      {
+        "kiksht": "itkipstmat",
+        "english": "tools to poke hide [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "is-kipstmat, it-kipshtmat"
+    ]
+  },
+  "i-kishachk": {
+    "root": "i-kishachk",
+    "partOfSpeech": "n",
+    "definition": "cascade, rapids"
+  },
+  "i-kishatk": {
+    "root": "i-kishatk",
+    "partOfSpeech": "n",
+    "definition": "lovemaking",
+    "examples": [
+      {
+        "kiksht": "Kegáu ixiguxt iyakishatk.",
+        "english": "He bewails something of his lost; he bewails his past lovemaking. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-SHTK"
+    ]
+  },
+  "i-kishtk": {
+    "root": "i-kishtk",
+    "partOfSpeech": "n",
+    "definition": "lovemaking, making love",
+    "seeAlso": [
+      "-SHTK, it-kishtkxat"
+    ]
+  },
+  "i-kishtkxat": {
+    "root": "i-kishtkxat",
+    "partOfSpeech": "n",
+    "definition": "place of cohabitation, place of copulation",
+    "seeAlso": [
+      "-SHTK, i-kishtk"
+    ]
+  },
   "i-kiłádachwamat": {
     "root": "i-kiłádachwamat",
     "partOfSpeech": "n",
@@ -39781,6 +39857,20 @@
     ],
     "seeAlso": [
       "it-kilgigwyát, -LGWIA"
+    ]
+  },
+  "i-kímutxmat": {
+    "root": "i-kímutxmat",
+    "partOfSpeech": "n",
+    "definition": "toy",
+    "forms": [
+      {
+        "kiksht": "itkímutxmat",
+        "english": "toys"
+      }
+    ],
+    "seeAlso": [
+      "-x-mutxm"
     ]
   },
   "iagluxtix": {
@@ -43051,6 +43141,46 @@
       "i-kílgigwiat"
     ]
   },
+  "it-kimxatgemax": {
+    "root": "it-kimxatgemax",
+    "partOfSpeech": "n",
+    "definition": "burial vault"
+  },
+  "it-kipshdamat": {
+    "root": "it-kipshdamat",
+    "partOfSpeech": "n",
+    "definition": "fire drill",
+    "seeAlso": [
+      "-a-xl-PSHT, -a-gl-PSHT, i- pstamat, it-kipshtmat"
+    ]
+  },
+  "it-kipshtmat": {
+    "root": "it-kipshtmat",
+    "partOfSpeech": "n",
+    "definition": "fire drill",
+    "notes": [
+      "In Dyk's definition, refers to a stick twirled in a piece of willow or other wood to produce a spark for fire-making. Apparently Dyk also found the word it-kipshdamat used for this."
+    ],
+    "seeAlso": [
+      "it-kipshdamat"
+    ]
+  },
+  "it-kiqnanix": {
+    "root": "it-kiqnanix",
+    "partOfSpeech": "n",
+    "definition": "school",
+    "seeAlso": [
+      "i-xigiqnan"
+    ]
+  },
+  "it-kitgilal": {
+    "root": "it-kitgilal",
+    "partOfSpeech": "n",
+    "definition": "mistreating (when no one is around to protect the victim) [Dyk], swindling, cheating [HS 7/26/ 56]",
+    "seeAlso": [
+      "-xl-TGI"
+    ]
+  },
   "it-ká": {
     "root": "it-ká",
     "partOfSpeech": "n",
@@ -43197,6 +43327,14 @@
     ],
     "seeAlso": [
       "kilimak"
+    ]
+  },
+  "it-kítk": {
+    "root": "it-kítk",
+    "partOfSpeech": "n",
+    "definition": "something saved",
+    "seeAlso": [
+      "it-gitk, -TK, -KITK"
     ]
   },
   "itgachaxelqwłimax akłmín": {
@@ -44924,18 +45062,62 @@
       "kimatxú"
     ]
   },
+  "kimatxú": {
+    "root": "kimatxú",
+    "partOfSpeech": "conj",
+    "definition": "even, even though, although, whereas, whereas in con- trast, nevertheless",
+    "examples": [
+      {
+        "kiksht": "Łqun shtug̲wiłti Nixlúidixba kimatxú daba shtug̲wiłti.",
+        "english": "I think it's raining at Spearfish, whereas it is raining here."
+      },
+      {
+        "kiksht": "Kimatxú naika anuya mait'a amuya.",
+        "english": "Never- theless I will go (even though[?]) you too will go."
+      },
+      {
+        "kiksht": "Cmanix niuqmit ikauxau kimatxú enq'iuqt.",
+        "english": "In plain sight I see the owl even though I am old. [Dyk] See also: kimach'a"
+      }
+    ]
+  },
+  "kinuwaqshumax": {
+    "root": "kinuwaqshumax",
+    "partOfSpeech": "n",
+    "definition": "Thunderers",
+    "examples": [
+      {
+        "kiksht": "Saqw ag̲(a) idlxam łkdułxúmt kínuwaqshumax łxauxiksh.",
+        "english": "The Thunder brothers have con- sumed all the people. [WTI.11.2]"
+      }
+    ],
+    "seeAlso": [
+      "i-kinwáqshumax"
+    ]
+  },
   "kinwa": {
     "root": "kinwa",
     "partOfSpeech": "adv",
     "definition": "try, in vain, futilely, no matter",
     "examples": [
       {
-        "kiksht": "Kinua ik'ámunaq galix̲ux̲.",
+        "kiksht": "Kinua ik'ámunaq galixux.",
         "english": "He tried (to get them to pick him up) by turning himself into a piece of wood. [WTI.1a1]"
       },
       {
         "kiksht": "kinwa dan",
         "english": "no matter what; nothing will do [Dyk]"
+      }
+    ]
+  },
+  "kinwaqi": {
+    "root": "kinwaqi",
+    "partOfSpeech": "conj",
+    "definition": "even, although, even though",
+    "examples": [
+      {
+        "kiksht": "Kinwaqi wag̲iłti anuya taunyamt.",
+        "english": "Even though it's raining I'll go to town. [Dyk]"
       }
     ]
   },
@@ -44998,6 +45180,25 @@
     "root": "kílimakbama",
     "partOfSpeech": "adv",
     "definition": "for sale"
+  },
+  "kímangi": {
+    "root": "kímangi",
+    "partOfSpeech": "conj",
+    "definition": "as, like",
+    "examples": [
+      {
+        "kiksht": "K'aya it'ukti kímangi dukst itshaxu.",
+        "english": "It's not as good as cooked clams. [Bear and Crane J]"
+      }
+    ]
+  },
+  "kínwachi'": {
+    "root": "kínwachi'",
+    "partOfSpeech": "adv",
+    "definition": "in vain",
+    "seeAlso": [
+      "kinwa"
+    ]
   },
   "qengi": {
     "root": "qengi",
@@ -45473,6 +45674,20 @@
         "kiksht": "it'ukdi wigwa",
         "english": "good day [GT, MMc]"
       }
+    ]
+  },
+  "wi-kít": {
+    "root": "wi-kít",
+    "partOfSpeech": "n",
+    "definition": "wedding [HS 7/26/56], giving things for a wife [HS 7/26/56, AF 8/19/53], bridal gift [Dyk], bride- price [WTII.1.1]",
+    "examples": [
+      {
+        "kiksht": "Wikít ichiux.",
+        "english": "He made bridal gifts. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to the bridal gifts given by the groom to the bride's parents, who then distributed them among relatives."
     ]
   },
   "wi-lx": {
