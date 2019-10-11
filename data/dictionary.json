@@ -5843,6 +5843,44 @@
       "-xi-CHU, -xa-xi-CHU, i- kaxichx"
     ]
   },
+  "-kag̲wámx": {
+    "root": "-kag̲wámx",
+    "partOfSpeech": "n",
+    "definition": "person with whom one once slept [Dyk], person with whom one used to sleep, rival, sexual part- ner [HS 7/25/56], concubine, addi- tional wife [PK 7/23/56]",
+    "forms": [
+      {
+        "kiksht": "akxag̲wamx",
+        "english": "she is one with whom I once slept (man speaking)"
+      },
+      {
+        "kiksht": "ichxag̲wamx",
+        "english": "he is one with whom I once slept (woman speaking)"
+      },
+      {
+        "kiksht": "ichaxag̲wamx",
+        "english": "her man with whom she once slept [Dyk]"
+      },
+      {
+        "kiksht": "akag̲wámx",
+        "english": "her rival"
+      },
+      {
+        "kiksht": "amixag̲wámx",
+        "english": "your rival (speaking to a woman, referring to someone who used to be her husband's sexual partner)"
+      },
+      {
+        "kiksht": "ayaxag̲wámx",
+        "english": "his sexual partner [HS 7/25/56]"
+      },
+      {
+        "kiksht": "iłlaxag̲wamx",
+        "english": "their concu- bines, their wives [PK 7/23/56]"
+      }
+    ],
+    "notes": [
+      "Note from Phillip Kahclamat 7/23/56: \"Dyk didn't get this word right (meaning). As Elmer Tom's Dee is to Philip. You go, live with woman; don't want to marry her; she'll take you all right. Got a wife, go to this one, you go with her, she take au- thority on her pretty soon; she'll wait, take a chance something hap- pen to your wife; she'll step in. From -gug̲a 'go to accompany somebody (but not bring her in).' \"Man has wife, old and sick—she say, 'Okay, you go to her; when I die, you bring her in.' Even before old woman dies; 'I'm gonna let her in here, even before I die; I'll just lie here my last days.' Legal in Wishram. \"ił.ła.xa.g̲wamx: their —. When a man has a harem, like PK's grandfather; he took 3; or like Arabs. With Wishram, second wife is equal to first, 3rd same way; children all equal; my mother was bornin harem, others born in harem my cousins from same Silaetsi. All equal. All upperclass Wishrams anyway.\""
+    ]
+  },
   "-ki-CHKWA-mit": {
     "root": "-ki-CHKWA-mit",
     "partOfSpeech": "vb",
@@ -11369,6 +11407,20 @@
     "definition": "talking in one's sleep (as a result of a nightmare)",
     "seeAlso": [
       "-a-x-t-NA-kw"
+    ]
+  },
+  "a-kag̲úliu": {
+    "root": "a-kag̲úliu",
+    "partOfSpeech": "n",
+    "definition": "suspicion",
+    "forms": [
+      {
+        "kiksht": "agaxag̲úliu",
+        "english": "she is suspicious of people"
+      }
+    ],
+    "seeAlso": [
+      "-g̲uliu, a- -xag̲úliwix"
     ]
   },
   "a-káas": {
@@ -38364,6 +38416,50 @@
     "partOfSpeech": "n",
     "definition": "ice"
   },
+  "i-kagiglagwax": {
+    "root": "i-kagiglagwax",
+    "partOfSpeech": "n",
+    "definition": "sensing, feeling",
+    "forms": [
+      {
+        "kiksht": "ichaxagiglagwax",
+        "english": "she is one who senses things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-GLA-kw"
+    ]
+  },
+  "i-kagixwlal": {
+    "root": "i-kagixwlal",
+    "partOfSpeech": "n",
+    "definition": "putting beads on (bags, etc.)",
+    "seeAlso": [
+      "-x-GIX̲W"
+    ]
+  },
+  "i-kagílagwamat": {
+    "root": "i-kagílagwamat",
+    "partOfSpeech": "n",
+    "definition": "cover, something to cover with",
+    "forms": [
+      {
+        "kiksht": "itkagílagwamat",
+        "english": "covers [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-LA-kw, i-kalagwamat"
+    ]
+  },
+  "i-kag̲ililxłamat": {
+    "root": "i-kag̲ililxłamat",
+    "partOfSpeech": "n",
+    "definition": "whip",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -41235,6 +41331,22 @@
       "Borrowed from Sahaptin. The it- prefix is used probably because of the association with it-qwłí \"house, building.\""
     ]
   },
+  "it-kagílagwadit": {
+    "root": "it-kagílagwadit",
+    "partOfSpeech": "n",
+    "definition": "roofing, covering",
+    "seeAlso": [
+      "-k-LA-kw"
+    ]
+  },
+  "it-kag̲ílilxłamat": {
+    "root": "it-kag̲ílilxłamat",
+    "partOfSpeech": "n",
+    "definition": "whip",
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
   "it-ká": {
     "root": "it-ká",
     "partOfSpeech": "n",
@@ -41282,6 +41394,20 @@
     "definition": "falling",
     "seeAlso": [
       "-a-k-xa-DM-kw, -ł-k-xa-DM- kw"
+    ]
+  },
+  "it-kágig̲wak": {
+    "root": "it-kágig̲wak",
+    "partOfSpeech": "n",
+    "definition": "dream",
+    "forms": [
+      {
+        "kiksht": "idiaxágig̲wak",
+        "english": "his dream; he is a dreamer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x- G̲WA-kw"
     ]
   },
   "itgachaxelqwłimax akłmín": {
@@ -42485,6 +42611,80 @@
     ],
     "notes": [
       "Used with future tense to indicate a command or exhortation."
+    ]
+  },
+  "kadux": {
+    "root": "kadux",
+    "partOfSpeech": "adv",
+    "definition": "morning, in the morn- ing, tomorrow",
+    "examples": [
+      {
+        "kiksht": "it'ukdi kadúx",
+        "english": "good morn- ing"
+      },
+      {
+        "kiksht": "Ashtug̲wíłtiya alma ag̲a kadúx.",
+        "english": "It's going to rain tomorrow. [GT, MMc]"
+      },
+      {
+        "kiksht": "kadux alma",
+        "english": "tomorrow"
+      },
+      {
+        "kiksht": "wit'a kadux",
+        "english": "again tomorrow; next morn- ing"
+      },
+      {
+        "kiksht": "kwaish kadux",
+        "english": "early morning"
+      },
+      {
+        "kiksht": "kadux wiiigwa",
+        "english": "tomorrow all day"
+      },
+      {
+        "kiksht": "Kadux alma numqda.",
+        "english": "Tomorrow I will die."
+      },
+      {
+        "kiksht": "Kwaish kadux ayuya.",
+        "english": "He will go early in the morning."
+      },
+      {
+        "kiksht": "Kadux wiiigwa wax anuya.",
+        "english": "Day after tomor- row I'll go."
+      },
+      {
+        "kiksht": "(Compare: Wax anuya.",
+        "english": "Day after tomorrow I'll go."
+      },
+      {
+        "kiksht": ") Lakdix inuya Gardnerville kadux.",
+        "english": "Four times I went to Gardnerville this morning. [Dyk]"
+      }
+    ],
+    "pronunciation": "Varies between kadúx and kádux. In the sense \"morning\" it is usually kadúx."
+  },
+  "kaduxkadux": {
+    "root": "kaduxkadux",
+    "partOfSpeech": "adv",
+    "definition": "every day",
+    "examples": [
+      {
+        "kiksht": "Kaduxkadux amgushgíwalma.",
+        "english": "Go for a walk every day. [Spilyay/Healthy Nations]"
+      }
+    ],
+    "seeAlso": [
+      "kadux"
+    ]
+  },
+  "kadúx itłxlém": {
+    "root": "kadúx itłxlém",
+    "partOfSpeech": "n",
+    "definition": "breakfast",
+    "seeAlso": [
+      "saiba ag̲ałax itłxlém, chushdix itłxlém"
     ]
   },
   "kinwa": {
