@@ -12428,3 +12428,30 @@ Forms: yalgagwax “he is flying back and forth in it[a-]” yalgalkw¬ “he is
 
 -n-GA-kw [vb] be overpowered by, be overcome by, be defeated by, be outwitted by
 Forms: imengankw¬ “he is being overcome by you” yangÅnkw¬ “he is being overcome by her” (Compare yalgÅlkw¬ “he/it[i-] is flying/circling inside of it[a-].”) yangÅkwt “he is overcome by her” awigakwt “she is being overpowered by them” awitgÅkwt “she was being overpow- ered by them” iningagwa “I am over- come by him” inawigagwa “I am overcome by them” inangagwa “I am being overcome/outwitted by her, she is too much for me” insingagwa “we (not including you) were over- come by him” iginengagwa “he was overcome by me” igmengagwa “he was just defeated by you” ishdingagwa “they 2 were overpow- ered by him” idnengagwa “they were overcome by me” ingakux “it[i-] has overcome” (Might be said of a big timber that no one could heft.)
+
+
+
+
+
+
+-x-GA-kw [vb] pull around, pull about, jerk around, jerk about
+Forms: anixgagwachgwa “I will pull it[i-] around, about, I will jerk it about” ichixgakwachk “he jerked it[i-] about” qixgagwax “someone is jerking it[i-] about, it is being jerked about” chagagwax “he is pulling it[a- ] around, jerking it around” [Might be said of a person trying to pull a cow, even though the cow is not mov- ing.] gagixgakwachk “she pulled it[i-] about (repeatedly)” inixadgÅgwachkwam “I came to pull it[i-] around” inixgÅgwachkwam “I went to pull it around” [Dyk]
+
+-xl-GA-kw [vb] face, turn and face
+Forms: amxelgagwa “you will turn around” [WTII.10.2] emxelgagwa! “turn around!” [WTII.10.3] ixelgÅkwt “he is turned, faced” nigixelgagwa “he turned and faced (last season)” nigixitgagwa “he turned and faced (last week)” ixelgagwax “they[i-] (for instance, loose parts of a machine) are turning about every which way” igixelgakwachk “they[i-] turned about every which way” with relational prefixes: yak’élxigakwt “he is turned/faced toward her” yaq’elxigakwt “he is turned/faced away from her, has his back to her” ixlxigakwt “he is turned/faced to- ward himself” ik’lxigakux “he is faced toward (someone), someone is facing him” [Dyk]
+Examples: Amxelgagwa iwÅdiwa. “You will face that way.” Enxelgakwt yaxkayamt. “I am facing toward him.” Yaxka engi nigixelgagwa. “He turned around (last season).” [Dyk]
+
+-sh-k-GA-kw [vb] fall backwards, fall over backwards, be pushed over backwards
+Forms: shikgÅkwt “he is falling back- ward; he is in the position of falling backward” chikgakwlit “he is falling backward (again and again)” ishakgakwit “she fell backward” chikgakux “he has been pushed over backward” [Dyk]
+
+-l-KA-¬x [vb] think of, be reminded of, have brought to mind, have come to mind
+Forms: alailga¬xa “he will think of her” ailgÅ¬xt “he has her in mind” ailgal¬x “he is thinking of her (con- tinually)” iginlkÅ¬x “I thought of him” igailkÅ¬x “he thought of her” ichnlkÅ¬x “he thought of me” nigailkÅ¬x “he thought of her” nigaitkÅ¬x “he thought of her (last week)” with reflexive -x- “-self”: ixlga¬xt “he has himself reminded” igixlka¬x “he reminded himself” [Dyk]
+
+-n-GA-mida-kw [vb] make (someone or something ) too much for, cause to overcome, cause to overpower
+Forms: chaingÅmidankw¬ “he is mak- ing it[a-] too much for him” chdangÅmidankw¬ “he is making them too much for her” [PK was unsure of these last 2 forms; GT, MMc 6/5/98 were unable to clarify them.]
+
+-sh-k-GA-mida-kw [vb] push back- ward, push over backward
+Forms: ikshikgÅmidagwa “she pushed him over backward” [Dyk]
+
+-xl-GA-mida-kw [vb] turn, turn around, make to face toward
+Forms: chixlgÅmidakwt “he has him turned, faced toward” qshxelgamidalkw¬ “someone is turn- ing them 2 around, they 2 are being turned around” nichixelgamidagwa “he turned him around (last season)” nichixitgamidagwa “he turned him around (last week)” ixelgÅmidakux “he is/has been turned” with relational prefixes: chiagelxigÅmidakwt “he has him turned toward her” chia©elxigÅmidakwt “he has him turned from her” [Dyk]

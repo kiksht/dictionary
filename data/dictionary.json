@@ -5897,6 +5897,57 @@
       }
     ]
   },
+  "-l-KA-łx": {
+    "root": "-l-KA-łx",
+    "partOfSpeech": "vb",
+    "definition": "think of, be reminded of, have brought to mind, have come to mind",
+    "forms": [
+      {
+        "kiksht": "alailgałxa",
+        "english": "he will think of her"
+      },
+      {
+        "kiksht": "ailgáłxt",
+        "english": "he has her in mind"
+      },
+      {
+        "kiksht": "ailgalłx",
+        "english": "he is thinking of her (con- tinually)"
+      },
+      {
+        "kiksht": "iginlkáłx",
+        "english": "I thought of him"
+      },
+      {
+        "kiksht": "igailkáłx",
+        "english": "he thought of her"
+      },
+      {
+        "kiksht": "ichnlkáłx",
+        "english": "he thought of me"
+      },
+      {
+        "kiksht": "nigailkáłx",
+        "english": "he thought of her"
+      },
+      {
+        "kiksht": "nigaitkáłx",
+        "english": "he thought of her (last week)"
+      },
+      {
+        "kiksht": "with reflexive -x-",
+        "english": "-self"
+      },
+      {
+        "kiksht": ": ixlgałxt",
+        "english": "he has himself reminded"
+      },
+      {
+        "kiksht": "igixlkałx",
+        "english": "he reminded himself [Dyk]"
+      }
+    ]
+  },
   "-l-u-I": {
     "root": "-l-u-I",
     "partOfSpeech": "vb",
@@ -6038,6 +6089,21 @@
       {
         "kiksht": "ingakux",
         "english": "it[i-] has overcome (Might be said of a big timber that no one could heft.)"
+      }
+    ]
+  },
+  "-n-GA-mida-kw": {
+    "root": "-n-GA-mida-kw",
+    "partOfSpeech": "vb",
+    "definition": "make (someone or something ) too much for, cause to overcome, cause to overpower",
+    "forms": [
+      {
+        "kiksht": "chaingámidankwł",
+        "english": "he is mak- ing it[a-] too much for him"
+      },
+      {
+        "kiksht": "chdangámidankwł",
+        "english": "he is making them too much for her [PK was unsure of these last 2 forms; GT, MMc 6/5/98 were unable to clarify them.]"
       }
     ]
   },
@@ -6645,6 +6711,40 @@
     ],
     "seeAlso": [
       "-DI-pa"
+    ]
+  },
+  "-sh-k-GA-kw": {
+    "root": "-sh-k-GA-kw",
+    "partOfSpeech": "vb",
+    "definition": "fall backwards, fall over backwards, be pushed over backwards",
+    "forms": [
+      {
+        "kiksht": "shikgákwt",
+        "english": "he is falling back- ward; he is in the position of falling backward"
+      },
+      {
+        "kiksht": "chikgakwlit",
+        "english": "he is falling backward (again and again)"
+      },
+      {
+        "kiksht": "ishakgakwit",
+        "english": "she fell backward"
+      },
+      {
+        "kiksht": "chikgakux",
+        "english": "he has been pushed over backward [Dyk]"
+      }
+    ]
+  },
+  "-sh-k-GA-mida-kw": {
+    "root": "-sh-k-GA-mida-kw",
+    "partOfSpeech": "vb",
+    "definition": "push back- ward, push over backward",
+    "forms": [
+      {
+        "kiksht": "ikshikgámidagwa",
+        "english": "she pushed him over backward [Dyk]"
+      }
     ]
   },
   "-sh-l-BIXWA": {
@@ -7599,6 +7699,41 @@
     ],
     "notes": [
       "If a woman is pulling a log by a rope, one would say: giuładat. But of the rope pulling at the log, one would say: chixgat. If a man is pull- ing a rope that is tied to a wall, then one would say: chixgat \"he (the man) is pulling at it (the rope).\" [Dyk] The idea, here, then seems to be that this verb refers to pulling or tugging at something, against resistance, rather than simply pulling something along. Note also that with suffix -t, this verb means \"have something pulled taut\" and hence can mean \"hold, hold taut.\""
+    ]
+  },
+  "-x-GA-kw": {
+    "root": "-x-GA-kw",
+    "partOfSpeech": "vb",
+    "definition": "pull around, pull about, jerk around, jerk about",
+    "forms": [
+      {
+        "kiksht": "anixgagwachgwa",
+        "english": "I will pull it[i-] around, about, I will jerk it about"
+      },
+      {
+        "kiksht": "ichixgakwachk",
+        "english": "he jerked it[i-] about"
+      },
+      {
+        "kiksht": "qixgagwax",
+        "english": "someone is jerking it[i-] about, it is being jerked about"
+      },
+      {
+        "kiksht": "chagagwax",
+        "english": "he is pulling it[a- ] around, jerking it around [Might be said of a person trying to pull a cow, even though the cow is not mov- ing.]"
+      },
+      {
+        "kiksht": "gagixgakwachk",
+        "english": "she pulled it[i-] about (repeatedly)"
+      },
+      {
+        "kiksht": "inixadgágwachkwam",
+        "english": "I came to pull it[i-] around"
+      },
+      {
+        "kiksht": "inixgágwachkwam",
+        "english": "I went to pull it around [Dyk]"
+      }
     ]
   },
   "-x-GLA": {
@@ -9047,6 +9182,106 @@
     ],
     "seeAlso": [
       "-DATKSH"
+    ]
+  },
+  "-xl-GA-kw": {
+    "root": "-xl-GA-kw",
+    "partOfSpeech": "vb",
+    "definition": "face, turn and face",
+    "forms": [
+      {
+        "kiksht": "amxelgagwa",
+        "english": "you will turn around [WTII.10.2]"
+      },
+      {
+        "kiksht": "emxelgagwa!",
+        "english": "turn around! [WTII.10.3]"
+      },
+      {
+        "kiksht": "ixelgákwt",
+        "english": "he is turned, faced"
+      },
+      {
+        "kiksht": "nigixelgagwa",
+        "english": "he turned and faced (last season)"
+      },
+      {
+        "kiksht": "nigixitgagwa",
+        "english": "he turned and faced (last week)"
+      },
+      {
+        "kiksht": "ixelgagwax",
+        "english": "they[i-] (for instance, loose parts of a machine) are turning about every which way"
+      },
+      {
+        "kiksht": "igixelgakwachk",
+        "english": "they[i-] turned about every which way"
+      },
+      {
+        "kiksht": "with relational prefixes: yak'élxigakwt",
+        "english": "he is turned/faced toward her"
+      },
+      {
+        "kiksht": "yaq'elxigakwt",
+        "english": "he is turned/faced away from her, has his back to her"
+      },
+      {
+        "kiksht": "ixlxigakwt",
+        "english": "he is turned/faced to- ward himself"
+      },
+      {
+        "kiksht": "ik'lxigakux",
+        "english": "he is faced toward (someone), someone is facing him [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Amxelgagwa iwádiwa.",
+        "english": "You will face that way."
+      },
+      {
+        "kiksht": "Enxelgakwt yaxkayamt.",
+        "english": "I am facing toward him."
+      },
+      {
+        "kiksht": "Yaxka engi nigixelgagwa.",
+        "english": "He turned around (last season). [Dyk]"
+      }
+    ]
+  },
+  "-xl-GA-mida-kw": {
+    "root": "-xl-GA-mida-kw",
+    "partOfSpeech": "vb",
+    "definition": "turn, turn around, make to face toward",
+    "forms": [
+      {
+        "kiksht": "chixlgámidakwt",
+        "english": "he has him turned, faced toward"
+      },
+      {
+        "kiksht": "qshxelgamidalkwł",
+        "english": "someone is turn- ing them 2 around, they 2 are being turned around"
+      },
+      {
+        "kiksht": "nichixelgamidagwa",
+        "english": "he turned him around (last season)"
+      },
+      {
+        "kiksht": "nichixitgamidagwa",
+        "english": "he turned him around (last week)"
+      },
+      {
+        "kiksht": "ixelgámidakux",
+        "english": "he is/has been turned"
+      },
+      {
+        "kiksht": "with relational prefixes: chiagelxigámidakwt",
+        "english": "he has him turned toward her"
+      },
+      {
+        "kiksht": "chiag̲elxigámidakwt",
+        "english": "he has him turned from her [Dyk]"
+      }
     ]
   },
   "-xl-GAYU": {
