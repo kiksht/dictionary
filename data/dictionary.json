@@ -3236,6 +3236,29 @@
       }
     ]
   },
+  "-KA-wulx": {
+    "root": "-KA-wulx",
+    "partOfSpeech": "vb",
+    "definition": "run up, climb, rise, arise, rise up, fly up",
+    "forms": [
+      {
+        "kiksht": "gashtig̲lgaulxix",
+        "english": "they 2 ran up out of it[i-] [WTI.11.6]"
+      },
+      {
+        "kiksht": "anugáwulxa",
+        "english": "I will go up , go upriver, fly up [GT 1/14/99]"
+      },
+      {
+        "kiksht": "gayugwawulxt",
+        "english": "he climbed [WTI.1n.1, 18.10]"
+      },
+      {
+        "kiksht": "Examples: Kadux galugwawulx ag̲ałax.",
+        "english": "In the morning the sun rose. [WTI.1n.1]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -3278,6 +3301,52 @@
       {
         "kiksht": "yagitchk'wayamitix",
         "english": "he had been put face down [Dyk]"
+      }
+    ]
+  },
+  "-a-g̲l-GA-pa-ix": {
+    "root": "-a-g̲l-GA-pa-ix",
+    "partOfSpeech": "vb",
+    "definition": "start out running, set out to run fast",
+    "forms": [
+      {
+        "kiksht": "gashtag̲elgabaix",
+        "english": "they two set out to run fast [GT 1/14/99]"
+      }
+    ]
+  },
+  "-a-g̲l-GA-pa-xix": {
+    "root": "-a-g̲l-GA-pa-xix",
+    "partOfSpeech": "vb",
+    "definition": "start out to run fast",
+    "forms": [
+      {
+        "kiksht": "gashtag̲elgápaxix",
+        "english": "they 2 started out to run fast [WTI.11.6] GT 1/14/99 rejects -xix ending, gives gashtag̲lgabaix for this meaning.] -KA-pq [vb]"
+      },
+      {
+        "kiksht": "go in, come in, fly in Forms: yugwápqt",
+        "english": "he is going in, flying in"
+      },
+      {
+        "kiksht": "itgápqt",
+        "english": "he is coming in"
+      },
+      {
+        "kiksht": "yashkgápat",
+        "english": "he is going in the house"
+      },
+      {
+        "kiksht": "ishgatkapqt",
+        "english": "he is coming in the house"
+      },
+      {
+        "kiksht": "gayukwapq",
+        "english": "he went in [Dyk]"
+      },
+      {
+        "kiksht": "gashtilkapg̲ix",
+        "english": "they 2 entered into it[i-] [WTI.10.2]"
       }
     ]
   },
@@ -4806,6 +4875,21 @@
       }
     ]
   },
+  "-gm-xa-GA-pa": {
+    "root": "-gm-xa-GA-pa",
+    "partOfSpeech": "vb",
+    "definition": "work on",
+    "forms": [
+      {
+        "kiksht": "aqagemxágaba",
+        "english": "one will work at it[a-] [WTII.7.1, 2]"
+      },
+      {
+        "kiksht": "digmxagapx",
+        "english": "they are working on him [WTIII.1.1]"
+      }
+    ]
+  },
   "-gm-xa-t-GA-it": {
     "root": "-gm-xa-t-GA-it",
     "partOfSpeech": "vb",
@@ -5015,6 +5099,33 @@
     ],
     "seeAlso": [
       "-q'iuqt"
+    ]
+  },
+  "-g̲l-GA-qłq": {
+    "root": "-g̲l-GA-qłq",
+    "partOfSpeech": "vb",
+    "definition": "part from, separate from, pull away from",
+    "forms": [
+      {
+        "kiksht": "yag̲lgaqłqt",
+        "english": "he is parted from her"
+      },
+      {
+        "kiksht": "ig̲lgaqłqt",
+        "english": "he is apart/parting from him"
+      },
+      {
+        "kiksht": "igig̲lkaqłq",
+        "english": "he pulled apart from him"
+      },
+      {
+        "kiksht": "ig̲lgaqłqix",
+        "english": "some- thing has parted from him"
+      },
+      {
+        "kiksht": "igig̲lgaqłqixit",
+        "english": "something became separated from him [Dyk]"
+      }
     ]
   },
   "-g̲m-CHX̲U-kw": {
@@ -6082,6 +6193,49 @@
       {
         "kiksht": "chiug̲wílimalchł",
         "english": "he is trying to thrown him down off of them [Dyk]"
+      }
+    ]
+  },
+  "-l-KA-pq": {
+    "root": "-l-KA-pq",
+    "partOfSpeech": "vb",
+    "definition": "go into, come into, enter, penetrate, run into",
+    "forms": [
+      {
+        "kiksht": "ilgapqdix",
+        "english": "he is going into it[i-] (a hole)"
+      },
+      {
+        "kiksht": "itkapqdix",
+        "english": "he is com- ing into it[i-] (a hole); he was going into it"
+      },
+      {
+        "kiksht": "nigilkapg̲ix",
+        "english": "he came/went into it[i-] (a hole) (last season)"
+      },
+      {
+        "kiksht": "nigitkapg̲ix",
+        "english": "he came/went into it[i-] (a hole) (last week)"
+      },
+      {
+        "kiksht": "gayalkapq",
+        "english": "he went into it[a-]; he went in to her"
+      },
+      {
+        "kiksht": "galilkapq",
+        "english": "he went into it[i-]; he went in to him"
+      },
+      {
+        "kiksht": "gayawikapq",
+        "english": "he went into them; he went in to them [Dyk]"
+      },
+      {
+        "kiksht": "gayalkapq",
+        "english": "he penetrated her [WTI.1c.11]"
+      },
+      {
+        "kiksht": "gashtawigapg̲mx",
+        "english": "they 2 ran into them [WTI.11.7]"
       }
     ]
   },
@@ -9520,6 +9674,29 @@
       }
     ]
   },
+  "-xl-GA-wulx": {
+    "root": "-xl-GA-wulx",
+    "partOfSpeech": "vb",
+    "definition": "get up fast (as from lying position)",
+    "forms": [
+      {
+        "kiksht": "ixelgawulxt",
+        "english": "he is getting up"
+      },
+      {
+        "kiksht": "nixelgawulx",
+        "english": "he got up"
+      },
+      {
+        "kiksht": "galixelgáulx",
+        "english": "he got up [Dyk]"
+      },
+      {
+        "kiksht": "nixelgáulx",
+        "english": "he got up [WTI.1a4]"
+      }
+    ]
+  },
   "-xl-GAYU": {
     "root": "-xl-GAYU",
     "partOfSpeech": "vb",
@@ -9623,6 +9800,75 @@
       {
         "kiksht": "chialxmagámidapx",
         "english": "he is making him work for her [Dyk]"
+      }
+    ]
+  },
+  "-xm-GA-pa": {
+    "root": "-xm-GA-pa",
+    "partOfSpeech": "vb",
+    "definition": "work",
+    "forms": [
+      {
+        "kiksht": "anxemgaba",
+        "english": "I will work"
+      },
+      {
+        "kiksht": "atxmatgaba",
+        "english": "we (you and I) will work (distant future)"
+      },
+      {
+        "kiksht": "enxemgápx",
+        "english": "I am working"
+      },
+      {
+        "kiksht": "ixemgápx",
+        "english": "he is working"
+      },
+      {
+        "kiksht": "nigixmatgaba",
+        "english": "he worked"
+      },
+      {
+        "kiksht": "nixemgálpt, galixemgálpt",
+        "english": "he works (whenever he feels like it)"
+      },
+      {
+        "kiksht": "enxemxagapx, enxaxmaxagapx",
+        "english": "I am working on myself"
+      },
+      {
+        "kiksht": "with relational prefix -l-",
+        "english": "for"
+      },
+      {
+        "kiksht": ": nilxmagapx",
+        "english": "I am working for him"
+      },
+      {
+        "kiksht": "yalxmagapx",
+        "english": "he is working for her"
+      },
+      {
+        "kiksht": "niyaitxmágaba",
+        "english": "he worked for her (last week)"
+      },
+      {
+        "kiksht": "with relational prefix -gm-",
+        "english": "on"
+      },
+      {
+        "kiksht": ": yagemxagapx",
+        "english": "he is working on it[a- ]"
+      },
+      {
+        "kiksht": "niyagmatxagapx",
+        "english": "he was working on it[a-] (last week) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Enxaxemgapx anxuxa.",
+        "english": "I will work on myself/on my clothes. [Dyk]"
       }
     ]
   },

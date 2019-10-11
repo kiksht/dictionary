@@ -12491,3 +12491,35 @@ Examples: Galugwaba waskaniamt. “They escaped from the box.” [WTI.9.12] A©a
 
 -a-l-GA-pa [vb] not speak very well, be unable to think what to say, stam- mer
 Forms: ailgÅlp¬ “he’s stammering” anelgÅlp¬ “I’m stammering” [PK 5/ 12/57]
+
+
+
+
+
+
+
+
+-gm-xa-GA-pa [vb] work on
+Forms: aqagemxÅgaba “one will work at it[a-]” [WTII.7.1, 2] digmxagapx “they are working on him” [WTIII.1.1]
+
+-xm-GA-pa [vb] work
+Forms: anxemgaba “I will work” atxmatgaba “we (you and I) will work (distant future)” enxemgÅpx “I am working” ixemgÅpx “he is working” nigixmatgaba “he worked” nixemgÅlpt, galixemgÅlpt “he works (whenever he feels like it)” enxemxagapx, enxaxmaxagapx “I am working on myself” with relational prefix -l- “for”: nilxmagapx “I am working for him” yalxmagapx “he is working for her” niyaitxmÅgaba “he worked for her (last week)” with relational prefix -gm- “on”: yagemxagapx “he is working on it[a- ]” niyagmatxagapx “he was working on it[a-] (last week)” [Dyk]
+Examples: Enxaxemgapx anxuxa. “I will work on myself/on my clothes.” [Dyk]
+
+-a-©l-GA-pa-ix [vb] start out running, set out to run fast
+Forms: gashta©elgabaix “they two set out to run fast” [GT 1/14/99]
+
+-a-©l-GA-pa-xix [vb] start out to run fast
+Forms: gashta©elgÅpaxix “they 2 started out to run fast” [WTI.11.6] GT 1/14/99 rejects -xix ending, gives gashta©lgabaix for this meaning.] -KA-pq [vb] go in, come in, fly in Forms: yugwÅpqt “he is going in, flying in” itgÅpqt “he is coming in” yashkgÅpat “he is going in the house” ishgatkapqt “he is coming in the house” gayukwapq “he went in” [Dyk] gashtilkap©ix “they 2 entered into it[i-]” [WTI.10.2]
+
+-l-KA-pq [vb] go into, come into, enter, penetrate, run into
+Forms: ilgapqdix “he is going into it[i-] (a hole)” itkapqdix “he is com- ing into it[i-] (a hole); he was going into it” nigilkap©ix “he came/went into it[i-] (a hole) (last season)” nigitkap©ix “he came/went into it[i-] (a hole) (last week)” gayalkapq “he went into it[a-]; he went in to her” galilkapq “he went into it[i-]; he went in to him” gayawikapq “he went into them; he went in to them” [Dyk] gayalkapq “he penetrated her” [WTI.1c.11] gashtawigap©mx “they 2 ran into them” [WTI.11.7]
+
+-©l-GA-q¬q [vb] part from, separate from, pull away from
+Forms: ya©lgaq¬qt “he is parted from her” i©lgaq¬qt “he is apart/parting from him” igi©lkaq¬q “he pulled apart from him” i©lgaq¬qix “some- thing has parted from him” igi©lgaq¬qixit “something became separated from him” [Dyk]
+
+-KA-wulx [vb] run up, climb, rise, arise, rise up, fly up
+Forms: gashti©lgaulxix “they 2 ran up out of it[i-]” [WTI.11.6] anugÅwulxa “I will go up , go upriver, fly up” [GT 1/14/99] gayugwawulxt “he climbed” [WTI.1n.1, 18.10] Examples: Kadux galugwawulx a©a¬ax. “In the morning the sun rose.” [WTI.1n.1]
+
+-xl-GA-wulx [vb] get up fast (as from lying position)
+Forms: ixelgawulxt “he is getting up” nixelgawulx “he got up” galixelgÅulx “he got up” [Dyk] nixelgÅulx “he got up” [WTI.1a4]
