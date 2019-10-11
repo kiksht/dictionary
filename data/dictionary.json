@@ -6725,6 +6725,46 @@
       "a-gálamat"
     ]
   },
+  "-k'ámunaq": {
+    "root": "-k'ámunaq",
+    "partOfSpeech": "n",
+    "definition": "tree, stick, wood, log, leg",
+    "forms": [
+      {
+        "kiksht": "ak'ámunaq",
+        "english": "log"
+      },
+      {
+        "kiksht": "agámunaq",
+        "english": "large log"
+      },
+      {
+        "kiksht": "ik'ámunaq",
+        "english": "tree, stick, wood [Dyk]"
+      },
+      {
+        "kiksht": "iłk'amunaqmax",
+        "english": "drifted log; log cut for wood or lumber[PK 8/7/55]; dead trees stand- ing here and there [Dyk]"
+      },
+      {
+        "kiksht": "itk'ámunaq",
+        "english": "wood, trees, logs, sticks"
+      },
+      {
+        "kiksht": "itk'ámunaqmax",
+        "english": "trees, sticks [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Naqi amdushtxwa itk'ámunaq.",
+        "english": "You will not pack wood. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "k'ámunaq"
+    ]
+  },
   "-k-CHA": {
     "root": "-k-CHA",
     "partOfSpeech": "vb",
@@ -10193,6 +10233,20 @@
       }
     ]
   },
+  "-x-K'ANAMA-kw": {
+    "root": "-x-K'ANAMA-kw",
+    "partOfSpeech": "vb",
+    "definition": "do over again",
+    "forms": [
+      {
+        "kiksht": "chaxk'ánamankwł",
+        "english": "he is doing it[a-] over again [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-kak'ánamankwł"
+    ]
+  },
   "-x-KL": {
     "root": "-x-KL",
     "partOfSpeech": "vb",
@@ -13208,6 +13262,14 @@
     "root": "a-k'álituk",
     "partOfSpeech": "n",
     "definition": "saddle-horn"
+  },
+  "a-k'ámishgwadit": {
+    "root": "a-k'ámishgwadit",
+    "partOfSpeech": "n",
+    "definition": "bow on cradleboard, cradleboard bow",
+    "notes": [
+      "Refers to the bow on the cradleboard arching in front of the baby's face to protect it in case of a fall forward."
+    ]
   },
   "a-kachkdama": {
     "root": "a-kachkdama",
@@ -37615,6 +37677,28 @@
       "i- k'aic"
     ]
   },
+  "i- -k'amla": {
+    "root": "i- -k'amla",
+    "partOfSpeech": "adj n",
+    "definition": "bad, evil, ugly, wicked, naughty",
+    "forms": [
+      {
+        "kiksht": "imik'amla",
+        "english": "you are bad, naughty"
+      },
+      {
+        "kiksht": "iyak'amla, yak'amla",
+        "english": "he is bad, naughty"
+      },
+      {
+        "kiksht": "idak'ámlamax",
+        "english": "they are bad ones [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-yak'amlaix, it-k'amlaimum, i- -gamla"
+    ]
+  },
   "i- -kshti": {
     "root": "i- -kshti",
     "partOfSpeech": "adj n",
@@ -40715,6 +40799,14 @@
       "i-kwłilal, i-galxix"
     ]
   },
+  "i-k'amwat": {
+    "root": "i-k'amwat",
+    "partOfSpeech": "n",
+    "definition": "rawhide rope [HS, PK], hair rope [Dyk], short rope used for various purposes [GT, MMc 6/4/98]",
+    "seeAlso": [
+      "ił-k'amwat"
+    ]
+  },
   "i-k'ałmgwadit": {
     "root": "i-k'ałmgwadit",
     "partOfSpeech": "n",
@@ -40723,23 +40815,29 @@
       "Formerly made of hardwood, now sometimes made of copper."
     ]
   },
+  "i-k'ámunak": {
+    "root": "i-k'ámunak",
+    "partOfSpeech": "n",
+    "definition": "wood, piece of wood, stick",
+    "forms": [
+      {
+        "kiksht": "itk'ámunak",
+        "english": "pieces of wood"
+      }
+    ],
+    "notes": [
+      "The word usually appears in this form in Wishram Texts. From contemporary Wasco speakers it has been transcribed as ik'ámunaq."
+    ],
+    "seeAlso": [
+      "i-k'amunaq"
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
     "definition": "wood, stick of wood",
     "seeAlso": [
-      "i-k'amunak k'ámunaq [num]  hundred",
-      "-k'ámunaq"
-    ],
-    "examples": [
-      {
-        "kiksht": "íxd iak'amunaq",
-        "english": "one hundred"
-      },
-      {
-        "kiksht": "ixt inshak'amunaq k'un senmakwstłał",
-        "english": "170 of us [Dyk]"
-      }
+      "i-k'amunak"
     ]
   },
   "i-k'áłamgwadid": {
@@ -40748,6 +40846,30 @@
     "definition": "rattles",
     "notes": [
       "Note from Sapir, Wishram Texts p.168: \"The ik'áłamgwadid is described as a tin ornament of the shape of a funnel; several were tied close to one another to a belt or saddle, and produced a jingling ef- fect. Pete adds that surely the 'ik'áłamgwadid was made before Indians ever saw tin. To my knowl- edge, it was made of horn or bone in olden days.' Perhaps dew-claw rattles are referred to.\""
+    ]
+  },
+  "i-k'áłxilal": {
+    "root": "i-k'áłxilal",
+    "partOfSpeech": "n",
+    "definition": "crawling",
+    "forms": [
+      {
+        "kiksht": "iyak'áłxilal",
+        "english": "he is one who crawls [GT, MMc 6/4/98]; boy [AF 7/ 23/53]"
+      },
+      {
+        "kiksht": "ichak'áłxilal",
+        "english": "she is one who crawls [GT, MMc 6/4/98]; girl [AF 7/ 23/53]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Iłak'áłxilal iłshdaxan.",
+        "english": "Their child is crawling. [AF 7/23/ 53]"
+      }
+    ],
+    "seeAlso": [
+      "-łxi"
     ]
   },
   "i-k'íwulal": {
@@ -43964,6 +44086,28 @@
       "wa-k'alkal"
     ]
   },
+  "ish-k'amaqwdit": {
+    "root": "ish-k'amaqwdit",
+    "partOfSpeech": "n",
+    "definition": "upper lip [Dyk], area below nostrils where mustache grows [PK]",
+    "forms": [
+      {
+        "kiksht": "itk'amaqwditksh",
+        "english": "upper lips [Dyk]"
+      }
+    ]
+  },
+  "ish-k'anat": {
+    "root": "ish-k'anat",
+    "partOfSpeech": "n",
+    "definition": "pistol, revolver",
+    "forms": [
+      {
+        "kiksht": "itk'anat",
+        "english": "pistols, revolvers [WTIV.2.4; Dyk]"
+      }
+    ]
+  },
   "ish-kabiłxit": {
     "root": "ish-kabiłxit",
     "partOfSpeech": "n",
@@ -45001,6 +45145,28 @@
     ],
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "it-k'amlaimum": {
+    "root": "it-k'amlaimum",
+    "partOfSpeech": "n",
+    "definition": "badness, guilt, wickedness, evil",
+    "forms": [
+      {
+        "kiksht": "idmik'amalimum",
+        "english": "your bad- ness, guilt, wickedness [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i- -k'amla"
+    ]
+  },
+  "it-k'anatxus": {
+    "root": "it-k'anatxus",
+    "partOfSpeech": "n",
+    "definition": "buttercup",
+    "seeAlso": [
+      "is-qus, ish-k'anat"
     ]
   },
   "it-k'áicimum": {
@@ -46645,6 +46811,19 @@
       "-lkch"
     ]
   },
+  "ił-k'amuat": {
+    "root": "ił-k'amuat",
+    "partOfSpeech": "n",
+    "definition": "horse-hair rope"
+  },
+  "ił-k'amwat": {
+    "root": "ił-k'amwat",
+    "partOfSpeech": "n",
+    "definition": "hair rope",
+    "seeAlso": [
+      "i-k'amwat"
+    ]
+  },
   "ił-k'álamat": {
     "root": "ił-k'álamat",
     "partOfSpeech": "n",
@@ -47205,6 +47384,49 @@
         "kiksht": "",
         "english": "Aish k'ala ałgnuxa. \"They will just pack me on their back. [WTI.1c.5]"
       }
+    ]
+  },
+  "k'amałemt": {
+    "root": "k'amałemt",
+    "partOfSpeech": "adv",
+    "definition": "next to water, right along water",
+    "notes": [
+      "See diagram under łxliwix."
+    ],
+    "seeAlso": [
+      "łxliu, łxliwix, łxlíwadamt"
+    ]
+  },
+  "k'ámunaq": {
+    "root": "k'ámunaq",
+    "partOfSpeech": "num",
+    "definition": "hundred",
+    "examples": [
+      {
+        "kiksht": "íxd iak'amunaq",
+        "english": "one hun- dred"
+      },
+      {
+        "kiksht": "ixt inshak'amunaq k'un senmakwstłał",
+        "english": "170 of us [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k'ámunaq"
+    ]
+  },
+  "k'ánapuch": {
+    "root": "k'ánapuch",
+    "partOfSpeech": "part",
+    "definition": "ride behind an- other (especially on horseback)",
+    "examples": [
+      {
+        "kiksht": "K'ánapuch amxuxa.",
+        "english": "You will ride behind. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-púch"
     ]
   },
   "ka'as": {
