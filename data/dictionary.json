@@ -5115,6 +5115,21 @@
       }
     ]
   },
+  "-l-IMA": {
+    "root": "-l-IMA",
+    "partOfSpeech": "vb",
+    "definition": "shoot, cast, throw, send",
+    "forms": [
+      {
+        "kiksht": "ichiulima",
+        "english": "he sent him; he shot it[i-] (for instance, arrow)"
+      },
+      {
+        "kiksht": "inaigílima",
+        "english": "I shot it[a-] at him [Dyk]"
+      }
+    ]
+  },
   "-l-u-I": {
     "root": "-l-u-I",
     "partOfSpeech": "vb",
@@ -6720,6 +6735,122 @@
       }
     ]
   },
+  "-x-IMA": {
+    "root": "-x-IMA",
+    "partOfSpeech": "vb",
+    "definition": "let go, release, send off, lay down, set down (in lying posi- tion), mail, leave, leave behind, die on, pass away (from)",
+    "forms": [
+      {
+        "kiksht": "anixímaya",
+        "english": "I will let him go"
+      },
+      {
+        "kiksht": "achaxímaya",
+        "english": "he will let her go"
+      },
+      {
+        "kiksht": "anixadímaya",
+        "english": "I will let him go (dis- tant future)"
+      },
+      {
+        "kiksht": "achaxadímaya",
+        "english": "he will let her go"
+      },
+      {
+        "kiksht": "chaximat",
+        "english": "he has her released"
+      },
+      {
+        "kiksht": "chaxím∫ ił",
+        "english": "he is letting her go"
+      },
+      {
+        "kiksht": "ichaxima",
+        "english": "he let her go"
+      },
+      {
+        "kiksht": "ichaxadima",
+        "english": "he let her go (in this direction)"
+      },
+      {
+        "kiksht": "ichłxímeniłchk",
+        "english": "he let them go (one at a time)"
+      },
+      {
+        "kiksht": "iqixima",
+        "english": "he is let go; he is laid out"
+      },
+      {
+        "kiksht": "nichuxaima",
+        "english": "he let them go (last season)"
+      },
+      {
+        "kiksht": "nichuxadima",
+        "english": "he let them go (last week)"
+      },
+      {
+        "kiksht": "nigixímanił",
+        "english": "she let him go (several times, last season)"
+      },
+      {
+        "kiksht": "nimaxadima",
+        "english": "you let her go (last week)"
+      },
+      {
+        "kiksht": "nachixímamama",
+        "english": "he went to send her off"
+      },
+      {
+        "kiksht": "nachixadímamama",
+        "english": "he came to send her off"
+      },
+      {
+        "kiksht": "ik'iximat",
+        "english": "he is letting go"
+      },
+      {
+        "kiksht": "ixtk'iximat",
+        "english": "he was letting go"
+      },
+      {
+        "kiksht": "iximaix!",
+        "english": "let it[i-] go!"
+      },
+      {
+        "kiksht": "gachłxima",
+        "english": "he laid them down [Dyk]"
+      },
+      {
+        "kiksht": "ganshkłxádima",
+        "english": "we left them [WTIV.2.23]"
+      },
+      {
+        "kiksht": "ichenxima",
+        "english": "he left me"
+      },
+      {
+        "kiksht": "igenxima",
+        "english": "she left me [GT, MMc 1/ 15/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Inixima ikálayamt.",
+        "english": "I sent him to the man."
+      },
+      {
+        "kiksht": "Chiximat iyach'axwi.",
+        "english": "He is mailing his letter."
+      },
+      {
+        "kiksht": "(Literally,",
+        "english": "He is laying his letter down.)"
+      }
+    ],
+    "notes": [
+      "Can refer to releasing or let- ting a person or thing go, or sending someone or something off, such as a package."
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -6839,6 +6970,31 @@
       {
         "kiksht": "Naqi it'uktix inxíglagwax.",
         "english": "I haven't felt well. [WTIII.1.1]"
+      }
+    ]
+  },
+  "-x-gi-l-IMA": {
+    "root": "-x-gi-l-IMA",
+    "partOfSpeech": "vb",
+    "definition": "shoot at",
+    "forms": [
+      {
+        "kiksht": "enxigílimalal",
+        "english": "I was shooting at him"
+      },
+      {
+        "kiksht": "niyaxagílima",
+        "english": "he shot at her (last season, once)"
+      },
+      {
+        "kiksht": "nigixangidlima",
+        "english": "he shot at me (last week, once) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Inxigílima ikálayamt.",
+        "english": "I aimed and let go towards the man. [Dyk]"
       }
     ]
   },
@@ -7006,6 +7162,74 @@
         "kiksht": "̨ixigayapq igixux.",
         "english": "He put his hand into himself. [Dyk]"
       }
+    ]
+  },
+  "-x-l-IMA": {
+    "root": "-x-l-IMA",
+    "partOfSpeech": "vb",
+    "definition": "shoot",
+    "forms": [
+      {
+        "kiksht": "anxadlímaya",
+        "english": "I will shoot (distant future)"
+      },
+      {
+        "kiksht": "alixadlímaya",
+        "english": "he will shoot (distant future)"
+      },
+      {
+        "kiksht": "anxlímaya",
+        "english": "I will shoot"
+      },
+      {
+        "kiksht": "alixlímaya",
+        "english": "he'll shoot"
+      },
+      {
+        "kiksht": "enxlímalal",
+        "english": "I am shoot- ing about"
+      },
+      {
+        "kiksht": "ixlímalal",
+        "english": "he is shooting about"
+      },
+      {
+        "kiksht": "ixlimnił",
+        "english": "he is shooting (re- peatedly)"
+      },
+      {
+        "kiksht": "ixlimat",
+        "english": "he has shot"
+      },
+      {
+        "kiksht": "enxadlímalal",
+        "english": "I was shooting (yester- day)"
+      },
+      {
+        "kiksht": "inxlímalalmchk",
+        "english": "I shot (sev- eral times)"
+      },
+      {
+        "kiksht": "nanxlímaya",
+        "english": "I shot (once)"
+      },
+      {
+        "kiksht": "nanxlimalalma",
+        "english": "I was shoot- ing (several times)"
+      },
+      {
+        "kiksht": "ganxlímalalemchk",
+        "english": "I shot (several times) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ixtkadix inxlima.",
+        "english": "I shot once. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Apparently refers mostly to shooting with bow and arrow."
     ]
   },
   "-xa-xi-CHU": {
@@ -7540,6 +7764,25 @@
     ],
     "seeAlso": [
       "ił-nachkan"
+    ]
+  },
+  "Iłxłél Iłchqwá": {
+    "root": "Iłxłél Iłchqwá",
+    "partOfSpeech": "place",
+    "definition": "Kah Nee Ta",
+    "notes": [
+      "Literally \"hot water.\""
+    ],
+    "seeAlso": [
+      "-x-ŁL, ił-chqwá"
+    ]
+  },
+  "Iłyakwálamadix": {
+    "root": "Iłyakwálamadix",
+    "partOfSpeech": "place",
+    "definition": "Bend",
+    "notes": [
+      "Undoubtedly related to i- k'alamat \"rock.\""
     ]
   },
   "Notes: Refers to oak of which igaben, digging stick, is made": {
@@ -37990,6 +38233,30 @@
     "definition": "they dangled",
     "seeAlso": [
       "-x-KW'A-kw"
+    ]
+  },
+  "iłxláit": {
+    "root": "iłxláit",
+    "partOfSpeech": "vb",
+    "definition": "they have died",
+    "seeAlso": [
+      "-x-ŁA-it, -ŁA-it"
+    ]
+  },
+  "iłxúx": {
+    "root": "iłxúx",
+    "partOfSpeech": "vb",
+    "definition": "it has become",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "iłxłáit": {
+    "root": "iłxłáit",
+    "partOfSpeech": "vb",
+    "definition": "they have died",
+    "seeAlso": [
+      "-x-ŁA-it"
     ]
   },
   "kinwa": {
