@@ -3073,6 +3073,31 @@
       }
     ]
   },
+  "-KA": {
+    "root": "-KA",
+    "partOfSpeech": "vb",
+    "definition": "stick up, be in upright posi- tion, pull (up)",
+    "forms": [
+      {
+        "kiksht": "gachixga",
+        "english": "he pulled it[i-] out of it[i-]"
+      },
+      {
+        "kiksht": "gayalgaxit",
+        "english": "it[i-] got stuck in her"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gachilgamit wilxba iyagaben.",
+        "english": "He stuck his digging stick in the ground. [WTI.1a4]"
+      },
+      {
+        "kiksht": "Qushtíaxa alkat agakshén axk'eskax wakac ichak'aic.",
+        "english": "Truly a small thorn is stuck in her shortest finger. [WTI.1e.4]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -4245,6 +4270,303 @@
     ],
     "notes": [
       "The -m- is omitted before the suffix -ł-."
+    ]
+  },
+  "-gl-GA": {
+    "root": "-gl-GA",
+    "partOfSpeech": "vb",
+    "definition": "get, get hold of, pick up, take (hold of), arrest, hold",
+    "forms": [
+      {
+        "kiksht": "igelga!",
+        "english": "hang on to him, get hold of him!"
+      },
+      {
+        "kiksht": "igelgaix",
+        "english": "hang on to it[i-], get hold of it[i-] (a place)!"
+      },
+      {
+        "kiksht": "emshgigelga!",
+        "english": "you folks get hold of him!"
+      },
+      {
+        "kiksht": "anchgelgaya",
+        "english": "I'll get them 2\" anugigaya \"I'll get them"
+      },
+      {
+        "kiksht": "nigelgát",
+        "english": "I am getting hold of him, have hold of him"
+      },
+      {
+        "kiksht": "chigelgát",
+        "english": "he is getting hold of him, has hold of him"
+      },
+      {
+        "kiksht": "chugigát",
+        "english": "he is getting hold of them, has hold of them"
+      },
+      {
+        "kiksht": "chigelgadix",
+        "english": "he is hanging on to it[i-] (a place)"
+      },
+      {
+        "kiksht": "qagelgat",
+        "english": "she is gotten hold of, arrested"
+      },
+      {
+        "kiksht": "chigitgat",
+        "english": "he had hold of him"
+      },
+      {
+        "kiksht": "inagelga",
+        "english": "I got her, got hold of her"
+      },
+      {
+        "kiksht": "ichgelga",
+        "english": "he got her, got hold of her"
+      },
+      {
+        "kiksht": "ichugiga",
+        "english": "he got them, got hold of them"
+      },
+      {
+        "kiksht": "ichigitga",
+        "english": "he got him, got hold of him (over there)"
+      },
+      {
+        "kiksht": "ichugwitga",
+        "english": "he got them, got hold of them (over there)"
+      },
+      {
+        "kiksht": "inckłgelga",
+        "english": "we (not including you) got it"
+      },
+      {
+        "kiksht": "ninigelga",
+        "english": "I got him, got hold of him (last season)"
+      },
+      {
+        "kiksht": "ninłgelga",
+        "english": "I got it, got hold of it (last season)"
+      },
+      {
+        "kiksht": "ninugiga",
+        "english": "I got them, got hold of them (last season)"
+      },
+      {
+        "kiksht": "ninugitga",
+        "english": "I got them, got hold of them (last week)"
+      },
+      {
+        "kiksht": "nichigelga",
+        "english": "he got him, got hold of him (last season)"
+      },
+      {
+        "kiksht": "nichigelgát",
+        "english": "he was getting him, had hold of him (last season)"
+      },
+      {
+        "kiksht": "nichigelgenił",
+        "english": "he was getting hold of him, trying to get hold of him (several attempts); he usually got him/it[i-] (for instance, of getting mail every couple of days) (last season)"
+      },
+      {
+        "kiksht": "nichigitga",
+        "english": "he got him, got hold of him (last week)"
+      },
+      {
+        "kiksht": "nichigitgát",
+        "english": "he was getting him, had hold of him (last week)"
+      },
+      {
+        "kiksht": "nichigitgenił",
+        "english": "he was getting hold of him, trying to get hold of him (sev- eral attempts); he usually got him/ it[i-] (for instance, of getting mail every couple of days) (last week)"
+      },
+      {
+        "kiksht": "nichigelgadix",
+        "english": "he was hanging on to it[i-] (a place)"
+      },
+      {
+        "kiksht": "gachigitgat",
+        "english": "he had hold of him (last year)"
+      },
+      {
+        "kiksht": "gachugiga",
+        "english": "he got them"
+      },
+      {
+        "kiksht": "gaqugiga",
+        "english": "they were gotten"
+      },
+      {
+        "kiksht": "gachigelga",
+        "english": "he got him"
+      },
+      {
+        "kiksht": "gachłgelga",
+        "english": "he got it"
+      },
+      {
+        "kiksht": "gashgshgelga",
+        "english": "they 2 got them 2"
+      },
+      {
+        "kiksht": "gaqigelga",
+        "english": "he was gotten, was got hold of"
+      },
+      {
+        "kiksht": "with relational prefixes: chialxigat",
+        "english": "he has hold of it[i-] for her, is hold- ing it for her (might refer to posses- sion of land, but not to a horse trying to get away); he has hold of it[i-] inside it[a-]"
+      },
+      {
+        "kiksht": "nachanlxígaya",
+        "english": "he got it[a-] for me"
+      },
+      {
+        "kiksht": "chiaxxigat",
+        "english": "he has it[i-] from her (implies \"she gave it to him"
+      },
+      {
+        "kiksht": "); he is taking it from her\" nachanxxígaya",
+        "english": ""
+      },
+      {
+        "kiksht": "nachanxxígaya",
+        "english": "he got it[a-] from me"
+      },
+      {
+        "kiksht": "chiagemxigat",
+        "english": "he has found it[i- ] which she was trying to hide"
+      },
+      {
+        "kiksht": "(liter- ally",
+        "english": "he has found it beside her) [Dyk]"
+      },
+      {
+        "kiksht": "ninilglegamam",
+        "english": "I went to get it and bring it back for him [GT 1/15/ 99]"
+      },
+      {
+        "kiksht": "with passive suffix -ix: igelgatix",
+        "english": "he/ it[i-] is gotten hold of, or is being held, has been gotten hold of; he has been arrested, has been caught and jailed; it[i-] (for instance, an allot- ment) is held in possession"
+      },
+      {
+        "kiksht": "igelgatixix",
+        "english": "it[i-] (a place) is being held, taken (and used to live on)"
+      },
+      {
+        "kiksht": "igelgaxlit",
+        "english": "he is always being ar- rested, held"
+      },
+      {
+        "kiksht": "igigelgaxit",
+        "english": "he was gotten hold of, was arrested"
+      },
+      {
+        "kiksht": "with passive suffix -ix and relational prefixes: ailxigatix",
+        "english": "she is gotten hold of for him"
+      },
+      {
+        "kiksht": "ailxigátixix",
+        "english": "she is gotten hold of in it[i-] (place)"
+      },
+      {
+        "kiksht": "aixxígatix",
+        "english": "it[a-] is gotten hold of from him"
+      },
+      {
+        "kiksht": "yuxwaxigatix",
+        "english": "it[i-] is gotten hold of from them, is taken from them"
+      },
+      {
+        "kiksht": "with reflexive prefixe -x-",
+        "english": "-self"
+      },
+      {
+        "kiksht": ": ixgelgat",
+        "english": "they are stuck together (are holding one another)"
+      },
+      {
+        "kiksht": "shxgelgat",
+        "english": "they 2 are stuck together (are hold- ing each other)"
+      },
+      {
+        "kiksht": "uxwigat",
+        "english": "they are stuck together"
+      },
+      {
+        "kiksht": "with reflexive relational prefixes: aixelxigat",
+        "english": "he has taken her for him- self"
+      },
+      {
+        "kiksht": "aixitxigat",
+        "english": "he had taken her for himself"
+      },
+      {
+        "kiksht": "aixemxigat",
+        "english": "he has found it[a-] which had been lost from him (literally \"beside himself"
+      },
+      {
+        "kiksht": ")\" axmatxigat",
+        "english": ""
+      },
+      {
+        "kiksht": "axmatxigat",
+        "english": "he had found it[a-] which had been lost to himself"
+      },
+      {
+        "kiksht": "(Lat- ter two expressions might be used, for instance, of a dog who had had a bone and lost it has now found it again.) aixxigat",
+        "english": "he has it[i-] taken from himself"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Agelga ak'ínułmat iladamyamt.",
+        "english": "Pick up the pen from the table. [GT, MMc]"
+      },
+      {
+        "kiksht": "Anugigay(a) alma.",
+        "english": "I'll get them yet/later."
+      },
+      {
+        "kiksht": "Achłgelgaya iłchqwá.",
+        "english": "He will get water."
+      },
+      {
+        "kiksht": "Dan achigelgaya?",
+        "english": "What will he get/pick up/find?"
+      },
+      {
+        "kiksht": "Alm(a) atgagelgaya.",
+        "english": "Then we 2 (you and I) will get her, get hold of her."
+      },
+      {
+        "kiksht": "Alm(a) atgugigaya.",
+        "english": "Then we 2 (you and I) will get them."
+      },
+      {
+        "kiksht": "K'aya xabixix iłchqwá iqłgelga.",
+        "english": "No water was gotten last night."
+      },
+      {
+        "kiksht": "Kinua gałgigelga.",
+        "english": "They were unable to get hold of it[i-]."
+      },
+      {
+        "kiksht": "Gachngitga bama g̲waug̲wau.",
+        "english": "He got me to beat sticks for him. [Dyk]"
+      },
+      {
+        "kiksht": "Dawa yax achagelgaya",
+        "english": "This one[a-] he will get/take for himself. [DH?:?]"
+      },
+      {
+        "kiksht": "Ninilgelgamam ichxan wilx.",
+        "english": "I went to get land for my son. [GT 1/15/99]"
+      },
+      {
+        "kiksht": "Ugwiga itk'ámunaq.",
+        "english": "Pick up the pieces of wood."
+      }
     ]
   },
   "-gl-GAYU": {
