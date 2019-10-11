@@ -37594,12 +37594,271 @@
       "-i-l-xa-SHA"
     ]
   },
+  "imnulxam": {
+    "root": "imnulxam",
+    "partOfSpeech": "vb",
+    "definition": "you told me",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "imnuquchk": {
+    "root": "imnuquchk",
+    "partOfSpeech": "vb",
+    "definition": "you have awakened me",
+    "seeAlso": [
+      "-QU, -QU-chk, -(x)- G̲UITQ"
+    ]
+  },
+  "imnuwaq": {
+    "root": "imnuwaq",
+    "partOfSpeech": "vb",
+    "definition": "you have killed me",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "imshdimam": {
+    "root": "imshdimam",
+    "partOfSpeech": "vb",
+    "definition": "you folks have come",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "imshgitłuk": {
+    "root": "imshgitłuk",
+    "partOfSpeech": "vb",
+    "definition": "you folks have brought them",
+    "seeAlso": [
+      "-TŁUK"
+    ]
+  },
+  "imshgnúx": {
+    "root": "imshgnúx",
+    "partOfSpeech": "vb",
+    "definition": "you folks have done to me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "imshgígelga": {
+    "root": "imshgígelga",
+    "partOfSpeech": "vb",
+    "definition": "you folks took them[i-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "imshxúx": {
+    "root": "imshxúx",
+    "partOfSpeech": "vb",
+    "definition": "you folks have become",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "imttł'úk": {
+    "root": "imttł'úk",
+    "partOfSpeech": "vb",
+    "definition": "you brought them",
+    "seeAlso": [
+      "-TŁ'UK"
+    ]
+  },
+  "imtxux": {
+    "root": "imtxux",
+    "partOfSpeech": "vb",
+    "definition": "you 2 have become",
+    "examples": [
+      {
+        "kiksht": "Imtxux emtc'inun.",
+        "english": "You 2 have become birds. [WTI.1b.2]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "imumqt": {
+    "root": "imumqt",
+    "partOfSpeech": "vb",
+    "definition": "you have died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "imuwaq": {
+    "root": "imuwaq",
+    "partOfSpeech": "vb",
+    "definition": "you have killed her",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "imxentłichu": {
+    "root": "imxentłichu",
+    "partOfSpeech": "vb",
+    "definition": "put it[i-] down over your head!",
+    "seeAlso": [
+      "-xn-TŁI-chu"
+    ]
+  },
+  "imxilax": {
+    "root": "imxilax",
+    "partOfSpeech": "vb",
+    "definition": "you are eating it[i-]",
+    "seeAlso": [
+      "-xi-LAX̲"
+    ]
+  },
+  "imxlux": {
+    "root": "imxlux",
+    "partOfSpeech": "vb",
+    "definition": "do it[i-] on yourself!",
+    "examples": [
+      {
+        "kiksht": "K'au imxlux ilipaq.",
+        "english": "Tie the rope around yourself! [Spilyay/ going fishing]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "imxúx": {
+    "root": "imxúx",
+    "partOfSpeech": "vb",
+    "definition": "you have become",
+    "examples": [
+      {
+        "kiksht": "Qengi dan imxux?",
+        "english": "What happened to you? [Spilyay/Dialog]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "imxłuxwan": {
+    "root": "imxłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "you thought",
+    "seeAlso": [
+      "-x-ŁUXWA(N)"
+    ]
+  },
   "imłg̲elkel": {
     "root": "imłg̲elkel",
     "partOfSpeech": "vb",
     "definition": "you saw him[ił-]",
     "seeAlso": [
       "-g̲l-KL"
+    ]
+  },
+  "imłumámagwa": {
+    "root": "imłumámagwa",
+    "partOfSpeech": "vb",
+    "definition": "you have made a mistake about them",
+    "seeAlso": [
+      "-MAMA-kw"
+    ]
+  },
+  "imłxelmam": {
+    "root": "imłxelmam",
+    "partOfSpeech": "vb",
+    "definition": "you went to eat",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "imłúx": {
+    "root": "imłúx",
+    "partOfSpeech": "vb",
+    "definition": "you did it",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "inad": {
+    "root": "inad",
+    "partOfSpeech": "adv",
+    "definition": "across",
+    "examples": [
+      {
+        "kiksht": "Gachag̲elkel anémshksh inad wimał.",
+        "english": "He caught sight of a woman across the river. [WTI.1b.1]"
+      }
+    ],
+    "seeAlso": [
+      "ínadmax"
+    ]
+  },
+  "inagelga": {
+    "root": "inagelga",
+    "partOfSpeech": "vb",
+    "definition": "I have gotten it[a-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "inatka": {
+    "root": "inatka",
+    "partOfSpeech": "adv",
+    "definition": "half, side",
+    "examples": [
+      {
+        "kiksht": "inatka igunat",
+        "english": "side of a Chinook salmon (from cutting the fish lengthwise) [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a half or side made by cutting or splitting something along its length. See shit'ix."
+    ],
+    "seeAlso": [
+      "shit'ix, inátkadix"
+    ]
+  },
+  "indimam": {
+    "root": "indimam",
+    "partOfSpeech": "vb",
+    "definition": "I got there, I arrived",
+    "seeAlso": [
+      "-I, -t-I-mam"
+    ]
+  },
+  "inelqłat": {
+    "root": "inelqłat",
+    "partOfSpeech": "vb",
+    "definition": "I learn it[i-]",
+    "seeAlso": [
+      "-l-QŁA"
+    ]
+  },
+  "inigelga": {
+    "root": "inigelga",
+    "partOfSpeech": "vb",
+    "definition": "I have caught him",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "inátkadix": {
+    "root": "inátkadix",
+    "partOfSpeech": "adv",
+    "definition": "one way , to one side",
+    "examples": [
+      {
+        "kiksht": "Ag̲a qadag̲a dnu inátkadix dashgúpqt idlxam.",
+        "english": "The people just go right in one way. [WTI.11.2]"
+      },
+      {
+        "kiksht": "Iq'ixánaba qw'ap chuwat inátkadix.",
+        "english": "A star closely follows it[a-] [the moon] to one side. [WTII.11.2]"
+      }
+    ],
+    "seeAlso": [
+      "inatka"
     ]
   },
   "is-bnanan": {
@@ -39856,6 +40115,34 @@
         "kiksht": "Amigemgíkwdia áwachi k'aya?",
         "english": "Will you pay him or not? [Dyk] ="
       }
+    ]
+  },
+  "ínadix": {
+    "root": "ínadix",
+    "partOfSpeech": "adv",
+    "definition": "across, on the other side",
+    "examples": [
+      {
+        "kiksht": "Gachshg̲elkel wit'a ínadix.",
+        "english": "He saw them 2 again on the other side. [WTI.1b3]"
+      }
+    ],
+    "seeAlso": [
+      "inat, ínadmax"
+    ]
+  },
+  "ínadmax": {
+    "root": "ínadmax",
+    "partOfSpeech": "adv",
+    "definition": "from across",
+    "examples": [
+      {
+        "kiksht": "Gagigílumnichk ínadmax wimał.",
+        "english": "She yelled at him from across the river. [WTI.1b.1]"
+      }
+    ],
+    "seeAlso": [
+      "inat"
     ]
   },
   "ł-iaxaluksh": {
