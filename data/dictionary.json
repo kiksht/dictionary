@@ -41524,6 +41524,213 @@
       "-DUGWA, it-k'ídugwalal, i- kidugwalalmat"
     ]
   },
+  "i-k'iduxdux": {
+    "root": "i-k'iduxdux",
+    "partOfSpeech": "n",
+    "definition": "scaring",
+    "forms": [
+      {
+        "kiksht": "iyak'iduxdux",
+        "english": "he who scares one [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dux"
+    ]
+  },
+  "i-k'iduxduxmat": {
+    "root": "i-k'iduxduxmat",
+    "partOfSpeech": "n",
+    "definition": "something to scare with",
+    "seeAlso": [
+      "dux, duxdux, i-k'iduxdux"
+    ]
+  },
+  "i-k'igalmamnił": {
+    "root": "i-k'igalmamnił",
+    "partOfSpeech": "n",
+    "definition": "going to get",
+    "forms": [
+      {
+        "kiksht": "iyak'igalmamnił",
+        "english": "he is one who goes to get (something) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-GAL-mam"
+    ]
+  },
+  "i-k'iglalal": {
+    "root": "i-k'iglalal",
+    "partOfSpeech": "n",
+    "definition": "watching",
+    "forms": [
+      {
+        "kiksht": "iyak'iglalal",
+        "english": "he is a watcher (for instance, of people going by) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-GLA"
+    ]
+  },
+  "i-k'iglaqłq": {
+    "root": "i-k'iglaqłq",
+    "partOfSpeech": "n",
+    "definition": "recognizing",
+    "forms": [
+      {
+        "kiksht": "iyak'iglaqłq",
+        "english": "he is one who recognizes people easily [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-GLA-qłq"
+    ]
+  },
+  "i-k'ig̲animx": {
+    "root": "i-k'ig̲animx",
+    "partOfSpeech": "n",
+    "definition": "laughing at",
+    "forms": [
+      {
+        "kiksht": "iyak'ig̲animx",
+        "english": "he is one who laughs at people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "- G̲ANIM"
+    ]
+  },
+  "i-k'ig̲aug̲au": {
+    "root": "i-k'ig̲aug̲au",
+    "partOfSpeech": "n",
+    "definition": "drumming",
+    "forms": [
+      {
+        "kiksht": "idak'ig̲aug̲au",
+        "english": "their drum- ming; they are drummers [WTI.15.1]"
+      }
+    ],
+    "seeAlso": [
+      "g̲aug̲au"
+    ]
+  },
+  "i-k'ig̲emchxugwalal": {
+    "root": "i-k'ig̲emchxugwalal",
+    "partOfSpeech": "n",
+    "definition": "asking",
+    "forms": [
+      {
+        "kiksht": "iyak'igemchxugwalal",
+        "english": "he is one who always asks questions, an inquisitive fellow [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-g̲m-CHX̲U-kw"
+    ]
+  },
+  "i-k'ig̲iglim": {
+    "root": "i-k'ig̲iglim",
+    "partOfSpeech": "n",
+    "definition": "seeing",
+    "forms": [
+      {
+        "kiksht": "ichak'ig̲iglim",
+        "english": "she is one who sees [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-g̲l-KL, i-g̲iglim"
+    ]
+  },
+  "i-k'ig̲ililxł": {
+    "root": "i-k'ig̲ililxł",
+    "partOfSpeech": "n",
+    "definition": "whipping",
+    "forms": [
+      {
+        "kiksht": "iyak'ig̲ililxł",
+        "english": "he is a whipper [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "- G̲ILX"
+    ]
+  },
+  "i-k'ig̲ishg̲ish": {
+    "root": "i-k'ig̲ishg̲ish",
+    "partOfSpeech": "n",
+    "definition": "calling down, bawl- ing out",
+    "examples": [
+      {
+        "kiksht": "Qidau ik'íg̲ishg̲ixh.",
+        "english": "This is the kind of bawling out to give. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to calling down or bawling out after hearing that nasty, mean, lying things have been said about one."
+    ],
+    "seeAlso": [
+      "k'ig̲ishg̲ish, g̲ish"
+    ]
+  },
+  "i-k'ig̲ulchq": {
+    "root": "i-k'ig̲ulchq",
+    "partOfSpeech": "n",
+    "definition": "waking up",
+    "forms": [
+      {
+        "kiksht": "iyak'ig̲ulchq",
+        "english": "he is one who wakes people up [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x- G̲UITQ"
+    ]
+  },
+  "i-k'ig̲wananan": {
+    "root": "i-k'ig̲wananan",
+    "partOfSpeech": "n",
+    "definition": "carrying on shoul- der, carrying on arm",
+    "forms": [
+      {
+        "kiksht": "iyak'ig̲wananan",
+        "english": "he is one who carries things on his shoulder, arm [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "- G̲WANA"
+    ]
+  },
+  "i-k'ig̲wap": {
+    "root": "i-k'ig̲wap",
+    "partOfSpeech": "n",
+    "definition": "going across",
+    "examples": [
+      {
+        "kiksht": "Ik'ig̲wap igixux ak'imxadyamt.",
+        "english": "They decided to go across to the graveyard, set a date to go across to the graveyard. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "qw'ap, g̲wap, it-k'ig̲wapxat"
+    ]
+  },
+  "i-k'ig̲waug̲wau": {
+    "root": "i-k'ig̲waug̲wau",
+    "partOfSpeech": "n",
+    "definition": "stick beating",
+    "forms": [
+      {
+        "kiksht": "iyak'ig̲waug̲wau",
+        "english": "he is a stick beater [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "g̲wau, i-k'ig̲waug̲waumat"
+    ]
+  },
   "i-k'ámunak": {
     "root": "i-k'ámunak",
     "partOfSpeech": "n",
@@ -46001,6 +46208,17 @@
       "-k'ashkash"
     ]
   },
+  "it-k'ig̲wapxat": {
+    "root": "it-k'ig̲wapxat",
+    "partOfSpeech": "n",
+    "definition": "place at which to cross, crossing place, ford",
+    "notes": [
+      "Refers to a place where one might cross by fording or boat, but not by a bridge."
+    ],
+    "seeAlso": [
+      "g̲wap, i-k'ig̲wap"
+    ]
+  },
   "it-k'áicimum": {
     "root": "it-k'áicimum",
     "partOfSpeech": "n",
@@ -46662,6 +46880,20 @@
     ],
     "seeAlso": [
       "i-shtámx"
+    ]
+  },
+  "it-kídugwalal": {
+    "root": "it-kídugwalal",
+    "partOfSpeech": "n",
+    "definition": "imposing on people, demanding people do some- thing [Dyk], bossing people [GT 6/4/ 98]",
+    "forms": [
+      {
+        "kiksht": "idiaxidugwalal",
+        "english": "he is one who imposes upon people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'idugwalal, i- kidugwalalmat"
     ]
   },
   "it-kíkikwł": {
@@ -48395,6 +48627,23 @@
         "kiksht": "K'eshk'esh aniuxwa iłaqaqshtáq.",
         "english": "I will eat up his head. [WTI.5.3]"
       }
+    ]
+  },
+  "k'ig̲ishg̲ish": {
+    "root": "k'ig̲ishg̲ish",
+    "partOfSpeech": "part",
+    "definition": "call down, bawl out",
+    "examples": [
+      {
+        "kiksht": "K'ig̲ishg̲ish ikiax.",
+        "english": "He is calling (someone) down. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to calling down or bawling out after hearing that nasty, mean, lying things have been said about one."
+    ],
+    "seeAlso": [
+      "g̲ish, i-k'ig̲ishg̲ish"
     ]
   },
   "k'ámunaq": {
