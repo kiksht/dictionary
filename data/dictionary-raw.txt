@@ -13226,3 +13226,48 @@ Forms: ayaxˆlumni¬ “he is one who shouts at people” [Dyk]
 See also: -k-LUMA, -gi-LUMA
 
 i-ki¬Ådachwamat [n] decorative yoke around horse’s neck or shoulders
+
+
+
+
+
+
+
+-KIÒ ̨ [vb] put in fire, carry to water, make fire
+Forms: ichiukwi¬x “he put it[i-] in fire; he carried it to water” [Dyk] qiugigi¬xal, qiugemgi¬xal”they’re making fire under it (e.g., meat)” [GT 6/5/98, who said both forms mean the same]
+
+-a-xl-KIÒ ̨ [vb] make a fire
+Forms: alamxelgi¬xa “you will make fire” [WTIV.4.2]
+
+-gl-KIÒ ̨ [vb] make fire, build fire
+Forms: ixelgi¬xal “he is building a fire” [Dyk]
+See also: i-kigi¬xal, it-kigi¬xalxat, i- kigi¬xalmat
+
+-i-gl-KIÒ ̨ [vb] build a fire for, make a fire for
+Forms: chiaglgi¬xal “he is building a fire for her” chiglgi¬xal “he is build- ing a fire for him” nichiagitki¬x “he built a fire for her (last week)” nichigitki¬x “he built a fire for him (last week)” nichigitkˆ¬xalmchk “he stayed some time to build a fire for him, he was building a fire for him over some period of time (-al) and completed (-chk) it” [Dyk]
+
+-i-xl-KIÒ ̨ [vb] build a fire, make a fire
+Forms: imxelkˆ¬x “make fire!” alimxélgi¬xa “you’ll make fire” [GT 1/ 15/99] alixelgi¬xa “he will build a fire” ayaxélgi¬xa “she will build a fire” ixelgi¬xal “he is building a fire” yaxelgi¬xal “she is building a fire” igixélgi¬xal “he built a fire” nigixitki¬x “he built a fire (last week)” galixlki¬x, galixlg¬xax “he built a fire” [Dyk]
+Notes: Means literally “build a fire for oneself;” compare -i-gl-ki¬x.
+
+-i-xl-KIÒ ̨ [vb] make a fire
+Forms: galixelkˆ¬x “he built a fire” [WTI.13.2] gayuxwigi¬xax “they made a fire” [WTIV.2.18]
+Notes: Possibly should be respelled - i-xl-ki¬x.
+
+-xi-KIÒ ̨ [vb] use to make fire, make fire with
+Forms: aquxigi¬xa “someone will use them for fire” quxigi¬xal “someone is making fire with them, using them to make fire; they are being converted into fire, being used for fire” gaquxiki¬x “someone made a fire with them, a fire was made with them” [Dyk]
+Examples: quxigi¬xal bama “they (for instance, wood) are for burning” [Dyk]
+
+-xi-KIÒ ̨ [vb] burn
+Forms: quxigi¬xal “one is burning them, they are being burned” [WTI.4.6]
+
+-KIÒ ̨-ix [vb] be put into fire, fire being made with, burn
+Forms: ugwi¬xix “a fire has been made with it[a-]” dugwi¬xix “a fire has been made with them”
+
+-k-KIM [vb] say
+Forms: igikim “he said” [GT, MMc] ga¬xtkˆm “they said” [WTIV.2.23] alugwagima “they will say” [WTI.1a6, 9.13] galugakim “they said” [WTI.1i.2]
+Notes: Unless -u- precedes or the directional -t- follows, the -k- rela- tional prefix disappears before the initial -k- of the root -kim. When -t- is used, however, -k- appears as -x-, as is usual before -t-. When -u- pre- cedes, -k- becomes -gwa- or -ga-, as is usual after -u-.
+
+kimach’a [conj] because, therefore, must have, nevertheless, even though, although
+Examples: Kwaish k’aya ©unmaba ¬qÅ nishduyam kimach’a nini©lkl Snooks qw’ap ©unmaba. “Not yet five o’clock they must have gotten there, because I saw Snooks near five o’clock.” kimach’a qw’ap gunmaba niniluidix “because close to five I was walking in the place” kimach’a it’ukdi gas “nevertheless it is good gas” [Dyk]
+See also: kimatx ̈

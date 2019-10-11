@@ -3417,6 +3417,32 @@
       "-XTKIAX̲, -KIX̲AX̲, -XTKIX̲AX̲, - X̲"
     ]
   },
+  "-KIŁX̲": {
+    "root": "-KIŁX̲",
+    "partOfSpeech": "vb",
+    "definition": "put in fire, carry to water, make fire",
+    "forms": [
+      {
+        "kiksht": "ichiukwiłx",
+        "english": "he put it[i-] in fire; he carried it to water [Dyk] qiugigiłxal, qiugemgiłxal\"they're making fire under it (e.g., meat)\" [GT 6/5/98, who said both forms mean the same]"
+      }
+    ]
+  },
+  "-KIŁX̲-ix": {
+    "root": "-KIŁX̲-ix",
+    "partOfSpeech": "vb",
+    "definition": "be put into fire, fire being made with, burn",
+    "forms": [
+      {
+        "kiksht": "ugwiłxix",
+        "english": "a fire has been made with it[a-]"
+      },
+      {
+        "kiksht": "dugwiłxix",
+        "english": "a fire has been made with them"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -3709,6 +3735,17 @@
     ],
     "seeAlso": [
       "-a-gl- G̲AYA"
+    ]
+  },
+  "-a-xl-KIŁX̲": {
+    "root": "-a-xl-KIŁX̲",
+    "partOfSpeech": "vb",
+    "definition": "make a fire",
+    "forms": [
+      {
+        "kiksht": "alamxelgiłxa",
+        "english": "you will make fire [WTIV.4.2]"
+      }
     ]
   },
   "-ash-k'-IMA-chu": {
@@ -5018,6 +5055,20 @@
       }
     ]
   },
+  "-gl-KIŁX̲": {
+    "root": "-gl-KIŁX̲",
+    "partOfSpeech": "vb",
+    "definition": "make fire, build fire",
+    "forms": [
+      {
+        "kiksht": "ixelgiłxal",
+        "english": "he is building a fire [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-kigiłxal, it-kigiłxalxat, i- kigiłxalmat"
+    ]
+  },
   "-gm- G̲A-it": {
     "root": "-gm- G̲A-it",
     "partOfSpeech": "vb",
@@ -5546,6 +5597,33 @@
       "i-chukdenił, i-chukdidix"
     ]
   },
+  "-i-gl-KIŁX̲": {
+    "root": "-i-gl-KIŁX̲",
+    "partOfSpeech": "vb",
+    "definition": "build a fire for, make a fire for",
+    "forms": [
+      {
+        "kiksht": "chiaglgiłxal",
+        "english": "he is building a fire for her"
+      },
+      {
+        "kiksht": "chiglgiłxal",
+        "english": "he is build- ing a fire for him"
+      },
+      {
+        "kiksht": "nichiagitkiłx",
+        "english": "he built a fire for her (last week)"
+      },
+      {
+        "kiksht": "nichigitkiłx",
+        "english": "he built a fire for him (last week)"
+      },
+      {
+        "kiksht": "nichigitkíłxalmchk",
+        "english": "he stayed some time to build a fire for him, he was building a fire for him over some period of time (-al) and completed (-chk) it [Dyk]"
+      }
+    ]
+  },
   "-i-gl-xi-GLA-ix": {
     "root": "-i-gl-xi-GLA-ix",
     "partOfSpeech": "vb",
@@ -5653,6 +5731,24 @@
     ],
     "seeAlso": [
       "- G̲WA"
+    ]
+  },
+  "-i-xl-KIŁX̲": {
+    "root": "-i-xl-KIŁX̲",
+    "partOfSpeech": "vb",
+    "definition": "make a fire",
+    "forms": [
+      {
+        "kiksht": "galixelkíłx",
+        "english": "he built a fire [WTI.13.2]"
+      },
+      {
+        "kiksht": "gayuxwigiłxax",
+        "english": "they made a fire [WTIV.2.18]"
+      }
+    ],
+    "notes": [
+      "Possibly should be respelled - i-xl-kiłx."
     ]
   },
   "-ikw'álalak": {
@@ -5904,6 +6000,32 @@
         "kiksht": "igímaqwdix",
         "english": "it[i-] (for instance, a pole or board) is leaning against it[i- ] [Dyk]"
       }
+    ]
+  },
+  "-k-KIM": {
+    "root": "-k-KIM",
+    "partOfSpeech": "vb",
+    "definition": "say",
+    "forms": [
+      {
+        "kiksht": "igikim",
+        "english": "he said [GT, MMc]"
+      },
+      {
+        "kiksht": "gałxtkím",
+        "english": "they said [WTIV.2.23]"
+      },
+      {
+        "kiksht": "alugwagima",
+        "english": "they will say [WTI.1a6, 9.13]"
+      },
+      {
+        "kiksht": "galugakim",
+        "english": "they said [WTI.1i.2]"
+      }
+    ],
+    "notes": [
+      "Unless -u- precedes or the directional -t- follows, the -k- rela- tional prefix disappears before the initial -k- of the root -kim. When -t- is used, however, -k- appears as -x-, as is usual before -t-. When -u- pre- cedes, -k- becomes -gwa- or -ga-, as is usual after -u-."
     ]
   },
   "-k-xa-IMA-wulx": {
@@ -9849,6 +9971,17 @@
       {
         "kiksht": "gachiuxídikwax",
         "english": "he cut it[i-] out (long ago) [Dyk]"
+      }
+    ]
+  },
+  "-xi-KIŁX̲": {
+    "root": "-xi-KIŁX̲",
+    "partOfSpeech": "vb",
+    "definition": "burn",
+    "forms": [
+      {
+        "kiksht": "quxigiłxal",
+        "english": "one is burning them, they are being burned [WTI.4.6]"
       }
     ]
   },
@@ -44767,6 +44900,28 @@
     ],
     "seeAlso": [
       "it-kílimak"
+    ]
+  },
+  "kimach'a": {
+    "root": "kimach'a",
+    "partOfSpeech": "conj",
+    "definition": "because, therefore, must have, nevertheless, even though, although",
+    "examples": [
+      {
+        "kiksht": "Kwaish k'aya g̲unmaba łqá nishduyam kimach'a ninig̲lkl Snooks qw'ap g̲unmaba.",
+        "english": "Not yet five o'clock they must have gotten there, because I saw Snooks near five o'clock."
+      },
+      {
+        "kiksht": "kimach'a qw'ap gunmaba niniluidix",
+        "english": "because close to five I was walking in the place"
+      },
+      {
+        "kiksht": "kimach'a it'ukdi gas",
+        "english": "nevertheless it is good gas [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kimatxú"
     ]
   },
   "kinwa": {
