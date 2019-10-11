@@ -13114,3 +13114,50 @@ Notes: Borrowed from Sahaptin
 
 ish-kˆ [n] paddle
 Forms: i¬shkˆ, i¬shkimax “paddles” [GT, MMc 1/12/99]
+
+
+
+
+
+
+
+
+-KIA ̨ [vb] be, become, go on
+Forms: enkiax “I am” mkiax “you are” ikiax “he is” akiax “she is” enshkiax “we are” ugwakiax “they are” (Note irregularity in form for “they are”.) [Dyk]
+Examples: Ch’el ikiax. “He is hurt.” Qada ch’el ikiax. “He’s only hurt.” Qidau ikiax.” “Thus he is, that’s how he is.” Kwaba ikiax. “He is there.” Qengi ikiax? “What’s the matter with him?” Qwuchxi ikiax. “He is angry.”  ̨ak’iwish ikiax. “He is scolding him- self.” Wax ikiaxix. “It is getting day- light.” Da©em ikiax. “He is dizzy.” Dika ikiax. “Here he is, here he stays.” Dika enkiax. “I’m here, I stay here.” Wixat yaxiba ikiax. “The road is there (temporarily).” (Compare: Wixat a©a ikixax. “A road has now been made.”) Engunat enkiax. “I’m becoming a Chinook salmon.” (Com- pare: engunat “I’m a Chinook salmon.” Igunat anxuxa. “I’ll become a Chinook salmon.”) Iyagit’ˆwalal ikiax. “He is becoming one who pushes.” Nigikiax dika. “He was here (last season).” Igit’ˆwalal ikiax. “Pushing is going on.” Ikˆshtk ikiax. “Making love is going on.” Wimqt ikiax. “Sickness is going on.” [Dyk] Shpaq aliba akiax. “The bread is moldy.” T©iwam ikiax. “He is be- witched.” [PK 8/31/55]
+See also: -XTKIA ̨, -KI ̨A ̨, -XTKI ̨A ̨, -  ̨
+
+i¬-kibuna [n] spring snow, late snow
+Notes: Refers to snow with big flakes falling in late spring. Compare Sahaptin ‘a’amˆ ‘ ̈shatsh “crow’s feet (snow).”
+See also: i¬-gibunit
+
+ish-kichkw’Åmalit [n] threatening by shaking fists
+Forms: ishiaxichkw’Åmalit “he is one who threatens by shaking his fists” [Dyk]
+See also: -CHKW’A, i-qachkw’anan
+
+i-kˆdugwalalmat [n] slave, servant [DykGr 11; GT, MMc 12/29/97], messenger [GT, MMc 12/29/97]
+Forms: i¬kˆdugwalalmat “slaves, ser- vants, messengers” [GT,MMc]
+See also: i-k’idugwalal, it-k’idugwalal, -DU-kw
+
+i-kigi¬xal [n] fire making, fire build- ing
+Forms: iyaxigi¬xÅl “he is a fire maker, fire builder” [Dyk]
+Examples: quxigi¬xal bama “for burn- ing” [Dyk]
+See also: -gl-KIÒ ̨, it-kigi¬xalxat, i- kigi¬xalmat
+
+it-kigi¬xalmat [n] place where things are burned
+Notes: Does not, apparently, refer to a fireplace in a home, which is wi-tu¬ or wi-tu¬bama.
+See also: it-kigi¬xalxat, -KIÒ ̨
+
+it-kigi¬xalxat [n] place of burning, place of incineration
+Notes: Does not refer to a fireplace in a home, which is wi-tu¬ or wi- tu¬bama.
+See also: it-kig¬xalmat
+
+i¬-kigwax [n] eddy [Frank Esterbrook 3/23/52], sound of flowing water [PK 7/24/56]
+
+a-ki©ayax [n] groaning
+Forms: agaxi©ayax “her groaning; she is a groaner” [Dyk]
+See also: -a-gl- ̋AYA
+
+ish-ki©ayax [n] wishing, wish
+Forms: ishgaxi©ayax “her wishing; she is a wisher” ishkxi©ayax “my wish” ishki©ayaxmax “wishes” [Dyk]
+See also: -sh-gl- ̋AYA

@@ -3281,6 +3281,142 @@
       "-KIAX̲, -KIX̲AX̲"
     ]
   },
+  "-KIAX̲": {
+    "root": "-KIAX̲",
+    "partOfSpeech": "vb",
+    "definition": "be, become, go on",
+    "forms": [
+      {
+        "kiksht": "enkiax",
+        "english": "I am"
+      },
+      {
+        "kiksht": "mkiax",
+        "english": "you are"
+      },
+      {
+        "kiksht": "ikiax",
+        "english": "he is"
+      },
+      {
+        "kiksht": "akiax",
+        "english": "she is"
+      },
+      {
+        "kiksht": "enshkiax",
+        "english": "we are"
+      },
+      {
+        "kiksht": "ugwakiax",
+        "english": "they are"
+      },
+      {
+        "kiksht": "(Note irregularity in form for",
+        "english": "they are.) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ch'el ikiax.",
+        "english": "He is hurt."
+      },
+      {
+        "kiksht": "Qada ch'el ikiax.",
+        "english": "He's only hurt."
+      },
+      {
+        "kiksht": "Qidau ikiax.\"",
+        "english": ""
+      },
+      {
+        "kiksht": "",
+        "english": "Thus he is, that's how he is."
+      },
+      {
+        "kiksht": "Kwaba ikiax.",
+        "english": "He is there."
+      },
+      {
+        "kiksht": "Qengi ikiax?",
+        "english": "What's the matter with him?"
+      },
+      {
+        "kiksht": "Qwuchxi ikiax.",
+        "english": "He is angry."
+      },
+      {
+        "kiksht": "̨ak'iwish ikiax.",
+        "english": "He is scolding him- self."
+      },
+      {
+        "kiksht": "Wax ikiaxix.",
+        "english": "It is getting day- light."
+      },
+      {
+        "kiksht": "Dag̲em ikiax.",
+        "english": "He is dizzy."
+      },
+      {
+        "kiksht": "Dika ikiax.",
+        "english": "Here he is, here he stays."
+      },
+      {
+        "kiksht": "Dika enkiax.",
+        "english": "I'm here, I stay here."
+      },
+      {
+        "kiksht": "Wixat yaxiba ikiax.",
+        "english": "The road is there (temporarily)."
+      },
+      {
+        "kiksht": "(Compare: Wixat ag̲a ikixax.",
+        "english": "A road has now been made."
+      },
+      {
+        "kiksht": ") Engunat enkiax.",
+        "english": "I'm becoming a Chinook salmon."
+      },
+      {
+        "kiksht": "(Com- pare: engunat",
+        "english": "I'm a Chinook salmon."
+      },
+      {
+        "kiksht": "Igunat anxuxa.",
+        "english": "I'll become a Chinook salmon."
+      },
+      {
+        "kiksht": ") Iyagit'íwalal ikiax.",
+        "english": "He is becoming one who pushes."
+      },
+      {
+        "kiksht": "Nigikiax dika.",
+        "english": "He was here (last season)."
+      },
+      {
+        "kiksht": "Igit'íwalal ikiax.",
+        "english": "Pushing is going on."
+      },
+      {
+        "kiksht": "Ikíshtk ikiax.",
+        "english": "Making love is going on."
+      },
+      {
+        "kiksht": "Wimqt ikiax.",
+        "english": "Sickness is going on. [Dyk]"
+      },
+      {
+        "kiksht": "Shpaq aliba akiax.",
+        "english": "The bread is moldy."
+      },
+      {
+        "kiksht": "Tg̲iwam ikiax.",
+        "english": "He is be- witched. [PK 8/31/55]"
+      }
+    ],
+    "seeAlso": [
+      "-XTKIAX̲, -KIX̲AX̲, -XTKIX̲AX̲, - X̲"
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -11763,6 +11899,20 @@
     ],
     "seeAlso": [
       "-k-ŁTQ, a-kałtg̲lal"
+    ]
+  },
+  "a-kig̲ayax": {
+    "root": "a-kig̲ayax",
+    "partOfSpeech": "n",
+    "definition": "groaning",
+    "forms": [
+      {
+        "kiksht": "agaxig̲ayax",
+        "english": "her groaning; she is a groaner [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-a-gl- G̲AYA"
     ]
   },
   "a-káas": {
@@ -39337,6 +39487,26 @@
       "Borrowed from Sahaptin"
     ]
   },
+  "i-kigiłxal": {
+    "root": "i-kigiłxal",
+    "partOfSpeech": "n",
+    "definition": "fire making, fire build- ing",
+    "forms": [
+      {
+        "kiksht": "iyaxigiłxál",
+        "english": "he is a fire maker, fire builder [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "quxigiłxal bama",
+        "english": "for burn- ing [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gl-KIŁX̲, it-kigiłxalxat, i- kigiłxalmat"
+    ]
+  },
   "i-kámusak": {
     "root": "i-kámusak",
     "partOfSpeech": "n",
@@ -39358,6 +39528,20 @@
     ],
     "seeAlso": [
       "i-kas, i-xat"
+    ]
+  },
+  "i-kídugwalalmat": {
+    "root": "i-kídugwalalmat",
+    "partOfSpeech": "n",
+    "definition": "slave, servant [DykGr 11; GT, MMc 12/29/97], messenger [GT, MMc 12/29/97]",
+    "forms": [
+      {
+        "kiksht": "iłkídugwalalmat",
+        "english": "slaves, ser- vants, messengers [GT,MMc]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'idugwalal, it-k'idugwalal, -DU-kw"
     ]
   },
   "iagluxtix": {
@@ -41454,6 +41638,42 @@
       "-sh-k'-ŁQŁ"
     ]
   },
+  "ish-kichkw'ámalit": {
+    "root": "ish-kichkw'ámalit",
+    "partOfSpeech": "n",
+    "definition": "threatening by shaking fists",
+    "forms": [
+      {
+        "kiksht": "ishiaxichkw'ámalit",
+        "english": "he is one who threatens by shaking his fists [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-CHKW'A, i-qachkw'anan"
+    ]
+  },
+  "ish-kig̲ayax": {
+    "root": "ish-kig̲ayax",
+    "partOfSpeech": "n",
+    "definition": "wishing, wish",
+    "forms": [
+      {
+        "kiksht": "ishgaxig̲ayax",
+        "english": "her wishing; she is a wisher"
+      },
+      {
+        "kiksht": "ishkxig̲ayax",
+        "english": "my wish"
+      },
+      {
+        "kiksht": "ishkig̲ayaxmax",
+        "english": "wishes [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-sh-gl- G̲AYA"
+    ]
+  },
   "ish-kányagwamat": {
     "root": "ish-kányagwamat",
     "partOfSpeech": "n",
@@ -42549,6 +42769,28 @@
     "definition": "saddle",
     "seeAlso": [
       "-ŁA-it, i-kałalit, i-kałálaidmat"
+    ]
+  },
+  "it-kigiłxalmat": {
+    "root": "it-kigiłxalmat",
+    "partOfSpeech": "n",
+    "definition": "place where things are burned",
+    "notes": [
+      "Does not, apparently, refer to a fireplace in a home, which is wi-tuł or wi-tułbama."
+    ],
+    "seeAlso": [
+      "it-kigiłxalxat, -KIŁX̲"
+    ]
+  },
+  "it-kigiłxalxat": {
+    "root": "it-kigiłxalxat",
+    "partOfSpeech": "n",
+    "definition": "place of burning, place of incineration",
+    "notes": [
+      "Does not refer to a fireplace in a home, which is wi-tuł or wi- tułbama."
+    ],
+    "seeAlso": [
+      "it-kigłxalmat"
     ]
   },
   "it-ká": {
@@ -43654,6 +43896,22 @@
     "seeAlso": [
       "wa-g̲washt, i-sk'imks"
     ]
+  },
+  "ił-kibuna": {
+    "root": "ił-kibuna",
+    "partOfSpeech": "n",
+    "definition": "spring snow, late snow",
+    "notes": [
+      "Refers to snow with big flakes falling in late spring. Compare Sahaptin 'a'amí 'úshatsh \"crow's feet (snow).\""
+    ],
+    "seeAlso": [
+      "ił-gibunit"
+    ]
+  },
+  "ił-kigwax": {
+    "root": "ił-kigwax",
+    "partOfSpeech": "n",
+    "definition": "eddy [Frank Esterbrook 3/23/52], sound of flowing water [PK 7/24/56]"
   },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
