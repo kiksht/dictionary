@@ -3113,6 +3113,40 @@
       }
     ]
   },
+  "-K'A-it": {
+    "root": "-K'A-it",
+    "partOfSpeech": "vb",
+    "definition": "leave, leave over",
+    "forms": [
+      {
+        "kiksht": "chiukw'alit",
+        "english": "he is leaving it[i- ] (for someone)"
+      },
+      {
+        "kiksht": "chiuk'wait",
+        "english": "he has it[i-] left over"
+      },
+      {
+        "kiksht": "ichiagelk'ait",
+        "english": "he left it[i-] over for her"
+      },
+      {
+        "kiksht": "ichiaxk'ait",
+        "english": "he left it[i-] over which belonged to her"
+      },
+      {
+        "kiksht": "dukw'aitix",
+        "english": "they have been left over (for someone)"
+      },
+      {
+        "kiksht": "idukw'áidixit",
+        "english": "they became left over (as something one didn't finish eating) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-gik'alit"
+    ]
+  },
   "-KA": {
     "root": "-KA",
     "partOfSpeech": "vb",
@@ -6414,6 +6448,40 @@
     ],
     "seeAlso": [
       "ił-qigwakdix"
+    ]
+  },
+  "-i-n-K'A-kw": {
+    "root": "-i-n-K'A-kw",
+    "partOfSpeech": "vb",
+    "definition": "stick tongue out at",
+    "forms": [
+      {
+        "kiksht": "chiank'ankwł",
+        "english": "he is sticking his tongue out at her (repeatedly)"
+      },
+      {
+        "kiksht": "chiank'ákwt",
+        "english": "he has his tongue stuck out at her"
+      },
+      {
+        "kiksht": "chink'ákwt",
+        "english": "he has his tongue stuck out at him"
+      },
+      {
+        "kiksht": "yank'ákwt",
+        "english": "she is getting a tongue stuck out at her"
+      },
+      {
+        "kiksht": "yank'akux",
+        "english": "she has gotten a tongue stuck out at her"
+      },
+      {
+        "kiksht": "yaxnk'ankwł",
+        "english": "she is sticking out her tongue [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qik'ankwł"
     ]
   },
   "-i-x-YA-mid-ix": {
@@ -12823,6 +12891,29 @@
       "wi-(i)xat"
     ]
   },
+  "a-k'achacha": {
+    "root": "a-k'achacha",
+    "partOfSpeech": "n",
+    "definition": "rattle, rattlesnake tail",
+    "seeAlso": [
+      "ish-k'achacha"
+    ]
+  },
+  "a-k'adaqi": {
+    "root": "a-k'adaqi",
+    "partOfSpeech": "n",
+    "definition": "chub [WTI.6.2], small game fish, any variety [Dyk], sucker [WTIV.1.3]",
+    "forms": [
+      {
+        "kiksht": "ishk'ákaqi",
+        "english": "chubs [Dyk]; suckers [WTIV.1.3] [two or more]"
+      },
+      {
+        "kiksht": "itk'ádaqi",
+        "english": "chubs [WTI.18.9]"
+      }
+    ]
+  },
   "a-kachkdama": {
     "root": "a-kachkdama",
     "partOfSpeech": "n",
@@ -13139,6 +13230,24 @@
         "kiksht": "ashumax aktłmín",
         "english": "new moon [HS 8/23/54, 6/ 25/56]"
       }
+    ]
+  },
+  "a-kuxwalagwadit": {
+    "root": "a-kuxwalagwadit",
+    "partOfSpeech": "n",
+    "definition": "claw, nail, fin- gernail, toenail",
+    "forms": [
+      {
+        "kiksht": "agaxuxwálagwadit",
+        "english": "her nail, claw"
+      },
+      {
+        "kiksht": "itkakuxwalagwadit",
+        "english": "her claws, nails [Dyk] iłkuxwalagwadit \"claws, fingernails [PK 7/13/55]"
+      }
+    ],
+    "seeAlso": [
+      "a-łxwadit"
     ]
   },
   "a-káas": {
@@ -37123,6 +37232,94 @@
       "qwała"
     ]
   },
+  "i- -k'aic": {
+    "root": "i- -k'aic",
+    "partOfSpeech": "adj n",
+    "definition": "small, little",
+    "forms": [
+      {
+        "kiksht": "ick'áic",
+        "english": "I am small"
+      },
+      {
+        "kiksht": "iyak'áic",
+        "english": "he is small"
+      },
+      {
+        "kiksht": "icak'áic",
+        "english": "she is small [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "iyak'áic ikala",
+        "english": "small man"
+      },
+      {
+        "kiksht": "Iyak'áic naikaba.",
+        "english": "He is smaller than I. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'aicem, i-k'aicax, i- yak'aicix, i-yak'áicumix"
+    ]
+  },
+  "i- -k'aicax": {
+    "root": "i- -k'aicax",
+    "partOfSpeech": "adj n",
+    "definition": "small, little",
+    "forms": [
+      {
+        "kiksht": "iłak'aicax",
+        "english": "they are small ones"
+      },
+      {
+        "kiksht": "kdukw'aicax, ktukw'aicax",
+        "english": "they are tiny little ones"
+      },
+      {
+        "kiksht": "giukw'aicax",
+        "english": "they[i-] (for instance, apples, ilibum) are tiny little ones"
+      },
+      {
+        "kiksht": "[Compare g̲ing̲aitłax",
+        "english": "they are very big ones.]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ichialut iyak'aicax.",
+        "english": "He gave her the small ones. [Dyk]"
+      },
+      {
+        "kiksht": "iłk'álamat iłak'aicax",
+        "english": "small stones [WTI.4.12]"
+      }
+    ],
+    "seeAlso": [
+      "i- -k'aic. Opposite is i- -g̲áił."
+    ]
+  },
+  "i- -k'aicem": {
+    "root": "i- -k'aicem",
+    "partOfSpeech": "adj n",
+    "definition": "small",
+    "forms": [
+      {
+        "kiksht": "ick'aicem",
+        "english": "I am small [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qngi aish gamxatx yaxdau imik'aicem!",
+        "english": "Just what did you do to yourself, that you are thus small! [WTI.17.16]"
+      }
+    ],
+    "seeAlso": [
+      "i- k'aic"
+    ]
+  },
   "i- -kshti": {
     "root": "i- -kshti",
     "partOfSpeech": "adj n",
@@ -40150,6 +40347,25 @@
       "i-c'aimc'aim"
     ]
   },
+  "i-k'aicemxach": {
+    "root": "i-k'aicemxach",
+    "partOfSpeech": "n",
+    "definition": "no nerve, no guts",
+    "forms": [
+      {
+        "kiksht": "imik'aicemxach",
+        "english": "you have no nerve, no guts [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-g̲aitłemxach, i- -k'áic"
+    ]
+  },
+  "i-k'ainuł": {
+    "root": "i-k'ainuł",
+    "partOfSpeech": "n",
+    "definition": "tobacco"
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -41157,6 +41373,37 @@
     "seeAlso": [
       "ił-kupi, ił-kwapi"
     ]
+  },
+  "i-kxalal": {
+    "root": "i-kxalal",
+    "partOfSpeech": "n",
+    "definition": "wind, west wind",
+    "examples": [
+      {
+        "kiksht": "Tai ikxalal.",
+        "english": "It's windy."
+      },
+      {
+        "kiksht": "[lit.",
+        "english": "much wind]"
+      },
+      {
+        "kiksht": "C'unus ikxalal.",
+        "english": "It's a little windy."
+      },
+      {
+        "kiksht": "[lit.",
+        "english": "little wind] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-X̲A, -ch-X̲A-kw, i- yakxálalix"
+    ]
+  },
+  "i-kxáimadix": {
+    "root": "i-kxáimadix",
+    "partOfSpeech": "n",
+    "definition": "flat (area), plain"
   },
   "i-kámusak": {
     "root": "i-kámusak",
@@ -43317,6 +43564,14 @@
       "wa-ixtkísht, ishíxtksh"
     ]
   },
+  "ish-k'achacha": {
+    "root": "ish-k'achacha",
+    "partOfSpeech": "n",
+    "definition": "eel tail",
+    "seeAlso": [
+      "a-k'achacha"
+    ]
+  },
   "ish-kabiłxit": {
     "root": "ish-kabiłxit",
     "partOfSpeech": "n",
@@ -44354,6 +44609,14 @@
     ],
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "it-k'áicimum": {
+    "root": "it-k'áicimum",
+    "partOfSpeech": "n",
+    "definition": "smallness",
+    "seeAlso": [
+      "i- -k'aic"
     ]
   },
   "it-kadnam": {
@@ -45961,6 +46224,14 @@
     "definition": "cedar planks",
     "notes": [
       "The cedar planks used in constructing some varieties of tradi- tional Wasco buildings."
+    ]
+  },
+  "ił-k'aimt": {
+    "root": "ił-k'aimt",
+    "partOfSpeech": "n",
+    "definition": "bridge",
+    "seeAlso": [
+      "ił-brij"
     ]
   },
   "ił-kabwalal": {
