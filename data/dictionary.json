@@ -727,6 +727,40 @@
       }
     ]
   },
+  "-'inxt": {
+    "root": "-'inxt",
+    "partOfSpeech": "n",
+    "definition": "Wasco stew",
+    "forms": [
+      {
+        "kiksht": "id-'inxt",
+        "english": "stew of adwaq and amumal [WTI.4.5]"
+      },
+      {
+        "kiksht": "wainxt, ainxt",
+        "english": "cooked stew"
+      },
+      {
+        "kiksht": "itínxt",
+        "english": "uncooked stew [Dyk]"
+      },
+      {
+        "kiksht": "it-'inxt",
+        "english": "stew [PK 8/19/ 55; no note as to whether cooked or uncooked]"
+      },
+      {
+        "kiksht": "wa'inxt",
+        "english": "stew"
+      },
+      {
+        "kiksht": "[PK 9/5/ 55:",
+        "english": "the way PK's family says it] wa'ínxt [GT, MMc 6/5/98]"
+      }
+    ],
+    "notes": [
+      "According to Sapir, refers to a stew of adwaq, wild carrot and amumal, to which dried fish is some- times added. Madeline McInturff [6/ 5/98] describes it as \"sort of a gravy- like stuff.\""
+    ]
+  },
   "-(i)-gl-xi-GLA-dix": {
     "root": "-(i)-gl-xi-GLA-dix",
     "partOfSpeech": "vb",
@@ -38093,6 +38127,102 @@
       "-xl-QŁA-xit"
     ]
   },
+  "inxentłichu": {
+    "root": "inxentłichu",
+    "partOfSpeech": "vb",
+    "definition": "I put it[i-] down over my head",
+    "seeAlso": [
+      "-xn-TŁI-chu"
+    ]
+  },
+  "inxgiglagwax": {
+    "root": "inxgiglagwax",
+    "partOfSpeech": "vb",
+    "definition": "I have felt",
+    "seeAlso": [
+      "-x-gi-GLA-kw"
+    ]
+  },
+  "inxilax": {
+    "root": "inxilax",
+    "partOfSpeech": "vb",
+    "definition": "I am eating it[i-]",
+    "seeAlso": [
+      "-xi-LAX̲"
+    ]
+  },
+  "inxilkwłichk": {
+    "root": "inxilkwłichk",
+    "partOfSpeech": "vb",
+    "definition": "I was about to let him know",
+    "seeAlso": [
+      "-x-l-KWŁI"
+    ]
+  },
+  "inxkw'aksht": {
+    "root": "inxkw'aksht",
+    "partOfSpeech": "vb",
+    "definition": "I saved [?]",
+    "examples": [
+      {
+        "kiksht": "Saqw ngi inxkw'áksht.",
+        "english": "I got all I could to save my son."
+      },
+      {
+        "kiksht": "[WTIII.3.1; it does not appear that",
+        "english": "my son is overtly stated in original]"
+      }
+    ],
+    "notes": [
+      "Meaning uncertain."
+    ]
+  },
+  "inxuwaq": {
+    "root": "inxuwaq",
+    "partOfSpeech": "vb",
+    "definition": "I killed myself",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "inxux": {
+    "root": "inxux",
+    "partOfSpeech": "vb",
+    "definition": "I have become",
+    "examples": [
+      {
+        "kiksht": "Itkłxiwulx inxux.",
+        "english": "I have become strong. [WTI.7.2]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "inxíłuxwan": {
+    "root": "inxíłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "I was thinking",
+    "seeAlso": [
+      "-x-ŁUXWA(N)"
+    ]
+  },
+  "inxłuxwan": {
+    "root": "inxłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "I thought",
+    "seeAlso": [
+      "-x-ŁUXWA(P)"
+    ]
+  },
+  "inyúx": {
+    "root": "inyúx",
+    "partOfSpeech": "vb",
+    "definition": "I did it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "inátkadix": {
     "root": "inátkadix",
     "partOfSpeech": "adv",
@@ -38157,6 +38287,117 @@
     "definition": "I did him[ił-] [WTI.17.15], I did it [CLL19]",
     "seeAlso": [
       "-X̲"
+    ]
+  },
+  "iqalchmaq": {
+    "root": "iqalchmaq",
+    "partOfSpeech": "vb",
+    "definition": "one heard it[a-], it[a- ] was heard, it[a-] made a noise",
+    "seeAlso": [
+      "-l-CHMA-qw"
+    ]
+  },
+  "iqamshlut": {
+    "root": "iqamshlut",
+    "partOfSpeech": "vb",
+    "definition": "we have given it[a-] to you folks",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "iqdalut": {
+    "root": "iqdalut",
+    "partOfSpeech": "vb",
+    "definition": "one has given them to her, she has been given them",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "iqdenitkwchk": {
+    "root": "iqdenitkwchk",
+    "partOfSpeech": "vb",
+    "definition": "one has brought them back to me, they have been brought back to me",
+    "seeAlso": [
+      "iłkdenitkwchk, iłkshtkam"
+    ]
+  },
+  "iqdilut": {
+    "root": "iqdilut",
+    "partOfSpeech": "vb",
+    "definition": "one has given them to him, they have been given to him",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "iqdálmimtum": {
+    "root": "iqdálmimtum",
+    "partOfSpeech": "vb",
+    "definition": "one has paid them to her as her doctor's fee, she has been paid with them as her doctor's fee",
+    "seeAlso": [
+      "-MIMTUM"
+    ]
+  },
+  "iqigelga": {
+    "root": "iqigelga",
+    "partOfSpeech": "vb",
+    "definition": "one has gotten him",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "iqilut": {
+    "root": "iqilut",
+    "partOfSpeech": "vb",
+    "definition": "one have given it[i-] to him, he has been given it[i-]",
+    "examples": [
+      {
+        "kiksht": "Ixad ikala iyamaq iqilut.",
+        "english": "One man has been wounded (one has given one man his wound). [WTIV.2.18]"
+      }
+    ],
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "iqilux": {
+    "root": "iqilux",
+    "partOfSpeech": "vb",
+    "definition": "one made it[i-] for him, it[i-] was made for him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iqinlux": {
+    "root": "iqinlux",
+    "partOfSpeech": "vb",
+    "definition": "one did it[i-] for me, it[i- ] was done for me",
+    "examples": [
+      {
+        "kiksht": "T'aya iqinlux ic-'atmubil.",
+        "english": "I got my car fixed. [Spilyay Conver- sation]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iqix": {
+    "root": "iqix",
+    "partOfSpeech": "n",
+    "definition": "brother-in-law! [man speak- ing]",
+    "notes": [
+      "This is the only known term of address that begins with i-. Most terms of direct address for relatives begin with a- or qi-."
+    ],
+    "seeAlso": [
+      "-qix"
+    ]
+  },
+  "iqágelga": {
+    "root": "iqágelga",
+    "partOfSpeech": "vb",
+    "definition": "one has gotten her, she has been gotten",
+    "seeAlso": [
+      "-gl-GA"
     ]
   },
   "is-bnanan": {
