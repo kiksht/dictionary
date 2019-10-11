@@ -41107,6 +41107,57 @@
       "Refers to a container made of one piece of cedar and laced up the sides."
     ]
   },
+  "i-kuch": {
+    "root": "i-kuch",
+    "partOfSpeech": "n",
+    "definition": "backbone",
+    "examples": [
+      {
+        "kiksht": "ishgiluksh iyakuch",
+        "english": "wolf's backbone [WTIV.2.20]"
+      }
+    ],
+    "notes": [
+      "Wa-kuch refers to a fish back- bone; this word apparently refers to a mammal backbone."
+    ],
+    "seeAlso": [
+      "wa-kuch"
+    ]
+  },
+  "i-kuma": {
+    "root": "i-kuma",
+    "partOfSpeech": "n",
+    "definition": "cottonwood [Dyk, HS], poplar [Dyk]",
+    "forms": [
+      {
+        "kiksht": "ikúmamax",
+        "english": "cottonwoods"
+      }
+    ],
+    "seeAlso": [
+      "i-kumailit"
+    ]
+  },
+  "i-kumailit": {
+    "root": "i-kumailit",
+    "partOfSpeech": "n",
+    "definition": "grove of cottonwoods",
+    "pronunciation": "Pronunciation of this word can apparently vary between ikúmailit and ikumáilit.",
+    "seeAlso": [
+      "i-kuma"
+    ]
+  },
+  "i-kupi": {
+    "root": "i-kupi",
+    "partOfSpeech": "n",
+    "definition": "coffee",
+    "notes": [
+      "Borrowed from English. An- other form of the word, borrowed from English or possibly French, probably through Chinook Jargon, is ił-kwapi. Gladys Thompson and Madeline McInturff [6/4/98] said old people mostly said iłkupi."
+    ],
+    "seeAlso": [
+      "ił-kupi, ił-kwapi"
+    ]
+  },
   "i-kámusak": {
     "root": "i-kámusak",
     "partOfSpeech": "n",
@@ -43072,6 +43123,14 @@
       "-s-k'm-STŁX̲"
     ]
   },
+  "is-kusmatbama": {
+    "root": "is-kusmatbama",
+    "partOfSpeech": "n",
+    "definition": "eyeglass case",
+    "seeAlso": [
+      "is-xus"
+    ]
+  },
   "ish- -ditł'i": {
     "root": "ish- -ditł'i",
     "partOfSpeech": "adj n",
@@ -44795,6 +44854,44 @@
       }
     ]
   },
+  "it-kulal": {
+    "root": "it-kulal",
+    "partOfSpeech": "n",
+    "definition": "nuts",
+    "examples": [
+      {
+        "kiksht": "Gakłlqwim itkulal kwadau idunayax.",
+        "english": "She gave them nuts and huckleberries to eat. [WTI.4.7]"
+      }
+    ]
+  },
+  "it-kunatxus": {
+    "root": "it-kunatxus",
+    "partOfSpeech": "n",
+    "definition": "salmon eyes",
+    "notes": [
+      "Refers to the false eyes or flowers used in place of eyes which Coyote traded in the story \"Coyote and the Eye-Juggler.\""
+    ],
+    "seeAlso": [
+      "i-gunat, is-qús"
+    ]
+  },
+  "it-kushłex": {
+    "root": "it-kushłex",
+    "partOfSpeech": "n",
+    "definition": "muscles",
+    "seeAlso": [
+      "it-kushłaksh"
+    ]
+  },
+  "it-kushłxaksh": {
+    "root": "it-kushłxaksh",
+    "partOfSpeech": "n",
+    "definition": "sinews",
+    "seeAlso": [
+      "wa-shkwułx"
+    ]
+  },
   "it-ká": {
     "root": "it-ká",
     "partOfSpeech": "n",
@@ -46086,6 +46183,25 @@
       "(w)a-kshén"
     ]
   },
+  "ił-kupi": {
+    "root": "ił-kupi",
+    "partOfSpeech": "n",
+    "definition": "coffee",
+    "notes": [
+      "Borrowed from English. An alternate to i-kupi which, according to Gladys Thompson and Madeline McInturff [6/4/98], was more widely used by old people."
+    ],
+    "seeAlso": [
+      "i-kupi, ił-kwapi"
+    ]
+  },
+  "ił-kusi": {
+    "root": "ił-kusi",
+    "partOfSpeech": "n",
+    "definition": "look-out person",
+    "notes": [
+      "From stem -kus \"eye\"; see i- xus."
+    ]
+  },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
     "partOfSpeech": "n",
@@ -46921,6 +47037,93 @@
       "-łat'amlq"
     ]
   },
+  "kudash": {
+    "root": "kudash",
+    "partOfSpeech": "n",
+    "definition": "my mother's sister!, (ma- ternal) aunt!",
+    "seeAlso": [
+      "ag̲utx"
+    ]
+  },
+  "kuk": {
+    "root": "kuk",
+    "partOfSpeech": "part",
+    "definition": "cook",
+    "examples": [
+      {
+        "kiksht": "Kuk ichiux.",
+        "english": "He cooked it[i-]. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
+    ],
+    "seeAlso": [
+      "i-k'ikuk, i-xak'ikuk"
+    ]
+  },
+  "kul": {
+    "root": "kul",
+    "partOfSpeech": "part",
+    "definition": "on time",
+    "examples": [
+      {
+        "kiksht": "K'aya kul indimam ichxmágapxyamt.",
+        "english": "I didn't make it to work on time. [CLL10]"
+      }
+    ]
+  },
+  "kuldix": {
+    "root": "kuldix",
+    "partOfSpeech": "adv",
+    "definition": "soon, quickly",
+    "examples": [
+      {
+        "kiksht": "Kuldix pu aluxwaxa iak'amlaix.",
+        "english": "Soon there would be trouble. [WTI.1n.3]"
+      },
+      {
+        "kiksht": "Kuldix gayúmt.",
+        "english": "He grew up quickly. [WTI.18.2]"
+      }
+    ],
+    "seeAlso": [
+      "kwaldix"
+    ]
+  },
+  "kult": {
+    "root": "kult",
+    "partOfSpeech": "adv",
+    "definition": "soon",
+    "seeAlso": [
+      "kuldix"
+    ]
+  },
+  "kush": {
+    "root": "kush",
+    "partOfSpeech": "part",
+    "definition": "starving, very hungry",
+    "examples": [
+      {
+        "kiksht": "Kush nkiax.",
+        "english": "I'm starv- ing. [Spilyay/Food2]"
+      }
+    ],
+    "seeAlso": [
+      "wa-lu"
+    ]
+  },
+  "kushtk": {
+    "root": "kushtk",
+    "partOfSpeech": "part",
+    "definition": "do before breakfast",
+    "examples": [
+      {
+        "kiksht": "Kushtk alanxilxułama.",
+        "english": "I will go dip-netting before breakfast. [Dyk]"
+      }
+    ]
+  },
   "kwapt": {
     "root": "kwapt",
     "partOfSpeech": "adv",
@@ -47483,6 +47686,23 @@
     ],
     "notes": [
       "Gladys Thompson and Madeline McInturff see this as a spe- cial use of wakshti \"bugs.\""
+    ]
+  },
+  "wa-kuch": {
+    "root": "wa-kuch",
+    "partOfSpeech": "n",
+    "definition": "salmon backbone, fish backbone [Dyk, PK 9/2/55], chain links held together by bar [PK 9/2/ 55]",
+    "forms": [
+      {
+        "kiksht": "iłkuch",
+        "english": "salmon backbones"
+      }
+    ],
+    "notes": [
+      "According to PK, this refers to a piece of filleted salmon which in- cludes the backbone and tail with flesh adhering; or it can refer to a fish skeleton. It is not clear whether this refers solely to salmon or to fish backbones generally. GT 6/4/98 says this can refer to any fish backbone, but MMc seems to think it's just salmon. aksalk'uc is \"backbone\" gen- erally (for mammals, including hu- mans). See also i-kuch."
+    ],
+    "seeAlso": [
+      "i-kuch"
     ]
   },
   "wi-'ísh": {
