@@ -7523,6 +7523,25 @@
       "Borrowed from English, with substitution of Wasco sounds for English (-l- for -r- and -b- for -v-)."
     ]
   },
+  "Iłgaqtałx": {
+    "root": "Iłgaqtałx",
+    "partOfSpeech": "place",
+    "definition": "a creek where flints are found, in Wasco country",
+    "seeAlso": [
+      "a-qtáłx, i-qtáłx"
+    ]
+  },
+  "Iłianachkanix": {
+    "root": "Iłianachkanix",
+    "partOfSpeech": "place",
+    "definition": "Oak Place",
+    "notes": [
+      "Location unknown."
+    ],
+    "seeAlso": [
+      "ił-nachkan"
+    ]
+  },
   "Notes: Refers to oak of which igaben, digging stick, is made": {
     "root": "Notes: Refers to oak of which igaben, digging stick, is made",
     "partOfSpeech": "Notes: Refers to oak of which igaben, digging stick, is made",
@@ -7530,6 +7549,11 @@
     "seeAlso": [
       "i-gaben"
     ]
+  },
+  "See also: iqdenitkwchk, iłkshtka": {
+    "root": "See also: iqdenitkwchk, iłkshtka",
+    "partOfSpeech": "See also: iqdenitkwchk, i¬kshtka",
+    "definition": "See also: iqdenitkwchk, iłkshtkam"
   },
   "See also: łil, dałál, i- -łlumi": {
     "root": "See also: łil, dałál, i- -łlumi",
@@ -36299,12 +36323,39 @@
       "-t-I-mam"
     ]
   },
+  "ilxdina": {
+    "root": "ilxdina",
+    "partOfSpeech": "vb",
+    "definition": "we have fought one another",
+    "notes": [
+      "In context this means \"we have fought one another and are now done, we have fought enough.\""
+    ],
+    "seeAlso": [
+      "-x-DINA"
+    ]
+  },
+  "ilxułguxwit": {
+    "root": "ilxułguxwit",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) have been beaten",
+    "seeAlso": [
+      "-ŁKW"
+    ]
+  },
   "ilxám": {
     "root": "ilxám",
     "partOfSpeech": "vb",
     "definition": "tell him!",
     "seeAlso": [
       "-LXAM"
+    ]
+  },
+  "ilxłáit": {
+    "root": "ilxłáit",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) have died",
+    "seeAlso": [
+      "-x-ŁA-it"
     ]
   },
   "is-bnanan": {
@@ -37711,6 +37762,234 @@
     "definition": "cedar planks",
     "notes": [
       "The cedar planks used in constructing some varieties of tradi- tional Wasco buildings."
+    ]
+  },
+  "iłac'imam iłk'ílagwadit": {
+    "root": "iłac'imam iłk'ílagwadit",
+    "partOfSpeech": "n",
+    "definition": "sugar",
+    "seeAlso": [
+      "ił-k'ílagwadit"
+    ]
+  },
+  "iłakúłx": {
+    "root": "iłakúłx",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] walked out from shore on it[a-]",
+    "seeAlso": [
+      "-ŁX̲"
+    ]
+  },
+  "iłamtkułq": {
+    "root": "iłamtkułq",
+    "partOfSpeech": "vb",
+    "definition": "I have done with you 2, I am finished with you 2",
+    "seeAlso": [
+      "-ł-k-ŁQ"
+    ]
+  },
+  "iłashkapq": {
+    "root": "iłashkapq",
+    "partOfSpeech": "vb",
+    "definition": "they came in",
+    "seeAlso": [
+      "-PQ"
+    ]
+  },
+  "iłatłemtłem iłchqwá": {
+    "root": "iłatłemtłem iłchqwá",
+    "partOfSpeech": "n",
+    "definition": "beer",
+    "notes": [
+      "Literally \"foamy water.\""
+    ],
+    "seeAlso": [
+      "i-tłemtłem"
+    ]
+  },
+  "iłdimam": {
+    "root": "iłdimam",
+    "partOfSpeech": "vb",
+    "definition": "they have come",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "iłelqłát": {
+    "root": "iłelqłát",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] knows about it[i-]",
+    "seeAlso": [
+      "-l-QŁA"
+    ]
+  },
+  "iłemgídachgwam": {
+    "root": "iłemgídachgwam",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] came upon you",
+    "seeAlso": [
+      "-gl-TA-chkw-am"
+    ]
+  },
+  "iłenxelmux": {
+    "root": "iłenxelmux",
+    "partOfSpeech": "vb",
+    "definition": "I ate them",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "iłenxwtłq": {
+    "root": "iłenxwtłq",
+    "partOfSpeech": "vb",
+    "definition": "I have finished",
+    "seeAlso": [
+      "-ł-k-TŁQ"
+    ]
+  },
+  "iłgagenksh": {
+    "root": "iłgagenksh",
+    "partOfSpeech": "n",
+    "definition": "grandchildren",
+    "forms": [
+      {
+        "kiksht": "iłxgagenksh",
+        "english": "my grandchil- dren [WTIII.3.1]"
+      }
+    ]
+  },
+  "iłgalalal akłmín": {
+    "root": "iłgalalal akłmín",
+    "partOfSpeech": "n",
+    "definition": "October",
+    "notes": [
+      "Means \"travelling [in canoes] month.\" Other people call October itgakw'axa akłmín. [DH]"
+    ]
+  },
+  "iłgaxach'a asablal": {
+    "root": "iłgaxach'a asablal",
+    "partOfSpeech": "n",
+    "definition": "fry bread",
+    "notes": [
+      "Literally \"its-grease bread.\""
+    ],
+    "seeAlso": [
+      "a-sablal, ił-kach'a"
+    ]
+  },
+  "iłgilux": {
+    "root": "iłgilux",
+    "partOfSpeech": "vb",
+    "definition": "they have done it[i-] to him",
+    "examples": [
+      {
+        "kiksht": "Iyamaq iłgilux ichxiutan.",
+        "english": "They have wounded my horse. [WTIV.2.14]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iłginlux": {
+    "root": "iłginlux",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] made it[i-] on me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iłgmúx": {
+    "root": "iłgmúx",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] has done to you",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iłgnux": {
+    "root": "iłgnux",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] has done to me [WTI.1c.6], it (just) did me [WTI.5.3]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iłgnúshtk": {
+    "root": "iłgnúshtk",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] copulated with me",
+    "seeAlso": [
+      "-SHTK"
+    ]
+  },
+  "iłkdenitkwchk": {
+    "root": "iłkdenitkwchk",
+    "partOfSpeech": "vb",
+    "definition": "they have brought them back to me"
+  },
+  "iłkshtkám": {
+    "root": "iłkshtkám",
+    "partOfSpeech": "vb",
+    "definition": "they have brought them 2 back",
+    "seeAlso": [
+      "iqdenitkwchk, iłkdenitkwchk"
+    ]
+  },
+  "iłktawix": {
+    "root": "iłktawix",
+    "partOfSpeech": "vb",
+    "definition": "they have done them to them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iłkínatłxamat iłladasbama": {
+    "root": "iłkínatłxamat iłladasbama",
+    "partOfSpeech": "n",
+    "definition": "dishtowel",
+    "notes": [
+      "Literally \"something to wipe with (iłkínatłxamat) for dishes (iłladasbama).\""
+    ],
+    "seeAlso": [
+      "-NA-tłx"
+    ]
+  },
+  "iłluxt": {
+    "root": "iłluxt",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] is in him[ił-]",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
+  "iłlúxt": {
+    "root": "iłlúxt",
+    "partOfSpeech": "vb",
+    "definition": "they[i-] are on her[ił-]",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
+  "iłmáix": {
+    "root": "iłmáix",
+    "partOfSpeech": "vb",
+    "definition": "put it[i-] down next to the box, make a lining of it[i-]"
+  },
+  "iłumqt": {
+    "root": "iłumqt",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] has died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "iłxkw'áiulkł": {
+    "root": "iłxkw'áiulkł",
+    "partOfSpeech": "vb",
+    "definition": "they dangled",
+    "seeAlso": [
+      "-x-KW'A-kw"
     ]
   },
   "kinwa": {
