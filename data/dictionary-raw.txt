@@ -11663,3 +11663,25 @@ Forms: chiashk’adimachx “he had it[i-] upside down” chiashk’ˆmalch¬ �
 
 
 
+-l-IMA-chu [vb] throw down, shoot down, cast down, drop down, hock, pawn
+Forms: ichulˆmachu “he cast it[a-] down, shot it downward” ichailˆmachu “he dropped it[a-] down in it[i-]” ichailˆmachuix “he dropped it[a-] down in it[i-] (a hole)” ichu©widlimachu “he dropped it[a-] down from them (in this direction)” nichai©idlˆmachu “he dropped it[a-] down from it[i-] (last week)” yu©wˆlimachu! “drop him down (from them), unseat him!” chaidlˆmachxix “he had it[a-] dropped in it[i-] (a hole); he had it hocked, pawned” yu©wˆlimachx “it[i-] is dropped, has been dropped” chiu©wˆlimalch¬ “he is trying to thrown him down off of them” [Dyk]
+
+-sh-k’-IMA-chu [vb] have upside down, turn upside down, upset, be upside down
+Forms: chishk’adimachx, chshik’adimachx “he had him upside down” ashk’imachx, shak’imachx “she is upside down” [Dyk]
+
+-x-IMA-chu [vb] lay down
+Forms: anixˆmachwa, anixˆmachwaya “I will lay him down” anaxˆmachwaya “I will lay her down” achixˆmachwaya “he will lay him down” achaxadˆmachwa “he will lay her down (distant future)” gachaxˆmachu “he laid her down” [Dyk]
+
+-x-x-IMA-kw [vb] hug
+Forms: amxixˆmagwa “you will hug him” amxaximagwa “you will hug her” ayaxaxˆmagwa “he will hug her” amxat¬xˆmagwa “you will hug them” yaxaximalkwt “he is hugging her” [GT 1/15/99]
+
+-a-l-IMA-¬x [vb] throw into water
+Forms: ga¬giÅlima¬x “they threw it[i-] into water” [WTI.4.12] nagalˆma¬xa “she threw her into the water (in that direction)” nagÅidlima¬xa “she threw her into the water (in this direction)” nagnÅidlima¬xa “she threw me into the water (in this direction)” nanÅlima¬xa “I threw her into the water” nigalima¬x “she threw her into the water (last season)” nigaidlima¬x “she threw her into the water (last week)” gachialima¬x “he dropped him into the water” ichaidlima¬x “he threw him into the water (over there)” with reflexive -x-: inxÅlima¬x “I threw myself into the water” nalaxÅlima¬xa “she threw herself into the water” ganxÅlima¬x “I threw myself into the water” gayaxÅlima¬x “he threw himself into the water” passive: yalˆma¬xix “he has been dropped, thrown into water” alˆma¬xix “she has been dropped, thrown into water” yaidlˆma¬xix “he had been dropped, thrown into wa- ter” nishdailˆma¬xixit “they 2 fell into water (last season)” nishdaidlˆma¬xixit “they 2 fell into water (last week)” ni¬aidlˆma¬xixit “it fell into water (last week)” ga¬alˆma¬xixit “it fell into water” [Dyk]
+
+-a-l-IMA-¬x-ixit [vb] fall into water
+Forms: ashdalimÅ¬xixida “they 2 will fall into water and drown” [GT 12/ 30/97] gadalima¬xixit “they fell into the water” [WTI.4.2]
+
+-x-xa-IMA-ni¬ [vb] carry out power testing ceremony
+Forms: inxxÅimani¬ “I am carrying out the power testing ceremony on him” chnxxÅimani¬ “he is carrying out the power testing ceremony on me” [Dyk]
+Notes: This stem literally means “lay” (-xaima-) “on oneself” (-x-). (The suffix -ni¬ indicates repeated action.) It refers to the following ceremony: “To test and perhaps to initiate a boy into his power. A[n Indian] doctor lays the boy (before the age of 14) on his own back, back to back, and so dances with him. If the boy has power, the doctor is able to hypnotize him, whereupon he is laid down stiff and after the doctor has found out what they boy’s power is he gives it back to him by blowing on him. All the time the doctor is singing.” [Dyk]
+See also: it-kaxÅimani¬

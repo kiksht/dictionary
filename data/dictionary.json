@@ -3100,6 +3100,108 @@
       "a-qígwachinan"
     ]
   },
+  "-a-l-IMA-łx": {
+    "root": "-a-l-IMA-łx",
+    "partOfSpeech": "vb",
+    "definition": "throw into water",
+    "forms": [
+      {
+        "kiksht": "gałgiálimałx",
+        "english": "they threw it[i-] into water [WTI.4.12]"
+      },
+      {
+        "kiksht": "nagalímałxa",
+        "english": "she threw her into the water (in that direction)"
+      },
+      {
+        "kiksht": "nagáidlimałxa",
+        "english": "she threw her into the water (in this direction)"
+      },
+      {
+        "kiksht": "nagnáidlimałxa",
+        "english": "she threw me into the water (in this direction)"
+      },
+      {
+        "kiksht": "nanálimałxa",
+        "english": "I threw her into the water"
+      },
+      {
+        "kiksht": "nigalimałx",
+        "english": "she threw her into the water (last season)"
+      },
+      {
+        "kiksht": "nigaidlimałx",
+        "english": "she threw her into the water (last week)"
+      },
+      {
+        "kiksht": "gachialimałx",
+        "english": "he dropped him into the water"
+      },
+      {
+        "kiksht": "ichaidlimałx",
+        "english": "he threw him into the water (over there)"
+      },
+      {
+        "kiksht": "with reflexive -x-: inxálimałx",
+        "english": "I threw myself into the water"
+      },
+      {
+        "kiksht": "nalaxálimałxa",
+        "english": "she threw herself into the water"
+      },
+      {
+        "kiksht": "ganxálimałx",
+        "english": "I threw myself into the water"
+      },
+      {
+        "kiksht": "gayaxálimałx",
+        "english": "he threw himself into the water"
+      },
+      {
+        "kiksht": "passive: yalímałxix",
+        "english": "he has been dropped, thrown into water"
+      },
+      {
+        "kiksht": "alímałxix",
+        "english": "she has been dropped, thrown into water"
+      },
+      {
+        "kiksht": "yaidlímałxix",
+        "english": "he had been dropped, thrown into wa- ter"
+      },
+      {
+        "kiksht": "nishdailímałxixit",
+        "english": "they 2 fell into water (last season)"
+      },
+      {
+        "kiksht": "nishdaidlímałxixit",
+        "english": "they 2 fell into water (last week)"
+      },
+      {
+        "kiksht": "niłaidlímałxixit",
+        "english": "it fell into water (last week)"
+      },
+      {
+        "kiksht": "gałalímałxixit",
+        "english": "it fell into water [Dyk]"
+      }
+    ]
+  },
+  "-a-l-IMA-łx-ixit": {
+    "root": "-a-l-IMA-łx-ixit",
+    "partOfSpeech": "vb",
+    "definition": "fall into water",
+    "forms": [
+      {
+        "kiksht": "ashdalimáłxixida",
+        "english": "they 2 will fall into water and drown [GT 12/ 30/97]"
+      },
+      {
+        "kiksht": "gadalimałxixit",
+        "english": "they fell into the water [WTI.4.2]"
+      }
+    ]
+  },
   "-a-xl- G̲AYA": {
     "root": "-a-xl- G̲AYA",
     "partOfSpeech": "vb",
@@ -5149,6 +5251,49 @@
       }
     ]
   },
+  "-l-IMA-chu": {
+    "root": "-l-IMA-chu",
+    "partOfSpeech": "vb",
+    "definition": "throw down, shoot down, cast down, drop down, hock, pawn",
+    "forms": [
+      {
+        "kiksht": "ichulímachu",
+        "english": "he cast it[a-] down, shot it downward"
+      },
+      {
+        "kiksht": "ichailímachu",
+        "english": "he dropped it[a-] down in it[i-]"
+      },
+      {
+        "kiksht": "ichailímachuix",
+        "english": "he dropped it[a-] down in it[i-] (a hole)"
+      },
+      {
+        "kiksht": "ichug̲widlimachu",
+        "english": "he dropped it[a-] down from them (in this direction)"
+      },
+      {
+        "kiksht": "nichaig̲idlímachu",
+        "english": "he dropped it[a-] down from it[i-] (last week)"
+      },
+      {
+        "kiksht": "yug̲wílimachu!",
+        "english": "drop him down (from them), unseat him!"
+      },
+      {
+        "kiksht": "chaidlímachxix",
+        "english": "he had it[a-] dropped in it[i-] (a hole); he had it hocked, pawned"
+      },
+      {
+        "kiksht": "yug̲wílimachx",
+        "english": "it[i-] is dropped, has been dropped"
+      },
+      {
+        "kiksht": "chiug̲wílimalchł",
+        "english": "he is trying to thrown him down off of them [Dyk]"
+      }
+    ]
+  },
   "-l-u-I": {
     "root": "-l-u-I",
     "partOfSpeech": "vb",
@@ -5801,6 +5946,21 @@
     ],
     "seeAlso": [
       "ish-kachxiq"
+    ]
+  },
+  "-sh-k'-IMA-chu": {
+    "root": "-sh-k'-IMA-chu",
+    "partOfSpeech": "vb",
+    "definition": "have upside down, turn upside down, upset, be upside down",
+    "forms": [
+      {
+        "kiksht": "chishk'adimachx, chshik'adimachx",
+        "english": "he had him upside down"
+      },
+      {
+        "kiksht": "ashk'imachx, shak'imachx",
+        "english": "she is upside down [Dyk]"
+      }
     ]
   },
   "-sh-k-DI-pa": {
@@ -6870,6 +7030,33 @@
       "Can refer to releasing or let- ting a person or thing go, or sending someone or something off, such as a package."
     ]
   },
+  "-x-IMA-chu": {
+    "root": "-x-IMA-chu",
+    "partOfSpeech": "vb",
+    "definition": "lay down",
+    "forms": [
+      {
+        "kiksht": "anixímachwa, anixímachwaya",
+        "english": "I will lay him down"
+      },
+      {
+        "kiksht": "anaxímachwaya",
+        "english": "I will lay her down"
+      },
+      {
+        "kiksht": "achixímachwaya",
+        "english": "he will lay him down"
+      },
+      {
+        "kiksht": "achaxadímachwa",
+        "english": "he will lay her down (distant future)"
+      },
+      {
+        "kiksht": "gachaxímachu",
+        "english": "he laid her down [Dyk]"
+      }
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -7249,6 +7436,54 @@
     ],
     "notes": [
       "Apparently refers mostly to shooting with bow and arrow."
+    ]
+  },
+  "-x-x-IMA-kw": {
+    "root": "-x-x-IMA-kw",
+    "partOfSpeech": "vb",
+    "definition": "hug",
+    "forms": [
+      {
+        "kiksht": "amxixímagwa",
+        "english": "you will hug him"
+      },
+      {
+        "kiksht": "amxaximagwa",
+        "english": "you will hug her"
+      },
+      {
+        "kiksht": "ayaxaxímagwa",
+        "english": "he will hug her"
+      },
+      {
+        "kiksht": "amxatłxímagwa",
+        "english": "you will hug them"
+      },
+      {
+        "kiksht": "yaxaximalkwt",
+        "english": "he is hugging her [GT 1/15/99]"
+      }
+    ]
+  },
+  "-x-xa-IMA-nił": {
+    "root": "-x-xa-IMA-nił",
+    "partOfSpeech": "vb",
+    "definition": "carry out power testing ceremony",
+    "forms": [
+      {
+        "kiksht": "inxxáimanił",
+        "english": "I am carrying out the power testing ceremony on him"
+      },
+      {
+        "kiksht": "chnxxáimanił",
+        "english": "he is carrying out the power testing ceremony on me [Dyk]"
+      }
+    ],
+    "notes": [
+      "This stem literally means \"lay\" (-xaima-) \"on oneself\" (-x-). (The suffix -nił indicates repeated action.) It refers to the following ceremony: \"To test and perhaps to initiate a boy into his power. A[n Indian] doctor lays the boy (before the age of 14) on his own back, back to back, and so dances with him. If the boy has power, the doctor is able to hypnotize him, whereupon he is laid down stiff and after the doctor has found out what they boy's power is he gives it back to him by blowing on him. All the time the doctor is singing.\" [Dyk]"
+    ],
+    "seeAlso": [
+      "it-kaxáimanił"
     ]
   },
   "-xa-IMA": {
