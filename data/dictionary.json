@@ -3126,6 +3126,25 @@
       "-a-gl- G̲AYA"
     ]
   },
+  "-ash-k'-IMA-chu": {
+    "root": "-ash-k'-IMA-chu",
+    "partOfSpeech": "vb",
+    "definition": "have upside down, turn upside down, upset",
+    "forms": [
+      {
+        "kiksht": "chiashk'adimachx",
+        "english": "he had it[i-] upside down"
+      },
+      {
+        "kiksht": "chiashk'ímalchł",
+        "english": "he is upsetting it[i-], setting it up- side down"
+      },
+      {
+        "kiksht": "ichiashk'imachu",
+        "english": "he turned it[i-] upside down [Dyk]"
+      }
+    ]
+  },
   "-bali": {
     "root": "-bali",
     "partOfSpeech": "n",
