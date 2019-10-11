@@ -6689,6 +6689,42 @@
       "-gak'aps"
     ]
   },
+  "-k'álamat": {
+    "root": "-k'álamat",
+    "partOfSpeech": "n",
+    "definition": "rock, stone, bluff, crag, cliff, stone pipe",
+    "forms": [
+      {
+        "kiksht": "ik'álamat",
+        "english": "rock, stone (gen- eral term)"
+      },
+      {
+        "kiksht": "ak'álamat",
+        "english": "stone pipe for smoking; rock, stone smaller than ik'álamt"
+      },
+      {
+        "kiksht": "itk'álamat",
+        "english": "large solid rough rock formations, rock cliffs, bluffs, crags"
+      },
+      {
+        "kiksht": "iłk'álamat",
+        "english": "stones, rocks; pipes"
+      },
+      {
+        "kiksht": "itk'álamatpa",
+        "english": "on, by, in between crags [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ishk'álamat gashxux.",
+        "english": "They 2 became rocks. [WTI.1b3]"
+      }
+    ],
+    "seeAlso": [
+      "a-gálamat"
+    ]
+  },
   "-k-CHA": {
     "root": "-k-CHA",
     "partOfSpeech": "vb",
@@ -6891,6 +6927,40 @@
         "kiksht": "ługwak'ánq",
         "english": "it fits them [WTII.7.1]"
       }
+    ]
+  },
+  "-k-K'ALA-kw": {
+    "root": "-k-K'ALA-kw",
+    "partOfSpeech": "vb",
+    "definition": "step over",
+    "forms": [
+      {
+        "kiksht": "yakk'álalkwł",
+        "english": "he is stepping over it[a-] (continually)"
+      },
+      {
+        "kiksht": "yakk'alakwt",
+        "english": "he is stepping over it[a-]"
+      },
+      {
+        "kiksht": "iyakk'álagwa",
+        "english": "he stepped over it[a-]"
+      },
+      {
+        "kiksht": "akk'álakux",
+        "english": "it[a-] has been stepped over"
+      },
+      {
+        "kiksht": "akk'álaguxlit",
+        "english": "it[a-] is being stepped over (as by many people, again and again) [Dyk]"
+      },
+      {
+        "kiksht": "gayugwak'álakwax",
+        "english": "he stepped over them [WTI.11.17]"
+      }
+    ],
+    "seeAlso": [
+      "ił-k'alaimat, i-kak'alalkwł"
     ]
   },
   "-k-KIM": {
@@ -11884,6 +11954,11 @@
       "Undoubtedly related to i- k'alamat \"rock.\""
     ]
   },
+  "K'alapuiwa": {
+    "root": "K'alapuiwa",
+    "partOfSpeech": "n",
+    "definition": "Kalapuya"
+  },
   "Kaskit": {
     "root": "Kaskit",
     "partOfSpeech": "place",
@@ -13069,6 +13144,12 @@
       }
     ]
   },
+  "a-k'alalaxwtaksh": {
+    "root": "a-k'alalaxwtaksh",
+    "partOfSpeech": "n",
+    "definition": "acorns with worm-holes",
+    "forms": []
+  },
   "a-k'álak'ia": {
     "root": "a-k'álak'ia",
     "partOfSpeech": "n",
@@ -13093,6 +13174,40 @@
     "seeAlso": [
       "a-k'ústxulal"
     ]
+  },
+  "a-k'álalaxut": {
+    "root": "a-k'álalaxut",
+    "partOfSpeech": "n",
+    "definition": "eye fitted into the end of a rope, eyelet",
+    "forms": [
+      {
+        "kiksht": "itk'alalaxut, itk'alalaxutksh, itk'alalaxutaksh",
+        "english": "eyelets [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ił-gak'alalaxutaksh"
+    ]
+  },
+  "a-k'álaqłqix": {
+    "root": "a-k'álaqłqix",
+    "partOfSpeech": "n",
+    "definition": "parted hair",
+    "examples": [
+      {
+        "kiksht": "Amik'álaqłqix.",
+        "english": "You have your hair parted."
+      },
+      {
+        "kiksht": "Amik'álaqłqix chi?",
+        "english": "Do you part your hair? [Dyk]"
+      }
+    ]
+  },
+  "a-k'álituk": {
+    "root": "a-k'álituk",
+    "partOfSpeech": "n",
+    "definition": "saddle-horn"
   },
   "a-kachkdama": {
     "root": "a-kachkdama",
@@ -40570,6 +40685,44 @@
       "i-ladás"
     ]
   },
+  "i-k'alk'allit": {
+    "root": "i-k'alk'allit",
+    "partOfSpeech": "n",
+    "definition": "gravel",
+    "notes": [
+      "Refers to the fine gravel used in making concrete, found in gravel bars."
+    ]
+  },
+  "i-k'alxix": {
+    "root": "i-k'alxix",
+    "partOfSpeech": "n",
+    "definition": "membrum virile, penis",
+    "forms": [
+      {
+        "kiksht": "itk'alxixyuksh",
+        "english": "membra virilia"
+      },
+      {
+        "kiksht": "ick'alxix",
+        "english": "membrum parvum meum"
+      },
+      {
+        "kiksht": "ichgalxix",
+        "english": "membrum mag- num meum"
+      }
+    ],
+    "seeAlso": [
+      "i-kwłilal, i-galxix"
+    ]
+  },
+  "i-k'ałmgwadit": {
+    "root": "i-k'ałmgwadit",
+    "partOfSpeech": "n",
+    "definition": "forepiece of arrow",
+    "notes": [
+      "Formerly made of hardwood, now sometimes made of copper."
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -40587,6 +40740,14 @@
         "kiksht": "ixt inshak'amunaq k'un senmakwstłał",
         "english": "170 of us [Dyk]"
       }
+    ]
+  },
+  "i-k'áłamgwadid": {
+    "root": "i-k'áłamgwadid",
+    "partOfSpeech": "n",
+    "definition": "rattles",
+    "notes": [
+      "Note from Sapir, Wishram Texts p.168: \"The ik'áłamgwadid is described as a tin ornament of the shape of a funnel; several were tied close to one another to a belt or saddle, and produced a jingling ef- fect. Pete adds that surely the 'ik'áłamgwadid was made before Indians ever saw tin. To my knowl- edge, it was made of horn or bone in olden days.' Perhaps dew-claw rattles are referred to.\""
     ]
   },
   "i-k'íwulal": {
@@ -43513,6 +43674,14 @@
       "is-galpqdit, is-qalpdit"
     ]
   },
+  "is-k'almas": {
+    "root": "is-k'almas",
+    "partOfSpeech": "n",
+    "definition": "cone-shaped pile of rocks, cairn",
+    "notes": [
+      "Refers to a pile of rocks put down as a marker."
+    ]
+  },
   "is-kamintłk": {
     "root": "is-kamintłk",
     "partOfSpeech": "n",
@@ -43774,6 +43943,25 @@
     "definition": "eel tail",
     "seeAlso": [
       "a-k'achacha"
+    ]
+  },
+  "ish-k'ali": {
+    "root": "ish-k'ali",
+    "partOfSpeech": "n",
+    "definition": "basket",
+    "notes": [
+      "Big berry basket. [GT, MMc 1/ 14/99]"
+    ]
+  },
+  "ish-k'alkal": {
+    "root": "ish-k'alkal",
+    "partOfSpeech": "n",
+    "definition": "hip bones, shinny-ball",
+    "notes": [
+      "The ball is made of wood. Apparently, this name for it was derived from the ball on the end of the femur at the hip. [PK 8/30/55, 4/ 14/56]"
+    ],
+    "seeAlso": [
+      "wa-k'alkal"
     ]
   },
   "ish-kabiłxit": {
@@ -46446,6 +46634,25 @@
       "-kk'alakw, -k'álamat, Łiak'álaimadix"
     ]
   },
+  "ił-k'alkchix": {
+    "root": "ił-k'alkchix",
+    "partOfSpeech": "n",
+    "definition": "side of smoked white- fish [Dyk], heads of smoked whitefish [GT, MMc 6/4/98]",
+    "notes": [
+      "Smoked over a screen."
+    ],
+    "seeAlso": [
+      "-lkch"
+    ]
+  },
+  "ił-k'álamat": {
+    "root": "ił-k'álamat",
+    "partOfSpeech": "n",
+    "definition": "pebbles",
+    "seeAlso": [
+      "-k'alamat"
+    ]
+  },
   "ił-kabwalal": {
     "root": "ił-kabwalal",
     "partOfSpeech": "n",
@@ -48141,6 +48348,17 @@
     ],
     "seeAlso": [
       "wa-ixtksh"
+    ]
+  },
+  "wa-k'alkal": {
+    "root": "wa-k'alkal",
+    "partOfSpeech": "n",
+    "definition": "shinny ball [WTI.17.6], shinny game [DykGr 96]",
+    "notes": [
+      "A ball used in games and gambling."
+    ],
+    "seeAlso": [
+      "ish-k'alkal"
     ]
   },
   "wa-kac": {
