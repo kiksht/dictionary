@@ -26,6 +26,23 @@
       }
     ]
   },
+  "'ish'ish": {
+    "root": "'ish'ish",
+    "partOfSpeech": "part",
+    "definition": "dance",
+    "examples": [
+      {
+        "kiksht": "'ish'ísh emxúx.",
+        "english": "Dance!"
+      }
+    ],
+    "notes": [
+      "Child language."
+    ],
+    "seeAlso": [
+      "-WI"
+    ]
+  },
   "(i)yag̲aitłemix \"large place": {
     "root": "(i)yag̲aitłemix \"large place",
     "partOfSpeech": "(i)ya©ait¬emix “large place",
@@ -8678,6 +8695,36 @@
     "definition": "Hood River",
     "notes": [
       "Borrowed from English, with substitution of Wasco sounds for English (-l- for -r- and -b- for -v-)."
+    ]
+  },
+  "Ishqał": {
+    "root": "Ishqał",
+    "partOfSpeech": "place",
+    "definition": "Two Creeks",
+    "notes": [
+      "Literally \"Two Creeks\"; refers to a place on the reservation."
+    ],
+    "seeAlso": [
+      "wi-qał, wa-qał"
+    ]
+  },
+  "Itgak'axnaq": {
+    "root": "Itgak'axnaq",
+    "partOfSpeech": "place",
+    "definition": "Chokecherry Tree Place",
+    "notes": [
+      "A fishing place a little below Big Eddy."
+    ],
+    "seeAlso": [
+      "i-k'axnaq"
+    ]
+  },
+  "Itk'umałmtk": {
+    "root": "Itk'umałmtk",
+    "partOfSpeech": "place",
+    "definition": "Long Beach",
+    "notes": [
+      "A place in Wasco country."
     ]
   },
   "Iłgaqtałx": {
@@ -33798,6 +33845,14 @@
       "ánana"
     ]
   },
+  "i-'ish'ish": {
+    "root": "i-'ish'ish",
+    "partOfSpeech": "n",
+    "definition": "bluejay",
+    "seeAlso": [
+      "wi-'ísh"
+    ]
+  },
   "i-'álenchish": {
     "root": "i-'álenchish",
     "partOfSpeech": "n",
@@ -38392,12 +38447,77 @@
       "-qix"
     ]
   },
+  "iqixinantłxbama ich'axwi": {
+    "root": "iqixinantłxbama ich'axwi",
+    "partOfSpeech": "n",
+    "definition": "paper napkin",
+    "notes": [
+      "Literally \"for wiping\" (iqixinantłxbama) \"paper\" (ich'axwi)."
+    ],
+    "seeAlso": [
+      "-PA-tłx, i-qixinantłx"
+    ]
+  },
+  "iqmshtlxamam": {
+    "root": "iqmshtlxamam",
+    "partOfSpeech": "vb",
+    "definition": "we have come to tell you folks",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "iqnúgelaqłq": {
+    "root": "iqnúgelaqłq",
+    "partOfSpeech": "vb",
+    "definition": "one has recognized me, I have been recognized",
+    "seeAlso": [
+      "-GLA-qłq"
+    ]
+  },
+  "iqsenlux": {
+    "root": "iqsenlux",
+    "partOfSpeech": "vb",
+    "definition": "one did it[ish-] for me, it[ish-] was done for me",
+    "examples": [
+      {
+        "kiksht": "T'aya iqsenlux iskc'ikc'ik.",
+        "english": "I got my wagon fixed. [Spilyay/ Food Material]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iqshuwaq": {
+    "root": "iqshuwaq",
+    "partOfSpeech": "vb",
+    "definition": "one has killed them 2, they 2 have been killed",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "iqtłá": {
+    "root": "iqtłá",
+    "partOfSpeech": "vb",
+    "definition": "touch him/it[i-]!",
+    "seeAlso": [
+      "-QTŁA"
+    ]
+  },
   "iqágelga": {
     "root": "iqágelga",
     "partOfSpeech": "vb",
     "definition": "one has gotten her, she has been gotten",
     "seeAlso": [
       "-gl-GA"
+    ]
+  },
+  "iqła": {
+    "root": "iqła",
+    "partOfSpeech": "vb",
+    "definition": "count it[i-]!",
+    "seeAlso": [
+      "-QŁA"
     ]
   },
   "is-bnanan": {
@@ -38703,6 +38823,52 @@
       "it-k'iwax"
     ]
   },
+  "ishdimam": {
+    "root": "ishdimam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 have come, they 2 have arrived",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "ishgig̲elkel": {
+    "root": "ishgig̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "they 2 have seen it[i- ]",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "ishguxaima": {
+    "root": "ishguxaima",
+    "partOfSpeech": "vb",
+    "definition": "they 2 have put them down",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "ishknuwaq": {
+    "root": "ishknuwaq",
+    "partOfSpeech": "vb",
+    "definition": "they 2 have killed me",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "ishktålgwipchk": {
+    "root": "ishktålgwipchk",
+    "partOfSpeech": "vb",
+    "definition": "they 2 collected them from water (into it[i-]?)",
+    "examples": [
+      {
+        "kiksht": "Ishktålgwipchk wímałiamt.",
+        "english": "They 2 were collecting them from the river. [WTI.1a.1]"
+      }
+    ],
+    "seeAlso": [
+      "-GWI-pchk"
+    ]
+  },
   "ishktälgwipchk": {
     "root": "ishktälgwipchk",
     "partOfSpeech": "vb",
@@ -38715,6 +38881,22 @@
     ],
     "seeAlso": [
       "-GWI-pchk"
+    ]
+  },
+  "ishtugwilait": {
+    "root": "ishtugwilait",
+    "partOfSpeech": "vb",
+    "definition": "they 2 have doc- tored",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "ishxux": {
+    "root": "ishxux",
+    "partOfSpeech": "vb",
+    "definition": "they 2 have become, they 2 are",
+    "seeAlso": [
+      "-X̲, -x-X̲"
     ]
   },
   "it- -baishxilal": {
@@ -39469,6 +39651,85 @@
     ],
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "itgachaxelqwłimax akłmín": {
+    "root": "itgachaxelqwłimax akłmín",
+    "partOfSpeech": "n",
+    "definition": "De- cember",
+    "notes": [
+      "Means \"winter-houses month.\" [DH]"
+    ],
+    "seeAlso": [
+      "it-chaxelqwł"
+    ]
+  },
+  "itgakw'axa akłmín": {
+    "root": "itgakw'axa akłmín",
+    "partOfSpeech": "n",
+    "definition": "October",
+    "notes": [
+      "Means \"leaves month.\" Some people also called October iłgalalal akłmín. [DH]"
+    ],
+    "seeAlso": [
+      "it-kw'axa"
+    ]
+  },
+  "itgaxałagwax akłmín": {
+    "root": "itgaxałagwax akłmín",
+    "partOfSpeech": "n",
+    "definition": "August",
+    "notes": [
+      "Means \"berry-patches month.\" [DH]"
+    ],
+    "seeAlso": [
+      "it-kałagwax"
+    ]
+  },
+  "itkshtám": {
+    "root": "itkshtám",
+    "partOfSpeech": "vb",
+    "definition": "come look at him!",
+    "seeAlso": [
+      "-KSHT-am"
+    ]
+  },
+  "itkshuqidamidaba": {
+    "root": "itkshuqidamidaba",
+    "partOfSpeech": "vb",
+    "definition": "they caused it[it-] to break out",
+    "seeAlso": [
+      "-TA"
+    ]
+  },
+  "itkwait": {
+    "root": "itkwait",
+    "partOfSpeech": "vb",
+    "definition": "they capsized"
+  },
+  "itqiu": {
+    "root": "itqiu",
+    "partOfSpeech": "vb",
+    "definition": "he slept",
+    "examples": [
+      {
+        "kiksht": "Gayaxáwikwłichk idlxam dan gachig̲lglx itqíuba xábixix.",
+        "english": "He told the people what had had seen when he slept at night. [WTIV.4.1]"
+      }
+    ],
+    "seeAlso": [
+      "-QIU"
+    ]
+  },
+  "ił-'ishałx": {
+    "root": "ił-'ishałx",
+    "partOfSpeech": "n",
+    "definition": "corn",
+    "examples": [
+      {
+        "kiksht": "Łnít iłishałx.",
+        "english": "Give me corn! [GT, MMc 6/5/98]"
+      }
     ]
   },
   "ił-alakásgwilit": {
@@ -40462,6 +40723,14 @@
         "kiksht": "Axdau waich aximat.",
         "english": "That tail is lying."
       }
+    ]
+  },
+  "wi-'ísh": {
+    "root": "wi-'ísh",
+    "partOfSpeech": "n",
+    "definition": "bluejay",
+    "seeAlso": [
+      "i-'ish'ish"
     ]
   },
   "wi-ck'entłex": {
