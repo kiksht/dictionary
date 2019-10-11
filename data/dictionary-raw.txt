@@ -13643,3 +13643,43 @@ Examples: Dukst chi idunayax? “Are the huckleberries ripe?” [GT, MMc] Kwaish
 
 -KSDA-mit [vb] cook
 Forms: achiuksdÅmida “he will cook it[i-]” chiuksdamit “he is coooking it[i-]” [Dyk]
+
+
+
+
+
+
+
+i¬-kshén [n] hand
+Forms: itkshén “two hands [Dyk]; hands (two or more) [HS 7/28/54]” itkshenmax “pairs of hands [Dyk]; hands (in general) [GT 12/29/97]” it¬akshén “their hands” [MMc 12/22/ 97]
+Notes: Normally used with posses- sive prefix.
+See also: (w)a-kshén
+
+(w)a-kshén [n] finger
+Forms: aq’iyuqt wakshén “thumb” akksin “my little finger” [Dyk] icak’Åic akkshén “my little finger” [MMc 12/22/97] Does not change for plural, according to Dyk; but DykGr 95 translates itkshin as “fin- gers, hands.”
+Examples: Ga¬k¬uq¬a a¬asksen engi. “He[i¬-] counted them with his fin- gers.” [WTI.1d.1]
+See also: i¬-kshén
+
+it-kshenmat [n] artificial hands
+See also: i¬-kshen
+
+a-kshg ̈chian [n] adze [Dyk], toma- hawk [HS 7/28/56]
+See also: i-kshg ̈chian, a-ksk’ucian, a- taptxli
+
+i-kshg ̈chian [n] mattock
+See also: a-kshguchian
+
+it-kshˆw [n] tree roots, large roots
+See also: i-c’aimc’aim
+
+ish-kshkusht [n] testicles
+Examples: bama ishkshkusht qshudelk “for putting testicles away” (describes the scrotum) Ishkshkusht qshigmudelgix wakdiba. “Testicles are buried beside the vulva.” [Dyk]
+
+-l-u-KSH-mit [vb] place in mouth
+Forms: gagˆlukshmit “she placed it[i- ] in his mouth” gagialukshmit “she placed it[i-] in her [another person’s] mouth” galixlukshmit “he placed it[i-] in his own mouth” gayaxlukshmit “she placed it[i-] in her own mouth” galaixlukshmit “he placed it[a-] in his own mouth” [ES]
+
+-KSHD-it [vb] be full (of food)
+Forms: nukshdit “I am full” mukshdit “you are full” emshukshdit “you folks are full” [Spilyay/Food; GT 1/15/99]
+
+i-kshnaimat [n] glove
+Forms: itkshnaimat “gloves” [GT, MMc]

@@ -121,6 +121,38 @@
       }
     ]
   },
+  "(w)a-kshén": {
+    "root": "(w)a-kshén",
+    "partOfSpeech": "n",
+    "definition": "finger",
+    "forms": [
+      {
+        "kiksht": "aq'iyuqt wakshén",
+        "english": "thumb"
+      },
+      {
+        "kiksht": "akksin",
+        "english": "my little finger [Dyk]"
+      },
+      {
+        "kiksht": "icak'áic akkshén",
+        "english": "my little finger [MMc 12/22/97]"
+      },
+      {
+        "kiksht": "Does not change for plural, according to Dyk; but DykGr 95 translates itkshin as",
+        "english": "fin- gers, hands."
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gałkłuqła ałasksen engi.",
+        "english": "He[ił-] counted them with his fin- gers. [WTI.1d.1]"
+      }
+    ],
+    "seeAlso": [
+      "ił-kshén"
+    ]
+  },
   "(w)i-káq": {
     "root": "(w)i-káq",
     "partOfSpeech": "n",
@@ -3571,6 +3603,25 @@
       {
         "kiksht": "chiuksdamit",
         "english": "he is coooking it[i-] [Dyk]"
+      }
+    ]
+  },
+  "-KSHD-it": {
+    "root": "-KSHD-it",
+    "partOfSpeech": "vb",
+    "definition": "be full (of food)",
+    "forms": [
+      {
+        "kiksht": "nukshdit",
+        "english": "I am full"
+      },
+      {
+        "kiksht": "mukshdit",
+        "english": "you are full"
+      },
+      {
+        "kiksht": "emshukshdit",
+        "english": "you folks are full [Spilyay/Food; GT 1/15/99]"
       }
     ]
   },
@@ -7434,6 +7485,33 @@
       {
         "kiksht": "iqaluya",
         "english": "someone caught her [Dyk]"
+      }
+    ]
+  },
+  "-l-u-KSH-mit": {
+    "root": "-l-u-KSH-mit",
+    "partOfSpeech": "vb",
+    "definition": "place in mouth",
+    "forms": [
+      {
+        "kiksht": "gagílukshmit",
+        "english": "she placed it[i- ] in his mouth"
+      },
+      {
+        "kiksht": "gagialukshmit",
+        "english": "she placed it[i-] in her [another person's] mouth"
+      },
+      {
+        "kiksht": "galixlukshmit",
+        "english": "he placed it[i-] in his own mouth"
+      },
+      {
+        "kiksht": "gayaxlukshmit",
+        "english": "she placed it[i-] in her own mouth"
+      },
+      {
+        "kiksht": "galaixlukshmit",
+        "english": "he placed it[a-] in his own mouth [ES]"
       }
     ]
   },
@@ -12776,6 +12854,14 @@
     "definition": "small sucker",
     "seeAlso": [
       "a-ksguchyan"
+    ]
+  },
+  "a-kshgúchian": {
+    "root": "a-kshgúchian",
+    "partOfSpeech": "n",
+    "definition": "adze [Dyk], toma- hawk [HS 7/28/56]",
+    "seeAlso": [
+      "i-kshgúchian, a-ksk'ucian, a- taptxli"
     ]
   },
   "a-ksk'úcian": {
@@ -40701,6 +40787,25 @@
       "a-kním"
     ]
   },
+  "i-kshgúchian": {
+    "root": "i-kshgúchian",
+    "partOfSpeech": "n",
+    "definition": "mattock",
+    "seeAlso": [
+      "a-kshguchian"
+    ]
+  },
+  "i-kshnaimat": {
+    "root": "i-kshnaimat",
+    "partOfSpeech": "n",
+    "definition": "glove",
+    "forms": [
+      {
+        "kiksht": "itkshnaimat",
+        "english": "gloves [GT, MMc]"
+      }
+    ]
+  },
   "i-kámusak": {
     "root": "i-kámusak",
     "partOfSpeech": "n",
@@ -42982,6 +43087,21 @@
       "-sh-xm-WA-kw"
     ]
   },
+  "ish-kshkusht": {
+    "root": "ish-kshkusht",
+    "partOfSpeech": "n",
+    "definition": "testicles",
+    "examples": [
+      {
+        "kiksht": "bama ishkshkusht qshudelk",
+        "english": "for putting testicles away"
+      },
+      {
+        "kiksht": "(describes the scrotum) Ishkshkusht qshigmudelgix wakdiba.",
+        "english": "Testicles are buried beside the vulva. [Dyk]"
+      }
+    ]
+  },
   "ish-kányagwamat": {
     "root": "ish-kányagwamat",
     "partOfSpeech": "n",
@@ -44341,6 +44461,22 @@
       "General word for any kind of fruit. [GT 1/15/99]"
     ]
   },
+  "it-kshenmat": {
+    "root": "it-kshenmat",
+    "partOfSpeech": "n",
+    "definition": "artificial hands",
+    "seeAlso": [
+      "ił-kshen"
+    ]
+  },
+  "it-kshíw": {
+    "root": "it-kshíw",
+    "partOfSpeech": "n",
+    "definition": "tree roots, large roots",
+    "seeAlso": [
+      "i-c'aimc'aim"
+    ]
+  },
   "it-ká": {
     "root": "it-ká",
     "partOfSpeech": "n",
@@ -45606,6 +45742,31 @@
     "root": "ił-knaksh",
     "partOfSpeech": "n",
     "definition": "reeds"
+  },
+  "ił-kshén": {
+    "root": "ił-kshén",
+    "partOfSpeech": "n",
+    "definition": "hand",
+    "forms": [
+      {
+        "kiksht": "itkshén",
+        "english": "two hands [Dyk]; hands (two or more) [HS 7/28/54]"
+      },
+      {
+        "kiksht": "itkshenmax",
+        "english": "pairs of hands [Dyk]; hands (in general) [GT 12/29/97]"
+      },
+      {
+        "kiksht": "itłakshén",
+        "english": "their hands [MMc 12/22/ 97]"
+      }
+    ],
+    "notes": [
+      "Normally used with posses- sive prefix."
+    ],
+    "seeAlso": [
+      "(w)a-kshén"
+    ]
   },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
