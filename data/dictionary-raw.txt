@@ -12403,3 +12403,28 @@ Examples: Agelga ak’ˆnu¬mat iladamyamt. “Pick up the pen from the table.�
 
 -l-GA [vb] stick in, be stuck in, stick to, be stuck to
 Forms: yalgÅt “it[i-] is stuck in it[a-], it is sticking in it” shtalgÅt “they 2 are stuck to it[a-]” ctilgadix “they 2 are stuck to it[i-] (a place)” ailgadix “it[a-] is stuck to it[i-]” yaitgat “it[i-] was sticking in it[a-]” ailgayudix “they[a-] (each one) are stuck in it[i-] (a place)” shxlgat “they 2 are stuck together” shxitgat “they 2 were stuck together” [Dyk]
+
+
+
+
+
+
+-x-GA [vb] pull, pull at, hold (with suffix -t), stretch, hold back
+Forms: ixgÅix! “pull it[i-] (a place)” anixgaya “I will pull it[i-]” nixgeni¬ “I am pulling it[i-] (steadily along)” chixgeni¬ “I am pulling it[i-] (steadily along)” chixgat “he has it[i-] pulled, he is holding it taut” [See under notes.] inixgani¬chk “I pulled it[i-] (several times)” inixatga “I just pulled it[i-]” qshxgeni¬ “they 2 are being pulled (again and again)” nichaxatga “he pulled it[a-] (last week)” nichaxatgat “he was pulling it[a-], had it pulled, was holding it taut (last week)” gachixga “he pulled it[i-]” inixatgamam “I came to pull it[i-]” ixgat “it[i-] is pulled, stretched” ixgatix “it[i-] has been pulled” ixgaxlit “it[i-] is being pulled (again and again)” ik’ixgÅt “he is pulling (at something)” [Dyk] gachixgax “he held him back” [WTIV.2.14] with relational prefixes: chialxagat “he is pulling it[i-] for/through it[a-], he has it pulled taut through it” chia©elxagat “he is pulling it[i-] from it[a-], he has it pulled taut from it” chiagelxagat “he is pulling it[i-] to- ward it[a-], he has it pulled taut to- ward it” chaxelxagat “he is pulling it[a-] together, he has it pulled taut together” aixelxagat “he is pulling it[a-] to himself, he has it pulled taut to himself” aixelxagat “he is pulling it[a-] on himself, he has it pulled on himself” with reflexive -x- “-self”: ixagat “he is pulling himself” [MMc 6/5/98 wanted to change to ixatgat] ninxaxaga “I pulled myself (last sea- son)” [GT thought this might be used of someone fishing and then having to pull himself up from water up rocks] ninxaxatga “I pulled myself (last week)” [Dyk]
+Notes: If a woman is pulling a log by a rope, one would say: giu¬adat. But of the rope pulling at the log, one would say: chixgat. If a man is pull- ing a rope that is tied to a wall, then one would say: chixgat “he (the man) is pulling at it (the rope).” [Dyk] The idea, here, then seems to be that this verb refers to pulling or tugging at something, against resistance, rather than simply pulling something along. Note also that with suffix -t, this verb means “have something pulled taut” and hence can mean “hold, hold taut.”
+
+-KA-chkw [vb] fly up, fly straight up
+Forms: yugÅchkwt “he has flown straight up, he is flying up” (May refer to flying either straight up in the air or upriver.) [Dyk]
+
+-KA-chu [vb] come down, go down, descend
+Examples: Kwapt ak¬mˆn galailgachuix, nuit qatki dawÅx galixuxix. “Then the moon came down it earth, at once it became somewhat light.” [WTI.9.5]
+
+-gm-xa-t-GA-it [vb] promise
+Forms: anigemxatgaida “I will prom- ise him” achengemxatgaida “he will promise me” nachingemxatgaida for “he promised me” [GT, MMc 6/10/ 99] nanigemxatgaida “I promised him” enchengemxatgaida “he prom- ised me” [GT, MMc 1/12/99]
+See also: it-gmaxÅtgalit
+
+-KA-kw [vb] fly around, fly back and forth, circle
+Forms: yalgagwax “he is flying back and forth in it[a-]” yalgalkw¬ “he is flying around/circling inside of it[a- ]” [Dyk]
+
+-n-GA-kw [vb] be overpowered by, be overcome by, be defeated by, be outwitted by
+Forms: imengankw¬ “he is being overcome by you” yangÅnkw¬ “he is being overcome by her” (Compare yalgÅlkw¬ “he/it[i-] is flying/circling inside of it[a-].”) yangÅkwt “he is overcome by her” awigakwt “she is being overpowered by them” awitgÅkwt “she was being overpow- ered by them” iningagwa “I am over- come by him” inawigagwa “I am overcome by them” inangagwa “I am being overcome/outwitted by her, she is too much for me” insingagwa “we (not including you) were over- come by him” iginengagwa “he was overcome by me” igmengagwa “he was just defeated by you” ishdingagwa “they 2 were overpow- ered by him” idnengagwa “they were overcome by me” ingakux “it[i-] has overcome” (Might be said of a big timber that no one could heft.)

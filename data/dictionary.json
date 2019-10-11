@@ -3098,6 +3098,43 @@
       }
     ]
   },
+  "-KA-chkw": {
+    "root": "-KA-chkw",
+    "partOfSpeech": "vb",
+    "definition": "fly up, fly straight up",
+    "forms": [
+      {
+        "kiksht": "yugáchkwt",
+        "english": "he has flown straight up, he is flying up (May refer to flying either straight up in the air or upriver.) [Dyk]"
+      }
+    ]
+  },
+  "-KA-chu": {
+    "root": "-KA-chu",
+    "partOfSpeech": "vb",
+    "definition": "come down, go down, descend",
+    "examples": [
+      {
+        "kiksht": "Kwapt akłmín galailgachuix, nuit qatki dawáx galixuxix.",
+        "english": "Then the moon came down it earth, at once it became somewhat light. [WTI.9.5]"
+      }
+    ]
+  },
+  "-KA-kw": {
+    "root": "-KA-kw",
+    "partOfSpeech": "vb",
+    "definition": "fly around, fly back and forth, circle",
+    "forms": [
+      {
+        "kiksht": "yalgagwax",
+        "english": "he is flying back and forth in it[a-]"
+      },
+      {
+        "kiksht": "yalgalkwł",
+        "english": "he is flying around/circling inside of it[a- ] [Dyk]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -4623,6 +4660,36 @@
       }
     ]
   },
+  "-gm-xa-t-GA-it": {
+    "root": "-gm-xa-t-GA-it",
+    "partOfSpeech": "vb",
+    "definition": "promise",
+    "forms": [
+      {
+        "kiksht": "anigemxatgaida",
+        "english": "I will prom- ise him"
+      },
+      {
+        "kiksht": "achengemxatgaida",
+        "english": "he will promise me"
+      },
+      {
+        "kiksht": "nachingemxatgaida for",
+        "english": "he promised me [GT, MMc 6/10/ 99]"
+      },
+      {
+        "kiksht": "nanigemxatgaida",
+        "english": "I promised him"
+      },
+      {
+        "kiksht": "enchengemxatgaida",
+        "english": "he prom- ised me [GT, MMc 1/12/99]"
+      }
+    ],
+    "seeAlso": [
+      "it-gmaxátgalit"
+    ]
+  },
   "-gma-GWI-łx": {
     "root": "-gma-GWI-łx",
     "partOfSpeech": "vb",
@@ -5905,6 +5972,73 @@
     ],
     "notes": [
       "Literally means \"cause (-mit) to know (-xaglaqłq-) to (-l-).\""
+    ]
+  },
+  "-n-GA-kw": {
+    "root": "-n-GA-kw",
+    "partOfSpeech": "vb",
+    "definition": "be overpowered by, be overcome by, be defeated by, be outwitted by",
+    "forms": [
+      {
+        "kiksht": "imengankwł",
+        "english": "he is being overcome by you"
+      },
+      {
+        "kiksht": "yangánkwł",
+        "english": "he is being overcome by her"
+      },
+      {
+        "kiksht": "(Compare yalgálkwł",
+        "english": "he/it[i-] is flying/circling inside of it[a-]."
+      },
+      {
+        "kiksht": ") yangákwt",
+        "english": "he is overcome by her"
+      },
+      {
+        "kiksht": "awigakwt",
+        "english": "she is being overpowered by them"
+      },
+      {
+        "kiksht": "awitgákwt",
+        "english": "she was being overpow- ered by them"
+      },
+      {
+        "kiksht": "iningagwa",
+        "english": "I am over- come by him"
+      },
+      {
+        "kiksht": "inawigagwa",
+        "english": "I am overcome by them"
+      },
+      {
+        "kiksht": "inangagwa",
+        "english": "I am being overcome/outwitted by her, she is too much for me"
+      },
+      {
+        "kiksht": "insingagwa",
+        "english": "we (not including you) were over- come by him"
+      },
+      {
+        "kiksht": "iginengagwa",
+        "english": "he was overcome by me"
+      },
+      {
+        "kiksht": "igmengagwa",
+        "english": "he was just defeated by you"
+      },
+      {
+        "kiksht": "ishdingagwa",
+        "english": "they 2 were overpow- ered by him"
+      },
+      {
+        "kiksht": "idnengagwa",
+        "english": "they were overcome by me"
+      },
+      {
+        "kiksht": "ingakux",
+        "english": "it[i-] has overcome (Might be said of a big timber that no one could heft.)"
+      }
     ]
   },
   "-qi-CXA-pa": {
@@ -7347,6 +7481,124 @@
     ],
     "seeAlso": [
       "i-qadugwalal"
+    ]
+  },
+  "-x-GA": {
+    "root": "-x-GA",
+    "partOfSpeech": "vb",
+    "definition": "pull, pull at, hold (with suffix -t), stretch, hold back",
+    "forms": [
+      {
+        "kiksht": "ixgáix!",
+        "english": "pull it[i-] (a place)"
+      },
+      {
+        "kiksht": "anixgaya",
+        "english": "I will pull it[i-]"
+      },
+      {
+        "kiksht": "nixgenił",
+        "english": "I am pulling it[i-] (steadily along)"
+      },
+      {
+        "kiksht": "chixgenił",
+        "english": "I am pulling it[i-] (steadily along)"
+      },
+      {
+        "kiksht": "chixgat",
+        "english": "he has it[i-] pulled, he is holding it taut [See under notes.]"
+      },
+      {
+        "kiksht": "inixganiłchk",
+        "english": "I pulled it[i-] (several times)"
+      },
+      {
+        "kiksht": "inixatga",
+        "english": "I just pulled it[i-]"
+      },
+      {
+        "kiksht": "qshxgenił",
+        "english": "they 2 are being pulled (again and again)"
+      },
+      {
+        "kiksht": "nichaxatga",
+        "english": "he pulled it[a-] (last week)"
+      },
+      {
+        "kiksht": "nichaxatgat",
+        "english": "he was pulling it[a-], had it pulled, was holding it taut (last week)"
+      },
+      {
+        "kiksht": "gachixga",
+        "english": "he pulled it[i-]"
+      },
+      {
+        "kiksht": "inixatgamam",
+        "english": "I came to pull it[i-]"
+      },
+      {
+        "kiksht": "ixgat",
+        "english": "it[i-] is pulled, stretched"
+      },
+      {
+        "kiksht": "ixgatix",
+        "english": "it[i-] has been pulled"
+      },
+      {
+        "kiksht": "ixgaxlit",
+        "english": "it[i-] is being pulled (again and again)"
+      },
+      {
+        "kiksht": "ik'ixgát",
+        "english": "he is pulling (at something) [Dyk]"
+      },
+      {
+        "kiksht": "gachixgax",
+        "english": "he held him back [WTIV.2.14]"
+      },
+      {
+        "kiksht": "with relational prefixes: chialxagat",
+        "english": "he is pulling it[i-] for/through it[a-], he has it pulled taut through it"
+      },
+      {
+        "kiksht": "chiag̲elxagat",
+        "english": "he is pulling it[i-] from it[a-], he has it pulled taut from it"
+      },
+      {
+        "kiksht": "chiagelxagat",
+        "english": "he is pulling it[i-] to- ward it[a-], he has it pulled taut to- ward it"
+      },
+      {
+        "kiksht": "chaxelxagat",
+        "english": "he is pulling it[a-] together, he has it pulled taut together"
+      },
+      {
+        "kiksht": "aixelxagat",
+        "english": "he is pulling it[a-] to himself, he has it pulled taut to himself"
+      },
+      {
+        "kiksht": "aixelxagat",
+        "english": "he is pulling it[a-] on himself, he has it pulled on himself"
+      },
+      {
+        "kiksht": "with reflexive -x-",
+        "english": "-self"
+      },
+      {
+        "kiksht": ": ixagat",
+        "english": "he is pulling himself [MMc 6/5/98 wanted to change to ixatgat]"
+      },
+      {
+        "kiksht": "ninxaxaga",
+        "english": "I pulled myself (last sea- son) [GT thought this might be used of someone fishing and then having to pull himself up from water up rocks]"
+      },
+      {
+        "kiksht": "ninxaxatga",
+        "english": "I pulled myself (last week) [Dyk]"
+      }
+    ],
+    "notes": [
+      "If a woman is pulling a log by a rope, one would say: giuładat. But of the rope pulling at the log, one would say: chixgat. If a man is pull- ing a rope that is tied to a wall, then one would say: chixgat \"he (the man) is pulling at it (the rope).\" [Dyk] The idea, here, then seems to be that this verb refers to pulling or tugging at something, against resistance, rather than simply pulling something along. Note also that with suffix -t, this verb means \"have something pulled taut\" and hence can mean \"hold, hold taut.\""
     ]
   },
   "-x-GLA": {
