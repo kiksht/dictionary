@@ -4873,6 +4873,42 @@
       }
     ]
   },
+  "-jabniz": {
+    "root": "-jabniz",
+    "partOfSpeech": "n",
+    "definition": "Japanese",
+    "forms": [
+      {
+        "kiksht": "ijabniz",
+        "english": "Japanese man"
+      },
+      {
+        "kiksht": "ajabniz",
+        "english": "Japanese woman [PK]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
+  "-jaini": {
+    "root": "-jaini",
+    "partOfSpeech": "n",
+    "definition": "Chinese",
+    "forms": [
+      {
+        "kiksht": "ijaini",
+        "english": "he is Chinese; Chinese man"
+      },
+      {
+        "kiksht": "ajaini",
+        "english": "she is Chinese; Chinese woman [PK]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
   "-k-CHA": {
     "root": "-k-CHA",
     "partOfSpeech": "vb",
@@ -8807,6 +8843,11 @@
     "seeAlso": [
       "i-gaben"
     ]
+  },
+  "See also: -": {
+    "root": "See also: -",
+    "partOfSpeech": "See also: - ",
+    "definition": "See also: -X̲"
   },
   "See also: iqdenitkwchk, iłkshtka": {
     "root": "See also: iqdenitkwchk, iłkshtka",
@@ -36857,6 +36898,17 @@
     "partOfSpeech": "n",
     "definition": "good-tasting root variety"
   },
+  "i-jaimjaim": {
+    "root": "i-jaimjaim",
+    "partOfSpeech": "n",
+    "definition": "large non-edible roots, large tree roots",
+    "notes": [
+      "This is the \"talking big\" form of i-c'aimc'aim."
+    ],
+    "seeAlso": [
+      "i-c'aimc'aim"
+    ]
+  },
   "i-k'ámunaq": {
     "root": "i-k'ámunaq",
     "partOfSpeech": "n",
@@ -39737,6 +39789,20 @@
       "Borrowed from English."
     ]
   },
+  "it-ká": {
+    "root": "it-ká",
+    "partOfSpeech": "n",
+    "definition": "cloud",
+    "forms": [
+      {
+        "kiksht": "itkamax",
+        "english": "clouds"
+      }
+    ],
+    "notes": [
+      "In form, this is gerund from - ka \"fly;\" it literally means \"(some- thing) flying.\""
+    ]
+  },
   "itgachaxelqwłimax akłmín": {
     "root": "itgachaxelqwłimax akłmín",
     "partOfSpeech": "n",
@@ -40066,6 +40132,82 @@
       "-x-IMA"
     ]
   },
+  "ixinxat": {
+    "root": "ixinxat",
+    "partOfSpeech": "vb",
+    "definition": "they[i-] are standing",
+    "seeAlso": [
+      "-NXA"
+    ]
+  },
+  "ixkxaimat": {
+    "root": "ixkxaimat",
+    "partOfSpeech": "vb",
+    "definition": "he is lying down",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "ixlalal": {
+    "root": "ixlalal",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] is moving",
+    "seeAlso": [
+      "-x-LA"
+    ]
+  },
+  "ixlúigadix": {
+    "root": "ixlúigadix",
+    "partOfSpeech": "adv",
+    "definition": "differently, another way",
+    "examples": [
+      {
+        "kiksht": "Wit'ax kím angi ixlúigadix.",
+        "english": "Say it another way. [Spilyay/Learn- ing Phrases]"
+      }
+    ],
+    "seeAlso": [
+      "-xluidat"
+    ]
+  },
+  "ixpshut": {
+    "root": "ixpshut",
+    "partOfSpeech": "vb",
+    "definition": "he is hiding himself",
+    "seeAlso": [
+      "-PSHU-t"
+    ]
+  },
+  "ixqw'alal": {
+    "root": "ixqw'alal",
+    "partOfSpeech": "vb",
+    "definition": "he is hunting",
+    "seeAlso": [
+      "-x-QW'A"
+    ]
+  },
+  "ixsaqwt": {
+    "root": "ixsaqwt",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] is dried up",
+    "examples": [
+      {
+        "kiksht": "ixsaqwt igunat",
+        "english": "dried salmon [Museum 7]"
+      }
+    ],
+    "seeAlso": [
+      "-x-SHA-qw"
+    ]
+  },
+  "ixshaqwt": {
+    "root": "ixshaqwt",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] is dried up",
+    "seeAlso": [
+      "-x-SHA-qw"
+    ]
+  },
   "ixt": {
     "root": "ixt",
     "partOfSpeech": "num",
@@ -40105,6 +40247,92 @@
     "root": "ixtmax",
     "partOfSpeech": "adv",
     "definition": "sometimes"
+  },
+  "ixtł'uwanan": {
+    "root": "ixtł'uwanan",
+    "partOfSpeech": "vb",
+    "definition": "he's sneaking"
+  },
+  "ixulal": {
+    "root": "ixulal",
+    "partOfSpeech": "vb",
+    "definition": "he says"
+  },
+  "ixuxt": {
+    "root": "ixuxt",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] is, it[i-] becomes",
+    "examples": [
+      {
+        "kiksht": "Iyagalxix ixuxt ałqidiwi ilipaq.",
+        "english": "His penis is just like rope. [WTI.1c.1]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "ixłeldix": {
+    "root": "ixłeldix",
+    "partOfSpeech": "vb",
+    "definition": "it is hot (weather)",
+    "seeAlso": [
+      "-x-ŁL-t-ix"
+    ]
+  },
+  "ixłuxwanit": {
+    "root": "ixłuxwanit",
+    "partOfSpeech": "vb",
+    "definition": "he is thinking",
+    "seeAlso": [
+      "-ŁUXWA, -x-ŁUXWA"
+    ]
+  },
+  "ixłxelmax": {
+    "root": "ixłxelmax",
+    "partOfSpeech": "vb",
+    "definition": "he is eating",
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "iyamg̲elkel": {
+    "root": "iyamg̲elkel",
+    "partOfSpeech": "vb",
+    "definition": "I have just seen you",
+    "examples": [
+      {
+        "kiksht": "Qikláix iyamg̲elkel.",
+        "english": "I'm glad to see you. [CLL3]"
+      }
+    ],
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "iyamshupg̲na": {
+    "root": "iyamshupg̲na",
+    "partOfSpeech": "vb",
+    "definition": "I have named you folks",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "iyamux": {
+    "root": "iyamux",
+    "partOfSpeech": "vb",
+    "definition": "I have done you",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iyámuwaq": {
+    "root": "iyámuwaq",
+    "partOfSpeech": "vb",
+    "definition": "I have killed you",
+    "seeAlso": [
+      "-WA-qw"
+    ]
   },
   "ił-'ishałx": {
     "root": "ił-'ishałx",
