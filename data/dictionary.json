@@ -12613,6 +12613,11 @@
       "a-wách"
     ]
   },
+  "a-kmałait": {
+    "root": "a-kmałait",
+    "partOfSpeech": "n",
+    "definition": "serious, sometimes fatal, variety of diarrhea"
+  },
   "a-káas": {
     "root": "a-káas",
     "partOfSpeech": "n",
@@ -40387,6 +40392,34 @@
       "-gm-KWŁI"
     ]
   },
+  "i-kmak'ikwłnił": {
+    "root": "i-kmak'ikwłnił",
+    "partOfSpeech": "n",
+    "definition": "measuring, sur- veying, making allotments",
+    "forms": [
+      {
+        "kiksht": "iyaxmak'íqwłnił",
+        "english": "he is one who makes allotments; allotment- agent [WTIII.1.1]; he is a measurer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gm-KWŁI, -gm-k'i-KWŁI, i-kmak'ikwłniłix"
+    ]
+  },
+  "i-kmak'ikwłniłix": {
+    "root": "i-kmak'ikwłniłix",
+    "partOfSpeech": "n",
+    "definition": "surveying",
+    "forms": [
+      {
+        "kiksht": "iyaxmak'ikwłniłix",
+        "english": "he is a surveyor [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gm-KWŁI, i-kmak'ikwłnił"
+    ]
+  },
   "i-kmakan": {
     "root": "i-kmakan",
     "partOfSpeech": "n",
@@ -40402,6 +40435,58 @@
         "kiksht": "Ikmakan wa'au gachiux.",
         "english": "He got angrier. [Dyk]"
       }
+    ]
+  },
+  "i-kmananit": {
+    "root": "i-kmananit",
+    "partOfSpeech": "n",
+    "definition": "pitying and wishing well to someone seriously ill",
+    "forms": [
+      {
+        "kiksht": "iyaxmánanit",
+        "english": "he wishes people well [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qidau ikmananit.",
+        "english": "This is the way to pity and wish well. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-i-gm-NANIT"
+    ]
+  },
+  "i-kmananpł": {
+    "root": "i-kmananpł",
+    "partOfSpeech": "n",
+    "definition": "glancing scornfully out of the corner of one's eyes",
+    "forms": [
+      {
+        "kiksht": "ichaxmánanpł",
+        "english": "she is one who glances scornfully out of the corner of her eyes [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-i-gm-NA-pa"
+    ]
+  },
+  "i-kmałuxwan": {
+    "root": "i-kmałuxwan",
+    "partOfSpeech": "n",
+    "definition": "loving, thinking much of",
+    "forms": [
+      {
+        "kiksht": "iyaxmałuxwan",
+        "english": "he is a lover, he is one who thinks much of a person"
+      },
+      {
+        "kiksht": "itkmałuxwan",
+        "english": "loving, thinking much of [alternate form] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁUXWA(N)"
     ]
   },
   "i-kámusak": {
@@ -42347,6 +42432,28 @@
       "-s-k'-NXA"
     ]
   },
+  "is-kmak'nagwax": {
+    "root": "is-kmak'nagwax",
+    "partOfSpeech": "n",
+    "definition": "looking for",
+    "forms": [
+      {
+        "kiksht": "isgaxmak'nagwax",
+        "english": "her look- ing for; she is one who looks for [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-K'NA-kw, -k'i-NAX̲TŁ"
+    ]
+  },
+  "is-kmastłx": {
+    "root": "is-kmastłx",
+    "partOfSpeech": "n",
+    "definition": "feeling as though car- bonated water were going up one's head or nose",
+    "seeAlso": [
+      "-s-k'm-STŁX̲"
+    ]
+  },
   "ish- -ditł'i": {
     "root": "ish- -ditł'i",
     "partOfSpeech": "adj n",
@@ -42633,6 +42740,20 @@
     ],
     "seeAlso": [
       "-sh-gl- G̲AYA"
+    ]
+  },
+  "ish-kmashkw'apx": {
+    "root": "ish-kmashkw'apx",
+    "partOfSpeech": "n",
+    "definition": "getting cramps in the joints, being cramped in the joints",
+    "forms": [
+      {
+        "kiksht": "idiaxmashkw'apx",
+        "english": "he is one who gets cramps in the joints [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-sh-gm-SHKW'A-pa"
     ]
   },
   "ish-kányagwamat": {
@@ -43858,12 +43979,110 @@
       "-i-gm-K'A-qw, -n-K'A-qw"
     ]
   },
+  "it-kmak'inwapx": {
+    "root": "it-kmak'inwapx",
+    "partOfSpeech": "n",
+    "definition": "exchange, trade, swap",
+    "forms": [
+      {
+        "kiksht": "itkmak'inwapxmax",
+        "english": "ex- changes, trades"
+      },
+      {
+        "kiksht": "iyaxmak'inapx",
+        "english": "his exchange; his exchanged thing"
+      },
+      {
+        "kiksht": "idiaxmak'inwapx",
+        "english": "his exchange; his exchanged things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gm-K'INWA-pa, i- kmak'ínwalpł"
+    ]
+  },
+  "it-kmak'ínwalpł": {
+    "root": "it-kmak'ínwalpł",
+    "partOfSpeech": "n",
+    "definition": "trading",
+    "forms": [
+      {
+        "kiksht": "idiaxmak'inwalpł",
+        "english": "he is a trader [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-K'INWA-pa, it-kmak'inwapx"
+    ]
+  },
   "it-kmakitk": {
     "root": "it-kmakitk",
     "partOfSpeech": "n",
     "definition": "betting",
     "seeAlso": [
       "-gm-gi-TK"
+    ]
+  },
+  "it-kmalapq'ix": {
+    "root": "it-kmalapq'ix",
+    "partOfSpeech": "n",
+    "definition": "arm pit",
+    "forms": [
+      {
+        "kiksht": "Does not change for plural. idiaxmálapq'ix",
+        "english": "his arm pit(s) [Dyk]"
+      }
+    ]
+  },
+  "it-kmalkw'i": {
+    "root": "it-kmalkw'i",
+    "partOfSpeech": "n",
+    "definition": "playing with dolls",
+    "seeAlso": [
+      "-t-xm-LKW'I"
+    ]
+  },
+  "it-kmaq": {
+    "root": "it-kmaq",
+    "partOfSpeech": "n",
+    "definition": "shot",
+    "examples": [
+      {
+        "kiksht": "Gachdenlux itkmaq.",
+        "english": "He made a shot at me, shot at me. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-maq, it-maq"
+    ]
+  },
+  "it-kmashga": {
+    "root": "it-kmashga",
+    "partOfSpeech": "n",
+    "definition": "flying into a jealous rage",
+    "forms": [
+      {
+        "kiksht": "idiaxmashga",
+        "english": "he is one who flies into a jealous rage [Dyk]"
+      }
+    ]
+  },
+  "it-kmat'ayuchk": {
+    "root": "it-kmat'ayuchk",
+    "partOfSpeech": "n",
+    "definition": "racing, race",
+    "forms": [
+      {
+        "kiksht": "idiaxmat'ayuchk",
+        "english": "his race; he is a racer"
+      },
+      {
+        "kiksht": "itgaxmat'ayuchgmax, itgaxmat'ayuchkmax",
+        "english": "they are rac- ers [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-gmat'ayuchkxat"
     ]
   },
   "it-kmái": {
@@ -45110,6 +45329,28 @@
     "partOfSpeech": "n",
     "definition": "round water- washed stones, gravel"
   },
+  "ił-kmaqw'iayudax": {
+    "root": "ił-kmaqw'iayudax",
+    "partOfSpeech": "n",
+    "definition": "having one's hair done up in a roll at each ear",
+    "forms": [
+      {
+        "kiksht": "iłgaxmaqw'íayudax",
+        "english": "she has her hair done up in rolls at each ear [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-n-QW'IA"
+    ]
+  },
+  "ił-kmałelgwax": {
+    "root": "ił-kmałelgwax",
+    "partOfSpeech": "n",
+    "definition": "being in labor",
+    "seeAlso": [
+      "-ł-gm-ŁL-kw"
+    ]
+  },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
     "partOfSpeech": "n",
@@ -45903,6 +46144,14 @@
       "Borrowed from English."
     ]
   },
+  "kmálalidix": {
+    "root": "kmálalidix",
+    "partOfSpeech": "adv",
+    "definition": "fall time, autumn",
+    "seeAlso": [
+      "wa-kmalalidix"
+    ]
+  },
   "kwapt": {
     "root": "kwapt",
     "partOfSpeech": "adv",
@@ -46440,6 +46689,17 @@
     ],
     "notes": [
       "May refer either to reeds in a natural state or to a split reed used for a knife."
+    ]
+  },
+  "wa-kmalalidix": {
+    "root": "wa-kmalalidix",
+    "partOfSpeech": "n",
+    "definition": "September [?]",
+    "notes": [
+      "The translation and form of this word are uncertain. Dyk includes a note in square brackets below the first syllable of the word: [wfl]. This may mean that wa- is not a classify- ing prefix, but another element of unknown origin and function."
+    ],
+    "seeAlso": [
+      "kmálalidix"
     ]
   },
   "wi-'ísh": {
