@@ -4641,6 +4641,28 @@
       "- G̲WA"
     ]
   },
+  "-ikw'álalak": {
+    "root": "-ikw'álalak",
+    "partOfSpeech": "adj",
+    "definition": "puzzled",
+    "examples": [
+      {
+        "kiksht": "Aikw'álalak naxux.",
+        "english": "She became puzzled. [WTI.18.7]"
+      }
+    ]
+  },
+  "-ilp'ixait": {
+    "root": "-ilp'ixait",
+    "partOfSpeech": "adj",
+    "definition": "rancid",
+    "forms": [
+      {
+        "kiksht": "łilp'ixait",
+        "english": "it is rancid (for instance, salmon) [PK 9/5/55]"
+      }
+    ]
+  },
   "-k-CHA": {
     "root": "-k-CHA",
     "partOfSpeech": "vb",
@@ -36056,12 +36078,233 @@
       "-I"
     ]
   },
+  "igixałlux": {
+    "root": "igixałlux",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] has been made to him[ił-]",
+    "examples": [
+      {
+        "kiksht": "Shan iłamaq igixałlux?",
+        "english": "Who has been wounded? [WTIV.2.19]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "igixilux": {
+    "root": "igixilux",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] has been made to him",
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "igixux": {
+    "root": "igixux",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] has become [WTI.1a6], he has become [WTI.13.5, 15.6, II.1.3, 2.2]",
+    "examples": [
+      {
+        "kiksht": "Imdaxliu igixux iskw'álacincin emdaika.",
+        "english": "Your name has become swallows. [WTI.1a6]"
+      },
+      {
+        "kiksht": "Qengi dan igixux?",
+        "english": "What happened to him? [Spilyay/Dialog]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
   "igiúx": {
     "root": "igiúx",
     "partOfSpeech": "vb",
     "definition": "she (just) did it[i-]",
     "seeAlso": [
       "-X̲"
+    ]
+  },
+  "iglalam": {
+    "root": "iglalam",
+    "partOfSpeech": "vb",
+    "definition": "he sings",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "iglúidix": {
+    "root": "iglúidix",
+    "partOfSpeech": "adv",
+    "definition": "downriver",
+    "seeAlso": [
+      "ilwulxdix"
+    ]
+  },
+  "ignulxam": {
+    "root": "ignulxam",
+    "partOfSpeech": "vb",
+    "definition": "she told me",
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
+  "ignux": {
+    "root": "ignux",
+    "partOfSpeech": "vb",
+    "definition": "she did me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "iguxwax": {
+    "root": "iguxwax",
+    "partOfSpeech": "vb",
+    "definition": "they have become",
+    "examples": [
+      {
+        "kiksht": "Ag̲a saqw łkupłkúp iguxwax.",
+        "english": "Now their hearts burst entirely. [WTI.4.13]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -x-X̲"
+    ]
+  },
+  "ig̲awulx ayak'ís": {
+    "root": "ig̲awulx ayak'ís",
+    "partOfSpeech": "n",
+    "definition": "scorpion",
+    "notes": [
+      "Literally \"rattlesnake's grand- mother.\""
+    ]
+  },
+  "ig̲elpx": {
+    "root": "ig̲elpx",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] flows out of him",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "ihu": {
+    "root": "ihu",
+    "partOfSpeech": "interj",
+    "definition": "winner!, score!",
+    "notes": [
+      "A cry used for the winning side in a contest when it scores."
+    ]
+  },
+  "ik'úxtgalal": {
+    "root": "ik'úxtgalal",
+    "partOfSpeech": "vb",
+    "definition": "he is stealing",
+    "notes": [
+      "This word is shouted in a legend; it may be a form of song language, which is different from ordinary Wasco speech."
+    ],
+    "seeAlso": [
+      "-XTK, -k-XTK"
+    ]
+  },
+  "ikiax": {
+    "root": "ikiax",
+    "partOfSpeech": "vb",
+    "definition": "he is, he does",
+    "seeAlso": [
+      "-KIAX̲"
+    ]
+  },
+  "ikixax": {
+    "root": "ikixax",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] is [WTI.4.10], he is [WTI.12.2]",
+    "examples": [
+      {
+        "kiksht": "Gachíugwichim iyatálmqsg̲it yaxdau daba ikixax iyaqáqshtaqba.",
+        "english": "He struck him with his battle-axe which is here on his head. [WTI.4.10]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲, -KIX̲AX̲"
+    ]
+  },
+  "ilgigelga": {
+    "root": "ilgigelga",
+    "partOfSpeech": "vb",
+    "definition": "we caught him",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "ilkdutxmit": {
+    "root": "ilkdutxmit",
+    "partOfSpeech": "vb",
+    "definition": "we have set it[it-] up",
+    "seeAlso": [
+      "-TX(WI)-mit"
+    ]
+  },
+  "ilqti": {
+    "root": "ilqti",
+    "partOfSpeech": "vb",
+    "definition": "point to him/it[i-]!",
+    "seeAlso": [
+      "-l-QTI"
+    ]
+  },
+  "iluxdix": {
+    "root": "iluxdix",
+    "partOfSpeech": "vb",
+    "definition": "he is to him",
+    "examples": [
+      {
+        "kiksht": "K'au iluxdix iyabinátłx engi.",
+        "english": "He is tied to him by means of his hazel-bush rope. [WTI.1m.3]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ilwulxdix": {
+    "root": "ilwulxdix",
+    "partOfSpeech": "adv",
+    "definition": "upriver",
+    "seeAlso": [
+      "iglúidix, -WULX"
+    ]
+  },
+  "ilxakwchgwa": {
+    "root": "ilxakwchgwa",
+    "partOfSpeech": "vb",
+    "definition": "give it[i-] back to him!",
+    "seeAlso": [
+      "-x-KWCHKW"
+    ]
+  },
+  "ilxashat": {
+    "root": "ilxashat",
+    "partOfSpeech": "vb",
+    "definition": "he is thirsty",
+    "seeAlso": [
+      "-i-l-xa-SHA"
+    ]
+  },
+  "ilxdimam": {
+    "root": "ilxdimam",
+    "partOfSpeech": "vb",
+    "definition": "we have arrived",
+    "seeAlso": [
+      "-t-I-mam"
+    ]
+  },
+  "ilxám": {
+    "root": "ilxám",
+    "partOfSpeech": "vb",
+    "definition": "tell him!",
+    "seeAlso": [
+      "-LXAM"
     ]
   },
   "is-bnanan": {
@@ -36177,6 +36420,17 @@
     "root": "is-g̲ikwlan",
     "partOfSpeech": "n",
     "definition": "(2) feces"
+  },
+  "is-ilpqdit": {
+    "root": "is-ilpqdit",
+    "partOfSpeech": "n",
+    "definition": "strap, sling",
+    "notes": [
+      "Could refer to a bow-string, chin-strap of a hat, or a rifle strap. PK apparently gave this word in this form and as is-galpqdit, without any indication of difference in meaning."
+    ],
+    "seeAlso": [
+      "is-galpqdit, is-qalpdit"
+    ]
   },
   "ish- -ditł'i": {
     "root": "ish- -ditł'i",
@@ -37449,6 +37703,14 @@
     "definition": "small bug resem- bling a yellow jacket that digs into the ground",
     "seeAlso": [
       "ił-qipsdalal"
+    ]
+  },
+  "ił-ilkau": {
+    "root": "ił-ilkau",
+    "partOfSpeech": "n",
+    "definition": "cedar planks",
+    "notes": [
+      "The cedar planks used in constructing some varieties of tradi- tional Wasco buildings."
     ]
   },
   "kinwa": {
