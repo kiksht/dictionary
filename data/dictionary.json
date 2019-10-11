@@ -6838,6 +6838,49 @@
       "a-q'asnan, i-g̲ashnan, ish- g̲ashnaigi"
     ]
   },
+  "-k'ichaxchax": {
+    "root": "-k'ichaxchax",
+    "partOfSpeech": "n",
+    "definition": "walking, stepping",
+    "forms": [
+      {
+        "kiksht": "ik'ichaxchax",
+        "english": "stepping, walk- ing"
+      },
+      {
+        "kiksht": "ichak'íchaxchax",
+        "english": "her stepping; she is a walker"
+      },
+      {
+        "kiksht": "ishyámlak'ichaxchax",
+        "english": "he walks slowly, poorly, takes slow steps"
+      },
+      {
+        "kiksht": "[GT said this would refer to a",
+        "english": "horse or something, \" not a person; iyámlak'ichaxchax is \"about the same also referring to horse or other animal, not person]"
+      },
+      {
+        "kiksht": "isiat'úk'ichaxchax",
+        "english": "he is a good walker[Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Isht'ukti ishiak'itchaxchax.",
+        "english": "He walks well, fast."
+      },
+      {
+        "kiksht": "Ishdatłqdax isk'íchaxchax ichshux.",
+        "english": "He took long steps. [Dyk]"
+      }
+    ],
+    "notes": [
+      "This word is used with both i- and ish- prefixes. It is not clear what the distinction in meaning or usage is."
+    ],
+    "seeAlso": [
+      "chax, i-k'ichax"
+    ]
+  },
   "-k'álamat": {
     "root": "-k'álamat",
     "partOfSpeech": "n",
@@ -41291,6 +41334,196 @@
       "Refers to the remedy that comes in a bottle."
     ]
   },
+  "i-k'ichax": {
+    "root": "i-k'ichax",
+    "partOfSpeech": "n",
+    "definition": "miscarrying",
+    "seeAlso": [
+      "chax"
+    ]
+  },
+  "i-k'ichgwa": {
+    "root": "i-k'ichgwa",
+    "partOfSpeech": "n",
+    "definition": "mashed berries, berry sauce",
+    "seeAlso": [
+      "i-k'ichgwamat, i-gichgwa"
+    ]
+  },
+  "i-k'ichgwamat": {
+    "root": "i-k'ichgwamat",
+    "partOfSpeech": "n",
+    "definition": "wooden pestle",
+    "seeAlso": [
+      "i-k'ichgwa"
+    ]
+  },
+  "i-k'ichkchal": {
+    "root": "i-k'ichkchal",
+    "partOfSpeech": "n",
+    "definition": "washing (regularly)",
+    "forms": [
+      {
+        "kiksht": "ichak'ichkchal",
+        "english": "she is a washer (as her job)"
+      },
+      {
+        "kiksht": "[Compare ichak'ichkchnił",
+        "english": "she is one who washes now and then] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-chkch, i-k'ichckchnił"
+    ]
+  },
+  "i-k'ichkchnił": {
+    "root": "i-k'ichkchnił",
+    "partOfSpeech": "n",
+    "definition": "washing (now and then)",
+    "forms": [
+      {
+        "kiksht": "ichak'ichkchnił",
+        "english": "she is one who washes now and then"
+      },
+      {
+        "kiksht": "[Compare icak'ichkchal",
+        "english": "she is a washer (as a job)] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-chkch, i-k'ichkchal"
+    ]
+  },
+  "i-k'ichxa": {
+    "root": "i-k'ichxa",
+    "partOfSpeech": "n",
+    "definition": "drowning",
+    "examples": [
+      {
+        "kiksht": "Qidau ichak'ichxa.",
+        "english": "That is her way of drowning."
+      },
+      {
+        "kiksht": "Yak'amla ik'ichxa.",
+        "english": "It is bad to drown. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "chxa"
+    ]
+  },
+  "i-k'ichxebchxeb": {
+    "root": "i-k'ichxebchxeb",
+    "partOfSpeech": "n",
+    "definition": "extinguishing, putting out",
+    "forms": [
+      {
+        "kiksht": "ichak'ichxebchxeb",
+        "english": "she is one who puts out lights, fires [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Watuł idak'íchxebchxeb.",
+        "english": "They are fire-fighters."
+      },
+      {
+        "kiksht": "Watuł idak'íchxebchxebmax.",
+        "english": "They (each one individually) are fire-fighters. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "chxep, chxap"
+    ]
+  },
+  "i-k'idelk": {
+    "root": "i-k'idelk",
+    "partOfSpeech": "n",
+    "definition": "putting away",
+    "forms": [
+      {
+        "kiksht": "iyak'idelk",
+        "english": "he is one who puts away [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "i-k'idenił": {
+    "root": "i-k'idenił",
+    "partOfSpeech": "n",
+    "definition": "putting clothes on people, dressing people",
+    "forms": [
+      {
+        "kiksht": "iyak'idenił",
+        "english": "he is one who puts clothes on people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-K'ITI"
+    ]
+  },
+  "i-k'idinax": {
+    "root": "i-k'idinax",
+    "partOfSpeech": "n",
+    "definition": "warring, fighting, being a warrior",
+    "forms": [
+      {
+        "kiksht": "iyak'idinax",
+        "english": "he is a warrior"
+      },
+      {
+        "kiksht": "idak'idinax",
+        "english": "they are warriors"
+      },
+      {
+        "kiksht": "idiak'ídinax",
+        "english": "his fighters [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Iyak'ídinax itkaluksh iskintxwa.",
+        "english": "He is a man-killing bear."
+      },
+      {
+        "kiksht": "Ikaluksh iskintxwamax iyak'ídinax.",
+        "english": "He is a killer of male bears. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "i-k'idudu": {
+    "root": "i-k'idudu",
+    "partOfSpeech": "n",
+    "definition": "playing flute, playing wind instruments",
+    "forms": [
+      {
+        "kiksht": "iyak'idudu",
+        "english": "he who plays wind instruments [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dudu, i-dudu"
+    ]
+  },
+  "i-k'idugwalal": {
+    "root": "i-k'idugwalal",
+    "partOfSpeech": "n",
+    "definition": "scheming, planning",
+    "forms": [
+      {
+        "kiksht": "iyak'ídugwalal",
+        "english": "he is a schemer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-DUGWA, it-k'ídugwalal, i- kidugwalalmat"
+    ]
+  },
   "i-k'ámunak": {
     "root": "i-k'ámunak",
     "partOfSpeech": "n",
@@ -44612,6 +44845,23 @@
         "kiksht": "itk'anat",
         "english": "pistols, revolvers [WTIV.2.4; Dyk]"
       }
+    ]
+  },
+  "ish-k'ichax": {
+    "root": "ish-k'ichax",
+    "partOfSpeech": "n",
+    "definition": "steps, paces",
+    "examples": [
+      {
+        "kiksht": "g̲unambát ishk'ichax",
+        "english": "about five steps, paces [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to steps or paces as a measure."
+    ],
+    "seeAlso": [
+      "chax, i-k'ichaxchax"
     ]
   },
   "ish-kabiłxit": {
