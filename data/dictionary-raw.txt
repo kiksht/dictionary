@@ -12210,3 +12210,85 @@ Examples: A©a kwapt wit’a iwi gachiuxax. “Then again he did thus to him.”
 
 iwi [part] move
 Examples: Dau¬ax i¬sandi alma iwi a¬xuxwa wilxba ¬unix. “This flag will move three times from the ground.” [WTIV.2.3] Ch’pak iwi ga¬uix. “Very quickly they went ahead.” [WTIV.2.14]
+
+
+
+
+
+
+
+
+‘iwi’iwi [part] examine, look closely at, inspect
+Examples: ‘iwi’iwi gachiuxix saqw wilx igunat. “The chinook salmon carefully looked over all the land.” ‘iwi’iwi igunat ichiux. “He inspected the chinook salmon.” ‘iwi’iwi ikiax. “He is inspected.” [Dyk] ‘iwi’iwi guxt agashémx. “She’s examining her buckskin dress.” [GT, MMc] ‘iwi’iwi ga¬ksh ̈x. “They 2 looked closely at it.” [WTI1a.2]
+
+wi-(i)xat [n] trail, path, road
+Forms: i¬ixat “trails” ichixat “my trail” iyaixat “his trail”
+Examples: Qadamt yuit daya wixat? “Where does this road go?”
+See also: i-sÅwasixat, i-shawashixat
+
+Ixelextgidix [place] The Gap
+Notes: “‘The Gap’ is the narrow pass through which the Yakima flows in breaking through the low range south of the town of North Yakima. This is its Wishram name, and may be approximately translated as ‘the place where two mountains nearly touch.’ Patixkwiut is the Klickitat or Yakima term.” [Sapir, WT p.203] ixigat [vb] it[i-] is pressed together Examples: qaxba ¬iablÅd ikaba Åwachi daukwa daq’Åb ixigat “where there is lots of ice or where it is pressed together tight” [WTII.10.1] See also: -KA
+
+ixt [num] one
+Notes: This is the form used with i- prefix nouns.
+See also: aixt, ¬ixt, dixt
+
+ixtba wigwa [n] Monday
+Notes: Literally “first day.” This was suggested by Dell Hymes, following the pattern of makwshtba wigwa, which is found in Wishram Texts for “Tuesday.”
+
+ixtkadix [adv] once
+See also: ixt
+
+ixtkiax [vb] it[i-] was
+See also: -XTKIA ̨
+
+ish-ixtkisht [n] step ladder
+See also: wa-ixtkˆsht, ishˆxtksh
+
+wa-ixtkˆsht [n] step(s)
+Forms: Does not change for plural.
+Notes: Means the same as wa-ixtksh. [GT 6/5/98]
+See also: wa-ixtksh
+
+id-ixtkˆshtk [n] stirrups
+See also: wa-ixtkˆsht, id-ˆxtksh
+
+id-ˆxtksh [n] stirrups
+See also: wa-ixtksh, id-ixtkˆshtk
+
+ish-ˆxtksh [n] ladder
+Notes: Means the same is ish-¬tkisht. [GT 6/5/98]
+See also: wa-ixtksh, ish-ixtkisht, ish- ¬tkisht
+
+wa-ixtksh [n] step(s)
+Forms: Singular and plural.
+Examples: K’aya dan waixtksh. “There aren’t any steps.” [GT, MMc 6/5/98]
+Notes: This word means steps that you go up, as to a porch. [GT, MMc 6/5/98]
+See also: ish-ˆxtksh, id-ˆxtksh, wa- ixtkˆsht, ish-ixtkist, id-ixtkˆshtk
+
+ixtmax [adv] sometimes
+
+ixa [vb] do it[i-]!
+See also: - ̨
+
+ixadimat [vb] he was lying
+See also: -xa-IMA
+
+ixagalshqw’Åyamit [vb] he is lying face down.
+Examples: Iyaxagalshqw’Åyamit iximat. “He is lying with face and belly down.” [WTI.1m.2]
+See also: ixalgichkwÅyamit
+
+ixaimat [vb] he lies down
+See also: -xa-IMA
+
+ixalgichkwÅyamit [vb] he’s lying face down
+
+ixilax [vb] he eats it [i-]
+Examples: KÅnawi dan chiudinax ixilax. “He kills everything and eats it.” [WTI.4.8]
+See also: -xi-LA ̨
+
+ixima [vb] put it[i-] down!
+See also: -x-IMA
+
+iximat [vb] he is lying down [WTI.1m.1, 18.3], it[i-] is lying [WTII.2.2]
+See also: -x-IMA

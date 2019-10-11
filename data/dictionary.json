@@ -43,6 +43,33 @@
       "-WI"
     ]
   },
+  "'iwi'iwi": {
+    "root": "'iwi'iwi",
+    "partOfSpeech": "part",
+    "definition": "examine, look closely at, inspect",
+    "examples": [
+      {
+        "kiksht": "'iwi'iwi gachiuxix saqw wilx igunat.",
+        "english": "The chinook salmon carefully looked over all the land."
+      },
+      {
+        "kiksht": "'iwi'iwi igunat ichiux.",
+        "english": "He inspected the chinook salmon."
+      },
+      {
+        "kiksht": "'iwi'iwi ikiax.",
+        "english": "He is inspected. [Dyk]"
+      },
+      {
+        "kiksht": "'iwi'iwi guxt agashémx.",
+        "english": "She's examining her buckskin dress. [GT, MMc]"
+      },
+      {
+        "kiksht": "'iwi'iwi gałkshúx.",
+        "english": "They 2 looked closely at it. [WTI1a.2]"
+      }
+    ]
+  },
   "(i)yag̲aitłemix \"large place": {
     "root": "(i)yag̲aitłemix \"large place",
     "partOfSpeech": "(i)ya©ait¬emix “large place",
@@ -8725,6 +8752,14 @@
     "definition": "Long Beach",
     "notes": [
       "A place in Wasco country."
+    ]
+  },
+  "Ixelextgidix": {
+    "root": "Ixelextgidix",
+    "partOfSpeech": "place",
+    "definition": "The Gap",
+    "notes": [
+      "\"'The Gap' is the narrow pass through which the Yakima flows in breaking through the low range south of the town of North Yakima. This is its Wishram name, and may be approximately translated as 'the place where two mountains nearly touch.' Patixkwiut is the Klickitat or Yakima term.\" [Sapir, WT p.203] ixigat [vb] it[i-] is pressed together Examples: qaxba łiablád ikaba áwachi daukwa daq'áb ixigat \"where there is lots of ice or where it is pressed together tight\" [WTII.10.1] See also: -KA"
     ]
   },
   "Iłgaqtałx": {
@@ -37176,6 +37211,14 @@
       "it-xílalit, i-dakta"
     ]
   },
+  "id-ixtkíshtk": {
+    "root": "id-ixtkíshtk",
+    "partOfSpeech": "n",
+    "definition": "stirrups",
+    "seeAlso": [
+      "wa-ixtkísht, id-íxtksh"
+    ]
+  },
   "id-náchk": {
     "root": "id-náchk",
     "partOfSpeech": "n",
@@ -37219,6 +37262,14 @@
     "partOfSpeech": "n",
     "definition": "biscuits from ground adwak",
     "forms": []
+  },
+  "id-íxtksh": {
+    "root": "id-íxtksh",
+    "partOfSpeech": "n",
+    "definition": "stirrups",
+    "seeAlso": [
+      "wa-ixtksh, id-ixtkíshtk"
+    ]
   },
   "idamlut": {
     "root": "idamlut",
@@ -38823,6 +38874,25 @@
       "it-k'iwax"
     ]
   },
+  "ish-ixtkisht": {
+    "root": "ish-ixtkisht",
+    "partOfSpeech": "n",
+    "definition": "step ladder",
+    "seeAlso": [
+      "wa-ixtkísht, ishíxtksh"
+    ]
+  },
+  "ish-íxtksh": {
+    "root": "ish-íxtksh",
+    "partOfSpeech": "n",
+    "definition": "ladder",
+    "notes": [
+      "Means the same is ish-łtkisht. [GT 6/5/98]"
+    ],
+    "seeAlso": [
+      "wa-ixtksh, ish-ixtkisht, ish- łtkisht"
+    ]
+  },
   "ishdimam": {
     "root": "ishdimam",
     "partOfSpeech": "vb",
@@ -39923,6 +39993,119 @@
     "partOfSpeech": "adv",
     "definition": "in that direction"
   },
+  "ixa": {
+    "root": "ixa",
+    "partOfSpeech": "vb",
+    "definition": "do it[i-]!",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ixadimat": {
+    "root": "ixadimat",
+    "partOfSpeech": "vb",
+    "definition": "he was lying",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "ixagalshqw'áyamit": {
+    "root": "ixagalshqw'áyamit",
+    "partOfSpeech": "vb",
+    "definition": "he is lying face down.",
+    "examples": [
+      {
+        "kiksht": "Iyaxagalshqw'áyamit iximat.",
+        "english": "He is lying with face and belly down. [WTI.1m.2]"
+      }
+    ],
+    "seeAlso": [
+      "ixalgichkwáyamit"
+    ]
+  },
+  "ixaimat": {
+    "root": "ixaimat",
+    "partOfSpeech": "vb",
+    "definition": "he lies down",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "ixalgichkwáyamit": {
+    "root": "ixalgichkwáyamit",
+    "partOfSpeech": "vb",
+    "definition": "he's lying face down"
+  },
+  "ixilax": {
+    "root": "ixilax",
+    "partOfSpeech": "vb",
+    "definition": "he eats it [i-]",
+    "examples": [
+      {
+        "kiksht": "Kánawi dan chiudinax ixilax.",
+        "english": "He kills everything and eats it. [WTI.4.8]"
+      }
+    ],
+    "seeAlso": [
+      "-xi-LAX̲"
+    ]
+  },
+  "ixima": {
+    "root": "ixima",
+    "partOfSpeech": "vb",
+    "definition": "put it[i-] down!",
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
+  "iximat": {
+    "root": "iximat",
+    "partOfSpeech": "vb",
+    "definition": "he is lying down [WTI.1m.1, 18.3], it[i-] is lying [WTII.2.2]",
+    "seeAlso": [
+      "-x-IMA"
+    ]
+  },
+  "ixt": {
+    "root": "ixt",
+    "partOfSpeech": "num",
+    "definition": "one",
+    "notes": [
+      "This is the form used with i- prefix nouns."
+    ],
+    "seeAlso": [
+      "aixt, łixt, dixt"
+    ]
+  },
+  "ixtba wigwa": {
+    "root": "ixtba wigwa",
+    "partOfSpeech": "n",
+    "definition": "Monday",
+    "notes": [
+      "Literally \"first day.\" This was suggested by Dell Hymes, following the pattern of makwshtba wigwa, which is found in Wishram Texts for \"Tuesday.\""
+    ]
+  },
+  "ixtkadix": {
+    "root": "ixtkadix",
+    "partOfSpeech": "adv",
+    "definition": "once",
+    "seeAlso": [
+      "ixt"
+    ]
+  },
+  "ixtkiax": {
+    "root": "ixtkiax",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] was",
+    "seeAlso": [
+      "-XTKIAX̲"
+    ]
+  },
+  "ixtmax": {
+    "root": "ixtmax",
+    "partOfSpeech": "adv",
+    "definition": "sometimes"
+  },
   "ił-'ishałx": {
     "root": "ił-'ishałx",
     "partOfSpeech": "n",
@@ -40927,12 +41110,70 @@
       }
     ]
   },
+  "wa-ixtksh": {
+    "root": "wa-ixtksh",
+    "partOfSpeech": "n",
+    "definition": "step(s)",
+    "forms": [],
+    "examples": [
+      {
+        "kiksht": "K'aya dan waixtksh.",
+        "english": "There aren't any steps. [GT, MMc 6/5/98]"
+      }
+    ],
+    "notes": [
+      "This word means steps that you go up, as to a porch. [GT, MMc 6/5/98]"
+    ],
+    "seeAlso": [
+      "ish-íxtksh, id-íxtksh, wa- ixtkísht, ish-ixtkist, id-ixtkíshtk"
+    ]
+  },
+  "wa-ixtkísht": {
+    "root": "wa-ixtkísht",
+    "partOfSpeech": "n",
+    "definition": "step(s)",
+    "forms": [],
+    "notes": [
+      "Means the same as wa-ixtksh. [GT 6/5/98]"
+    ],
+    "seeAlso": [
+      "wa-ixtksh"
+    ]
+  },
   "wi-'ísh": {
     "root": "wi-'ísh",
     "partOfSpeech": "n",
     "definition": "bluejay",
     "seeAlso": [
       "i-'ish'ish"
+    ]
+  },
+  "wi-(i)xat": {
+    "root": "wi-(i)xat",
+    "partOfSpeech": "n",
+    "definition": "trail, path, road",
+    "forms": [
+      {
+        "kiksht": "iłixat",
+        "english": "trails"
+      },
+      {
+        "kiksht": "ichixat",
+        "english": "my trail"
+      },
+      {
+        "kiksht": "iyaixat",
+        "english": "his trail"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qadamt yuit daya wixat?",
+        "english": "Where does this road go?"
+      }
+    ],
+    "seeAlso": [
+      "i-sáwasixat, i-shawashixat"
     ]
   },
   "wi-ck'entłex": {
