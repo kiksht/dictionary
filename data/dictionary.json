@@ -6239,6 +6239,51 @@
       }
     ]
   },
+  "-l-KA-xit": {
+    "root": "-l-KA-xit",
+    "partOfSpeech": "vb",
+    "definition": "become stuck in, be- come pierced in, pierce",
+    "forms": [
+      {
+        "kiksht": "iyalgaxit",
+        "english": "it[i-] pierced it[a-]"
+      },
+      {
+        "kiksht": "nigalgaxit",
+        "english": "it[a-] became pierced in it[a-]"
+      },
+      {
+        "kiksht": "nigaitgaxit",
+        "english": "it[a-] was pierced into it[a-] (last week)"
+      },
+      {
+        "kiksht": "gałilgaxit",
+        "english": "it became pierced into it[i-]; they pierced him"
+      },
+      {
+        "kiksht": "shxelgaxlit",
+        "english": "they 2 are becoming stuck together (continually)"
+      },
+      {
+        "kiksht": "ishxelgaxit",
+        "english": "they 2 became stuck together"
+      },
+      {
+        "kiksht": "gashxelgaxit",
+        "english": "they 2 became stuck together"
+      },
+      {
+        "kiksht": "gashxelk'axit",
+        "english": "they 2 became stuck together, they copulated [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Saicexcéx anlgaxlit aq'íxapdix.",
+        "english": "The needle is sticking me painfully. [Dyk]"
+      }
+    ]
+  },
   "-l-KA-łx": {
     "root": "-l-KA-łx",
     "partOfSpeech": "vb",
@@ -11308,6 +11353,30 @@
     "pronunciation": "As is usual, the let- ters -ay at the end of a word repre- sent the sound written with those letters in English, as in \"day\" and \"highway.\"",
     "seeAlso": [
       "wi-(i)xat"
+    ]
+  },
+  "a-kachkdama": {
+    "root": "a-kachkdama",
+    "partOfSpeech": "n",
+    "definition": "Wishram-style mummy",
+    "notes": [
+      "Defined in Dyk as \"a dead person in a cedar board slightly hol- lowed out into which he is pressed wrapped in buckskin and bound with hazel thongs.\" Phillip Kahclamat provided the translation given above. The a- prefix apparently does not mean that the person is necessarily female."
+    ]
+  },
+  "a-kadnagwax": {
+    "root": "a-kadnagwax",
+    "partOfSpeech": "n",
+    "definition": "talking in one's sleep (as a result of a nightmare)",
+    "seeAlso": [
+      "-a-x-t-NA-kw"
+    ]
+  },
+  "a-káas": {
+    "root": "a-káas",
+    "partOfSpeech": "n",
+    "definition": "train",
+    "notes": [
+      "Borrowed from English \"cars.\""
     ]
   },
   "a-mulal": {
@@ -38290,6 +38359,11 @@
       "-LA"
     ]
   },
+  "i-kaba": {
+    "root": "i-kaba",
+    "partOfSpeech": "n",
+    "definition": "ice"
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -40279,6 +40353,25 @@
       "wa-ixtkísht, ishíxtksh"
     ]
   },
+  "ish-kabiłxit": {
+    "root": "ish-kabiłxit",
+    "partOfSpeech": "n",
+    "definition": "becoming hard and flat (as biscuit dough)"
+  },
+  "ish-kachxiq": {
+    "root": "ish-kachxiq",
+    "partOfSpeech": "n",
+    "definition": "nosebleeding, having a nosebleed",
+    "forms": [
+      {
+        "kiksht": "ishiaxachxiq",
+        "english": "he is one whose nose always bleeds [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-sh-k'-CHXI-qw (does this exist?)"
+    ]
+  },
   "ish-íxtksh": {
     "root": "ish-íxtksh",
     "partOfSpeech": "n",
@@ -41134,6 +41227,14 @@
       "Borrowed from English."
     ]
   },
+  "it-kadnam": {
+    "root": "it-kadnam",
+    "partOfSpeech": "n",
+    "definition": "longhouse",
+    "notes": [
+      "Borrowed from Sahaptin. The it- prefix is used probably because of the association with it-qwłí \"house, building.\""
+    ]
+  },
   "it-ká": {
     "root": "it-ká",
     "partOfSpeech": "n",
@@ -41146,6 +41247,41 @@
     ],
     "notes": [
       "In form, this is gerund from - ka \"fly;\" it literally means \"(some- thing) flying.\""
+    ]
+  },
+  "it-kádagwax": {
+    "root": "it-kádagwax",
+    "partOfSpeech": "n",
+    "definition": "mind, ideas, schem- ing",
+    "forms": [
+      {
+        "kiksht": "idiaxádagwax",
+        "english": "his mind [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Itkádagwax iguxax.",
+        "english": "They schemed to murder."
+      },
+      {
+        "kiksht": "Idak'amla idiaxádagwax.",
+        "english": "He is mean. [Dyk]"
+      }
+    ],
+    "notes": [
+      "When used without a posses- sive prefix, this word implies schem- ing for murder, or possibly some other evil purpose. It has no such connotation when used with a pos- sessive prefix. [PK 7/11/56]"
+    ],
+    "seeAlso": [
+      "-xa-DA-kw, it-t'uxadagwax, it-baisxadagwax"
+    ]
+  },
+  "it-kádemgwa": {
+    "root": "it-kádemgwa",
+    "partOfSpeech": "n",
+    "definition": "falling",
+    "seeAlso": [
+      "-a-k-xa-DM-kw, -ł-k-xa-DM- kw"
     ]
   },
   "itgachaxelqwłimax akłmín": {
@@ -42025,6 +42161,36 @@
       "The cedar planks used in constructing some varieties of tradi- tional Wasco buildings."
     ]
   },
+  "ił-kabwalal": {
+    "root": "ił-kabwalal",
+    "partOfSpeech": "n",
+    "definition": "putting feathers on arrow",
+    "seeAlso": [
+      "-ł-kbwa"
+    ]
+  },
+  "ił-kach": {
+    "root": "ił-kach",
+    "partOfSpeech": "n",
+    "definition": "teeth",
+    "examples": [
+      {
+        "kiksht": "Dadakdák gałxúx iłiakach ig̲anuk.",
+        "english": "Beaver's teeth all came loose. [WTI.4.1]"
+      }
+    ]
+  },
+  "ił-kach'a": {
+    "root": "ił-kach'a",
+    "partOfSpeech": "n",
+    "definition": "fish oil, oil, grease",
+    "notes": [
+      "This word originally referred to fish oil, but is now used for any kind of oil or grease."
+    ],
+    "seeAlso": [
+      "Łgaxach'a"
+    ]
+  },
   "iłac'imam iłk'ílagwadit": {
     "root": "iłac'imam iłk'ílagwadit",
     "partOfSpeech": "n",
@@ -42275,6 +42441,50 @@
     "definition": "they have died",
     "seeAlso": [
       "-x-ŁA-it"
+    ]
+  },
+  "ka'as": {
+    "root": "ka'as",
+    "partOfSpeech": "adv",
+    "definition": "more than enough",
+    "examples": [
+      {
+        "kiksht": "Ka'as ilibum inyumlal.",
+        "english": "I bought more than enough apples. [Dyk]"
+      }
+    ]
+  },
+  "kachak": {
+    "root": "kachak",
+    "partOfSpeech": "adv",
+    "definition": "in the middle of, mid-",
+    "examples": [
+      {
+        "kiksht": "kachag wapul",
+        "english": "in the middle of the night [WTI.6.3]"
+      }
+    ]
+  },
+  "kadash": {
+    "root": "kadash",
+    "partOfSpeech": "adv",
+    "definition": "must, have to, had better",
+    "examples": [
+      {
+        "kiksht": "Kadash g̲ánuit amuya.",
+        "english": "You must surely go."
+      },
+      {
+        "kiksht": "Kadash t'aya amuya.",
+        "english": "You must go carefully."
+      },
+      {
+        "kiksht": "Kadash it'ukdix amuya.",
+        "english": "You had better go carefully; you had better go well-behaved. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Used with future tense to indicate a command or exhortation."
     ]
   },
   "kinwa": {
@@ -42712,6 +42922,11 @@
     "seeAlso": [
       "wa-ixtksh"
     ]
+  },
+  "wa-kac": {
+    "root": "wa-kac",
+    "partOfSpeech": "n",
+    "definition": "thorn"
   },
   "wi-'ísh": {
     "root": "wi-'ísh",
