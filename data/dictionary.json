@@ -6957,6 +6957,21 @@
       "k'ámunaq"
     ]
   },
+  "-k'ík'łinanmat": {
+    "root": "-k'ík'łinanmat",
+    "partOfSpeech": "n",
+    "definition": "tipi pole",
+    "forms": [
+      {
+        "kiksht": "ak'ik'łinanmat",
+        "english": "(smaller) tipi pole"
+      },
+      {
+        "kiksht": "ik'ik'linanmat",
+        "english": "(larger) tipi pole [HS 1953,1954]"
+      }
+    ]
+  },
   "-k-CHA": {
     "root": "-k-CHA",
     "partOfSpeech": "vb",
@@ -13542,6 +13557,46 @@
     "definition": "awl",
     "seeAlso": [
       "ił-iak'ibwatks"
+    ]
+  },
+  "a-k'ikwtłbeninxł": {
+    "root": "a-k'ikwtłbeninxł",
+    "partOfSpeech": "n",
+    "definition": "missing",
+    "forms": [
+      {
+        "kiksht": "ayak'ikwtłbeninxł",
+        "english": "he is one who misses [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-KWTŁP"
+    ]
+  },
+  "a-k'ikwíns": {
+    "root": "a-k'ikwíns",
+    "partOfSpeech": "n",
+    "definition": "safety pin",
+    "notes": [
+      "May refer to any pin that snaps together."
+    ]
+  },
+  "a-k'ilkchut": {
+    "root": "a-k'ilkchut",
+    "partOfSpeech": "n",
+    "definition": "bottle",
+    "forms": [
+      {
+        "kiksht": "ishk'ilkchut",
+        "english": "2 bottles"
+      },
+      {
+        "kiksht": "iłk'ilkchut",
+        "english": "bottles"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ilkchut"
     ]
   },
   "a-k'álak'ia": {
@@ -41731,6 +41786,208 @@
       "g̲wau, i-k'ig̲waug̲waumat"
     ]
   },
+  "i-k'ig̲waug̲waumat": {
+    "root": "i-k'ig̲waug̲waumat",
+    "partOfSpeech": "n",
+    "definition": "stick for beat- ing, billet for log-drum",
+    "forms": [
+      {
+        "kiksht": "itk'ig̲waug̲waumat",
+        "english": "sticks for beating [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "g̲wau, i-k'ig̲waug̲wau"
+    ]
+  },
+  "i-k'ikgau": {
+    "root": "i-k'ikgau",
+    "partOfSpeech": "n",
+    "definition": "worrying, bewailing, lamenting",
+    "forms": [
+      {
+        "kiksht": "iyak'ikgau",
+        "english": "he who worries, bewails [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kegáu"
+    ]
+  },
+  "i-k'ikuk": {
+    "root": "i-k'ikuk",
+    "partOfSpeech": "n",
+    "definition": "cooking",
+    "forms": [
+      {
+        "kiksht": "iyak'ikuk",
+        "english": "he is one who cooks, he is a cook [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kuk, i-xak'ikuk"
+    ]
+  },
+  "i-k'ikwchan": {
+    "root": "i-k'ikwchan",
+    "partOfSpeech": "n",
+    "definition": "taking along",
+    "forms": [
+      {
+        "kiksht": "iyak'ikwchan",
+        "english": "he is one who takes things, people along [Dyk]"
+      }
+    ],
+    "notes": [
+      "Alternate form of i-gikwchan."
+    ],
+    "seeAlso": [
+      "-KWCHAN, i-gikwchan"
+    ]
+  },
+  "i-k'ikwdilal": {
+    "root": "i-k'ikwdilal",
+    "partOfSpeech": "n",
+    "definition": "pointing",
+    "forms": [
+      {
+        "kiksht": "iyak'íkwdilal",
+        "english": "his pointing; he is one who points [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-KWDI"
+    ]
+  },
+  "i-k'ikwshtxalal": {
+    "root": "i-k'ikwshtxalal",
+    "partOfSpeech": "n",
+    "definition": "scraping hide",
+    "seeAlso": [
+      "-ł-gl-KWSHTX̲"
+    ]
+  },
+  "i-k'ila": {
+    "root": "i-k'ila",
+    "partOfSpeech": "n",
+    "definition": "training",
+    "forms": [
+      {
+        "kiksht": "iyak'ila",
+        "english": "he is one who trains, trainer [WTII.9.2]"
+      }
+    ],
+    "seeAlso": [
+      "-LA"
+    ]
+  },
+  "i-k'ila'ax": {
+    "root": "i-k'ila'ax",
+    "partOfSpeech": "n",
+    "definition": "putting something over on",
+    "forms": [
+      {
+        "kiksht": "iyak'ila'ax",
+        "english": "he is one who puts things over on people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "la'ax, ailáx, laxlax, i-k'ilaxlax"
+    ]
+  },
+  "i-k'ilakwł": {
+    "root": "i-k'ilakwł",
+    "partOfSpeech": "n",
+    "definition": "hitting",
+    "forms": [
+      {
+        "kiksht": "iyak'ilakwł",
+        "english": "he is a hitter [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-LA-kw"
+    ]
+  },
+  "i-k'ilaxlax": {
+    "root": "i-k'ilaxlax",
+    "partOfSpeech": "n",
+    "definition": "deceving, lying",
+    "forms": [
+      {
+        "kiksht": "iyak'ilaxlax",
+        "english": "he is a liar, a deceiver [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "laxlax, ailáx, la'ax"
+    ]
+  },
+  "i-k'ilkchut": {
+    "root": "i-k'ilkchut",
+    "partOfSpeech": "n",
+    "definition": "jug",
+    "forms": [
+      {
+        "kiksht": "ishk'ilkchut",
+        "english": "2 bottles"
+      },
+      {
+        "kiksht": "iłk'ilkchut",
+        "english": "bottles [PK 7/31/56]"
+      }
+    ],
+    "seeAlso": [
+      "a-k'ilkchut"
+    ]
+  },
+  "i-k'ilqwchq": {
+    "root": "i-k'ilqwchq",
+    "partOfSpeech": "n",
+    "definition": "taking into house",
+    "forms": [
+      {
+        "kiksht": "iyak'ilqwchq",
+        "english": "he is one who takes things into the house [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-QWCHQ"
+    ]
+  },
+  "i-k'ilulumat": {
+    "root": "i-k'ilulumat",
+    "partOfSpeech": "n",
+    "definition": "any device for wind- ing string or cord, shuttle, bobbin"
+  },
+  "i-k'ilxamat": {
+    "root": "i-k'ilxamat",
+    "partOfSpeech": "n",
+    "definition": "spit, roasting stick, skewer",
+    "forms": [
+      {
+        "kiksht": "iłk'ílxamat",
+        "english": "spits [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to the sticks used in roasting salmon. Made of itixamat."
+    ]
+  },
+  "i-k'ilxamnił": {
+    "root": "i-k'ilxamnił",
+    "partOfSpeech": "n",
+    "definition": "telling",
+    "forms": [
+      {
+        "kiksht": "iyak'ilxamnił",
+        "english": "he is one who tells people [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-LXAM, i-lxamnił"
+    ]
+  },
   "i-k'ámunak": {
     "root": "i-k'ámunak",
     "partOfSpeech": "n",
@@ -41794,6 +42051,34 @@
     ],
     "seeAlso": [
       "-łxi"
+    ]
+  },
+  "i-k'ílalpł": {
+    "root": "i-k'ílalpł",
+    "partOfSpeech": "n",
+    "definition": "digging out",
+    "forms": [
+      {
+        "kiksht": "iyak'ílalpł",
+        "english": "he is a digger [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-LA-pa, i-k'iulal"
+    ]
+  },
+  "i-k'íleblep": {
+    "root": "i-k'íleblep",
+    "partOfSpeech": "n",
+    "definition": "dipping underwater, ducking underwater",
+    "forms": [
+      {
+        "kiksht": "iyak'íleblep",
+        "english": "he is a ducker, dipper [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "lep, daláp, dalabláp, ailáp"
     ]
   },
   "i-k'íwulal": {
@@ -46219,6 +46504,14 @@
       "g̲wap, i-k'ig̲wap"
     ]
   },
+  "it-k'ilak": {
+    "root": "it-k'ilak",
+    "partOfSpeech": "n",
+    "definition": "ground salmon, sugar salmon",
+    "seeAlso": [
+      "ił-k'ilakix"
+    ]
+  },
   "it-k'áicimum": {
     "root": "it-k'áicimum",
     "partOfSpeech": "n",
@@ -47927,6 +48220,14 @@
       "ił-kálaikalai"
     ]
   },
+  "ił-k'ilakix": {
+    "root": "ił-k'ilakix",
+    "partOfSpeech": "n",
+    "definition": "package of ground salmon",
+    "seeAlso": [
+      "it-k'ilak"
+    ]
+  },
   "ił-k'álamat": {
     "root": "ił-k'álamat",
     "partOfSpeech": "n",
@@ -47934,6 +48235,11 @@
     "seeAlso": [
       "-k'alamat"
     ]
+  },
+  "ił-k'ílagwadit": {
+    "root": "ił-k'ílagwadit",
+    "partOfSpeech": "n",
+    "definition": "sugar"
   },
   "ił-kabwalal": {
     "root": "ił-kabwalal",
@@ -48644,6 +48950,20 @@
     ],
     "seeAlso": [
       "g̲ish, i-k'ig̲ishg̲ish"
+    ]
+  },
+  "k'ilu": {
+    "root": "k'ilu",
+    "partOfSpeech": "part",
+    "definition": "glance at",
+    "examples": [
+      {
+        "kiksht": "K'ilu chiuxt.",
+        "english": "He is glanc- ing at him. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "shaik'ilu"
     ]
   },
   "k'ámunaq": {
