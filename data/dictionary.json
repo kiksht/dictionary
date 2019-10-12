@@ -13599,6 +13599,17 @@
       "i-k'ilkchut"
     ]
   },
+  "a-k'imax": {
+    "root": "a-k'imax",
+    "partOfSpeech": "n",
+    "definition": "sash worn around waist, yarn belt, woven belt",
+    "forms": [
+      {
+        "kiksht": "itk'imax",
+        "english": "sashes"
+      }
+    ]
+  },
   "a-k'álak'ia": {
     "root": "a-k'álak'ia",
     "partOfSpeech": "n",
@@ -41988,6 +41999,148 @@
       "-LXAM, i-lxamnił"
     ]
   },
+  "i-k'imamalkwł": {
+    "root": "i-k'imamalkwł",
+    "partOfSpeech": "n",
+    "definition": "missing opportunties",
+    "forms": [
+      {
+        "kiksht": "iyak'imamalkwł",
+        "english": "he is one who misses opportunities [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-MAMA-kw"
+    ]
+  },
+  "i-k'imichk'inan": {
+    "root": "i-k'imichk'inan",
+    "partOfSpeech": "n",
+    "definition": "finding",
+    "forms": [
+      {
+        "kiksht": "iyak'ímichk'inan",
+        "english": "he is a finder, one who always finds things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-gimichk'inan, -MICHK'I"
+    ]
+  },
+  "i-k'iładnił": {
+    "root": "i-k'iładnił",
+    "partOfSpeech": "n",
+    "definition": "abandoning, letting go",
+    "forms": [
+      {
+        "kiksht": "iyak'íładnił",
+        "english": "he is one who lets things go, abandons things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
+  "i-k'iłagwax": {
+    "root": "i-k'iłagwax",
+    "partOfSpeech": "n",
+    "definition": "smelling",
+    "forms": [
+      {
+        "kiksht": "iyak'iłagwax",
+        "english": "he is a smeller (for instance, a dog) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁA"
+    ]
+  },
+  "i-k'iłel": {
+    "root": "i-k'iłel",
+    "partOfSpeech": "n",
+    "definition": "blackening",
+    "examples": [
+      {
+        "kiksht": "iyak'iłel itdikshush",
+        "english": "he is a shoe blackener [Dyk] a shoe pol- isher [GT, MMc 6/4] [ichdikshush in Dyk has been corrected to itdikshuksh]"
+      }
+    ],
+    "seeAlso": [
+      "dałál, i- -łlumit"
+    ]
+  },
+  "i-k'iłiqw'łiqw'": {
+    "root": "i-k'iłiqw'łiqw'",
+    "partOfSpeech": "n",
+    "definition": "sniffling",
+    "forms": [
+      {
+        "kiksht": "iyak'iłiqw'łiqw'",
+        "english": "he is a snif- fler [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łiqw'"
+    ]
+  },
+  "i-k'iłixwmat": {
+    "root": "i-k'iłixwmat",
+    "partOfSpeech": "n",
+    "definition": "something to stretch with",
+    "seeAlso": [
+      "łixw, dałíxw, i-k'iłixwłixw"
+    ]
+  },
+  "i-k'iłixwłixw": {
+    "root": "i-k'iłixwłixw",
+    "partOfSpeech": "n",
+    "definition": "stretching",
+    "forms": [
+      {
+        "kiksht": "ichk'iłixwłixw",
+        "english": "I'm a stretcher, one who stretches [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łixw, dałíxw, i-k'iłixwmat"
+    ]
+  },
+  "i-k'iłixłix": {
+    "root": "i-k'iłixłix",
+    "partOfSpeech": "n",
+    "definition": "working on the dead",
+    "forms": [
+      {
+        "kiksht": "ichak'iłixłix",
+        "english": "she's a worker on dead people"
+      }
+    ],
+    "seeAlso": [
+      "łix"
+    ]
+  },
+  "i-k'iłupłup": {
+    "root": "i-k'iłupłup",
+    "partOfSpeech": "n",
+    "definition": "sucking, drawing up",
+    "forms": [
+      {
+        "kiksht": "iyak'iłupłup",
+        "english": "he who eats by sucking, drawing up [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łup"
+    ]
+  },
+  "i-k'iłxwálalmat": {
+    "root": "i-k'iłxwálalmat",
+    "partOfSpeech": "n",
+    "definition": "necklace",
+    "seeAlso": [
+      "-l-ŁX̲WA"
+    ]
+  },
   "i-k'ámunak": {
     "root": "i-k'ámunak",
     "partOfSpeech": "n",
@@ -42081,6 +42234,20 @@
       "lep, daláp, dalabláp, ailáp"
     ]
   },
+  "i-k'íminankwł": {
+    "root": "i-k'íminankwł",
+    "partOfSpeech": "n",
+    "definition": "facewashing",
+    "forms": [
+      {
+        "kiksht": "iyak'íminankwł",
+        "english": "he is a face- washer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-MINA-kw, qixnmínankw'ł, i- qixnmínankw'ł ipłx"
+    ]
+  },
   "i-k'íwulal": {
     "root": "i-k'íwulal",
     "partOfSpeech": "n",
@@ -42097,6 +42264,11 @@
     "seeAlso": [
       "-LA"
     ]
+  },
+  "i-k'íława": {
+    "root": "i-k'íława",
+    "partOfSpeech": "n",
+    "definition": "bad sign, evil omen"
   },
   "i-kaba": {
     "root": "i-kaba",
@@ -46512,6 +46684,33 @@
       "ił-k'ilakix"
     ]
   },
+  "it-k'imax": {
+    "root": "it-k'imax",
+    "partOfSpeech": "n",
+    "definition": "woven cloth"
+  },
+  "it-k'imnak": {
+    "root": "it-k'imnak",
+    "partOfSpeech": "n",
+    "definition": "retaliation [PK 9/1/ 55], vengefulness [Dyk]",
+    "forms": [
+      {
+        "kiksht": "idiak'imnak",
+        "english": "he is vengeful [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-n-K'IMNA-kw"
+    ]
+  },
+  "it-k'iława": {
+    "root": "it-k'iława",
+    "partOfSpeech": "n",
+    "definition": "taboo",
+    "seeAlso": [
+      "it-qiława"
+    ]
+  },
   "it-k'áicimum": {
     "root": "it-k'áicimum",
     "partOfSpeech": "n",
@@ -48228,6 +48427,20 @@
       "it-k'ilak"
     ]
   },
+  "ił-k'img̲wilit": {
+    "root": "ił-k'img̲wilit",
+    "partOfSpeech": "n",
+    "definition": "spitting",
+    "forms": [
+      {
+        "kiksht": "iłiak'img̲wilit",
+        "english": "he is a spitter [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ł-MQU-it, ił-mg̲wilit"
+    ]
+  },
   "ił-k'álamat": {
     "root": "ił-k'álamat",
     "partOfSpeech": "n",
@@ -48240,6 +48453,11 @@
     "root": "ił-k'ílagwadit",
     "partOfSpeech": "n",
     "definition": "sugar"
+  },
+  "ił-k'ílxamat": {
+    "root": "ił-k'ílxamat",
+    "partOfSpeech": "n",
+    "definition": "spits"
   },
   "ił-kabwalal": {
     "root": "ił-kabwalal",
@@ -48964,6 +49182,37 @@
     ],
     "seeAlso": [
       "shaik'ilu"
+    ]
+  },
+  "k'imlamax": {
+    "root": "k'imlamax",
+    "partOfSpeech": "part",
+    "definition": "refuse because of dislike, be dissatisfied",
+    "examples": [
+      {
+        "kiksht": "K'imlamax ikiax.",
+        "english": "He is refusing (because of dislike). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "mla"
+    ]
+  },
+  "k'iłixłíx": {
+    "root": "k'iłixłíx",
+    "partOfSpeech": "part",
+    "definition": "work on the dead",
+    "examples": [
+      {
+        "kiksht": "K'iłixłíx nkiax.",
+        "english": "I am work- ing on the dead. [GT, MMc 6/4/98]"
+      }
+    ],
+    "notes": [
+      "Refers to handling the body and preparing it for burial."
+    ],
+    "seeAlso": [
+      "łixłix, i-k'iłixłix"
     ]
   },
   "k'ámunaq": {
