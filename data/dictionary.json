@@ -3161,6 +3161,24 @@
       "a-k'ayulal, -K'AYAU, -K'AYAWU"
     ]
   },
+  "-K'INWA-pa": {
+    "root": "-K'INWA-pa",
+    "partOfSpeech": "vb",
+    "definition": "have in place of, exchange, replace; trade",
+    "forms": [
+      {
+        "kiksht": "chiuk'inwapx",
+        "english": "he has it[i-] in place of something else"
+      },
+      {
+        "kiksht": "yuk'inwapx",
+        "english": "he is replaced [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-gm-K'INWA-pa, -x-gm- K'INWA-pa, i-kmak'inwalpł"
+    ]
+  },
   "-KA": {
     "root": "-KA",
     "partOfSpeech": "vb",
@@ -6881,6 +6899,25 @@
       "chax, i-k'ichax"
     ]
   },
+  "-k'imuwaq": {
+    "root": "-k'imuwaq",
+    "partOfSpeech": "n",
+    "definition": "water lizard",
+    "forms": [
+      {
+        "kiksht": "ik'imuwaq",
+        "english": "(male) water lizard"
+      },
+      {
+        "kiksht": "ak'imuwaq",
+        "english": "(female) water lizard"
+      },
+      {
+        "kiksht": "itk'imuwaquksh",
+        "english": "water liz- ards [Dyk]"
+      }
+    ]
+  },
   "-k'álamat": {
     "root": "-k'álamat",
     "partOfSpeech": "n",
@@ -8395,6 +8432,57 @@
       {
         "kiksht": "idank'aq",
         "english": "she was pleased with it[it- ] [GT 6/4/98]"
+      }
+    ]
+  },
+  "-n-K'IMNA-kw": {
+    "root": "-n-K'IMNA-kw",
+    "partOfSpeech": "vb",
+    "definition": "take vengeance on, be avenged upon, get even with",
+    "forms": [
+      {
+        "kiksht": "chink'íÂnankwł",
+        "english": "he is getting even with him"
+      },
+      {
+        "kiksht": "chink'ímnakwt",
+        "english": "he is even with him, avenged on him"
+      },
+      {
+        "kiksht": "chank'imnakwt",
+        "english": "he is even with her, avenged on her"
+      },
+      {
+        "kiksht": "yamnk'ímnankwł",
+        "english": "I am getting even with you"
+      },
+      {
+        "kiksht": "nichnenk'imnankwł",
+        "english": "he was getting even with me (last season)"
+      },
+      {
+        "kiksht": "nichnitk'imnankwł",
+        "english": "he was getting even with me (last week)"
+      },
+      {
+        "kiksht": "gachshenk'ímnagwa",
+        "english": "he got even with them 2"
+      },
+      {
+        "kiksht": "ixenk'imnakwt",
+        "english": "he is getting even (with someone)"
+      },
+      {
+        "kiksht": "ank'ímnakux",
+        "english": "someone got even with her"
+      },
+      {
+        "kiksht": "ank'imnakwt",
+        "english": "something (per- haps supernatural) got even with her, the score is even [Dyk]"
+      },
+      {
+        "kiksht": "gachshink'imnagwa",
+        "english": "he took revenge on them 2 for him [WTI.2.6]"
       }
     ]
   },
@@ -13610,6 +13698,32 @@
       }
     ]
   },
+  "a-k'imxat": {
+    "root": "a-k'imxat",
+    "partOfSpeech": "n",
+    "definition": "graveyard, burying place",
+    "examples": [
+      {
+        "kiksht": "Ak'imxatba qshudelk.",
+        "english": "In the graveyard they 2 are being bur- ied."
+      },
+      {
+        "kiksht": "Ik'ig̲wap igixux ak'imxadyamt.",
+        "english": "They decided to go across to the graveyard. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Can refer either to a tradi- tional charnel house (such as that on Memaloose Island) or to a modern cemetery."
+    ]
+  },
+  "a-k'inułmágwadit": {
+    "root": "a-k'inułmágwadit",
+    "partOfSpeech": "n",
+    "definition": "pencil",
+    "seeAlso": [
+      "a-k'ínułmat, -NUŁM"
+    ]
+  },
   "a-k'álak'ia": {
     "root": "a-k'álak'ia",
     "partOfSpeech": "n",
@@ -13695,6 +13809,14 @@
     ],
     "seeAlso": [
       "-K'AYAU-lal"
+    ]
+  },
+  "a-k'ínułmat": {
+    "root": "a-k'ínułmat",
+    "partOfSpeech": "n",
+    "definition": "pen, pencil, marker, writing implement",
+    "seeAlso": [
+      "a-k'inułmágwadit, -NUŁM"
     ]
   },
   "a-kachkdama": {
@@ -42027,6 +42149,73 @@
       "i-gimichk'inan, -MICHK'I"
     ]
   },
+  "i-k'imqdamit": {
+    "root": "i-k'imqdamit",
+    "partOfSpeech": "n",
+    "definition": "making unconscsous, putting into a stupor",
+    "examples": [
+      {
+        "kiksht": "ichak'imqdamit",
+        "english": "she who makes people unconscious, puts them in a stupor [Dyk]"
+      }
+    ]
+  },
+  "i-k'inantłxmat": {
+    "root": "i-k'inantłxmat",
+    "partOfSpeech": "n",
+    "definition": "something to wipe with",
+    "notes": [
+      "May refer, for instance, to chamois cloth or paper used for wip- ing."
+    ],
+    "seeAlso": [
+      "-NA-tłx, i-k'inatłxamat, ił- k'inántłxmat"
+    ]
+  },
+  "i-k'inapxat": {
+    "root": "i-k'inapxat",
+    "partOfSpeech": "n",
+    "definition": "opening for breeze in back end of traditional house"
+  },
+  "i-k'inatłxamat": {
+    "root": "i-k'inatłxamat",
+    "partOfSpeech": "n",
+    "definition": "something to clean with",
+    "seeAlso": [
+      "-NA-tłx, i-k'inantłxmat, ił- k'inántłxmat"
+    ]
+  },
+  "i-k'inaxtł": {
+    "root": "i-k'inaxtł",
+    "partOfSpeech": "n",
+    "definition": "looking for, hunting for, seeking, searching for",
+    "forms": [
+      {
+        "kiksht": "ichak'ínaxtł",
+        "english": "her looking for, hunting for; she is one who looks for things"
+      },
+      {
+        "kiksht": "iyak'inaxtł",
+        "english": "he is one who hunts for things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-NAX̲TŁ"
+    ]
+  },
+  "i-k'inułem": {
+    "root": "i-k'inułem",
+    "partOfSpeech": "n",
+    "definition": "writing, marking, mark",
+    "forms": [
+      {
+        "kiksht": "iyak'ínułem",
+        "english": "his writing; his markings; he is a writer, clerk [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-NUŁM, i-k'ínułmax"
+    ]
+  },
   "i-k'iładnił": {
     "root": "i-k'iładnił",
     "partOfSpeech": "n",
@@ -42246,6 +42435,41 @@
     ],
     "seeAlso": [
       "-MINA-kw, qixnmínankw'ł, i- qixnmínankw'ł ipłx"
+    ]
+  },
+  "i-k'ínułembama": {
+    "root": "i-k'ínułembama",
+    "partOfSpeech": "n",
+    "definition": "something to use for writing, such as ink",
+    "seeAlso": [
+      "i-k'inułem, -NUŁM"
+    ]
+  },
+  "i-k'ínułmax": {
+    "root": "i-k'ínułmax",
+    "partOfSpeech": "n",
+    "definition": "designs, marks, stripes",
+    "forms": [
+      {
+        "kiksht": "Properly, this is the plural form of i-k'ínułem. It is listed sepa- rately because of the unpredictable additional meanings of",
+        "english": "stripes"
+      },
+      {
+        "kiksht": "and",
+        "english": "designs."
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qw'atłk gachtúx idak'ínułmax itp'aiskwa.",
+        "english": "He patched together blankets with colored de- signs. [WTI.11.8]"
+      }
+    ],
+    "notes": [
+      "Note by Sapir: \"This word is used indifferently of painted and basket designs.\" [WT 143]"
+    ],
+    "seeAlso": [
+      "-NUŁM, i-dak'inułmax"
     ]
   },
   "i-k'íwulal": {
@@ -46703,6 +46927,17 @@
       "-n-K'IMNA-kw"
     ]
   },
+  "it-k'intq": {
+    "root": "it-k'intq",
+    "partOfSpeech": "n",
+    "definition": "wings",
+    "examples": [
+      {
+        "kiksht": "idiak'íntq ikíutan",
+        "english": "winged horse [HS 7/2/56]"
+      }
+    ]
+  },
   "it-k'iława": {
     "root": "it-k'iława",
     "partOfSpeech": "n",
@@ -48439,6 +48674,14 @@
     ],
     "seeAlso": [
       "-ł-MQU-it, ił-mg̲wilit"
+    ]
+  },
+  "ił-k'inántłxmat": {
+    "root": "ił-k'inántłxmat",
+    "partOfSpeech": "n",
+    "definition": "dish rag",
+    "seeAlso": [
+      "-NA-tłx, i-k'inatłxamat, i- k'inantłxmat"
     ]
   },
   "ił-k'álamat": {
