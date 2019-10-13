@@ -19677,3 +19677,57 @@ it-pina¬x [n] hazelbush, hazelbush rope
 See also: i-binat¬x
 
 a-pˆps [n] small redheaded wood- pecker [Dyk], blackheaded wood- pecker [HS 6/23/56]
+
+
+
+
+
+
+
+
+i-piq [n] feather, wing
+Forms: itpˆq “feathers” [WTI.12.10]
+
+wa-pishtx [n] sunflower
+Forms: itpishtmax, wapishtmax “sun- flowers” [WTI.5.3,4] [probably should be rewritten itpishtxmax, wapishtxmax.]
+See also: wa-pishtxlit
+
+wa-pishtxlit [n] sunflower ground, ground where sunflowers grow
+
+a-piwa¬ [n] juniper
+
+wa-pkal [n] gill
+Notes: This is the form of the word found in Wishram Texts; Dyk gives wa-pkwÅl.
+
+-pkwÅ [n] wildcat, lynx, bobcat
+Forms: ipkwÅ “male wildcat” apkwÅ “female wildcat” i¬pkwÅ “little wild- cat” itpkwamax “wildcats” ipkwamax [Dyk, PK], ipkwayuksh [PK], ipkwayuks [HS] “male wildcats” apkwamax “female wildcats”
+
+wa-pkwal [n] gill
+Forms: itpkÅl “gills”
+Notes: This is the form of the word found in Dyk; Wishram Texts gives wa-pkal.
+
+i¬-p¬Ål [n] salal berries
+
+i-p¬éx [n] medicine
+Forms: itp¬éxumax “medicines” [Spilyay/Healthy Nations]
+Notes: General term for any sort of medicine, including traditional preparations designed to ensure success in love, fishing, etc. [PK 4/ 10/56]
+
+-p¬qau [adj] widowed, widow, wid- ower [Dyk], next-in-line to marry [Relatives]
+Forms: ip¬qau “widower; he is a wid- ower” ap¬qau “widow; she is a widow” i¬p¬qau “it is widowed” [Dyk] ayap¬qau “his next-in-line (to marry him after his wife’s death” ichap¬qau “her next-in-line (to marry her after her husband’s death)” [Relatives]
+Notes: In traditional Wasco culture, a close relative (a brother or sister first of all) was supposed to marry, or at least be willing to marry, the spouse of his or her deceased sibling, so that a widow or widower would never be left alone. Such a relative would be the sibling’s ayap¬qau or ichap¬qau. [Relatives]
+
+it-p¬xat [n] bathroom
+
+-PQ [vb] enter, go in, come in, set (of sun)
+Forms: yupqt “he is going in, is in, has just entered” upqt “she is going in, is in, has just entered” ulpq “she goes in (again and again) tgepqt “they are going in” inupq, inupqa “I went in” gadupqa, gatkepqÅ “they went in” ga¬upqa “they went in” ga¬tpq “they came in” inalupq “I went in to her” gayalupq “he/it[i-] went into her, it soaked into her” galilupqux “he went into it[i-]” galishlupq “he went into them 2” gachialup©amit “he caused it[i-] to go into her, he put it into her” inilupqam “I went into him, got in- side of him” iginlupqam “he got there inside of me” iyÅwipqam “he went there to get into them” [Dyk]
+Examples: Ailupqdix a©a¬ax. “The sun is setting.” [Dyk]
+
+-a-x-PQ [vb] march in singing in single file
+Forms: dax ̈pqt “they are marching in singing” inshaxupq “we marched in singing” idax ̈pq “they march in singing” nishtaxatpq “they 2 marched in singing (this way)” adaxupqa “they marchin in singing” daxÅtpqt “they’ll march in singing” daxÅtpqt “they’ll march in this way singing” dax ̈lpq “they are marching in singing (right along)” [Dyk]
+
+-ashga-t-PQ [vb] come into the house
+Forms: ishgÅtpqt “he is coming into the house” nashgÅtpqt “I am coming into the house” shtashgÅtpqt “they 2 are coming into the house” igishgatpqam “he came to enter the house” [Dyk]
+Notes: The initial -a of this stem is dropped after another vowel.
+
+
+

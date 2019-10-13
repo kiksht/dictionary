@@ -7495,6 +7495,79 @@
       "-PGIU"
     ]
   },
+  "-PQ": {
+    "root": "-PQ",
+    "partOfSpeech": "vb",
+    "definition": "enter, go in, come in, set (of sun)",
+    "forms": [
+      {
+        "kiksht": "yupqt",
+        "english": "he is going in, is in, has just entered"
+      },
+      {
+        "kiksht": "upqt",
+        "english": "she is going in, is in, has just entered"
+      },
+      {
+        "kiksht": "ulpq",
+        "english": "she goes in (again and again) tgepqt \"they are going in"
+      },
+      {
+        "kiksht": "inupq, inupqa",
+        "english": "I went in"
+      },
+      {
+        "kiksht": "gadupqa, gatkepqá",
+        "english": "they went in"
+      },
+      {
+        "kiksht": "gałupqa",
+        "english": "they went in"
+      },
+      {
+        "kiksht": "gałtpq",
+        "english": "they came in"
+      },
+      {
+        "kiksht": "inalupq",
+        "english": "I went in to her"
+      },
+      {
+        "kiksht": "gayalupq",
+        "english": "he/it[i-] went into her, it soaked into her"
+      },
+      {
+        "kiksht": "galilupqux",
+        "english": "he went into it[i-]"
+      },
+      {
+        "kiksht": "galishlupq",
+        "english": "he went into them 2"
+      },
+      {
+        "kiksht": "gachialupg̲amit",
+        "english": "he caused it[i-] to go into her, he put it into her"
+      },
+      {
+        "kiksht": "inilupqam",
+        "english": "I went into him, got in- side of him"
+      },
+      {
+        "kiksht": "iginlupqam",
+        "english": "he got there inside of me"
+      },
+      {
+        "kiksht": "iyáwipqam",
+        "english": "he went there to get into them [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ailupqdix ag̲ałax.",
+        "english": "The sun is setting. [Dyk]"
+      }
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -7917,6 +7990,45 @@
       "a-l-IMA-łx"
     ]
   },
+  "-a-x-PQ": {
+    "root": "-a-x-PQ",
+    "partOfSpeech": "vb",
+    "definition": "march in singing in single file",
+    "forms": [
+      {
+        "kiksht": "daxúpqt",
+        "english": "they are marching in singing"
+      },
+      {
+        "kiksht": "inshaxupq",
+        "english": "we marched in singing"
+      },
+      {
+        "kiksht": "idaxúpq",
+        "english": "they march in singing"
+      },
+      {
+        "kiksht": "nishtaxatpq",
+        "english": "they 2 marched in singing (this way)"
+      },
+      {
+        "kiksht": "adaxupqa",
+        "english": "they marchin in singing"
+      },
+      {
+        "kiksht": "daxátpqt",
+        "english": "they'll march in singing"
+      },
+      {
+        "kiksht": "daxátpqt",
+        "english": "they'll march in this way singing"
+      },
+      {
+        "kiksht": "daxúlpq",
+        "english": "they are marching in singing (right along) [Dyk]"
+      }
+    ]
+  },
   "-a-x-t-NA-kw": {
     "root": "-a-x-t-NA-kw",
     "partOfSpeech": "vb",
@@ -8070,6 +8182,32 @@
         "kiksht": "ichiashk'ímawlx",
         "english": "he turned (it[i-]?) bottom side up [Dyk]"
       }
+    ]
+  },
+  "-ashga-t-PQ": {
+    "root": "-ashga-t-PQ",
+    "partOfSpeech": "vb",
+    "definition": "come into the house",
+    "forms": [
+      {
+        "kiksht": "ishgátpqt",
+        "english": "he is coming into the house"
+      },
+      {
+        "kiksht": "nashgátpqt",
+        "english": "I am coming into the house"
+      },
+      {
+        "kiksht": "shtashgátpqt",
+        "english": "they 2 are coming into the house"
+      },
+      {
+        "kiksht": "igishgatpqam",
+        "english": "he came to enter the house [Dyk]"
+      }
+    ],
+    "notes": [
+      "The initial -a of this stem is dropped after another vowel."
     ]
   },
   "-ask'm-ŁADA": {
@@ -15732,6 +15870,67 @@
     "definition": "peaches",
     "notes": [
       "Borrowed from English. No prefix is given."
+    ]
+  },
+  "-pkwá": {
+    "root": "-pkwá",
+    "partOfSpeech": "n",
+    "definition": "wildcat, lynx, bobcat",
+    "forms": [
+      {
+        "kiksht": "ipkwá",
+        "english": "male wildcat"
+      },
+      {
+        "kiksht": "apkwá",
+        "english": "female wildcat"
+      },
+      {
+        "kiksht": "iłpkwá",
+        "english": "little wild- cat"
+      },
+      {
+        "kiksht": "itpkwamax",
+        "english": "wildcats ipkwamax [Dyk, PK], ipkwayuksh [PK], ipkwayuks [HS]"
+      },
+      {
+        "kiksht": "",
+        "english": "male wildcats"
+      },
+      {
+        "kiksht": "apkwamax",
+        "english": "female wildcats"
+      }
+    ]
+  },
+  "-płqau": {
+    "root": "-płqau",
+    "partOfSpeech": "adj",
+    "definition": "widowed, widow, wid- ower [Dyk], next-in-line to marry [Relatives]",
+    "forms": [
+      {
+        "kiksht": "ipłqau",
+        "english": "widower; he is a wid- ower"
+      },
+      {
+        "kiksht": "apłqau",
+        "english": "widow; she is a widow"
+      },
+      {
+        "kiksht": "iłpłqau",
+        "english": "it is widowed [Dyk]"
+      },
+      {
+        "kiksht": "ayapłqau",
+        "english": "his next-in-line (to marry him after his wife's death"
+      },
+      {
+        "kiksht": "ichapłqau",
+        "english": "her next-in-line (to marry her after her husband's death) [Relatives]"
+      }
+    ],
+    "notes": [
+      "In traditional Wasco culture, a close relative (a brother or sister first of all) was supposed to marry, or at least be willing to marry, the spouse of his or her deceased sibling, so that a widow or widower would never be left alone. Such a relative would be the sibling's ayapłqau or ichapłqau. [Relatives]"
     ]
   },
   "-q'l-PA": {
@@ -26556,6 +26755,11 @@
         "english": "male trout [Dyk] Apparently apg̲liu is the usual form."
       }
     ]
+  },
+  "a-piwał": {
+    "root": "a-piwał",
+    "partOfSpeech": "n",
+    "definition": "juniper"
   },
   "a-pác'akas": {
     "root": "a-pác'akas",
@@ -58404,6 +58608,17 @@
       "Borrowed from English"
     ]
   },
+  "i-piq": {
+    "root": "i-piq",
+    "partOfSpeech": "n",
+    "definition": "feather, wing",
+    "forms": [
+      {
+        "kiksht": "itpíq",
+        "english": "feathers [WTI.12.10]"
+      }
+    ]
+  },
   "i-pápakwun": {
     "root": "i-pápakwun",
     "partOfSpeech": "n",
@@ -58424,6 +58639,20 @@
     ],
     "seeAlso": [
       "i-kw'aikw'ai"
+    ]
+  },
+  "i-płéx": {
+    "root": "i-płéx",
+    "partOfSpeech": "n",
+    "definition": "medicine",
+    "forms": [
+      {
+        "kiksht": "itpłéxumax",
+        "english": "medicines [Spilyay/Healthy Nations]"
+      }
+    ],
+    "notes": [
+      "General term for any sort of medicine, including traditional preparations designed to ensure success in love, fishing, etc. [PK 4/ 10/56]"
     ]
   },
   "i-shmiwa": {
@@ -63213,6 +63442,11 @@
       "i-binatłx"
     ]
   },
+  "it-płxat": {
+    "root": "it-płxat",
+    "partOfSpeech": "n",
+    "definition": "bathroom"
+  },
   "it-łg̲wúl": {
     "root": "it-łg̲wúl",
     "partOfSpeech": "n",
@@ -64897,6 +65131,11 @@
     "notes": [
       "Borrowed from English."
     ]
+  },
+  "ił-płál": {
+    "root": "ił-płál",
+    "partOfSpeech": "n",
+    "definition": "salal berries"
   },
   "ił-łpuksh": {
     "root": "ił-łpuksh",
@@ -70584,6 +70823,47 @@
     "definition": "boiled soup of Chinook salmon that has been fermented in the ground for a couple of days",
     "notes": [
       "According to Phillip Kahclamat, eaten more by Cascades people than by Wishrams."
+    ]
+  },
+  "wa-pishtx": {
+    "root": "wa-pishtx",
+    "partOfSpeech": "n",
+    "definition": "sunflower",
+    "forms": [
+      {
+        "kiksht": "itpishtmax, wapishtmax",
+        "english": "sun- flowers [WTI.5.3,4] [probably should be rewritten itpishtxmax, wapishtxmax.]"
+      }
+    ],
+    "seeAlso": [
+      "wa-pishtxlit"
+    ]
+  },
+  "wa-pishtxlit": {
+    "root": "wa-pishtxlit",
+    "partOfSpeech": "n",
+    "definition": "sunflower ground, ground where sunflowers grow"
+  },
+  "wa-pkal": {
+    "root": "wa-pkal",
+    "partOfSpeech": "n",
+    "definition": "gill",
+    "notes": [
+      "This is the form of the word found in Wishram Texts; Dyk gives wa-pkwál."
+    ]
+  },
+  "wa-pkwal": {
+    "root": "wa-pkwal",
+    "partOfSpeech": "n",
+    "definition": "gill",
+    "forms": [
+      {
+        "kiksht": "itpkál",
+        "english": "gills"
+      }
+    ],
+    "notes": [
+      "This is the form of the word found in Dyk; Wishram Texts gives wa-pkal."
     ]
   },
   "wa-páł": {
