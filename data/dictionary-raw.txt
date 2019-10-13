@@ -17495,3 +17495,21 @@ Examples: Òux¬ ̈x ni¬gmtx. “They stretched you.” [WTI.3.11] Òux¬ ̈x
 -ÒUXWA [vb] think
 Examples: Gashx¬uxwait. “They 2 thought.” [WTI.1a1]
 See also: -ÒUXWA(N) think, feel
+
+
+
+
+
+
+
+-gm-ÒUXWA(N) [vb] think of, have one’s mind on, care for, love
+Forms: nigem¬uxwan “I have my mind on him, think much of him” nagem¬uxwan “I have my mind on her” chigem¬uxwan “he has his mind on him” chagem¬uxwan “he has his mind on her” gigem¬uxwan “she has his mind on him” gagem¬uxwan “she has her mind on her” nigem¬uxwanit “I am thinking of him” nagem¬uxwanit “I am thinking of her” chigem¬uxwanit “he is thinking of him” chagem¬uxwanit “he is thinking of her” gigem¬uxwanit “she is thinking of him” gagem¬uxwanit “she is thinking of her” nigmat¬uxwan “I had my mind on him, thought much of him” nagmat¬uxwan “I had my mind on her” chigmat¬uxwan “he had his mind on him” chagmat¬uxwan “he had his mind on her” gigmat¬uxwan “she had his mind on him” gagmat¬uxwan “she had her mind on her” nigmat¬uxwanit “I was thinking of him” nagmat¬uxwanit “I was thinking of her” chigmat¬uxwanit “he was thinking of him” chagmat¬uxwanit “he was thinking of her” gigmat¬uxwanit “she was think- ing of him” gagmat¬uxwanit “she was thinking of her” nichigem¬uxwan “he thought of him (for an indefinite period) (last season)” nichigem¬uxwait “he thought of him (suddenly; for a while) (last season)” nichigem¬uxwanit “he was thinking of him (last season)” nichigem¬uxwanitemchk “he thought of him (several times; over and over) (last season)” nichigmat¬uxwan “he thought of him (for an indefinite period) (last week)” nichigmat¬uxwait “he thought of him (suddenly; for a while) (last week)” nichigmat¬uxwanit “he was thinking of him (last week)” nichigmat¬uxwanitemchk “he thought of him (several times; over and over) (last week)” ichagem¬uxwait “he thought of her (as good, bad, etc., as upon first seeing her; or) he began to think of her” gagigem¬uxwait “she thought of him” with -xm- reflexive: ixem¬uxwan “he thinks (much) of himself, considers himself (big, strong, etc.)” ixaxma¬uxwan “he thinks himself good; he loves himself” shxaxma¬uxwan “they 2 love each other” nxaxma¬uxwan “I love myself, think of myself” igixaxma¬uxwait “he thought of himself” [Dyk]
+Examples: PalalÅi yamgem¬uxwan. “I love you.” [GT]
+
+-x-ÒUXWA(N) [vb] think, think upon, hit upon, worry
+Forms: enx¬uxwan “I think” ix¬uxwan “he thinks” enx¬ ̈xwanit “I am thinking” ix¬ ̈xwanit “he is think- ing” uxwi¬ ̈xwanit, uxwa¬ ̈xwa”they are thinking” enxit¬uxwan “I thought (concentrating on one thing)” ixit¬uxwan “he thought” nixit¬ ̈xwanit “I was thinking (about several things)” ixit¬ ̈xwanit “he was thinking” igix¬uxwait “he thought upon, suddenly thought of” nalax¬ ̈xwaida “she thought” nalax¬uxwanidma “she was thinking (over and over)” nigix¬uxwan “he thought (last season)” nigix¬uxwait “he thought upon, hit upon (last season)” nigix¬ ̈xwanit “he was thinking (last season)” nigix¬ ̈xwanitemchk “he thought (several times): he worried (last sea- son)” nigixit¬uxwan “he thought (last week)” nigixit¬uxwait “he thought upon, hit upon (last week)” nigixit¬ ̈xwanit “he was thinking (last week)” nigixit¬ ̈xwanitemchk “he thought (several times): he worried (last week)” galix¬uxwait “he thought upon” galax¬uxwait “she thought upon” galax¬ ̈xwanitemchk “she thought (over and over); she wor- ried” [Dyk]
+Examples: Qidau enx¬uxwan. “That is how I think, I think thus.” [Dyk]
+
+-xl-ÒUXWA(N) [vb] think, feel
+Examples: Idiagiutgwaxix nixit¬uxwait ninxichmaq S. k’ma Mrs. M. idach©emem. “I was sorry to hear that S. and Mrs. M were sick.” [WTIII.4.1]
+See also: -x-ÒUXWA(N)

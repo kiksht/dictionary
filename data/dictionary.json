@@ -8077,6 +8077,175 @@
       "Similar in meaning to -k'm- łada-pq; but -gm-łada-pq implies that there is no space in the place in which something as being dragged, as beneath something flush on the ground, while -k'm-łada-pq implies that there is some space, as beneath a bed."
     ]
   },
+  "-gm-ŁUXWA(N)": {
+    "root": "-gm-ŁUXWA(N)",
+    "partOfSpeech": "vb",
+    "definition": "think of, have one's mind on, care for, love",
+    "forms": [
+      {
+        "kiksht": "nigemłuxwan",
+        "english": "I have my mind on him, think much of him"
+      },
+      {
+        "kiksht": "nagemłuxwan",
+        "english": "I have my mind on her"
+      },
+      {
+        "kiksht": "chigemłuxwan",
+        "english": "he has his mind on him"
+      },
+      {
+        "kiksht": "chagemłuxwan",
+        "english": "he has his mind on her"
+      },
+      {
+        "kiksht": "gigemłuxwan",
+        "english": "she has his mind on him"
+      },
+      {
+        "kiksht": "gagemłuxwan",
+        "english": "she has her mind on her"
+      },
+      {
+        "kiksht": "nigemłuxwanit",
+        "english": "I am thinking of him"
+      },
+      {
+        "kiksht": "nagemłuxwanit",
+        "english": "I am thinking of her"
+      },
+      {
+        "kiksht": "chigemłuxwanit",
+        "english": "he is thinking of him"
+      },
+      {
+        "kiksht": "chagemłuxwanit",
+        "english": "he is thinking of her"
+      },
+      {
+        "kiksht": "gigemłuxwanit",
+        "english": "she is thinking of him"
+      },
+      {
+        "kiksht": "gagemłuxwanit",
+        "english": "she is thinking of her"
+      },
+      {
+        "kiksht": "nigmatłuxwan",
+        "english": "I had my mind on him, thought much of him"
+      },
+      {
+        "kiksht": "nagmatłuxwan",
+        "english": "I had my mind on her"
+      },
+      {
+        "kiksht": "chigmatłuxwan",
+        "english": "he had his mind on him"
+      },
+      {
+        "kiksht": "chagmatłuxwan",
+        "english": "he had his mind on her"
+      },
+      {
+        "kiksht": "gigmatłuxwan",
+        "english": "she had his mind on him"
+      },
+      {
+        "kiksht": "gagmatłuxwan",
+        "english": "she had her mind on her"
+      },
+      {
+        "kiksht": "nigmatłuxwanit",
+        "english": "I was thinking of him"
+      },
+      {
+        "kiksht": "nagmatłuxwanit",
+        "english": "I was thinking of her"
+      },
+      {
+        "kiksht": "chigmatłuxwanit",
+        "english": "he was thinking of him"
+      },
+      {
+        "kiksht": "chagmatłuxwanit",
+        "english": "he was thinking of her"
+      },
+      {
+        "kiksht": "gigmatłuxwanit",
+        "english": "she was think- ing of him"
+      },
+      {
+        "kiksht": "gagmatłuxwanit",
+        "english": "she was thinking of her"
+      },
+      {
+        "kiksht": "nichigemłuxwan",
+        "english": "he thought of him (for an indefinite period) (last season)"
+      },
+      {
+        "kiksht": "nichigemłuxwait",
+        "english": "he thought of him (suddenly; for a while) (last season)"
+      },
+      {
+        "kiksht": "nichigemłuxwanit",
+        "english": "he was thinking of him (last season)"
+      },
+      {
+        "kiksht": "nichigemłuxwanitemchk",
+        "english": "he thought of him (several times; over and over) (last season)"
+      },
+      {
+        "kiksht": "nichigmatłuxwan",
+        "english": "he thought of him (for an indefinite period) (last week)"
+      },
+      {
+        "kiksht": "nichigmatłuxwait",
+        "english": "he thought of him (suddenly; for a while) (last week)"
+      },
+      {
+        "kiksht": "nichigmatłuxwanit",
+        "english": "he was thinking of him (last week)"
+      },
+      {
+        "kiksht": "nichigmatłuxwanitemchk",
+        "english": "he thought of him (several times; over and over) (last week)"
+      },
+      {
+        "kiksht": "ichagemłuxwait",
+        "english": "he thought of her (as good, bad, etc., as upon first seeing her; or) he began to think of her"
+      },
+      {
+        "kiksht": "gagigemłuxwait",
+        "english": "she thought of him"
+      },
+      {
+        "kiksht": "with -xm- reflexive: ixemłuxwan",
+        "english": "he thinks (much) of himself, considers himself (big, strong, etc.)"
+      },
+      {
+        "kiksht": "ixaxmałuxwan",
+        "english": "he thinks himself good; he loves himself"
+      },
+      {
+        "kiksht": "shxaxmałuxwan",
+        "english": "they 2 love each other"
+      },
+      {
+        "kiksht": "nxaxmałuxwan",
+        "english": "I love myself, think of myself"
+      },
+      {
+        "kiksht": "igixaxmałuxwait",
+        "english": "he thought of himself [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Palalái yamgemłuxwan.",
+        "english": "I love you. [GT]"
+      }
+    ]
+  },
   "-gma-GWI-łx": {
     "root": "-gma-GWI-łx",
     "partOfSpeech": "vb",
@@ -17223,6 +17392,115 @@
       }
     ]
   },
+  "-x-ŁUXWA(N)": {
+    "root": "-x-ŁUXWA(N)",
+    "partOfSpeech": "vb",
+    "definition": "think, think upon, hit upon, worry",
+    "forms": [
+      {
+        "kiksht": "enxłuxwan",
+        "english": "I think"
+      },
+      {
+        "kiksht": "ixłuxwan",
+        "english": "he thinks"
+      },
+      {
+        "kiksht": "enxłúxwanit",
+        "english": "I am thinking"
+      },
+      {
+        "kiksht": "ixłúxwanit",
+        "english": "he is think- ing"
+      },
+      {
+        "kiksht": "uxwiłúxwanit, uxwałúxwa\"they are thinking\" enxitłuxwan",
+        "english": ""
+      },
+      {
+        "kiksht": "they are thinking\" enxitłuxwan",
+        "english": ""
+      },
+      {
+        "kiksht": "enxitłuxwan",
+        "english": "I thought (concentrating on one thing)"
+      },
+      {
+        "kiksht": "ixitłuxwan",
+        "english": "he thought"
+      },
+      {
+        "kiksht": "nixitłúxwanit",
+        "english": "I was thinking (about several things)"
+      },
+      {
+        "kiksht": "ixitłúxwanit",
+        "english": "he was thinking"
+      },
+      {
+        "kiksht": "igixłuxwait",
+        "english": "he thought upon, suddenly thought of"
+      },
+      {
+        "kiksht": "nalaxłúxwaida",
+        "english": "she thought"
+      },
+      {
+        "kiksht": "nalaxłuxwanidma",
+        "english": "she was thinking (over and over)"
+      },
+      {
+        "kiksht": "nigixłuxwan",
+        "english": "he thought (last season)"
+      },
+      {
+        "kiksht": "nigixłuxwait",
+        "english": "he thought upon, hit upon (last season)"
+      },
+      {
+        "kiksht": "nigixłúxwanit",
+        "english": "he was thinking (last season)"
+      },
+      {
+        "kiksht": "nigixłúxwanitemchk",
+        "english": "he thought (several times): he worried (last sea- son)"
+      },
+      {
+        "kiksht": "nigixitłuxwan",
+        "english": "he thought (last week)"
+      },
+      {
+        "kiksht": "nigixitłuxwait",
+        "english": "he thought upon, hit upon (last week)"
+      },
+      {
+        "kiksht": "nigixitłúxwanit",
+        "english": "he was thinking (last week)"
+      },
+      {
+        "kiksht": "nigixitłúxwanitemchk",
+        "english": "he thought (several times): he worried (last week)"
+      },
+      {
+        "kiksht": "galixłuxwait",
+        "english": "he thought upon"
+      },
+      {
+        "kiksht": "galaxłuxwait",
+        "english": "she thought upon"
+      },
+      {
+        "kiksht": "galaxłúxwanitemchk",
+        "english": "she thought (over and over); she wor- ried [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qidau enxłuxwan.",
+        "english": "That is how I think, I think thus. [Dyk]"
+      }
+    ]
+  },
   "-xa-IMA": {
     "root": "-xa-IMA",
     "partOfSpeech": "vb",
@@ -18509,6 +18787,20 @@
     ],
     "notes": [
       "Literally means \"cause oneself to smell;\" see -l-ła-kw'a-mit."
+    ]
+  },
+  "-xl-ŁUXWA(N)": {
+    "root": "-xl-ŁUXWA(N)",
+    "partOfSpeech": "vb",
+    "definition": "think, feel",
+    "examples": [
+      {
+        "kiksht": "Idiagiutgwaxix nixitłuxwait ninxichmaq S. k'ma Mrs. M. idachg̲emem.",
+        "english": "I was sorry to hear that S. and Mrs. M were sick. [WTIII.4.1]"
+      }
+    ],
+    "seeAlso": [
+      "-x-ŁUXWA(N)"
     ]
   },
   "-xm-GA-mida-pa": {
