@@ -7075,6 +7075,28 @@
       "i-q'isten"
     ]
   },
+  "-k'itłinanmat": {
+    "root": "-k'itłinanmat",
+    "partOfSpeech": "n",
+    "definition": "pole on which to string fish for drying or smoking",
+    "forms": [
+      {
+        "kiksht": "ik'itłinanmat",
+        "english": "larger pole for stringing fish"
+      },
+      {
+        "kiksht": "ak'itłinanmat",
+        "english": "smaller pole for stringing fish"
+      },
+      {
+        "kiksht": "iłk'itłinanmat",
+        "english": "poles for stringing fish [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-TŁI, i-k'itłinan"
+    ]
+  },
   "-k'álamat": {
     "root": "-k'álamat",
     "partOfSpeech": "n",
@@ -10781,6 +10803,81 @@
     ],
     "seeAlso": [
       "-x-K'AYAU-lal"
+    ]
+  },
+  "-x-K'IWA": {
+    "root": "-x-K'IWA",
+    "partOfSpeech": "vb",
+    "definition": "owe",
+    "forms": [
+      {
+        "kiksht": "nixk'iwat",
+        "english": "I owe him"
+      },
+      {
+        "kiksht": "ayamixk'iwa n25",
+        "english": "I owe you n25"
+      },
+      {
+        "kiksht": "igixk'iwa",
+        "english": "she borrowed (something of) his; she borrowed it[i-] from him; he borrowed, owed"
+      },
+      {
+        "kiksht": "ichiaxk'iwa",
+        "english": "he borrowed it[i-] from her"
+      },
+      {
+        "kiksht": "ichaxk'iwa",
+        "english": "he borrowed it[a-] from her; he borrowed (something of) hers"
+      },
+      {
+        "kiksht": "ixk'íunił",
+        "english": "he is borrowing"
+      },
+      {
+        "kiksht": "ixatk'íunił",
+        "english": "he was borrowing"
+      },
+      {
+        "kiksht": "ixk'iwat",
+        "english": "he has borrowed; he owes [Dyk]"
+      },
+      {
+        "kiksht": "alma anixk'íwaya",
+        "english": "I will owe him, I will borrow from him [GT, MMc 12/30/ 97]"
+      }
+    ],
+    "notes": [
+      "Imples owing without having paid anything at all. [GT, MMc 12/ 30/97] Compare -l-CHA-kw \"owe a balance.\""
+    ],
+    "seeAlso": [
+      "it-qak'iwat, -l-CHA-kw, tł'ap, -K'IWA"
+    ]
+  },
+  "-x-K'IWA-lal": {
+    "root": "-x-K'IWA-lal",
+    "partOfSpeech": "vb",
+    "definition": "be fresh (of meat or fish)",
+    "forms": [
+      {
+        "kiksht": "ixk'iwalal",
+        "english": "it[i-] is fresh"
+      },
+      {
+        "kiksht": "ixatk'iwalal",
+        "english": "it was fresh"
+      },
+      {
+        "kiksht": "uxwak'íwalal",
+        "english": "they are fresh"
+      },
+      {
+        "kiksht": "[This word is also used idiomatically as a noun meaning",
+        "english": "fish.] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-xk'iwalal, uxwak'íwalal"
     ]
   },
   "-x-KL": {
@@ -42838,6 +42935,114 @@
       "tłgup"
     ]
   },
+  "i-k'itłguptłgup": {
+    "root": "i-k'itłguptłgup",
+    "partOfSpeech": "n",
+    "definition": "explosive, explo- sion, exploding",
+    "forms": [
+      {
+        "kiksht": "ichak'ítłguptłgup",
+        "english": "she is one who explodes things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tłgup"
+    ]
+  },
+  "i-k'itłinan": {
+    "root": "i-k'itłinan",
+    "partOfSpeech": "n",
+    "definition": "stringing up fish",
+    "forms": [
+      {
+        "kiksht": "ichak'itłinan",
+        "english": "she is a stringer up of fish [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to stringing up fish for drying or smoking."
+    ],
+    "seeAlso": [
+      "-TŁI, -k'itłinanmat"
+    ]
+  },
+  "i-k'itłxinq": {
+    "root": "i-k'itłxinq",
+    "partOfSpeech": "n",
+    "definition": "choking and coughing",
+    "notes": [
+      "Alternate form of i-qitłxinq."
+    ],
+    "seeAlso": [
+      "-tłxi-qw, i-qitłxinq"
+    ]
+  },
+  "i-k'itłxumnił": {
+    "root": "i-k'itłxumnił",
+    "partOfSpeech": "n",
+    "definition": "consuming, using up",
+    "forms": [
+      {
+        "kiksht": "iyak'itłxumnił",
+        "english": "he/it[i-] is a consumer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-TŁXUM, i-qatłxumnił, i- qatłxul, i-gitłxuł"
+    ]
+  },
+  "i-k'iulalmat": {
+    "root": "i-k'iulalmat",
+    "partOfSpeech": "n",
+    "definition": "tool for digging, tool for gardening",
+    "notes": [
+      "May refer to any tool used for digging or gardening, including but not limited to igabn \"digging stick.\""
+    ],
+    "seeAlso": [
+      "-LA, i-k'iulal, i-k'iulalmax"
+    ]
+  },
+  "i-k'iulalmax": {
+    "root": "i-k'iulalmax",
+    "partOfSpeech": "n",
+    "definition": "garden [JeMc 9/1/ 55], dug roots [PK 8/5/55]",
+    "seeAlso": [
+      "-LA"
+    ]
+  },
+  "i-k'iwalq": {
+    "root": "i-k'iwalq",
+    "partOfSpeech": "n",
+    "definition": "killing",
+    "examples": [
+      {
+        "kiksht": "iłkala yak'iwalq",
+        "english": "he is a man-killer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "i-k'iwawat": {
+    "root": "i-k'iwawat",
+    "partOfSpeech": "n",
+    "definition": "talking, lecturing",
+    "notes": [
+      "According to PK, used only in reference to formal instruction of children regarding their future be- havior; not used for anything else."
+    ],
+    "seeAlso": [
+      "wawa"
+    ]
+  },
+  "i-k'iwax": {
+    "root": "i-k'iwax",
+    "partOfSpeech": "n",
+    "definition": "light",
+    "seeAlso": [
+      "wax, ił-k'iwax, i-k'íwaxmat"
+    ]
+  },
   "i-k'iładnił": {
     "root": "i-k'iładnił",
     "partOfSpeech": "n",
@@ -43106,6 +43311,38 @@
     ],
     "notes": [
       "Refers, for instance, to signs foretelling future, such as a rainbow appearing before the birth of a child. i-k'ishmanixxat [n] sign, indicator Notes: Could refer, for instance, to rocks or sticks marking a trial, or a sign of a coming season."
+    ]
+  },
+  "i-k'ítłuktłuk": {
+    "root": "i-k'ítłuktłuk",
+    "partOfSpeech": "n",
+    "definition": "nodding",
+    "forms": [
+      {
+        "kiksht": "iyak'ítłuktłuk",
+        "english": "he is a nodder [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tłuktłuk"
+    ]
+  },
+  "i-k'íulal": {
+    "root": "i-k'íulal",
+    "partOfSpeech": "n",
+    "definition": "digging",
+    "forms": [
+      {
+        "kiksht": "iyak'íulal",
+        "english": "he is a digger [Dyk]"
+      },
+      {
+        "kiksht": "ichak'íulal",
+        "english": "she who digs a lot [AF 8/15/56]"
+      }
+    ],
+    "seeAlso": [
+      "-LA, i-k'ílalpł, i-k'iulalmax, i- k'iulalmat"
     ]
   },
   "i-k'íwulal": {
@@ -49361,6 +49598,32 @@
     "definition": "dish rag",
     "seeAlso": [
       "-NA-tłx, i-k'inatłxamat, i- k'inantłxmat"
+    ]
+  },
+  "ił-k'iwax": {
+    "root": "ił-k'iwax",
+    "partOfSpeech": "n",
+    "definition": "light, lamp, blossom",
+    "examples": [
+      {
+        "kiksht": "Dawáx iłk'iwax.",
+        "english": "The light is lit. [Dyk]"
+      },
+      {
+        "kiksht": "K'aya íliak'iwax.",
+        "english": "No lights (said when car lights go off)"
+      },
+      {
+        "kiksht": "Wax iłiak'iwax.",
+        "english": "Lights lit (said when they go on) [HS 7/2/56]"
+      },
+      {
+        "kiksht": "itchapa itgak'iwax",
+        "english": "rose blossom [DF:AF 12/ 23/52]"
+      }
+    ],
+    "seeAlso": [
+      "wax, i-k'iwax"
     ]
   },
   "ił-k'álamat": {
