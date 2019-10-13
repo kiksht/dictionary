@@ -16487,3 +16487,65 @@ See also: a-qilxu¬, wa-lxu¬, a-lxu¬at
 Forms: alaixilxu¬a “he will dipnet” alaixitlxu¬a “he will dipnet (distant future)” aixilxu¬ “he is dipnetting” igaixilxu¬chk “he just dipnetted” iganxilxu¬chk “I just dipnetted” nigaixit¬xu¬ “he was dipnetting (last week)” [Dyk]
 Examples: Kushtk alanxilxu¬ama. “I’ll go dipnetting before breakfast.” [Dyk]
 See also: a-qilxu¬, wa-lxu¬, a-lxu¬at
+
+
+
+
+
+
+
+
+
+
+
+(w)a-lxu¬ [n] dipnet-fishing
+Forms: ayalxu¬ “he is a dipnetter” [Dyk] a¬alxu¬ “his[i¬-] dipnet-fishing, he[i¬-] is one who dipnet-fishes” [WTII.8.1]
+See also: -a-xi-LXUÒ, a-xilxu¬x
+
+a-lxu¬at [n] dipnet
+Forms: idlxu¬at “dipnets”
+Notes: Dyk notes that this refers specifically to a dipnet after it has been put on a pole.
+See also: -a-xi-LXUÒ, wa-lxu¬lxi, id- lxu¬xat, a-k’nik’ni
+
+wa-lxu¬lxi [n] dipnetting place
+See also: -a-xi-LXUÒ, a-lxu¬at
+
+(w)a-lxus [n] eyeball
+See also: i-xut
+
+i-lxchek [n] dew
+
+i-lxwt [n] older brother
+Forms: i¬alxwt “their older brother” ichulxwt “my older brother” [HS]
+See also: -lxt
+
+id-lxdimax [n] cliff, bluff
+Examples: Òkshigmudlgix i¬gwa¬ilx idlxdˆmaxba. “They 2 are burying some person at the bluff.” [Dyk]
+
+wa-lxmˆt [n] bed
+
+wa-lxus [n] eyes, eyeball
+Forms: aglxus “my eyes” a¬alxus “their eyes (together)” a¬alxusks, it¬alxusks “their eyes (taken individu- ally)” adalxusks “their eyes” walxusks “eyeballs” [Dyk]
+See also: i-qut, wa-lxus
+
+-ÒA [vb] smell, stink, be fragrant, have odor
+Forms: yu¬anan “he smells, has an odor (pleasant or unpleasant)” u¬anan “it[a-] is stinking about” [Dyk]
+
+-l-ÒA-(kw) [vb] smell
+Forms: ayal¬aya “she will smell him” inl¬agwax “I am smelling him” ailt¬agwax “he is smelling her” il¬agwax “he is smelling him” yal¬agwax “she is smelling him” yal¬akwt “his odor is going around inside of her; she is smelling him” chnel¬agwax “he is smelling me” chnel¬Åt “he has me smelt” ichnel¬a “he smelt me” iyal¬akwachk “she smelt him (several times)” nalinel¬aya “I smelt him” niyamel¬Å “I smelt you” niyamel¬agwax “I was smelling you” niyamel¬akwachk “I smelt you (several times)” [Dyk]
+Notes: Literally means “have an odor to” or, with -kw “around,” “have one’s odor go around in;” see -ÒA.
+
+-x-ÒA [vb] burn, get warm, get hot
+Examples: Shpak a©a¬ax alaxuxwa, annÅnana alÅx¬aya. “The sun will be strong, it will sting and burn.” [WTII.11.1]
+
+-ÒA-it [vb] sit, sit down, settle, come down, ride (horse)
+Forms: em¬Åit! “sit down!” [GT, MMc]
+Examples: A¬u¬aida i¬tgÅ. “The snow will come down.” Anik¬aida ichkˆutan. “I’ll ride my horse.” [GT, MMc]
+
+-ÒA-it-am [vb] land, come down
+Examples: Qatgi gayu¬aitam isk’ulya aicxÅp. “Coyote landed somewhat short.” [WTI.9.8]
+
+-gm-ÒA-it [vb] wait for
+Forms: aligem¬aida “he’ll wait for him” aliagem¬aida “he’ll wait for her” a¬igem¬aida “they’ll wait for him” [GT 1/14/99]
+Examples: K’aya a©a anigem¬aida. “I won’t wait for him any longer” Daq¬ yat¬qdix nanigem¬aida. “I waited for him yesterday a long time.” [GT, MMc 12/30/97]
+See also: -gm- ̨T

@@ -153,6 +153,32 @@
       "ił-kshén"
     ]
   },
+  "(w)a-lxus": {
+    "root": "(w)a-lxus",
+    "partOfSpeech": "n",
+    "definition": "eyeball",
+    "seeAlso": [
+      "i-xut"
+    ]
+  },
+  "(w)a-lxuł": {
+    "root": "(w)a-lxuł",
+    "partOfSpeech": "n",
+    "definition": "dipnet-fishing",
+    "forms": [
+      {
+        "kiksht": "ayalxuł",
+        "english": "he is a dipnetter [Dyk]"
+      },
+      {
+        "kiksht": "ałalxuł",
+        "english": "his[ił-] dipnet-fishing, he[ił-] is one who dipnet-fishes [WTII.8.1]"
+      }
+    ],
+    "seeAlso": [
+      "-a-xi-LXUŁ, a-xilxułx"
+    ]
+  },
   "(w)i-káq": {
     "root": "(w)i-káq",
     "partOfSpeech": "n",
@@ -7768,6 +7794,38 @@
       "it-gmaxátgalit"
     ]
   },
+  "-gm-ŁA-it": {
+    "root": "-gm-ŁA-it",
+    "partOfSpeech": "vb",
+    "definition": "wait for",
+    "forms": [
+      {
+        "kiksht": "aligemłaida",
+        "english": "he'll wait for him"
+      },
+      {
+        "kiksht": "aliagemłaida",
+        "english": "he'll wait for her"
+      },
+      {
+        "kiksht": "ałigemłaida",
+        "english": "they'll wait for him [GT 1/14/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "K'aya ag̲a anigemłaida.",
+        "english": "I won't wait for him any longer"
+      },
+      {
+        "kiksht": "Daqł yatłqdix nanigemłaida.",
+        "english": "I waited for him yesterday a long time. [GT, MMc 12/30/97]"
+      }
+    ],
+    "seeAlso": [
+      "-gm-X̲T"
+    ]
+  },
   "-gma-GWI-łx": {
     "root": "-gma-GWI-łx",
     "partOfSpeech": "vb",
@@ -11360,6 +11418,72 @@
     ],
     "seeAlso": [
       "i-qik'ílalakwł"
+    ]
+  },
+  "-l-ŁA-(kw)": {
+    "root": "-l-ŁA-(kw)",
+    "partOfSpeech": "vb",
+    "definition": "smell",
+    "forms": [
+      {
+        "kiksht": "ayalłaya",
+        "english": "she will smell him"
+      },
+      {
+        "kiksht": "inlłagwax",
+        "english": "I am smelling him"
+      },
+      {
+        "kiksht": "ailtłagwax",
+        "english": "he is smelling her"
+      },
+      {
+        "kiksht": "ilłagwax",
+        "english": "he is smelling him"
+      },
+      {
+        "kiksht": "yalłagwax",
+        "english": "she is smelling him"
+      },
+      {
+        "kiksht": "yalłakwt",
+        "english": "his odor is going around inside of her; she is smelling him"
+      },
+      {
+        "kiksht": "chnelłagwax",
+        "english": "he is smelling me"
+      },
+      {
+        "kiksht": "chnelłát",
+        "english": "he has me smelt"
+      },
+      {
+        "kiksht": "ichnelła",
+        "english": "he smelt me"
+      },
+      {
+        "kiksht": "iyalłakwachk",
+        "english": "she smelt him (several times)"
+      },
+      {
+        "kiksht": "nalinelłaya",
+        "english": "I smelt him"
+      },
+      {
+        "kiksht": "niyamelłá",
+        "english": "I smelt you"
+      },
+      {
+        "kiksht": "niyamelłagwax",
+        "english": "I was smelling you"
+      },
+      {
+        "kiksht": "niyamelłakwachk",
+        "english": "I smelt you (several times) [Dyk]"
+      }
+    ],
+    "notes": [
+      "Literally means \"have an odor to\" or, with -kw \"around,\" \"have one's odor go around in;\" see -ŁA."
     ]
   },
   "-ladas": {
@@ -15850,6 +15974,17 @@
       "it-kaxáimanił"
     ]
   },
+  "-x-ŁA": {
+    "root": "-x-ŁA",
+    "partOfSpeech": "vb",
+    "definition": "burn, get warm, get hot",
+    "examples": [
+      {
+        "kiksht": "Shpak ag̲ałax alaxuxwa, annánana aláxłaya.",
+        "english": "The sun will be strong, it will sting and burn. [WTII.11.1]"
+      }
+    ]
+  },
   "-xa-IMA": {
     "root": "-xa-IMA",
     "partOfSpeech": "vb",
@@ -17245,6 +17380,53 @@
     ],
     "seeAlso": [
       "yániwadix"
+    ]
+  },
+  "-ŁA": {
+    "root": "-ŁA",
+    "partOfSpeech": "vb",
+    "definition": "smell, stink, be fragrant, have odor",
+    "forms": [
+      {
+        "kiksht": "yułanan",
+        "english": "he smells, has an odor (pleasant or unpleasant)"
+      },
+      {
+        "kiksht": "ułanan",
+        "english": "it[a-] is stinking about [Dyk]"
+      }
+    ]
+  },
+  "-ŁA-it": {
+    "root": "-ŁA-it",
+    "partOfSpeech": "vb",
+    "definition": "sit, sit down, settle, come down, ride (horse)",
+    "forms": [
+      {
+        "kiksht": "emłáit!",
+        "english": "sit down! [GT, MMc]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ałułaida iłtgá.",
+        "english": "The snow will come down."
+      },
+      {
+        "kiksht": "Anikłaida ichkíutan.",
+        "english": "I'll ride my horse. [GT, MMc]"
+      }
+    ]
+  },
+  "-ŁA-it-am": {
+    "root": "-ŁA-it-am",
+    "partOfSpeech": "vb",
+    "definition": "land, come down",
+    "examples": [
+      {
+        "kiksht": "Qatgi gayułaitam isk'ulya aicxáp.",
+        "english": "Coyote landed somewhat short. [WTI.9.8]"
+      }
     ]
   },
   "-ł-gl-KWSHTX̲": {
@@ -19636,6 +19818,23 @@
     "definition": "dipnet pole",
     "seeAlso": [
       "wa-wúlk"
+    ]
+  },
+  "a-lxułat": {
+    "root": "a-lxułat",
+    "partOfSpeech": "n",
+    "definition": "dipnet",
+    "forms": [
+      {
+        "kiksht": "idlxułat",
+        "english": "dipnets"
+      }
+    ],
+    "notes": [
+      "Dyk notes that this refers specifically to a dipnet after it has been put on a pole."
+    ],
+    "seeAlso": [
+      "-a-xi-LXUŁ, wa-lxułlxi, id- lxułxat, a-k'nik'ni"
     ]
   },
   "a-lágamin": {
@@ -50445,6 +50644,11 @@
       "-LXAM"
     ]
   },
+  "i-lxchek": {
+    "root": "i-lxchek",
+    "partOfSpeech": "n",
+    "definition": "dew"
+  },
   "i-lxdmaxix": {
     "root": "i-lxdmaxix",
     "partOfSpeech": "n",
@@ -50484,6 +50688,24 @@
     "definition": "lair, medicine dancing platform [Dyk], bed [GT, MMc 6/4/ 98]",
     "notes": [
       "In the first meaning, it refers to place where you sleep on the floor; it would not be used to a place where you sleep in a regular bed. In the second meaning, it refers to a small round platform used for dancing by the leader of a medicine sing."
+    ]
+  },
+  "i-lxwt": {
+    "root": "i-lxwt",
+    "partOfSpeech": "n",
+    "definition": "older brother",
+    "forms": [
+      {
+        "kiksht": "iłalxwt",
+        "english": "their older brother"
+      },
+      {
+        "kiksht": "ichulxwt",
+        "english": "my older brother [HS]"
+      }
+    ],
+    "seeAlso": [
+      "-lxt"
     ]
   },
   "i-láitk": {
@@ -50873,6 +51095,17 @@
     "definition": "young married couple",
     "seeAlso": [
       "-limx"
+    ]
+  },
+  "id-lxdimax": {
+    "root": "id-lxdimax",
+    "partOfSpeech": "n",
+    "definition": "cliff, bluff",
+    "examples": [
+      {
+        "kiksht": "Łkshigmudlgix iłgwałilx idlxdímaxba.",
+        "english": "They 2 are burying some person at the bluff. [Dyk]"
+      }
     ]
   },
   "id-láitiximum": {
@@ -59219,6 +59452,49 @@
     "definition": "water bug, louse found on owls and chickens",
     "seeAlso": [
       "wa-lxiqsht"
+    ]
+  },
+  "wa-lxmít": {
+    "root": "wa-lxmít",
+    "partOfSpeech": "n",
+    "definition": "bed"
+  },
+  "wa-lxus": {
+    "root": "wa-lxus",
+    "partOfSpeech": "n",
+    "definition": "eyes, eyeball",
+    "forms": [
+      {
+        "kiksht": "aglxus",
+        "english": "my eyes"
+      },
+      {
+        "kiksht": "ałalxus",
+        "english": "their eyes (together)"
+      },
+      {
+        "kiksht": "ałalxusks, itłalxusks",
+        "english": "their eyes (taken individu- ally)"
+      },
+      {
+        "kiksht": "adalxusks",
+        "english": "their eyes"
+      },
+      {
+        "kiksht": "walxusks",
+        "english": "eyeballs [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qut, wa-lxus"
+    ]
+  },
+  "wa-lxułlxi": {
+    "root": "wa-lxułlxi",
+    "partOfSpeech": "n",
+    "definition": "dipnetting place",
+    "seeAlso": [
+      "-a-xi-LXUŁ, a-lxułat"
     ]
   },
   "wi-'ísh": {
