@@ -16435,3 +16435,55 @@ Forms: walxÅyumax “seals” [Dyk]
 (w)i-lxchaq [n] dew, frost
 See also: yalxche©ix
 
+
+
+
+
+
+
+-lxdmax [n] ancestors beyond the great-grandparent generation
+Forms: ichlxdmax “my male ances- tors” aglxdmax “my female ances- tors” i¬glxdmax, itglxdmax “my an- cestors (male and female)” [Dyk]
+See also: -lxt, i-lxdmaxix, -lxt’amax
+
+i-lxdmaxix [n] grizzly bear
+Forms: idlxdmaxix “grizzly bears” [Dyk]
+See also: -lxdmÅx
+
+wa-lxi [n] dipnetting place [Dyk], place to catch animals [PK], fishing place along river belonging to famiy lineage [GT, MMc 6/4/98]
+Forms: idelximax “dipnetting places” [Dyk]
+Examples: Shan a¬alxi? “Whose place?” [Dyk]
+
+wa-lxiqst [n] water bug, louse found on owls and chickens
+See also: wa-lxiqsht
+
+wa-lxiqsht [n] water bug, louse found on owls and chickens
+See also: wa-lxiqst
+
+i-lxix [n] native country, native land, home
+Forms: ichalxix “her native country, home” [Dyk]
+See also: wi-lx
+
+i-lxmˆt [n] lair, medicine dancing platform [Dyk], bed [GT, MMc 6/4/ 98]
+Notes: In the first meaning, it refers to place where you sleep on the floor; it would not be used to a place where you sleep in a regular bed. In the second meaning, it refers to a small round platform used for dancing by the leader of a medicine sing.
+
+i-lxmix [n] white elk
+
+-lxt [n] older sibling, older brother, older sister
+Forms: (w)ichlxt “my older brother” (w)ichalxt “her older brother” (w)agalxt “her older sister” i¬galxtksh “her older siblings” [Dyk] alxt “older brother!” [rarely used] [Relatives]
+See also: i-lxwt, -lxdmax
+
+-lxt’amax {-lxt’amax}[i¬-] great- grandparent, ancestor, oldest person in generation
+Forms: ilxt’amax “great-grandfather (or male relative further back); oldest man” alxt’amax “great-grandmother (or female relative further back); oldest woman” imlxt’amax “your great-grandfather” [Relatives]
+Notes: This word refers to ancestors from the fourth generation back, that is, starting with one’s great-grandpar- ents.
+See also: -lxt, -lxdmax
+
+-LXUÒ [n] dipnet
+
+-a-gi-LXUÒ [vb] fish with dipnet for, dipnet for
+Forms: chaigilxu¬ “he is dipnetting for it[i-] (fish)” chagilxu¬ “he is dipnetting for it[a-] (fish)” ichaigilxu¬chk “he just dipnetted for it[i-]” ichaigit¬xu¬chk “he just dipnetted for it[i-] (coming this way)” nichaigilxu¬chk “he dipnetted for it[i-] (last season, several times)” nichaigit¬xu¬chk “he dipnetted for it[i-] (last week, several times)” [Dyk]
+See also: a-qilxu¬, wa-lxu¬, a-lxu¬at
+
+-a-xi-LXUÒ [vb] dipnet, fish by dipnetting
+Forms: alaixilxu¬a “he will dipnet” alaixitlxu¬a “he will dipnet (distant future)” aixilxu¬ “he is dipnetting” igaixilxu¬chk “he just dipnetted” iganxilxu¬chk “I just dipnetted” nigaixit¬xu¬ “he was dipnetting (last week)” [Dyk]
+Examples: Kushtk alanxilxu¬ama. “I’ll go dipnetting before breakfast.” [Dyk]
+See also: a-qilxu¬, wa-lxu¬, a-lxu¬at

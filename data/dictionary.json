@@ -5521,6 +5521,45 @@
       "i-k'ilxamnił, i-lxamnił"
     ]
   },
+  "-LXUŁ": {
+    "root": "-LXUŁ",
+    "partOfSpeech": "n",
+    "definition": "dipnet"
+  },
+  "-a-gi-LXUŁ": {
+    "root": "-a-gi-LXUŁ",
+    "partOfSpeech": "vb",
+    "definition": "fish with dipnet for, dipnet for",
+    "forms": [
+      {
+        "kiksht": "chaigilxuł",
+        "english": "he is dipnetting for it[i-] (fish)"
+      },
+      {
+        "kiksht": "chagilxuł",
+        "english": "he is dipnetting for it[a-] (fish)"
+      },
+      {
+        "kiksht": "ichaigilxułchk",
+        "english": "he just dipnetted for it[i-]"
+      },
+      {
+        "kiksht": "ichaigitłxułchk",
+        "english": "he just dipnetted for it[i-] (coming this way)"
+      },
+      {
+        "kiksht": "nichaigilxułchk",
+        "english": "he dipnetted for it[i-] (last season, several times)"
+      },
+      {
+        "kiksht": "nichaigitłxułchk",
+        "english": "he dipnetted for it[i-] (last week, several times) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-qilxuł, wa-lxuł, a-lxułat"
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -5814,6 +5853,46 @@
         "kiksht": "gadalimałxixit",
         "english": "they fell into the water [WTI.4.2]"
       }
+    ]
+  },
+  "-a-xi-LXUŁ": {
+    "root": "-a-xi-LXUŁ",
+    "partOfSpeech": "vb",
+    "definition": "dipnet, fish by dipnetting",
+    "forms": [
+      {
+        "kiksht": "alaixilxuła",
+        "english": "he will dipnet"
+      },
+      {
+        "kiksht": "alaixitlxuła",
+        "english": "he will dipnet (distant future)"
+      },
+      {
+        "kiksht": "aixilxuł",
+        "english": "he is dipnetting"
+      },
+      {
+        "kiksht": "igaixilxułchk",
+        "english": "he just dipnetted"
+      },
+      {
+        "kiksht": "iganxilxułchk",
+        "english": "I just dipnetted"
+      },
+      {
+        "kiksht": "nigaixitłxuł",
+        "english": "he was dipnetting (last week) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Kushtk alanxilxułama.",
+        "english": "I'll go dipnetting before breakfast. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-qilxuł, wa-lxuł, a-lxułat"
     ]
   },
   "-a-xl- G̲AYA": {
@@ -11622,6 +11701,83 @@
     ],
     "notes": [
       "Refers to a refusal to answer or respond because the other is con- sidered unreasonable, not out of fear. This is undoubtedly a compound stem, but it is not yet clear what its analysis is."
+    ]
+  },
+  "-lxdmax": {
+    "root": "-lxdmax",
+    "partOfSpeech": "n",
+    "definition": "ancestors beyond the great-grandparent generation",
+    "forms": [
+      {
+        "kiksht": "ichlxdmax",
+        "english": "my male ances- tors"
+      },
+      {
+        "kiksht": "aglxdmax",
+        "english": "my female ances- tors"
+      },
+      {
+        "kiksht": "iłglxdmax, itglxdmax",
+        "english": "my an- cestors (male and female) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-lxt, i-lxdmaxix, -lxt'amax"
+    ]
+  },
+  "-lxt": {
+    "root": "-lxt",
+    "partOfSpeech": "n",
+    "definition": "older sibling, older brother, older sister",
+    "forms": [
+      {
+        "kiksht": "(w)ichlxt",
+        "english": "my older brother"
+      },
+      {
+        "kiksht": "(w)ichalxt",
+        "english": "her older brother"
+      },
+      {
+        "kiksht": "(w)agalxt",
+        "english": "her older sister"
+      },
+      {
+        "kiksht": "iłgalxtksh",
+        "english": "her older siblings [Dyk]"
+      },
+      {
+        "kiksht": "alxt",
+        "english": "older brother! [rarely used] [Relatives]"
+      }
+    ],
+    "seeAlso": [
+      "i-lxwt, -lxdmax"
+    ]
+  },
+  "-lxt'amax {-lxt'amax}": {
+    "root": "-lxt'amax {-lxt'amax}",
+    "partOfSpeech": "i¬-",
+    "definition": "great- grandparent, ancestor, oldest person in generation",
+    "forms": [
+      {
+        "kiksht": "ilxt'amax",
+        "english": "great-grandfather (or male relative further back); oldest man"
+      },
+      {
+        "kiksht": "alxt'amax",
+        "english": "great-grandmother (or female relative further back); oldest woman"
+      },
+      {
+        "kiksht": "imlxt'amax",
+        "english": "your great-grandfather [Relatives]"
+      }
+    ],
+    "notes": [
+      "This word refers to ancestors from the fourth generation back, that is, starting with one's great-grandpar- ents."
+    ],
+    "seeAlso": [
+      "-lxt, -lxdmax"
     ]
   },
   "-líunan": {
@@ -50289,6 +50445,47 @@
       "-LXAM"
     ]
   },
+  "i-lxdmaxix": {
+    "root": "i-lxdmaxix",
+    "partOfSpeech": "n",
+    "definition": "grizzly bear",
+    "forms": [
+      {
+        "kiksht": "idlxdmaxix",
+        "english": "grizzly bears [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-lxdmáx"
+    ]
+  },
+  "i-lxix": {
+    "root": "i-lxix",
+    "partOfSpeech": "n",
+    "definition": "native country, native land, home",
+    "forms": [
+      {
+        "kiksht": "ichalxix",
+        "english": "her native country, home [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "wi-lx"
+    ]
+  },
+  "i-lxmix": {
+    "root": "i-lxmix",
+    "partOfSpeech": "n",
+    "definition": "white elk"
+  },
+  "i-lxmít": {
+    "root": "i-lxmít",
+    "partOfSpeech": "n",
+    "definition": "lair, medicine dancing platform [Dyk], bed [GT, MMc 6/4/ 98]",
+    "notes": [
+      "In the first meaning, it refers to place where you sleep on the floor; it would not be used to a place where you sleep in a regular bed. In the second meaning, it refers to a small round platform used for dancing by the leader of a medicine sing."
+    ]
+  },
   "i-láitk": {
     "root": "i-láitk",
     "partOfSpeech": "n",
@@ -58989,6 +59186,39 @@
         "kiksht": "walxáyumax",
         "english": "seals [Dyk]"
       }
+    ]
+  },
+  "wa-lxi": {
+    "root": "wa-lxi",
+    "partOfSpeech": "n",
+    "definition": "dipnetting place [Dyk], place to catch animals [PK], fishing place along river belonging to famiy lineage [GT, MMc 6/4/98]",
+    "forms": [
+      {
+        "kiksht": "idelximax",
+        "english": "dipnetting places [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Shan ałalxi?",
+        "english": "Whose place? [Dyk]"
+      }
+    ]
+  },
+  "wa-lxiqsht": {
+    "root": "wa-lxiqsht",
+    "partOfSpeech": "n",
+    "definition": "water bug, louse found on owls and chickens",
+    "seeAlso": [
+      "wa-lxiqst"
+    ]
+  },
+  "wa-lxiqst": {
+    "root": "wa-lxiqst",
+    "partOfSpeech": "n",
+    "definition": "water bug, louse found on owls and chickens",
+    "seeAlso": [
+      "wa-lxiqsht"
     ]
   },
   "wi-'ísh": {
