@@ -6009,6 +6009,131 @@
       }
     ]
   },
+  "-MINA-kw": {
+    "root": "-MINA-kw",
+    "partOfSpeech": "vb",
+    "definition": "wash someone's face",
+    "forms": [
+      {
+        "kiksht": "aminakwa!",
+        "english": "wash her face!"
+      },
+      {
+        "kiksht": "iminakwa!",
+        "english": "wash his face! [PK 7/17/ 52]"
+      },
+      {
+        "kiksht": "chiumínankwł",
+        "english": "he is washing his (someone else's) face"
+      },
+      {
+        "kiksht": "chuminakwt",
+        "english": "he has her face washed"
+      },
+      {
+        "kiksht": "chialmínankwł",
+        "english": "he is washing his face in it[a-]; he is washing his face for her"
+      },
+      {
+        "kiksht": "ik'íminankwł",
+        "english": "he is washing someone's face"
+      },
+      {
+        "kiksht": "yumínakux",
+        "english": "his face has been washed"
+      },
+      {
+        "kiksht": "chianmínankwł",
+        "english": "he is washing her face with it[i-] (e.g., soap)"
+      },
+      {
+        "kiksht": "chainmínankwł",
+        "english": "he is washing his (someone else's) face with it[a-]"
+      },
+      {
+        "kiksht": "with -x- reflexive: ixminankwł",
+        "english": "he is washing his (own) face"
+      },
+      {
+        "kiksht": "aixenmínakwł",
+        "english": "he is washing his (own) face with it[a-]"
+      },
+      {
+        "kiksht": "yaxanmínankwł",
+        "english": "he is washing his (own) face in it[a-] (e.g., washbasin)"
+      },
+      {
+        "kiksht": "chnxnmínankwł",
+        "english": "he is washing his (own) face with me"
+      },
+      {
+        "kiksht": "qixenmínankwł",
+        "english": "someone is washing himself with it[i-]"
+      },
+      {
+        "kiksht": "iqixenmínakwa",
+        "english": "someone washed his/her own face with it[i-] [Dyk]"
+      }
+    ],
+    "notes": [
+      "This verb may be used with relational prefix -n- to designate the thing with which one washes (soap, etc.). The pronoun prefix that imme- diately precedes -n- then represents the person whose face is washed, while the direct object pronoun rep- resents the thing with which the washing is done. In all other cases, the direct object pronoun represents the person whose face is washed."
+    ],
+    "seeAlso": [
+      "i-k'íminankwł"
+    ]
+  },
+  "-MISHTX̲": {
+    "root": "-MISHTX̲",
+    "partOfSpeech": "vb",
+    "definition": "borrow, lend",
+    "forms": [
+      {
+        "kiksht": "anailmishtxa",
+        "english": "I will lend it[a-] to him"
+      },
+      {
+        "kiksht": "chiumishtxalal",
+        "english": "he is lend- ing it[i-]"
+      },
+      {
+        "kiksht": "ik'ímishtxalal",
+        "english": "he is lend- ing"
+      },
+      {
+        "kiksht": "yumistxix",
+        "english": "it[i-] has been loaned out"
+      },
+      {
+        "kiksht": "anaixmishtxa",
+        "english": "I will borrow it[a-] from him"
+      },
+      {
+        "kiksht": "ixelmíshtxt",
+        "english": "he is borrowing it[i-], has it bor- rowed"
+      },
+      {
+        "kiksht": "ixelk'imshtxalal",
+        "english": "he is bor- rowing [Dyk]"
+      },
+      {
+        "kiksht": "inaixmishtx",
+        "english": "I bor- rowed it[a-] from him [GT, MMc 1/ 14/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Anixmishtxama iq'iyuxt iyagalxix.",
+        "english": "I will go borrow his penis from the old man. [WTI.1c.1]"
+      },
+      {
+        "kiksht": "Naqi chi pu łkala aminelmishtxa imigalxix?",
+        "english": "Friend, would you not lend me your penis? [WTI.1c.1]"
+      }
+    ],
+    "notes": [
+      "This root means \"borrow\" when used with the relational prefix - x- (\"from\") and \"lend\" when used with the relational prefix -l- (\"to\"), as in the first and second examples above respectively."
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -17395,6 +17520,24 @@
       "Reflexive form of -k-mi-tłq. See -k-mi-tłq."
     ]
   },
+  "-x-MINA-kw": {
+    "root": "-x-MINA-kw",
+    "partOfSpeech": "n",
+    "definition": "wash one's face",
+    "forms": [
+      {
+        "kiksht": "ixmínankwł",
+        "english": "he's washing his face"
+      },
+      {
+        "kiksht": "igixmínakwa",
+        "english": "he washed his face [GT, MMc 6/4/98]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'íminankwł, i- qixnmínankwł ipéłx"
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -19752,6 +19895,35 @@
     "root": "-xl-LA-kw",
     "partOfSpeech": "vb",
     "definition": "move about in itself, mix up"
+  },
+  "-xl-MINA-kw": {
+    "root": "-xl-MINA-kw",
+    "partOfSpeech": "vb",
+    "definition": "wash one's face with",
+    "forms": [
+      {
+        "kiksht": "qixenminankwł",
+        "english": "someone is washing his face with it[i-] [Dyk]"
+      }
+    ]
+  },
+  "-xl-MIQ'UT": {
+    "root": "-xl-MIQ'UT",
+    "partOfSpeech": "vb",
+    "definition": "eat at another's expense",
+    "forms": [
+      {
+        "kiksht": "nxélmiq'ut",
+        "english": "I am eating at another's expense"
+      },
+      {
+        "kiksht": "inxélmiq'ut",
+        "english": "I ate at another's expense [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qímiq'ut"
+    ]
   },
   "-xl-YA-mit": {
     "root": "-xl-YA-mit",
@@ -23538,6 +23710,11 @@
     "seeAlso": [
       "-MT"
     ]
+  },
+  "a-mísg̲ag̲a": {
+    "root": "a-mísg̲ag̲a",
+    "partOfSpeech": "n",
+    "definition": "robin"
   },
   "a-łashqw'imliq": {
     "root": "a-łashqw'imliq",
@@ -54768,6 +54945,30 @@
       }
     ]
   },
+  "i-mísht": {
+    "root": "i-mísht",
+    "partOfSpeech": "n",
+    "definition": "mouth, snout, pursed lips [Dyk], beak (of bird) (not snout) , pouting [GT 6/5/98]",
+    "forms": [
+      {
+        "kiksht": "imist",
+        "english": "small beak"
+      },
+      {
+        "kiksht": "idmishtkaksh",
+        "english": "beaks [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Imísht chiux.",
+        "english": "He's pout- ing. [GT 6/5/98]"
+      }
+    ],
+    "seeAlso": [
+      "i-gwálamisht"
+    ]
+  },
   "i-ładat": {
     "root": "i-ładat",
     "partOfSpeech": "n",
@@ -55339,6 +55540,22 @@
     ],
     "seeAlso": [
       "-LALAM, id-yułmaxlálamax"
+    ]
+  },
+  "id-minhawa": {
+    "root": "id-minhawa",
+    "partOfSpeech": "n",
+    "definition": "plant with smooth leaves and white berries that acts like poison oak [Dyk], poison oak [HS} wa-mípchk [n] driftwood"
+  },
+  "id-miqshu": {
+    "root": "id-miqshu",
+    "partOfSpeech": "n",
+    "definition": "facial hair, beard, mustache",
+    "forms": [
+      {
+        "kiksht": "itgamiqshumax",
+        "english": "their mus- taches [WTIV.4.3]"
+      }
     ]
   },
   "id-máł": {
@@ -63675,6 +63892,46 @@
     "definition": "go!",
     "seeAlso": [
       "-i"
+    ]
+  },
+  "mitqmit": {
+    "root": "mitqmit",
+    "partOfSpeech": "vb",
+    "definition": "you see it[i-]",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "mitxt": {
+    "root": "mitxt",
+    "partOfSpeech": "vb",
+    "definition": "you did it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "mitxulal": {
+    "root": "mitxulal",
+    "partOfSpeech": "vb",
+    "definition": "you were doing it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "miuxulal": {
+    "root": "miuxulal",
+    "partOfSpeech": "vb",
+    "definition": "you are doing it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "miúkłt": {
+    "root": "miúkłt",
+    "partOfSpeech": "vb",
+    "definition": "you are taking it[i-] along",
+    "seeAlso": [
+      "-KŁ"
     ]
   },
   "qengi": {

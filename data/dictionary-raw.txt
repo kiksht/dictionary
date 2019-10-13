@@ -18021,3 +18021,57 @@ Forms: achialmˆmduma “he will pay it[i-] (e.g., idala) to her as a doctor’s
 
 i¬-mˆn [n] oil organs in fish
 Notes: Refers to 2 fat, long and white roe-like organs in fish, from which fish grease and oil can be obtained. [Dyk] Used to be dried and cooked and eaten. [MMc 12/30/97] People dried salmon and then put in pit with covering (of leaves or tulis tightly woven) for storage. [GT] -MINA wash face
+
+
+
+
+
+
+
+-MINA-kw [vb] wash someone’s face
+Forms: aminakwa! “wash her face!” iminakwa! “wash his face!” [PK 7/17/ 52] chiumˆnankw¬ “he is washing his (someone else’s) face” chuminakwt “he has her face washed” chialmˆnankw¬ “he is washing his face in it[a-]; he is washing his face for her” ik’ˆminankw¬ “he is washing someone’s face” yumˆnakux “his face has been washed” chianmˆnankw¬ “he is washing her face with it[i-] (e.g., soap)” chainmˆnankw¬ “he is washing his (someone else’s) face with it[a-]” with -x- reflexive: ixminankw¬ “he is washing his (own) face” aixenmˆnakw¬ “he is washing his (own) face with it[a-]” yaxanmˆnankw¬ “he is washing his (own) face in it[a-] (e.g., washbasin)” chnxnmˆnankw¬ “he is washing his (own) face with me” qixenmˆnankw¬ “someone is washing himself with it[i-]” iqixenmˆnakwa “someone washed his/her own face with it[i-]” [Dyk]
+Notes: This verb may be used with relational prefix -n- to designate the thing with which one washes (soap, etc.). The pronoun prefix that imme- diately precedes -n- then represents the person whose face is washed, while the direct object pronoun rep- resents the thing with which the washing is done. In all other cases, the direct object pronoun represents the person whose face is washed.
+See also: i-k’ˆminankw¬
+
+-x-MINA-kw [n] wash one’s face
+Forms: ixmˆnankw¬ “he’s washing his face” igixmˆnakwa “he washed his face” [GT, MMc 6/4/98]
+See also: i-k’ˆminankw¬, i- qixnmˆnankw¬ ipé¬x
+
+-xl-MINA-kw [vb] wash one’s face with
+Forms: qixenminankw¬ “someone is washing his face with it[i-]” [Dyk]
+
+id-minhawa [n] plant with smooth leaves and white berries that acts like poison oak [Dyk], poison oak [HS} wa-mˆpchk [n] driftwood
+
+id-miqshu [n] facial hair, beard, mustache
+Forms: itgamiqshumax “their mus- taches” [WTIV.4.3]
+
+-xl-MIQ’UT [vb] eat at another’s expense
+Forms: nxélmiq’ut “I am eating at another’s expense” inxélmiq’ut “I ate at another’s expense” [Dyk]
+See also: i-qˆmiq’ut
+
+a-mˆs©a©a [n] robin
+
+i-mˆsht [n] mouth, snout, pursed lips [Dyk], beak (of bird) (not snout) , pouting [GT 6/5/98]
+Forms: imist “small beak” idmishtkaksh “beaks” [Dyk]
+Examples: Imˆsht chiux. “He’s pout- ing.” [GT 6/5/98]
+See also: i-gwÅlamisht
+
+-MISHT ̨ [vb] borrow, lend
+Forms: anailmishtxa “I will lend it[a-] to him” chiumishtxalal “he is lend- ing it[i-]” ik’ˆmishtxalal “he is lend- ing” yumistxix “it[i-] has been loaned out” anaixmishtxa “I will borrow it[a-] from him” ixelmˆshtxt “he is borrowing it[i-], has it bor- rowed” ixelk’imshtxalal “he is bor- rowing” [Dyk] inaixmishtx “I bor- rowed it[a-] from him” [GT, MMc 1/ 14/99]
+Examples: Anixmishtxama iq’iyuxt iyagalxix. “I will go borrow his penis from the old man.” [WTI.1c.1] Naqi chi pu ¬kala aminelmishtxa imigalxix? “Friend, would you not lend me your penis?” [WTI.1c.1]
+Notes: This root means “borrow” when used with the relational prefix - x- (“from”) and “lend” when used with the relational prefix -l- (“to”), as in the first and second examples above respectively.
+
+mitqmit [vb] you see it[i-]
+See also: -QMIT
+
+mitxt [vb] you did it[i-]
+See also: - ̨
+
+mitxulal [vb] you were doing it[i-]
+See also: - ̨
+
+mi ̈k¬t [vb] you are taking it[i-] along
+See also: -KÒ
+
+miuxulal [vb] you are doing it[i-]
+See also: - ̨
