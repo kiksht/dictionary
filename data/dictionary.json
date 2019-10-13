@@ -3179,6 +3179,74 @@
       "-gm-K'INWA-pa, -x-gm- K'INWA-pa, i-kmak'inwalpł"
     ]
   },
+  "-K'ITI": {
+    "root": "-K'ITI",
+    "partOfSpeech": "vb",
+    "definition": "clothe, dress, put clothes on, dress up",
+    "forms": [
+      {
+        "kiksht": "achukw'idia",
+        "english": "he will clothe her"
+      },
+      {
+        "kiksht": "ixk'idit",
+        "english": "he has himself clothed"
+      },
+      {
+        "kiksht": "yuk'itit",
+        "english": "he is clothed"
+      },
+      {
+        "kiksht": "chiuk'idenił",
+        "english": "he is putting clothes on him, dress- ing him"
+      },
+      {
+        "kiksht": "chłuk'idenił",
+        "english": "he is clothing someone [Dyk]"
+      },
+      {
+        "kiksht": "gachiuk'idi",
+        "english": "he clothed him [WTI.18.9]"
+      },
+      {
+        "kiksht": "amyukw'ídia",
+        "english": "you dress him up"
+      },
+      {
+        "kiksht": "aqukw'idia",
+        "english": "one will dress her up"
+      },
+      {
+        "kiksht": "inukw'idia",
+        "english": "I dressed her up [GT, MMc 6/4/98]"
+      },
+      {
+        "kiksht": "nyukw'idnił",
+        "english": "I'm dressing him"
+      },
+      {
+        "kiksht": "nanyukw'ídia",
+        "english": "I dressed him [GT 1/12/99]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'idenił, i-k'itit"
+    ]
+  },
+  "-K'ITK": {
+    "root": "-K'ITK",
+    "partOfSpeech": "vb",
+    "definition": "keep",
+    "forms": [
+      {
+        "kiksht": "amckłk'itka",
+        "english": "you folks will keep them [WTIV.2.3]"
+      }
+    ],
+    "seeAlso": [
+      "-TK, -KITK"
+    ]
+  },
   "-KA": {
     "root": "-KA",
     "partOfSpeech": "vb",
@@ -7096,6 +7164,35 @@
         "kiksht": "ik'ik'linanmat",
         "english": "(larger) tipi pole [HS 1953,1954]"
       }
+    ]
+  },
+  "-k'íshtx": {
+    "root": "-k'íshtx",
+    "partOfSpeech": "adj",
+    "definition": "jealous (of younger sibling), acting up (out of jealousy of younger sibling)",
+    "forms": [
+      {
+        "kiksht": "ik'íshtx",
+        "english": "a boy is acting up (because mother is pregnant) [MMc]; he is a child whose mother is preg- nant [Dyk]"
+      },
+      {
+        "kiksht": "ak'íshtx",
+        "english": "a girl is acting up (because her mother is pregnant) [MMc]; she is a child whose mother is pregnant [Dyk]"
+      },
+      {
+        "kiksht": "enk'ishtx",
+        "english": "I am a child whose mother is pregnant"
+      },
+      {
+        "kiksht": "emk'ishtx",
+        "english": "you are a child whose mother is pregnant [Dyk]"
+      }
+    ],
+    "notes": [
+      "Might be said of a young child acting up because of the advent of a new baby, according to Madeline McInturff. Dyk translates this simply as \"child of a mother who is again pregnant. See the forms given."
+    ],
+    "seeAlso": [
+      "-SHTX̲W"
     ]
   },
   "-k-CHA": {
@@ -42642,6 +42739,105 @@
       "-SHIM"
     ]
   },
+  "i-k'ishtxwamat": {
+    "root": "i-k'ishtxwamat",
+    "partOfSpeech": "n",
+    "definition": "something to pack with (for instance, rope)",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "i-k'itim": {
+    "root": "i-k'itim",
+    "partOfSpeech": "n",
+    "definition": "selling",
+    "forms": [
+      {
+        "kiksht": "iyak'itim",
+        "english": "he is a seller [Dyk]"
+      }
+    ]
+  },
+  "i-k'itit": {
+    "root": "i-k'itit",
+    "partOfSpeech": "n",
+    "definition": "clothes, garment",
+    "forms": [
+      {
+        "kiksht": "itk'itit",
+        "english": "garments [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "dałál itk'itit",
+        "english": "black clothes, mourning clothes [AF 3/1/ 53]"
+      },
+      {
+        "kiksht": "Awikítk idmik'itit ichmkałba.",
+        "english": "Put your clothes in the basket."
+      }
+    ],
+    "seeAlso": [
+      "-K'ITI"
+    ]
+  },
+  "i-k'itxwílchk": {
+    "root": "i-k'itxwílchk",
+    "partOfSpeech": "n",
+    "definition": "getting ready, pre- paring",
+    "forms": [
+      {
+        "kiksht": "iyak'itxwílchk",
+        "english": "he is one who gets things ready [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-TX(WI)-chkw"
+    ]
+  },
+  "i-k'itłektłek": {
+    "root": "i-k'itłektłek",
+    "partOfSpeech": "n",
+    "definition": "burrowing, wearing out",
+    "forms": [
+      {
+        "kiksht": "iyak'itłektłek",
+        "english": "he is a bur- rower; he is a wearer out of clothes [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tłek"
+    ]
+  },
+  "i-k'itłgup": {
+    "root": "i-k'itłgup",
+    "partOfSpeech": "n",
+    "definition": "exploding, slitting open",
+    "forms": [
+      {
+        "kiksht": "ichak'itłgup",
+        "english": "her slitting open; she is one who slits things open; it[a-] is something that ex- plodes, it is an explosive"
+      },
+      {
+        "kiksht": "idak'itłgup",
+        "english": "they are explosives"
+      },
+      {
+        "kiksht": "ichak'itłguptłgup",
+        "english": "she is one who explodes (for instance, a woman) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Daxka ngi itg̲amachx idak'itłgup.",
+        "english": "The cartridges are self- shooting. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tłgup"
+    ]
+  },
   "i-k'iładnił": {
     "root": "i-k'iładnił",
     "partOfSpeech": "n",
@@ -42896,6 +43092,20 @@
     ],
     "seeAlso": [
       "-NUŁM, i-dak'inułmax"
+    ]
+  },
+  "i-k'íshmanix": {
+    "root": "i-k'íshmanix",
+    "partOfSpeech": "n",
+    "definition": "sign",
+    "forms": [
+      {
+        "kiksht": "idenshak'íshmanix",
+        "english": "our signs, the signs we believe in [GT 1/ 14/99]"
+      }
+    ],
+    "notes": [
+      "Refers, for instance, to signs foretelling future, such as a rainbow appearing before the birth of a child. i-k'ishmanixxat [n] sign, indicator Notes: Could refer, for instance, to rocks or sticks marking a trial, or a sign of a coming season."
     ]
   },
   "i-k'íwulal": {
@@ -47392,6 +47602,20 @@
     "partOfSpeech": "n",
     "definition": "feather worn on head or hat, either stuck or sewn on",
     "forms": []
+  },
+  "it-k'itg̲iwamtg̲iwam": {
+    "root": "it-k'itg̲iwamtg̲iwam",
+    "partOfSpeech": "n",
+    "definition": "bewitching",
+    "forms": [
+      {
+        "kiksht": "idiak'itg̲iwamtg̲iwam",
+        "english": "he who bewitches people [PK 8/31/55]"
+      }
+    ],
+    "seeAlso": [
+      "tg̲iwam"
+    ]
   },
   "it-k'iława": {
     "root": "it-k'iława",
