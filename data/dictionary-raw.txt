@@ -19830,4 +19830,32 @@ Notes: Refers to making a fire by friction with a fire drill.
 
 it-pshudit [n] sturgeon line, large heavy fish line, mostly used for stur- geon
 
--PSHU [vb] hide
+
+
+
+
+
+
+
+
+
+
+-PSHU-t [vb] hide [transitive]
+Forms: ganipshulit “I hide him (as every day)” gachupshulit “he was in the habit of hiding her” gachupshut “he hid her” iciaxpsutam “he went to hide him from her [“talking small”]” chiagelpshut “he has him hidden for her” chupshut “he has hidden her, has her hid” niupshut “I have hidden him, have him hid” chupshulit “he is hiding her” giupshulit “she is hidiing him” ichupshut “he hid her” igiupshut “he hid her” galixpshut “he hid himself” galixpshulit “he is in the habit of hiding himself” ixanxpshut “he has himself hidden from me” txaxpshulit “they are hiding from her; we 2 are hiding from her” uxaxapshulit “they are hiding from each other (one group hiding from another group)” ¬xaxapshuiwalit “they are hiding from each other (each one hiding from everyone else)” igixanxpsh ̈t “he hid himself from me” anxpshuda “I’ll hide my- self” ixpshulit “he is hiding himself” shxpshulit “they 2 are hiding them- selves” uxapshulit “they are hiding themselves” uxapshuiwalit “they are hiding themselves one at a time” ixpshudamt “he is going there to hide himself” igixps ̈t “he hid him- self behind something small” inxpshut “I hid myself” iguxwapshuiyut “they hid themselves one at a time” iguxwapshuiwalitimchk “they hid themselves, each one, all over (as birds)” yupshutix “he is hidden (as a man in brush; implies someone else put him there, i.e., “he has been put into hiding”)” shtupshutix “they 2 are hidden” dupshutix “they are hidden” dupshuiyutix “they are hidden (here and there)” aqshxamshxpshuda “someone will hide from you all; we will hide from you all” [Dyk] alixpshuda “he will hide (himself)” anyupshuda “I will hide it[i-].” [MMc 12/22/97]
+Examples: Ga¬iuk¬ i¬Åna©un, gachˆupshut it’Åxwachkpa. “He took his sturgeon with him, he hid it in the bushes.” [WTI.1d.2] Ixpsh ̈t aqÅbuditba. “He’s hiding (himself) by the door.” Inyupsh ̈t idala. “I hid the money.” [MMc 12/22/97]
+See also: i-qapshulit, i-k’ipshulit, iqapsh ̈lidimxat
+
+-xl-PSHU-t [vb] murder, kill secretly
+Forms: aq¬xitpshuda “someone will murder them (a-)” ichaxelpsh ̈t “he murdered her, killed her secretly” axelpshutix “she has been secretly killed” [Dyk]
+
+i-pt¬én [n] saliva, spittle
+Forms: iyapt¬én “he has his spit on something”
+
+i-pt¬xamam [n] bitter taste
+Forms: ichpt¬xamam “I am bitter”
+Notes: This refers only to bitterness of taste, not bitter feeling [HS].
+
+-PU [vb] close, shut
+
+-a-x-PU [vb] enclose, close it (door)
+Forms: “enclose”: chaxb ̈t “he has it[a-] enclosed” chaixb ̈t “he has it[i- ] enclosed” ichaixbu “he enclosed it[i-]” igaixbu “she enclosed it[i-]” nigaixbu “she enclosed it[i-] (last season)” nigaixatbu “she enclosed it[i-] (last week)” [Dyk] aixb ̈! “shut him out!” [PK 7/12/56] “close it”: anxbuni¬ “I am closing it” aixbuni¬ “he is closing it” aixb ̈t “he has it closed” aixatbut “he had it closed” igaixbu “he closed it” nigaixbu “he closed it (last season)” nigaixatbu “he closed it (last week)” [Dyk] aixatbuix “close it (door)” [PK 7/12/56] [The -a- in these latter examples may be a fixed pronoun representing aqÅbudit “door.”]

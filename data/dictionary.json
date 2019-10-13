@@ -7573,10 +7573,173 @@
     "partOfSpeech": "vb",
     "definition": "make fire with fire drill"
   },
-  "-PSHU": {
-    "root": "-PSHU",
+  "-PSHU-t": {
+    "root": "-PSHU-t",
     "partOfSpeech": "vb",
-    "definition": "hide"
+    "definition": "hide [transitive]",
+    "forms": [
+      {
+        "kiksht": "ganipshulit",
+        "english": "I hide him (as every day)"
+      },
+      {
+        "kiksht": "gachupshulit",
+        "english": "he was in the habit of hiding her"
+      },
+      {
+        "kiksht": "gachupshut",
+        "english": "he hid her"
+      },
+      {
+        "kiksht": "iciaxpsutam",
+        "english": "he went to hide him from her [\"talking small]\""
+      },
+      {
+        "kiksht": "chiagelpshut",
+        "english": "he has him hidden for her"
+      },
+      {
+        "kiksht": "chupshut",
+        "english": "he has hidden her, has her hid"
+      },
+      {
+        "kiksht": "niupshut",
+        "english": "I have hidden him, have him hid"
+      },
+      {
+        "kiksht": "chupshulit",
+        "english": "he is hiding her"
+      },
+      {
+        "kiksht": "giupshulit",
+        "english": "she is hidiing him"
+      },
+      {
+        "kiksht": "ichupshut",
+        "english": "he hid her"
+      },
+      {
+        "kiksht": "igiupshut",
+        "english": "he hid her"
+      },
+      {
+        "kiksht": "galixpshut",
+        "english": "he hid himself"
+      },
+      {
+        "kiksht": "galixpshulit",
+        "english": "he is in the habit of hiding himself"
+      },
+      {
+        "kiksht": "ixanxpshut",
+        "english": "he has himself hidden from me"
+      },
+      {
+        "kiksht": "txaxpshulit",
+        "english": "they are hiding from her; we 2 are hiding from her"
+      },
+      {
+        "kiksht": "uxaxapshulit",
+        "english": "they are hiding from each other (one group hiding from another group)"
+      },
+      {
+        "kiksht": "łxaxapshuiwalit",
+        "english": "they are hiding from each other (each one hiding from everyone else)"
+      },
+      {
+        "kiksht": "igixanxpshút",
+        "english": "he hid himself from me"
+      },
+      {
+        "kiksht": "anxpshuda",
+        "english": "I'll hide my- self"
+      },
+      {
+        "kiksht": "ixpshulit",
+        "english": "he is hiding himself"
+      },
+      {
+        "kiksht": "shxpshulit",
+        "english": "they 2 are hiding them- selves"
+      },
+      {
+        "kiksht": "uxapshulit",
+        "english": "they are hiding themselves"
+      },
+      {
+        "kiksht": "uxapshuiwalit",
+        "english": "they are hiding themselves one at a time"
+      },
+      {
+        "kiksht": "ixpshudamt",
+        "english": "he is going there to hide himself"
+      },
+      {
+        "kiksht": "igixpsút",
+        "english": "he hid him- self behind something small"
+      },
+      {
+        "kiksht": "inxpshut",
+        "english": "I hid myself"
+      },
+      {
+        "kiksht": "iguxwapshuiyut",
+        "english": "they hid themselves one at a time"
+      },
+      {
+        "kiksht": "iguxwapshuiwalitimchk",
+        "english": "they hid themselves, each one, all over (as birds)"
+      },
+      {
+        "kiksht": "yupshutix",
+        "english": "he is hidden (as a man in brush; implies someone else put him there, i.e., \"he has been put into hiding"
+      },
+      {
+        "kiksht": ")\" shtupshutix",
+        "english": ""
+      },
+      {
+        "kiksht": "shtupshutix",
+        "english": "they 2 are hidden"
+      },
+      {
+        "kiksht": "dupshutix",
+        "english": "they are hidden"
+      },
+      {
+        "kiksht": "dupshuiyutix",
+        "english": "they are hidden (here and there)"
+      },
+      {
+        "kiksht": "aqshxamshxpshuda",
+        "english": "someone will hide from you all; we will hide from you all [Dyk]"
+      },
+      {
+        "kiksht": "alixpshuda",
+        "english": "he will hide (himself)"
+      },
+      {
+        "kiksht": "anyupshuda",
+        "english": "I will hide it[i-]. [MMc 12/22/97]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gałiukł iłánag̲un, gachíupshut it'áxwachkpa.",
+        "english": "He took his sturgeon with him, he hid it in the bushes. [WTI.1d.2]"
+      },
+      {
+        "kiksht": "Ixpshút aqábuditba.",
+        "english": "He's hiding (himself) by the door."
+      },
+      {
+        "kiksht": "Inyupshút idala.",
+        "english": "I hid the money. [MMc 12/22/97]"
+      }
+    ],
+    "seeAlso": [
+      "i-qapshulit, i-k'ipshulit, iqapshúlidimxat"
+    ]
   },
   "-PSNA-qłkw": {
     "root": "-PSNA-qłkw",
@@ -7702,6 +7865,11 @@
         "english": "we 2 will tighten her on us so that she'll stretch [Dyk]"
       }
     ]
+  },
+  "-PU": {
+    "root": "-PU",
+    "partOfSpeech": "vb",
+    "definition": "close, shut"
   },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
@@ -8187,6 +8355,85 @@
       {
         "kiksht": "alamxpshta",
         "english": "you will make fire by twirling sticks [WTIV.4.2]"
+      }
+    ]
+  },
+  "-a-x-PU": {
+    "root": "-a-x-PU",
+    "partOfSpeech": "vb",
+    "definition": "enclose, close it (door)",
+    "forms": [
+      {
+        "kiksht": "",
+        "english": "enclose"
+      },
+      {
+        "kiksht": ": chaxbút",
+        "english": "he has it[a-] enclosed"
+      },
+      {
+        "kiksht": "chaixbút",
+        "english": "he has it[i- ] enclosed"
+      },
+      {
+        "kiksht": "ichaixbu",
+        "english": "he enclosed it[i-]"
+      },
+      {
+        "kiksht": "igaixbu",
+        "english": "she enclosed it[i-]"
+      },
+      {
+        "kiksht": "nigaixbu",
+        "english": "she enclosed it[i-] (last season)"
+      },
+      {
+        "kiksht": "nigaixatbu",
+        "english": "she enclosed it[i-] (last week) [Dyk]"
+      },
+      {
+        "kiksht": "aixbú!",
+        "english": "shut him out! [PK 7/12/56]"
+      },
+      {
+        "kiksht": "",
+        "english": "close it"
+      },
+      {
+        "kiksht": ": anxbunił",
+        "english": "I am closing it"
+      },
+      {
+        "kiksht": "aixbunił",
+        "english": "he is closing it"
+      },
+      {
+        "kiksht": "aixbút",
+        "english": "he has it closed"
+      },
+      {
+        "kiksht": "aixatbut",
+        "english": "he had it closed"
+      },
+      {
+        "kiksht": "igaixbu",
+        "english": "he closed it"
+      },
+      {
+        "kiksht": "nigaixbu",
+        "english": "he closed it (last season)"
+      },
+      {
+        "kiksht": "nigaixatbu",
+        "english": "he closed it (last week) [Dyk]"
+      },
+      {
+        "kiksht": "aixatbuix",
+        "english": "close it (door) [PK 7/12/56]"
+      },
+      {
+        "kiksht": "[The -a- in these latter examples may be a fixed pronoun representing aqábudit",
+        "english": "door.]"
       }
     ]
   },
@@ -22930,6 +23177,25 @@
     ],
     "seeAlso": [
       "-xl-LAX̲, -ŁX̲LM"
+    ]
+  },
+  "-xl-PSHU-t": {
+    "root": "-xl-PSHU-t",
+    "partOfSpeech": "vb",
+    "definition": "murder, kill secretly",
+    "forms": [
+      {
+        "kiksht": "aqłxitpshuda",
+        "english": "someone will murder them (a-)"
+      },
+      {
+        "kiksht": "ichaxelpshút",
+        "english": "he murdered her, killed her secretly"
+      },
+      {
+        "kiksht": "axelpshutix",
+        "english": "she has been secretly killed [Dyk]"
+      }
     ]
   },
   "-xl-YA-mit": {
@@ -59040,6 +59306,31 @@
     "definition": "augur, corkscrew",
     "seeAlso": [
       "it-kipshdamat"
+    ]
+  },
+  "i-ptłén": {
+    "root": "i-ptłén",
+    "partOfSpeech": "n",
+    "definition": "saliva, spittle",
+    "forms": [
+      {
+        "kiksht": "iyaptłén",
+        "english": "he has his spit on something"
+      }
+    ]
+  },
+  "i-ptłxamam": {
+    "root": "i-ptłxamam",
+    "partOfSpeech": "n",
+    "definition": "bitter taste",
+    "forms": [
+      {
+        "kiksht": "ichptłxamam",
+        "english": "I am bitter"
+      }
+    ],
+    "notes": [
+      "This refers only to bitterness of taste, not bitter feeling [HS]."
     ]
   },
   "i-pápakwun": {
