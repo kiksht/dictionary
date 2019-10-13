@@ -7568,6 +7568,53 @@
       }
     ]
   },
+  "-PSNA-qłkw": {
+    "root": "-PSNA-qłkw",
+    "partOfSpeech": "vb",
+    "definition": "put across from edge to edge",
+    "forms": [
+      {
+        "kiksht": "chiupsnaqłkwt",
+        "english": "he has it[i-] put across"
+      },
+      {
+        "kiksht": "ixpsnalqłk",
+        "english": "he is putting himself across"
+      },
+      {
+        "kiksht": "ik'ipsnalqłk",
+        "english": "he is putting (something) across"
+      },
+      {
+        "kiksht": "chiakpsnaqłkwt",
+        "english": "he has it[i-] put across on it[a-]"
+      },
+      {
+        "kiksht": "chialpsnaqłkwt",
+        "english": "he has it[i-] put across in it[a-]"
+      },
+      {
+        "kiksht": "dinpsnaqłkwt, dinpsnaqłkux",
+        "english": "they are put across, have been put across in it[i-]"
+      },
+      {
+        "kiksht": "dinpsnaqłguxlit, dinpsnaqłgulit",
+        "english": "they are being put across in it[i-]"
+      },
+      {
+        "kiksht": "idinpsnaqłguxit, idinpsnaqłkwit",
+        "english": "they were put across in it[i-] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ipsnalqłk"
+    ]
+  },
+  "-PSQŁA": {
+    "root": "-PSQŁA",
+    "partOfSpeech": "vb",
+    "definition": "stretch"
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -8204,6 +8251,52 @@
       {
         "kiksht": "igishgatpqam",
         "english": "he came to enter the house [Dyk]"
+      }
+    ],
+    "notes": [
+      "The initial -a of this stem is dropped after another vowel."
+    ]
+  },
+  "-ashk-u-PQ": {
+    "root": "-ashk-u-PQ",
+    "partOfSpeech": "vb",
+    "definition": "go into the house",
+    "forms": [
+      {
+        "kiksht": "inashkúpq, inshkúpq",
+        "english": "I went into the house"
+      },
+      {
+        "kiksht": "igishkupq",
+        "english": "he went into the house"
+      },
+      {
+        "kiksht": "ashtashgupqa",
+        "english": "they 2 will go into the house"
+      },
+      {
+        "kiksht": "ishkúpqt",
+        "english": "he is going into the house"
+      },
+      {
+        "kiksht": "inshashkupq",
+        "english": "we went into the house"
+      },
+      {
+        "kiksht": "nalishgupqa",
+        "english": "she went into the house"
+      },
+      {
+        "kiksht": "galishgúpq",
+        "english": "he went into the house"
+      },
+      {
+        "kiksht": "gashtashgúpq",
+        "english": "they 2 went into the house"
+      },
+      {
+        "kiksht": "gadashgupq",
+        "english": "they went into the house [Dyk]"
       }
     ],
     "notes": [
@@ -14594,6 +14687,37 @@
       "shilulxix"
     ]
   },
+  "-l-PQ-am": {
+    "root": "-l-PQ-am",
+    "partOfSpeech": "vb",
+    "definition": "bum from, mooch off, go to bum",
+    "forms": [
+      {
+        "kiksht": "nalupqamt",
+        "english": "I am going to bum from her"
+      },
+      {
+        "kiksht": "calupqamnił",
+        "english": "he is going to bum from her (several times)"
+      },
+      {
+        "kiksht": "ichálupqam",
+        "english": "he went to bum off her"
+      },
+      {
+        "kiksht": "ichnitpqam",
+        "english": "he came to bum off me"
+      },
+      {
+        "kiksht": "ichawipqam",
+        "english": "he went to bum off them"
+      },
+      {
+        "kiksht": "inilupqam",
+        "english": "I went to bum off him [Dyk]"
+      }
+    ]
+  },
   "-l-gi-KSHT-im": {
     "root": "-l-gi-KSHT-im",
     "partOfSpeech": "vb",
@@ -15903,6 +16027,28 @@
       }
     ]
   },
+  "-pseq'": {
+    "root": "-pseq'",
+    "partOfSpeech": "n",
+    "definition": "red-tail hawk",
+    "forms": [
+      {
+        "kiksht": "ipséq'",
+        "english": "male red-tail"
+      },
+      {
+        "kiksht": "apséq'",
+        "english": "female red-tail ipseq'uks [Dyk], itpseq'max [JT 8/9/51]"
+      },
+      {
+        "kiksht": "",
+        "english": "red-tail hawks"
+      }
+    ],
+    "seeAlso": [
+      "a-psuq"
+    ]
+  },
   "-płqau": {
     "root": "-płqau",
     "partOfSpeech": "adj",
@@ -16491,6 +16637,50 @@
       "-l-GA-mit, is-qik'amit"
     ]
   },
+  "-s-l-PQ'": {
+    "root": "-s-l-PQ'",
+    "partOfSpeech": "vb",
+    "definition": "fasten in front (for in- stance, a shawl)",
+    "forms": [
+      {
+        "kiksht": "iksílpq'",
+        "english": "she fastened it[i-]"
+      },
+      {
+        "kiksht": "ksilpq'níł",
+        "english": "she is fastening it[i-]"
+      },
+      {
+        "kiksht": "ksílpq't",
+        "english": "she has it[i-] fastened [Dyk]"
+      },
+      {
+        "kiksht": "iksilúpq'",
+        "english": "she fastened it [GT 6/3/ 98, 1/12/99]"
+      }
+    ],
+    "seeAlso": [
+      "-s-l-PQ-ix, is-ilpqtit"
+    ]
+  },
+  "-s-l-PQ-ix": {
+    "root": "-s-l-PQ-ix",
+    "partOfSpeech": "vb",
+    "definition": "be fastened in front (for instance, a shawl)",
+    "forms": [
+      {
+        "kiksht": "silpqix",
+        "english": "it[i-] is fastened in front"
+      },
+      {
+        "kiksht": "salpqix",
+        "english": "it[a-] is fastened in front [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-s-l-PQ'"
+    ]
+  },
   "-s-n-CK'IAX̲TŁ": {
     "root": "-s-n-CK'IAX̲TŁ",
     "partOfSpeech": "vb",
@@ -16937,6 +17127,21 @@
       {
         "kiksht": "ikshikgámidagwa",
         "english": "she pushed him over backward [Dyk]"
+      }
+    ]
+  },
+  "-sh-k-u-PQ": {
+    "root": "-sh-k-u-PQ",
+    "partOfSpeech": "vb",
+    "definition": "go in, enter",
+    "forms": [
+      {
+        "kiksht": "ishgúpqt",
+        "english": "he's going in"
+      },
+      {
+        "kiksht": "ishgúlpq",
+        "english": "he's trying to go in [GT 1/ 15/99]"
       }
     ]
   },
@@ -17423,6 +17628,20 @@
     ],
     "seeAlso": [
       "it-kmalkw'i"
+    ]
+  },
+  "-u-l-PQ": {
+    "root": "-u-l-PQ",
+    "partOfSpeech": "vb",
+    "definition": "set (of sun)",
+    "examples": [
+      {
+        "kiksht": "Gagixnimaxix ulpqtyamt ag̲ałax.",
+        "english": "She directed him towards the setting sun. [WTI.11.2]"
+      }
+    ],
+    "notes": [
+      "Literally means \"go into them.\""
     ]
   },
   "-u-x-ŁADA-pa": {
@@ -24362,6 +24581,11 @@
     "partOfSpeech": "See also: -¬-k-TÒ",
     "definition": "See also: -ł-k-TŁQ"
   },
+  "See also: i-qipsdama": {
+    "root": "See also: i-qipsdama",
+    "partOfSpeech": "See also: i-qipsdama",
+    "definition": "See also: i-qipsdamat"
+  },
   "See also: iqdenitkwchk, iłkshtka": {
     "root": "See also: iqdenitkwchk, iłkshtka",
     "partOfSpeech": "See also: iqdenitkwchk, i¬kshtka",
@@ -26760,6 +26984,22 @@
     "root": "a-piwał",
     "partOfSpeech": "n",
     "definition": "juniper"
+  },
+  "a-pq'unx": {
+    "root": "a-pq'unx",
+    "partOfSpeech": "n",
+    "definition": "bucket",
+    "notes": [
+      "Originally referred to a bucked hollowed out oa a maple root."
+    ]
+  },
+  "a-psiu": {
+    "root": "a-psiu",
+    "partOfSpeech": "n",
+    "definition": "light arrow",
+    "notes": [
+      "An arrow made of rushes tipped with hardwood, mostly used by children or for small game"
+    ]
   },
   "a-pác'akas": {
     "root": "a-pác'akas",
@@ -58619,6 +58859,11 @@
       }
     ]
   },
+  "i-psdamat": {
+    "root": "i-psdamat",
+    "partOfSpeech": "n",
+    "definition": "brace and bit"
+  },
   "i-pápakwun": {
     "root": "i-pápakwun",
     "partOfSpeech": "n",
@@ -70865,6 +71110,11 @@
     "notes": [
       "This is the form of the word found in Dyk; Wishram Texts gives wa-pkal."
     ]
+  },
+  "wa-pqwál": {
+    "root": "wa-pqwál",
+    "partOfSpeech": "n",
+    "definition": "fine feathers, plume feathers"
   },
   "wa-páł": {
     "root": "wa-páł",

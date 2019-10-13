@@ -19731,3 +19731,49 @@ Notes: The initial -a of this stem is dropped after another vowel.
 
 
 
+-ashk-u-PQ [vb] go into the house
+Forms: inashk ̈pq, inshk ̈pq “I went into the house” igishkupq “he went into the house” ashtashgupqa “they 2 will go into the house” ishk ̈pqt “he is going into the house” inshashkupq “we went into the house” nalishgupqa “she went into the house” galishg ̈pq “he went into the house” gashtashg ̈pq “they 2 went into the house” gadashgupq “they went into the house” [Dyk]
+Notes: The initial -a of this stem is dropped after another vowel.
+
+-sh-k-u-PQ [vb] go in, enter
+Forms: ishg ̈pqt “he’s going in” ishg ̈lpq “he’s trying to go in” [GT 1/ 15/99]
+
+-u-l-PQ [vb] set (of sun)
+Examples: Gagixnimaxix ulpqtyamt a©a¬ax. “She directed him towards the setting sun.” [WTI.11.2]
+Notes: Literally means “go into them.”
+
+-l-PQ-am [vb] bum from, mooch off, go to bum
+Forms: nalupqamt “I am going to bum from her” calupqamni¬ “he is going to bum from her (several times)” ichÅlupqam “he went to bum off her” ichnitpqam “he came to bum off me” ichawipqam “he went to bum off them” inilupqam “I went to bum off him” [Dyk]
+
+-s-l-PQ-ix [vb] be fastened in front (for instance, a shawl)
+Forms: silpqix “it[i-] is fastened in front” salpqix “it[a-] is fastened in front” [Dyk]
+See also: -s-l-PQ’
+
+-s-l-PQ’ [vb] fasten in front (for in- stance, a shawl)
+Forms: iksˆlpq’ “she fastened it[i-]” ksilpq’nˆ¬ “she is fastening it[i-]” ksˆlpq’t “she has it[i-] fastened” [Dyk] iksil ̈pq’ “she fastened it” [GT 6/3/ 98, 1/12/99]
+See also: -s-l-PQ-ix, is-ilpqtit
+
+a-pq’unx [n] bucket
+Notes: Originally referred to a bucked hollowed out oa a maple root.
+
+wa-pqwÅl [n] fine feathers, plume feathers
+
+i-psdamat [n] brace and bit
+
+See also: i-qipsdamat
+
+-pseq’ [n] red-tail hawk
+Forms: ipséq’ “male red-tail” apséq’ “female red-tail” ipseq’uks [Dyk], itpseq’max [JT 8/9/51] “red-tail hawks”
+See also: a-psuq
+
+a-psiu [n] sapling, serviceberry
+See also: a-mshtiu
+
+a-psiu [n] light arrow
+Notes: An arrow made of rushes tipped with hardwood, mostly used by children or for small game
+
+-PSNA-q¬kw [vb] put across from edge to edge
+Forms: chiupsnaq¬kwt “he has it[i-] put across” ixpsnalq¬k “he is putting himself across” ik’ipsnalq¬k “he is putting (something) across” chiakpsnaq¬kwt “he has it[i-] put across on it[a-]” chialpsnaq¬kwt “he has it[i-] put across in it[a-]” dinpsnaq¬kwt, dinpsnaq¬kux “they are put across, have been put across in it[i-]” dinpsnaq¬guxlit, dinpsnaq¬gulit “they are being put across in it[i-]” idinpsnaq¬guxit, idinpsnaq¬kwit “they were put across in it[i-]” [Dyk]
+See also: i-k’ipsnalq¬k
+
+-PSQÒA [vb] stretch
