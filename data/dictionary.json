@@ -6989,6 +6989,24 @@
       "pamispamis"
     ]
   },
+  "-k'isten": {
+    "root": "-k'isten",
+    "partOfSpeech": "n",
+    "definition": "axe, small, hatchet",
+    "forms": [
+      {
+        "kiksht": "ik'isten",
+        "english": "(larger) hatchet"
+      },
+      {
+        "kiksht": "ak'isten",
+        "english": "(smaller) hatchet"
+      }
+    ],
+    "seeAlso": [
+      "i-q'isten"
+    ]
+  },
   "-k'álamat": {
     "root": "-k'álamat",
     "partOfSpeech": "n",
@@ -13930,6 +13948,21 @@
     "definition": "pen, pencil, marker, writing implement",
     "seeAlso": [
       "a-k'inułmágwadit, -NUŁM"
+    ]
+  },
+  "a-k'ísh": {
+    "root": "a-k'ísh",
+    "partOfSpeech": "n",
+    "definition": "paternal grandmother, father's mother",
+    "forms": [
+      {
+        "kiksht": "akk'ísh",
+        "english": "my (paternal) grand- mother"
+      },
+      {
+        "kiksht": "k'ish!",
+        "english": "grandma! [may be used by children in direct address] [Dyk]"
+      }
     ]
   },
   "a-kachkdama": {
@@ -38360,6 +38393,23 @@
       "i-yak'amlaix, it-k'amlaimum, i- -gamla"
     ]
   },
+  "i- -k'isił": {
+    "root": "i- -k'isił",
+    "partOfSpeech": "adj n",
+    "definition": "sharp",
+    "forms": [
+      {
+        "kiksht": "iyak'isił",
+        "english": "it[i-] is sharp"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gachigelga iqtáłx; shapsháp gachiux anat; galixux ałqidiwi aq'iwiqi ichak'isił.",
+        "english": "He took a flint; he chipped it on one side; it became just like a sharp knife. [WTI.1d.7]"
+      }
+    ]
+  },
   "i- -kshti": {
     "root": "i- -kshti",
     "partOfSpeech": "adj n",
@@ -42455,6 +42505,34 @@
       "qwa, wa-qwaxtk"
     ]
   },
+  "i-k'iqwchxiqwchxi": {
+    "root": "i-k'iqwchxiqwchxi",
+    "partOfSpeech": "n",
+    "definition": "sneezing",
+    "forms": [
+      {
+        "kiksht": "iyak'iqwchxiqwchxi",
+        "english": "he is a sneezer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "qwchxi"
+    ]
+  },
+  "i-k'iqwutłqwutł": {
+    "root": "i-k'iqwutłqwutł",
+    "partOfSpeech": "n",
+    "definition": "hanging, hanging up",
+    "forms": [
+      {
+        "kiksht": "iyak'iqwutłqwutł",
+        "english": "he is a hanger up (for instance, of clothes) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "qwutł"
+    ]
+  },
   "i-k'iqła": {
     "root": "i-k'iqła",
     "partOfSpeech": "n",
@@ -42467,6 +42545,101 @@
     ],
     "seeAlso": [
       "-QŁA"
+    ]
+  },
+  "i-k'isausau": {
+    "root": "i-k'isausau",
+    "partOfSpeech": "n",
+    "definition": "whispering",
+    "forms": [
+      {
+        "kiksht": "iyak'isausau",
+        "english": "he is a whisperer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "shaushau, i-k'ishaushau"
+    ]
+  },
+  "i-k'ishaushau": {
+    "root": "i-k'ishaushau",
+    "partOfSpeech": "n",
+    "definition": "doctoring by suck- ing on the sick spot",
+    "forms": [
+      {
+        "kiksht": "iyak'ishaushau",
+        "english": "he is one who doctors by practicing shaushau [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a method of doctor- ing which involves putting one's mouth to the diseased area and whis- pering or sucking, making a sound like \"shaushau.\""
+    ],
+    "seeAlso": [
+      "shaushau, sausau, i- k'isausau, -a-xl-SAUSAU-ix"
+    ]
+  },
+  "i-k'ishgamlkwł": {
+    "root": "i-k'ishgamlkwł",
+    "partOfSpeech": "n",
+    "definition": "capturing",
+    "forms": [
+      {
+        "kiksht": "iyak'íshgamalkwł",
+        "english": "he is a captor, one who captures [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-SHKAM-kw"
+    ]
+  },
+  "i-k'ishglal": {
+    "root": "i-k'ishglal",
+    "partOfSpeech": "n",
+    "definition": "something to wear made of or using feathers, head dress feather",
+    "forms": [
+      {
+        "kiksht": "itk'ishglalmax",
+        "english": "head dress feathers [Dyk], ceremonial feathers [WTIV.2.20]"
+      }
+    ]
+  },
+  "i-k'ishiltk": {
+    "root": "i-k'ishiltk",
+    "partOfSpeech": "n",
+    "definition": "slitting",
+    "forms": [
+      {
+        "kiksht": "iyak'ishíltk",
+        "english": "his slitting (grass, etc.); he is one who will slit things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-SHI-tk"
+    ]
+  },
+  "i-k'ishił": {
+    "root": "i-k'ishił",
+    "partOfSpeech": "n",
+    "definition": "roasting under ashes",
+    "seeAlso": [
+      "-SHI"
+    ]
+  },
+  "i-k'ishiłmat": {
+    "root": "i-k'ishiłmat",
+    "partOfSpeech": "n",
+    "definition": "tool, utensil",
+    "forms": [
+      {
+        "kiksht": "itk'ishiłmat",
+        "english": "tools [Dyk]"
+      }
+    ],
+    "notes": [
+      "Apparently a very general word for any kind of tool or utensil used to do something."
+    ],
+    "seeAlso": [
+      "-SHIM"
     ]
   },
   "i-k'iładnił": {
@@ -47191,6 +47364,35 @@
       }
     ]
   },
+  "it-k'iqwshamniłx": {
+    "root": "it-k'iqwshamniłx",
+    "partOfSpeech": "n",
+    "definition": "northwest nettle",
+    "forms": [
+      {
+        "kiksht": "Refers to a plant used for medicinal purposes, boiled and drunk. Exact identification is unclear. Gladys Thompson [6/4/98]:",
+        "english": "when you touch it, it will burn you, worse than fireweed."
+      },
+      {
+        "kiksht": "Name refers to",
+        "english": "bit- ing (-qwsh)."
+      }
+    ],
+    "seeAlso": [
+      "-QWSH"
+    ]
+  },
+  "it-k'iqwshałx": {
+    "root": "it-k'iqwshałx",
+    "partOfSpeech": "n",
+    "definition": "wood chips"
+  },
+  "it-k'ishglalmax": {
+    "root": "it-k'ishglalmax",
+    "partOfSpeech": "n",
+    "definition": "feather worn on head or hat, either stuck or sewn on",
+    "forms": []
+  },
   "it-k'iława": {
     "root": "it-k'iława",
     "partOfSpeech": "n",
@@ -48954,6 +49156,34 @@
     "root": "ił-k'ílxamat",
     "partOfSpeech": "n",
     "definition": "spits"
+  },
+  "ił-k'íshamak": {
+    "root": "ił-k'íshamak",
+    "partOfSpeech": "n",
+    "definition": "trap",
+    "forms": [
+      {
+        "kiksht": "itk'íshamak",
+        "english": "traps [DykGr 93]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Igakwal ichiutkiq iłiak'íshamakba.",
+        "english": "He covered the eel (as for bait) in his trap [Dyk]; he caught the eel in his trap [GT 6/4/ 98, who corrected iłiak'íshamakba to iłiak'íshamatba and added \"you wouldn't get an eel in a trap]."
+      }
+    ],
+    "seeAlso": [
+      "ił-k'íshamat"
+    ]
+  },
+  "ił-k'íshamat": {
+    "root": "ił-k'íshamat",
+    "partOfSpeech": "n",
+    "definition": "trap",
+    "seeAlso": [
+      "ił-k'ishamak"
+    ]
   },
   "ił-kabwalal": {
     "root": "ił-kabwalal",
