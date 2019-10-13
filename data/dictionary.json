@@ -6859,6 +6859,44 @@
       "It is not clear whether this is a special extension of the meaning of - nułem \"write, mark\" or an entirely different root which happens to sound the same."
     ]
   },
+  "-NXA": {
+    "root": "-NXA",
+    "partOfSpeech": "vb",
+    "definition": "set up, stand up",
+    "forms": [
+      {
+        "kiksht": "chiagemnxanan",
+        "english": "he is setting them[i-] up beside her"
+      },
+      {
+        "kiksht": "chiainxanan",
+        "english": "he is setting them up in her"
+      },
+      {
+        "kiksht": "nichanginxa",
+        "english": "he stood (something) up on it[a-], he set (something) up on it[a-]"
+      },
+      {
+        "kiksht": "gachaxenxananamchk",
+        "english": "he set them[a-] up on themselves, on one another"
+      },
+      {
+        "kiksht": "gayugwanxaxit",
+        "english": "they[i-] were set up on them"
+      },
+      {
+        "kiksht": "ainxadix",
+        "english": "they[a-] are standing on it[a-] [Dyk]"
+      },
+      {
+        "kiksht": "aixenxat",
+        "english": "he has been sitting on himself [DykGr 43]"
+      }
+    ],
+    "notes": [
+      "Never used without a rela- tional prefix. May be used only with plural object. No singular or dual object may be used. [Dyk] Appar- ently, the object pronouns in the forms given are plural in meaning. Note, however, the form given from DykGr, which does not appear to follow the rule given by Dyk in his lexical file."
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -25414,6 +25452,14 @@
     "root": "a-nuwatłmat",
     "partOfSpeech": "n",
     "definition": "red powder"
+  },
+  "a-nwatłmat": {
+    "root": "a-nwatłmat",
+    "partOfSpeech": "n",
+    "definition": "red powder",
+    "notes": [
+      "Gotten from soda springs and mixed with deer grease to make red paint. [Dyk] Used in legend times to bring people back to life. [PK] Used for \"war-paint,\" when people got ready to dance [GT, MMc 12/30/97] -NXA set in upright position"
+    ]
   },
   "a-łashqw'imliq": {
     "root": "a-łashqw'imliq",
@@ -68168,6 +68214,90 @@
       "-SHTX̲W"
     ]
   },
+  "nux": {
+    "root": "nux",
+    "partOfSpeech": "adv",
+    "definition": "but, however, nonetheless, instead, should",
+    "examples": [
+      {
+        "kiksht": "Nux daqł nalagima k'aya.",
+        "english": "Yesterday [in contrast to any other time] she said no."
+      },
+      {
+        "kiksht": "Łignini enkiax kwash nux anuya iwatka.",
+        "english": "I am still busy; however, I will go that way."
+      },
+      {
+        "kiksht": "Maika nux amtxshgama yaxka.",
+        "english": "You are wanted to gamble with him."
+      },
+      {
+        "kiksht": "Nux alugwálalma aixt hour.",
+        "english": "They are not to sing at all, but they'll sing one hour."
+      },
+      {
+        "kiksht": "Qushdiaxa nux kwakwamax gałgig̲elkel.",
+        "english": "They ex- pected to see (say, dogs) and behold they saw grizzly bears instead."
+      },
+      {
+        "kiksht": "Maikayamdnux amtxshgama yaxka.",
+        "english": "You will gamble with him, instead of someone else."
+      },
+      {
+        "kiksht": "Qama nux?",
+        "english": "Where should it go then?"
+      },
+      {
+        "kiksht": "qidau nux",
+        "english": "so it should be [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "k'manux, manux, nuxpu"
+    ]
+  },
+  "nuxpu": {
+    "root": "nuxpu",
+    "partOfSpeech": "adv",
+    "definition": "should, ought to",
+    "examples": [
+      {
+        "kiksht": "Nuxpu enxemgapx.",
+        "english": "I should be working."
+      },
+      {
+        "kiksht": "Nuxpu qama iyuya.",
+        "english": "He ought to go someplace. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "nux, manux, k'manux"
+    ]
+  },
+  "nuxt": {
+    "root": "nuxt",
+    "partOfSpeech": "vb",
+    "definition": "I live, I dwell, I sit",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
+  "nuxwaqam": {
+    "root": "nuxwaqam",
+    "partOfSpeech": "vb",
+    "definition": "they arrived to assemble",
+    "seeAlso": [
+      "-xa-QW"
+    ]
+  },
+  "nuxwax": {
+    "root": "nuxwax",
+    "partOfSpeech": "vb",
+    "definition": "they became [WTI.11.7, IV.2.19], they were done [WTIV.2.17]",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
   "nułemst": {
     "root": "nułemst",
     "partOfSpeech": "vb",
@@ -68878,6 +69008,17 @@
     "forms": [],
     "notes": [
       "A small indentation or bay in a river or lake used as a landing place."
+    ]
+  },
+  "wa-núx": {
+    "root": "wa-núx",
+    "partOfSpeech": "n",
+    "definition": "(fish) stomach",
+    "forms": [
+      {
+        "kiksht": "idnuxaksh",
+        "english": "fish stomachs [Dyk]"
+      }
     ]
   },
   "wa-łala": {
