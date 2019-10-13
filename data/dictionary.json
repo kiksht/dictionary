@@ -6529,6 +6529,32 @@
       "-MDA-mit, i- -dumt"
     ]
   },
+  "-MUI": {
+    "root": "-MUI",
+    "partOfSpeech": "vb",
+    "definition": "wrestle",
+    "forms": [
+      {
+        "kiksht": "chumuit",
+        "english": "he is wrestling her"
+      },
+      {
+        "kiksht": "ichalk'ímuya",
+        "english": "he wrestled for her"
+      },
+      {
+        "kiksht": "ichdalmúyamit",
+        "english": "he made them wrestle in it[a-]"
+      },
+      {
+        "kiksht": "ik'ímuit, ixmuit",
+        "english": "he is wrestling (someone) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "id-muya,-MUYA"
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -15578,6 +15604,143 @@
       }
     ]
   },
+  "-t-l-MUI": {
+    "root": "-t-l-MUI",
+    "partOfSpeech": "vb",
+    "definition": "be tired, be fatigued",
+    "forms": [
+      {
+        "kiksht": "dnelmuit",
+        "english": "I'm tired"
+      },
+      {
+        "kiksht": "dalmuit",
+        "english": "she is tired"
+      },
+      {
+        "kiksht": "dalmúinił",
+        "english": "she gets tired (again and again)"
+      },
+      {
+        "kiksht": "daidmuit",
+        "english": "she was tired"
+      },
+      {
+        "kiksht": "idalmuya",
+        "english": "she be- came tired"
+      },
+      {
+        "kiksht": "gadilmuya",
+        "english": "he was tired"
+      }
+    ],
+    "notes": [
+      "The root takes the form - muya at the end of a word, as in the last two examples."
+    ],
+    "seeAlso": [
+      "-d-l-gi-MUYA-mit"
+    ]
+  },
+  "-t-l-gi-MUYA-mit": {
+    "root": "-t-l-gi-MUYA-mit",
+    "partOfSpeech": "vb",
+    "definition": "make tired, fatigue",
+    "forms": [
+      {
+        "kiksht": "achdalgímuyamida",
+        "english": "he will make her tired"
+      },
+      {
+        "kiksht": "chdalgímuyamalit",
+        "english": "he is making her tired"
+      },
+      {
+        "kiksht": "chdaitgímuyamalit",
+        "english": "he was making her tired"
+      },
+      {
+        "kiksht": "ichdilgímuyamit",
+        "english": "he made him tired"
+      },
+      {
+        "kiksht": "daxlgímuyamit",
+        "english": "she is making herself tired [Dyk]"
+      }
+    ]
+  },
+  "-t-l-xa-MUI-chkwa": {
+    "root": "-t-l-xa-MUI-chkwa",
+    "partOfSpeech": "vb",
+    "definition": "be lonesome, become lonesome",
+    "forms": [
+      {
+        "kiksht": "dilxamuichgwax",
+        "english": "he is lone- some"
+      },
+      {
+        "kiksht": "dnelxamúichgwax",
+        "english": "I am lone- some"
+      },
+      {
+        "kiksht": "dmelxámuichgwax",
+        "english": "you are lonesome"
+      },
+      {
+        "kiksht": "dalxamuichgwax",
+        "english": "she is lonesome"
+      },
+      {
+        "kiksht": "dendelxamuichgwax",
+        "english": "we 2 are lonesome"
+      },
+      {
+        "kiksht": "demdelxamuichgwax",
+        "english": "you 2 are lone- some"
+      },
+      {
+        "kiksht": "demshelxamuichgwax",
+        "english": "you folks are lonesome"
+      },
+      {
+        "kiksht": "tłelxamuichgwax",
+        "english": "they are lonesome [HS 5/29/52]"
+      },
+      {
+        "kiksht": "dnitxámuichkwax",
+        "english": "I was lonely [GT, MMc 1/15/99]"
+      },
+      {
+        "kiksht": "adalxámuichkwaida",
+        "english": "she will become lonesome"
+      },
+      {
+        "kiksht": "adalxámuichkwalidma",
+        "english": "she will be- come lonesome (repeatedly)"
+      },
+      {
+        "kiksht": "dilxámuichgwalit",
+        "english": "he is lonesome (repeatedly)"
+      },
+      {
+        "kiksht": "dilxámuichkwax",
+        "english": "he is lonesome [sic; compare from HS above]"
+      },
+      {
+        "kiksht": "ditxámuichkwax",
+        "english": "he was lonesome"
+      },
+      {
+        "kiksht": "idilxámuichkwait",
+        "english": "he became lonesome [Dyk]"
+      }
+    ],
+    "notes": [
+      "Hiram Smith: \"I think they made this word from the sound of the mourning [dove]. When I hear them I always throw rocks to make them get away.\""
+    ],
+    "seeAlso": [
+      "it-qixámuichkwax"
+    ]
+  },
   "-t-x-ŁADA-chu": {
     "root": "-t-x-ŁADA-chu",
     "partOfSpeech": "vb",
@@ -17957,6 +18120,17 @@
     ],
     "seeAlso": [
       "i-k'íminankwł, i- qixnmínankwł ipéłx"
+    ]
+  },
+  "-x-MUYA": {
+    "root": "-x-MUYA",
+    "partOfSpeech": "vb",
+    "definition": "wrestle",
+    "forms": [
+      {
+        "kiksht": "alxmuya",
+        "english": "we (including you) will wrestle. [WTI.4.16,17]"
+      }
     ]
   },
   "-x-NI": {
@@ -20600,6 +20774,30 @@
     ],
     "seeAlso": [
       "i-k'anqut"
+    ]
+  },
+  "-xn-MU-pa": {
+    "root": "-xn-MU-pa",
+    "partOfSpeech": "vb",
+    "definition": "injure before birth, be born deformed",
+    "forms": [
+      {
+        "kiksht": "iłaxenmuba",
+        "english": "she injured it before birth"
+      },
+      {
+        "kiksht": "ixenmupx",
+        "english": "he was born deformed [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gaqixidmuba łqa.",
+        "english": "He must have been injured before birth. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-qímupx"
     ]
   },
   "-xn-gi-q'na": {
@@ -24181,6 +24379,40 @@
         "kiksht": "idemshtiu",
         "english": "service berries -MT, -MDA grow"
       }
+    ]
+  },
+  "a-mudán k'ishtx": {
+    "root": "a-mudán k'ishtx",
+    "partOfSpeech": "n",
+    "definition": "woman's bag",
+    "seeAlso": [
+      "a-mutan"
+    ]
+  },
+  "a-mugi": {
+    "root": "a-mugi",
+    "partOfSpeech": "n",
+    "definition": "throat",
+    "forms": [
+      {
+        "kiksht": "idmugimax",
+        "english": "throats"
+      },
+      {
+        "kiksht": "amimugi",
+        "english": "your throat"
+      }
+    ],
+    "notes": [
+      "According to Gladys Thomp- son and Madeline McInturff [6/3-5/ 98], this refers to the outside of the throat, that is, the front of the neck. See also: a-gamaug̲ui"
+    ]
+  },
+  "a-mug̲wal": {
+    "root": "a-mug̲wal",
+    "partOfSpeech": "n",
+    "definition": "big belly, cow tripe",
+    "notes": [
+      "Borrowed to or from Sahaptin."
     ]
   },
   "a-mulal": {
@@ -55595,6 +55827,14 @@
       "i-mst'iwiq"
     ]
   },
+  "i-mug̲wal": {
+    "root": "i-mug̲wal",
+    "partOfSpeech": "n",
+    "definition": "big belly",
+    "notes": [
+      "Borrowed to or from Sahaptin."
+    ]
+  },
   "i-mísht": {
     "root": "i-mísht",
     "partOfSpeech": "n",
@@ -61840,6 +62080,11 @@
     "partOfSpeech": "n",
     "definition": "clay"
   },
+  "ił-muigwax": {
+    "root": "ił-muigwax",
+    "partOfSpeech": "n",
+    "definition": "salmon egg"
+  },
   "ił-mín": {
     "root": "ił-mín",
     "partOfSpeech": "n",
@@ -64681,6 +64926,28 @@
     "definition": "stand up (you two)!",
     "seeAlso": [
       "-TX(WI)-it"
+    ]
+  },
+  "muchg̲áit": {
+    "root": "muchg̲áit",
+    "partOfSpeech": "vb",
+    "definition": "you are sweating",
+    "seeAlso": [
+      "-CH G̲A-it"
+    ]
+  },
+  "muduksáx": {
+    "root": "muduksáx",
+    "partOfSpeech": "vb",
+    "definition": "you are sucked",
+    "examples": [
+      {
+        "kiksht": "Qngiska qatgi muduksáx asha, naqi chi kwaba iłmixan nimłg̲ítaqłq?",
+        "english": "How is it, daughter, that you are somewhat sucked? Did you not leave behind your child there? [WTI.12.3]"
+      }
+    ],
+    "notes": [
+      "Meaning uncertain."
     ]
   },
   "qengi": {

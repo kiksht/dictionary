@@ -18235,3 +18235,64 @@ Forms: idemt¬’uxi “(two) ears” idemt¬’ ̈ximax “ears”
 See also: i-t¬’axwi
 
 i¬-mu [n] clay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-xn-MU-pa [vb] injure before birth, be born deformed
+Forms: i¬axenmuba “she injured it before birth” ixenmupx “he was born deformed” [Dyk]
+Examples: Gaqixidmuba ¬qa. “He must have been injured before birth.” [Dyk]
+See also: it-qˆmupx
+
+much©Åit [vb] you are sweating
+See also: -CH ̋A-it
+
+a-mudÅn k’ishtx [n] woman’s bag
+See also: a-mutan
+
+muduksÅx [vb] you are sucked
+Examples: Qngiska qatgi muduksÅx asha, naqi chi kwaba i¬mixan nim¬©ˆtaq¬q? “How is it, daughter, that you are somewhat sucked? Did you not leave behind your child there?” [WTI.12.3]
+Notes: Meaning uncertain.
+
+a-mugi [n] throat
+Forms: idmugimax “throats” amimugi “your throat”
+Notes: According to Gladys Thomp- son and Madeline McInturff [6/3-5/ 98], this refers to the outside of the throat, that is, the front of the neck. See also: a-gamau©ui
+
+a-mu©wal [n] big belly, cow tripe
+Notes: Borrowed to or from Sahaptin.
+
+i-mu©wal [n] big belly
+Notes: Borrowed to or from Sahaptin.
+
+-MUI [vb] wrestle
+Forms: chumuit “he is wrestling her” ichalk’ˆmuya “he wrestled for her” ichdalm ̈yamit “he made them wrestle in it[a-]” ik’ˆmuit, ixmuit “he is wrestling (someone)” [Dyk]
+See also: id-muya,-MUYA
+
+-t-l-MUI [vb] be tired, be fatigued
+Forms: dnelmuit “I’m tired” dalmuit “she is tired” dalm ̈ini¬ “she gets tired (again and again)” daidmuit “she was tired” idalmuya “she be- came tired” gadilmuya “he was tired”
+Notes: The root takes the form - muya at the end of a word, as in the last two examples.
+See also: -d-l-gi-MUYA-mit
+
+-x-MUYA [vb] wrestle
+Forms: alxmuya “we (including you) will wrestle.” [WTI.4.16,17]
+
+-t-l-xa-MUI-chkwa [vb] be lonesome, become lonesome
+Forms: dilxamuichgwax “he is lone- some” dnelxam ̈ichgwax “I am lone- some” dmelxÅmuichgwax “you are lonesome” dalxamuichgwax “she is lonesome” dendelxamuichgwax “we 2 are lonesome” demdelxamuichgwax “you 2 are lone- some” demshelxamuichgwax “you folks are lonesome” t¬elxamuichgwax “they are lonesome” [HS 5/29/52] dnitxÅmuichkwax “I was lonely” [GT, MMc 1/15/99] adalxÅmuichkwaida “she will become lonesome” adalxÅmuichkwalidma “she will be- come lonesome (repeatedly)” dilxÅmuichgwalit “he is lonesome (repeatedly)” dilxÅmuichkwax “he is lonesome” [sic; compare from HS above] ditxÅmuichkwax “he was lonesome” idilxÅmuichkwait “he became lonesome” [Dyk]
+Notes: Hiram Smith: “I think they made this word from the sound of the mourning [dove]. When I hear them I always throw rocks to make them get away.”
+See also: it-qixÅmuichkwax
+
+-t-l-gi-MUYA-mit [vb] make tired, fatigue
+Forms: achdalgˆmuyamida “he will make her tired” chdalgˆmuyamalit “he is making her tired” chdaitgˆmuyamalit “he was making her tired” ichdilgˆmuyamit “he made him tired” daxlgˆmuyamit “she is making herself tired” [Dyk]
+
+i¬-muigwax [n] salmon egg
