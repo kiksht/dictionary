@@ -3381,6 +3381,24 @@
       "i-gik'manan"
     ]
   },
+  "-K'NAM": {
+    "root": "-K'NAM",
+    "partOfSpeech": "vb",
+    "definition": "be OK, be satisfactory",
+    "forms": [
+      {
+        "kiksht": "yuk'nám",
+        "english": "he is OK (people think he's all right, a good man); it[i- ] is OK"
+      },
+      {
+        "kiksht": "yuk'nam pichish",
+        "english": "there are lots of peaches [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-n-K'NAM, -n-K'NANA-mit, -K'NAM, -K'NANA"
+    ]
+  },
   "-KA": {
     "root": "-KA",
     "partOfSpeech": "vb",
@@ -7366,6 +7384,31 @@
       "-SHTX̲W"
     ]
   },
+  "-k'úlutem": {
+    "root": "-k'úlutem",
+    "partOfSpeech": "n",
+    "definition": "dead child, deceased child",
+    "forms": [
+      {
+        "kiksht": "ichak'úlutem",
+        "english": "her dead son"
+      },
+      {
+        "kiksht": "agak'úlutem",
+        "english": "her dead daughter [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ichk'úlutem galidmqt g̲ang̲at.",
+        "english": "My son died long ago."
+      },
+      {
+        "kiksht": "Akk'úlutem galadmqt g̲ang̲at.",
+        "english": "My daughter died long ago."
+      }
+    ]
+  },
   "-k-CHA": {
     "root": "-k-CHA",
     "partOfSpeech": "vb",
@@ -8854,6 +8897,58 @@
       }
     ]
   },
+  "-n-K'NAM": {
+    "root": "-n-K'NAM",
+    "partOfSpeech": "vb",
+    "definition": "satisfy, be satisfactory to",
+    "forms": [
+      {
+        "kiksht": "aink'nám, aink'námt",
+        "english": "she satisfies him, is satisfactory to him"
+      },
+      {
+        "kiksht": "dink'námt",
+        "english": "they satisfy him, are satisfactory to him, he is satisfied with them"
+      },
+      {
+        "kiksht": "dink'namix",
+        "english": "he has been satisfied with them"
+      },
+      {
+        "kiksht": "idink'namxit",
+        "english": "he became satisfied with them"
+      },
+      {
+        "kiksht": "galaink'namxnit",
+        "english": "she satisifies him (every day) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-K'NAM, -n-K'NANA-mit"
+    ]
+  },
+  "-n-K'NANA-mit": {
+    "root": "-n-K'NANA-mit",
+    "partOfSpeech": "vb",
+    "definition": "try to satisfy, make satisfactory, try to make satis- factory",
+    "forms": [
+      {
+        "kiksht": "chaink'nánamit",
+        "english": "he is trying to satisfy him with her; he has her satisfactory to him"
+      },
+      {
+        "kiksht": "ichaink'nánamit",
+        "english": "he made him satisfied with her"
+      },
+      {
+        "kiksht": "aixenk'nanamit",
+        "english": "he is trying to make her satisfactory to himself [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-K'NAM, -n-K'NAM"
+    ]
+  },
   "-qi-CXA-pa": {
     "root": "-qi-CXA-pa",
     "partOfSpeech": "vb",
@@ -9037,6 +9132,46 @@
         "kiksht": "Tłbu insanbnałx.",
         "english": "Splash I jumped into the water. [Dyk]"
       }
+    ]
+  },
+  "-s-gm-K'NA-kw": {
+    "root": "-s-gm-K'NA-kw",
+    "partOfSpeech": "vb",
+    "definition": "look for, look around, look about",
+    "forms": [
+      {
+        "kiksht": "asamgmatk'nagwacgwa",
+        "english": "I will look around for you (distant future)"
+      },
+      {
+        "kiksht": "ksigemk'nagwax",
+        "english": "she is looking about for him"
+      },
+      {
+        "kiksht": "sixemk'nagwax",
+        "english": "he is look- ing around"
+      },
+      {
+        "kiksht": "suxmatk'nayugwax",
+        "english": "they each looked around"
+      },
+      {
+        "kiksht": "isixemk'nakwack",
+        "english": "he looked around"
+      },
+      {
+        "kiksht": "sigemk'nágwackux",
+        "english": "he has been looked for [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ninsigmatk'nagwax itk'inwaimax.",
+        "english": "I was looking around for money. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Implies looking about while standing still, not going in search of something or someone."
     ]
   },
   "-s-l-CGI": {
@@ -14218,6 +14353,17 @@
     "definition": "pencil",
     "seeAlso": [
       "a-k'ínułmat, -NUŁM"
+    ]
+  },
+  "a-k'nik'ni": {
+    "root": "a-k'nik'ni",
+    "partOfSpeech": "n",
+    "definition": "dipnet in the process of being made",
+    "notes": [
+      "This refers to a dipnet before it is put on the pole; after it is put on the pole it is called alxułat."
+    ],
+    "seeAlso": [
+      "a-lxułat"
     ]
   },
   "a-k'álak'ia": {
@@ -43480,6 +43626,45 @@
       "Sipáglacin"
     ]
   },
+  "i-k'makan": {
+    "root": "i-k'makan",
+    "partOfSpeech": "n",
+    "definition": "frenzy, madness, an- ger",
+    "examples": [
+      {
+        "kiksht": "Ik'makan gachshux.",
+        "english": "They two became frenzied. [WTI.4.21]"
+      }
+    ],
+    "seeAlso": [
+      "i-kmakan"
+    ]
+  },
+  "i-k'uk'u": {
+    "root": "i-k'uk'u",
+    "partOfSpeech": "n",
+    "definition": "small hoof",
+    "forms": [
+      {
+        "kiksht": "itk'uk'u",
+        "english": "small hooves [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ish-gugu"
+    ]
+  },
+  "i-k'um": {
+    "root": "i-k'um",
+    "partOfSpeech": "n",
+    "definition": "being a sleepyhead, over- sleeping",
+    "forms": [
+      {
+        "kiksht": "iyak'um",
+        "english": "he is a sleepyhead, one who oversleeps [Dyk]"
+      }
+    ]
+  },
   "i-k'ámunak": {
     "root": "i-k'ámunak",
     "partOfSpeech": "n",
@@ -50932,10 +51117,64 @@
       "nux"
     ]
   },
+  "k'mekedesh": {
+    "root": "k'mekedesh",
+    "partOfSpeech": "conj",
+    "definition": "so that",
+    "examples": [
+      {
+        "kiksht": "Aish k'ala amshgnuxa k'mekedesh gigwáladamt ichq'aqshtaq.",
+        "english": "You will just carry me on your backs so that my head is downward. [WTI.1c.6]"
+      }
+    ],
+    "notes": [
+      "Meaning uncertain."
+    ]
+  },
   "k'málalidix": {
     "root": "k'málalidix",
     "partOfSpeech": "adv",
     "definition": "fall, autumn"
+  },
+  "k'u": {
+    "root": "k'u",
+    "partOfSpeech": "part",
+    "definition": "meet, come together, gather, put together",
+    "examples": [
+      {
+        "kiksht": "Qaxba alma k'u alxuxa?",
+        "english": "Where are we going to meet? [GT, MMc]"
+      }
+    ]
+  },
+  "k'um": {
+    "root": "k'um",
+    "partOfSpeech": "part",
+    "definition": "be sleepy [Dyk], over- sleep [Dyk; GT, MMc]",
+    "examples": [
+      {
+        "kiksht": "K'um ikiax.",
+        "english": "He is sleepy."
+      },
+      {
+        "kiksht": "K'um igixux.",
+        "english": "He overslept."
+      },
+      {
+        "kiksht": "K'umk'um emnuxt.",
+        "english": "You are causing me to oversleep, to be sleepy (as by keeping me awake). [Dyk]"
+      },
+      {
+        "kiksht": "K'um inxúx.",
+        "english": "I overslept. [GT, MMc]"
+      }
+    ],
+    "notes": [
+      "Madeline McInturff says this means only \"oversleep.\""
+    ],
+    "seeAlso": [
+      "i-k'um"
+    ]
   },
   "k'ámunaq": {
     "root": "k'ámunaq",
