@@ -16712,3 +16712,92 @@ Forms: chial¬adalq “he is dragging him up against her” ichial¬ataq “he d
 
 -x-ÒADA-qw [vb] lead, drag
 Forms: aix¬adaqwt “he is leading/ dragging her (after himself)” igax¬ataq “he led her” aix¬Ådaqwtba “place to which he is leading her” [Dyk]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-ÒATA-qw [vb] bind
+Forms: ganshkshik¬Åtaqwax “we (not including you) bound him to it” [WTIV.2.16]
+
+-ÒATA-wulx [vb] throw up
+Forms: chiu¬atawulxt “he’s throwing it[i-] up”
+
+i-¬adat [n] stranger
+
+a-¬Ågagwli [n] spider
+Forms: it¬Ågagwli, it¬Ågagwlimax “spiders”
+
+¬Åglalitix [vb] they are sitting on it[a- ]
+Examples: Aknˆm qusht ¬Åglaitix ich’inun i¬iÅuxwiksh. “Eagle’s younger brothers are sitting on a canoe.” [WTI.4.2]
+See also: -LA-it
+
+¬a©elpx [vb] it flows from her
+See also: -PA
+
+¬aichka [pron] they
+Examples: Òaichkayamt nuit. “I’m going to them (a few people known to me).” [DykGr 120]
+Notes: Independent personal pro- noun, referring to a few people known to the speaker. Compare aichka.
+See also: aichka
+
+¬aima [pron] only it, only they, only them
+
+-ÒAI [vb] be set, be put
+
+-ÒAI-mit [vb] set down, put down
+Forms: anyu¬aimida “I will set him down” [GT, MMc 1/15/99] gachiu¬aimit “he set him down” [WTI.6.2] ganshgik¬aimitx “we put him astride him” [WTIV.2.16]
+Examples: Anyugwa¬Åimida ikˆutanba. “I will set him on the horse.” Ugwa¬aitam a©a! “Get on (car)!” [GT, MMc 1/15/99 ]
+
+-k-ÒAI-mit [vb] put on (vehicle), send (by vehicle)
+Examples: Aniukat¬Åimida/ anyugwat¬Åimida iyagÅlalba, maikayamt yuit. “I’m sending him to you by plane.” [literally “I’m putting him on an airplane, he’s going to you.”] [GT 1/15/99]
+
+-¬ak [n] father’s sister, (paternal) aunt
+Forms: ak¬Åk “my aunt” i¬k¬gnana “my aunts” [Dyk]
+See also: a¬ak
+
+i-¬ak’ani [n] white people’s ways [AF 7/29/53], ancient times [JM 7/29/ 54]
+Notes: See note on -k’ani.
+See also: -k’ani, it-k’ani
+
+¬al [part] black
+See also: ¬al¬al, da¬Ål
+
+(w)i-¬ala [n] lake
+Forms: i¬alimax “lakes”
+Notes: Larger than wa-¬ala.
+See also: wa-¬ala
+
+wa-¬ala [n] lake, small lake
+Notes: Smaller than i-¬ala.
+See also: (w)i-¬ala
+
+i-¬alic’iyÅu [n] black water snake with 2 long red, green, or white stripes
+Forms: it¬alic’iyaukws “black water snakes”
+
+¬al¬al [part] black in places, black here and there
+See also: ¬al, da¬Ål
+
+¬alt’Åpqt [vb] it[a-] is worn in, it[a-] is cut in (as something tight) [GT, MMc 6/3/98]
+Examples: A©a yaxi ¬alt’Åpqt wÅunamba kwaba qi k’au. “The hill is worn far in there where it is tied.”[WTI.1m4]
+See also: -¬-l-T’A-pq
+
+¬aluxt [vb] it is in her
+See also: - ̨T
+
+¬a¬ilxam [num] ten
+Notes: This is the form used with i¬- prefix nouns. The forms of -¬ilxam are formed by adding the appropri- ate possessive prefix to the stem.
+
+i-¬ana [n] string, cord
+Forms: it¬ana “strings” [Dyk]
+
+wa-¬ap [n] tree knot
+Forms: i¬puksh “knots” [HS 6/23/56]

@@ -195,6 +195,23 @@
       "yalxcheg̲ix"
     ]
   },
+  "(w)i-łala": {
+    "root": "(w)i-łala",
+    "partOfSpeech": "n",
+    "definition": "lake",
+    "forms": [
+      {
+        "kiksht": "iłalimax",
+        "english": "lakes"
+      }
+    ],
+    "notes": [
+      "Larger than wa-łala."
+    ],
+    "seeAlso": [
+      "wa-łala"
+    ]
+  },
   "- -'adau": {
     "root": "- -'adau",
     "partOfSpeech": "n",
@@ -10413,6 +10430,21 @@
       }
     ]
   },
+  "-k-ŁAI-mit": {
+    "root": "-k-ŁAI-mit",
+    "partOfSpeech": "vb",
+    "definition": "put on (vehicle), send (by vehicle)",
+    "examples": [
+      {
+        "kiksht": "Aniukatłáimida/ anyugwatłáimida iyagálalba, maikayamt yuit.",
+        "english": "I'm sending him to you by plane."
+      },
+      {
+        "kiksht": "[literally",
+        "english": "I'm putting him on an airplane, he's going to you.] [GT 1/15/99]"
+      }
+    ]
+  },
   "-kag̲wámx": {
     "root": "-kag̲wámx",
     "partOfSpeech": "n",
@@ -18318,6 +18350,62 @@
       "-PCHK"
     ]
   },
+  "-ŁAI": {
+    "root": "-ŁAI",
+    "partOfSpeech": "vb",
+    "definition": "be set, be put"
+  },
+  "-ŁAI-mit": {
+    "root": "-ŁAI-mit",
+    "partOfSpeech": "vb",
+    "definition": "set down, put down",
+    "forms": [
+      {
+        "kiksht": "anyułaimida",
+        "english": "I will set him down [GT, MMc 1/15/99]"
+      },
+      {
+        "kiksht": "gachiułaimit",
+        "english": "he set him down [WTI.6.2]"
+      },
+      {
+        "kiksht": "ganshgikłaimitx",
+        "english": "we put him astride him [WTIV.2.16]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Anyugwałáimida ikíutanba.",
+        "english": "I will set him on the horse."
+      },
+      {
+        "kiksht": "Ugwałaitam ag̲a!",
+        "english": "Get on (car)! [GT, MMc 1/15/99 ]"
+      }
+    ]
+  },
+  "-ŁATA-qw": {
+    "root": "-ŁATA-qw",
+    "partOfSpeech": "vb",
+    "definition": "bind",
+    "forms": [
+      {
+        "kiksht": "ganshkshikłátaqwax",
+        "english": "we (not including you) bound him to it [WTIV.2.16]"
+      }
+    ]
+  },
+  "-ŁATA-wulx": {
+    "root": "-ŁATA-wulx",
+    "partOfSpeech": "vb",
+    "definition": "throw up",
+    "forms": [
+      {
+        "kiksht": "chiułatawulxt",
+        "english": "he's throwing it[i-] up"
+      }
+    ]
+  },
   "-ł-gl-KWSHTX̲": {
     "root": "-ł-gl-KWSHTX̲",
     "partOfSpeech": "vb",
@@ -18492,6 +18580,24 @@
         "kiksht": "ałixlxtk'maya",
         "english": "he will shake water off himself [Dyk]"
       }
+    ]
+  },
+  "-łak": {
+    "root": "-łak",
+    "partOfSpeech": "n",
+    "definition": "father's sister, (paternal) aunt",
+    "forms": [
+      {
+        "kiksht": "akłák",
+        "english": "my aunt"
+      },
+      {
+        "kiksht": "iłkłgnana",
+        "english": "my aunts [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ałak"
     ]
   },
   "Agac'ia": {
@@ -20767,6 +20873,17 @@
     "definition": "onion-like root, amulal amumda [vb] you will grow",
     "seeAlso": [
       "-MT"
+    ]
+  },
+  "a-łágagwli": {
+    "root": "a-łágagwli",
+    "partOfSpeech": "n",
+    "definition": "spider",
+    "forms": [
+      {
+        "kiksht": "itłágagwli, itłágagwlimax",
+        "english": "spiders"
+      }
     ]
   },
   "aa": {
@@ -51653,6 +51770,44 @@
       "lux"
     ]
   },
+  "i-ładat": {
+    "root": "i-ładat",
+    "partOfSpeech": "n",
+    "definition": "stranger"
+  },
+  "i-łak'ani": {
+    "root": "i-łak'ani",
+    "partOfSpeech": "n",
+    "definition": "white people's ways [AF 7/29/53], ancient times [JM 7/29/ 54]",
+    "notes": [
+      "See note on -k'ani."
+    ],
+    "seeAlso": [
+      "-k'ani, it-k'ani"
+    ]
+  },
+  "i-łalic'iyáu": {
+    "root": "i-łalic'iyáu",
+    "partOfSpeech": "n",
+    "definition": "black water snake with 2 long red, green, or white stripes",
+    "forms": [
+      {
+        "kiksht": "itłalic'iyaukws",
+        "english": "black water snakes"
+      }
+    ]
+  },
+  "i-łana": {
+    "root": "i-łana",
+    "partOfSpeech": "n",
+    "definition": "string, cord",
+    "forms": [
+      {
+        "kiksht": "itłana",
+        "english": "strings [Dyk]"
+      }
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -60405,6 +60560,28 @@
       "-a-xi-LXUŁ, a-lxułat"
     ]
   },
+  "wa-łala": {
+    "root": "wa-łala",
+    "partOfSpeech": "n",
+    "definition": "lake, small lake",
+    "notes": [
+      "Smaller than i-łala."
+    ],
+    "seeAlso": [
+      "(w)i-łala"
+    ]
+  },
+  "wa-łap": {
+    "root": "wa-łap",
+    "partOfSpeech": "n",
+    "definition": "tree knot",
+    "forms": [
+      {
+        "kiksht": "iłpuksh",
+        "english": "knots [HS 6/23/56]"
+      }
+    ]
+  },
   "wi-'ísh": {
     "root": "wi-'ísh",
     "partOfSpeech": "n",
@@ -60728,5 +60905,95 @@
     "root": "łablat",
     "partOfSpeech": "adv",
     "definition": "much, many, lots"
+  },
+  "łag̲elpx": {
+    "root": "łag̲elpx",
+    "partOfSpeech": "vb",
+    "definition": "it flows from her",
+    "seeAlso": [
+      "-PA"
+    ]
+  },
+  "łaichka": {
+    "root": "łaichka",
+    "partOfSpeech": "pron",
+    "definition": "they",
+    "examples": [
+      {
+        "kiksht": "Łaichkayamt nuit.",
+        "english": "I'm going to them (a few people known to me). [DykGr 120]"
+      }
+    ],
+    "notes": [
+      "Independent personal pro- noun, referring to a few people known to the speaker. Compare aichka."
+    ],
+    "seeAlso": [
+      "aichka"
+    ]
+  },
+  "łaima": {
+    "root": "łaima",
+    "partOfSpeech": "pron",
+    "definition": "only it, only they, only them"
+  },
+  "łal": {
+    "root": "łal",
+    "partOfSpeech": "part",
+    "definition": "black",
+    "seeAlso": [
+      "łalłal, dałál"
+    ]
+  },
+  "łalt'ápqt": {
+    "root": "łalt'ápqt",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] is worn in, it[a-] is cut in (as something tight) [GT, MMc 6/3/98]",
+    "examples": [
+      {
+        "kiksht": "Ag̲a yaxi łalt'ápqt wáunamba kwaba qi k'au.",
+        "english": "The hill is worn far in there where it is tied.[WTI.1m4]"
+      }
+    ],
+    "seeAlso": [
+      "-ł-l-T'A-pq"
+    ]
+  },
+  "łaluxt": {
+    "root": "łaluxt",
+    "partOfSpeech": "vb",
+    "definition": "it is in her",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
+  "łalłal": {
+    "root": "łalłal",
+    "partOfSpeech": "part",
+    "definition": "black in places, black here and there",
+    "seeAlso": [
+      "łal, dałál"
+    ]
+  },
+  "łałilxam": {
+    "root": "łałilxam",
+    "partOfSpeech": "num",
+    "definition": "ten",
+    "notes": [
+      "This is the form used with ił- prefix nouns. The forms of -łilxam are formed by adding the appropri- ate possessive prefix to the stem."
+    ]
+  },
+  "łáglalitix": {
+    "root": "łáglalitix",
+    "partOfSpeech": "vb",
+    "definition": "they are sitting on it[a- ]",
+    "examples": [
+      {
+        "kiksht": "Akním qusht łáglaitix ich'inun iłiáuxwiksh.",
+        "english": "Eagle's younger brothers are sitting on a canoe. [WTI.4.2]"
+      }
+    ],
+    "seeAlso": [
+      "-LA-it"
+    ]
   }
 }
