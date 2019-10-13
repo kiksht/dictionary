@@ -15642,3 +15642,38 @@ Forms: ch¬ula “he is training them” ch¬igilat “he is training them for h
 Notes: This may be simply a variant meaning and usage of the root -la- “sharpen.” More likely, it should be regarded as an additional meaning of -la “move.”
 
 
+
+
+
+
+
+
+
+-LA [vb] move (boat), boat
+Forms: ch¬ulat “he is moving it (boat), he is boating” ch¬ulalal “he is moving it (boat) about, he is boating about” ch¬igilat “he is moving it (boat) towards him; he is moving them towards him” chaigilat “he has it[a-] anchored to it[i-]; he is moving it[a-] towards it[i-]” nigilat “I am moving it[i-] (boat) towards him; I am going after him with a boat” inigila “I moved it[i-] (boat) towards him” emshgingidla “you folks brought it[i-] (boat) over for me” niyamgidla “I brought it[i-] over for you (last week)” niniagidla “I brought it[i-]/him (boat, or in boat) over for her (last week)” ninigidla “I brought it[i-]/him over for him (last week)” nichˆngidla “he brought it[i-] over for me (last week)” ninigila “I brought it[i-]/him over for him (last season)” chai©ilaq¬qt “he is moving it[a-] away from him” [Dyk]
+See also: -i-gi-LA-ix, -i-LA-wulx-(d)-ix, -a-k-LA-qw
+
+-LA [vb] sharpen
+Forms: chula “he is sharpening it[a- ]” nichadla “he sharpened it[a-]” ik’ila “he is sharpening” ixlk’ila “he is sharpening (for himself)” nigixitk’ila “he was sharpening (for himself)” yulat “it[i-] is sharpened” [Dyk]
+Notes: -la- “train, exercise, practice” may be simply a variant meaning of this root.
+
+-LA [vb] shake
+Forms: chula “he is shaking it[a-]” ch¬ula “he is shaking them” nichadla “he was shaking it[a-]” niulalal “I am shaking it[i-]” ch¬ulalal “he is shak- ing them” galuxwalalamchk “they shook themselves” [Dyk]
+See also: -l-LA-kw
+
+-gm-LA [vb] put under one’s arm
+Forms: chiagemla “he is putting it[i-] under her arm” igixemla “he put it[i- ] under his own arm” [Dyk]
+
+-x-LA [vb] move oneself, train (one- self), exercise, practice
+Forms: a¬xlaya “he[i¬-] will train” [WTII.9.1]
+
+-x-LA [vb] move, wiggle, be alive (after trauma), shake
+Forms: ixlalal “he is moving, wig- gling; he is still alive (after having been shot)” enxlalal “I’’m moving, wiggling; I’m still alive (after having been shot)” [In Dyk’s notes, ixlalal and enxlala in sense of “still alive” have a long first -a-: ixlaalal, enxlaalal, in contrast to the sense of “moving, wiggling;” though he glosses them in the former sense as meaning “still wiggling, still mov- ing.”] [Dyk]
+Examples: Wilx galixla. “The earth shook.” [WTI.10.1]
+Notes: The meaning “train, exercise, practice” probably derives from the meaning “move (oneself).”
+
+-x-l-LA [vb] stick up for, take up for
+Forms: yaxailat “he is sticking up for her” igixila “he stuck up for him” emshxilat “you folks are sticking up for one another (against someone else)” imshxˆlaxit “you folks took up for one another (as in a fight)” iguxwidlaxit “they took up for one another (over there)” [Dyk]
+
+-LA-chgwa-mit [vb] get up, rouse, cause to be up
+Forms: chiulachgwamit “he has got- ten him up (as from bed)” gachiulachgwamit “he got him up” gagiulachgwamit “she got him up” [Dyk]

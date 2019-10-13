@@ -4891,27 +4891,54 @@
   "-LA": {
     "root": "-LA",
     "partOfSpeech": "vb",
-    "definition": "train, exercise, practice",
+    "definition": "shake",
     "forms": [
       {
+        "kiksht": "chula",
+        "english": "he is shaking it[a-]"
+      },
+      {
         "kiksht": "chłula",
-        "english": "he is training them"
+        "english": "he is shaking them"
       },
       {
-        "kiksht": "chłigilat",
-        "english": "he is training them for him"
+        "kiksht": "nichadla",
+        "english": "he was shaking it[a-]"
       },
       {
-        "kiksht": "ixlá",
-        "english": "he is training (himself) [Dyk]"
+        "kiksht": "niulalal",
+        "english": "I am shaking it[i-]"
       },
       {
-        "kiksht": "anxlaya",
-        "english": "I will train (myself) [PK 6/18/56]"
+        "kiksht": "chłulalal",
+        "english": "he is shak- ing them"
+      },
+      {
+        "kiksht": "galuxwalalamchk",
+        "english": "they shook themselves [Dyk]"
       }
     ],
-    "notes": [
-      "This may be simply a variant meaning and usage of the root -la- \"sharpen.\" More likely, it should be regarded as an additional meaning of -la \"move.\""
+    "seeAlso": [
+      "-l-LA-kw"
+    ]
+  },
+  "-LA-chgwa-mit": {
+    "root": "-LA-chgwa-mit",
+    "partOfSpeech": "vb",
+    "definition": "get up, rouse, cause to be up",
+    "forms": [
+      {
+        "kiksht": "chiulachgwamit",
+        "english": "he has got- ten him up (as from bed)"
+      },
+      {
+        "kiksht": "gachiulachgwamit",
+        "english": "he got him up"
+      },
+      {
+        "kiksht": "gagiulachgwamit",
+        "english": "she got him up [Dyk]"
+      }
     ]
   },
   "-a-gl- G̲AYA": {
@@ -6777,6 +6804,21 @@
     ],
     "notes": [
       "Can be understood literally to mean \"stretch beside.\" So chigmk'kwłnił \"he is measuring it[i-]\" can be understood literally \"he (-ch-) is stretching (-kwłnił) something (- k'i-) beside (-gm-) it[i-] (-i-).\" -k'm- kwłi appears to mean the same as - gm-kwłi."
+    ]
+  },
+  "-gm-LA": {
+    "root": "-gm-LA",
+    "partOfSpeech": "vb",
+    "definition": "put under one's arm",
+    "forms": [
+      {
+        "kiksht": "chiagemla",
+        "english": "he is putting it[i-] under her arm"
+      },
+      {
+        "kiksht": "igixemla",
+        "english": "he put it[i- ] under his own arm [Dyk]"
+      }
     ]
   },
   "-gm-k'i-KWŁI": {
@@ -13067,6 +13109,42 @@
       }
     ]
   },
+  "-x-LA": {
+    "root": "-x-LA",
+    "partOfSpeech": "vb",
+    "definition": "move, wiggle, be alive (after trauma), shake",
+    "forms": [
+      {
+        "kiksht": "ixlalal",
+        "english": "he is moving, wig- gling; he is still alive (after having been shot)"
+      },
+      {
+        "kiksht": "enxlalal",
+        "english": "I''m moving, wiggling; I'm still alive (after having been shot)"
+      },
+      {
+        "kiksht": "[In Dyk's notes, ixlalal and enxlala in sense of",
+        "english": "still alive"
+      },
+      {
+        "kiksht": "have a long first -a-: ixlaalal, enxlaalal, in contrast to the sense of",
+        "english": "moving, wiggling;"
+      },
+      {
+        "kiksht": "though he glosses them in the former sense as meaning",
+        "english": "still wiggling, still mov- ing.] [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Wilx galixla.",
+        "english": "The earth shook. [WTI.10.1]"
+      }
+    ],
+    "notes": [
+      "The meaning \"train, exercise, practice\" probably derives from the meaning \"move (oneself).\""
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -13587,6 +13665,33 @@
       {
         "kiksht": "iyaxalkwłichk",
         "english": "he told her [Dyk]"
+      }
+    ]
+  },
+  "-x-l-LA": {
+    "root": "-x-l-LA",
+    "partOfSpeech": "vb",
+    "definition": "stick up for, take up for",
+    "forms": [
+      {
+        "kiksht": "yaxailat",
+        "english": "he is sticking up for her"
+      },
+      {
+        "kiksht": "igixila",
+        "english": "he stuck up for him"
+      },
+      {
+        "kiksht": "emshxilat",
+        "english": "you folks are sticking up for one another (against someone else)"
+      },
+      {
+        "kiksht": "imshxílaxit",
+        "english": "you folks took up for one another (as in a fight)"
+      },
+      {
+        "kiksht": "iguxwidlaxit",
+        "english": "they took up for one another (over there) [Dyk]"
       }
     ]
   },
