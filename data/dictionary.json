@@ -5931,6 +5931,57 @@
       "i-kigiłxal, it-kigiłxalxat, i- kigiłxalmat"
     ]
   },
+  "-gl-KWA-kw": {
+    "root": "-gl-KWA-kw",
+    "partOfSpeech": "vb",
+    "definition": "go across, come across, cross",
+    "forms": [
+      {
+        "kiksht": "yagelgwákwt",
+        "english": "he is going across it[a-]"
+      },
+      {
+        "kiksht": "aigelgwalkwłix",
+        "english": "she is going across it[i-] (a place)"
+      },
+      {
+        "kiksht": "igelgwalkwłix",
+        "english": "he is going across it[i-] (a place) (continually)"
+      },
+      {
+        "kiksht": "igelgwakwdix",
+        "english": "he is going across it[i-] (a place)"
+      },
+      {
+        "kiksht": "aigelgwakwdix",
+        "english": "she is going across it[i-] (a place)"
+      },
+      {
+        "kiksht": "aigitgwakwdix",
+        "english": "she is coming across it[i-] (a place); she was going across it"
+      },
+      {
+        "kiksht": "igitgwakwdix",
+        "english": "he is coming across it[i-] (a place); he was going across it"
+      },
+      {
+        "kiksht": "igaigelkwagwix",
+        "english": "she went across it[i-] (a place)"
+      },
+      {
+        "kiksht": "iłigelkwagwix",
+        "english": "they walked across it[i-] (a place)"
+      },
+      {
+        "kiksht": "agelgwakux",
+        "english": "it[a-] has been crossed"
+      },
+      {
+        "kiksht": "igelgwakuxix",
+        "english": "it[i-] (a place) has been crossed [Dyk]"
+      }
+    ]
+  },
   "-gm- G̲A-it": {
     "root": "-gm- G̲A-it",
     "partOfSpeech": "vb",
@@ -10827,6 +10878,36 @@
       }
     ]
   },
+  "-x-GWA-mit": {
+    "root": "-x-GWA-mit",
+    "partOfSpeech": "vb",
+    "definition": "destroy, deprive of life, transform (by spirit power)",
+    "forms": [
+      {
+        "kiksht": "chixgwamit",
+        "english": "he has him de- stroyed; he has him transformed"
+      },
+      {
+        "kiksht": "chaxgwamalit",
+        "english": "he is destroying him; he is transforming him"
+      },
+      {
+        "kiksht": "chixatgwamit",
+        "english": "he was destroying him; he had him destroyed; he was transforming him; he had him trans- formed"
+      },
+      {
+        "kiksht": "inixgwamit",
+        "english": "I deprived him of life"
+      },
+      {
+        "kiksht": "shxgwamitix",
+        "english": "they 2 are destroyed [Dyk]"
+      }
+    ],
+    "notes": [
+      "The transformation referred to here is by spirit power into an- other shape, etc."
+    ]
+  },
   "-x-GWI-qw": {
     "root": "-x-GWI-qw",
     "partOfSpeech": "vb",
@@ -12303,6 +12384,21 @@
       {
         "kiksht": "Yuxugaxaimat idiapápakwn.",
         "english": "He's lying on his paws. [GT, MMc 1/15/ 99]"
+      }
+    ]
+  },
+  "-xa-t-GWA-mam": {
+    "root": "-xa-t-GWA-mam",
+    "partOfSpeech": "vb",
+    "definition": "be resurrected, return from being extinct",
+    "forms": [
+      {
+        "kiksht": "ganxatgwamam",
+        "english": "I am resur- rected, return from being extinct"
+      },
+      {
+        "kiksht": "galaxatgwamam",
+        "english": "she is resurrected [Dyk]"
       }
     ]
   },
@@ -45080,6 +45176,14 @@
       "ił-kupi, ił-kwapi"
     ]
   },
+  "i-kwada": {
+    "root": "i-kwada",
+    "partOfSpeech": "n",
+    "definition": "quarter (coin)",
+    "notes": [
+      "Borrowed from English"
+    ]
+  },
   "i-kxalal": {
     "root": "i-kxalal",
     "partOfSpeech": "n",
@@ -50697,6 +50801,23 @@
       "From stem -kus \"eye\"; see i- xus."
     ]
   },
+  "ił-kwapi": {
+    "root": "ił-kwapi",
+    "partOfSpeech": "n",
+    "definition": "coffee",
+    "forms": [
+      {
+        "kiksht": "iłyaxwapi",
+        "english": "his coffee [Dyk]"
+      }
+    ],
+    "notes": [
+      "From English (or perhaps French), probably through Chinook Jargon. Another form of the word, probably taken directly from English, is i-kupi."
+    ],
+    "seeAlso": [
+      "i-kupi, ił-kupi"
+    ]
+  },
   "ił-kálaikalai": {
     "root": "ił-kálaikalai",
     "partOfSpeech": "n",
@@ -52031,6 +52152,143 @@
         "kiksht": "Kushtk alanxilxułama.",
         "english": "I will go dip-netting before breakfast. [Dyk]"
       }
+    ]
+  },
+  "kwaba": {
+    "root": "kwaba",
+    "partOfSpeech": "adv",
+    "definition": "there, at that place",
+    "examples": [
+      {
+        "kiksht": "Uuuxt kwaba.",
+        "english": "She is still sitting there. [Dyk's transcription is w:xt...]"
+      },
+      {
+        "kiksht": "Dengi kwaba.",
+        "english": "Something is there."
+      },
+      {
+        "kiksht": "kwaba yaxt'ax ip'ishxash",
+        "english": "there he too Skunk [Dyk]"
+      }
+    ]
+  },
+  "kwabát": {
+    "root": "kwabát",
+    "partOfSpeech": "pron",
+    "definition": "same amount still, still that much",
+    "seeAlso": [
+      "kwapt, kwapdix, łkwapdiksh"
+    ]
+  },
+  "kwadau": {
+    "root": "kwadau",
+    "partOfSpeech": "conj",
+    "definition": "and",
+    "pronunciation": "Stress on this word varies; Dyk gives kwádau, but both that and kwadáu are heard.",
+    "seeAlso": [
+      "kwadáu"
+    ]
+  },
+  "kwadáu": {
+    "root": "kwadáu",
+    "partOfSpeech": "adv",
+    "definition": "for the first time",
+    "seeAlso": [
+      "kwadau"
+    ]
+  },
+  "kwaish": {
+    "root": "kwaish",
+    "partOfSpeech": "adv",
+    "definition": "still [temporal], yet, now",
+    "examples": [
+      {
+        "kiksht": "Kwaish amyuxa.",
+        "english": "You'll do it[i-] soon."
+      },
+      {
+        "kiksht": "(Compare Ałqi amitxa",
+        "english": "You'll do it later"
+      },
+      {
+        "kiksht": ") Kwaish ik'iwalq.",
+        "english": "He is still killing."
+      },
+      {
+        "kiksht": "kwaish bam(a) ikala",
+        "english": "a new man, one just coming to manhood"
+      },
+      {
+        "kiksht": "(Compare g̲ang̲at bam(a) ikala",
+        "english": "an old man"
+      },
+      {
+        "kiksht": ") kwaish yaxa iyatłqdix",
+        "english": "long ways yet"
+      },
+      {
+        "kiksht": "kwaish yatłqtix",
+        "english": "long long time yet"
+      },
+      {
+        "kiksht": "yaxi kwaish",
+        "english": "long time yet"
+      },
+      {
+        "kiksht": "kwaish kadux",
+        "english": "early morning"
+      },
+      {
+        "kiksht": "ałqi kwaish",
+        "english": "wait a little while"
+      },
+      {
+        "kiksht": "kwaish alma",
+        "english": "after a while"
+      },
+      {
+        "kiksht": "Kwaish atgadímama.",
+        "english": "Pretty soon they'll arrive here."
+      },
+      {
+        "kiksht": "Kwaish anyukshdama.",
+        "english": "I am going to see him soon."
+      },
+      {
+        "kiksht": "'Atxuya ag̲a.' 'Ałqi kwaish.'",
+        "english": "'Let's go now.' 'After a while.' [Dyk] kwal [adv] quickly"
+      }
+    ]
+  },
+  "kwaldix": {
+    "root": "kwaldix",
+    "partOfSpeech": "adv",
+    "definition": "quickly",
+    "seeAlso": [
+      "kwal, kuldix"
+    ]
+  },
+  "kwapdix": {
+    "root": "kwapdix",
+    "partOfSpeech": "conj",
+    "definition": "same number, just as many, that many",
+    "examples": [
+      {
+        "kiksht": "Kwapdix inuya.",
+        "english": "I went that many times, as many times as I was supposed to have gone."
+      },
+      {
+        "kiksht": "Kwapdix wit'(a) inuya.",
+        "english": "Again that many times I went."
+      },
+      {
+        "kiksht": "Kwapdix wit'a inuya chushdix.",
+        "english": "The same number of times again I went this evening. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kwapt, kwabát, łkwapdiksh"
     ]
   },
   "kwapt": {

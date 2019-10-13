@@ -15136,3 +15136,51 @@ Forms: aq¬akÅtgwaya “one will pile them on it[a-]” [WTII.7.2]
 Forms: inelgwax “I am thinking of him” chnelgwax “he is thinking of me” alailgwachkwa “he will think of her” ailgwax “he is thinking of me” aitgwÅx “he was thingking of her; she was thinking of her” igailkwÅchk “he thought of her (several times)”
 Notes: The person thinking is repre- sented by a pronoun immediately before -l- (position 4); the person or thing thought of is represented by a pronoun in position 3; except when the person thinking is 3rd person and the person or thing thought of is 1st or 2nd person; then the person thinking is represented by an active pronoun in position 2 and the person or thing thought of by a neutral pro- noun in position 3.
 See also: -l-KA-¬x
+
+
+
+
+
+
+
+
+-gl-KWA-kw [vb] go across, come across, cross
+Forms: yagelgwÅkwt “he is going across it[a-]” aigelgwalkw¬ix “she is going across it[i-] (a place)” igelgwalkw¬ix “he is going across it[i-] (a place) (continually)” igelgwakwdix “he is going across it[i-] (a place)” aigelgwakwdix “she is going across it[i-] (a place)” aigitgwakwdix “she is coming across it[i-] (a place); she was going across it” igitgwakwdix “he is coming across it[i-] (a place); he was going across it” igaigelkwagwix “she went across it[i-] (a place)” i¬igelkwagwix “they walked across it[i-] (a place)” agelgwakux “it[a-] has been crossed” igelgwakuxix “it[i-] (a place) has been crossed” [Dyk]
+
+-xa-t-GWA-mam [vb] be resurrected, return from being extinct
+Forms: ganxatgwamam “I am resur- rected, return from being extinct” galaxatgwamam “she is resurrected” [Dyk]
+
+-x-GWA-mit [vb] destroy, deprive of life, transform (by spirit power)
+Forms: chixgwamit “he has him de- stroyed; he has him transformed” chaxgwamalit “he is destroying him; he is transforming him” chixatgwamit “he was destroying him; he had him destroyed; he was transforming him; he had him trans- formed” inixgwamit “I deprived him of life” shxgwamitix “they 2 are destroyed” [Dyk]
+Notes: The transformation referred to here is by spirit power into an- other shape, etc.
+
+kwaba [adv] there, at that place
+Examples: Uuuxt kwaba. “She is still sitting there.” [Dyk’s transcription is w:xt...] Dengi kwaba. “Something is there.” kwaba yaxt’ax ip’ishxash “there he too Skunk” [Dyk]
+
+kwabÅt [pron] same amount still, still that much
+See also: kwapt, kwapdix, ¬kwapdiksh
+
+i-kwada [n] quarter (coin)
+Notes: Borrowed from English
+
+kwadau [conj] and
+Pronunciation: Stress on this word varies; Dyk gives kwÅdau, but both that and kwadÅu are heard.
+See also: kwadÅu
+
+kwadÅu [adv] for the first time
+See also: kwadau
+
+kwaish [adv] still [temporal], yet, now
+Examples: Kwaish amyuxa. “You’ll do it[i-] soon.” (Compare A¬qi amitxa “You’ll do it later”) Kwaish ik’iwalq. “He is still killing.” kwaish bam(a) ikala “a new man, one just coming to manhood” (Compare ©an©at bam(a) ikala “an old man”) kwaish yaxa iyat¬qdix “long ways yet” kwaish yat¬qtix “long long time yet” yaxi kwaish “long time yet” kwaish kadux “early morning” a¬qi kwaish “wait a little while” kwaish alma “after a while” Kwaish atgadˆmama. “Pretty soon they’ll arrive here.” Kwaish anyukshdama. “I am going to see him soon.” ‘Atxuya a©a.’ ‘A¬qi kwaish.’ “‘Let’s go now.’ ‘After a while.’” [Dyk] kwal [adv] quickly
+
+kwaldix [adv] quickly
+See also: kwal, kuldix
+
+kwapdix [conj] same number, just as many, that many
+Examples: Kwapdix inuya. “I went that many times, as many times as I was supposed to have gone.” Kwapdix wit’(a) inuya. “Again that many times I went.” Kwapdix wit’a inuya chushdix. “The same number of times again I went this evening.” [Dyk]
+See also: kwapt, kwabÅt, ¬kwapdiksh
+
+i¬-kwapi [n] coffee
+Forms: i¬yaxwapi “his coffee” [Dyk]
+Notes: From English (or perhaps French), probably through Chinook Jargon. Another form of the word, probably taken directly from English, is i-kupi.
+See also: i-kupi, i¬-kupi
