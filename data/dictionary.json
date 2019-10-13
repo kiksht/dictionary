@@ -6741,6 +6741,20 @@
       "i-k'inatłxamat, i- k'inantłxmat, ił-k'inántłxmat, i- qixinantłx"
     ]
   },
+  "-NAX̲Ł": {
+    "root": "-NAX̲Ł",
+    "partOfSpeech": "vb",
+    "definition": "look for, search for",
+    "examples": [
+      {
+        "kiksht": "Gałgiunaxł iłag̲iwam.",
+        "english": "They looked for a medicine man. [WTI.1c.4]"
+      }
+    ],
+    "seeAlso": [
+      "-NAX̲TŁ"
+    ]
+  },
   "-NAŁX̲": {
     "root": "-NAŁX̲",
     "partOfSpeech": "vb",
@@ -14828,6 +14842,20 @@
         "kiksht": "inanukshmax",
         "english": "otters [Dyk]"
       }
+    ]
+  },
+  "-nat": {
+    "root": "-nat",
+    "partOfSpeech": "n",
+    "definition": "half",
+    "examples": [
+      {
+        "kiksht": "Gachut'aba aixt ak'ádaqi. Anad luq gachúx, anad naixlútk.",
+        "english": "He caught a chub. One half he ate, one half he put away for himself. [WTI.13.4)"
+      }
+    ],
+    "seeAlso": [
+      "shitix"
     ]
   },
   "-q'l-ŁX̲I": {
@@ -25036,6 +25064,11 @@
         "english": "I have a sore throat [Spilyay/sick]"
       }
     ]
+  },
+  "a-naq'naq'": {
+    "root": "a-naq'naq'",
+    "partOfSpeech": "n",
+    "definition": "windpipe, glottis"
   },
   "a-łashqw'imliq": {
     "root": "a-łashqw'imliq",
@@ -49286,6 +49319,24 @@
       "i-mulak, -yamulgix"
     ]
   },
+  "i- -naxnáx": {
+    "root": "i- -naxnáx",
+    "partOfSpeech": "adj n",
+    "definition": "blunt, edgeless, toothless",
+    "forms": [
+      {
+        "kiksht": "ichanaxnáx",
+        "english": "it[a-] is blunt"
+      },
+      {
+        "kiksht": "iyanaxnáx",
+        "english": "he is toothless [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "nex, shainexnex, it- -nexnex"
+    ]
+  },
   "i- -ánana": {
     "root": "i- -ánana",
     "partOfSpeech": "adj n",
@@ -56608,6 +56659,17 @@
       "nadidanwit"
     ]
   },
+  "i-natłxat": {
+    "root": "i-natłxat",
+    "partOfSpeech": "n",
+    "definition": "hair",
+    "notes": [
+      "General term for any sort of hair. See ił-natłxat and wa-natłxat."
+    ],
+    "seeAlso": [
+      "ił-natłxat, wa-natłxat"
+    ]
+  },
   "i-shmiwa": {
     "root": "i-shmiwa",
     "partOfSpeech": "n",
@@ -57279,6 +57341,17 @@
     "root": "id-múimax",
     "partOfSpeech": "n",
     "definition": "salt lick, alkali spot"
+  },
+  "id-nawaitk": {
+    "root": "id-nawaitk",
+    "partOfSpeech": "n",
+    "definition": "gillnet",
+    "forms": [
+      {
+        "kiksht": "idnáwaitkmax",
+        "english": "gill nets [Dyk]"
+      }
+    ]
   },
   "id-náchk": {
     "root": "id-náchk",
@@ -62947,6 +63020,14 @@
       }
     ]
   },
+  "ił-natłxat": {
+    "root": "ił-natłxat",
+    "partOfSpeech": "n",
+    "definition": "hair on head (human only)",
+    "seeAlso": [
+      "i-natłxat, wa-natłxat"
+    ]
+  },
   "ił-łpuksh": {
     "root": "ił-łpuksh",
     "partOfSpeech": "n",
@@ -66190,12 +66271,149 @@
       "-KA"
     ]
   },
+  "nanuya": {
+    "root": "nanuya",
+    "partOfSpeech": "vb",
+    "definition": "I went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
   "nanłg̲elglaya": {
     "root": "nanłg̲elglaya",
     "partOfSpeech": "vb",
     "definition": "I saw it",
     "seeAlso": [
       "-g̲l-KL"
+    ]
+  },
+  "naqi": {
+    "root": "naqi",
+    "partOfSpeech": "part",
+    "definition": "not",
+    "examples": [
+      {
+        "kiksht": "Naqi qengi iniulxam.",
+        "english": "I didn't tell him anything, I didn't say anything to him."
+      },
+      {
+        "kiksht": "naqi wit'a",
+        "english": "not again, not anymore [K'aya qengi inyulxam accepted by MMc 12/22/ 97 as meaning same as first ex- ample.]"
+      }
+    ],
+    "notes": [
+      "For the difference between naqi and k'aya, see the grammar."
+    ],
+    "seeAlso": [
+      "nashqi"
+    ]
+  },
+  "naqá": {
+    "root": "naqá",
+    "partOfSpeech": "part",
+    "definition": "not, no longer",
+    "examples": [
+      {
+        "kiksht": "Naqá dika alxuxwa ag̲a alxkw'aya.",
+        "english": "Let us no longer stay here, let us return home. [WTIV.2.16]"
+      }
+    ],
+    "seeAlso": [
+      "naqi"
+    ]
+  },
+  "nashqi": {
+    "root": "nashqi",
+    "partOfSpeech": "adv",
+    "definition": "not",
+    "examples": [
+      {
+        "kiksht": "Nashqi qidau!",
+        "english": "Do not do that! [GT 12/29/97]"
+      }
+    ],
+    "notes": [
+      "Meaning uncertain. May be simply an alternate form of naqi."
+    ],
+    "seeAlso": [
+      "naqi"
+    ]
+  },
+  "nawit": {
+    "root": "nawit",
+    "partOfSpeech": "adv",
+    "definition": "at once, immediately, straight, directly",
+    "examples": [
+      {
+        "kiksht": "Gałxelkchu iłdudu iłakwshxatpa nawit łxwab wilx.",
+        "english": "They sank tubes down in themselves through their mouths reaching down straight to the ground. [WTI.4.4]"
+      },
+      {
+        "kiksht": "K'ala gachux ag̲agilak nawit dika.",
+        "english": "He packed the woman on his back way over here."
+      },
+      {
+        "kiksht": "Nawit kwaba iyuya.",
+        "english": "He went directly to there."
+      },
+      {
+        "kiksht": "nawit ag̲agílakpa",
+        "english": "straight to the woman, right to the woman"
+      },
+      {
+        "kiksht": "Nawit iyuya.",
+        "english": "He went immediately."
+      },
+      {
+        "kiksht": "Nawit anuit dika aqixadimaxitam ik'álamat.",
+        "english": "The rock was thrown right up to here. [Dyk]"
+      }
+    ]
+  },
+  "nawitka": {
+    "root": "nawitka",
+    "partOfSpeech": "interj",
+    "definition": "sure, for sure",
+    "examples": [
+      {
+        "kiksht": "Nawitka, shiksh.",
+        "english": "Sure, my friend. [Dyk]"
+      }
+    ],
+    "notes": [
+      "This is probably a Jargon word. [GT, MMc 12/30/97]"
+    ]
+  },
+  "naxailutk": {
+    "root": "naxailutk",
+    "partOfSpeech": "vb",
+    "definition": "she tracked him",
+    "seeAlso": [
+      "-x-l-TK"
+    ]
+  },
+  "naxashkxaima": {
+    "root": "naxashkxaima",
+    "partOfSpeech": "vb",
+    "definition": "she lay herself on them 2",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "naxkw'á": {
+    "root": "naxkw'á",
+    "partOfSpeech": "vb",
+    "definition": "she went home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "naxáilkwłichkwam": {
+    "root": "naxáilkwłichkwam",
+    "partOfSpeech": "vb",
+    "definition": "she came to tell him",
+    "seeAlso": [
+      "-x-l-KWŁI"
     ]
   },
   "nałenxelmuxma": {
@@ -66885,6 +67103,17 @@
         "kiksht": "wamxch, wamxchmax",
         "english": "cores [Dyk]"
       }
+    ]
+  },
+  "wa-natłxat": {
+    "root": "wa-natłxat",
+    "partOfSpeech": "n",
+    "definition": "scalp (including hair), hair",
+    "notes": [
+      "According to Dyk, this refers to scalp and hair on it together. See i- natłxat and ił-natłxat. In WTI.13.6, however, the word appears to refer simply to hair."
+    ],
+    "seeAlso": [
+      "(w)a-nałxat, i-natłxat, ił- natłxat"
     ]
   },
   "wa-łala": {

@@ -18655,3 +18655,73 @@ See also: -KA
 
 -nanuksh [n] otter
 Forms: inanuksh “male otter” ananuksh “female otter” inanukshmax “otters” [Dyk]
+
+
+
+
+
+
+
+nanuya [vb] I went
+See also: -I
+
+naqÅ [part] not, no longer
+Examples: NaqÅ dika alxuxwa a©a alxkw’aya. “Let us no longer stay here, let us return home.” [WTIV.2.16]
+See also: naqi
+
+naqi [part] not
+Examples: Naqi qengi iniulxam. “I didn’t tell him anything, I didn’t say anything to him.” naqi wit’a “not again, not anymore” [K’aya qengi inyulxam accepted by MMc 12/22/ 97 as meaning same as first ex- ample.]
+Notes: For the difference between naqi and k’aya, see the grammar.
+See also: nashqi
+
+a-naq’naq’ [n] windpipe, glottis
+
+nashqi [adv] not
+Examples: Nashqi qidau! “Do not do that!” [GT 12/29/97]
+Notes: Meaning uncertain. May be simply an alternate form of naqi.
+See also: naqi
+
+-nat [n] half
+Examples: Gachut’aba aixt ak’Ådaqi. Anad luq gach ̈x, anad naixl ̈tk. “He caught a chub. One half he ate, one half he put away for himself.” [WTI.13.4)
+See also: shitix
+
+i¬-nat¬xat [n] hair on head (human only)
+See also: i-nat¬xat, wa-nat¬xat
+
+i-nat¬xat [n] hair
+Notes: General term for any sort of hair. See i¬-nat¬xat and wa-nat¬xat.
+See also: i¬-nat¬xat, wa-nat¬xat
+
+wa-nat¬xat [n] scalp (including hair), hair
+Notes: According to Dyk, this refers to scalp and hair on it together. See i- nat¬xat and i¬-nat¬xat. In WTI.13.6, however, the word appears to refer simply to hair.
+See also: (w)a-na¬xat, i-nat¬xat, i¬- nat¬xat
+
+id-nawaitk [n] gillnet
+Forms: idnÅwaitkmax “gill nets” [Dyk]
+
+nawit [adv] at once, immediately, straight, directly
+Examples: Ga¬xelkchu i¬dudu i¬akwshxatpa nawit ¬xwab wilx. “They sank tubes down in themselves through their mouths reaching down straight to the ground.” [WTI.4.4] K’ala gachux a©agilak nawit dika. “He packed the woman on his back way over here.” Nawit kwaba iyuya. “He went directly to there.” nawit a©agˆlakpa “straight to the woman, right to the woman” Nawit iyuya. “He went immediately.” Nawit anuit dika aqixadimaxitam ik’Ålamat. “The rock was thrown right up to here.” [Dyk]
+
+nawitka [interj] sure, for sure
+Examples: Nawitka, shiksh. “Sure, my friend.” [Dyk]
+Notes: This is probably a Jargon word. [GT, MMc 12/30/97]
+
+naxkw’Å [vb] she went home
+See also: -x-KW’A
+
+i- -naxnÅx [adj n] blunt, edgeless, toothless
+Forms: ichanaxnÅx “it[a-] is blunt” iyanaxnÅx “he is toothless” [Dyk]
+See also: nex, shainexnex, it- -nexnex
+
+naxÅilkw¬ichkwam [vb] she came to tell him
+See also: -x-l-KWÒI
+
+naxailutk [vb] she tracked him
+See also: -x-l-TK
+
+naxashkxaima [vb] she lay herself on them 2
+See also: -xa-IMA
+
+-NA ̨Ò [vb] look for, search for
+Examples: Ga¬giunax¬ i¬a©iwam. “They looked for a medicine man.” [WTI.1c.4]
+See also: -NA ̨TÒ
