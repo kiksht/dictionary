@@ -5216,6 +5216,161 @@
       }
     ]
   },
+  "-LK-chu": {
+    "root": "-LK-chu",
+    "partOfSpeech": "vb",
+    "definition": "fall, drop",
+    "forms": [
+      {
+        "kiksht": "ayulkchwaya",
+        "english": "it[i-] fell down [WTIV.4.2]"
+      },
+      {
+        "kiksht": "yulkwchx",
+        "english": "he is falling (as from a cliff or house; in that direction)"
+      },
+      {
+        "kiksht": "itlkwchx",
+        "english": "he is fall- ing (in this direction; from above)"
+      },
+      {
+        "kiksht": "tgelkwchx",
+        "english": "they are fallling"
+      },
+      {
+        "kiksht": "yulkwchníł",
+        "english": "it[i-] is falling (at different times; again and again, as for instance a steam hammer)"
+      },
+      {
+        "kiksht": "yulkwchł",
+        "english": "he is falling, trying to fall (as when hanging and about to drop)"
+      },
+      {
+        "kiksht": "iyulkwchu",
+        "english": "he dropped"
+      },
+      {
+        "kiksht": "nigitlkwchu",
+        "english": "he dropped (last week)"
+      },
+      {
+        "kiksht": "niyulkwchx",
+        "english": "he was dropping (last season)"
+      },
+      {
+        "kiksht": "galulkwchux",
+        "english": "she dropped"
+      },
+      {
+        "kiksht": "gałulkwchúx",
+        "english": "it dropped"
+      },
+      {
+        "kiksht": "iyulkchwamam",
+        "english": "he arrived there falling"
+      },
+      {
+        "kiksht": "igitlkwchwamam",
+        "english": "he arrived here falling"
+      },
+      {
+        "kiksht": "nayaxatlkwchwamam",
+        "english": "she got her and he dropped from her"
+      },
+      {
+        "kiksht": "with relational prefixes: yug̲wílkwchx",
+        "english": "he is falling from off them"
+      },
+      {
+        "kiksht": "yug̲wídelkwchx",
+        "english": "he was falling from off them"
+      },
+      {
+        "kiksht": "igingilkwchu",
+        "english": "he fell off of me"
+      },
+      {
+        "kiksht": "inag̲ilkwchu",
+        "english": "I fell off of her"
+      },
+      {
+        "kiksht": "iyagelkwchu",
+        "english": "he fell on her"
+      },
+      {
+        "kiksht": "galigelkwchu",
+        "english": "he fell on him"
+      },
+      {
+        "kiksht": "iyailkwchu",
+        "english": "he fell into it[a-]"
+      },
+      {
+        "kiksht": "iyask'emlkwcu",
+        "english": "he fell under it[a-]"
+      },
+      {
+        "kiksht": "anaxélkwchwaya",
+        "english": "I will drop from it[a-]"
+      },
+      {
+        "kiksht": "ałnxélkwchwaya",
+        "english": "it will drop from me"
+      },
+      {
+        "kiksht": "alimxélkwchwaya",
+        "english": "it[i-] will drop from you"
+      },
+      {
+        "kiksht": "alaixélkwchwaya",
+        "english": "it[a-] will drop from him"
+      },
+      {
+        "kiksht": "inxelkwchx",
+        "english": "it[i-] is dropping from me"
+      },
+      {
+        "kiksht": "iginxelkwchu",
+        "english": "it[i-] dropped from me"
+      },
+      {
+        "kiksht": "yaxelkwchu",
+        "english": "it[i-] dropped from her"
+      },
+      {
+        "kiksht": "inaxelkwchu",
+        "english": "I dropped from her (as when being carried)"
+      },
+      {
+        "kiksht": "nigaixatlkwchu",
+        "english": "she dropped from him (last week)"
+      },
+      {
+        "kiksht": "gałłxelkwchu",
+        "english": "it dropped from them [Dyk]"
+      },
+      {
+        "kiksht": "galiglukchuamam",
+        "english": "it[i-] came falling down on him [WTI.4.14]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Igulkchu alashísh.",
+        "english": "The chair fell. [GT, MMc]"
+      },
+      {
+        "kiksht": "Galigélekchu ikuma iskintwa.",
+        "english": "The cottonwood fell down on Black Bear. [WTI.4.14]"
+      }
+    ],
+    "seeAlso": [
+      "-CHU, -k-CHWA-mit"
+    ],
+    "notes": [
+      "-LK fall, drop [This root often occurs in the form -lek]"
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -11144,6 +11299,25 @@
     ],
     "seeAlso": [
       "wa-limx, wi-límx, ish-límx, id-limxauyuks, i-limxamum"
+    ]
+  },
+  "-líunan": {
+    "root": "-líunan",
+    "partOfSpeech": "n",
+    "definition": "cougar",
+    "forms": [
+      {
+        "kiksht": "ilíunan",
+        "english": "(male) cougar"
+      },
+      {
+        "kiksht": "alíunan",
+        "english": "(female) cougar"
+      },
+      {
+        "kiksht": "idlíunanksh, idlíunan",
+        "english": "cougars [Dyk]"
+      }
     ]
   },
   "-n-GA-kw": {
@@ -18912,6 +19086,14 @@
     "root": "a-limnu",
     "partOfSpeech": "n",
     "definition": "melon"
+  },
+  "a-lisák": {
+    "root": "a-lisák",
+    "partOfSpeech": "n",
+    "definition": "bag, sack",
+    "notes": [
+      "Borrowed from French les sacs \"bags,\" probably through Chi- nook Jargon."
+    ]
   },
   "a-lágamin": {
     "root": "a-lágamin",
@@ -49581,6 +49763,53 @@
       "-limx"
     ]
   },
+  "i-lipaq": {
+    "root": "i-lipaq",
+    "partOfSpeech": "n",
+    "definition": "rope",
+    "examples": [
+      {
+        "kiksht": "Iyagalxix ixuxt ałqidiwi ilipaq.",
+        "english": "His penis is just like rope. [WTI.1c1]"
+      }
+    ],
+    "seeAlso": [
+      "ił-lipaq"
+    ]
+  },
+  "i-lishál": {
+    "root": "i-lishál",
+    "partOfSpeech": "n",
+    "definition": "shawl",
+    "notes": [
+      "Borrowed from French, prob- ably through Chinook Jargon and Sahaptin."
+    ]
+  },
+  "i-lisák": {
+    "root": "i-lisák",
+    "partOfSpeech": "n",
+    "definition": "sack",
+    "forms": [
+      {
+        "kiksht": "idlisagmax",
+        "english": "sacks [Dyk]"
+      }
+    ],
+    "notes": [
+      "Borrowed from French, prob- ably via Chinook Jargon (from French le sac \"bag\")."
+    ]
+  },
+  "i-liwan": {
+    "root": "i-liwan",
+    "partOfSpeech": "n",
+    "definition": "rib, rib cut of meat",
+    "forms": [
+      {
+        "kiksht": "idlíwanmax",
+        "english": "ribs [GT, MMc 6/4/98]"
+      }
+    ]
+  },
   "i-láitk": {
     "root": "i-láitk",
     "partOfSpeech": "n",
@@ -52022,6 +52251,23 @@
     "definition": "bowstring",
     "seeAlso": [
       "is-elpqtit"
+    ]
+  },
+  "ish-lisht": {
+    "root": "ish-lisht",
+    "partOfSpeech": "n",
+    "definition": "fish tail",
+    "forms": [
+      {
+        "kiksht": "idlishtkaksh",
+        "english": "fish tails"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "tgup ishgalisht",
+        "english": "her tail is white; a female salmon, matured, ready to die [HS 6/23/56]"
+      }
     ]
   },
   "ish-límx": {
@@ -55321,6 +55567,17 @@
       "Borrowed from English \"rum.\""
     ]
   },
+  "ił-lipaq": {
+    "root": "ił-lipaq",
+    "partOfSpeech": "n",
+    "definition": "rope",
+    "notes": [
+      "Smaller and shorter than ilipaq."
+    ],
+    "seeAlso": [
+      "i-lipaq"
+    ]
+  },
   "ił-lá": {
     "root": "ił-lá",
     "partOfSpeech": "n",
@@ -58039,6 +58296,22 @@
     "seeAlso": [
       "-limx"
     ]
+  },
+  "wa-liq": {
+    "root": "wa-liq",
+    "partOfSpeech": "n",
+    "definition": "maiden, virgin, unmarried young woman",
+    "forms": [
+      {
+        "kiksht": "iłlig̲wamksh",
+        "english": "maidens"
+      }
+    ]
+  },
+  "wa-lishnan": {
+    "root": "wa-lishnan",
+    "partOfSpeech": "n",
+    "definition": "April"
   },
   "wi-'ísh": {
     "root": "wi-'ísh",
