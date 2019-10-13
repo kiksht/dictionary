@@ -5789,6 +5789,53 @@
       "i-k'imamalkwł"
     ]
   },
+  "-MAQT": {
+    "root": "-MAQT",
+    "partOfSpeech": "vb",
+    "definition": "die",
+    "forms": [
+      {
+        "kiksht": "iyumaqt",
+        "english": "he died"
+      },
+      {
+        "kiksht": "[Dyk and GT, MMc 1/14/99 contrast this with yumqt",
+        "english": "he is dead.]"
+      },
+      {
+        "kiksht": "igumaqt",
+        "english": "she died"
+      },
+      {
+        "kiksht": "[GT, MMc contrast this with igúmqt",
+        "english": "she died instantly]"
+      },
+      {
+        "kiksht": "gayumaqt",
+        "english": "he died"
+      },
+      {
+        "kiksht": "[GT, MMc say this means",
+        "english": "the same as gayúmqt] [GT, MMc rejected the form *ayumaqta]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Bax yumáqt.",
+        "english": "He died."
+      },
+      {
+        "kiksht": "Makwsht a-month yaxatka niyumaqt.",
+        "english": "Two months ago he died. [Dyk]"
+      }
+    ],
+    "notes": [
+      "There seems to be some dis- tinction between this root and -mqt. See forms above and under -mqt."
+    ],
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -23053,6 +23100,17 @@
     "root": "a-maliw",
     "partOfSpeech": "n",
     "definition": "tiger lily, lilium Washingtonium"
+  },
+  "a-manak'": {
+    "root": "a-manak'",
+    "partOfSpeech": "n",
+    "definition": "dried fish-head, dried salmon head",
+    "forms": [
+      {
+        "kiksht": "iłmanak' [Dyk], iłmanak'max [EW 7/13/52]",
+        "english": "dried fish-heads"
+      }
+    ]
   },
   "a-małtaq": {
     "root": "a-małtaq",
@@ -54128,6 +54186,75 @@
       "A borrowing from English \"macaroni,\" which is in turn a bor- rowing from Italian."
     ]
   },
+  "i-mamen": {
+    "root": "i-mamen",
+    "partOfSpeech": "n",
+    "definition": "apaloosa horse",
+    "notes": [
+      "Probably from Sahaptin; but Phillip Kahclamat 8/13/54 said it came from amumal, because the spots on an apaloosa horse look like that root."
+    ]
+  },
+  "i-mantk'u": {
+    "root": "i-mantk'u",
+    "partOfSpeech": "n",
+    "definition": "muskrat"
+  },
+  "i-maq": {
+    "root": "i-maq",
+    "partOfSpeech": "n",
+    "definition": "shot, wound (from a shot), scar (from a shot)",
+    "forms": [
+      {
+        "kiksht": "ichmaq",
+        "english": "my scar, wound; I am shot"
+      },
+      {
+        "kiksht": "itkmaq",
+        "english": "my scars [Dyk]"
+      },
+      {
+        "kiksht": "iyamaq",
+        "english": "he's shot [PK 4/10/56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ichamaq achialuxa.",
+        "english": "He will shoot her. [Dyk]"
+      },
+      {
+        "kiksht": "Imáq gachítx ayach'anka.",
+        "english": "He put a shot-wound into his shoulder. [AF 7/17/54]"
+      },
+      {
+        "kiksht": "Yamaq gachilúx.",
+        "english": "He shot him."
+      },
+      {
+        "kiksht": "Idyamaq gaqdilux.",
+        "english": "They shot him (many times). [HS 7/6/54]"
+      },
+      {
+        "kiksht": "Gachdenlux itkmqa.",
+        "english": "He shot them at me. [Dyk]"
+      },
+      {
+        "kiksht": "Iyamaq gachilux ishgiluksh.",
+        "english": "He shot at the wolf."
+      },
+      {
+        "kiksht": "[lit.",
+        "english": "He made a shot at the wolf.] [WTI.2.13]"
+      },
+      {
+        "kiksht": "Itłamaq gachtłlux saqw saqw idiag̲amachx.",
+        "english": "He shot all his arrows at him. [WTI.3.10]"
+      }
+    ],
+    "seeAlso": [
+      "it-maq, it-kmaq"
+    ]
+  },
   "i-ładat": {
     "root": "i-ładat",
     "partOfSpeech": "n",
@@ -56297,6 +56424,14 @@
     "definition": "glittering, shining",
     "seeAlso": [
       "daláu"
+    ]
+  },
+  "is-mántłx": {
+    "root": "is-mántłx",
+    "partOfSpeech": "n",
+    "definition": "spectacle case, eyeglass case",
+    "seeAlso": [
+      "is-kusmatbama"
     ]
   },
   "ish- -ditł'i": {
@@ -58685,6 +58820,20 @@
     ],
     "seeAlso": [
       "a-laish, ił-laish"
+    ]
+  },
+  "it-maq": {
+    "root": "it-maq",
+    "partOfSpeech": "n",
+    "definition": "shooting",
+    "examples": [
+      {
+        "kiksht": "Idiamaq gaqdilux.",
+        "english": "One shot them at him. [WTI.10.6]"
+      }
+    ],
+    "seeAlso": [
+      "i-maq, it-kmaq"
     ]
   },
   "it-małemt": {
@@ -62689,6 +62838,81 @@
     ],
     "seeAlso": [
       "amama, i-am"
+    ]
+  },
+  "manix": {
+    "root": "manix",
+    "partOfSpeech": "part",
+    "definition": "appear, tell on, inform",
+    "examples": [
+      {
+        "kiksht": "K'aya manix ikiax.",
+        "english": "He does not appear. [WTI.11.4]"
+      },
+      {
+        "kiksht": "K'aya manix amnuxwa.",
+        "english": "Don't tell on me. [WTI.17.4]"
+      },
+      {
+        "kiksht": "Naqi it'uktix pu amduxwa idelxam maníx maníx.",
+        "english": "It would not be good for you to be informing on people. [WTI.1n.3]"
+      }
+    ],
+    "notes": [
+      "When used with an intransi- tive verb, this word means \"appear;\" when used with a transitive verb, it means \"cause to appear,\" thus, \"in- form, tell on.\""
+    ]
+  },
+  "mank": {
+    "root": "mank",
+    "partOfSpeech": "adv",
+    "definition": "a little, a bit, somewhat",
+    "examples": [
+      {
+        "kiksht": "C'unus mank ilut!",
+        "english": "Give him a little less!"
+      },
+      {
+        "kiksht": "C'unus mank wit'a ilut!",
+        "english": "Give him a little more!"
+      },
+      {
+        "kiksht": "Mank yaxat mia!",
+        "english": "Go little further beyond! [Dyk's transcription: mangiaxádmia]"
+      },
+      {
+        "kiksht": "anix mank iak'aic",
+        "english": "first one some- what smaller [Dyk's transcription: mangiak'aits]"
+      },
+      {
+        "kiksht": "Mank ag̲a łablat ichiux.",
+        "english": "He made more this time (than the other time). [Dyk]"
+      }
+    ]
+  },
+  "manux": {
+    "root": "manux",
+    "partOfSpeech": "conj",
+    "definition": "but, except, nonethe- less",
+    "examples": [
+      {
+        "kiksht": "K'aya iłtga iłułait dika chaxlqłix daya manux ixtka wigwa niłułait.",
+        "english": "Now snow settled here this winter, except one day it settled."
+      },
+      {
+        "kiksht": "Shdug̲wiłti shpak manux anuya.",
+        "english": "It's raining hard, nonetheless I'll go."
+      },
+      {
+        "kiksht": "Iyak'amla ag̲a manux antgiukwła.",
+        "english": "He is no good now, but we'll take him along anyhow."
+      },
+      {
+        "kiksht": "K'aya nigidím kadux kadux manux ixt wigwa nigití.",
+        "english": "Day after day he did not come, but one day he came. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "nux, k'manux, nuxpu"
     ]
   },
   "mała": {

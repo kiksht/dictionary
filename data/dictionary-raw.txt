@@ -17831,3 +17831,53 @@ See also: i-k’imamalkw¬
 mamash [n] father!, daddy!
 Notes: A term of address used by children.
 See also: amama, i-am
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i-mamen [n] apaloosa horse
+Notes: Probably from Sahaptin; but Phillip Kahclamat 8/13/54 said it came from amumal, because the spots on an apaloosa horse look like that root.
+
+a-manak’ [n] dried fish-head, dried salmon head
+Forms: i¬manak’ [Dyk], i¬manak’max [EW 7/13/52] “dried fish-heads”
+
+manix [part] appear, tell on, inform
+Examples: K’aya manix ikiax. “He does not appear.” [WTI.11.4] K’aya manix amnuxwa. “Don’t tell on me.” [WTI.17.4] Naqi it’uktix pu amduxwa idelxam manˆx manˆx. “It would not be good for you to be informing on people.” [WTI.1n.3]
+Notes: When used with an intransi- tive verb, this word means “appear;” when used with a transitive verb, it means “cause to appear,” thus, “in- form, tell on.”
+
+mank [adv] a little, a bit, somewhat
+Examples: C’unus mank ilut! “Give him a little less!” C’unus mank wit’a ilut! “Give him a little more!” Mank yaxat mia! “Go little further beyond!” [Dyk’s transcription: mangiaxÅdmia] anix mank iak’aic “first one some- what smaller” [Dyk’s transcription: mangiak’aits] Mank a©a ¬ablat ichiux. “He made more this time (than the other time).” [Dyk]
+
+i-mantk’u [n] muskrat
+
+is-mÅnt¬x [n] spectacle case, eyeglass case
+See also: is-kusmatbama
+
+manux [conj] but, except, nonethe- less
+Examples: K’aya i¬tga i¬u¬ait dika chaxlq¬ix daya manux ixtka wigwa ni¬u¬ait. “Now snow settled here this winter, except one day it settled.” Shdu©wi¬ti shpak manux anuya. “It’s raining hard, nonetheless I’ll go.” Iyak’amla a©a manux antgiukw¬a. “He is no good now, but we’ll take him along anyhow.” K’aya nigidˆm kadux kadux manux ixt wigwa nigitˆ. “Day after day he did not come, but one day he came.” [Dyk]
+See also: nux, k’manux, nuxpu
+
+i-maq [n] shot, wound (from a shot), scar (from a shot)
+Forms: ichmaq “my scar, wound; I am shot” itkmaq “my scars” [Dyk] iyamaq “he’s shot” [PK 4/10/56]
+Examples: Ichamaq achialuxa. “He will shoot her.” [Dyk] ImÅq gachˆtx ayach’anka. “He put a shot-wound into his shoulder.” [AF 7/17/54] Yamaq gachil ̈x. “He shot him.” Idyamaq gaqdilux. “They shot him (many times).” [HS 7/6/54] Gachdenlux itkmqa. “He shot them at me.” [Dyk] Iyamaq gachilux ishgiluksh. “He shot at the wolf.” [lit. “He made a shot at the wolf.”] [WTI.2.13] It¬amaq gacht¬lux saqw saqw idia©amachx. “He shot all his arrows at him.” [WTI.3.10]
+See also: it-maq, it-kmaq
+
+it-maq [n] shooting
+Examples: Idiamaq gaqdilux. “One shot them at him.” [WTI.10.6]
+See also: i-maq, it-kmaq
+
+-MAQT [vb] die
+Forms: iyumaqt “he died” [Dyk and GT, MMc 1/14/99 contrast this with yumqt “he is dead.”] igumaqt “she died” [GT, MMc contrast this with ig ̈mqt “she died instantly”] gayumaqt “he died” [GT, MMc say this means “the same” as gay ̈mqt] [GT, MMc rejected the form *ayumaqta]
+Examples: Bax yumÅqt. “He died.” Makwsht a-month yaxatka niyumaqt. “Two months ago he died.” [Dyk]
+Notes: There seems to be some dis- tinction between this root and -mqt. See forms above and under -mqt.
+See also: -MQT
