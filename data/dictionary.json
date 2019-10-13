@@ -920,6 +920,31 @@
       }
     ]
   },
+  "-(i)-xl-ŁLA-ma-(ix)": {
+    "root": "-(i)-xl-ŁLA-ma-(ix)",
+    "partOfSpeech": "vb",
+    "definition": "cause trouble (to)",
+    "forms": [
+      {
+        "kiksht": "chixlłámadix",
+        "english": "he is causing trouble, causing (people) to trouble each other about him"
+      },
+      {
+        "kiksht": "achixitłlámayaxdix",
+        "english": "he will cause trouble"
+      },
+      {
+        "kiksht": "ichixelłlamaix",
+        "english": "he caused trouble [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Chaxelłlamat idelxamax.",
+        "english": "He is causing the people trouble. [Dyk; idlxamax corrected from Dyk's adlxamax by GT, MMc 1/12/99] Notes: When this verb is used with- out an expressed object (expressing the person or persons to whom trouble is caused), then the pronoun prefix -i- and the suffix -ix are added. See also: -łel"
+      }
+    ]
+  },
   "-(x)- G̲UITQ": {
     "root": "-(x)- G̲UITQ",
     "partOfSpeech": "vb",
@@ -6355,6 +6380,33 @@
     ],
     "seeAlso": [
       "it-gach'anksh"
+    ]
+  },
+  "-ch-k-xa-ŁLA-ma-dix": {
+    "root": "-ch-k-xa-ŁLA-ma-dix",
+    "partOfSpeech": "vb",
+    "definition": "be sun- burnt",
+    "forms": [
+      {
+        "kiksht": "chikxałlámadix",
+        "english": "he is sun- burnt"
+      },
+      {
+        "kiksht": "chenkxałlámadix",
+        "english": "I am sun- burnt"
+      },
+      {
+        "kiksht": "chelkxałlámadix",
+        "english": "we are sunburnt"
+      },
+      {
+        "kiksht": "chetkłlámadix",
+        "english": "we 2 are sunburnt"
+      },
+      {
+        "kiksht": "chagatxałlámadix",
+        "english": "she was sunburnt [PK 7/23/56]"
+      }
     ]
   },
   "-ch-l-BU": {
@@ -16847,6 +16899,53 @@
       }
     ]
   },
+  "-x-ŁLA-ma": {
+    "root": "-x-ŁLA-ma",
+    "partOfSpeech": "vb",
+    "definition": "heat, make hot, burn",
+    "examples": [
+      {
+        "kiksht": "chixłlamat",
+        "english": "he is heating it[i-], he has it heated (so as to get it red hot, as in a forge)"
+      },
+      {
+        "kiksht": "chaxłlamat",
+        "english": "he is heating it[a-], he has it heated"
+      },
+      {
+        "kiksht": "chixłlámadix",
+        "english": "he is making it[i-] (a place) hot"
+      },
+      {
+        "kiksht": "ichixłlamaix",
+        "english": "he made it[i-] (a place) hot"
+      },
+      {
+        "kiksht": "nichixłlama",
+        "english": "he burnt, heated it[i-] (last season)"
+      },
+      {
+        "kiksht": "nichixłlamat",
+        "english": "he was heating it[i-] (once) (last season)"
+      },
+      {
+        "kiksht": "nichixłlamnił",
+        "english": "he was heating it[i-] (repeatedly) (last season)"
+      },
+      {
+        "kiksht": "nichixatłlama",
+        "english": "he burnt, heated it[i-] (last week)"
+      },
+      {
+        "kiksht": "nichixatłlamat",
+        "english": "he was heating it[i-] (once) (last week)"
+      },
+      {
+        "kiksht": "nichixatłlamnił",
+        "english": "he was heating it[i-] (repeatedly) (last week) [Dyk]"
+      }
+    ]
+  },
   "-xa-IMA": {
     "root": "-xa-IMA",
     "partOfSpeech": "vb",
@@ -18768,6 +18867,103 @@
     ],
     "seeAlso": [
       "-ŁQW"
+    ]
+  },
+  "-ŁM": {
+    "root": "-ŁM",
+    "partOfSpeech": "vb",
+    "definition": "strike, stab, spear",
+    "forms": [
+      {
+        "kiksht": "andułmaya",
+        "english": "I'll spear them"
+      },
+      {
+        "kiksht": "endułemnił",
+        "english": "I am spearing them"
+      },
+      {
+        "kiksht": "chiułemnił",
+        "english": "he is spearing it[i-] (now and again, every now and then)"
+      },
+      {
+        "kiksht": "chiułemnuł",
+        "english": "he is spearing it[i-] (right along, as when fish are thick)"
+      },
+      {
+        "kiksht": "[Note:",
+        "english": "According to Phillip Kahclamat, the last can hardly be used for anything but to spear fish. The other may be used as while fish- ing he struck a rock instead.]"
+      },
+      {
+        "kiksht": "chiułémt",
+        "english": "he has it[i-] speared"
+      },
+      {
+        "kiksht": "chiułemdix",
+        "english": "he is striking it (once)"
+      },
+      {
+        "kiksht": "inyułém",
+        "english": "I stabbed, speared him (once)"
+      },
+      {
+        "kiksht": "chiułemix",
+        "english": "he struck him"
+      },
+      {
+        "kiksht": "nichdułemnuł, nichdułemnił",
+        "english": "he was spearing them (last season)"
+      },
+      {
+        "kiksht": "nichttłemnuł, nichttłemnił",
+        "english": "he was spearing them (last week)"
+      },
+      {
+        "kiksht": "gachułémx",
+        "english": "he speared her"
+      },
+      {
+        "kiksht": "gachułemnił",
+        "english": "he speared her (several times; regularly)"
+      },
+      {
+        "kiksht": "gachdułemnuł",
+        "english": "he spears them (regularly)"
+      },
+      {
+        "kiksht": "gachdułemnił",
+        "english": "he spears them (con- sidered as a bunch) (regularly)"
+      },
+      {
+        "kiksht": "achiúłmama",
+        "english": "he'll go to spear him"
+      },
+      {
+        "kiksht": "chiułémdixba",
+        "english": "at, to a place where he spreared it[i-], a place where it struck"
+      },
+      {
+        "kiksht": "[Note from Dyk:",
+        "english": "The case of -nuł may be the only example I have of -l-ł without an element between. Here contrasting with nił: every now and then; nuł 'right along, continu- ously.' -l-ł may actually be a continu- ous repetitive, or iterative.] [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Palalái iqw'ánixmax chiułemnuł.",
+        "english": "He is spearing lots of steelhead."
+      },
+      {
+        "kiksht": "Kínuwa chiułemnił iqw'ánixmax.",
+        "english": "He is unable to spear the steel head, is trying and can't. [Dyk]"
+      },
+      {
+        "kiksht": "Gachiułem ik'auwan.",
+        "english": "He speared the white salmon. [WTI.1g.3]"
+      },
+      {
+        "kiksht": "Gałgwułem walxayu.",
+        "english": "They speared the seal. [WTI.4.1]"
+      }
     ]
   },
   "-ł-gl-KWSHTX̲": {
@@ -45541,6 +45737,20 @@
       "łignini"
     ]
   },
+  "i- -łlumit": {
+    "root": "i- -łlumit",
+    "partOfSpeech": "adj n",
+    "definition": "black",
+    "forms": [
+      {
+        "kiksht": "ichałlumit",
+        "english": "it[a-] is black [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dałal, i-k'iłel"
+    ]
+  },
   "i-'ish'ish": {
     "root": "i-'ish'ish",
     "partOfSpeech": "n",
@@ -52402,6 +52612,24 @@
     ],
     "seeAlso": [
       "a-łilxumat"
+    ]
+  },
+  "i-łlám": {
+    "root": "i-łlám",
+    "partOfSpeech": "n",
+    "definition": "rupture",
+    "forms": [
+      {
+        "kiksht": "iyałlám",
+        "english": "he has a rupture"
+      },
+      {
+        "kiksht": "imiłlám",
+        "english": "you have a rupture [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-(i)-xl-łla-ma-(ix)"
     ]
   },
   "iagluxtix": {
@@ -62437,6 +62665,14 @@
     ],
     "seeAlso": [
       "łgup"
+    ]
+  },
+  "łlxamam": {
+    "root": "łlxamam",
+    "partOfSpeech": "vb",
+    "definition": "go tell them!",
+    "seeAlso": [
+      "-LXAM"
     ]
   },
   "łáglalitix": {

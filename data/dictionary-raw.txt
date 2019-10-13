@@ -17229,3 +17229,35 @@ Examples: Ix¬eldix. “It’s hot.” [of weather]
 -¬-gm-ÒL-kw [vb] be in labor, be in process of giving birth
 Forms: ¬agem¬elgwax “she is in labor, giving birth” i¬agem¬elkwachk “she was in labor, giving birth” [Dyk]
 See also: i¬-kma¬lgwax
+
+
+
+
+
+
+
+
+-x-ÒLA-ma [vb] heat, make hot, burn
+Examples: chix¬lamat “he is heating it[i-], he has it heated (so as to get it red hot, as in a forge)” chax¬lamat “he is heating it[a-], he has it heated” chix¬lÅmadix “he is making it[i-] (a place) hot” ichix¬lamaix “he made it[i-] (a place) hot” nichix¬lama “he burnt, heated it[i-] (last season)” nichix¬lamat “he was heating it[i-] (once) (last season)” nichix¬lamni¬ “he was heating it[i-] (repeatedly) (last season)” nichixat¬lama “he burnt, heated it[i-] (last week)” nichixat¬lamat “he was heating it[i-] (once) (last week)” nichixat¬lamni¬ “he was heating it[i-] (repeatedly) (last week)” [Dyk]
+
+-(i)-xl-ÒLA-ma-(ix) [vb] cause trouble (to)
+Forms: chixl¬Åmadix “he is causing trouble, causing (people) to trouble each other about him” achixit¬lÅmayaxdix “he will cause trouble” ichixel¬lamaix “he caused trouble” [Dyk]
+Examples: Chaxel¬lamat idelxamax. “He is causing the people trouble.” [Dyk; idlxamax corrected from Dyk’s adlxamax by GT, MMc 1/12/99] Notes: When this verb is used with- out an expressed object (expressing the person or persons to whom trouble is caused), then the pronoun prefix -i- and the suffix -ix are added. See also: -¬el
+
+-ch-k-xa-ÒLA-ma-dix [vb] be sun- burnt
+Forms: chikxa¬lÅmadix “he is sun- burnt” chenkxa¬lÅmadix “I am sun- burnt” chelkxa¬lÅmadix “we are sunburnt” chetk¬lÅmadix “we 2 are sunburnt” chagatxa¬lÅmadix “she was sunburnt” [PK 7/23/56]
+
+i-¬lÅm [n] rupture
+Forms: iya¬lÅm “he has a rupture” imi¬lÅm “you have a rupture” [Dyk]
+See also: -(i)-xl-¬la-ma-(ix)
+
+i- -¬lumit [adj n] black
+Forms: icha¬lumit “it[a-] is black” [Dyk]
+See also: da¬al, i-k’i¬el
+
+¬lxamam [vb] go tell them!
+See also: -LXAM
+
+-ÒM [vb] strike, stab, spear
+Forms: andu¬maya “I’ll spear them” endu¬emni¬ “I am spearing them” chiu¬emni¬ “he is spearing it[i-] (now and again, every now and then)” chiu¬emnu¬ “he is spearing it[i-] (right along, as when fish are thick)” [Note: “According to Phillip Kahclamat, the last can hardly be used for anything but to spear fish. The other may be used as while fish- ing he struck a rock instead.”] chiu¬émt “he has it[i-] speared” chiu¬emdix “he is striking it (once)” inyu¬ém “I stabbed, speared him (once)” chiu¬emix “he struck him” nichdu¬emnu¬, nichdu¬emni¬ “he was spearing them (last season)” nichtt¬emnu¬, nichtt¬emni¬ “he was spearing them (last week)” gachu¬émx “he speared her” gachu¬emni¬ “he speared her (several times; regularly)” gachdu¬emnu¬ “he spears them (regularly)” gachdu¬emni¬ “he spears them (con- sidered as a bunch) (regularly)” achi ̈¬mama “he’ll go to spear him” chiu¬émdixba “at, to a place where he spreared it[i-], a place where it struck” [Note from Dyk: “The case of -nu¬ may be the only example I have of -l-¬ without an element between. Here contrasting with ni¬: every now and then; nu¬ ‘right along, continu- ously.’ -l-¬ may actually be a continu- ous repetitive, or iterative.”] [Dyk]
+Examples: PalalÅi iqw’Ånixmax chiu¬emnu¬. “He is spearing lots of steelhead.” Kˆnuwa chiu¬emni¬ iqw’Ånixmax. “He is unable to spear the steel head, is trying and can’t.” [Dyk] Gachiu¬em ik’auwan. “He speared the white salmon.” [WTI.1g.3] Ga¬gwu¬em walxayu. “They speared the seal.” [WTI.4.1]
