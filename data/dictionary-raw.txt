@@ -16131,3 +16131,69 @@ Forms: yulgwiat “it[i-] is spread” yulgwˆadix “it[i-] (a place) is spread
 -LGWIA-mit [vb] spread, spread out, cause to be spread out
 Forms: chiulgwiamit “he has it[i-] spread” chaxit¬gwˆamit “he had it[a-] spread out for itself” chenxilgwˆamit “he has me spread out for himself” aixitlgwˆamit “he had it[a-] spread out for himself” aqaxilgwˆamida “it[a-] will be spread out for some- one” [Dyk] gachiulgwˆamit “he caused it[i-] to be spread out, he spread it out” [WTI.7.1] nyulgwiamit “I am spreading it[i-] out (like a bread)” [MMc 12/29/97]
 Examples: Ikaba gachiulgwˆamit. “He caused ice to be spread out.” [WTI.7.1]
+
+
+
+
+
+i-lgwilit [n] appearance, features, ways, mannerisms, idiosyncracies
+Forms: ichalgwilit “her apperance, features, etc.” iyalgwilit “his appear- ance, etc.” inshat’wanxalgilit “we look like enemies” [Dyk]
+Examples: Qengi yalgwilit? “What does he look like?” Qidau ichlgwilit. “That is what I am like.” Ishdaq’anapshu ilgiwilit. “They 2 look greenish.” Tk’itk’imax yalgwilit. “He looks different, out of the ordi- nary.” [Dyk] Charles ida©Åit¬ idiaqw¬ it’ukdi idalgwilit. “Charles’ big house is beautiful (literally ‘its appearance is good’).” [GT, MMc] Qéngiska asha ¬axya i¬kala i¬shtÅmx a¬qidiwi maika imilgwilit? “How is it, daughter, that that man looking like a chief re- sembles you?” [WTI.12.4]
+See also: i-lgulit
+
+a-liba [n] bread, loaf of bread
+Forms: idliba “loaves of bread” [Dyk]
+Notes: Refers to Anglo-style bread. From French les pains “breads, loaves,” almost certainly via Chinook Jargon.
+
+Å-libua [n] pea
+Forms: i¬lˆbua “peas” [Dyk]
+Notes: From Chinook Jargon, which in turn borrowed the word from French les pois.
+
+i-libum [n] apple
+Forms: Does not change for plural.
+Notes: From French les pommes (apples), through Chinook Jargon.
+See also: i-libumlit
+
+i-libumlit [n] apple orchard
+See also: i-libum
+
+i-licu [n] flint
+
+i-ligalat [n] carrot
+Notes: From Chinook Jargon, which in turn borrowed the word from French les carrottes.
+
+-likuk [n] chicken, hen, rooster
+Forms: ilikuk “chicken, rooster” alikuk “chicken, hen” idlik ̈k “chick- ens” [Dyk]
+Notes: From Chinook Jargon, which in turn borrowed the word from French les coqs “chickens.”
+
+a-lilalila [n] little sucker
+See also: a-ch’upkal
+
+-limil [n] mule
+Forms: ilimil “(male) mule” alimil “(female) mule” ishlimil “2 mules” idlˆmilmax “mules” [Dyk]
+Notes: Probably from French, through Chinook Jargon: from French les mules, which sounds somewhat like “limil.”
+
+a-limnu [n] melon
+
+ish-lˆmx [n] bridal couple
+See also: -limx
+
+-limx [adj] married, newly-married
+Forms: enlˆmx “I am married” emlˆmx “you are married” wilˆmx “he is married” walˆmx “she is mar- ried” enshlˆmx “we are married” emshlimxÅuyuksh “you folks indi- vidually are married” [Dyk]
+Examples: Q’axsh tgnuxt enlˆmx anxuxa. “I want to marry.” Walˆmx nalaxuxa. “She got married” (also could be euphemism for “she slept with someone, she had a one-night stand”) [Dyk]
+Notes: Usually refers to newly-mar- ried couples.
+See also: wa-limx, wi-lˆmx, ish-lˆmx, id-limxauyuks, i-limxamum
+
+wa-limx [n] bride, married woman
+See also: -limx
+
+wi-lˆmx [n] groom, married man
+See also: -limx
+
+i-limxamum [n] marriage, being married, getting married, state of marriage
+Forms: yalimxamum “he is one who marries often” [Dyk]
+Examples: Q’axsh chnuxt ilimxamum. “I want to be in the state of mar- riage.” [Dyk]
+See also: -limx
+
+id-limxauyuks [n] young married couple
+See also: -limx

@@ -11047,6 +11047,105 @@
     ],
     "pronunciation": "Pronunciation by Gladys Thompson and Madeline McInturff. varies between -lálik and - lalík."
   },
+  "-likuk": {
+    "root": "-likuk",
+    "partOfSpeech": "n",
+    "definition": "chicken, hen, rooster",
+    "forms": [
+      {
+        "kiksht": "ilikuk",
+        "english": "chicken, rooster"
+      },
+      {
+        "kiksht": "alikuk",
+        "english": "chicken, hen"
+      },
+      {
+        "kiksht": "idlikúk",
+        "english": "chick- ens [Dyk]"
+      }
+    ],
+    "notes": [
+      "From Chinook Jargon, which in turn borrowed the word from French les coqs \"chickens.\""
+    ]
+  },
+  "-limil": {
+    "root": "-limil",
+    "partOfSpeech": "n",
+    "definition": "mule",
+    "forms": [
+      {
+        "kiksht": "ilimil",
+        "english": "(male) mule"
+      },
+      {
+        "kiksht": "alimil",
+        "english": "(female) mule"
+      },
+      {
+        "kiksht": "ishlimil",
+        "english": "2 mules"
+      },
+      {
+        "kiksht": "idlímilmax",
+        "english": "mules [Dyk]"
+      }
+    ],
+    "notes": [
+      "Probably from French, through Chinook Jargon: from French les mules, which sounds somewhat like \"limil.\""
+    ]
+  },
+  "-limx": {
+    "root": "-limx",
+    "partOfSpeech": "adj",
+    "definition": "married, newly-married",
+    "forms": [
+      {
+        "kiksht": "enlímx",
+        "english": "I am married"
+      },
+      {
+        "kiksht": "emlímx",
+        "english": "you are married"
+      },
+      {
+        "kiksht": "wilímx",
+        "english": "he is married"
+      },
+      {
+        "kiksht": "walímx",
+        "english": "she is mar- ried"
+      },
+      {
+        "kiksht": "enshlímx",
+        "english": "we are married"
+      },
+      {
+        "kiksht": "emshlimxáuyuksh",
+        "english": "you folks indi- vidually are married [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Q'axsh tgnuxt enlímx anxuxa.",
+        "english": "I want to marry."
+      },
+      {
+        "kiksht": "Walímx nalaxuxa.",
+        "english": "She got married"
+      },
+      {
+        "kiksht": "(also could be euphemism for",
+        "english": "she slept with someone, she had a one-night stand) [Dyk]"
+      }
+    ],
+    "notes": [
+      "Usually refers to newly-mar- ried couples."
+    ],
+    "seeAlso": [
+      "wa-limx, wi-límx, ish-límx, id-limxauyuks, i-limxamum"
+    ]
+  },
   "-n-GA-kw": {
     "root": "-n-GA-kw",
     "partOfSpeech": "vb",
@@ -18786,6 +18885,33 @@
     "notes": [
       "Refers specifically to a snare, not a trap, according to Dyk; but idlaxwtat is translated \"trap\" in WTI.13.3."
     ]
+  },
+  "a-liba": {
+    "root": "a-liba",
+    "partOfSpeech": "n",
+    "definition": "bread, loaf of bread",
+    "forms": [
+      {
+        "kiksht": "idliba",
+        "english": "loaves of bread [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to Anglo-style bread. From French les pains \"breads, loaves,\" almost certainly via Chinook Jargon."
+    ]
+  },
+  "a-lilalila": {
+    "root": "a-lilalila",
+    "partOfSpeech": "n",
+    "definition": "little sucker",
+    "seeAlso": [
+      "a-ch'upkal"
+    ]
+  },
+  "a-limnu": {
+    "root": "a-limnu",
+    "partOfSpeech": "n",
+    "definition": "melon"
   },
   "a-lágamin": {
     "root": "a-lágamin",
@@ -49354,6 +49480,107 @@
       "i-lgwilit"
     ]
   },
+  "i-lgwilit": {
+    "root": "i-lgwilit",
+    "partOfSpeech": "n",
+    "definition": "appearance, features, ways, mannerisms, idiosyncracies",
+    "forms": [
+      {
+        "kiksht": "ichalgwilit",
+        "english": "her apperance, features, etc."
+      },
+      {
+        "kiksht": "iyalgwilit",
+        "english": "his appear- ance, etc."
+      },
+      {
+        "kiksht": "inshat'wanxalgilit",
+        "english": "we look like enemies [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qengi yalgwilit?",
+        "english": "What does he look like?"
+      },
+      {
+        "kiksht": "Qidau ichlgwilit.",
+        "english": "That is what I am like."
+      },
+      {
+        "kiksht": "Ishdaq'anapshu ilgiwilit.",
+        "english": "They 2 look greenish."
+      },
+      {
+        "kiksht": "Tk'itk'imax yalgwilit.",
+        "english": "He looks different, out of the ordi- nary. [Dyk]"
+      },
+      {
+        "kiksht": "Charles idag̲áitł idiaqwł it'ukdi idalgwilit.",
+        "english": "Charles' big house is beautiful (literally 'its appearance is good'). [GT, MMc]"
+      },
+      {
+        "kiksht": "Qéngiska asha łaxya iłkala iłshtámx ałqidiwi maika imilgwilit?",
+        "english": "How is it, daughter, that that man looking like a chief re- sembles you? [WTI.12.4]"
+      }
+    ],
+    "seeAlso": [
+      "i-lgulit"
+    ]
+  },
+  "i-libum": {
+    "root": "i-libum",
+    "partOfSpeech": "n",
+    "definition": "apple",
+    "forms": [],
+    "notes": [
+      "From French les pommes (apples), through Chinook Jargon."
+    ],
+    "seeAlso": [
+      "i-libumlit"
+    ]
+  },
+  "i-libumlit": {
+    "root": "i-libumlit",
+    "partOfSpeech": "n",
+    "definition": "apple orchard",
+    "seeAlso": [
+      "i-libum"
+    ]
+  },
+  "i-licu": {
+    "root": "i-licu",
+    "partOfSpeech": "n",
+    "definition": "flint"
+  },
+  "i-ligalat": {
+    "root": "i-ligalat",
+    "partOfSpeech": "n",
+    "definition": "carrot",
+    "notes": [
+      "From Chinook Jargon, which in turn borrowed the word from French les carrottes."
+    ]
+  },
+  "i-limxamum": {
+    "root": "i-limxamum",
+    "partOfSpeech": "n",
+    "definition": "marriage, being married, getting married, state of marriage",
+    "forms": [
+      {
+        "kiksht": "yalimxamum",
+        "english": "he is one who marries often [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Q'axsh chnuxt ilimxamum.",
+        "english": "I want to be in the state of mar- riage. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-limx"
+    ]
+  },
   "i-láitk": {
     "root": "i-láitk",
     "partOfSpeech": "n",
@@ -49720,6 +49947,14 @@
     "root": "id-laxwtat",
     "partOfSpeech": "n",
     "definition": "trap"
+  },
+  "id-limxauyuks": {
+    "root": "id-limxauyuks",
+    "partOfSpeech": "n",
+    "definition": "young married couple",
+    "seeAlso": [
+      "-limx"
+    ]
   },
   "id-láitiximum": {
     "root": "id-láitiximum",
@@ -51787,6 +52022,14 @@
     "definition": "bowstring",
     "seeAlso": [
       "is-elpqtit"
+    ]
+  },
+  "ish-límx": {
+    "root": "ish-límx",
+    "partOfSpeech": "n",
+    "definition": "bridal couple",
+    "seeAlso": [
+      "-limx"
     ]
   },
   "ish-íxtksh": {
@@ -57789,6 +58032,14 @@
       "Refers to the constructed platform from which people fished."
     ]
   },
+  "wa-limx": {
+    "root": "wa-limx",
+    "partOfSpeech": "n",
+    "definition": "bride, married woman",
+    "seeAlso": [
+      "-limx"
+    ]
+  },
   "wi-'ísh": {
     "root": "wi-'ísh",
     "partOfSpeech": "n",
@@ -57910,6 +58161,14 @@
       "i-t'úlx, i-lxix"
     ]
   },
+  "wi-límx": {
+    "root": "wi-límx",
+    "partOfSpeech": "n",
+    "definition": "groom, married man",
+    "seeAlso": [
+      "-limx"
+    ]
+  },
   "wi-mał": {
     "root": "wi-mał",
     "partOfSpeech": "n",
@@ -57972,6 +58231,20 @@
         "kiksht": "idlabáp",
         "english": "screech owls [Dyk]"
       }
+    ]
+  },
+  "á-libua": {
+    "root": "á-libua",
+    "partOfSpeech": "n",
+    "definition": "pea",
+    "forms": [
+      {
+        "kiksht": "iłlíbua",
+        "english": "peas [Dyk]"
+      }
+    ],
+    "notes": [
+      "From Chinook Jargon, which in turn borrowed the word from French les pois."
     ]
   },
   "áaana": {
