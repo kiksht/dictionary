@@ -6851,6 +6851,14 @@
       "-x-NI, -X̲UNI"
     ]
   },
+  "-NUŁEM": {
+    "root": "-NUŁEM",
+    "partOfSpeech": "vb",
+    "definition": "sting",
+    "notes": [
+      "It is not clear whether this is a special extension of the meaning of - nułem \"write, mark\" or an entirely different root which happens to sound the same."
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -21547,6 +21555,20 @@
       "-n-Q'NA, -xn-Q'NAN, -n- Q'NAN"
     ]
   },
+  "-xn-k'i-NUŁEM": {
+    "root": "-xn-k'i-NUŁEM",
+    "partOfSpeech": "vb",
+    "definition": "write",
+    "forms": [
+      {
+        "kiksht": "ixenk'inułem",
+        "english": "he is writing [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-NUŁEM"
+    ]
+  },
   "-xn-ŁM-chm": {
     "root": "-xn-ŁM-chm",
     "partOfSpeech": "vb",
@@ -25363,6 +25385,35 @@
         "english": "buzzards [DykGr 111] Intixwa may be used to refer to a male buzzard; it appears, however, that antixwa is the usual contemporary term for the bird regardless of gender."
       }
     ]
+  },
+  "a-ntł'atł'ayuksh": {
+    "root": "a-ntł'atł'ayuksh",
+    "partOfSpeech": "n",
+    "definition": "blackbird",
+    "notes": [
+      "Refers to both redwing and ordinary blackbird. Phillip Kahclamat attributed the name to the sound the bird makes: \"tł'atł'atł'a!\""
+    ]
+  },
+  "a-nugnug": {
+    "root": "a-nugnug",
+    "partOfSpeech": "n",
+    "definition": "Echinoclontium tinctirium, red face paint",
+    "notes": [
+      "This is made from a fungus growing on trees, scraped, baked, and powdered; it is used as sunblock. [GT, MMc 12/30/97] The word prob- ably refers also to the fungus from which the paint is made."
+    ]
+  },
+  "a-nunas": {
+    "root": "a-nunas",
+    "partOfSpeech": "n",
+    "definition": "an edible root with purple flower",
+    "notes": [
+      "Has a pear-shaped root, with purple flowers; tastes like sweet on- ion."
+    ]
+  },
+  "a-nuwatłmat": {
+    "root": "a-nuwatłmat",
+    "partOfSpeech": "n",
+    "definition": "red powder"
   },
   "a-łashqw'imliq": {
     "root": "a-łashqw'imliq",
@@ -67988,6 +68039,141 @@
     "definition": "they used to lie",
     "seeAlso": [
       "-x-IMA"
+    ]
+  },
+  "nu": {
+    "root": "nu",
+    "partOfSpeech": "adv",
+    "definition": "however, nonetheless",
+    "examples": [
+      {
+        "kiksht": "Qushdiaxa nu ikwakwamax galgig̲elkel.",
+        "english": "They ex- pected to see (say, dogs) but behold they saw grizzly bears instead."
+      },
+      {
+        "kiksht": "Qama nu?",
+        "english": "Where should it go then?"
+      },
+      {
+        "kiksht": "Ag̲a nu igixaima.",
+        "english": "He was just going to lie down, and did."
+      },
+      {
+        "kiksht": "[Compare Ag̲a pu igixaima.",
+        "english": "He was just going to lie down, and didn't."
+      },
+      {
+        "kiksht": "Qanchix nu amuya ayamwaya.",
+        "english": "Wherever you go, I'll follow you."
+      },
+      {
+        "kiksht": "Ag̲a nu g̲anwit amuya.",
+        "english": "You will surely go, you will go for sure."
+      },
+      {
+        "kiksht": "Dauya ikala idialálamax k'manu ixat ikala idiat'ulalamax.",
+        "english": "This man is a singer, but yet the other one is a better singer."
+      },
+      {
+        "kiksht": "Qádamadnu?",
+        "english": "Where are you going then?"
+      },
+      {
+        "kiksht": "Qanchipdnu?",
+        "english": "How much then? [Dyk]"
+      }
+    ],
+    "notes": [
+      "In meaning and use very close to, if not identical with, nux."
+    ],
+    "seeAlso": [
+      "nux"
+    ]
+  },
+  "nugu": {
+    "root": "nugu",
+    "partOfSpeech": "part",
+    "definition": "take care of, care for",
+    "examples": [
+      {
+        "kiksht": "Nugu gałknshtxix.",
+        "english": "They cared for us."
+      }
+    ]
+  },
+  "nugwálalamx": {
+    "root": "nugwálalamx",
+    "partOfSpeech": "vb",
+    "definition": "they sang",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "nug̲w": {
+    "root": "nug̲w",
+    "partOfSpeech": "part",
+    "definition": "keep, keep to oneself",
+    "examples": [
+      {
+        "kiksht": "Ag̲a łga pu qama mta uxuq'íwalal nug̲w amtktuxwal?",
+        "english": "By what right, perchance, will you keep the fish to yourselves? [WTI.1a6]"
+      }
+    ]
+  },
+  "nuit": {
+    "root": "nuit",
+    "partOfSpeech": "vb",
+    "definition": "I am going",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "nukshdit": {
+    "root": "nukshdit",
+    "partOfSpeech": "vb",
+    "definition": "I am full (of food)",
+    "seeAlso": [
+      "-KSHD-it"
+    ]
+  },
+  "nukłt": {
+    "root": "nukłt",
+    "partOfSpeech": "vb",
+    "definition": "I am taking them along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "nuqelqt": {
+    "root": "nuqelqt",
+    "partOfSpeech": "vb",
+    "definition": "I am weeping",
+    "seeAlso": [
+      "-QELQ"
+    ]
+  },
+  "nuqmit": {
+    "root": "nuqmit",
+    "partOfSpeech": "vb",
+    "definition": "I see it[a-]",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "nushtxt": {
+    "root": "nushtxt",
+    "partOfSpeech": "vb",
+    "definition": "I am carrying it[a-] on my back",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "nułemst": {
+    "root": "nułemst",
+    "partOfSpeech": "vb",
+    "definition": "I am full",
+    "seeAlso": [
+      "pał, patł"
     ]
   },
   "qengi": {
