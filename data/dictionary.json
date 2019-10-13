@@ -4135,6 +4135,17 @@
       }
     ]
   },
+  "-KWA": {
+    "root": "-KWA",
+    "partOfSpeech": "vb",
+    "definition": "pile",
+    "forms": [
+      {
+        "kiksht": "aqłakátgwaya",
+        "english": "one will pile them on it[a-] [WTII.7.2]"
+      }
+    ]
+  },
   "-KŁ": {
     "root": "-KŁ",
     "partOfSpeech": "vb",
@@ -7264,6 +7275,47 @@
       "wax, ił-k'iwax, i-k'iwaxmat"
     ]
   },
+  "-k'un": {
+    "root": "-k'un",
+    "partOfSpeech": "adj",
+    "definition": "and, plus",
+    "examples": [
+      {
+        "kiksht": "aixt ak'un shit'ix ag̲ulul",
+        "english": "one and a half acorns [Raccoon D]"
+      }
+    ],
+    "notes": [
+      "This word takes a prefix matching the prefix of the noun it is used with. It is used in numerical expressions, as in the example."
+    ],
+    "seeAlso": [
+      "-k'una"
+    ]
+  },
+  "-k'una": {
+    "root": "-k'una",
+    "partOfSpeech": "n",
+    "definition": "another (one), more, some more, additional",
+    "forms": [
+      {
+        "kiksht": "it-k'unaich",
+        "english": "others [WTI.13.9]"
+      },
+      {
+        "kiksht": "łk'unaich",
+        "english": "others, some more [WTIV.2.6]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Atxuya itk'una itk'ámunaq.",
+        "english": "Let's go for some more wood. [WTI.1a2]"
+      }
+    ],
+    "seeAlso": [
+      "-k'un"
+    ]
+  },
   "-k'álamat": {
     "root": "-k'álamat",
     "partOfSpeech": "n",
@@ -8587,6 +8639,43 @@
         "kiksht": "igixlkałx",
         "english": "he reminded himself [Dyk]"
       }
+    ]
+  },
+  "-l-KWA": {
+    "root": "-l-KWA",
+    "partOfSpeech": "vb",
+    "definition": "think of",
+    "forms": [
+      {
+        "kiksht": "inelgwax",
+        "english": "I am thinking of him"
+      },
+      {
+        "kiksht": "chnelgwax",
+        "english": "he is thinking of me"
+      },
+      {
+        "kiksht": "alailgwachkwa",
+        "english": "he will think of her"
+      },
+      {
+        "kiksht": "ailgwax",
+        "english": "he is thinking of me"
+      },
+      {
+        "kiksht": "aitgwáx",
+        "english": "he was thingking of her; she was thinking of her"
+      },
+      {
+        "kiksht": "igailkwáchk",
+        "english": "he thought of her (several times)"
+      }
+    ],
+    "notes": [
+      "The person thinking is repre- sented by a pronoun immediately before -l- (position 4); the person or thing thought of is represented by a pronoun in position 3; except when the person thinking is 3rd person and the person or thing thought of is 1st or 2nd person; then the person thinking is represented by an active pronoun in position 2 and the person or thing thought of by a neutral pro- noun in position 3."
+    ],
+    "seeAlso": [
+      "-l-KA-łx"
     ]
   },
   "-l-gi-KSHT-im": {
@@ -11207,6 +11296,40 @@
         "kiksht": "łkduxwakshtamnił",
         "english": "he[ił-] looks after them [WTII.9.2]"
       }
+    ]
+  },
+  "-x-KW": {
+    "root": "-x-KW",
+    "partOfSpeech": "vb",
+    "definition": "pass away, be destroyed, be annihilated, become extinct",
+    "forms": [
+      {
+        "kiksht": "ixkwt",
+        "english": "he/it[i-] is destroyed, annihilated, becomes extinct"
+      },
+      {
+        "kiksht": "uxwakwt",
+        "english": "they are destroyed, annihi- lated, become extinct"
+      },
+      {
+        "kiksht": "ixatkwt",
+        "english": "he/ it[i-] was destroyed, annihilated, became extinct"
+      },
+      {
+        "kiksht": "uxwalkwł",
+        "english": "they are passing away, becoming extinct"
+      },
+      {
+        "kiksht": "igixgwá",
+        "english": "he became destroyed, ex- tinct"
+      },
+      {
+        "kiksht": "ixkúx",
+        "english": "he has been annihi- lated, made extinct [Dyk]"
+      }
+    ],
+    "notes": [
+      "-KW(A), -GWA cross, pass away, cross between death and life"
     ]
   },
   "-x-NI": {
@@ -14364,6 +14487,44 @@
     ],
     "seeAlso": [
       "a-lxułat"
+    ]
+  },
+  "a-k'unat": {
+    "root": "a-k'unat",
+    "partOfSpeech": "n",
+    "definition": "jack salmon",
+    "seeAlso": [
+      "i-gunat"
+    ]
+  },
+  "a-k'ushtxulal": {
+    "root": "a-k'ushtxulal",
+    "partOfSpeech": "n",
+    "definition": "wild onion",
+    "forms": [
+      {
+        "kiksht": "iłk'ushtxulal",
+        "english": "wild onions [Dyk]"
+      }
+    ]
+  },
+  "a-k'ustxulal": {
+    "root": "a-k'ustxulal",
+    "partOfSpeech": "n",
+    "definition": "wild onion",
+    "notes": [
+      "Sapir's note: \"A root referred to as 'wild onion;' it is similar to the ak'alakia but smaller in size.\" [WT p.95]"
+    ]
+  },
+  "a-k'uxsk'uxs": {
+    "root": "a-k'uxsk'uxs",
+    "partOfSpeech": "n",
+    "definition": "ankle",
+    "forms": [
+      {
+        "kiksht": "itk'uxsk'úxsks",
+        "english": "ankles [Dyk]"
+      }
     ]
   },
   "a-k'álak'ia": {
@@ -43665,6 +43826,20 @@
       }
     ]
   },
+  "i-k'umat": {
+    "root": "i-k'umat",
+    "partOfSpeech": "n",
+    "definition": "arrowhead, wooden arrowhead",
+    "forms": [
+      {
+        "kiksht": "itk'umat",
+        "english": "arrowheads"
+      }
+    ],
+    "seeAlso": [
+      "i-łapt'ala"
+    ]
+  },
   "i-k'ámunak": {
     "root": "i-k'ámunak",
     "partOfSpeech": "n",
@@ -43924,6 +44099,14 @@
     "root": "i-k'íława",
     "partOfSpeech": "n",
     "definition": "bad sign, evil omen"
+  },
+  "i-k'únksh": {
+    "root": "i-k'únksh",
+    "partOfSpeech": "n",
+    "definition": "black moss, k'unch",
+    "notes": [
+      "Same as Sahaptin; borrowed to or from it. Refers to a black lichen growing on trees, which is harvested and barbecued in the ground, to produce a thick black pudding."
+    ]
   },
   "i-kaba": {
     "root": "i-kaba",
@@ -48456,6 +48639,14 @@
     "root": "it-k'małmadit",
     "partOfSpeech": "n",
     "definition": "underwear"
+  },
+  "it-k'umałemt": {
+    "root": "it-k'umałemt",
+    "partOfSpeech": "n",
+    "definition": "beach",
+    "seeAlso": [
+      "wi-mał, it-małemt, Itk'umałemtk"
+    ]
   },
   "it-k'áicimum": {
     "root": "it-k'áicimum",

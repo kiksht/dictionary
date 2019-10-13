@@ -15086,3 +15086,53 @@ k’um [part] be sleepy [Dyk], over- sleep [Dyk; GT, MMc]
 Examples: K’um ikiax. “He is sleepy.” K’um igixux. “He overslept.” K’umk’um emnuxt. “You are causing me to oversleep, to be sleepy (as by keeping me awake).” [Dyk] K’um inx ̈x. “I overslept.” [GT, MMc]
 Notes: Madeline McInturff says this means only “oversleep.”
 See also: i-k’um
+
+
+
+
+
+
+
+it-k’uma¬emt [n] beach
+See also: wi-ma¬, it-ma¬emt, Itk’uma¬emtk
+
+i-k’umat [n] arrowhead, wooden arrowhead
+Forms: itk’umat “arrowheads”
+See also: i-¬apt’ala
+
+-k’un [adj] and, plus
+Examples: aixt ak’un shit’ix a©ulul “one and a half acorns” [Raccoon D]
+Notes: This word takes a prefix matching the prefix of the noun it is used with. It is used in numerical expressions, as in the example.
+See also: -k’una
+
+-k’una [n] another (one), more, some more, additional
+Forms: it-k’unaich “others” [WTI.13.9] ¬k’unaich “others, some more” [WTIV.2.6]
+Examples: Atxuya itk’una itk’Åmunaq. “Let’s go for some more wood.” [WTI.1a2]
+See also: -k’un
+
+a-k’unat [n] jack salmon
+See also: i-gunat
+
+i-k’ ̈nksh [n] black moss, k’unch
+Notes: Same as Sahaptin; borrowed to or from it. Refers to a black lichen growing on trees, which is harvested and barbecued in the ground, to produce a thick black pudding.
+
+a-k’ustxulal [n] wild onion
+Notes: Sapir’s note: “A root referred to as ‘wild onion;’ it is similar to the ak’alakia but smaller in size.” [WT p.95]
+
+a-k’ushtxulal [n] wild onion
+Forms: i¬k’ushtxulal “wild onions” [Dyk]
+
+a-k’uxsk’uxs [n] ankle
+Forms: itk’uxsk’ ̈xsks “ankles” [Dyk]
+
+-x-KW [vb] pass away, be destroyed, be annihilated, become extinct
+Forms: ixkwt “he/it[i-] is destroyed, annihilated, becomes extinct” uxwakwt “they are destroyed, annihi- lated, become extinct” ixatkwt “he/ it[i-] was destroyed, annihilated, became extinct” uxwalkw¬ “they are passing away, becoming extinct” igixgwÅ “he became destroyed, ex- tinct” ixk ̈x “he has been annihi- lated, made extinct” [Dyk]
+Notes: -KW(A), -GWA cross, pass away, cross between death and life
+
+-KWA [vb] pile
+Forms: aq¬akÅtgwaya “one will pile them on it[a-]” [WTII.7.2]
+
+-l-KWA [vb] think of
+Forms: inelgwax “I am thinking of him” chnelgwax “he is thinking of me” alailgwachkwa “he will think of her” ailgwax “he is thinking of me” aitgwÅx “he was thingking of her; she was thinking of her” igailkwÅchk “he thought of her (several times)”
+Notes: The person thinking is repre- sented by a pronoun immediately before -l- (position 4); the person or thing thought of is represented by a pronoun in position 3; except when the person thinking is 3rd person and the person or thing thought of is 1st or 2nd person; then the person thinking is represented by an active pronoun in position 2 and the person or thing thought of by a neutral pro- noun in position 3.
+See also: -l-KA-¬x
