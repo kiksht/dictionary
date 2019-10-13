@@ -56804,6 +56804,33 @@
       "ił-natłxat, wa-natłxat"
     ]
   },
+  "i-nim": {
+    "root": "i-nim",
+    "partOfSpeech": "n",
+    "definition": "weeping, sobbing",
+    "forms": [
+      {
+        "kiksht": "iłanim",
+        "english": "their weeping; they are weepers [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Idaním łgnug̲chqt.",
+        "english": "Their weeping keeps me awake."
+      },
+      {
+        "kiksht": "Shpak idaním.",
+        "english": "They are loud weepers. [Dyk]"
+      }
+    ],
+    "notes": [
+      "This word is used only with possessive prefixes."
+    ],
+    "seeAlso": [
+      "-xi-NIM, i-qinim"
+    ]
+  },
   "i-shmiwa": {
     "root": "i-shmiwa",
     "partOfSpeech": "n",
@@ -66871,6 +66898,231 @@
     "definition": "she killed him",
     "seeAlso": [
       "-WA-qw"
+    ]
+  },
+  "nigixatx": {
+    "root": "nigixatx",
+    "partOfSpeech": "vb",
+    "definition": "he did to himself [WTI.1i.2], it happened to him [WTI.11.1]",
+    "seeAlso": [
+      "X̲"
+    ]
+  },
+  "nigixtkím": {
+    "root": "nigixtkím",
+    "partOfSpeech": "vb",
+    "definition": "he said",
+    "seeAlso": [
+      "-KIM, -ga-KIM"
+    ]
+  },
+  "nigixux": {
+    "root": "nigixux",
+    "partOfSpeech": "vb",
+    "definition": "he became",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "nigluma": {
+    "root": "nigluma",
+    "partOfSpeech": "vb",
+    "definition": "he cried out",
+    "seeAlso": [
+      "-k-LUMA"
+    ]
+  },
+  "nigutxwit": {
+    "root": "nigutxwit",
+    "partOfSpeech": "vb",
+    "definition": "he stepped on it[i-]",
+    "notes": [
+      "Literally \"he(-i-) did(n-) stand(-txwit) on(-g-) it(-i-).\""
+    ],
+    "seeAlso": [
+      "-TX(WI)-it"
+    ]
+  },
+  "niguya": {
+    "root": "niguya",
+    "partOfSpeech": "vb",
+    "definition": "he went to him",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "nigwátx": {
+    "root": "nigwátx",
+    "partOfSpeech": "part",
+    "definition": "would that, it is wished that",
+    "examples": [
+      {
+        "kiksht": "Nigwátx pu nait'ax anuya Alaska-yamt.",
+        "english": "I wish I could go to Alaska. [GT, MMc 4/10/96]"
+      }
+    ]
+  },
+  "nig̲elgaba": {
+    "root": "nig̲elgaba",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] flew out from him",
+    "seeAlso": [
+      "-KA-pa"
+    ]
+  },
+  "nig̲eltaqłx": {
+    "root": "nig̲eltaqłx",
+    "partOfSpeech": "vb",
+    "definition": "he escaped from him",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "nikim": {
+    "root": "nikim",
+    "partOfSpeech": "vb",
+    "definition": "he said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "nikk'álagwa": {
+    "root": "nikk'álagwa",
+    "partOfSpeech": "vb",
+    "definition": "he stepped over it[i-]",
+    "seeAlso": [
+      "-k-K'ALA-kw"
+    ]
+  },
+  "nikta": {
+    "root": "nikta",
+    "partOfSpeech": "vb",
+    "definition": "he ran off [WTI.8.3, 10.1], he ran [WTI.12.2, 17.11]",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "niktaitam": {
+    "root": "niktaitam",
+    "partOfSpeech": "vb",
+    "definition": "he came running",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "niktálalemax": {
+    "root": "niktálalemax",
+    "partOfSpeech": "vb",
+    "definition": "he ran about",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "niktáx": {
+    "root": "niktáx",
+    "partOfSpeech": "vb",
+    "definition": "he ran off",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "niktáyaitam": {
+    "root": "niktáyaitam",
+    "partOfSpeech": "vb",
+    "definition": "he ran until he arrived",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "niktúkł": {
+    "root": "niktúkł",
+    "partOfSpeech": "vb",
+    "definition": "she took them",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "nilxátx": {
+    "root": "nilxátx",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) have become",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "niłgémtx": {
+    "root": "niłgémtx",
+    "partOfSpeech": "vb",
+    "definition": "they did to you",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "niłgidwaq": {
+    "root": "niłgidwaq",
+    "partOfSpeech": "vb",
+    "definition": "they killed him",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "niłkshtxá": {
+    "root": "niłkshtxá",
+    "partOfSpeech": "vb",
+    "definition": "they did to it[ish-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "niłkím": {
+    "root": "niłkím",
+    "partOfSpeech": "vb",
+    "definition": "they said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "niłmitgat": {
+    "root": "niłmitgat",
+    "partOfSpeech": "vb",
+    "definition": "they stuck in you",
+    "seeAlso": [
+      "-l-KA"
+    ]
+  },
+  "niłshxítx": {
+    "root": "niłshxítx",
+    "partOfSpeech": "vb",
+    "definition": "they did it[ish-] on themselves",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "niłuya": {
+    "root": "niłuya",
+    "partOfSpeech": "vb",
+    "definition": "they went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "niłułálidnił": {
+    "root": "niłułálidnił",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] used to stay",
+    "notes": [
+      "This verb is translated in Wishram Texts as \"he used to stay,\" but subject \"he\" (Coyote) is else- where represented in this story by -i-. The translation \"they used to stay\" may be correct."
+    ],
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "niłximnił": {
+    "root": "niłximnił",
+    "partOfSpeech": "vb",
+    "definition": "they used to lie",
+    "seeAlso": [
+      "-x-IMA"
     ]
   },
   "qengi": {
