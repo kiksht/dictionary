@@ -5721,6 +5721,36 @@
       "it-kádemgwa"
     ]
   },
+  "-a-k-ŁADA-kw": {
+    "root": "-a-k-ŁADA-kw",
+    "partOfSpeech": "vb",
+    "definition": "cuss, bawl out",
+    "forms": [
+      {
+        "kiksht": "achaikłádakwachgwa",
+        "english": "he will bawl him out"
+      },
+      {
+        "kiksht": "chaikłádagwax",
+        "english": "he is cussing him"
+      },
+      {
+        "kiksht": "ichaikłádakwachk",
+        "english": "he bawled him out"
+      },
+      {
+        "kiksht": "aixłádagwax",
+        "english": "he is cussing (loud)"
+      },
+      {
+        "kiksht": "aikłádagwachkux",
+        "english": "he has been bawled out [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-kaładagwax"
+    ]
+  },
   "-a-l- G̲ILA-pa": {
     "root": "-a-l- G̲ILA-pa",
     "partOfSpeech": "vb",
@@ -5881,6 +5911,20 @@
       }
     ]
   },
+  "-a-l-ŁADA-łx": {
+    "root": "-a-l-ŁADA-łx",
+    "partOfSpeech": "vb",
+    "definition": "drag into water",
+    "forms": [
+      {
+        "kiksht": "gałgialładałx",
+        "english": "they dragged him into the water [WTI.1c.3]"
+      }
+    ],
+    "seeAlso": [
+      "a-l-IMA-łx"
+    ]
+  },
   "-a-xi-LXUŁ": {
     "root": "-a-xi-LXUŁ",
     "partOfSpeech": "vb",
@@ -5996,6 +6040,17 @@
       {
         "kiksht": "iniask'emłada",
         "english": "I threw/ dragged him under [Dyk]"
+      }
+    ]
+  },
+  "-ask'm-ŁADA-pa": {
+    "root": "-ask'm-ŁADA-pa",
+    "partOfSpeech": "vb",
+    "definition": "drag out from under",
+    "forms": [
+      {
+        "kiksht": "ayamask'młádaba",
+        "english": "I will drag you out from under (a house, etc.) [Dyk]"
       }
     ]
   },
@@ -8700,6 +8755,24 @@
       "ił-qigwakdix"
     ]
   },
+  "-i-l-ŁADA-g̲w-ix": {
+    "root": "-i-l-ŁADA-g̲w-ix",
+    "partOfSpeech": "vb",
+    "definition": "drag from open to enclosed or restricted space",
+    "forms": [
+      {
+        "kiksht": "chailłádalg̲wix",
+        "english": "he is drag- ging her from the open to the wall"
+      },
+      {
+        "kiksht": "ichailłádag̲wix",
+        "english": "he dragged her from the open to the wall [Dyk]"
+      }
+    ],
+    "notes": [
+      "Literally \"drag (-łada-) up against (-g̲w-) to (-l-) it[i-] (-i-) a place (-ix).\" Compare -l-łada-qw."
+    ]
+  },
   "-i-n-K'A-kw": {
     "root": "-i-n-K'A-kw",
     "partOfSpeech": "vb",
@@ -8836,6 +8909,40 @@
         "kiksht": "chixdlumat",
         "english": "he was shouting through it[i-] [Dyk]"
       }
+    ]
+  },
+  "-i-x-ŁADA-ix": {
+    "root": "-i-x-ŁADA-ix",
+    "partOfSpeech": "vb",
+    "definition": "cheat, deceive",
+    "forms": [
+      {
+        "kiksht": "yaxładaix!",
+        "english": "cheat her!"
+      },
+      {
+        "kiksht": "achiaxładayaxdix",
+        "english": "he will cheat her"
+      },
+      {
+        "kiksht": "niaxłádadix",
+        "english": "I am cheating/deceiving her; I have her cheated/deceived"
+      },
+      {
+        "kiksht": "chiaxłádadix",
+        "english": "he is cheating/deceiv- ing her; he has her cheated/de- ceived"
+      },
+      {
+        "kiksht": "chiaxłádniłix",
+        "english": "he is cheating her, trying to cheat her"
+      },
+      {
+        "kiksht": "iqiaxładaix",
+        "english": "someone cheated her; she was cheated [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qaładadix"
     ]
   },
   "-i-xl-KIŁX̲": {
@@ -10191,6 +10298,37 @@
       {
         "kiksht": "Nachaikłámidaxdix akw'áłq iladamba.",
         "english": "He moved the basket over onto the table. [GT 6/ 10/99]"
+      }
+    ]
+  },
+  "-k-ŁADA-kw": {
+    "root": "-k-ŁADA-kw",
+    "partOfSpeech": "vb",
+    "definition": "drag (back and forth) on [Dyk], throw around, put around [WTII.11.2]",
+    "forms": [
+      {
+        "kiksht": "achiakłádagwalchgma",
+        "english": "he will drag it[i-] on it[a-]"
+      },
+      {
+        "kiksht": "chiakłádagwax",
+        "english": "he is dragging it[i-] back and forth on it[a-]"
+      },
+      {
+        "kiksht": "chiakłádagwalchk",
+        "english": "he drags it[i-] on it[a-] (repeatedly)"
+      },
+      {
+        "kiksht": "gachiakłádagwalchk",
+        "english": "he drags it[i-] on it[a-] (regularly)"
+      },
+      {
+        "kiksht": "ichiakłádakwachk",
+        "english": "he dragged it[i-] back and forth on it[a-] [Dyk]"
+      },
+      {
+        "kiksht": "yaxtładakwt",
+        "english": "it[i-] is thrown around it[a-] [WTII.11.2]"
       }
     ]
   },
@@ -11601,6 +11739,25 @@
       {
         "kiksht": "gachalłada",
         "english": "he spanned it[a- ] [WTI.2.4]"
+      }
+    ]
+  },
+  "-l-ŁADA-kw": {
+    "root": "-l-ŁADA-kw",
+    "partOfSpeech": "vb",
+    "definition": "drag around inside",
+    "forms": [
+      {
+        "kiksht": "nailłádakwtix",
+        "english": "I am dragging her around inside it[i-] (a place)."
+      },
+      {
+        "kiksht": "(Compare naixłádakwtix",
+        "english": "I am drag- ging her around [on the outside of] it[i-]."
+      },
+      {
+        "kiksht": ") nilłádakwtix",
+        "english": "I am dragging him around inside it[i-] (a place). [Dyk]"
       }
     ]
   },
@@ -13243,6 +13400,21 @@
       {
         "kiksht": "itsk'úlyayuks",
         "english": "coyotes [Dyk]"
+      }
+    ]
+  },
+  "-t-x-ŁADA-chu": {
+    "root": "-t-x-ŁADA-chu",
+    "partOfSpeech": "vb",
+    "definition": "suck in (of mud)",
+    "examples": [
+      {
+        "kiksht": "Imuitk chitxałádachuix.",
+        "english": "Mud sucked him in."
+      },
+      {
+        "kiksht": "Imuitk achitxaładachwayaxdix.",
+        "english": "Mud will suck him in. [PK 7/13/56]"
       }
     ]
   },
@@ -16118,6 +16290,61 @@
       }
     ]
   },
+  "-x-ŁADA-kw": {
+    "root": "-x-ŁADA-kw",
+    "partOfSpeech": "vb",
+    "definition": "throw past, pass, throw around, encircle",
+    "forms": [
+      {
+        "kiksht": "aniaxłádagwa",
+        "english": "I will drag him around her"
+      },
+      {
+        "kiksht": "naixłádakwtix",
+        "english": "I am dragging her (on the outside) around him (a place)"
+      },
+      {
+        "kiksht": "(Compare nailłádakwtix",
+        "english": "I am dragging her (on the inside) around it[i-] (a place).)"
+      },
+      {
+        "kiksht": "chiaxładakwt",
+        "english": "he has him thrown past/around her"
+      },
+      {
+        "kiksht": "yaxładakwt",
+        "english": "it[i-] is encircling her (for instance, a rope around her)"
+      },
+      {
+        "kiksht": "yaxłádakwlit",
+        "english": "he is passing her very fast (again and again)"
+      },
+      {
+        "kiksht": "yaxłádakwit",
+        "english": "he passed her very fast"
+      },
+      {
+        "kiksht": "iyaxładakwt",
+        "english": "he passed her (fast)"
+      },
+      {
+        "kiksht": "yaxłádaguxit",
+        "english": "he was thrown past her"
+      },
+      {
+        "kiksht": "aixładakwt",
+        "english": "he is encircled with it[a-]"
+      },
+      {
+        "kiksht": "uxwak'iładakwt",
+        "english": "they are encircled"
+      },
+      {
+        "kiksht": "uxwak'iłádakux",
+        "english": "they have been encirled, something has been put around them [Dyk]"
+      }
+    ]
+  },
   "-xa-IMA": {
     "root": "-xa-IMA",
     "partOfSpeech": "vb",
@@ -17888,6 +18115,24 @@
     ],
     "seeAlso": [
       "i-k'iładnił, -ŁATA"
+    ]
+  },
+  "-ŁADA-pa": {
+    "root": "-ŁADA-pa",
+    "partOfSpeech": "vb",
+    "definition": "drag out, draw out, throw out",
+    "forms": [
+      {
+        "kiksht": "ichiaxłádaba",
+        "english": "he dragged it[i- ] out from her (for instance, a rope from her hands)"
+      },
+      {
+        "kiksht": "igixłádaba",
+        "english": "he threw himself out [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-PA"
     ]
   },
   "-ł-gl-KWSHTX̲": {

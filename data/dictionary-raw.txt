@@ -16624,3 +16624,47 @@ Forms: iniask’em¬ada “I threw/ dragged him under” [Dyk]
 
 -l-ÒADA [vb] span (e.g., a bow)
 Forms: gachal¬ada “he spanned it[a- ]” [WTI.2.4]
+
+
+
+
+
+
+
+
+
+
+-t-x-ÒADA-chu [vb] suck in (of mud)
+Examples: Imuitk chitxa¬Ådachuix. “Mud sucked him in.” Imuitk achitxa¬adachwayaxdix. “Mud will suck him in.” [PK 7/13/56]
+
+-i-l-ÒADA-©w-ix [vb] drag from open to enclosed or restricted space
+Forms: chail¬Ådal©wix “he is drag- ging her from the open to the wall” ichail¬Åda©wix “he dragged her from the open to the wall” [Dyk]
+Notes: Literally “drag (-¬ada-) up against (-©w-) to (-l-) it[i-] (-i-) a place (-ix).” Compare -l-¬ada-qw.
+
+-i-x-ÒADA-ix [vb] cheat, deceive
+Forms: yax¬adaix! “cheat her!” achiax¬adayaxdix “he will cheat her” niax¬Ådadix “I am cheating/deceiving her; I have her cheated/deceived” chiax¬Ådadix “he is cheating/deceiv- ing her; he has her cheated/de- ceived” chiax¬Ådni¬ix “he is cheating her, trying to cheat her” iqiax¬adaix “someone cheated her; she was cheated” [Dyk]
+See also: i-qa¬adadix
+
+-a-k-ÒADA-kw [vb] cuss, bawl out
+Forms: achaik¬Ådakwachgwa “he will bawl him out” chaik¬Ådagwax “he is cussing him” ichaik¬Ådakwachk “he bawled him out” aix¬Ådagwax “he is cussing (loud)” aik¬Ådagwachkux “he has been bawled out” [Dyk]
+See also: a-ka¬adagwax
+
+-k-ÒADA-kw [vb] drag (back and forth) on [Dyk], throw around, put around [WTII.11.2]
+Forms: achiak¬Ådagwalchgma “he will drag it[i-] on it[a-]” chiak¬Ådagwax “he is dragging it[i-] back and forth on it[a-]” chiak¬Ådagwalchk “he drags it[i-] on it[a-] (repeatedly)” gachiak¬Ådagwalchk “he drags it[i-] on it[a-] (regularly)” ichiak¬Ådakwachk “he dragged it[i-] back and forth on it[a-]” [Dyk] yaxt¬adakwt “it[i-] is thrown around it[a-]” [WTII.11.2]
+
+-l-ÒADA-kw [vb] drag around inside
+Forms: nail¬Ådakwtix “I am dragging her around inside it[i-] (a place).” (Compare naix¬Ådakwtix “I am drag- ging her around [on the outside of] it[i-].”) nil¬Ådakwtix “I am dragging him around inside it[i-] (a place).” [Dyk]
+
+-x-ÒADA-kw [vb] throw past, pass, throw around, encircle
+Forms: aniax¬Ådagwa “I will drag him around her” naix¬Ådakwtix “I am dragging her (on the outside) around him (a place)” (Compare nail¬Ådakwtix “I am dragging her (on the inside) around it[i-] (a place).)” chiax¬adakwt “he has him thrown past/around her” yax¬adakwt “it[i-] is encircling her (for instance, a rope around her)” yax¬Ådakwlit “he is passing her very fast (again and again)” yax¬Ådakwit “he passed her very fast” iyax¬adakwt “he passed her (fast)” yax¬Ådaguxit “he was thrown past her” aix¬adakwt “he is encircled with it[a-]” uxwak’i¬adakwt “they are encircled” uxwak’i¬Ådakux “they have been encirled, something has been put around them” [Dyk]
+
+-a-l-ÒADA-¬x [vb] drag into water
+Forms: ga¬gial¬ada¬x “they dragged him into the water” [WTI.1c.3]
+See also: a-l-IMA-¬x
+
+-ÒADA-pa [vb] drag out, draw out, throw out
+Forms: ichiax¬Ådaba “he dragged it[i- ] out from her (for instance, a rope from her hands)” igix¬Ådaba “he threw himself out” [Dyk]
+See also: -PA
+
+-ask’m-ÒADA-pa [vb] drag out from under
+Forms: ayamask’m¬Ådaba “I will drag you out from under (a house, etc.)” [Dyk]
