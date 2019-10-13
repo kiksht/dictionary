@@ -13311,6 +13311,59 @@
       }
     ]
   },
+  "-sh-k-ŁAT'A-qw": {
+    "root": "-sh-k-ŁAT'A-qw",
+    "partOfSpeech": "vb",
+    "definition": "tighten, cinch up",
+    "forms": [
+      {
+        "kiksht": "akshikłat'ag̲wa",
+        "english": "she will tighten it[i-] up"
+      },
+      {
+        "kiksht": "akshikłat'alg̲ma",
+        "english": "she will tighten it[i-] up (every time; at different times)"
+      },
+      {
+        "kiksht": "kshikłat'álq",
+        "english": "she is tightening it[i-] up"
+      },
+      {
+        "kiksht": "chshakłat'álq",
+        "english": "he is tightening it[a-] up (as a cinch on a horse)"
+      },
+      {
+        "kiksht": "chshigatłat'álq",
+        "english": "he was tightening it[i-] up"
+      },
+      {
+        "kiksht": "shixłat'alq",
+        "english": "he is tightening himself up"
+      },
+      {
+        "kiksht": "shikłát'aqux",
+        "english": "he has been cinched up [Dyk]"
+      },
+      {
+        "kiksht": "ishkáłat'aq!",
+        "english": "make it[i-] tight! tighten it! [PK 7/17/56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Shpak shikłat'áqwt.",
+        "english": "It[i-] is overtightened. [Dyk]"
+      },
+      {
+        "kiksht": "Shpak shikłat'aqux.",
+        "english": "He's cinched tight."
+      },
+      {
+        "kiksht": "Qwatxala shpak shikłát'aqux.",
+        "english": "He's cinched too tight. [PK 7/17/56]"
+      }
+    ]
+  },
   "-sh-l-BIXWA": {
     "root": "-sh-l-BIXWA",
     "partOfSpeech": "vb",
@@ -16136,6 +16189,24 @@
       "i-k'anqut, -K'ANQUT"
     ]
   },
+  "-x-gí-ŁAWA": {
+    "root": "-x-gí-ŁAWA",
+    "partOfSpeech": "vb",
+    "definition": "do penance for murder",
+    "forms": [
+      {
+        "kiksht": "ixgíława",
+        "english": "he is doing pen- ance"
+      },
+      {
+        "kiksht": "nigixatgíława",
+        "english": "he did pen- ance [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a process of penance for a murderer that involves sleeping on the ground in the hills, cutting one's hair, and painting one's face with pitch and charcoal, for about 5 days."
+    ]
+  },
   "-x-i-n- G̲WIA-ix": {
     "root": "-x-i-n- G̲WIA-ix",
     "partOfSpeech": "vb",
@@ -18400,6 +18471,39 @@
     ],
     "seeAlso": [
       "-ŁADA"
+    ]
+  },
+  "-ŁAT'A-qw": {
+    "root": "-ŁAT'A-qw",
+    "partOfSpeech": "vb",
+    "definition": "tighten, cinch, take up slack, fasten",
+    "forms": [
+      {
+        "kiksht": "chiakłat'aqwt",
+        "english": "he has it[i-] tightened, cinched up on her"
+      },
+      {
+        "kiksht": "icháikłat'aq",
+        "english": "he tightened, fastened it[a-] on him [Dyk]"
+      }
+    ]
+  },
+  "-ŁAT'AMELQ": {
+    "root": "-ŁAT'AMELQ",
+    "partOfSpeech": "vb",
+    "definition": "swallow [Dyk, PK], capsize, sink [PK]",
+    "forms": [
+      {
+        "kiksht": "chiułat'ámelq",
+        "english": "he is swallow- ing him"
+      },
+      {
+        "kiksht": "ichiułat'ámelq",
+        "english": "he swal- lowed him [Dyk]"
+      }
+    ],
+    "notes": [
+      "According to Dyk, this is used only of Ichixyan, the water-whirlpool monster in legends. According to Phillip Kahclamat, it could also be used of torpedos capsizing or sinking a boat."
     ]
   },
   "-ŁATA-qw": {
@@ -51888,6 +51992,17 @@
       "A note from Sapir says that i- łapt'ala and i-xamitłqdit both mean \"arrowhead(s)\" without apparent difference in meaning."
     ]
   },
+  "i-łaxagiuldamit itqwłí": {
+    "root": "i-łaxagiuldamit itqwłí",
+    "partOfSpeech": "n",
+    "definition": "church",
+    "notes": [
+      "Literally \"praying house.\""
+    ],
+    "seeAlso": [
+      "i- -xagiuldamit"
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -61124,6 +61239,89 @@
     "definition": "they are climbing in",
     "seeAlso": [
       "-WULX"
+    ]
+  },
+  "łau": {
+    "root": "łau",
+    "partOfSpeech": "part",
+    "definition": "patter of rain",
+    "examples": [
+      {
+        "kiksht": "Łau shtg̲iłti.",
+        "english": "It is raining with a patter. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dałau"
+    ]
+  },
+  "ławá": {
+    "root": "ławá",
+    "partOfSpeech": "adv",
+    "definition": "slowly, easily",
+    "examples": [
+      {
+        "kiksht": "Ławá ixa!",
+        "english": "Do it slowly!"
+      },
+      {
+        "kiksht": "Ławá íwixa!",
+        "english": "Do it slowly, move it slowly!"
+      },
+      {
+        "kiksht": "Ławá g̲waug̲wau mxúx!",
+        "english": "Beat the sticks easily! [Dyk]"
+      }
+    ]
+  },
+  "łaxdau": {
+    "root": "łaxdau",
+    "partOfSpeech": "pron",
+    "definition": "that, those",
+    "notes": [
+      "This is a word for \"that\" or \"these\" used with nouns beginning with ił-."
+    ]
+  },
+  "łaxdauaich": {
+    "root": "łaxdauaich",
+    "partOfSpeech": "pron",
+    "definition": "those (few known)",
+    "notes": [
+      "Refers to a few people known to speaker and/or hearer."
+    ]
+  },
+  "łaxka": {
+    "root": "łaxka",
+    "partOfSpeech": "pron",
+    "definition": "it, they, them",
+    "notes": [
+      "Independent personal pro- noun."
+    ]
+  },
+  "łaxt'a": {
+    "root": "łaxt'a",
+    "partOfSpeech": "pron",
+    "definition": "it also, they also, them also"
+  },
+  "łaxt'ax": {
+    "root": "łaxt'ax",
+    "partOfSpeech": "pron",
+    "definition": "it also, they also, them also"
+  },
+  "łaxya": {
+    "root": "łaxya",
+    "partOfSpeech": "pron",
+    "definition": "that over there, those over there",
+    "notes": [
+      "Refers to people or things at a greater distance that those referred to by łaxdau. Used with nouns begin- ning with ił-."
+    ]
+  },
+  "łaxyaich": {
+    "root": "łaxyaich",
+    "partOfSpeech": "pron",
+    "definition": "those (few unknown) over there",
+    "notes": [
+      "Refers to a few people known to speaker and/or hearer, at a greater distance than those referred to by łaxdauaich."
     ]
   },
   "łałilxam": {
