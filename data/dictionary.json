@@ -5749,6 +5749,46 @@
       "i-qamaqwt"
     ]
   },
+  "-MAMA-kw": {
+    "root": "-MAMA-kw",
+    "partOfSpeech": "vb",
+    "definition": "miss, miscalculate, miss an opportunity to ask or do, lose an opportunity to ask or do, lose a chance to ask or do, waste",
+    "forms": [
+      {
+        "kiksht": "chiumamalkwł",
+        "english": "he is losing opportunities of asking him, doing it[i-]"
+      },
+      {
+        "kiksht": "chiumamakwt",
+        "english": "he has missed an opportunity of doing it[i-]; has miscalculated, made a mistake about it"
+      },
+      {
+        "kiksht": "ichiumamagwa",
+        "english": "he lost at chance at it[i-], missed it"
+      },
+      {
+        "kiksht": "ik'imamalkwł",
+        "english": "he is missing opportunities"
+      },
+      {
+        "kiksht": "ixmamakwt",
+        "english": "he is wasting himself"
+      },
+      {
+        "kiksht": "yumámakux",
+        "english": "it[i-] is going to waste [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Isk'ulya gachiúmamagwa ikxalal.",
+        "english": "Coyote made a mistake about West Wind. [WTI.6.6]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'imamalkwł"
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -23013,6 +23053,11 @@
     "root": "a-maliw",
     "partOfSpeech": "n",
     "definition": "tiger lily, lilium Washingtonium"
+  },
+  "a-małtaq": {
+    "root": "a-małtaq",
+    "partOfSpeech": "n",
+    "definition": "breech-clout, loincloth"
   },
   "a-mulal": {
     "root": "a-mulal",
@@ -47196,6 +47241,20 @@
       "dalau"
     ]
   },
+  "i- -małáiumit": {
+    "root": "i- -małáiumit",
+    "partOfSpeech": "adj n",
+    "definition": "clean",
+    "forms": [
+      {
+        "kiksht": "ichmałáiumit",
+        "english": "I am clean [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "mała"
+    ]
+  },
   "i- -ánana": {
     "root": "i- -ánana",
     "partOfSpeech": "adj n",
@@ -54642,6 +54701,20 @@
       "-LALAM, id-yułmaxlálamax"
     ]
   },
+  "id-máł": {
+    "root": "id-máł",
+    "partOfSpeech": "n",
+    "definition": "ocean",
+    "forms": [
+      {
+        "kiksht": "idmałmax",
+        "english": "oceans [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "wi-mał"
+    ]
+  },
   "id-náchk": {
     "root": "id-náchk",
     "partOfSpeech": "n",
@@ -56888,6 +56961,27 @@
       "-u-k'-XAYU-kw"
     ]
   },
+  "it- -mał": {
+    "root": "it- -mał",
+    "partOfSpeech": "adj n",
+    "definition": "Klamath (people)",
+    "forms": [
+      {
+        "kiksht": "itłamał",
+        "english": "Klamath people"
+      },
+      {
+        "kiksht": "itgamał",
+        "english": "she is a Klamath [PK 4/11/ 56]"
+      }
+    ],
+    "notes": [
+      "Possibly from idmał \"ocean\" (or other large body of water?), which might have been used to refer to Klamath Lake."
+    ],
+    "seeAlso": [
+      "i-kłamał, id-mał"
+    ]
+  },
   "it- -łaqłaqwit": {
     "root": "it- -łaqłaqwit",
     "partOfSpeech": "adj n",
@@ -58591,6 +58685,14 @@
     ],
     "seeAlso": [
       "a-laish, ił-laish"
+    ]
+  },
+  "it-małemt": {
+    "root": "it-małemt",
+    "partOfSpeech": "n",
+    "definition": "shore",
+    "seeAlso": [
+      "it-k'umałemt"
     ]
   },
   "it-łg̲wúl": {
@@ -62578,6 +62680,85 @@
     "partOfSpeech": "num",
     "definition": "twenty"
   },
+  "mamash": {
+    "root": "mamash",
+    "partOfSpeech": "n",
+    "definition": "father!, daddy!",
+    "notes": [
+      "A term of address used by children."
+    ],
+    "seeAlso": [
+      "amama, i-am"
+    ]
+  },
+  "mała": {
+    "root": "mała",
+    "partOfSpeech": "part",
+    "definition": "clean",
+    "examples": [
+      {
+        "kiksht": "Mała niuxt.",
+        "english": "I'm cleaning it[i-]. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "damała, i- -małáiumit"
+    ]
+  },
+  "małen": {
+    "root": "małen",
+    "partOfSpeech": "adv",
+    "definition": "by water, near water, at the edge of water",
+    "examples": [
+      {
+        "kiksht": "Małen mia.",
+        "english": "Go to the edge of the water."
+      },
+      {
+        "kiksht": "Małnix mia.",
+        "english": "Go the place at the edge of the water. [Dyk]"
+      }
+    ],
+    "notes": [
+      "This means simply \"by water\" or \"near water,\" while małnix refers to a place or point near water. See examples."
+    ],
+    "seeAlso": [
+      "małnix, małnadamt"
+    ]
+  },
+  "małnadamt": {
+    "root": "małnadamt",
+    "partOfSpeech": "adv",
+    "definition": "toward a place by water",
+    "seeAlso": [
+      "małen, małnix"
+    ]
+  },
+  "małnix": {
+    "root": "małnix",
+    "partOfSpeech": "adv",
+    "definition": "place in the water, offshore, near water, beside water",
+    "examples": [
+      {
+        "kiksht": "Małnix mia.",
+        "english": "Go the place at the edge of the water."
+      },
+      {
+        "kiksht": "Małen mia.",
+        "english": "Go to the edge of the water. [Dyk]"
+      },
+      {
+        "kiksht": "Gachłg̲elkel iłgwałilx qushtíaxa iłkala iłaxním małnix.",
+        "english": "In the water he saw a person, indeed a man [in] his ca- noe. [WTI.1d.1]"
+      }
+    ],
+    "notes": [
+      "This refers to a place or point near water; małen by itself means simply \"by\" or \"near water.\" See the first two examples."
+    ],
+    "seeAlso": [
+      "małen, małnadamt"
+    ]
+  },
   "qengi": {
     "root": "qengi",
     "partOfSpeech": "pron",
@@ -63421,13 +63602,13 @@
     "definition": "river, Columbia River",
     "forms": [
       {
-        "kiksht": "wímałmax̲",
+        "kiksht": "wímałmax",
         "english": "rivers"
       }
     ],
     "examples": [
       {
-        "kiksht": "Galułx̲a wimałiamt.",
+        "kiksht": "Galułxa wimałiamt.",
         "english": "She went to the river."
       },
       {
@@ -63435,7 +63616,7 @@
         "english": "all along the river [Dyk's transcription: yaka we:mał] [Dyk]"
       },
       {
-        "kiksht": "G̲angadix galux̲wílaitix adasq'ú idelxam kana'amdmax̲ wimałba.",
+        "kiksht": "G̲angadix galuxwílaitix adasq'ú idelxam kana'amdmax wimałba.",
         "english": "Long ago the Wasco people lived on both sides of the Columbia River. [GT, MMc]"
       }
     ],
@@ -63443,7 +63624,7 @@
       "Comment by Phillip Kahclamat: \"Sapir said the Columbia is the only one called wimał, but I'd call the Amazon, Mississippi that.\" Apparently this word refers to large rivers. Compare wi-qał."
     ],
     "seeAlso": [
-      "id-mał, małn, k'amałmt, it-k'umałmt"
+      "id-mał, małn, k'amałmt, it- k'umałmt"
     ]
   },
   "wi-łq": {

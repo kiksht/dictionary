@@ -17776,3 +17776,58 @@ a-maliw [n] tiger lily, lilium Washingtonium
 
 i¬-malk’ilak [n] bag of ground salmon
 See also: it-k’ilak
+
+
+
+
+
+
+id-mÅ¬ [n] ocean
+Forms: idma¬max “oceans” [Dyk]
+See also: wi-ma¬
+
+it- -ma¬ [adj n] Klamath (people)
+Forms: it¬ama¬ “Klamath people” itgama¬ “she is a Klamath” [PK 4/11/ 56]
+Notes: Possibly from idma¬ “ocean” (or other large body of water?), which might have been used to refer to Klamath Lake.
+See also: i-k¬ama¬, id-ma¬
+
+wi-ma¬ [n] river, Columbia River
+Forms: wˆma¬max “rivers”
+Examples: Galu¬xa wima¬iamt. “She went to the river.” yaka wiima¬ “all along the river” [Dyk’s transcription: yaka we:ma¬] [Dyk]  ̋angadix galuxwˆlaitix adasq’ ̈ idelxam kana’amdmax wima¬ba. “Long ago the Wasco people lived on both sides of the Columbia River.” [GT, MMc]
+Notes: Comment by Phillip Kahclamat: “Sapir said the Columbia is the only one called wima¬, but I’d call the Amazon, Mississippi that.” Apparently this word refers to large rivers. Compare wi-qa¬.
+See also: id-ma¬, ma¬n, k’ama¬mt, it- k’uma¬mt
+
+ma¬a [part] clean
+Examples: Ma¬a niuxt. “I’m cleaning it[i-].” [Dyk]
+See also: dama¬a, i- -ma¬Åiumit
+
+i- -ma¬Åiumit [adj n] clean
+Forms: ichma¬Åiumit “I am clean” [Dyk]
+See also: ma¬a
+
+it-ma¬emt [n] shore
+See also: it-k’uma¬emt
+
+ma¬en [adv] by water, near water, at the edge of water
+Examples: Ma¬en mia. “Go to the edge of the water.” Ma¬nix mia. “Go the place at the edge of the water.” [Dyk]
+Notes: This means simply “by water” or “near water,” while ma¬nix refers to a place or point near water. See examples.
+See also: ma¬nix, ma¬nadamt
+
+ma¬nadamt [adv] toward a place by water
+See also: ma¬en, ma¬nix
+
+ma¬nix [adv] place in the water, offshore, near water, beside water
+Examples: Ma¬nix mia. “Go the place at the edge of the water.” Ma¬en mia. “Go to the edge of the water.” [Dyk] Gach¬©elkel i¬gwa¬ilx qushtˆaxa i¬kala i¬axnˆm ma¬nix. “In the water he saw a person, indeed a man [in] his ca- noe.” [WTI.1d.1]
+Notes: This refers to a place or point near water; ma¬en by itself means simply “by” or “near water.” See the first two examples.
+See also: ma¬en, ma¬nadamt
+
+a-ma¬taq [n] breech-clout, loincloth
+
+-MAMA-kw [vb] miss, miscalculate, miss an opportunity to ask or do, lose an opportunity to ask or do, lose a chance to ask or do, waste
+Forms: chiumamalkw¬ “he is losing opportunities of asking him, doing it[i-]” chiumamakwt “he has missed an opportunity of doing it[i-]; has miscalculated, made a mistake about it” ichiumamagwa “he lost at chance at it[i-], missed it” ik’imamalkw¬ “he is missing opportunities” ixmamakwt “he is wasting himself” yumÅmakux “it[i-] is going to waste” [Dyk]
+Examples: Isk’ulya gachi ̈mamagwa ikxalal. “Coyote made a mistake about West Wind.” [WTI.6.6]
+See also: i-k’imamalkw¬
+
+mamash [n] father!, daddy!
+Notes: A term of address used by children.
+See also: amama, i-am
