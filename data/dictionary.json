@@ -17668,6 +17668,197 @@
       }
     ]
   },
+  "-x-ŁX̲LM": {
+    "root": "-x-ŁX̲LM",
+    "partOfSpeech": "vb",
+    "definition": "eat",
+    "forms": [
+      {
+        "kiksht": "aluxwiłxelma",
+        "english": "they're going to eat [GT, MMc 6/10/99]"
+      },
+      {
+        "kiksht": "anxłxelma",
+        "english": "I will eat"
+      },
+      {
+        "kiksht": "alixłxelma",
+        "english": "he will eat"
+      },
+      {
+        "kiksht": "anxítłxlma",
+        "english": "I will eat (dis- tant future)"
+      },
+      {
+        "kiksht": "alixítłxlema",
+        "english": "he will eat (distant future)"
+      },
+      {
+        "kiksht": "enxłxelmax",
+        "english": "I am eating"
+      },
+      {
+        "kiksht": "ixłxlmax",
+        "english": "he is eating"
+      },
+      {
+        "kiksht": "enxitłxelmax",
+        "english": "I was eating"
+      },
+      {
+        "kiksht": "ixitłxelmax",
+        "english": "he was eating"
+      },
+      {
+        "kiksht": "inxłxlémchk",
+        "english": "I just ate"
+      },
+      {
+        "kiksht": "igixłxlémchk",
+        "english": "he just ate"
+      },
+      {
+        "kiksht": "nanxłxlma",
+        "english": "I ate"
+      },
+      {
+        "kiksht": "nalixłxelma",
+        "english": "he ate"
+      },
+      {
+        "kiksht": "ninxłxlmax",
+        "english": "I was eating (last season)"
+      },
+      {
+        "kiksht": "ninxitłxlmax",
+        "english": "I was eating (last week)"
+      },
+      {
+        "kiksht": "nigixłxlmax",
+        "english": "he was eating (last season)"
+      },
+      {
+        "kiksht": "nigixitłxlmax",
+        "english": "he was eating (last week)"
+      },
+      {
+        "kiksht": "ninxłxlÂchk",
+        "english": "I ate (last season)"
+      },
+      {
+        "kiksht": "ninxitłxlémchk",
+        "english": "I ate (last week)"
+      },
+      {
+        "kiksht": "nigixłxlémchk",
+        "english": "he ate (last season)"
+      },
+      {
+        "kiksht": "nigixitłxlémchk",
+        "english": "he ate (last season)"
+      },
+      {
+        "kiksht": "ninxłxlemnił",
+        "english": "he used to eat (last season)"
+      },
+      {
+        "kiksht": "ninxitłxlmnił",
+        "english": "he used to eat (last week)"
+      },
+      {
+        "kiksht": "nigixłxlmnił",
+        "english": "he used to eat (last season)"
+      },
+      {
+        "kiksht": "nigixitłxmnił",
+        "english": "he used to eat (last week)"
+      },
+      {
+        "kiksht": "ganxłxlémchk",
+        "english": "I ate"
+      },
+      {
+        "kiksht": "galixłxlÂchk",
+        "english": "he ate"
+      },
+      {
+        "kiksht": "gałxłxlémchk",
+        "english": "they ate"
+      },
+      {
+        "kiksht": "ganxitłxelmax",
+        "english": "I was eating (last year)"
+      },
+      {
+        "kiksht": "anxitłxelmama",
+        "english": "I'll come to eat"
+      },
+      {
+        "kiksht": "anxłxelmama",
+        "english": "I'll go to eat"
+      },
+      {
+        "kiksht": "emxitłxelmam!",
+        "english": "come and eat! [Dyk]"
+      },
+      {
+        "kiksht": "aluxwiłxelmama",
+        "english": "they're going to go eat [GT, MMc 6/10/99]"
+      },
+      {
+        "kiksht": "atłxelma",
+        "english": "let's eat [HS 7/9/51]"
+      },
+      {
+        "kiksht": "with relational prefixes: enxik'łxlmax",
+        "english": "I am eating from it[i-] (plate, table)"
+      },
+      {
+        "kiksht": "enxiłłxlmax",
+        "english": "I am eating from it[i-] (plate only); I am eating inside"
+      },
+      {
+        "kiksht": "yaxawiłxlmax",
+        "english": "he is eating from it (home) [Dyk]; he is eating out of it [GT 6/3/98]"
+      },
+      {
+        "kiksht": "ixilłxlmax",
+        "english": "he is eating from it[i-] (plate) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Kwaish pu ninxitłxlemchk.",
+        "english": "I was just going to eat (was just about to, but didn't) (last week)"
+      },
+      {
+        "kiksht": "Kwaish nu ninxitłxlemchk.",
+        "english": "I just started to eat (was just about to, and did) (last week)"
+      },
+      {
+        "kiksht": "Łabladix ixłxlmax.",
+        "english": "He is eating lots."
+      },
+      {
+        "kiksht": "Shaimag̲máq igixłxlémchk.",
+        "english": "He ate hurriedly. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁX̲LM"
+    ]
+  },
+  "-x-ŁX̲UM": {
+    "root": "-x-ŁX̲UM",
+    "partOfSpeech": "vb",
+    "definition": "become exhausted, come to an end",
+    "examples": [
+      {
+        "kiksht": "Dauax akłmín nigaxałxum.",
+        "english": "This month came to an end. [WTI.2.22]"
+      }
+    ]
+  },
   "-xa-IMA": {
     "root": "-xa-IMA",
     "partOfSpeech": "vb",
@@ -19934,6 +20125,60 @@
     "root": "-ŁX̲I",
     "partOfSpeech": "vb",
     "definition": "crawl"
+  },
+  "-ŁX̲LM": {
+    "root": "-ŁX̲LM",
+    "partOfSpeech": "vb",
+    "definition": "eat, feed",
+    "examples": [
+      {
+        "kiksht": "Ag̲a alłxelma.",
+        "english": "Let's eat."
+      },
+      {
+        "kiksht": "Ayamułxelma.",
+        "english": "I'm going to feed you."
+      },
+      {
+        "kiksht": "Saqw saqw gachshułxlem.",
+        "english": "He ate it[ish-] all up. [WTI.1a2]"
+      },
+      {
+        "kiksht": "Ixłxelmax.",
+        "english": "He is eating. [WTI.1d.5]"
+      },
+      {
+        "kiksht": "chiułxelmax",
+        "english": "he is making him eat, helping him to eat"
+      },
+      {
+        "kiksht": "chialłxelmax",
+        "english": "he is making him eat in it[a-] (plate)"
+      }
+    ],
+    "seeAlso": [
+      "-xl-MUX̲, it-łxlém, i-łxlém"
+    ]
+  },
+  "-ŁX̲UM": {
+    "root": "-ŁX̲UM",
+    "partOfSpeech": "vb",
+    "definition": "eat up; consume, exhaust",
+    "forms": [
+      {
+        "kiksht": "gachiułxum",
+        "english": "he ate it[i-] up [WTI.1i.6]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Aluxwáłxuma idemshág̲amachx.",
+        "english": "Your bullets will be eaten up, you will run out of am- munition. [WTIV.2.17]"
+      }
+    ],
+    "seeAlso": [
+      "-x-TŁX̲UM, -ŁX̲LM, -xl-MUX̲"
+    ]
   },
   "-ł-gl-KWSHTX̲": {
     "root": "-ł-gl-KWSHTX̲",
@@ -22581,6 +22826,17 @@
       "Note from Sapir, WT, p.169: \"No explanation of this term was given. Probably some sort of beads or other ornament is referred to.\" i-łxaxumax [n] goose"
     ],
     "forms": []
+  },
+  "a-łxlułat": {
+    "root": "a-łxlułat",
+    "partOfSpeech": "n",
+    "definition": "pestle",
+    "forms": [
+      {
+        "kiksht": "iłłxlułat [Dyk], itłxlułat [GT, MMc 6/3/98]",
+        "english": "pestles"
+      }
+    ]
   },
   "a-łxwadit": {
     "root": "a-łxwadit",
@@ -64390,6 +64646,27 @@
       "-ŁX̲"
     ]
   },
+  "łxliwix": {
+    "root": "łxliwix",
+    "partOfSpeech": "adv",
+    "definition": "out of water, away from water, along edge of water, towards land, onto land, in mountains",
+    "examples": [
+      {
+        "kiksht": "Łxliwix emxúx!",
+        "english": "Get away from the water! [Dyk]"
+      },
+      {
+        "kiksht": "Ag̲a nait'a daminwa łxliwix anxuxwa.",
+        "english": "Now I for my part will be in the mountains for ever and ever. [WTI.4.22]"
+      }
+    ],
+    "notes": [
+      "See diagram below. Refers to location or motion away from water. The translation \"in the mountains\" in Wishram Texts, given above, clearly depends on the specific context."
+    ],
+    "seeAlso": [
+      "-ŁX̲, łxliu, łxlíwadamt, k'amałemt"
+    ]
+  },
   "łxlá": {
     "root": "łxlá",
     "partOfSpeech": "vb",
@@ -64409,12 +64686,42 @@
       "łxliu, łxliwix, k'amałemt"
     ]
   },
+  "łxulal": {
+    "root": "łxulal",
+    "partOfSpeech": "vb",
+    "definition": "they are saying",
+    "seeAlso": [
+      "-X̲U-lal"
+    ]
+  },
   "łxílaitix": {
     "root": "łxílaitix",
     "partOfSpeech": "vb",
     "definition": "they are dwelling",
     "seeAlso": [
       "-xi-LA-it-ix"
+    ]
+  },
+  "łxłélt": {
+    "root": "łxłélt",
+    "partOfSpeech": "vb",
+    "definition": "it is warm",
+    "examples": [
+      {
+        "kiksht": "łxłélt iłchqwá",
+        "english": "warm wa- ter [WTI.4.18]"
+      }
+    ],
+    "seeAlso": [
+      "-x-ŁL"
+    ]
+  },
+  "łxłáit": {
+    "root": "łxłáit",
+    "partOfSpeech": "vb",
+    "definition": "they die",
+    "seeAlso": [
+      "-x-ŁA-it"
     ]
   },
   "łáglalitix": {
