@@ -6741,6 +6741,23 @@
       "i-k'inatłxamat, i- k'inantłxmat, ił-k'inántłxmat, i- qixinantłx"
     ]
   },
+  "-NAŁX̲": {
+    "root": "-NAŁX̲",
+    "partOfSpeech": "vb",
+    "definition": "dry",
+    "forms": [
+      {
+        "kiksht": "gachłunałx",
+        "english": "he dried them [WTI.13.2]"
+      }
+    ],
+    "notes": [
+      "The form above should per- haps be rewritten gachłunatłx \"he wiped them dry.\""
+    ],
+    "seeAlso": [
+      "-NA-tłx"
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -14746,6 +14763,25 @@
       "-K'NAM, -n-K'NAM"
     ]
   },
+  "-nag̲un": {
+    "root": "-nag̲un",
+    "partOfSpeech": "n",
+    "definition": "sturgeon",
+    "forms": [
+      {
+        "kiksht": "inag̲un",
+        "english": "male sturgeon"
+      },
+      {
+        "kiksht": "anag̲un",
+        "english": "female sturgeon"
+      },
+      {
+        "kiksht": "iłnag̲un",
+        "english": "sturgeon [plural] [Dyk]"
+      }
+    ]
+  },
   "-q'l-ŁX̲I": {
     "root": "-q'l-ŁX̲I",
     "partOfSpeech": "vb",
@@ -22346,6 +22382,25 @@
       "-ł-x-ŁKA-xit, -ŁKA"
     ]
   },
+  "-ł-xi-NATŁ'": {
+    "root": "-ł-xi-NATŁ'",
+    "partOfSpeech": "vb",
+    "definition": "wipe oneself off, dry oneself",
+    "forms": [
+      {
+        "kiksht": "ałnxinatł'a",
+        "english": "I'm going to wipe myself off, dry myself"
+      },
+      {
+        "kiksht": "łixinatł't",
+        "english": "he's wiping himself off"
+      },
+      {
+        "kiksht": "łmxinatł'!",
+        "english": "wipe yourself off! [GT, MMc 6/4/ 98]"
+      }
+    ]
+  },
   "-ł-xl-CHKCH-kw": {
     "root": "-ł-xl-CHKCH-kw",
     "partOfSpeech": "vb",
@@ -24922,6 +24977,17 @@
     "root": "a-mísg̲ag̲a",
     "partOfSpeech": "n",
     "definition": "robin"
+  },
+  "a-nag̲naq": {
+    "root": "a-nag̲naq",
+    "partOfSpeech": "n",
+    "definition": "sore throat",
+    "forms": [
+      {
+        "kiksht": "agnag̲naq",
+        "english": "I have a sore throat [Spilyay/sick]"
+      }
+    ]
   },
   "a-łashqw'imliq": {
     "root": "a-łashqw'imliq",
@@ -56472,6 +56538,28 @@
       "Refers to fish eggs at the time they are ready to hatch."
     ]
   },
+  "i-nachkanlit": {
+    "root": "i-nachkanlit",
+    "partOfSpeech": "n",
+    "definition": "oak grove",
+    "seeAlso": [
+      "ił-nachkan"
+    ]
+  },
+  "i-nadidánwitxul": {
+    "root": "i-nadidánwitxul",
+    "partOfSpeech": "n",
+    "definition": "Indian speech, Indian language",
+    "forms": [
+      {
+        "kiksht": "iyanadidanwitxul",
+        "english": "he speaks Indian [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "nadidanwit"
+    ]
+  },
   "i-shmiwa": {
     "root": "i-shmiwa",
     "partOfSpeech": "n",
@@ -57151,14 +57239,8 @@
     "forms": [
       {
         "kiksht": "idianáchk",
-        "english": "salmon fisherman [HS 4/5/51]"
+        "english": "salmon fisher- man [HS 4/5/51]"
       },
-      {
-        "kiksht": "itshtanachk",
-        "english": "fish preserved in a pond"
-      }
-    ],
-    "examples": [
       {
         "kiksht": "Isk'ulya ishqagilak gacháwiqłaxit itshtanachk.",
         "english": "Coyote heard about two women having the fish run. [WTI.1.1]"
@@ -62768,6 +62850,23 @@
       "Refers to 2 fat, long and white roe-like organs in fish, from which fish grease and oil can be obtained. [Dyk] Used to be dried and cooked and eaten. [MMc 12/30/97] People dried salmon and then put in pit with covering (of leaves or tulis tightly woven) for storage. [GT] -MINA wash face"
     ]
   },
+  "ił-nachkan": {
+    "root": "ił-nachkan",
+    "partOfSpeech": "n",
+    "definition": "oak",
+    "forms": [
+      {
+        "kiksht": "iłnáchkanmax",
+        "english": "oaks"
+      }
+    ],
+    "notes": [
+      "Refers specifically to a mature oak producing acorns."
+    ],
+    "seeAlso": [
+      "i-natchkanlit, Iłianatchkanix, i-gabnashq"
+    ]
+  },
   "ił-łpuksh": {
     "root": "ił-łpuksh",
     "partOfSpeech": "n",
@@ -65682,6 +65781,135 @@
       "mała"
     ]
   },
+  "nachdikłámida": {
+    "root": "nachdikłámida",
+    "partOfSpeech": "vb",
+    "definition": "he reported (them?) to him"
+  },
+  "nachdupg̲naya": {
+    "root": "nachdupg̲naya",
+    "partOfSpeech": "vb",
+    "definition": "he appointed them",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "nachimluda": {
+    "root": "nachimluda",
+    "partOfSpeech": "vb",
+    "definition": "he gave it[i-] to you",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "nadenxelmuxma": {
+    "root": "nadenxelmuxma",
+    "partOfSpeech": "vb",
+    "definition": "I ate them",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "nadidanwit": {
+    "root": "nadidanwit",
+    "partOfSpeech": "n",
+    "definition": "Indian, Wasco",
+    "forms": [
+      {
+        "kiksht": "Usually used without prefix; but it can be used with prefixes also: inadidanwit",
+        "english": "Indian man"
+      },
+      {
+        "kiksht": ", anadidanwit",
+        "english": "Indian woman"
+      },
+      {
+        "kiksht": ", idnadidanwit",
+        "english": "Indians"
+      },
+      {
+        "kiksht": ", mnadidanwit",
+        "english": "you are an Indian [Dyk]"
+      },
+      {
+        "kiksht": "nadidanwitksh",
+        "english": "Indians [WTSup1.2]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Nadidanwit gatgia.",
+        "english": "Indi- ans went. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-nadidánwitxul"
+    ]
+  },
+  "naglalamchk": {
+    "root": "naglalamchk",
+    "partOfSpeech": "vb",
+    "definition": "she sang",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "nagwatx": {
+    "root": "nagwatx",
+    "partOfSpeech": "part",
+    "definition": "it is wished that, would that, hopefully",
+    "examples": [
+      {
+        "kiksht": "Shmani shan łgnukwul nagwatx amxatłikwtłichgwa icxanba.",
+        "english": "If anyone knows me I wish that you let them know about my son. [WTIII.2.1]"
+      }
+    ],
+    "notes": [
+      "This particle is used to ex- press a wish or desire, as in the ex- ample."
+    ],
+    "seeAlso": [
+      "nigwatx"
+    ]
+  },
+  "nag̲watx": {
+    "root": "nag̲watx",
+    "partOfSpeech": "part",
+    "definition": "hope, wish",
+    "examples": [
+      {
+        "kiksht": "Nag̲watx pu iginxilmux ig̲iwaq.",
+        "english": "I wish I had eaten meat."
+      },
+      {
+        "kiksht": "Nag̲watx pu almainxílmuxma ig̲iwaq.",
+        "english": "I hope I'll eat meat."
+      },
+      {
+        "kiksht": "Nag̲watx pu nigimxidlax ig̲iwaq.",
+        "english": "I wish I had been eating meat; I wished I were eating meat."
+      },
+      {
+        "kiksht": "Luq' nitxax nag̲watx pu inxlumx ig̲iwaq.",
+        "english": "I would like to swal- low meat."
+      },
+      {
+        "kiksht": "Nag̲watx inxidmuxumx ig̲iwaq.",
+        "english": "I wish I could eat meat."
+      },
+      {
+        "kiksht": "Nag̲watx endimamx.",
+        "english": "I wish I came there, were there. [Dyk]"
+      }
+    ]
+  },
+  "naigluya": {
+    "root": "naigluya",
+    "partOfSpeech": "vb",
+    "definition": "she went to him",
+    "seeAlso": [
+      "-I"
+    ]
+  },
   "qengi": {
     "root": "qengi",
     "partOfSpeech": "pron",
@@ -66617,6 +66845,20 @@
     ],
     "seeAlso": [
       "wí-muwa, ił-mwaksh"
+    ]
+  },
+  "wi-nachk": {
+    "root": "wi-nachk",
+    "partOfSpeech": "n",
+    "definition": "time of plentiful fish run",
+    "examples": [
+      {
+        "kiksht": "Winachk ikiax.",
+        "english": "It's now the time when fish are plentiful. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "id-náchk, -NA-chkw"
     ]
   },
   "wi-łq": {

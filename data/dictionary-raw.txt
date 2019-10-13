@@ -18484,3 +18484,72 @@ See also: i-kmÅnanp¬
 -NA-t¬x [vb] wipe, clean
 Forms: achiunat¬xa “he will clean her, wipe her” [Dyk] niunant¬x “I am wiping it[i-]” [GT, MMc 1/15/99] chiunÅnt¬x “he is cleaning, wiping him” chiunÅt¬xt “he is cleaning, wiping him; he has him wiped, cleaned” ichiunÅt¬x “he wiped him” ich¬ainat¬x “he wiped her with it (for example, towel)” ichainat¬xix “he wiped it[a-] on it[i-] (for example, floor)” ik’inant¬x “he is wiping, cleaning” yaxÅinant¬x “he is wiping himself on it[a-]” yaxÅitnant¬x “he was wiping himself on it[a-]” iyaxainat¬x “he wiped himself on it[a- ]” igixinat¬x “he wiped himself on it[i-] (for example, on his clothes)” igaixˆnat¬x “he wiped himself with it[a-] (for example, towel)” igixinat¬x “he wiped himself with it[i-]” yunat¬xix “he has been wiped” idnat¬xix “he had been wiped” [Dyk] galaixinat¬x “he wiped it[a-] on him- self” [WTI.1m.7]
 See also: i-k’inat¬xamat, i- k’inant¬xmat, i¬-k’inÅnt¬xmat, i- qixinant¬x
+
+
+
+
+
+
+-NAÒ ̨ [vb] dry
+Forms: gach¬una¬x “he dried them” [WTI.13.2]
+Notes: The form above should per- haps be rewritten gach¬unat¬x “he wiped them dry.”
+See also: -NA-t¬x
+
+-¬-xi-NATÒ’ [vb] wipe oneself off, dry oneself
+Forms: a¬nxinat¬’a “I’m going to wipe myself off, dry myself” ¬ixinat¬’t “he’s wiping himself off” ¬mxinat¬’! “wipe yourself off!” [GT, MMc 6/4/ 98]
+
+nachdik¬Åmida [vb] he reported (them?) to him
+
+nachdup©naya [vb] he appointed them
+See also: -P ̋NA
+
+nachimluda [vb] he gave it[i-] to you
+See also: -T
+
+id-nÅchk [n] fish, at the time they are running plentifully, fish run
+Forms: idianÅchk “salmon fisher- man” [HS 4/5/51] Isk’ulya ishqagilak gachÅwiq¬axit itshtanachk. “Coyote heard about two women having the fish run.” [WTI.1.1]
+See also: wi-nachk, -NA-chkw
+
+wi-nachk [n] time of plentiful fish run
+Examples: Winachk ikiax. “It’s now the time when fish are plentiful.” [Dyk]
+See also: id-nÅchk, -NA-chkw
+
+i¬-nachkan [n] oak
+Forms: i¬nÅchkanmax “oaks”
+Notes: Refers specifically to a mature oak producing acorns.
+See also: i-natchkanlit, I¬ianatchkanix, i-gabnashq
+
+i-nachkanlit [n] oak grove
+See also: i¬-nachkan
+
+nadenxelmuxma [vb] I ate them
+See also: -xl-MU ̨
+
+nadidanwit [n] Indian, Wasco
+Forms: Usually used without prefix; but it can be used with prefixes also: inadidanwit “Indian man”, anadidanwit “Indian woman”, idnadidanwit “Indians”, mnadidanwit “you are an Indian” [Dyk] nadidanwitksh “Indians” [WTSup1.2]
+Examples: Nadidanwit gatgia. “Indi- ans went.” [Dyk]
+See also: i-nadidÅnwitxul
+
+i-nadidÅnwitxul [n] Indian speech, Indian language
+Forms: iyanadidanwitxul “he speaks Indian” [Dyk]
+See also: nadidanwit
+
+naglalamchk [vb] she sang
+See also: -k-LALAM
+
+nagwatx [part] it is wished that, would that, hopefully
+Examples: Shmani shan ¬gnukwul nagwatx amxat¬ikwt¬ichgwa icxanba. “If anyone knows me I wish that you let them know about my son.” [WTIII.2.1]
+Notes: This particle is used to ex- press a wish or desire, as in the ex- ample.
+See also: nigwatx
+
+a-na©naq [n] sore throat
+Forms: agna©naq “I have a sore throat” [Spilyay/sick]
+
+-na©un [n] sturgeon
+Forms: ina©un “male sturgeon” ana©un “female sturgeon” i¬na©un “sturgeon [plural]” [Dyk]
+
+na©watx [part] hope, wish
+Examples: Na©watx pu iginxilmux i©iwaq. “I wish I had eaten meat.” Na©watx pu almainxˆlmuxma i©iwaq. “I hope I’ll eat meat.” Na©watx pu nigimxidlax i©iwaq. “I wish I had been eating meat; I wished I were eating meat.” Luq’ nitxax na©watx pu inxlumx i©iwaq. “I would like to swal- low meat.” Na©watx inxidmuxumx i©iwaq. “I wish I could eat meat.” Na©watx endimamx. “I wish I came there, were there.” [Dyk]
+
+naigluya [vb] she went to him
+See also: -I
