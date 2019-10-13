@@ -6736,6 +6736,17 @@
       "at'at'ałia"
     ]
   },
+  "-ga-ki-ŁKW": {
+    "root": "-ga-ki-ŁKW",
+    "partOfSpeech": "vb",
+    "definition": "win, win out",
+    "forms": [
+      {
+        "kiksht": "galugwakiłk",
+        "english": "they won out [WTI.12.5]"
+      }
+    ]
+  },
   "-gak'aps": {
     "root": "-gak'aps",
     "partOfSpeech": "n",
@@ -10784,6 +10795,20 @@
     ],
     "seeAlso": [
       "ish-kichkw'ámalit"
+    ]
+  },
+  "-ki-ŁKW": {
+    "root": "-ki-ŁKW",
+    "partOfSpeech": "vb",
+    "definition": "win",
+    "forms": [
+      {
+        "kiksht": "ałgiłgwa",
+        "english": "they will win [WTI.4.14]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁKW"
     ]
   },
   "-klial": {
@@ -16744,6 +16769,84 @@
       }
     ]
   },
+  "-x-ŁEL-d-ix": {
+    "root": "-x-ŁEL-d-ix",
+    "partOfSpeech": "vb",
+    "definition": "be hot (of place or weather)",
+    "examples": [
+      {
+        "kiksht": "Ixłeldix.",
+        "english": "It's hot. [of weather]"
+      }
+    ]
+  },
+  "-x-ŁL": {
+    "root": "-x-ŁL",
+    "partOfSpeech": "vb",
+    "definition": "be hot, be heated, become heated, heat up",
+    "forms": [
+      {
+        "kiksht": "alaxłlaya",
+        "english": "it[a-] (e.g., a stove) will heat up"
+      },
+      {
+        "kiksht": "ixłélt",
+        "english": "he is hot, heated"
+      },
+      {
+        "kiksht": "ixłlm",
+        "english": "he is heating up (as a car) (repeatedly, again and again)"
+      },
+      {
+        "kiksht": "axłlt",
+        "english": "it[a-] is hot"
+      },
+      {
+        "kiksht": "axatłlm",
+        "english": "she was heating up"
+      },
+      {
+        "kiksht": "ixatłilt",
+        "english": "he is hot, heated"
+      },
+      {
+        "kiksht": "igixłlemchk",
+        "english": "it heated up, scorched itself"
+      },
+      {
+        "kiksht": "nigixatłelt",
+        "english": "it[i-] was hot (last week)"
+      },
+      {
+        "kiksht": "nigixatłel",
+        "english": "it[i-] was scorched, burnt, became hot (last week) [Dyk]"
+      },
+      {
+        "kiksht": "gałxłel",
+        "english": "it became heated [WTI.1d.5]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Mxłélt chi?",
+        "english": "Are you hot? [GT, MMc]"
+      }
+    ],
+    "seeAlso": [
+      "i-qałlm, -x-ŁL-dix"
+    ]
+  },
+  "-x-ŁL-am": {
+    "root": "-x-ŁL-am",
+    "partOfSpeech": "vb",
+    "definition": "heat",
+    "forms": [
+      {
+        "kiksht": "gachłxłlamax",
+        "english": "he heated them [WTI.1d.5]"
+      }
+    ]
+  },
   "-xa-IMA": {
     "root": "-xa-IMA",
     "partOfSpeech": "vb",
@@ -18649,6 +18752,24 @@
       }
     ]
   },
+  "-ŁKW": {
+    "root": "-ŁKW",
+    "partOfSpeech": "vb",
+    "definition": "beat, defeat",
+    "forms": [
+      {
+        "kiksht": "gaqshúłk",
+        "english": "one beat them 2 [WTI.11.5]"
+      },
+      {
+        "kiksht": "ilxułguxwit",
+        "english": "we (includ- ing you) have been beaten [WTI.11.6]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁQW"
+    ]
+  },
   "-ł-gl-KWSHTX̲": {
     "root": "-ł-gl-KWSHTX̲",
     "partOfSpeech": "vb",
@@ -18665,6 +18786,24 @@
     ],
     "seeAlso": [
       "i-k'ikwshtxalal"
+    ]
+  },
+  "-ł-gm-ŁL-kw": {
+    "root": "-ł-gm-ŁL-kw",
+    "partOfSpeech": "vb",
+    "definition": "be in labor, be in process of giving birth",
+    "forms": [
+      {
+        "kiksht": "łagemłelgwax",
+        "english": "she is in labor, giving birth"
+      },
+      {
+        "kiksht": "iłagemłelkwachk",
+        "english": "she was in labor, giving birth [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ił-kmałlgwax"
     ]
   },
   "-ł-k-BWA": {
@@ -62166,6 +62305,28 @@
       }
     ]
   },
+  "łk'up -sh-l-x": {
+    "root": "łk'up -sh-l-x",
+    "partOfSpeech": "idiom",
+    "definition": "shoot at",
+    "examples": [
+      {
+        "kiksht": "Łk'up gaqshnshluxax.",
+        "english": "One shot at us, we were shot at. [WTIV.2.8]"
+      }
+    ],
+    "notes": [
+      "The dual neutral (object) pronoun -sh- stands for ish-g̲wálala \"gun.\""
+    ],
+    "seeAlso": [
+      "łk'up, -X̲"
+    ]
+  },
+  "łk'ún": {
+    "root": "łk'ún",
+    "partOfSpeech": "adv",
+    "definition": "perhaps, maybe"
+  },
   "łka": {
     "root": "łka",
     "partOfSpeech": "adv",
@@ -62186,6 +62347,96 @@
     "definition": "he[ił-] knows it[it-]",
     "seeAlso": [
       "-KL"
+    ]
+  },
+  "łkduxwakshtamnił": {
+    "root": "łkduxwakshtamnił",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] looks after it[it-]",
+    "seeAlso": [
+      "-x-KSHT-am"
+    ]
+  },
+  "łkdułxumt": {
+    "root": "łkdułxumt",
+    "partOfSpeech": "vb",
+    "definition": "they are consuming them",
+    "seeAlso": [
+      "-ŁX̲UM"
+    ]
+  },
+  "łkixax": {
+    "root": "łkixax",
+    "partOfSpeech": "vb",
+    "definition": "they are",
+    "seeAlso": [
+      "-KIX̲AX̲"
+    ]
+  },
+  "łksenbnanełx": {
+    "root": "łksenbnanełx",
+    "partOfSpeech": "vb",
+    "definition": "they are jumping in water",
+    "seeAlso": [
+      "-s-BNA-łx"
+    ]
+  },
+  "łktudinax": {
+    "root": "łktudinax",
+    "partOfSpeech": "vb",
+    "definition": "they killed them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "łktúxt": {
+    "root": "łktúxt",
+    "partOfSpeech": "vb",
+    "definition": "they do them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "łkupłkup": {
+    "root": "łkupłkup",
+    "partOfSpeech": "part",
+    "definition": "break up",
+    "examples": [
+      {
+        "kiksht": "Łkupłkup niłkshtxá ishk'alkal.",
+        "english": "They broke up the shinny ball. [WTI.3.11]"
+      }
+    ],
+    "seeAlso": [
+      "łkup"
+    ]
+  },
+  "łkwapdiksh": {
+    "root": "łkwapdiksh",
+    "partOfSpeech": "pron",
+    "definition": "as many, that many, the same number",
+    "examples": [
+      {
+        "kiksht": "Łkwapdiksh wit'a iłuya.",
+        "english": "Again the same number of them went. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kwapt, kwapdix, kwabát -ŁL(A) heat"
+    ]
+  },
+  "łkúp": {
+    "root": "łkúp",
+    "partOfSpeech": "part",
+    "definition": "burst",
+    "examples": [
+      {
+        "kiksht": "Igwałilx i'ish'ish; ag̲a łkúp igixux iyag̲wamnił.",
+        "english": "Poor Bluejay! Now his heart has burst! [WTI.4.12]"
+      }
+    ],
+    "seeAlso": [
+      "łgup"
     ]
   },
   "łáglalitix": {
