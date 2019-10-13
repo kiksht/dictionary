@@ -4888,6 +4888,32 @@
       }
     ]
   },
+  "-LA": {
+    "root": "-LA",
+    "partOfSpeech": "vb",
+    "definition": "train, exercise, practice",
+    "forms": [
+      {
+        "kiksht": "chłula",
+        "english": "he is training them"
+      },
+      {
+        "kiksht": "chłigilat",
+        "english": "he is training them for him"
+      },
+      {
+        "kiksht": "ixlá",
+        "english": "he is training (himself) [Dyk]"
+      },
+      {
+        "kiksht": "anxlaya",
+        "english": "I will train (myself) [PK 6/18/56]"
+      }
+    ],
+    "notes": [
+      "This may be simply a variant meaning and usage of the root -la- \"sharpen.\" More likely, it should be regarded as an additional meaning of -la \"move.\""
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -12693,6 +12719,20 @@
       "-KW'ALALA-kw"
     ]
   },
+  "-x-KW'I": {
+    "root": "-x-KW'I",
+    "partOfSpeech": "vb",
+    "definition": "bum around the coun- try, tramp, be a hobo",
+    "forms": [
+      {
+        "kiksht": "ixkw'ilal",
+        "english": "he is bumming around the country [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qakw'ilal, i-xkw'ilal"
+    ]
+  },
   "-x-KWCHAN": {
     "root": "-x-KWCHAN",
     "partOfSpeech": "vb",
@@ -16843,6 +16883,37 @@
     "notes": [
       "According to Phillip Kahclamat, this was a buckskin coat with fringes."
     ]
+  },
+  "a-kw'ayat": {
+    "root": "a-kw'ayat",
+    "partOfSpeech": "n",
+    "definition": "food storage pit, cache hole",
+    "forms": [
+      {
+        "kiksht": "itkw'ayatkmax",
+        "english": "food storage pits [Dyk]"
+      }
+    ]
+  },
+  "a-kw'iakw'ia(max)": {
+    "root": "a-kw'iakw'ia(max)",
+    "partOfSpeech": "n",
+    "definition": "finger ring",
+    "forms": [
+      {
+        "kiksht": "Either akw'iakw'iamax or akw'iakw'ia may be used for the sin- gular",
+        "english": "finger ring."
+      },
+      {
+        "kiksht": "Plural is ikw'iakw'iamax",
+        "english": "finger rings."
+      }
+    ]
+  },
+  "a-kw'át'auwias": {
+    "root": "a-kw'át'auwias",
+    "partOfSpeech": "n",
+    "definition": "leather cape"
   },
   "a-kwaxwalawadit": {
     "root": "a-kwaxwalawadit",
@@ -47015,6 +47086,46 @@
       "kw'ash, i-gikw'ashkw'ash"
     ]
   },
+  "i-kw'axa": {
+    "root": "i-kw'axa",
+    "partOfSpeech": "n",
+    "definition": "leaf",
+    "forms": [
+      {
+        "kiksht": "itkw'axa",
+        "english": "leaves [WTI.11.8]"
+      }
+    ]
+  },
+  "i-kw'ayat": {
+    "root": "i-kw'ayat",
+    "partOfSpeech": "n",
+    "definition": "whirlpool, hole in the head [Dyk], food cache, food storage pit [WTI.13.3, 16; AF 1/2/53; Rac- coon D; GT, MMc 1/14/99]",
+    "forms": [
+      {
+        "kiksht": "iłkw'ayatkmax",
+        "english": "pools of wa- ter"
+      },
+      {
+        "kiksht": "ichkw'ayat",
+        "english": "my hole in the head (a mythical hole in the head that everyone is supposed to have) [Dyk]"
+      }
+    ]
+  },
+  "i-kw'utkw'ut": {
+    "root": "i-kw'utkw'ut",
+    "partOfSpeech": "n",
+    "definition": "picking, plucking",
+    "forms": [
+      {
+        "kiksht": "iyakw'utkw'ut",
+        "english": "he is one who picks, plucks [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kw'utkw'ut, i-gikw'utkw'ut"
+    ]
+  },
   "i-kw'álacincin": {
     "root": "i-kw'álacincin",
     "partOfSpeech": "n",
@@ -52720,6 +52831,12 @@
       "From stem -kus \"eye\"; see i- xus."
     ]
   },
+  "ił-kw'ayuksh": {
+    "root": "ił-kw'ayuksh",
+    "partOfSpeech": "n",
+    "definition": "sores, boils",
+    "forms": []
+  },
   "ił-kwapi": {
     "root": "ił-kwapi",
     "partOfSpeech": "n",
@@ -52782,6 +52899,21 @@
     ],
     "seeAlso": [
       "-ł-KTŁQ"
+    ]
+  },
+  "ił-lá": {
+    "root": "ił-lá",
+    "partOfSpeech": "n",
+    "definition": "fog",
+    "examples": [
+      {
+        "kiksht": "Tai iłlá.",
+        "english": "It's very foggy."
+      },
+      {
+        "kiksht": "Dagepgeb iłlá.",
+        "english": "It's very foggy. [GT, MMc]"
+      }
     ]
   },
   "iłac'imam iłk'ílagwadit": {
@@ -54219,6 +54351,40 @@
       "kw'utkw'ut"
     ]
   },
+  "kw'atxala": {
+    "root": "kw'atxala",
+    "partOfSpeech": "adv",
+    "definition": "too, too much",
+    "examples": [
+      {
+        "kiksht": "kw'atxala yaxi",
+        "english": "too far"
+      },
+      {
+        "kiksht": "kw'atxala yaxka",
+        "english": "he is too much, thinks too much of himself, is too proud"
+      },
+      {
+        "kiksht": "kw'atxala ałatíłx iłchqwá",
+        "english": "too much water"
+      },
+      {
+        "kiksht": "Kw'atxala emxelp'alaulal.",
+        "english": "You talk too much."
+      },
+      {
+        "kiksht": "Kw'atxala łablat ichiux.",
+        "english": "He made it[i- ] too much. [Dyk]"
+      },
+      {
+        "kiksht": "Kw'atxala imik'amla.",
+        "english": "You are too mean. [WTI.1n.3]"
+      }
+    ],
+    "seeAlso": [
+      "kwatxalá, qwatxalá"
+    ]
+  },
   "kw'ała": {
     "root": "kw'ała",
     "partOfSpeech": "part",
@@ -54261,6 +54427,56 @@
         "kiksht": "Kw'ałá enkiax.",
         "english": "I'm happy. [GT, MMc]"
       }
+    ]
+  },
+  "kw'is": {
+    "root": "kw'is",
+    "partOfSpeech": "num",
+    "definition": "nine"
+  },
+  "kw'istłiyał": {
+    "root": "kw'istłiyał",
+    "partOfSpeech": "num",
+    "definition": "ninety"
+  },
+  "kw'ul": {
+    "root": "kw'ul",
+    "partOfSpeech": "part",
+    "definition": "grind, grind up",
+    "examples": [
+      {
+        "kiksht": "Kw'ul akiax.",
+        "english": "It[a-] (for instance, flour) is ground up."
+      },
+      {
+        "kiksht": "Kw'ulkw'ul chiuxt.",
+        "english": "He is grinding it[i-] up. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dakw'ul, saikw'ulkw'ul"
+    ]
+  },
+  "kw'utkw'ut": {
+    "root": "kw'utkw'ut",
+    "partOfSpeech": "part",
+    "definition": "pick, pluck",
+    "examples": [
+      {
+        "kiksht": "Kw'utkw'ut enłúxt iłgui.",
+        "english": "I'm picking raspberries."
+      },
+      {
+        "kiksht": "Kw'utkw'ut chiuxt ilibum.",
+        "english": "He is picking apples."
+      },
+      {
+        "kiksht": "Kw'utkw'út indixux idiapiq.",
+        "english": "I plucked out his feathers. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-gikw'ukw'ut, kw'atkw'at"
     ]
   },
   "kwaba": {
