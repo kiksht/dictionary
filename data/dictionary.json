@@ -23010,6 +23010,25 @@
     "partOfSpeech": "place",
     "definition": "Wishram winter village"
   },
+  "Nixlúidix": {
+    "root": "Nixlúidix",
+    "partOfSpeech": "place",
+    "definition": "Spearfish",
+    "notes": [
+      "Traditional village location. Apparently derived from the verb ixlúidix \"it[i-] is going together.\""
+    ],
+    "seeAlso": [
+      "i- -xluit, -xluit"
+    ]
+  },
+  "Nixyawi": {
+    "root": "Nixyawi",
+    "partOfSpeech": "place",
+    "definition": "Umatilla country",
+    "seeAlso": [
+      "nixyawibam"
+    ]
+  },
   "Notes: Refers to oak of which igaben, digging stick, is made": {
     "root": "Notes: Refers to oak of which igaben, digging stick, is made",
     "partOfSpeech": "Notes: Refers to oak of which igaben, digging stick, is made",
@@ -67335,12 +67354,299 @@
       "-x-SHA-mit"
     ]
   },
+  "nintkłgitka": {
+    "root": "nintkłgitka",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) found it",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "nintxwmatgaba": {
+    "root": "nintxwmatgaba",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not in- cluding you) worked",
+    "seeAlso": [
+      "-xm-GA-pa"
+    ]
+  },
+  "nintxátx": {
+    "root": "nintxátx",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) became",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "ninuya": {
+    "root": "ninuya",
+    "partOfSpeech": "vb",
+    "definition": "I went, I was gone",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "ninxatkw'aitam": {
+    "root": "ninxatkw'aitam",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not in- cluding you) came home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "ninxatkw'á": {
+    "root": "ninxatkw'á",
+    "partOfSpeech": "vb",
+    "definition": "I came home",
+    "seeAlso": [
+      "-x-KW'A"
+    ]
+  },
+  "ninxitchmaq": {
+    "root": "ninxitchmaq",
+    "partOfSpeech": "vb",
+    "definition": "I heard",
+    "seeAlso": [
+      "-xl-CHMA-qw"
+    ]
+  },
+  "ninxitqłaxit": {
+    "root": "ninxitqłaxit",
+    "partOfSpeech": "vb",
+    "definition": "I was informed, I got knowledge",
+    "seeAlso": [
+      "-xl-QŁA-xit"
+    ]
+  },
+  "ninxitxwichkwt": {
+    "root": "ninxitxwichkwt",
+    "partOfSpeech": "vb",
+    "definition": "I was ready",
+    "seeAlso": [
+      "-xl-TX(WI)-chkw"
+    ]
+  },
+  "ninxitłuxwait": {
+    "root": "ninxitłuxwait",
+    "partOfSpeech": "vb",
+    "definition": "I felt",
+    "seeAlso": [
+      "-xl-ŁUXWA(N)"
+    ]
+  },
+  "ninxtkixax": {
+    "root": "ninxtkixax",
+    "partOfSpeech": "vb",
+    "definition": "I was",
+    "seeAlso": [
+      "-XTKIX̲AX̲"
+    ]
+  },
+  "ninxátx": {
+    "root": "ninxátx",
+    "partOfSpeech": "vb",
+    "definition": "I was, I stayed",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "ninxítłuxwan": {
+    "root": "ninxítłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "I thought",
+    "seeAlso": [
+      "-xl-ŁUXWAN"
+    ]
+  },
+  "ninxłuxwan": {
+    "root": "ninxłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "I thought",
+    "seeAlso": [
+      "-x-ŁUXWA(N)"
+    ]
+  },
   "ninłgítaqłq": {
     "root": "ninłgítaqłq",
     "partOfSpeech": "vb",
     "definition": "I left him[ił-] behind",
     "seeAlso": [
       "-g̲l-TA-qłq"
+    ]
+  },
+  "niqentga": {
+    "root": "niqentga",
+    "partOfSpeech": "vb",
+    "definition": "one buried me",
+    "examples": [
+      {
+        "kiksht": "Qaxba niqéntgaba niqnúkshtbama.",
+        "english": "Where they buried me, there they went to look for me. [WTI.8.3]"
+      }
+    ],
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "niqilxlut": {
+    "root": "niqilxlut",
+    "partOfSpeech": "vb",
+    "definition": "one gave it[i-] to us (including you), it[i-] was given to us (including you)",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "niqnuksht": {
+    "root": "niqnuksht",
+    "partOfSpeech": "vb",
+    "definition": "one went to look for me",
+    "examples": [
+      {
+        "kiksht": "Qaxba niqéntgaba niqnúkshtbama.",
+        "english": "Where they buried me, there they went to look for me. [WTI.8.3]"
+      }
+    ],
+    "seeAlso": [
+      "-KSHT"
+    ]
+  },
+  "niqíłgadwait": {
+    "root": "niqíłgadwait",
+    "partOfSpeech": "vb",
+    "definition": "they were raided",
+    "seeAlso": [
+      "algłgwaida"
+    ]
+  },
+  "niqłdina": {
+    "root": "niqłdina",
+    "partOfSpeech": "vb",
+    "definition": "one killed them, they were killed",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "nishdimam": {
+    "root": "nishdimam",
+    "partOfSpeech": "vb",
+    "definition": "they 2 arrived",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "nishgeltachk": {
+    "root": "nishgeltachk",
+    "partOfSpeech": "vb",
+    "definition": "he ran after them 2",
+    "seeAlso": [
+      "-TA"
+    ]
+  },
+  "nishgiux": {
+    "root": "nishgiux",
+    "partOfSpeech": "vb",
+    "definition": "they 2 did him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "nishgluma": {
+    "root": "nishgluma",
+    "partOfSpeech": "vb",
+    "definition": "they 2 cried out",
+    "seeAlso": [
+      "-k-LUMA"
+    ]
+  },
+  "nishgúlpłq": {
+    "root": "nishgúlpłq",
+    "partOfSpeech": "vb",
+    "definition": "he used to enter",
+    "seeAlso": [
+      "-sh-k-u-PQ"
+    ]
+  },
+  "nishixatuksh": {
+    "root": "nishixatuksh",
+    "partOfSpeech": "vb",
+    "definition": "he sucked himself",
+    "seeAlso": [
+      "-sh-x-TUKSH"
+    ]
+  },
+  "nishkshúkł": {
+    "root": "nishkshúkł",
+    "partOfSpeech": "vb",
+    "definition": "they 2 took it[ish-] along",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "nishtigidlalit": {
+    "root": "nishtigidlalit",
+    "partOfSpeech": "vb",
+    "definition": "they 2 were doc- toring him",
+    "seeAlso": [
+      "-gi-LA-it"
+    ]
+  },
+  "nishtuxt": {
+    "root": "nishtuxt",
+    "partOfSpeech": "vb",
+    "definition": "they two dwelt",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
+  "nishtuya": {
+    "root": "nishtuya",
+    "partOfSpeech": "vb",
+    "definition": "they 2 went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "nishxtkím": {
+    "root": "nishxtkím",
+    "partOfSpeech": "vb",
+    "definition": "they 2 said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "niunaxł": {
+    "root": "niunaxł",
+    "partOfSpeech": "vb",
+    "definition": "I am looking for it[i-], I am seeking to find it[i-]",
+    "seeAlso": [
+      "-NAX̲Ł"
+    ]
+  },
+  "niuqmit": {
+    "root": "niuqmit",
+    "partOfSpeech": "vb",
+    "definition": "I see it[i-]",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "niuxulal": {
+    "root": "niuxulal",
+    "partOfSpeech": "vb",
+    "definition": "I am doing it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "nixyawibam": {
+    "root": "nixyawibam",
+    "partOfSpeech": "n",
+    "definition": "Umatilla people",
+    "notes": [
+      "The suffix -bam \"people of\" is from Sahaptin."
+    ],
+    "seeAlso": [
+      "Nixyawi"
     ]
   },
   "niłgémtx": {
