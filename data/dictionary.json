@@ -4941,6 +4941,126 @@
       }
     ]
   },
+  "-LA-chkw": {
+    "root": "-LA-chkw",
+    "partOfSpeech": "vb",
+    "definition": "hold up in the air ready to strike, clear up (of weather)",
+    "forms": [
+      {
+        "kiksht": "chiuláchkwt",
+        "english": "I am holding it[i-] up in the air ready to strike with it"
+      },
+      {
+        "kiksht": "niagilachkwt",
+        "english": "I am holding it[i-] up ready to strike her"
+      },
+      {
+        "kiksht": "nigidlachkwt",
+        "english": "I was holding it[i-] up ready to strike her"
+      },
+      {
+        "kiksht": "chaigilachkwt",
+        "english": "he is holding it[a-] up in the air ready to strike him"
+      },
+      {
+        "kiksht": "yulachgwix",
+        "english": "it cleared up (as weather from rain) [Dyk]"
+      },
+      {
+        "kiksht": "ixílachkwdix",
+        "english": "it's clearing up [GT, MMc 6/4/98]"
+      }
+    ]
+  },
+  "-LA-it": {
+    "root": "-LA-it",
+    "partOfSpeech": "vb",
+    "definition": "sit, sit down, seat",
+    "notes": [
+      "Used only with plural sub- jects."
+    ],
+    "seeAlso": [
+      "-ŁA-it"
+    ]
+  },
+  "-LA-it-(ix)": {
+    "root": "-LA-it-(ix)",
+    "partOfSpeech": "vb",
+    "definition": "sit, live",
+    "forms": [
+      {
+        "kiksht": "dailaitix",
+        "english": "they are sitting in it[a-]"
+      },
+      {
+        "kiksht": "daklaitix",
+        "english": "they are sitting on it[a-]"
+      },
+      {
+        "kiksht": "dagmlaitix",
+        "english": "they are sitting by it[a-]/her, beside it/her"
+      },
+      {
+        "kiksht": "dagilaitix",
+        "english": "they are sitting because of her, for her"
+      },
+      {
+        "kiksht": "daxlaitix",
+        "english": "they are sitting on the edge of it[a-]"
+      },
+      {
+        "kiksht": "dask'emlaitix",
+        "english": "they are sitting under it[a-]"
+      },
+      {
+        "kiksht": "łengemlaitix",
+        "english": "they are living by me"
+      },
+      {
+        "kiksht": "digemlaitix",
+        "english": "they are sitting by him, waiting for him"
+      },
+      {
+        "kiksht": "łaglaitix",
+        "english": "they are sitting on it[a-], living on it"
+      },
+      {
+        "kiksht": "łxiglaitix",
+        "english": "we are sitting on, living on it[i-]"
+      },
+      {
+        "kiksht": "anshidláidayaxtix",
+        "english": "we will sit in it[i-] (a place, as hole, jail, etc.)"
+      },
+      {
+        "kiksht": "enshałílaitix",
+        "english": "we were sitting in it (sand, water)"
+      },
+      {
+        "kiksht": "dailaitix",
+        "english": "they are sitting in it[a-]"
+      },
+      {
+        "kiksht": "dałílaitix",
+        "english": "they are sitting in it"
+      },
+      {
+        "kiksht": "idailait",
+        "english": "they sat on it[a- ]"
+      },
+      {
+        "kiksht": "dałílaitix",
+        "english": "they lived in it[i-] (a place)"
+      },
+      {
+        "kiksht": "nimshidláidixix",
+        "english": "you folks were in jail"
+      }
+    ],
+    "notes": [
+      "Used only with plural sub- jects. The suffix -ix is used only the present tense, the ga- tense when it means \"last year\" (that is, when it is used with the -t- directional), and the ni- tense (only when it means \"were doing...\"). For singular subjects, use - ła-it."
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -8659,6 +8779,37 @@
       {
         "kiksht": "akkwtłwaqux",
         "english": "she has been made to sneak up on her [Dyk]"
+      }
+    ]
+  },
+  "-k-LA-chkw": {
+    "root": "-k-LA-chkw",
+    "partOfSpeech": "vb",
+    "definition": "take off, lift off",
+    "forms": [
+      {
+        "kiksht": "chiagláchkwt",
+        "english": "he has it[i-] taken off her"
+      },
+      {
+        "kiksht": "yagláchkwt",
+        "english": "it[i-] is off her"
+      },
+      {
+        "kiksht": "shtaglachkwt",
+        "english": "they 2 are off her"
+      },
+      {
+        "kiksht": "yagadláchkwt",
+        "english": "it[i-] was off her"
+      },
+      {
+        "kiksht": "yagláchkux",
+        "english": "it[i-] has been taken off her, lifted off her"
+      },
+      {
+        "kiksht": "yaglachguxit",
+        "english": "it[i-] became lifted off her (as a cover by wind)"
       }
     ]
   },
@@ -13143,6 +13294,64 @@
     ],
     "notes": [
       "The meaning \"train, exercise, practice\" probably derives from the meaning \"move (oneself).\""
+    ]
+  },
+  "-x-LA-chkw": {
+    "root": "-x-LA-chkw",
+    "partOfSpeech": "vb",
+    "definition": "get up",
+    "forms": [
+      {
+        "kiksht": "emxláchk!",
+        "english": "get up!"
+      },
+      {
+        "kiksht": "anxlachgwa",
+        "english": "I will get up"
+      },
+      {
+        "kiksht": "ixlalchk",
+        "english": "he is getting up"
+      },
+      {
+        "kiksht": "ixlachkwt",
+        "english": "he has gotten up, he is up"
+      },
+      {
+        "kiksht": "igixlachk",
+        "english": "he just got up"
+      },
+      {
+        "kiksht": "nigixlachk",
+        "english": "he got up (last season)"
+      },
+      {
+        "kiksht": "nigixadlachk",
+        "english": "he got up (last week)"
+      },
+      {
+        "kiksht": "nigixlalchk",
+        "english": "he got up (every morning) (last season)"
+      },
+      {
+        "kiksht": "nigixadlalchk",
+        "english": "he got up (every morning) (last week)"
+      },
+      {
+        "kiksht": "galaxlachk",
+        "english": "she got up"
+      },
+      {
+        "kiksht": "nixlachk",
+        "english": "he got up"
+      },
+      {
+        "kiksht": "iguxwalayuchk",
+        "english": "they each got up [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to getting up from lying down."
     ]
   },
   "-x-NI": {

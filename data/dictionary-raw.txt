@@ -15677,3 +15677,28 @@ Forms: yaxailat “he is sticking up for her” igixila “he stuck up for him�
 
 -LA-chgwa-mit [vb] get up, rouse, cause to be up
 Forms: chiulachgwamit “he has got- ten him up (as from bed)” gachiulachgwamit “he got him up” gagiulachgwamit “she got him up” [Dyk]
+
+
+
+
+
+
+
+
+-LA-chkw [vb] hold up in the air ready to strike, clear up (of weather)
+Forms: chiulÅchkwt “I am holding it[i-] up in the air ready to strike with it” niagilachkwt “I am holding it[i-] up ready to strike her” nigidlachkwt “I was holding it[i-] up ready to strike her” chaigilachkwt “he is holding it[a-] up in the air ready to strike him” yulachgwix “it cleared up (as weather from rain)” [Dyk] ixˆlachkwdix “it’s clearing up” [GT, MMc 6/4/98]
+
+-k-LA-chkw [vb] take off, lift off
+Forms: chiaglÅchkwt “he has it[i-] taken off her” yaglÅchkwt “it[i-] is off her” shtaglachkwt “they 2 are off her” yagadlÅchkwt “it[i-] was off her” yaglÅchkux “it[i-] has been taken off her, lifted off her” yaglachguxit “it[i-] became lifted off her (as a cover by wind)”
+
+-x-LA-chkw [vb] get up
+Forms: emxlÅchk! “get up!” anxlachgwa “I will get up” ixlalchk “he is getting up” ixlachkwt “he has gotten up, he is up” igixlachk “he just got up” nigixlachk “he got up (last season)” nigixadlachk “he got up (last week)” nigixlalchk “he got up (every morning) (last season)” nigixadlalchk “he got up (every morning) (last week)” galaxlachk “she got up” nixlachk “he got up” iguxwalayuchk “they each got up” [Dyk]
+Notes: Refers to getting up from lying down.
+
+-LA-it [vb] sit, sit down, seat
+Notes: Used only with plural sub- jects.
+See also: -ÒA-it
+
+-LA-it-(ix) [vb] sit, live
+Forms: dailaitix “they are sitting in it[a-]” daklaitix “they are sitting on it[a-]” dagmlaitix “they are sitting by it[a-]/her, beside it/her” dagilaitix “they are sitting because of her, for her” daxlaitix “they are sitting on the edge of it[a-]” dask’emlaitix “they are sitting under it[a-]” ¬engemlaitix “they are living by me” digemlaitix “they are sitting by him, waiting for him” ¬aglaitix “they are sitting on it[a-], living on it” ¬xiglaitix “we are sitting on, living on it[i-]” anshidlÅidayaxtix “we will sit in it[i-] (a place, as hole, jail, etc.)” ensha¬ˆlaitix “we were sitting in it (sand, water)” dailaitix “they are sitting in it[a-]” da¬ˆlaitix “they are sitting in it” idailait “they sat on it[a- ]” da¬ˆlaitix “they lived in it[i-] (a place)” nimshidlÅidixix “you folks were in jail”
+Notes: Used only with plural sub- jects. The suffix -ix is used only the present tense, the ga- tense when it means “last year” (that is, when it is used with the -t- directional), and the ni- tense (only when it means “were doing...”). For singular subjects, use - ¬a-it.
