@@ -14937,6 +14937,24 @@
       "shitix"
     ]
   },
+  "-nimshginx": {
+    "root": "-nimshginx",
+    "partOfSpeech": "n",
+    "definition": "co-husband, co-wife [Dyk], rival [HS]",
+    "forms": [
+      {
+        "kiksht": "iyanimshgínx",
+        "english": "his fellow- husband [Dyk]; his rival [HS]"
+      },
+      {
+        "kiksht": "shxánimshginix",
+        "english": "they are co-spouses to each other [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a relationship of man to man or woman to woman who are both common spouses of the same mate. May also refer to a man who has stolen one's wife. Used only with 3rd person prefixes."
+    ]
+  },
   "-q'l-ŁX̲I": {
     "root": "-q'l-ŁX̲I",
     "partOfSpeech": "vb",
@@ -18770,6 +18788,70 @@
       "-NI, -X̲UNI"
     ]
   },
+  "-x-NIMA": {
+    "root": "-x-NIMA",
+    "partOfSpeech": "vb",
+    "definition": "show to, direct",
+    "forms": [
+      {
+        "kiksht": "ichiaxnima",
+        "english": "he showed him to her"
+      },
+      {
+        "kiksht": "ichixnima",
+        "english": "he showed him to him"
+      },
+      {
+        "kiksht": "nichiaxadnima",
+        "english": "he showed him to her [last week]"
+      },
+      {
+        "kiksht": "nichiaxadnimnił",
+        "english": "he was showing him to her [last week]"
+      },
+      {
+        "kiksht": "chixnimat",
+        "english": "he has him shown to him"
+      },
+      {
+        "kiksht": "chiuxwanimananix",
+        "english": "he is showing places to them, he is giving them directions [Dyk]"
+      },
+      {
+        "kiksht": "aluxwanimananma",
+        "english": "they will point it[a-] out to one another [WTII.11.2]"
+      }
+    ]
+  },
+  "-x-NINA-kw": {
+    "root": "-x-NINA-kw",
+    "partOfSpeech": "vb",
+    "definition": "tan, work (hide), soften",
+    "forms": [
+      {
+        "kiksht": "gixninankwł",
+        "english": "she is making it[i-] soft"
+      },
+      {
+        "kiksht": "ixninakwt",
+        "english": "it[i-] is soft, tanned"
+      },
+      {
+        "kiksht": "axngixáninankwł",
+        "english": "she is tanning [Dyk]"
+      },
+      {
+        "kiksht": "nixninankwł",
+        "english": "I'm working the hide [WC 8/2/54]"
+      }
+    ],
+    "notes": [
+      "Refers to tanning and soften- ing a hide by twisting and working it."
+    ],
+    "seeAlso": [
+      "gixáninagwamt, i- kanagwamat"
+    ]
+  },
   "-x-YA-mit": {
     "root": "-x-YA-mit",
     "partOfSpeech": "vb",
@@ -20697,6 +20779,43 @@
     ],
     "seeAlso": [
       "-xl-MUX̲, -ŁX̲LM"
+    ]
+  },
+  "-xi-NIM": {
+    "root": "-xi-NIM",
+    "partOfSpeech": "vb",
+    "definition": "weep, cry, mourn",
+    "forms": [
+      {
+        "kiksht": "aluxwinimchkwa",
+        "english": "they will weep [GT, MMc 12/30/97]"
+      },
+      {
+        "kiksht": "alixinimchkwa",
+        "english": "they[i-] will weep"
+      },
+      {
+        "kiksht": "uxwinim",
+        "english": "they are weeping"
+      },
+      {
+        "kiksht": "uxwidnim",
+        "english": "they were weeping"
+      },
+      {
+        "kiksht": "igaxínimchk",
+        "english": "they wept [Dyk]"
+      },
+      {
+        "kiksht": "iguxwinimchk",
+        "english": "they cried [GT, MMc 6/5/98]"
+      }
+    ],
+    "notes": [
+      "Used only with subjects plural in meaning. For singular subjects, use -qelq."
+    ],
+    "seeAlso": [
+      "i-qinim, i-NIM, -QELQ"
     ]
   },
   "-xi-gi-MA-kw": {
@@ -67048,6 +67167,180 @@
     "definition": "we (including you) have become",
     "seeAlso": [
       "-x-X̲"
+    ]
+  },
+  "nimdemqt": {
+    "root": "nimdemqt",
+    "partOfSpeech": "vb",
+    "definition": "you died",
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
+  "nimigitga": {
+    "root": "nimigitga",
+    "partOfSpeech": "vb",
+    "definition": "you got it[i-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "niminit": {
+    "root": "niminit",
+    "partOfSpeech": "vb",
+    "definition": "you gave it to me, you sent it to me",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "nimshkítk": {
+    "root": "nimshkítk",
+    "partOfSpeech": "vb",
+    "definition": "you folks buried him",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "nimtkłgitga": {
+    "root": "nimtkłgitga",
+    "partOfSpeech": "vb",
+    "definition": "you 2 found it",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "nimtkłqmit": {
+    "root": "nimtkłqmit",
+    "partOfSpeech": "vb",
+    "definition": "you 2 saw her[ił-]",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "nimxatxulal": {
+    "root": "nimxatxulal",
+    "partOfSpeech": "vb",
+    "definition": "you said",
+    "seeAlso": [
+      "niamtxulal"
+    ]
+  },
+  "nimxtkím": {
+    "root": "nimxtkím",
+    "partOfSpeech": "vb",
+    "definition": "you said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "nimxłuxwait": {
+    "root": "nimxłuxwait",
+    "partOfSpeech": "vb",
+    "definition": "you thought",
+    "seeAlso": [
+      "-x-ŁUXWA-it"
+    ]
+  },
+  "nimłgítaqłq": {
+    "root": "nimłgítaqłq",
+    "partOfSpeech": "vb",
+    "definition": "you left him[ił-] behind",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "ninchałmatł'ayu": {
+    "root": "ninchałmatł'ayu",
+    "partOfSpeech": "vb",
+    "definition": "we pulled them out to dance"
+  },
+  "nindałqitłq": {
+    "root": "nindałqitłq",
+    "partOfSpeech": "vb",
+    "definition": "we 2 left them",
+    "notes": [
+      "This is song language."
+    ],
+    "seeAlso": [
+      "-g̲l-TŁQ"
+    ]
+  },
+  "nindimam": {
+    "root": "nindimam",
+    "partOfSpeech": "vb",
+    "definition": "I arrived",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "ninigitga": {
+    "root": "ninigitga",
+    "partOfSpeech": "vb",
+    "definition": "I got it[i-] [WTIII.1.1, 4.1], I got him [WTIII.3.1], I found him [WTIII.2.1]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "ninilxigamam": {
+    "root": "ninilxigamam",
+    "partOfSpeech": "vb",
+    "definition": "I came to get it[i-] for him",
+    "examples": [
+      {
+        "kiksht": "Yakaxtau wilx ninilxigamam.",
+        "english": "I came to get land for him. [WTIII.3.1]"
+      }
+    ],
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "niniqitłg̲ix": {
+    "root": "niniqitłg̲ix",
+    "partOfSpeech": "vb",
+    "definition": "I started out from there",
+    "seeAlso": [
+      "-g̲l-QŁQ"
+    ]
+  },
+  "ninitxa": {
+    "root": "ninitxa",
+    "partOfSpeech": "vb",
+    "definition": "I did (to) him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "ninixmatk'ínuaba": {
+    "root": "ninixmatk'ínuaba",
+    "partOfSpeech": "vb",
+    "definition": "I changed it[i- ]",
+    "seeAlso": [
+      "-gm-K'INUA-pa"
+    ]
+  },
+  "ninshxux": {
+    "root": "ninshxux",
+    "partOfSpeech": "vb",
+    "definition": "we did",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "nintguxwatshamit": {
+    "root": "nintguxwatshamit",
+    "partOfSpeech": "vb",
+    "definition": "we 2 (not including you) dried them",
+    "seeAlso": [
+      "-x-SHA-mit"
+    ]
+  },
+  "ninłgítaqłq": {
+    "root": "ninłgítaqłq",
+    "partOfSpeech": "vb",
+    "definition": "I left him[ił-] behind",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
     ]
   },
   "niłgémtx": {

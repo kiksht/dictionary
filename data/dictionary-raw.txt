@@ -18969,3 +18969,90 @@ Forms: i¬anim “their weeping; they are weepers” [Dyk]
 Examples: Idanˆm ¬gnu©chqt. “Their weeping keeps me awake.” Shpak idanˆm. “They are loud weepers.” [Dyk]
 Notes: This word is used only with possessive prefixes.
 See also: -xi-NIM, i-qinim
+
+
+
+
+
+
+
+-xi-NIM [vb] weep, cry, mourn
+Forms: aluxwinimchkwa “they will weep” [GT, MMc 12/30/97] alixinimchkwa “they[i-] will weep” uxwinim “they are weeping” uxwidnim “they were weeping” igaxˆnimchk “they wept” [Dyk] iguxwinimchk “they cried” [GT, MMc 6/5/98]
+Notes: Used only with subjects plural in meaning. For singular subjects, use -qelq.
+See also: i-qinim, i-NIM, -QELQ
+
+-x-NIMA [vb] show to, direct
+Forms: ichiaxnima “he showed him to her” ichixnima “he showed him to him” nichiaxadnima “he showed him to her [last week]” nichiaxadnimni¬ “he was showing him to her [last week]” chixnimat “he has him shown to him” chiuxwanimananix “he is showing places to them, he is giving them directions” [Dyk] aluxwanimananma “they will point it[a-] out to one another” [WTII.11.2]
+
+nimdemqt [vb] you died
+See also: -MQT
+
+nimigitga [vb] you got it[i-]
+See also: -gl-GA
+
+niminit [vb] you gave it to me, you sent it to me
+See also: -T
+
+nim¬gˆtaq¬q [vb] you left him[i¬-] behind
+See also: -©l-TA-q¬q
+
+-nimshginx [n] co-husband, co-wife [Dyk], rival [HS]
+Forms: iyanimshgˆnx “his fellow- husband [Dyk]; his rival [HS]” shxÅnimshginix “they are co-spouses to each other” [Dyk]
+Notes: Refers to a relationship of man to man or woman to woman who are both common spouses of the same mate. May also refer to a man who has stolen one’s wife. Used only with 3rd person prefixes.
+
+nimshkˆtk [vb] you folks buried him
+See also: -TK
+
+nimtk¬gitga [vb] you 2 found it
+See also: -gl-GA
+
+nimtk¬qmit [vb] you 2 saw her[i¬-]
+See also: -QMIT
+
+nimxtkˆm [vb] you said
+See also: -KIM
+
+nimxatxulal [vb] you said
+See also: niamtxulal
+
+nimx¬uxwait [vb] you thought
+See also: -x-ÒUXWA-it
+
+-x-NINA-kw [vb] tan, work (hide), soften
+Forms: gixninankw¬ “she is making it[i-] soft” ixninakwt “it[i-] is soft, tanned” axngixÅninankw¬ “she is tanning” [Dyk] nixninankw¬ “I’m working the hide” [WC 8/2/54]
+Notes: Refers to tanning and soften- ing a hide by twisting and working it.
+See also: gixÅninagwamt, i- kanagwamat
+
+nincha¬mat¬’ayu [vb] we pulled them out to dance
+
+ninda¬qit¬q [vb] we 2 left them
+Notes: This is song language.
+See also: -©l-TÒQ
+
+nindimam [vb] I arrived
+See also: -I, -d-I-mam
+
+ninigitga [vb] I got it[i-] [WTIII.1.1, 4.1], I got him [WTIII.3.1], I found him [WTIII.2.1]
+See also: -gl-GA
+
+ninilxigamam [vb] I came to get it[i-] for him
+Examples: Yakaxtau wilx ninilxigamam. “I came to get land for him.” [WTIII.3.1]
+See also: -gl-GA
+
+niniqit¬©ix [vb] I started out from there
+See also: -©l-QÒQ
+
+ninitxa [vb] I did (to) him
+See also: - ̨
+
+ninixmatk’ˆnuaba [vb] I changed it[i- ]
+See also: -gm-K’INUA-pa
+
+nin¬gˆtaq¬q [vb] I left him[i¬-] behind
+See also: -©l-TA-q¬q
+
+ninshxux [vb] we did
+See also: -x- ̨
+
+nintguxwatshamit [vb] we 2 (not including you) dried them
+See also: -x-SHA-mit
