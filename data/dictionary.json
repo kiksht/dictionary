@@ -6897,6 +6897,138 @@
       "Never used without a rela- tional prefix. May be used only with plural object. No singular or dual object may be used. [Dyk] Appar- ently, the object pronouns in the forms given are plural in meaning. Note, however, the form given from DykGr, which does not appear to follow the rule given by Dyk in his lexical file."
     ]
   },
+  "-NXA-chu": {
+    "root": "-NXA-chu",
+    "partOfSpeech": "vb",
+    "definition": "set up up and down, line with",
+    "forms": [
+      {
+        "kiksht": "chianxanchł",
+        "english": "he is lining it[a- ] with it[i-]"
+      },
+      {
+        "kiksht": "nichianxachu, nichainxatchu",
+        "english": "he lined it[a-] with it[i-]"
+      },
+      {
+        "kiksht": "nichanginxachu",
+        "english": "he lined it[a- ] (last season)"
+      },
+      {
+        "kiksht": "nichanginxachx",
+        "english": "he had it[a-] lined"
+      },
+      {
+        "kiksht": "nichaidginxachu",
+        "english": "he lined it[a-] (last week)"
+      },
+      {
+        "kiksht": "awiginxachx",
+        "english": "it is lined (as with tules, boards, etc., up and down)"
+      },
+      {
+        "kiksht": "inginxáchx",
+        "english": "it[i-] is lined"
+      },
+      {
+        "kiksht": "igawiginxachxit",
+        "english": "they became lined"
+      },
+      {
+        "kiksht": "nigaitginxáchx",
+        "english": "it[a-] was lined (last week)"
+      },
+      {
+        "kiksht": "niyanxachx",
+        "english": "it[a-] was lined with it[i-] (last season) [Dyk]"
+      }
+    ],
+    "notes": [
+      "Means to line something with things placed up and down (for ex- ample, boards), as opposed to -nxa- kw, which means to line with things placed around."
+    ]
+  },
+  "-NXA-kw": {
+    "root": "-NXA-kw",
+    "partOfSpeech": "vb",
+    "definition": "set up around, line with",
+    "forms": [
+      {
+        "kiksht": "chianxankwł, chiainxankwł",
+        "english": "he is lining it[a-] with it[i-]"
+      },
+      {
+        "kiksht": "ichainxagwaix",
+        "english": "he set it[a-] around in it[a-], he lined it[i-] with it[a-]"
+      },
+      {
+        "kiksht": "chainxakwdix",
+        "english": "he has it[i-] lined with it[a-]"
+      },
+      {
+        "kiksht": "nichaidenxaukwt",
+        "english": "he had it[i-] lined with it[a-]"
+      },
+      {
+        "kiksht": "nigaidenxaukwt",
+        "english": "she had it[i-] lined with it[a-], she had it[a-] lined with it[a-]"
+      },
+      {
+        "kiksht": "nichangínxaugwa",
+        "english": "he lined it[a-]"
+      },
+      {
+        "kiksht": "nichanginxaukwt",
+        "english": "he had it[a-] lined"
+      },
+      {
+        "kiksht": "ainxakwt",
+        "english": "it[i-] is lined with it[a-]"
+      },
+      {
+        "kiksht": "shtinxakwt",
+        "english": "it[i-] is lined with them 2"
+      },
+      {
+        "kiksht": "inginxaukwt",
+        "english": "it[i-] is lined (as with a blanket, hide, etc.)"
+      },
+      {
+        "kiksht": "aidenxáukwt",
+        "english": "it[i-] was lined with it[a-]"
+      },
+      {
+        "kiksht": "yaidenxaukwt",
+        "english": "it[a-] was lined with it[i-]"
+      },
+      {
+        "kiksht": "niyanxaukwt",
+        "english": "it[a-] was lined with it[i-]"
+      },
+      {
+        "kiksht": "nigaitginxaukwt",
+        "english": "it[a-] was lined"
+      },
+      {
+        "kiksht": "nigaidenxáukwt",
+        "english": "it[i-] was lined with it[a-]"
+      },
+      {
+        "kiksht": "ainxakux",
+        "english": "it[i-] has been lined with it[a-]"
+      },
+      {
+        "kiksht": "igawiginxakwit, igawiginxachxit",
+        "english": "they became lined"
+      },
+      {
+        "kiksht": "ixenginxankwł",
+        "english": "he is lining himself; he is lining something with something [Dyk]"
+      }
+    ],
+    "notes": [
+      "Means to line something by putting something around, as op- posed to -nxa-chu, which means to line by putting things up and down (as boards)."
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -15335,6 +15467,98 @@
       "is-kamintłk"
     ]
   },
+  "-s-k'-NXA": {
+    "root": "-s-k'-NXA",
+    "partOfSpeech": "vb",
+    "definition": "weave",
+    "forms": [
+      {
+        "kiksht": "ansak'anxaya",
+        "english": "I will weave it[a-]"
+      },
+      {
+        "kiksht": "aksik'enxaya",
+        "english": "she will weave it[i-]"
+      },
+      {
+        "kiksht": "ksik'enxanan",
+        "english": "she is weaving it[i-]"
+      },
+      {
+        "kiksht": "cik'enxanan",
+        "english": "he is weaving it[i-] [Dyk]"
+      },
+      {
+        "kiksht": "snk'nxanan",
+        "english": "I'm weav- ing [GT 6/9/99]"
+      },
+      {
+        "kiksht": "ensak'adenxanan",
+        "english": "I was weaving it[a-]"
+      },
+      {
+        "kiksht": "ksik'adenxanan",
+        "english": "she was weaving it[i- ]"
+      },
+      {
+        "kiksht": "niksik'adenxanan",
+        "english": "she was weav- ing it[i-] (last week)"
+      },
+      {
+        "kiksht": "ninsak'ádenxa",
+        "english": "I wove it[a-] (last week)"
+      },
+      {
+        "kiksht": "ninsak'enxa",
+        "english": "I wove it[a-] (last sea- son)"
+      },
+      {
+        "kiksht": "asaxenxaya",
+        "english": "she will weave"
+      },
+      {
+        "kiksht": "snxnxanan",
+        "english": "I am weaving"
+      },
+      {
+        "kiksht": "nisaxenxa",
+        "english": "she wove (last season)"
+      },
+      {
+        "kiksht": "nisaxenxanan",
+        "english": "she was weaving (last season)"
+      },
+      {
+        "kiksht": "nisaxadenxanan",
+        "english": "she was weaving (last week)"
+      },
+      {
+        "kiksht": "gasáxenxa",
+        "english": "she wove"
+      },
+      {
+        "kiksht": "sik'enxat",
+        "english": "it[i-] is woven; square flat pouch [Dyk]"
+      },
+      {
+        "kiksht": "saxenxanan",
+        "english": "she is weaving [PK 8/26/55]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Dan yaxnxanan?",
+        "english": "What is she weaving with? [Dyk]"
+      },
+      {
+        "kiksht": "Ksk'enxanan akw'áłq.",
+        "english": "She's weaving a root-bag. [GT 6/9/99]"
+      }
+    ],
+    "seeAlso": [
+      "is-kanxanan"
+    ]
+  },
   "-s-k'i-LA-pa": {
     "root": "-s-k'i-LA-pa",
     "partOfSpeech": "vb",
@@ -20862,6 +21086,75 @@
     ],
     "seeAlso": [
       "i-qinim, i-NIM, -QELQ"
+    ]
+  },
+  "-xi-NXA": {
+    "root": "-xi-NXA",
+    "partOfSpeech": "vb",
+    "definition": "stick in, set up, stand up",
+    "forms": [
+      {
+        "kiksht": "chixinxanan",
+        "english": "he is setting them[i-] up"
+      },
+      {
+        "kiksht": "chixidnxanan",
+        "english": "he was setting them[i-] up"
+      },
+      {
+        "kiksht": "ichaxinxa",
+        "english": "he stood it[a-] up"
+      },
+      {
+        "kiksht": "nichaxidnxa",
+        "english": "he set it[a-] up (as posts, etc.) (last week)"
+      },
+      {
+        "kiksht": "migaxinxaxit",
+        "english": "they were set up"
+      },
+      {
+        "kiksht": "niłxdnxaxit",
+        "english": "they stood up"
+      },
+      {
+        "kiksht": "ninshxidnxaxnit",
+        "english": "we were standing up; we stood up several times"
+      },
+      {
+        "kiksht": "axinxat",
+        "english": "it[a-] (grass) is standing"
+      },
+      {
+        "kiksht": "nshxinxat",
+        "english": "we are standing"
+      },
+      {
+        "kiksht": "uxwinxat",
+        "english": "they are standing"
+      },
+      {
+        "kiksht": "niłxidnxat",
+        "english": "they were standing (last week)"
+      },
+      {
+        "kiksht": "nshxinxaxnit",
+        "english": "we are stand- ing up"
+      },
+      {
+        "kiksht": "axinxaxlit",
+        "english": "they are being set up (for instance, bowling pins)"
+      },
+      {
+        "kiksht": "uxwinxaxnit",
+        "english": "they are standing up (every time) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt iłk'ílxamat gachłxínxa ak'álamatpa; aisdáx gachłágmunxa.",
+        "english": "Now then he stuck the spits in about the rock; in a circle he stuck them near it. [WTI.3.7]"
+      }
     ]
   },
   "-xi-gi-MA-kw": {

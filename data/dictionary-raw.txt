@@ -19377,3 +19377,29 @@ Notes: Gotten from soda springs and mixed with deer grease to make red paint. [D
 -NXA [vb] set up, stand up
 Forms: chiagemnxanan “he is setting them[i-] up beside her” chiainxanan “he is setting them up in her” nichanginxa “he stood (something) up on it[a-], he set (something) up on it[a-]” gachaxenxananamchk “he set them[a-] up on themselves, on one another” gayugwanxaxit “they[i-] were set up on them” ainxadix “they[a-] are standing on it[a-]” [Dyk] aixenxat “he has been sitting on himself” [DykGr 43]
 Notes: Never used without a rela- tional prefix. May be used only with plural object. No singular or dual object may be used. [Dyk] Appar- ently, the object pronouns in the forms given are plural in meaning. Note, however, the form given from DykGr, which does not appear to follow the rule given by Dyk in his lexical file.
+
+
+
+
+
+
+
+
+
+
+-s-k’-NXA [vb] weave
+Forms: ansak’anxaya “I will weave it[a-]” aksik’enxaya “she will weave it[i-]” ksik’enxanan “she is weaving it[i-]” cik’enxanan “he is weaving it[i-]” [Dyk] snk’nxanan “I’m weav- ing” [GT 6/9/99] ensak’adenxanan “I was weaving it[a-]” ksik’adenxanan “she was weaving it[i- ]” niksik’adenxanan “she was weav- ing it[i-] (last week)” ninsak’Ådenxa “I wove it[a-] (last week)” ninsak’enxa “I wove it[a-] (last sea- son)” asaxenxaya “she will weave” snxnxanan “I am weaving” nisaxenxa “she wove (last season)” nisaxenxanan “she was weaving (last season)” nisaxadenxanan “she was weaving (last week)” gasÅxenxa “she wove” sik’enxat “it[i-] is woven; square flat pouch” [Dyk] saxenxanan “she is weaving” [PK 8/26/55]
+Examples: Dan yaxnxanan? “What is she weaving with?” [Dyk] Ksk’enxanan akw’Å¬q. “She’s weaving a root-bag.” [GT 6/9/99]
+See also: is-kanxanan
+
+-xi-NXA [vb] stick in, set up, stand up
+Forms: chixinxanan “he is setting them[i-] up” chixidnxanan “he was setting them[i-] up” ichaxinxa “he stood it[a-] up” nichaxidnxa “he set it[a-] up (as posts, etc.) (last week)” migaxinxaxit “they were set up” ni¬xdnxaxit “they stood up” ninshxidnxaxnit “we were standing up; we stood up several times” axinxat “it[a-] (grass) is standing” nshxinxat “we are standing” uxwinxat “they are standing” ni¬xidnxat “they were standing (last week)” nshxinxaxnit “we are stand- ing up” axinxaxlit “they are being set up (for instance, bowling pins)” uxwinxaxnit “they are standing up (every time)” [Dyk]
+Examples: A©a kwapt i¬k’ˆlxamat gach¬xˆnxa ak’Ålamatpa; aisdÅx gach¬Ågmunxa. “Now then he stuck the spits in about the rock; in a circle he stuck them near it.” [WTI.3.7]
+
+-NXA-chu [vb] set up up and down, line with
+Forms: chianxanch¬ “he is lining it[a- ] with it[i-]” nichianxachu, nichainxatchu “he lined it[a-] with it[i-]” nichanginxachu “he lined it[a- ] (last season)” nichanginxachx “he had it[a-] lined” nichaidginxachu “he lined it[a-] (last week)” awiginxachx “it is lined (as with tules, boards, etc., up and down)” inginxÅchx “it[i-] is lined” igawiginxachxit “they became lined” nigaitginxÅchx “it[a-] was lined (last week)” niyanxachx “it[a-] was lined with it[i-] (last season)” [Dyk]
+Notes: Means to line something with things placed up and down (for ex- ample, boards), as opposed to -nxa- kw, which means to line with things placed around.
+
+-NXA-kw [vb] set up around, line with
+Forms: chianxankw¬, chiainxankw¬ “he is lining it[a-] with it[i-]” ichainxagwaix “he set it[a-] around in it[a-], he lined it[i-] with it[a-]” chainxakwdix “he has it[i-] lined with it[a-]” nichaidenxaukwt “he had it[i-] lined with it[a-]” nigaidenxaukwt “she had it[i-] lined with it[a-], she had it[a-] lined with it[a-]” nichangˆnxaugwa “he lined it[a-]” nichanginxaukwt “he had it[a-] lined” ainxakwt “it[i-] is lined with it[a-]” shtinxakwt “it[i-] is lined with them 2” inginxaukwt “it[i-] is lined (as with a blanket, hide, etc.)” aidenxÅukwt “it[i-] was lined with it[a-]” yaidenxaukwt “it[a-] was lined with it[i-]” niyanxaukwt “it[a-] was lined with it[i-]” nigaitginxaukwt “it[a-] was lined” nigaidenxÅukwt “it[i-] was lined with it[a-]” ainxakux “it[i-] has been lined with it[a-]” igawiginxakwit, igawiginxachxit “they became lined” ixenginxankw¬ “he is lining himself; he is lining something with something” [Dyk]
+Notes: Means to line something by putting something around, as op- posed to -nxa-chu, which means to line by putting things up and down (as boards).
