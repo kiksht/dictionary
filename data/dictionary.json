@@ -5371,6 +5371,107 @@
       "-LK fall, drop [This root often occurs in the form -lek]"
     ]
   },
+  "-LK-chwa-ma": {
+    "root": "-LK-chwa-ma",
+    "partOfSpeech": "vb",
+    "definition": "drop, make to fall",
+    "forms": [
+      {
+        "kiksht": "achnulkwchwamaya",
+        "english": "he will drop me, make me fall"
+      },
+      {
+        "kiksht": "achulkwchwamaya",
+        "english": "he will drop her"
+      },
+      {
+        "kiksht": "agmulkwchwamaya",
+        "english": "she will drop you"
+      },
+      {
+        "kiksht": "achntlkwchwamaya",
+        "english": "he will drop me (distant future)"
+      },
+      {
+        "kiksht": "achatlkwchwamaya",
+        "english": "he will drop her (distant future)"
+      },
+      {
+        "kiksht": "agmtlkwchwamaya",
+        "english": "she will drop you (distant future)"
+      },
+      {
+        "kiksht": "yamulkwchwamat",
+        "english": "I am dropping you"
+      },
+      {
+        "kiksht": "chiulkwchwamat",
+        "english": "he is drop- ping him, has him dropped, has him made to fall"
+      },
+      {
+        "kiksht": "chiulkwchwamnił",
+        "english": "he is dropping him (continually)"
+      },
+      {
+        "kiksht": "igiúlkchwama",
+        "english": "she dropped him"
+      },
+      {
+        "kiksht": "igitlkwchwama",
+        "english": "she dropped him (from up there) [Dyk]"
+      }
+    ]
+  },
+  "-LKCH": {
+    "root": "-LKCH",
+    "partOfSpeech": "vb",
+    "definition": "roast on a stick, broil over fire on a stick",
+    "forms": [
+      {
+        "kiksht": "chulkch",
+        "english": "he is roasting it[a-]"
+      },
+      {
+        "kiksht": "chiulkch",
+        "english": "he is roasting it[i-]"
+      },
+      {
+        "kiksht": "chiulkchal",
+        "english": "he is roasting it[i-] (a piece at a time)"
+      },
+      {
+        "kiksht": "ichiúlkch",
+        "english": "he roasted it[i-]"
+      },
+      {
+        "kiksht": "chiaílkch",
+        "english": "he is roast- ing it[i-] for her"
+      },
+      {
+        "kiksht": "axilkchal",
+        "english": "she is roasting (for herself"
+      },
+      {
+        "kiksht": "axidelkchal",
+        "english": "she was roasting (for herself)"
+      },
+      {
+        "kiksht": "galixílkch",
+        "english": "he roasted"
+      },
+      {
+        "kiksht": "yulkchix",
+        "english": "it[i- ] is roasted, has been roasted"
+      },
+      {
+        "kiksht": "yulkchixlit",
+        "english": "it[i-] is being roasted (repeatedly) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-lkchal, i-k'alkchix"
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -6575,6 +6676,20 @@
     ],
     "seeAlso": [
       "it-kílalit, i-xilalidix"
+    ]
+  },
+  "-gi-LK-chu": {
+    "root": "-gi-LK-chu",
+    "partOfSpeech": "vb",
+    "definition": "fall, fall down",
+    "forms": [
+      {
+        "kiksht": "gayugwiklchu",
+        "english": "it[i-] fell down [WTI.4.21]"
+      }
+    ],
+    "seeAlso": [
+      "-CHU"
     ]
   },
   "-gian": {
@@ -12525,6 +12640,24 @@
       }
     ]
   },
+  "-t-xm-u-LKW'I": {
+    "root": "-t-xm-u-LKW'I",
+    "partOfSpeech": "vb",
+    "definition": "play with dolls",
+    "forms": [
+      {
+        "kiksht": "idaxmulkw'i",
+        "english": "she played with dolls; she has spread them out and is going to play with them"
+      },
+      {
+        "kiksht": "daxmulkw'ilal",
+        "english": "she is playing with dolls [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-kmalkw'i"
+    ]
+  },
   "-x- G̲WA-kw": {
     "root": "-x- G̲WA-kw",
     "partOfSpeech": "vb",
@@ -14720,6 +14853,21 @@
     ],
     "notes": [
       "This verb can apparently be constructed two ways: with an active subject pronoun and a neutral pro- noun as direct object (construction 1), or with neutral pronouns express- ing both subject and object (con- struction 2); in the latter case, the first pronoun expresses the agent (the one doing the opening), and the second one, which expresses the object opened, is, gramatically, the object of the relational -x. Construc- tion 1 is apparently more common."
+    ]
+  },
+  "-x-LK-chu": {
+    "root": "-x-LK-chu",
+    "partOfSpeech": "vb",
+    "definition": "let fall, drop [transi- tive]",
+    "forms": [
+      {
+        "kiksht": "gashxelkchu",
+        "english": "they 2 dropped it[ish-] [WTI.3.4]"
+      },
+      {
+        "kiksht": "alamxelkchwaya",
+        "english": "you will let her fall [WTI.5.2]"
+      }
     ]
   },
   "-x-NI": {
@@ -19093,6 +19241,19 @@
     "definition": "bag, sack",
     "notes": [
       "Borrowed from French les sacs \"bags,\" probably through Chi- nook Jargon."
+    ]
+  },
+  "a-lkw'adit": {
+    "root": "a-lkw'adit",
+    "partOfSpeech": "n",
+    "definition": "tule"
+  },
+  "a-lqutłat": {
+    "root": "a-lqutłat",
+    "partOfSpeech": "n",
+    "definition": "dipnet pole",
+    "seeAlso": [
+      "wa-wúlk"
     ]
   },
   "a-lágamin": {
@@ -49810,6 +49971,84 @@
       }
     ]
   },
+  "i-lkau": {
+    "root": "i-lkau",
+    "partOfSpeech": "n",
+    "definition": "cradleboard, baby board",
+    "forms": [
+      {
+        "kiksht": "idelkau",
+        "english": "cradleboards [HS 6/23/56, who wasn't sure this was correct]"
+      }
+    ],
+    "seeAlso": [
+      "ił-lkau, -s-l-TK"
+    ]
+  },
+  "i-lkch'ast": {
+    "root": "i-lkch'ast",
+    "partOfSpeech": "n",
+    "definition": "glabella (area between the eyebrows above the nose)",
+    "seeAlso": [
+      "i-lkch'ám"
+    ]
+  },
+  "i-lkch'ám": {
+    "root": "i-lkch'ám",
+    "partOfSpeech": "n",
+    "definition": "eyebrow",
+    "forms": [
+      {
+        "kiksht": "idelkch'ámimax",
+        "english": "eyebrows [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-lkch'asht"
+    ]
+  },
+  "i-lkchal": {
+    "root": "i-lkchal",
+    "partOfSpeech": "n",
+    "definition": "roasting on a stick",
+    "forms": [
+      {
+        "kiksht": "ichalkchal",
+        "english": "her roasting"
+      },
+      {
+        "kiksht": "ilkchalmax",
+        "english": "roastings [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-LKCH"
+    ]
+  },
+  "i-lqw'adit": {
+    "root": "i-lqw'adit",
+    "partOfSpeech": "n",
+    "definition": "rushes, tuli reeds"
+  },
+  "i-lqwadit": {
+    "root": "i-lqwadit",
+    "partOfSpeech": "n",
+    "definition": "tuli mat",
+    "forms": [
+      {
+        "kiksht": "idelqwadit",
+        "english": "tuli reeds, tuli mats"
+      }
+    ],
+    "seeAlso": [
+      "ił-st'inxaq, i-qst'inxaq"
+    ]
+  },
+  "i-lucici": {
+    "root": "i-lucici",
+    "partOfSpeech": "n",
+    "definition": "earthworm [Dyk], angle- worm [PK 8/8/55]"
+  },
   "i-láitk": {
     "root": "i-láitk",
     "partOfSpeech": "n",
@@ -55578,6 +55817,14 @@
       "i-lipaq"
     ]
   },
+  "ił-lkau": {
+    "root": "ił-lkau",
+    "partOfSpeech": "n",
+    "definition": "wide boards used for roofing, old time cedar boards",
+    "seeAlso": [
+      "i-lkau, ił-qiginxachwamat"
+    ]
+  },
   "ił-lá": {
     "root": "ił-lá",
     "partOfSpeech": "n",
@@ -58312,6 +58559,39 @@
     "root": "wa-lishnan",
     "partOfSpeech": "n",
     "definition": "April"
+  },
+  "wa-lu": {
+    "root": "wa-lu",
+    "partOfSpeech": "n",
+    "definition": "hunger",
+    "forms": [
+      {
+        "kiksht": "agalu",
+        "english": "her hunger; she is one who always gets hungry"
+      },
+      {
+        "kiksht": "anshalu",
+        "english": "our hunger"
+      },
+      {
+        "kiksht": "idenshálumax",
+        "english": "our repeated hunger; the hunger of each one of us"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Walu gnuxt.",
+        "english": "I'm hungry."
+      },
+      {
+        "kiksht": "Dáminwa walu gnuxt.",
+        "english": "I'm always, forever hungry."
+      },
+      {
+        "kiksht": "Walu gaguxa ag̲ulul engi.",
+        "english": "She was hungry for acorns. See also: kush"
+      }
+    ]
   },
   "wi-'ísh": {
     "root": "wi-'ísh",
