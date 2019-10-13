@@ -4397,6 +4397,63 @@
       "This verb is not used in the future, na-, or i- tenses."
     ]
   },
+  "-KWŁI": {
+    "root": "-KWŁI",
+    "partOfSpeech": "vb",
+    "definition": "stretch",
+    "forms": [
+      {
+        "kiksht": "chiukwułnił",
+        "english": "he is stretching it[i-] (for instance, a wire from one pole to another)"
+      },
+      {
+        "kiksht": "chiukwłit",
+        "english": "he has it[i-] stretched"
+      },
+      {
+        "kiksht": "ichiukwłi",
+        "english": "he stretched it[i-] (for instance, a wire in the air between two poles)"
+      },
+      {
+        "kiksht": "ichiukwłima, ichiukwłimit",
+        "english": "he stretched it[i-]"
+      },
+      {
+        "kiksht": "yukwłít",
+        "english": "it[i-] (for instance, telephone wire) is stretched"
+      },
+      {
+        "kiksht": "ik'íkwłit",
+        "english": "he is stretching (something)"
+      },
+      {
+        "kiksht": "ixkwłit",
+        "english": "he has himself stretched"
+      },
+      {
+        "kiksht": "with -x-",
+        "english": "from, across"
+      },
+      {
+        "kiksht": ": chiaxkwłit",
+        "english": "he has it[i-] stretched from it[a-] (for instance, tied to one end and stretched from there)"
+      },
+      {
+        "kiksht": "iaxkwłit",
+        "english": "it[i-] is stretched from it[a-]"
+      },
+      {
+        "kiksht": "aixkwłidix",
+        "english": "it[a-] is stretched, extended across it[i-] (a place) (for instance, a log put across a stream) [Dyk]"
+      }
+    ],
+    "notes": [
+      "This root is used with the relational prefix -x- to mean \"stretch from\" or \"stretch across,\" as in the last three forms given."
+    ],
+    "seeAlso": [
+      "i-kwłilal, -KŁI"
+    ]
+  },
   "-KŁ": {
     "root": "-KŁ",
     "partOfSpeech": "vb",
@@ -6395,6 +6452,60 @@
       }
     ]
   },
+  "-gm-KWŁI": {
+    "root": "-gm-KWŁI",
+    "partOfSpeech": "vb",
+    "definition": "measure, size",
+    "forms": [
+      {
+        "kiksht": "chigemk'ikwułnił",
+        "english": "he is mea- suring it[i-]"
+      },
+      {
+        "kiksht": "ichigemk'ikwłíx",
+        "english": "he measured, surveyed it[i-] (place, distance, space)"
+      },
+      {
+        "kiksht": "nichagmatk'ikwłi",
+        "english": "he measured it[a-]"
+      },
+      {
+        "kiksht": "agemk'ikwłit",
+        "english": "it[a-] is measured [Dyk]"
+      }
+    ],
+    "notes": [
+      "Can be understood literally to mean \"stretch beside.\" So chigmk'kwłnił \"he is measuring it[i-]\" can be understood literally \"he (-ch-) is stretching (-kwłnił) something (- k'i-) beside (-gm-) it[i-] (-i-).\" -k'm- kwłi appears to mean the same as - gm-kwłi."
+    ]
+  },
+  "-gm-k'i-KWŁI": {
+    "root": "-gm-k'i-KWŁI",
+    "partOfSpeech": "vb",
+    "definition": "measure, survey, allot",
+    "forms": [
+      {
+        "kiksht": "alixemk'íkwłiya",
+        "english": "he will mea- sure"
+      },
+      {
+        "kiksht": "ixemk'ikwłnił",
+        "english": "he's measuring, surveying"
+      },
+      {
+        "kiksht": "nachigemk'íkwłiya, nachixemk'íkwłiya",
+        "english": "he measured [GT, MMc 1/15/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Nachigmk'íkwłiya wilx.",
+        "english": "He surveyed the land. [GT, MMc 1/ 15/99]"
+      }
+    ],
+    "seeAlso": [
+      "i-kmak'ikwłnił"
+    ]
+  },
   "-gm-xa-GA-pa": {
     "root": "-gm-xa-GA-pa",
     "partOfSpeech": "vb",
@@ -7660,6 +7771,29 @@
     ],
     "seeAlso": [
       "wax, ił-k'iwax, i-k'iwaxmat"
+    ]
+  },
+  "-k'm-KWŁI": {
+    "root": "-k'm-KWŁI",
+    "partOfSpeech": "vb",
+    "definition": "become slivered in, be slivered in",
+    "forms": [
+      {
+        "kiksht": "ink'emkwłit",
+        "english": "I have a sliver from it[i-] (literally, 'it is slivered in me')"
+      },
+      {
+        "kiksht": "ink'matkwłit",
+        "english": "I got a sliver from it[i-] (literally, 'it was slivered in me')"
+      },
+      {
+        "kiksht": "yak'emkwłixlit",
+        "english": "she is getting full of slivers from it[i-] (literally, 'it is becoming slivered in her')"
+      },
+      {
+        "kiksht": "igink'emkwłixit",
+        "english": "I got full of slivers from it[i-] (literally, 'it became sliv- ered in me') [Dyk]"
+      }
     ]
   },
   "-k'un": {

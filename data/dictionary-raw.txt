@@ -15255,3 +15255,33 @@ Notes: Borrowed from English.
 -KWÒ [vb] take along
 Forms: nichi ̈kw¬ “he took him along (as every day, last season)” nichitkw¬ “he took him along (last week)” gachiukw¬ “he takes him along (every day)” [Dyk] nachiukw¬a “he took him” [GT 1/12/99]
 Notes: This verb is not used in the future, na-, or i- tenses.
+
+
+
+
+
+
+
+
+
+
+-KWÒI [vb] stretch
+Forms: chiukwu¬ni¬ “he is stretching it[i-] (for instance, a wire from one pole to another)” chiukw¬it “he has it[i-] stretched” ichiukw¬i “he stretched it[i-] (for instance, a wire in the air between two poles)” ichiukw¬ima, ichiukw¬imit “he stretched it[i-]” yukw¬ˆt “it[i-] (for instance, telephone wire) is stretched” ik’ˆkw¬it “he is stretching (something)” ixkw¬it “he has himself stretched” with -x- “from, across”: chiaxkw¬it “he has it[i-] stretched from it[a-] (for instance, tied to one end and stretched from there)” iaxkw¬it “it[i-] is stretched from it[a-]” aixkw¬idix “it[a-] is stretched, extended across it[i-] (a place) (for instance, a log put across a stream)” [Dyk]
+Notes: This root is used with the relational prefix -x- to mean “stretch from” or “stretch across,” as in the last three forms given.
+See also: i-kw¬ilal, -KÒI
+
+-gm-KWÒI [vb] measure, size
+Forms: chigemk’ikwu¬ni¬ “he is mea- suring it[i-]” ichigemk’ikw¬ˆx “he measured, surveyed it[i-] (place, distance, space)” nichagmatk’ikw¬i “he measured it[a-]” agemk’ikw¬it “it[a-] is measured” [Dyk]
+Notes: Can be understood literally to mean “stretch beside.” So chigmk’kw¬ni¬ “he is measuring it[i-]” can be understood literally “he (-ch-) is stretching (-kw¬ni¬) something (- k’i-) beside (-gm-) it[i-] (-i-).” -k’m- kw¬i appears to mean the same as - gm-kw¬i.
+
+-gm-k’i-KWÒI [vb] measure, survey, allot
+Forms: alixemk’ˆkw¬iya “he will mea- sure” ixemk’ikw¬ni¬ “he’s measuring, surveying” nachigemk’ˆkw¬iya, nachixemk’ˆkw¬iya “he measured” [GT, MMc 1/15/99]
+Examples: Nachigmk’ˆkw¬iya wilx. “He surveyed the land.” [GT, MMc 1/ 15/99]
+See also: i-kmak’ikw¬ni¬
+
+-k’m-KWÒI [vb] measure by, size by
+Forms: chaik’emkwu¬ni¬ “he is mea- suring, sizing it[a-] by it[i-]” chak’emkwu¬ni¬ “he is measuring it[a- ] by it[a-]” chak’emk’ikwu¬ni¬ “he is measuring it[a-]” ichaik’emkw¬i “he measured it[a-] by it[i-]” agemk’ikw¬it “it[a-] is measured” [Dyk]
+Notes: Literally, “stretch under.” So, chaik’mkw¬ni¬ “he is measuring it[a-] by it[i-]” can be understood literally as “he (ch-) is stretching (-kw¬ni¬) it[a-] (-a-) under (-k’m-) it[i-] (-i-).” - k’mkw¬i appears to mean the same as -gmkw¬i. -k’mkw¬i can also mean “get slivers;” see the other entry for -k’m- kw¬i.
+
+-k’m-KWÒI [vb] become slivered in, be slivered in
+Forms: ink’emkw¬it “I have a sliver from it[i-] (literally, ‘it is slivered in me’)” ink’matkw¬it “I got a sliver from it[i-] (literally, ‘it was slivered in me’)” yak’emkw¬ixlit “she is getting full of slivers from it[i-] (literally, ‘it is becoming slivered in her’)” igink’emkw¬ixit “I got full of slivers from it[i-] (literally, ‘it became sliv- ered in me’)” [Dyk]
