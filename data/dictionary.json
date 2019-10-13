@@ -6788,6 +6788,36 @@
       "-i, -i-am, -i-am-am"
     ]
   },
+  "-d-l-ŁX̲IU-chkw": {
+    "root": "-d-l-ŁX̲IU-chkw",
+    "partOfSpeech": "vb",
+    "definition": "strain at",
+    "forms": [
+      {
+        "kiksht": "dilłxiuchkwt",
+        "english": "he is straining (as at a rope)"
+      },
+      {
+        "kiksht": "dilłxiulchk",
+        "english": "he is straining, doing the straining"
+      },
+      {
+        "kiksht": "[Dyk; GT, MMc 6/3/98 found these 2 meant",
+        "english": "about the same]"
+      },
+      {
+        "kiksht": "idilłxiuchk",
+        "english": "he strained"
+      },
+      {
+        "kiksht": "idalłxiuchk",
+        "english": "she strained [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-łxiwulx"
+    ]
+  },
   "-daptiksh": {
     "root": "-daptiksh",
     "partOfSpeech": "pron",
@@ -9428,6 +9458,17 @@
       }
     ]
   },
+  "-k'a-ŁX̲I-wulx": {
+    "root": "-k'a-ŁX̲I-wulx",
+    "partOfSpeech": "vb",
+    "definition": "climb up on, crawl up on",
+    "forms": [
+      {
+        "kiksht": "iyak'atłxiwulx",
+        "english": "he climbed up on it[a-] [Dyk]"
+      }
+    ]
+  },
   "-k'ak'aps": {
     "root": "-k'ak'aps",
     "partOfSpeech": "n",
@@ -9670,6 +9711,33 @@
     ],
     "seeAlso": [
       "wax, ił-k'iwax, i-k'iwaxmat"
+    ]
+  },
+  "-k'l-ŁX̲I": {
+    "root": "-k'l-ŁX̲I",
+    "partOfSpeech": "vb",
+    "definition": "crawl to, crawl toward, crawl on",
+    "forms": [
+      {
+        "kiksht": "iyak'lłxi",
+        "english": "he crawled to, to- wards her"
+      },
+      {
+        "kiksht": "nigink'lłxi",
+        "english": "he crawled to, towards me (last season)"
+      },
+      {
+        "kiksht": "nigink'itłxi",
+        "english": "he crawled to, towards me (last week)"
+      },
+      {
+        "kiksht": "nigaik'itłxi",
+        "english": "she crawled to, towards him (last week) [Dyk]"
+      },
+      {
+        "kiksht": "aik'ítłxiugwax",
+        "english": "they[a-] each crawl about on it[i-] [WTI.2.18]"
+      }
     ]
   },
   "-k'm-KWŁI": {
@@ -13218,6 +13286,52 @@
     ],
     "seeAlso": [
       "-K'NAM, -n-K'NAM"
+    ]
+  },
+  "-q'l-ŁX̲I": {
+    "root": "-q'l-ŁX̲I",
+    "partOfSpeech": "vb",
+    "definition": "crawl",
+    "forms": [
+      {
+        "kiksht": "iq'elłxit",
+        "english": "he's crawling"
+      },
+      {
+        "kiksht": "enq'elłxit",
+        "english": "I'm crawling"
+      },
+      {
+        "kiksht": "anq'elłxiya",
+        "english": "I will crawl [GT, MMc 6/3/98, cor- rected 6/9/99]"
+      },
+      {
+        "kiksht": "iq'elłxilal",
+        "english": "he's crawl- ing [GT, MMc 1/12/99, 6/9/99]"
+      }
+    ]
+  },
+  "-q'l-ŁX̲I-pa": {
+    "root": "-q'l-ŁX̲I-pa",
+    "partOfSpeech": "vb",
+    "definition": "crawl out through",
+    "forms": [
+      {
+        "kiksht": "niq'lłxilpłix",
+        "english": "I am crawling out through it[i-] (place, as a hole)"
+      },
+      {
+        "kiksht": "miq'lłxilpłix",
+        "english": "you are crawling out through it[i-] (place, as a hole)"
+      },
+      {
+        "kiksht": "iq'lłxilpłix",
+        "english": "he is crawling out through it[i-] (place, as a hole)"
+      },
+      {
+        "kiksht": "aiq'lłxilpłix",
+        "english": "she is crawling out through it[i-] (place, as a hole) [Dyk]"
+      }
     ]
   },
   "-qi-CXA-pa": {
@@ -53576,6 +53690,28 @@
       }
     ]
   },
+  "i-łxlém": {
+    "root": "i-łxlém",
+    "partOfSpeech": "n",
+    "definition": "food [MMc], something to eat [Dyk], feast [HS 7/6/54], eating [WTI.14.4]",
+    "examples": [
+      {
+        "kiksht": "K'aya ichłxlém ishgakwal.",
+        "english": "I don't eat eels, I don't like [to eat] eels."
+      },
+      {
+        "kiksht": "[literally",
+        "english": "Eels are not my food.] [MMc 7/30/96]"
+      },
+      {
+        "kiksht": "Iłmimlusht iyałxlém isk'ulya.",
+        "english": "Coyote is an eater of dead things. [WTI.14.4]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁX̲LM, -x-ŁX̲LM, it-łxlém"
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -57939,6 +58075,38 @@
         "kiksht": "Idiałg̲wúl txiluxt.",
         "english": "(The cut) becomes white and swollen in him. [Dyk]"
       }
+    ]
+  },
+  "it-łxiwulx": {
+    "root": "it-łxiwulx",
+    "partOfSpeech": "n",
+    "definition": "strength, strong",
+    "forms": [
+      {
+        "kiksht": "idiałxiwulx",
+        "english": "he is strong, has strength"
+      },
+      {
+        "kiksht": "itgałxíwulxmax",
+        "english": "they are strong ones [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Idiałxiwulx ich'inun.",
+        "english": "Eagle is strong. [WTI.4.8]"
+      }
+    ],
+    "seeAlso": [
+      "-d-l-ŁX̲IU-chkw"
+    ]
+  },
+  "it-łxlém": {
+    "root": "it-łxlém",
+    "partOfSpeech": "n",
+    "definition": "food",
+    "seeAlso": [
+      "-ŁX̲LM, i-łxlém"
     ]
   },
   "itgachaxelqwłimax akłmín": {
@@ -64177,6 +64345,76 @@
     "definition": "he[ił-] knows",
     "seeAlso": [
       "-xl-QŁA"
+    ]
+  },
+  "łxilaitix": {
+    "root": "łxilaitix",
+    "partOfSpeech": "vb",
+    "definition": "they dwell [WTI.2.2, 11.1, IV.2.15], they are sitting [WTI.11.12], they are there [WTI.18.6]",
+    "seeAlso": [
+      "-xi-LA-it-ix"
+    ]
+  },
+  "łxiliu": {
+    "root": "łxiliu",
+    "partOfSpeech": "adv",
+    "definition": "back, behind"
+  },
+  "łxliu": {
+    "root": "łxliu",
+    "partOfSpeech": "adv",
+    "definition": "away from water, away from fire, toward wall",
+    "examples": [
+      {
+        "kiksht": "Nawit łxliu galuxwax uxaq'íwalal.",
+        "english": "The fish were forced clear up to shore. [WTI.5.5]"
+      },
+      {
+        "kiksht": "Łxliu emxúx!",
+        "english": "Make yourself away from water, stay away from the bank! [Dyk]"
+      },
+      {
+        "kiksht": "Compare Łxliwix emxúx",
+        "english": "Get away from water; this implies mov- ing away farther than is implied by Łxliu mxúx! [GT 6/3/98]"
+      }
+    ],
+    "seeAlso": [
+      "łxliwix, łxlíwadamt, k'amałmt"
+    ]
+  },
+  "łxliwi": {
+    "root": "łxliwi",
+    "partOfSpeech": "adv",
+    "definition": "from water, away from water, out of water",
+    "seeAlso": [
+      "-ŁX̲"
+    ]
+  },
+  "łxlá": {
+    "root": "łxlá",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] trains",
+    "seeAlso": [
+      "-x-LA"
+    ]
+  },
+  "łxlíwadamt": {
+    "root": "łxlíwadamt",
+    "partOfSpeech": "adv",
+    "definition": "some distance from water, toward a place away from water",
+    "notes": [
+      "See diagram under łxliwix."
+    ],
+    "seeAlso": [
+      "łxliu, łxliwix, k'amałemt"
+    ]
+  },
+  "łxílaitix": {
+    "root": "łxílaitix",
+    "partOfSpeech": "vb",
+    "definition": "they are dwelling",
+    "seeAlso": [
+      "-xi-LA-it-ix"
     ]
   },
   "łáglalitix": {

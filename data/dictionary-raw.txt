@@ -17577,3 +17577,60 @@ See also: -xl-QÒA
 
 -k’a-Ò ̨I [vb] crawl, crawl on, crawl over
 Forms: nk’Å¬xilal “I am crawling about” ik’a¬xilal “he is crawling about” iga¬xilal “he is crawling about” [With -g- substituted for -k’-, this word refers to something fierce or enormous; or else is contemptu- ous, as of a drunk.] ik’a¬xit “he is crawling” igik’a¬xi “he crawled” chuk’alximit “he is making her crawl, he is helping her to crawl” aik’at¬xigwax “she was crawling about on it[i-]” aikat¬xˆkwt “she was crawl- ing past over it[i-]” [Dyk]
+
+
+
+
+
+
+
+
+-k’l-Ò ̨I [vb] crawl to, crawl toward, crawl on
+Forms: iyak’l¬xi “he crawled to, to- wards her” nigink’l¬xi “he crawled to, towards me (last season)” nigink’it¬xi “he crawled to, towards me (last week)” nigaik’it¬xi “she crawled to, towards him (last week)” [Dyk] aik’ˆt¬xiugwax “they[a-] each crawl about on it[i-]” [WTI.2.18]
+
+-q’l-Ò ̨I [vb] crawl
+Forms: iq’el¬xit “he’s crawling” enq’el¬xit “I’m crawling” anq’el¬xiya “I will crawl” [GT, MMc 6/3/98, cor- rected 6/9/99] iq’el¬xilal “he’s crawl- ing” [GT, MMc 1/12/99, 6/9/99]
+
+-q’l-Ò ̨I-pa [vb] crawl out through
+Forms: niq’l¬xilp¬ix “I am crawling out through it[i-] (place, as a hole)” miq’l¬xilp¬ix “you are crawling out through it[i-] (place, as a hole)” iq’l¬xilp¬ix “he is crawling out through it[i-] (place, as a hole)” aiq’l¬xilp¬ix “she is crawling out through it[i-] (place, as a hole)” [Dyk]
+
+-k’a-Ò ̨I-wulx [vb] climb up on, crawl up on
+Forms: iyak’at¬xiwulx “he climbed up on it[a-]” [Dyk]
+
+¬xilaitix [vb] they dwell [WTI.2.2, 11.1, IV.2.15], they are sitting [WTI.11.12], they are there [WTI.18.6]
+See also: -xi-LA-it-ix
+
+¬xˆlaitix [vb] they are dwelling
+See also: -xi-LA-it-ix
+
+¬xiliu [adv] back, behind
+
+-d-l-Ò ̨IU-chkw [vb] strain at
+Forms: dil¬xiuchkwt “he is straining (as at a rope)” dil¬xiulchk “he is straining, doing the straining” [Dyk; GT, MMc 6/3/98 found these 2 meant “about the same”] idil¬xiuchk “he strained” idal¬xiuchk “she strained” [Dyk]
+See also: it-¬xiwulx
+
+it-¬xiwulx [n] strength, strong
+Forms: idia¬xiwulx “he is strong, has strength” itga¬xˆwulxmax “they are strong ones” [Dyk]
+Examples: Idia¬xiwulx ich’inun. “Eagle is strong.” [WTI.4.8]
+See also: -d-l-Ò ̨IU-chkw
+
+¬xlÅ [vb] he[i¬-] trains
+See also: -x-LA
+
+i-¬xlém [n] food [MMc], something to eat [Dyk], feast [HS 7/6/54], eating [WTI.14.4]
+Examples: K’aya ich¬xlém ishgakwal. “I don’t eat eels, I don’t like [to eat] eels.” [literally “Eels are not my food.”] [MMc 7/30/96] I¬mimlusht iya¬xlém isk’ulya. “Coyote is an eater of dead things.” [WTI.14.4]
+See also: -Ò ̨LM, -x-Ò ̨LM, it-¬xlém
+
+it-¬xlém [n] food
+See also: -Ò ̨LM, i-¬xlém
+
+¬xliu [adv] away from water, away from fire, toward wall
+Examples: Nawit ¬xliu galuxwax uxaq’ˆwalal. “The fish were forced clear up to shore.” [WTI.5.5] Òxliu emx ̈x! “Make yourself away from water, stay away from the bank!” [Dyk] Compare Òxliwix emx ̈x “Get away from water;” this implies mov- ing away farther than is implied by Òxliu mx ̈x! [GT 6/3/98]
+See also: ¬xliwix, ¬xlˆwadamt, k’ama¬mt
+
+¬xlˆwadamt [adv] some distance from water, toward a place away from water
+Notes: See diagram under ¬xliwix.
+See also: ¬xliu, ¬xliwix, k’ama¬emt
+
+¬xliwi [adv] from water, away from water, out of water
+See also: -Ò ̨
