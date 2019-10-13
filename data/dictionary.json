@@ -5789,6 +5789,52 @@
       "i-k'imamalkwł"
     ]
   },
+  "-MAQ'IM-ł": {
+    "root": "-MAQ'IM-ł",
+    "partOfSpeech": "vb",
+    "definition": "give away (not as a present), donate, present",
+    "forms": [
+      {
+        "kiksht": "achiumaq'imła",
+        "english": "he will give it[i-] away"
+      },
+      {
+        "kiksht": "chiumaq'imł",
+        "english": "he has it[i- ] given away"
+      },
+      {
+        "kiksht": "chiumqa'imnił",
+        "english": "he is giving it[i-] away"
+      },
+      {
+        "kiksht": "ichiumaq'imł",
+        "english": "he gave it[i-] away"
+      },
+      {
+        "kiksht": "inyumaq'imł",
+        "english": "I gave it[i-] away"
+      },
+      {
+        "kiksht": "nichadmaq'imł",
+        "english": "he gave it[a-] away (last week)"
+      },
+      {
+        "kiksht": "ichilmaq'imł",
+        "english": "he gave it[i-] away to him"
+      },
+      {
+        "kiksht": "igimaq'imnił",
+        "english": "he is giving away"
+      },
+      {
+        "kiksht": "yumaq'imłix",
+        "english": "it[i-] has been given away [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-gimaq'imł, it-xigimaq'imnił"
+    ]
+  },
   "-MAQT": {
     "root": "-MAQT",
     "partOfSpeech": "vb",
@@ -16990,6 +17036,84 @@
     ],
     "seeAlso": [
       "it-qigilúlamit"
+    ]
+  },
+  "-x-MAS(A)": {
+    "root": "-x-MAS(A)",
+    "partOfSpeech": "vb",
+    "definition": "be ashamed, be ashamed of, be bashful",
+    "forms": [
+      {
+        "kiksht": "axmas",
+        "english": "she's ashamed"
+      },
+      {
+        "kiksht": "ixmas",
+        "english": "he's ashamed [GT, MMc 12/ 30/97]"
+      },
+      {
+        "kiksht": "achaxmasaida",
+        "english": "he will be ashamed of her, become ashamed of her"
+      },
+      {
+        "kiksht": "chaxmasalit",
+        "english": "he is ashamed of her, becomes ashamed of her (con- tinually, again and again)"
+      },
+      {
+        "kiksht": "chaxmás",
+        "english": "he is ashamed of her"
+      },
+      {
+        "kiksht": "chenxmás",
+        "english": "he is ashamed of me"
+      },
+      {
+        "kiksht": "nixmás",
+        "english": "I am ashamed of him"
+      },
+      {
+        "kiksht": "chaxadmas",
+        "english": "he was ashamed of her"
+      },
+      {
+        "kiksht": "ichaxmasait",
+        "english": "he became ashamed of her"
+      },
+      {
+        "kiksht": "ixmásalit",
+        "english": "he is ashamed (again and again)"
+      },
+      {
+        "kiksht": "uxwamas",
+        "english": "they are ashamed"
+      },
+      {
+        "kiksht": "ixadmas",
+        "english": "he was ashamed"
+      },
+      {
+        "kiksht": "igixmasait",
+        "english": "he became ashamed"
+      },
+      {
+        "kiksht": "galixadmas",
+        "english": "he was ashamed"
+      },
+      {
+        "kiksht": "galixmasait",
+        "english": "he became ashamed"
+      },
+      {
+        "kiksht": "galixmásalit",
+        "english": "he becomes ashamed (repeatedly) [Dyk]"
+      },
+      {
+        "kiksht": "galáxmasait",
+        "english": "she was ashamed [WTIV.3.3]"
+      }
+    ],
+    "seeAlso": [
+      "masa, i- -mas"
     ]
   },
   "-x-NI": {
@@ -47299,6 +47423,20 @@
       "dalau"
     ]
   },
+  "i- -mas": {
+    "root": "i- -mas",
+    "partOfSpeech": "adj n",
+    "definition": "bashful, shy, ashamed",
+    "forms": [
+      {
+        "kiksht": "ichamas",
+        "english": "she is ashamed, bashful [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "masa, -xmas"
+    ]
+  },
   "i- -małáiumit": {
     "root": "i- -małáiumit",
     "partOfSpeech": "adj n",
@@ -54255,6 +54393,14 @@
       "it-maq, it-kmaq"
     ]
   },
+  "i-mashín": {
+    "root": "i-mashín",
+    "partOfSpeech": "n",
+    "definition": "machine",
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
   "i-ładat": {
     "root": "i-ładat",
     "partOfSpeech": "n",
@@ -56426,6 +56572,17 @@
       "daláu"
     ]
   },
+  "is-masen": {
+    "root": "is-masen",
+    "partOfSpeech": "n",
+    "definition": "cloak",
+    "notes": [
+      "May refer to a short blanket or hide thrown over the shoulders."
+    ],
+    "seeAlso": [
+      "ish-mashen"
+    ]
+  },
   "is-mántłx": {
     "root": "is-mántłx",
     "partOfSpeech": "n",
@@ -56901,6 +57058,14 @@
     "definition": "bridal couple",
     "seeAlso": [
       "-limx"
+    ]
+  },
+  "ish-mashen": {
+    "root": "ish-mashen",
+    "partOfSpeech": "n",
+    "definition": "cape made of deer- skin",
+    "seeAlso": [
+      "is-masen"
     ]
   },
   "ish-íxtksh": {
@@ -58834,6 +58999,20 @@
     ],
     "seeAlso": [
       "i-maq, it-kmaq"
+    ]
+  },
+  "it-masa": {
+    "root": "it-masa",
+    "partOfSpeech": "n",
+    "definition": "feeling insulted",
+    "forms": [
+      {
+        "kiksht": "idiamasa",
+        "english": "he is one who always feels insulted [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "masa"
     ]
   },
   "it-małemt": {
@@ -62915,6 +63094,72 @@
       "nux, k'manux, nuxpu"
     ]
   },
+  "masa": {
+    "root": "masa",
+    "partOfSpeech": "part",
+    "definition": "insulted, ashamed",
+    "forms": [
+      {
+        "kiksht": "Mas(a) igiuxux.",
+        "english": "He got in- sulted."
+      },
+      {
+        "kiksht": "Masa chiuxt.",
+        "english": "He's insulting him. [GT, MMc 12/30/97; they gave the second example somewhat doubt- fully]"
+      },
+      {
+        "kiksht": "Mas(a) igixux.",
+        "english": "He was, felt insulted."
+      },
+      {
+        "kiksht": "Mas(a) ikiax.",
+        "english": "He is, feels insulted. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i- -mas, -xmas"
+    ]
+  },
+  "mashá": {
+    "root": "mashá",
+    "partOfSpeech": "part",
+    "definition": "disapprove, not care for, find unbecoming",
+    "examples": [
+      {
+        "kiksht": "Mashá nyuxt.",
+        "english": "I don't care for it, I don't approve it, it doesn't look good enough for me."
+      },
+      {
+        "kiksht": "Mashá ikiax.",
+        "english": "He doesn't approve."
+      },
+      {
+        "kiksht": "Mashá akiax.",
+        "english": "She doesn't approve. [GT, MMc 6/5/98]"
+      },
+      {
+        "kiksht": "Masha gachiux.",
+        "english": "He was dissatisfied with him. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "masa"
+    ]
+  },
+  "maya": {
+    "root": "maya",
+    "partOfSpeech": "pron",
+    "definition": "you for your part",
+    "examples": [
+      {
+        "kiksht": "Naika anxkw'aya, maya dika ámxuxa.",
+        "english": "I will go home, you for your part you stay here. [DykGr 119]"
+      }
+    ],
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"I do that, you for your part do this.\" See example."
+    ]
+  },
   "mała": {
     "root": "mała",
     "partOfSpeech": "part",
@@ -62981,6 +63226,20 @@
     ],
     "seeAlso": [
       "małen, małnadamt"
+    ]
+  },
+  "måsk'i": {
+    "root": "måsk'i",
+    "partOfSpeech": "conj",
+    "definition": "while",
+    "examples": [
+      {
+        "kiksht": "Måsk'i diká mkiax atxamxágaba kiksht awawat.",
+        "english": "While you are here we'll both work on kiksht language. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tł'a"
     ]
   },
   "qengi": {
@@ -63818,6 +64077,14 @@
     "examples": [],
     "seeAlso": [
       "-MA-kw, i-gimak, i-qigimak, it-qigimak, i-gimalk, i-xigimak, -xi-gi- MA-kw"
+    ]
+  },
+  "wi-maqwt": {
+    "root": "wi-maqwt",
+    "partOfSpeech": "n",
+    "definition": "war",
+    "seeAlso": [
+      "-MA-qw, i-qamaqwt"
     ]
   },
   "wi-mał": {

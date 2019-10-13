@@ -17881,3 +17881,55 @@ Forms: iyumaqt “he died” [Dyk and GT, MMc 1/14/99 contrast this with yumqt �
 Examples: Bax yumÅqt. “He died.” Makwsht a-month yaxatka niyumaqt. “Two months ago he died.” [Dyk]
 Notes: There seems to be some dis- tinction between this root and -mqt. See forms above and under -mqt.
 See also: -MQT
+
+
+
+
+
+
+
+-MAQ’IM-¬ [vb] give away (not as a present), donate, present
+Forms: achiumaq’im¬a “he will give it[i-] away” chiumaq’im¬ “he has it[i- ] given away” chiumqa’imni¬ “he is giving it[i-] away” ichiumaq’im¬ “he gave it[i-] away” inyumaq’im¬ “I gave it[i-] away” nichadmaq’im¬ “he gave it[a-] away (last week)” ichilmaq’im¬ “he gave it[i-] away to him” igimaq’imni¬ “he is giving away” yumaq’im¬ix “it[i-] has been given away” [Dyk]
+See also: it-gimaq’im¬, it-xigimaq’imni¬
+
+
+wi-maqwt [n] war
+See also: -MA-qw, i-qamaqwt
+
+i- -mas [adj n] bashful, shy, ashamed
+Forms: ichamas “she is ashamed, bashful” [Dyk]
+See also: masa, -xmas
+
+-x-MAS(A) [vb] be ashamed, be ashamed of, be bashful
+Forms: axmas “she’s ashamed” ixmas “he’s ashamed” [GT, MMc 12/ 30/97] achaxmasaida “he will be ashamed of her, become ashamed of her” chaxmasalit “he is ashamed of her, becomes ashamed of her (con- tinually, again and again)” chaxmÅs “he is ashamed of her” chenxmÅs “he is ashamed of me” nixmÅs “I am ashamed of him” chaxadmas “he was ashamed of her” ichaxmasait “he became ashamed of her” ixmÅsalit “he is ashamed (again and again)” uxwamas “they are ashamed” ixadmas “he was ashamed” igixmasait “he became ashamed” galixadmas “he was ashamed” galixmasait “he became ashamed” galixmÅsalit “he becomes ashamed (repeatedly)” [Dyk] galÅxmasait “she was ashamed” [WTIV.3.3]
+See also: masa, i- -mas
+
+it-masa [n] feeling insulted
+Forms: idiamasa “he is one who always feels insulted” [Dyk]
+See also: masa
+
+masa [part] insulted, ashamed
+Forms: Mas(a) igiuxux. “He got in- sulted.” Masa chiuxt. “He’s insulting him.” [GT, MMc 12/30/97; they gave the second example somewhat doubt- fully] Mas(a) igixux. “He was, felt insulted.” Mas(a) ikiax. “He is, feels insulted.” [Dyk]
+See also: i- -mas, -xmas
+
+is-masen [n] cloak
+Notes: May refer to a short blanket or hide thrown over the shoulders.
+See also: ish-mashen
+
+måsk’i [conj] while
+Examples: Måsk’i dikÅ mkiax atxamxÅgaba kiksht awawat. “While you are here we’ll both work on kiksht language.” [Dyk]
+See also: t¬’a
+
+mashÅ [part] disapprove, not care for, find unbecoming
+Examples: MashÅ nyuxt. “I don’t care for it, I don’t approve it, it doesn’t look good enough for me.” MashÅ ikiax. “He doesn’t approve.” MashÅ akiax. “She doesn’t approve.” [GT, MMc 6/5/98] Masha gachiux. “He was dissatisfied with him.” [Dyk]
+See also: masa
+
+ish-mashen [n] cape made of deer- skin
+See also: is-masen
+
+i-mashˆn [n] machine
+Notes: Borrowed from English.
+
+maya [pron] you for your part
+Examples: Naika anxkw’aya, maya dika Åmxuxa. “I will go home, you for your part you stay here.” [DykGr 119]
+Notes: Independent personal pro- noun. Usually indicates a contrast of some sort, as in “I do that, you for your part do this.” See example.
