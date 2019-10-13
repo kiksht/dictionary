@@ -10790,6 +10790,48 @@
       "a-kałtq"
     ]
   },
+  "-k-ŁUT-kw": {
+    "root": "-k-ŁUT-kw",
+    "partOfSpeech": "vb",
+    "definition": "breathe, breathe on, pant",
+    "forms": [
+      {
+        "kiksht": "alikłudlgma",
+        "english": "he will pant"
+      },
+      {
+        "kiksht": "aliktłutgma",
+        "english": "he will let out one long breath"
+      },
+      {
+        "kiksht": "ikłudelk",
+        "english": "he is panting"
+      },
+      {
+        "kiksht": "ixtłudelk",
+        "english": "he was panting"
+      },
+      {
+        "kiksht": "igikłutk",
+        "english": "he blew out one long breath"
+      },
+      {
+        "kiksht": "igikłúdelkemchk",
+        "english": "he panted"
+      },
+      {
+        "kiksht": "chakłudelk",
+        "english": "he is breathing on her [Dyk]"
+      },
+      {
+        "kiksht": "enkłudelk",
+        "english": "I am breathing [PK 8/8/55]"
+      }
+    ],
+    "seeAlso": [
+      "wa-łutk"
+    ]
+  },
   "-kag̲wámx": {
     "root": "-kag̲wámx",
     "partOfSpeech": "n",
@@ -12277,6 +12319,24 @@
         "kiksht": "chailłádaqwtix",
         "english": "he has her thrown/ dragged up against/up to it[i-] (a place); he is throwing/dragging her up against/up to it[i-] [Dyk]"
       }
+    ]
+  },
+  "-l-ŁUT-kw": {
+    "root": "-l-ŁUT-kw",
+    "partOfSpeech": "vb",
+    "definition": "breathe into, blow into",
+    "forms": [
+      {
+        "kiksht": "chalłudelk",
+        "english": "he is breathing into it[a-]"
+      },
+      {
+        "kiksht": "gachilłutk",
+        "english": "he blew, breathed into it[i-] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "wa-łutk"
     ]
   },
   "-ladas": {
@@ -19357,6 +19417,34 @@
       }
     ]
   },
+  "-ŁUT-kw": {
+    "root": "-ŁUT-kw",
+    "partOfSpeech": "vb",
+    "definition": "blow",
+    "examples": [
+      {
+        "kiksht": "Gachilłútk idudu ich'inun.",
+        "english": "Eagle blew into the flute. [WTI.9.2]"
+      }
+    ],
+    "seeAlso": [
+      "wa-łutk, -ŁUT"
+    ]
+  },
+  "-ŁUXWA": {
+    "root": "-ŁUXWA",
+    "partOfSpeech": "vb",
+    "definition": "think",
+    "examples": [
+      {
+        "kiksht": "Gashxłuxwait.",
+        "english": "They 2 thought. [WTI.1a1]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁUXWA(N) think, feel"
+    ]
+  },
   "-ł-gl-KWSHTX̲": {
     "root": "-ł-gl-KWSHTX̲",
     "partOfSpeech": "vb",
@@ -21989,6 +22077,11 @@
     "root": "a-łiłxumat",
     "partOfSpeech": "n",
     "definition": "string attached to net so that when fish got in it would jerk string to let person know it was there See also: i-łixumat"
+  },
+  "a-łux": {
+    "root": "a-łux",
+    "partOfSpeech": "n",
+    "definition": "birthmark"
   },
   "a-łágagwli": {
     "root": "a-łágagwli",
@@ -61917,6 +62010,20 @@
       }
     ]
   },
+  "wa-łutk": {
+    "root": "wa-łutk",
+    "partOfSpeech": "n",
+    "definition": "breath, air, life, spirit",
+    "examples": [
+      {
+        "kiksht": "Ałumqta pu iłgwałilx; imuwag̲ ag̲a k'aya pu wit'ax ałdímama diká daba iłgwałilx ałalutk.",
+        "english": "She would kill people; you have killed her, so that people's spirits will no longer come here. [WTI.9.7]"
+      }
+    ],
+    "seeAlso": [
+      "-k-ŁUT-kw"
+    ]
+  },
   "wi-'ísh": {
     "root": "wi-'ísh",
     "partOfSpeech": "n",
@@ -63452,6 +63559,131 @@
     ],
     "seeAlso": [
       "-k-K'A-qw"
+    ]
+  },
+  "ługwalákwt": {
+    "root": "ługwalákwt",
+    "partOfSpeech": "n",
+    "definition": "roof (on house) [PK], covered up [GT, MMc 6/4/98]",
+    "notes": [
+      "Literally \"it goes around on top;\" this is a verbal expression which may be used in place of a noun."
+    ]
+  },
+  "łuit": {
+    "root": "łuit",
+    "partOfSpeech": "vb",
+    "definition": "they are going",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "łuk": {
+    "root": "łuk",
+    "partOfSpeech": "part",
+    "definition": "slow, slack up",
+    "seeAlso": [
+      "dałukłuk"
+    ]
+  },
+  "łukwłít": {
+    "root": "łukwłít",
+    "partOfSpeech": "vb",
+    "definition": "it is stretched",
+    "seeAlso": [
+      "-KWŁI [-KŁI]"
+    ]
+  },
+  "łun": {
+    "root": "łun",
+    "partOfSpeech": "num",
+    "definition": "three"
+  },
+  "łunba wigwa": {
+    "root": "łunba wigwa",
+    "partOfSpeech": "n",
+    "definition": "Wednesday",
+    "notes": [
+      "Literally \"third day.\" This was suggested by Dell Hymes, following the pattern of makwshtba wigwa, which is found in Wishram Texts for \"Tuesday.\""
+    ]
+  },
+  "łuntłiyał": {
+    "root": "łuntłiyał",
+    "partOfSpeech": "num",
+    "definition": "thirty"
+  },
+  "łup": {
+    "root": "łup",
+    "partOfSpeech": "part",
+    "definition": "eat by sucking, eat by drawing up [Dyk], suck [GT 6/4/98]",
+    "forms": [
+      {
+        "kiksht": "Łup chiuxt.",
+        "english": "He's sucking it up. [GT, MMc 6/4/98]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'iłupłup"
+    ]
+  },
+  "łupg̲nat": {
+    "root": "łupg̲nat",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is appointed",
+    "seeAlso": [
+      "-P G̲NA"
+    ]
+  },
+  "łuqelqt": {
+    "root": "łuqelqt",
+    "partOfSpeech": "vb",
+    "definition": "she[ił-] is weeping",
+    "seeAlso": [
+      "-QELQ"
+    ]
+  },
+  "łuqwulqt": {
+    "root": "łuqwulqt",
+    "partOfSpeech": "vb",
+    "definition": "it is wailing",
+    "seeAlso": [
+      "-QELQ"
+    ]
+  },
+  "łutł'lxt": {
+    "root": "łutł'lxt",
+    "partOfSpeech": "vb",
+    "definition": "it is thinned out",
+    "seeAlso": [
+      "-TŁ'LX"
+    ]
+  },
+  "łuwit": {
+    "root": "łuwit",
+    "partOfSpeech": "vb",
+    "definition": "it is dripping",
+    "examples": [
+      {
+        "kiksht": "Iłk'acha łuwit watułba.",
+        "english": "The fat is dripping onto the fire. [Bear and Crane J]"
+      }
+    ],
+    "seeAlso": [
+      "-WIT"
+    ]
+  },
+  "łuxłúx": {
+    "root": "łuxłúx",
+    "partOfSpeech": "part",
+    "definition": "stretch",
+    "examples": [
+      {
+        "kiksht": "Łuxłúx niłgmtx.",
+        "english": "They stretched you. [WTI.3.11]"
+      },
+      {
+        "kiksht": "Łuxłúx inyúx.",
+        "english": "I stretched it[i-]. [GT, MMc 6/9/99]"
+      }
     ]
   },
   "łáglalitix": {
