@@ -6555,6 +6555,17 @@
       "id-muya,-MUYA"
     ]
   },
+  "-MUŁX̲I": {
+    "root": "-MUŁX̲I",
+    "partOfSpeech": "vb",
+    "definition": "buckle up",
+    "forms": [
+      {
+        "kiksht": "ashdumułxíxida",
+        "english": "they 2 will be buckled up [PK]"
+      }
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -14207,6 +14218,43 @@
       {
         "kiksht": "Shgigemudelqix imimlusht itbuquxba.",
         "english": "They 2 are burying him, a dead person, at the mountain."
+      }
+    ]
+  },
+  "-mulak": {
+    "root": "-mulak",
+    "partOfSpeech": "n",
+    "definition": "elk",
+    "forms": [
+      {
+        "kiksht": "imulak",
+        "english": "bull elk"
+      },
+      {
+        "kiksht": "amulak",
+        "english": "cow elk"
+      },
+      {
+        "kiksht": "itmúlakmax, itmulagmax, imulagmax",
+        "english": "elk (plural) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-yamulgix, i- -múlgixix"
+    ]
+  },
+  "-múlalish": {
+    "root": "-múlalish",
+    "partOfSpeech": "n",
+    "definition": "Mollala",
+    "forms": [
+      {
+        "kiksht": "imúlalish",
+        "english": "Mollala man"
+      },
+      {
+        "kiksht": "amúlalish",
+        "english": "Mollala woman"
       }
     ]
   },
@@ -24415,12 +24463,47 @@
       "Borrowed to or from Sahaptin."
     ]
   },
+  "a-muinx": {
+    "root": "a-muinx",
+    "partOfSpeech": "n",
+    "definition": "crabapple",
+    "notes": [
+      "This word may also have been used for wild grapes and grapes."
+    ]
+  },
   "a-mulal": {
     "root": "a-mulal",
     "partOfSpeech": "n",
-    "definition": "onion-like root, amulal amumda [vb] you will grow",
+    "definition": "onion-like root, amulal"
+  },
+  "a-mumal": {
+    "root": "a-mumal",
+    "partOfSpeech": "n",
+    "definition": "Indian potato",
+    "forms": [
+      {
+        "kiksht": "idmumal",
+        "english": "Indian potatoes [Dyk]"
+      }
+    ]
+  },
+  "a-mups": {
+    "root": "a-mups",
+    "partOfSpeech": "n",
+    "definition": "fawn",
+    "notes": [
+      "May refer to a fawn of either gender."
+    ]
+  },
+  "a-mutan": {
+    "root": "a-mutan",
+    "partOfSpeech": "n",
+    "definition": "Indian hemp, Indian hemp, processed, fibre, twine, string",
+    "notes": [
+      "Apparently meant originally fibre or twine made from Indian hemp, but later used to mean any kind of twine, especially that pro- duced from natural fibres."
+    ],
     "seeAlso": [
-      "-MT"
+      "ił-mutan, a-mudán k'ishtx"
     ]
   },
   "a-mísg̲ag̲a": {
@@ -48635,6 +48718,37 @@
     "partOfSpeech": "adj n",
     "definition": "shy, bashful"
   },
+  "i- -muła": {
+    "root": "i- -muła",
+    "partOfSpeech": "adj n",
+    "definition": "clean",
+    "forms": [
+      {
+        "kiksht": "ichmuła",
+        "english": "I am clean [WTI.17.17]"
+      }
+    ],
+    "notes": [
+      "This is song language for mała."
+    ],
+    "seeAlso": [
+      "mała"
+    ]
+  },
+  "i- -múlgixix": {
+    "root": "i- -múlgixix",
+    "partOfSpeech": "adj n",
+    "definition": "going elking, hunting elk",
+    "forms": [
+      {
+        "kiksht": "ichamúlgixix",
+        "english": "she has been elking"
+      }
+    ],
+    "seeAlso": [
+      "i-mulak, -yamulgix"
+    ]
+  },
   "i- -ánana": {
     "root": "i- -ánana",
     "partOfSpeech": "adj n",
@@ -55835,6 +55949,54 @@
       "Borrowed to or from Sahaptin."
     ]
   },
+  "i-muitk": {
+    "root": "i-muitk",
+    "partOfSpeech": "n",
+    "definition": "mud"
+  },
+  "i-mula": {
+    "root": "i-mula",
+    "partOfSpeech": "n",
+    "definition": "sawmill",
+    "forms": [
+      {
+        "kiksht": "idmúlamax",
+        "english": "sawmills"
+      }
+    ],
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
+  "i-mut": {
+    "root": "i-mut",
+    "partOfSpeech": "n",
+    "definition": "father's brother, (paternal) uncle, stepfather",
+    "forms": [
+      {
+        "kiksht": "ichmút",
+        "english": "my (paternal) uncle; my stepfather"
+      },
+      {
+        "kiksht": "iyamút",
+        "english": "his (pater- nal) uncle; his stepfather"
+      },
+      {
+        "kiksht": "iłgmútksh",
+        "english": "my (paternal) uncles"
+      },
+      {
+        "kiksht": "amut",
+        "english": "(pa- ternal) uncle! stepfather! [used by children] [Relatives]"
+      }
+    ],
+    "notes": [
+      "May refer either to one's father's brother or to a stepfather."
+    ],
+    "seeAlso": [
+      "amut"
+    ]
+  },
   "i-mísht": {
     "root": "i-mísht",
     "partOfSpeech": "n",
@@ -55857,6 +56019,20 @@
     ],
     "seeAlso": [
       "i-gwálamisht"
+    ]
+  },
+  "i-múikw'ax": {
+    "root": "i-múikw'ax",
+    "partOfSpeech": "n",
+    "definition": "fish egg, bead resem- bling fish egg",
+    "forms": [
+      {
+        "kiksht": "iłmúikw'ax",
+        "english": "fish eggs [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to fish eggs at the time they are ready to hatch."
     ]
   },
   "i-shmiwa": {
@@ -56276,6 +56452,17 @@
       "-QEMSHT"
     ]
   },
+  "id- -musximax": {
+    "root": "id- -musximax",
+    "partOfSpeech": "adj n",
+    "definition": "acting silly, like a little kid",
+    "forms": [
+      {
+        "kiksht": "idiamusximax",
+        "english": "he is a silly- acting kid; his acting silly"
+      }
+    ]
+  },
   "id-elxam": {
     "root": "id-elxam",
     "partOfSpeech": "n",
@@ -56476,6 +56663,17 @@
       "-KWŁI"
     ]
   },
+  "id-mulmulmax": {
+    "root": "id-mulmulmax",
+    "partOfSpeech": "n",
+    "definition": "scabs, peeling skin",
+    "forms": [
+      {
+        "kiksht": "idiamulmulmax",
+        "english": "he has things falling off of him, skin peeling off, scabs peeling off, is scabby [GT, MMc 12/30/97]"
+      }
+    ]
+  },
   "id-máł": {
     "root": "id-máł",
     "partOfSpeech": "n",
@@ -56489,6 +56687,11 @@
     "seeAlso": [
       "wi-mał"
     ]
+  },
+  "id-múimax": {
+    "root": "id-múimax",
+    "partOfSpeech": "n",
+    "definition": "salt lick, alkali spot"
   },
   "id-náchk": {
     "root": "id-náchk",
@@ -62085,6 +62288,14 @@
     "partOfSpeech": "n",
     "definition": "salmon egg"
   },
+  "ił-mutan": {
+    "root": "ił-mutan",
+    "partOfSpeech": "n",
+    "definition": "leader for catching sturgeon",
+    "seeAlso": [
+      "a-mutan"
+    ]
+  },
   "ił-mín": {
     "root": "ił-mín",
     "partOfSpeech": "n",
@@ -64948,6 +65159,47 @@
     ],
     "notes": [
       "Meaning uncertain."
+    ]
+  },
+  "muit": {
+    "root": "muit",
+    "partOfSpeech": "vb",
+    "definition": "you are going",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "mukshdit": {
+    "root": "mukshdit",
+    "partOfSpeech": "vb",
+    "definition": "you are full (of food)",
+    "seeAlso": [
+      "-kshd-it"
+    ]
+  },
+  "mukshtix": {
+    "root": "mukshtix",
+    "partOfSpeech": "vb",
+    "definition": "you look, you appear",
+    "examples": [
+      {
+        "kiksht": "Mukshtix dmelmuit.",
+        "english": "You look tired. [Spilyay/Health]"
+      }
+    ],
+    "seeAlso": [
+      "-KSHT-ix"
+    ]
+  },
+  "muła": {
+    "root": "muła",
+    "partOfSpeech": "part",
+    "definition": "clean",
+    "notes": [
+      "This is song language for mała."
+    ],
+    "seeAlso": [
+      "mała"
     ]
   },
   "qengi": {
