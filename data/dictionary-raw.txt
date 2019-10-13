@@ -15950,3 +15950,59 @@ Forms: chd ̈lalam “he is singing it[it- ] (song, idlÅlalmax)” [Dyk]
 
 -gl-LALAM [vb] sing for, sing with
 Forms: chagˆlalam “he is singing for, with her” nichagéllalamchk “he sang for, with her (last season)” nichagidlalamchk “he sang for, with her (last week)” gachagidlalamchk “he sang for, with her (last year)” ganagitlalamchk “I sang for her (last year)” [Dyk]
+
+
+
+
+
+
+
+
+
+-k-LALAM [vb] sing
+Forms: anglÅlama “I will sing” anxdlÅlama “I will sing (distant fu- ture)” englalam “I am singing” ugwÅlalam [Dyk], ¬glalam [WTI.11.2] “they are singing” emshglÅlamchk! “you folks sing!” emshxdlÅlamchk! “you folks sing (over there, in this direction)!” enxdlalam “I was sing- ing” ixdlalam “he was singing” uxdlalam “they were singing” inglalamchk “I sang” nanglÅlama “I sang” ninglalam “I was singing (last season)” ninxtlalam “I was singing (last week)” ninglalamchk “I sang (last season)” ninxtlalamchk “I sang (last week)” ganxtlÅlam “I was sing- ing (last year)” ganxtlalamchk “I sang (last year)” ganglalamchk “I sang (long ago)” galiglÅlamni¬ “he sings (regularly)” anglÅlalamama “I will go to sing” nglÅlalmamt “I am going to sing” inglalamam “I went to sing” nanglalalmama “I went to sing” ninglalamam “I went to sing” ganglÅlamam “I went to sing” ixtlÅlamamt “he is coming to sing” igiglÅlamam “he went to sing” [Dyk]
+Examples: Shtaxdau ishkala shglalam. “Those 2 men are singing.” IglÅlam idit. “He comes along sing- ing.” [Dyk]
+
+i-lalam [n] oar
+Forms: i¬lalam “oars” [Dyk]
+See also: lalam
+
+lalam [part] row
+Examples: Lalam anxuxa. “I’m going to row.” [PK 6/24/56]
+See also: i-lalam
+
+id-lÅlamax [n] song, singing [Dyk], medicine songs [PK 8/28/55]
+Forms: idialÅlamax “his song; he is a singer” [Dyk] itgalÅlamax “medicine singers” [PK 8/28/55]
+Examples: dixtka idlÅlalamax “one song” makwsht idlÅlamax “2 songs” [Dyk] Gachtushkam idlalamax. “He took up the song” [WTI.1c.11]
+See also: -LALAM, id-yu¬maxlÅlamax
+
+a-lalax [n] fish trap
+Notes: This is the spelling given by Dyk. In Wishram Texts, this word is spelled alalax.
+See also: a-lalax
+
+i-lalÅx [n] red deer
+Forms: itlalÅx “red deer [plural]”
+
+a-lalax [n] fish-trap
+Notes: This is the spelling found in Wishram Texts. Dyk spells this word alalax.
+See also: a-lalax
+
+-lalik [n] rabbit, jack rabbit
+Forms: ilalik, wilalik “(male) jack rabbit” alalik “(female) jack rabbit” idlalik “jack rabbits” [Dyk] ishlalik “2 jack rabbits” [HS]
+Pronunciation: Pronunciation by Gladys Thompson and Madeline McInturff. varies between -lÅlik and - lalˆk.
+
+i-lamaixen [n] tall balm trees in valley
+Notes: It is not clear exactly what sort of tree is meant here.
+See also: i-lamÅixenlit
+
+i-lamÅixenlit [n] grove of ilamaixn trees, bunch of ilamaixn trees
+See also: i-lamaixen
+
+i-lÅmitus [n] opponent
+Forms: ichlÅmitus “he is my oppo- nent” [PK 6/27/57] itlÅmitusks “op- ponents” [tentatively suggested by GT 6/4/98]
+
+i¬-lapispis [n] chick
+Notes: Probably from French, via Chinook Jargon, but the original French word has not yet been deter- mined.
+
+i-lapten [n] dried side of Chinook salmon
+Forms: i¬lapten “dried sides of Chi- nook salmon” [PK 6/30/54]

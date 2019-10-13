@@ -9142,6 +9142,131 @@
       }
     ]
   },
+  "-k-LALAM": {
+    "root": "-k-LALAM",
+    "partOfSpeech": "vb",
+    "definition": "sing",
+    "forms": [
+      {
+        "kiksht": "anglálama",
+        "english": "I will sing"
+      },
+      {
+        "kiksht": "anxdlálama",
+        "english": "I will sing (distant fu- ture)"
+      },
+      {
+        "kiksht": "englalam",
+        "english": "I am singing ugwálalam [Dyk], łglalam [WTI.11.2]"
+      },
+      {
+        "kiksht": "",
+        "english": "they are singing"
+      },
+      {
+        "kiksht": "emshglálamchk!",
+        "english": "you folks sing!"
+      },
+      {
+        "kiksht": "emshxdlálamchk!",
+        "english": "you folks sing (over there, in this direction)!"
+      },
+      {
+        "kiksht": "enxdlalam",
+        "english": "I was sing- ing"
+      },
+      {
+        "kiksht": "ixdlalam",
+        "english": "he was singing"
+      },
+      {
+        "kiksht": "uxdlalam",
+        "english": "they were singing"
+      },
+      {
+        "kiksht": "inglalamchk",
+        "english": "I sang"
+      },
+      {
+        "kiksht": "nanglálama",
+        "english": "I sang"
+      },
+      {
+        "kiksht": "ninglalam",
+        "english": "I was singing (last season)"
+      },
+      {
+        "kiksht": "ninxtlalam",
+        "english": "I was singing (last week)"
+      },
+      {
+        "kiksht": "ninglalamchk",
+        "english": "I sang (last season)"
+      },
+      {
+        "kiksht": "ninxtlalamchk",
+        "english": "I sang (last week)"
+      },
+      {
+        "kiksht": "ganxtlálam",
+        "english": "I was sing- ing (last year)"
+      },
+      {
+        "kiksht": "ganxtlalamchk",
+        "english": "I sang (last year)"
+      },
+      {
+        "kiksht": "ganglalamchk",
+        "english": "I sang (long ago)"
+      },
+      {
+        "kiksht": "galiglálamnił",
+        "english": "he sings (regularly)"
+      },
+      {
+        "kiksht": "anglálalamama",
+        "english": "I will go to sing"
+      },
+      {
+        "kiksht": "nglálalmamt",
+        "english": "I am going to sing"
+      },
+      {
+        "kiksht": "inglalamam",
+        "english": "I went to sing"
+      },
+      {
+        "kiksht": "nanglalalmama",
+        "english": "I went to sing"
+      },
+      {
+        "kiksht": "ninglalamam",
+        "english": "I went to sing"
+      },
+      {
+        "kiksht": "ganglálamam",
+        "english": "I went to sing"
+      },
+      {
+        "kiksht": "ixtlálamamt",
+        "english": "he is coming to sing"
+      },
+      {
+        "kiksht": "igiglálamam",
+        "english": "he went to sing [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Shtaxdau ishkala shglalam.",
+        "english": "Those 2 men are singing."
+      },
+      {
+        "kiksht": "Iglálam idit.",
+        "english": "He comes along sing- ing. [Dyk]"
+      }
+    ]
+  },
   "-k-gi-LA-kw": {
     "root": "-k-gi-LA-kw",
     "partOfSpeech": "vb",
@@ -10778,6 +10903,30 @@
     "seeAlso": [
       "ił-alakásgwilit"
     ]
+  },
+  "-lalik": {
+    "root": "-lalik",
+    "partOfSpeech": "n",
+    "definition": "rabbit, jack rabbit",
+    "forms": [
+      {
+        "kiksht": "ilalik, wilalik",
+        "english": "(male) jack rabbit"
+      },
+      {
+        "kiksht": "alalik",
+        "english": "(female) jack rabbit"
+      },
+      {
+        "kiksht": "idlalik",
+        "english": "jack rabbits [Dyk]"
+      },
+      {
+        "kiksht": "ishlalik",
+        "english": "2 jack rabbits [HS]"
+      }
+    ],
+    "pronunciation": "Pronunciation by Gladys Thompson and Madeline McInturff. varies between -lálik and - lalík."
   },
   "-n-GA-kw": {
     "root": "-n-GA-kw",
@@ -18411,6 +18560,17 @@
     ],
     "seeAlso": [
       "it-laish, ił-laish"
+    ]
+  },
+  "a-lalax": {
+    "root": "a-lalax",
+    "partOfSpeech": "n",
+    "definition": "fish-trap",
+    "notes": [
+      "This is the spelling found in Wishram Texts. Dyk spells this word alalax."
+    ],
+    "seeAlso": [
+      "a-lalax"
     ]
   },
   "a-lágamin": {
@@ -48880,12 +49040,82 @@
     "partOfSpeech": "n",
     "definition": "larch, tamarack"
   },
+  "i-lalam": {
+    "root": "i-lalam",
+    "partOfSpeech": "n",
+    "definition": "oar",
+    "forms": [
+      {
+        "kiksht": "iłlalam",
+        "english": "oars [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "lalam"
+    ]
+  },
+  "i-laláx": {
+    "root": "i-laláx",
+    "partOfSpeech": "n",
+    "definition": "red deer",
+    "forms": [
+      {
+        "kiksht": "itlaláx",
+        "english": "red deer [plural]"
+      }
+    ]
+  },
+  "i-lamaixen": {
+    "root": "i-lamaixen",
+    "partOfSpeech": "n",
+    "definition": "tall balm trees in valley",
+    "notes": [
+      "It is not clear exactly what sort of tree is meant here."
+    ],
+    "seeAlso": [
+      "i-lamáixenlit"
+    ]
+  },
+  "i-lamáixenlit": {
+    "root": "i-lamáixenlit",
+    "partOfSpeech": "n",
+    "definition": "grove of ilamaixn trees, bunch of ilamaixn trees",
+    "seeAlso": [
+      "i-lamaixen"
+    ]
+  },
+  "i-lapten": {
+    "root": "i-lapten",
+    "partOfSpeech": "n",
+    "definition": "dried side of Chinook salmon",
+    "forms": [
+      {
+        "kiksht": "iłlapten",
+        "english": "dried sides of Chi- nook salmon [PK 6/30/54]"
+      }
+    ]
+  },
   "i-láitk": {
     "root": "i-láitk",
     "partOfSpeech": "n",
     "definition": "willows",
     "seeAlso": [
       "i-laitglit, Chalaitglit"
+    ]
+  },
+  "i-lámitus": {
+    "root": "i-lámitus",
+    "partOfSpeech": "n",
+    "definition": "opponent",
+    "forms": [
+      {
+        "kiksht": "ichlámitus",
+        "english": "he is my oppo- nent [PK 6/27/57]"
+      },
+      {
+        "kiksht": "itlámitusks",
+        "english": "op- ponents [tentatively suggested by GT 6/4/98]"
+      }
     ]
   },
   "iagluxtix": {
@@ -49228,6 +49458,38 @@
     "definition": "slavery",
     "seeAlso": [
       "-laitix"
+    ]
+  },
+  "id-lálamax": {
+    "root": "id-lálamax",
+    "partOfSpeech": "n",
+    "definition": "song, singing [Dyk], medicine songs [PK 8/28/55]",
+    "forms": [
+      {
+        "kiksht": "idialálamax",
+        "english": "his song; he is a singer [Dyk]"
+      },
+      {
+        "kiksht": "itgalálamax",
+        "english": "medicine singers [PK 8/28/55]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "dixtka idlálalamax",
+        "english": "one song"
+      },
+      {
+        "kiksht": "makwsht idlálamax",
+        "english": "2 songs [Dyk]"
+      },
+      {
+        "kiksht": "Gachtushkam idlalamax.",
+        "english": "He took up the song [WTI.1c.11]"
+      }
+    ],
+    "seeAlso": [
+      "-LALAM, id-yułmaxlálamax"
     ]
   },
   "id-náchk": {
@@ -54478,6 +54740,14 @@
       "Borrowed from English. Alice Florendo used the prefix a- with this word, Phillip Kahclamat used the prefix it-, Gladys Thompson [6/4/98] used prefix ił-: iłláish."
     ]
   },
+  "ił-lapispis": {
+    "root": "ił-lapispis",
+    "partOfSpeech": "n",
+    "definition": "chick",
+    "notes": [
+      "Probably from French, via Chinook Jargon, but the original French word has not yet been deter- mined."
+    ]
+  },
   "ił-lá": {
     "root": "ił-lá",
     "partOfSpeech": "n",
@@ -56525,6 +56795,20 @@
     "root": "lakttłiyał",
     "partOfSpeech": "num",
     "definition": "forty"
+  },
+  "lalam": {
+    "root": "lalam",
+    "partOfSpeech": "part",
+    "definition": "row",
+    "examples": [
+      {
+        "kiksht": "Lalam anxuxa.",
+        "english": "I'm going to row. [PK 6/24/56]"
+      }
+    ],
+    "seeAlso": [
+      "i-lalam"
+    ]
   },
   "qengi": {
     "root": "qengi",
