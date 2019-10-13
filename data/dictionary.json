@@ -4204,6 +4204,199 @@
       "-x-kwchan, i-gikwchan, i- k'ikwchan"
     ]
   },
+  "-KWDI": {
+    "root": "-KWDI",
+    "partOfSpeech": "vb",
+    "definition": "point, extend",
+    "forms": [
+      {
+        "kiksht": "chiukwdilal",
+        "english": "he is pointing it[i-] about"
+      },
+      {
+        "kiksht": "ichiukwdi",
+        "english": "he pointed it[i-]"
+      },
+      {
+        "kiksht": "nichiukwdi",
+        "english": "he pointed it[i-] (last season)"
+      },
+      {
+        "kiksht": "nichiukwdilal",
+        "english": "he was pointing it[i-] about (last season)"
+      },
+      {
+        "kiksht": "nichiukwdenił",
+        "english": "he was pointing it[i-] several times (last season)"
+      },
+      {
+        "kiksht": "nichiukwdílalemchk",
+        "english": "he pointed it[i-] about (last season)"
+      },
+      {
+        "kiksht": "nichiukwdeniłchk",
+        "english": "he pointed it[i-] (several times) (last season)"
+      },
+      {
+        "kiksht": "nichitkwdi",
+        "english": "he pointed it[i-] (last week)"
+      },
+      {
+        "kiksht": "nichitkwdilal",
+        "english": "he was point- ing it[i-] about (last week)"
+      },
+      {
+        "kiksht": "nichitkwdenił",
+        "english": "he was pointing it[i-] several times (last week)"
+      },
+      {
+        "kiksht": "nichitkwdílalemchk",
+        "english": "he pointed it[i-] about (last week)"
+      },
+      {
+        "kiksht": "nichitkwdeniłchk",
+        "english": "he pointed it[i-] (several times) (last week)"
+      },
+      {
+        "kiksht": "ik'íkwdilal",
+        "english": "he is pointing (something)"
+      },
+      {
+        "kiksht": "yukwdít",
+        "english": "it[i-] is point- ing, extending out"
+      },
+      {
+        "kiksht": "yukwdidix",
+        "english": "it[i-] (a place, such as a promentory or peninsula) is extending out"
+      },
+      {
+        "kiksht": "with -l-",
+        "english": "in, into"
+      },
+      {
+        "kiksht": ": chialukwdilal",
+        "english": "he is pointing it[i-] about in it[a-]"
+      },
+      {
+        "kiksht": "chialukwdigwax",
+        "english": "he is pointing it[i-] back and forth in it[a-]"
+      },
+      {
+        "kiksht": "chiawikwdilal",
+        "english": "he is pointing it[i-] about inside of them"
+      },
+      {
+        "kiksht": "chialukwdit",
+        "english": "he has it[i-] inside of it[a-] pointing that way (horizontally)"
+      },
+      {
+        "kiksht": "chiaitkwdit",
+        "english": "he has it[i-] inside of it[a-] pointing this way (horizontally)"
+      },
+      {
+        "kiksht": "ichialukwdi, ichialukwti",
+        "english": "he pointed it[i-] into it[a- ]"
+      },
+      {
+        "kiksht": "nichialukwdilal",
+        "english": "he was pointing it[i-] around inside of her"
+      },
+      {
+        "kiksht": "with -xl-",
+        "english": "in, into (reflexive)"
+      },
+      {
+        "kiksht": ": yaxlukwdilal",
+        "english": "she is pointing it[i-] in herself"
+      },
+      {
+        "kiksht": "with -k'l-",
+        "english": "at"
+      },
+      {
+        "kiksht": ": chiak'lukwtit, chiak'lukwdit",
+        "english": "he is pointing it[i-] at her"
+      },
+      {
+        "kiksht": "chiak'lukwdilal",
+        "english": "he is pointing it[i-] at her (repeatedly)"
+      },
+      {
+        "kiksht": "nichiak'lukwti",
+        "english": "he pointed it[i-] at her (last season)"
+      },
+      {
+        "kiksht": "nichiak'lukwtit",
+        "english": "he was pointing it[i-] at her (last sea- son)"
+      },
+      {
+        "kiksht": "nichiak'lukwdilal",
+        "english": "he was pointing it[i-] at her (repeatedly) (last season)"
+      },
+      {
+        "kiksht": "nichiak'lukwdílalemchk",
+        "english": "he pointed it[i-] at her (repeatedly) (last sea- son)"
+      },
+      {
+        "kiksht": "nichiak'itkwti",
+        "english": "he pointed it[i-] at her (last week)"
+      },
+      {
+        "kiksht": "nichiak'itkwtit",
+        "english": "he was pointing it[i-] at her (last week)"
+      },
+      {
+        "kiksht": "nichiak'itkwdilal",
+        "english": "he was pointing it[i-] at her (repeatedly) (last week)"
+      },
+      {
+        "kiksht": "nichiak'itkwdílalemchk",
+        "english": "he pointed it[i-] at her (repeatedly) (last week)"
+      },
+      {
+        "kiksht": "with -x-",
+        "english": "from"
+      },
+      {
+        "kiksht": ": chiaxkwdilal",
+        "english": "he is pointing it[i-] away from her"
+      },
+      {
+        "kiksht": "with -k-",
+        "english": "over"
+      },
+      {
+        "kiksht": ": ichiagatkwdi",
+        "english": "he pointed it[i-] over her, put it pointing over her [Dyk]"
+      }
+    ]
+  },
+  "-KWŁ": {
+    "root": "-KWŁ",
+    "partOfSpeech": "vb",
+    "definition": "take along",
+    "forms": [
+      {
+        "kiksht": "nichiúkwł",
+        "english": "he took him along (as every day, last season)"
+      },
+      {
+        "kiksht": "nichitkwł",
+        "english": "he took him along (last week)"
+      },
+      {
+        "kiksht": "gachiukwł",
+        "english": "he takes him along (every day) [Dyk]"
+      },
+      {
+        "kiksht": "nachiukwła",
+        "english": "he took him [GT 1/12/99]"
+      }
+    ],
+    "notes": [
+      "This verb is not used in the future, na-, or i- tenses."
+    ]
+  },
   "-KŁ": {
     "root": "-KŁ",
     "partOfSpeech": "vb",
@@ -6115,6 +6308,91 @@
     ],
     "seeAlso": [
       "-K'INWA-pa, -x-gm-K'INWA- pa"
+    ]
+  },
+  "-gm-KWDI": {
+    "root": "-gm-KWDI",
+    "partOfSpeech": "vb",
+    "definition": "pay",
+    "forms": [
+      {
+        "kiksht": "iłgaigmukdi",
+        "english": "they paid it[a-] to him, paid him with it"
+      },
+      {
+        "kiksht": "iłgiagmukwdi",
+        "english": "they paid it[i-] to him, paid him with it"
+      },
+      {
+        "kiksht": "chagemgikwdnił",
+        "english": "he is paying her (continually)"
+      },
+      {
+        "kiksht": "inigemgakwdi",
+        "english": "I paid him"
+      },
+      {
+        "kiksht": "nichagmatgikwdi",
+        "english": "he paid her (last week)"
+      },
+      {
+        "kiksht": "ixemkwdnił",
+        "english": "he is paying (continually)"
+      },
+      {
+        "kiksht": "ixangikwdit",
+        "english": "he is paying [PK: This means he is paying for a period of time, as with taxes or rents.]"
+      },
+      {
+        "kiksht": "aixmukdit, aixmukwdit",
+        "english": "it[a-] is paid to him, he has it for pay, it is his pay"
+      },
+      {
+        "kiksht": "aixmukdnił",
+        "english": "it[a-] is being paid to him, he is taking it for pay- ment (continually)"
+      },
+      {
+        "kiksht": "yaxagmukwdit",
+        "english": "he has himself paid to her"
+      },
+      {
+        "kiksht": "yaxagmukwdi",
+        "english": "he paid her with him- self, he gave himself to her as her payment"
+      },
+      {
+        "kiksht": "igemgikwdit",
+        "english": "he is paid"
+      },
+      {
+        "kiksht": "aigmukdit",
+        "english": "he is paid with it[a-]"
+      },
+      {
+        "kiksht": "ixaxmagiwkdi",
+        "english": "it[i-] paid itself for itself [For example: $50 is paid for raising apples (ilibum), which are sold for $100. The $50 paid itself for itself as expenses. Generally used with igixux, as in example below.] [Dyk]"
+      },
+      {
+        "kiksht": "Naika enxémgikwdit.",
+        "english": "I'm paying."
+      },
+      {
+        "kiksht": "Naika alma anxemgíkwdia.",
+        "english": "I will pay."
+      },
+      {
+        "kiksht": "G̲ángadaxa nalixemgikwdia",
+        "english": "He already paid. [GT, MMc 6/5/98]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Amigemkwdia áwachi k'aya?",
+        "english": "Will you pay him or not?"
+      },
+      {
+        "kiksht": "Ixaxmagikwdi igixux.",
+        "english": "It[i-] paid for itself. [See explanation above.] [Dyk]"
+      }
     ]
   },
   "-gm-xa-GA-pa": {
@@ -8161,6 +8439,23 @@
       {
         "kiksht": "aklial",
         "english": "unmarried woman, old maid"
+      }
+    ]
+  },
+  "-kma-gi-KWDI": {
+    "root": "-kma-gi-KWDI",
+    "partOfSpeech": "vb",
+    "definition": "pay for",
+    "forms": [
+      {
+        "kiksht": "qukmagikwdnił",
+        "english": "someone is paying for them (continually), they are being paid for [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Shamani Sapir achimluda idala bama itqanuchqmax qukmagikwdnił daxdau itt'ukdi.",
+        "english": "If Sapir will give you money to pay for stories, that's good. [from a letter by PK]"
       }
     ]
   },
@@ -45454,6 +45749,14 @@
     ],
     "seeAlso": [
       "ił-k'askas"
+    ]
+  },
+  "i-kwil": {
+    "root": "i-kwil",
+    "partOfSpeech": "n",
+    "definition": "quilt",
+    "notes": [
+      "Borrowed from English."
     ]
   },
   "i-kxalal": {
