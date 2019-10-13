@@ -16006,3 +16006,75 @@ Notes: Probably from French, via Chinook Jargon, but the original French word ha
 
 i-lapten [n] dried side of Chinook salmon
 Forms: i¬lapten “dried sides of Chi- nook salmon” [PK 6/30/54]
+
+
+
+
+
+
+
+
+
+
+
+wa-lapten [n] wheat
+
+-LAP’A-chkw [vb] tip, tip up, tilt up
+Forms: chiulap’Åchkwt “he is tipping it[i-] up” ichiulapÅchk “he tipped it[i-] up” ichiulap’Åchgwamit “he tipped it[i-] up, made it tip up” ixlap’Åchkwt “he is tipping himself up” yulap’Åchkwt “he is tilted up” adlap’achkwt “she is tipping up this way” yulap’achgux, ylap’achkux “it[i-] was being tilted up” yulap’Åchguxlit “it[i-] is being tipped up (continually)” iyulap’Åchguxlitemchk “it[i-] tee- tered” yulap’achkwlit “it[i-] tips up (every time)” yulap’achkwit “it[i-] became tilted up” [Dyk]
+
+i¬-laqwshtq [n] tears
+Forms: i¬laqwstq “small tears” [Dyk] i¬glaqwshtq “my eyes are watering” [Spilyay/sick] “my tears” [GT 1/15/ 99]
+
+i¬-laswˆ [n] silk, silken cloth
+
+id-lasxwait [n] black pitch, soot, very black smoke
+
+a-lashemni [n] chimney
+Notes: PK described this as an “old people’s word” but said it was still used. Though this word sounds like English “chimney,” the -la- shows that it was borrowed from the French word la cheminé, almost certainly via Chinook Jargon. The French -ch- represents the “sh” sound. Compare a-lachmni.
+See also: a-lachemni
+
+a-lashˆsh [n] chair
+Forms: i¬lashˆsh “chairs”
+Notes: Borrowed from French la chaise, probably through Chinook Jargon.
+
+i¬-lau [n] hoop game, hoop and pole game
+Notes: A game played by rolling hoop and attempting to shoot a pole through it as it rolls.
+
+lau [part] smooth, smooth over, cover up, cover over
+Examples: Lau ikiax. “It[i-] is smooth.” Lau ichiux. “He smoothed it[i-].” Laulau aixbut. “It[i-] is closed up, covered up, covered over.” [Dyk] See also: dalÅu, dalaulÅu, ailau
+
+i- -laulau [adj n] glittering, shining
+Forms: i¬sdalaulau “it[ish-] is glitter- ing, shining” [Dyk]
+Examples: Wacq’un ichalaulau. “The cup is shining.” [GT, MMc 6/4/98]
+See also: dalau
+
+is-laulau [n] glittering, shining
+See also: dalÅu
+
+laulÅu [part] dirty, get dirty
+Examples: LaulÅu ichiux. “He dirtied it[i-].” LaulÅu ikiax. “He is dirty, getting dirty.” [Dyk]
+
+lauxlaux [part] blind, blinded
+
+a-lawin [n] oats
+
+lax [part] lack, want, need
+Examples: Lax enkiax it¬xlém. “I lack food.” Lax enkiax itkmat¬q’ia. “I lack tools.” qamailÅx “no vacant place, no place to stay” [Dyk] Lax enkiax idala. “I need, lack money.” Lax enkiax idelxam. “I lack people.” [PK 6/29/ 56]
+
+i-laxlax [n] poison
+
+laxlax [part] deceive, puzzle, lie to
+Examples: Laxlax gak¬ ̈x. “She de- ceived them.” [WTI.4.5] Laxlax giuxt. “She is lying to him.” Laxlax ichiux. “He deceived, lied to him.” [Dyk] LaxlÅx ini ̈x. “I puzzled him (on pur- pose).” [PK]
+See also: ailÅx, la’ax, i-k’ilaxlax, -sh- t¬’it¬’i
+
+i¬-laxsik [n] second-grade kinnickkinnick
+
+a-laxwdat [n] snare
+Forms: idlaxwdat “snares” [Dyk]
+Notes: Refers specifically to a snare, not a trap, according to Dyk; but idlaxwtat is translated “trap” in WTI.13.3.
+
+laxwlaxw [part] slide, slip
+Examples: Laxwlaxw nik’ ̈slkw¬ix. “I am slipping and sliding over it[i-] (as when climbing a mountain over ice and snow and slipping at every step).” [Dyk]
+See also: luxlux, sailuxlux, sailuxluxix, dalaxwlÅxw
+
+id-laxwtat [n] trap

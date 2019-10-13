@@ -5097,6 +5097,57 @@
       }
     ]
   },
+  "-LAP'A-chkw": {
+    "root": "-LAP'A-chkw",
+    "partOfSpeech": "vb",
+    "definition": "tip, tip up, tilt up",
+    "forms": [
+      {
+        "kiksht": "chiulap'áchkwt",
+        "english": "he is tipping it[i-] up"
+      },
+      {
+        "kiksht": "ichiulapáchk",
+        "english": "he tipped it[i-] up"
+      },
+      {
+        "kiksht": "ichiulap'áchgwamit",
+        "english": "he tipped it[i-] up, made it tip up"
+      },
+      {
+        "kiksht": "ixlap'áchkwt",
+        "english": "he is tipping himself up"
+      },
+      {
+        "kiksht": "yulap'áchkwt",
+        "english": "he is tilted up"
+      },
+      {
+        "kiksht": "adlap'achkwt",
+        "english": "she is tipping up this way"
+      },
+      {
+        "kiksht": "yulap'achgux, ylap'achkux",
+        "english": "it[i-] was being tilted up"
+      },
+      {
+        "kiksht": "yulap'áchguxlit",
+        "english": "it[i-] is being tipped up (continually)"
+      },
+      {
+        "kiksht": "iyulap'áchguxlitemchk",
+        "english": "it[i-] tee- tered"
+      },
+      {
+        "kiksht": "yulap'achkwlit",
+        "english": "it[i-] tips up (every time)"
+      },
+      {
+        "kiksht": "yulap'achkwit",
+        "english": "it[i-] became tilted up [Dyk]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -18571,6 +18622,50 @@
     ],
     "seeAlso": [
       "a-lalax"
+    ]
+  },
+  "a-lashemni": {
+    "root": "a-lashemni",
+    "partOfSpeech": "n",
+    "definition": "chimney",
+    "notes": [
+      "PK described this as an \"old people's word\" but said it was still used. Though this word sounds like English \"chimney,\" the -la- shows that it was borrowed from the French word la cheminé, almost certainly via Chinook Jargon. The French -ch- represents the \"sh\" sound. Compare a-lachmni."
+    ],
+    "seeAlso": [
+      "a-lachemni"
+    ]
+  },
+  "a-lashísh": {
+    "root": "a-lashísh",
+    "partOfSpeech": "n",
+    "definition": "chair",
+    "forms": [
+      {
+        "kiksht": "iłlashísh",
+        "english": "chairs"
+      }
+    ],
+    "notes": [
+      "Borrowed from French la chaise, probably through Chinook Jargon."
+    ]
+  },
+  "a-lawin": {
+    "root": "a-lawin",
+    "partOfSpeech": "n",
+    "definition": "oats"
+  },
+  "a-laxwdat": {
+    "root": "a-laxwdat",
+    "partOfSpeech": "n",
+    "definition": "snare",
+    "forms": [
+      {
+        "kiksht": "idlaxwdat",
+        "english": "snares [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers specifically to a snare, not a trap, according to Dyk; but idlaxwtat is translated \"trap\" in WTI.13.3."
     ]
   },
   "a-lágamin": {
@@ -42669,6 +42764,26 @@
       "a-kakshti"
     ]
   },
+  "i- -laulau": {
+    "root": "i- -laulau",
+    "partOfSpeech": "adj n",
+    "definition": "glittering, shining",
+    "forms": [
+      {
+        "kiksht": "iłsdalaulau",
+        "english": "it[ish-] is glitter- ing, shining [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Wacq'un ichalaulau.",
+        "english": "The cup is shining. [GT, MMc 6/4/98]"
+      }
+    ],
+    "seeAlso": [
+      "dalau"
+    ]
+  },
   "i- -ánana": {
     "root": "i- -ánana",
     "partOfSpeech": "adj n",
@@ -49095,6 +49210,11 @@
       }
     ]
   },
+  "i-laxlax": {
+    "root": "i-laxlax",
+    "partOfSpeech": "n",
+    "definition": "poison"
+  },
   "i-láitk": {
     "root": "i-láitk",
     "partOfSpeech": "n",
@@ -49451,6 +49571,16 @@
     "notes": [
       "Borrowed from English."
     ]
+  },
+  "id-lasxwait": {
+    "root": "id-lasxwait",
+    "partOfSpeech": "n",
+    "definition": "black pitch, soot, very black smoke"
+  },
+  "id-laxwtat": {
+    "root": "id-laxwtat",
+    "partOfSpeech": "n",
+    "definition": "trap"
   },
   "id-láitiximum": {
     "root": "id-láitiximum",
@@ -51066,6 +51196,14 @@
     "definition": "eyeglass case",
     "seeAlso": [
       "is-xus"
+    ]
+  },
+  "is-laulau": {
+    "root": "is-laulau",
+    "partOfSpeech": "n",
+    "definition": "glittering, shining",
+    "seeAlso": [
+      "daláu"
     ]
   },
   "ish- -ditł'i": {
@@ -54748,6 +54886,43 @@
       "Probably from French, via Chinook Jargon, but the original French word has not yet been deter- mined."
     ]
   },
+  "ił-laqwshtq": {
+    "root": "ił-laqwshtq",
+    "partOfSpeech": "n",
+    "definition": "tears",
+    "forms": [
+      {
+        "kiksht": "iłlaqwstq",
+        "english": "small tears [Dyk]"
+      },
+      {
+        "kiksht": "iłglaqwshtq",
+        "english": "my eyes are watering [Spilyay/sick]"
+      },
+      {
+        "kiksht": "",
+        "english": "my tears [GT 1/15/ 99]"
+      }
+    ]
+  },
+  "ił-laswí": {
+    "root": "ił-laswí",
+    "partOfSpeech": "n",
+    "definition": "silk, silken cloth"
+  },
+  "ił-lau": {
+    "root": "ił-lau",
+    "partOfSpeech": "n",
+    "definition": "hoop game, hoop and pole game",
+    "notes": [
+      "A game played by rolling hoop and attempting to shoot a pole through it as it rolls."
+    ]
+  },
+  "ił-laxsik": {
+    "root": "ił-laxsik",
+    "partOfSpeech": "n",
+    "definition": "second-grade kinnickkinnick"
+  },
   "ił-lá": {
     "root": "ił-lá",
     "partOfSpeech": "n",
@@ -56810,6 +56985,112 @@
       "i-lalam"
     ]
   },
+  "lau": {
+    "root": "lau",
+    "partOfSpeech": "part",
+    "definition": "smooth, smooth over, cover up, cover over",
+    "examples": [
+      {
+        "kiksht": "Lau ikiax.",
+        "english": "It[i-] is smooth."
+      },
+      {
+        "kiksht": "Lau ichiux.",
+        "english": "He smoothed it[i-]."
+      },
+      {
+        "kiksht": "Laulau aixbut.",
+        "english": "It[i-] is closed up, covered up, covered over. [Dyk] See also: daláu, dalauláu, ailau"
+      }
+    ]
+  },
+  "lauláu": {
+    "root": "lauláu",
+    "partOfSpeech": "part",
+    "definition": "dirty, get dirty",
+    "examples": [
+      {
+        "kiksht": "Lauláu ichiux.",
+        "english": "He dirtied it[i-]."
+      },
+      {
+        "kiksht": "Lauláu ikiax.",
+        "english": "He is dirty, getting dirty. [Dyk]"
+      }
+    ]
+  },
+  "lauxlaux": {
+    "root": "lauxlaux",
+    "partOfSpeech": "part",
+    "definition": "blind, blinded"
+  },
+  "lax": {
+    "root": "lax",
+    "partOfSpeech": "part",
+    "definition": "lack, want, need",
+    "examples": [
+      {
+        "kiksht": "Lax enkiax itłxlém.",
+        "english": "I lack food."
+      },
+      {
+        "kiksht": "Lax enkiax itkmatłq'ia.",
+        "english": "I lack tools."
+      },
+      {
+        "kiksht": "qamailáx",
+        "english": "no vacant place, no place to stay [Dyk]"
+      },
+      {
+        "kiksht": "Lax enkiax idala.",
+        "english": "I need, lack money."
+      },
+      {
+        "kiksht": "Lax enkiax idelxam.",
+        "english": "I lack people. [PK 6/29/ 56]"
+      }
+    ]
+  },
+  "laxlax": {
+    "root": "laxlax",
+    "partOfSpeech": "part",
+    "definition": "deceive, puzzle, lie to",
+    "examples": [
+      {
+        "kiksht": "Laxlax gakłúx.",
+        "english": "She de- ceived them. [WTI.4.5]"
+      },
+      {
+        "kiksht": "Laxlax giuxt.",
+        "english": "She is lying to him."
+      },
+      {
+        "kiksht": "Laxlax ichiux.",
+        "english": "He deceived, lied to him. [Dyk]"
+      },
+      {
+        "kiksht": "Laxláx iniúx.",
+        "english": "I puzzled him (on pur- pose). [PK]"
+      }
+    ],
+    "seeAlso": [
+      "ailáx, la'ax, i-k'ilaxlax, -sh- tł'itł'i"
+    ]
+  },
+  "laxwlaxw": {
+    "root": "laxwlaxw",
+    "partOfSpeech": "part",
+    "definition": "slide, slip",
+    "examples": [
+      {
+        "kiksht": "Laxwlaxw nik'úslkwłix.",
+        "english": "I am slipping and sliding over it[i-] (as when climbing a mountain over ice and snow and slipping at every step). [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "luxlux, sailuxlux, sailuxluxix, dalaxwláxw"
+    ]
+  },
   "qengi": {
     "root": "qengi",
     "partOfSpeech": "pron",
@@ -57271,6 +57552,11 @@
     "seeAlso": [
       "i-kuch"
     ]
+  },
+  "wa-lapten": {
+    "root": "wa-lapten",
+    "partOfSpeech": "n",
+    "definition": "wheat"
   },
   "wi-'ísh": {
     "root": "wi-'ísh",
