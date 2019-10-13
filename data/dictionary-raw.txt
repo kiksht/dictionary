@@ -16668,3 +16668,47 @@ See also: -PA
 
 -ask’m-ÒADA-pa [vb] drag out from under
 Forms: ayamask’m¬Ådaba “I will drag you out from under (a house, etc.)” [Dyk]
+
+
+
+
+
+
+
+
+
+-gm-ÒADA-pa [vb] drag out from under, pull out from under
+Forms: ayamugma¬Ådaba “I will drag you out from under them” iganxm¬Ådaba “I pulled her out from under myself” [Dyk]
+
+-u-x-ÒADA-pa [vb] take out of box, take out of sack
+Forms: chiuxwa¬adapx “he is taking it[i-] out of a sack/box” [Dyk]
+Notes: Literally “draw (-¬ada-) out (- pa) from (-x-) them (-u-);” the form given above could also mean “he is taking it out from them.”
+
+-x-ÒADA-pa [vb] take out, kick out
+Forms: gaqiuxwa¬Ådapax “one took him out” [WTIV.2.19] gaqiux¬Ådapa “one kicked him out, he was kicked out” [GT, MMc 1/15/99]
+
+-ÒADA-pchk [vb] drag out of water, throw out of water
+See also: -PCHK
+
+-ask’m-ÒADA-pq [vb] drag in under
+Forms: ayamask’em¬adap©a “I will drag you in under (a home, platform, etc.)” chiask’em¬adapqt “he is drag- ging him in under” [Dyk]
+
+-gm-ÒADA-pq [vb] drag under, pull under, throw under
+Forms: chiagem¬adapqt “he is drag- ging him under her” [Dyk]
+Notes: Similar in meaning to -k’m- ¬ada-pq; but -gm-¬ada-pq implies that there is no space in the place in which something as being dragged, as beneath something flush on the ground, while -k’m-¬ada-pq implies that there is some space, as beneath a bed.
+
+-k’m-ÒADA-pq [vb] drag under, pull under, throw under
+Forms: chiak’em¬adapqt “he is drag- ging him under her” [Dyk]
+Notes: Similar in meaning to -gm- ¬ada-pq; but -gm-¬ada-pq implies that there is no space in the place in which something as being dragged, as beneath something flush on the ground, while -k’m-¬ada-pq implies that there is some space, as beneath a bed.
+
+-l-ÒADA-pq [vb] drag into, pull into, throw into
+Forms: nail¬Ådapqtix “I am dragging her into it[i-] (a hole)” chail¬adapqt “he is pulling her into it[i-]” ichial¬atapq “he dragged/threw him into it[a-]” ichiawi¬atapq “he dragged/threw him into them” [Dyk]
+
+-k-ÒADA-qw [vb] throw after (to catch up with, overtake), drag after (to catch up with, overtake)
+Forms: chiak¬adaqwt “he has it[i-] thrown/dragged after her (to catch up with her, to overtake her)” yak¬adaqwt “he is thrown after her; he is dragged/dragging after her” yak¬Ådaqux “he has been dragged/ thrown after her” yak¬Åda©uxit “he became thrown/dragged after her (for instance, a horse tied to a car when it starts up)” [Dyk]
+
+-l-ÒADA-qw [vb] throw into, throw up to, throw up against, drag into, drag up to, drag up against
+Forms: chial¬adalq “he is dragging him up against her” ichial¬ataq “he dragged him up against her” nail¬Ådaqwtix “I have her thrown/ dragged up against/up to it[i-] (a place); I am throwing/dragging her up against/up to it[i-]” chail¬Ådaqwtix “he has her thrown/ dragged up against/up to it[i-] (a place); he is throwing/dragging her up against/up to it[i-]” [Dyk]
+
+-x-ÒADA-qw [vb] lead, drag
+Forms: aix¬adaqwt “he is leading/ dragging her (after himself)” igax¬ataq “he led her” aix¬Ådaqwtba “place to which he is leading her” [Dyk]

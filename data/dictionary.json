@@ -6054,6 +6054,21 @@
       }
     ]
   },
+  "-ask'm-ŁADA-pq": {
+    "root": "-ask'm-ŁADA-pq",
+    "partOfSpeech": "vb",
+    "definition": "drag in under",
+    "forms": [
+      {
+        "kiksht": "ayamask'emładapg̲a",
+        "english": "I will drag you in under (a home, platform, etc.)"
+      },
+      {
+        "kiksht": "chiask'emładapqt",
+        "english": "he is drag- ging him in under [Dyk]"
+      }
+    ]
+  },
   "-ał-gm-LA-yu-łx": {
     "root": "-ał-gm-LA-yu-łx",
     "partOfSpeech": "vb",
@@ -7892,6 +7907,35 @@
       "-gm-X̲T"
     ]
   },
+  "-gm-ŁADA-pa": {
+    "root": "-gm-ŁADA-pa",
+    "partOfSpeech": "vb",
+    "definition": "drag out from under, pull out from under",
+    "forms": [
+      {
+        "kiksht": "ayamugmałádaba",
+        "english": "I will drag you out from under them"
+      },
+      {
+        "kiksht": "iganxmłádaba",
+        "english": "I pulled her out from under myself [Dyk]"
+      }
+    ]
+  },
+  "-gm-ŁADA-pq": {
+    "root": "-gm-ŁADA-pq",
+    "partOfSpeech": "vb",
+    "definition": "drag under, pull under, throw under",
+    "forms": [
+      {
+        "kiksht": "chiagemładapqt",
+        "english": "he is drag- ging him under her [Dyk]"
+      }
+    ],
+    "notes": [
+      "Similar in meaning to -k'm- łada-pq; but -gm-łada-pq implies that there is no space in the place in which something as being dragged, as beneath something flush on the ground, while -k'm-łada-pq implies that there is some space, as beneath a bed."
+    ]
+  },
   "-gma-GWI-łx": {
     "root": "-gma-GWI-łx",
     "partOfSpeech": "vb",
@@ -9288,6 +9332,20 @@
       }
     ]
   },
+  "-k'm-ŁADA-pq": {
+    "root": "-k'm-ŁADA-pq",
+    "partOfSpeech": "vb",
+    "definition": "drag under, pull under, throw under",
+    "forms": [
+      {
+        "kiksht": "chiak'emładapqt",
+        "english": "he is drag- ging him under her [Dyk]"
+      }
+    ],
+    "notes": [
+      "Similar in meaning to -gm- łada-pq; but -gm-łada-pq implies that there is no space in the place in which something as being dragged, as beneath something flush on the ground, while -k'm-łada-pq implies that there is some space, as beneath a bed."
+    ]
+  },
   "-k'un": {
     "root": "-k'un",
     "partOfSpeech": "adj",
@@ -10329,6 +10387,29 @@
       {
         "kiksht": "yaxtładakwt",
         "english": "it[i-] is thrown around it[a-] [WTII.11.2]"
+      }
+    ]
+  },
+  "-k-ŁADA-qw": {
+    "root": "-k-ŁADA-qw",
+    "partOfSpeech": "vb",
+    "definition": "throw after (to catch up with, overtake), drag after (to catch up with, overtake)",
+    "forms": [
+      {
+        "kiksht": "chiakładaqwt",
+        "english": "he has it[i-] thrown/dragged after her (to catch up with her, to overtake her)"
+      },
+      {
+        "kiksht": "yakładaqwt",
+        "english": "he is thrown after her; he is dragged/dragging after her"
+      },
+      {
+        "kiksht": "yakłádaqux",
+        "english": "he has been dragged/ thrown after her"
+      },
+      {
+        "kiksht": "yakłádag̲uxit",
+        "english": "he became thrown/dragged after her (for instance, a horse tied to a car when it starts up) [Dyk]"
       }
     ]
   },
@@ -11758,6 +11839,52 @@
       {
         "kiksht": ") nilłádakwtix",
         "english": "I am dragging him around inside it[i-] (a place). [Dyk]"
+      }
+    ]
+  },
+  "-l-ŁADA-pq": {
+    "root": "-l-ŁADA-pq",
+    "partOfSpeech": "vb",
+    "definition": "drag into, pull into, throw into",
+    "forms": [
+      {
+        "kiksht": "nailłádapqtix",
+        "english": "I am dragging her into it[i-] (a hole)"
+      },
+      {
+        "kiksht": "chailładapqt",
+        "english": "he is pulling her into it[i-]"
+      },
+      {
+        "kiksht": "ichialłatapq",
+        "english": "he dragged/threw him into it[a-]"
+      },
+      {
+        "kiksht": "ichiawiłatapq",
+        "english": "he dragged/threw him into them [Dyk]"
+      }
+    ]
+  },
+  "-l-ŁADA-qw": {
+    "root": "-l-ŁADA-qw",
+    "partOfSpeech": "vb",
+    "definition": "throw into, throw up to, throw up against, drag into, drag up to, drag up against",
+    "forms": [
+      {
+        "kiksht": "chialładalq",
+        "english": "he is dragging him up against her"
+      },
+      {
+        "kiksht": "ichialłataq",
+        "english": "he dragged him up against her"
+      },
+      {
+        "kiksht": "nailłádaqwtix",
+        "english": "I have her thrown/ dragged up against/up to it[i-] (a place); I am throwing/dragging her up against/up to it[i-]"
+      },
+      {
+        "kiksht": "chailłádaqwtix",
+        "english": "he has her thrown/ dragged up against/up to it[i-] (a place); he is throwing/dragging her up against/up to it[i-] [Dyk]"
       }
     ]
   },
@@ -13434,6 +13561,20 @@
     ],
     "seeAlso": [
       "it-kmalkw'i"
+    ]
+  },
+  "-u-x-ŁADA-pa": {
+    "root": "-u-x-ŁADA-pa",
+    "partOfSpeech": "vb",
+    "definition": "take out of box, take out of sack",
+    "forms": [
+      {
+        "kiksht": "chiuxwaładapx",
+        "english": "he is taking it[i-] out of a sack/box [Dyk]"
+      }
+    ],
+    "notes": [
+      "Literally \"draw (-łada-) out (- pa) from (-x-) them (-u-);\" the form given above could also mean \"he is taking it out from them.\""
     ]
   },
   "-x- G̲WA-kw": {
@@ -16345,6 +16486,40 @@
       }
     ]
   },
+  "-x-ŁADA-pa": {
+    "root": "-x-ŁADA-pa",
+    "partOfSpeech": "vb",
+    "definition": "take out, kick out",
+    "forms": [
+      {
+        "kiksht": "gaqiuxwałádapax",
+        "english": "one took him out [WTIV.2.19]"
+      },
+      {
+        "kiksht": "gaqiuxłádapa",
+        "english": "one kicked him out, he was kicked out [GT, MMc 1/15/99]"
+      }
+    ]
+  },
+  "-x-ŁADA-qw": {
+    "root": "-x-ŁADA-qw",
+    "partOfSpeech": "vb",
+    "definition": "lead, drag",
+    "forms": [
+      {
+        "kiksht": "aixładaqwt",
+        "english": "he is leading/ dragging her (after himself)"
+      },
+      {
+        "kiksht": "igaxłataq",
+        "english": "he led her"
+      },
+      {
+        "kiksht": "aixłádaqwtba",
+        "english": "place to which he is leading her [Dyk]"
+      }
+    ]
+  },
   "-xa-IMA": {
     "root": "-xa-IMA",
     "partOfSpeech": "vb",
@@ -18133,6 +18308,14 @@
     ],
     "seeAlso": [
       "-PA"
+    ]
+  },
+  "-ŁADA-pchk": {
+    "root": "-ŁADA-pchk",
+    "partOfSpeech": "vb",
+    "definition": "drag out of water, throw out of water",
+    "seeAlso": [
+      "-PCHK"
     ]
   },
   "-ł-gl-KWSHTX̲": {
