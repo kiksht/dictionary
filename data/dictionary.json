@@ -10119,6 +10119,70 @@
       "-xi-CHU, -xa-xi-CHU, i- kaxichx"
     ]
   },
+  "-k-ŁA-it": {
+    "root": "-k-ŁA-it",
+    "partOfSpeech": "vb",
+    "definition": "ride (horse), get on (horse or vehicle), get on board, board",
+    "examples": [
+      {
+        "kiksht": "Anikłaida ichkiutan.",
+        "english": "I will ride my horse. [CLL8]"
+      },
+      {
+        "kiksht": "Ag̲a ugwałaitam i-bus-ba.",
+        "english": "Get on the bus! [CLL10]"
+      },
+      {
+        "kiksht": "Inikłaid i-bus.",
+        "english": "I got on the bus."
+      },
+      {
+        "kiksht": "Igikłáit i-bus.",
+        "english": "He got on the bus."
+      },
+      {
+        "kiksht": "Iyugwałáit i-busba.",
+        "english": "He got on the bus."
+      },
+      {
+        "kiksht": "Inakłáit akíutan.",
+        "english": "I got on the mare. [GT 1/15/99]"
+      }
+    ]
+  },
+  "-k-ŁA-mit": {
+    "root": "-k-ŁA-mit",
+    "partOfSpeech": "vb",
+    "definition": "change, move onto",
+    "forms": [
+      {
+        "kiksht": "nachdikłámida",
+        "english": "he changed it, he moved it[it-] (onto something else)"
+      },
+      {
+        "kiksht": "nakdikłámida",
+        "english": "she moved it[it-] over, she changed it"
+      },
+      {
+        "kiksht": "nachdenkłámida",
+        "english": "he moved it[it-] onto me"
+      },
+      {
+        "kiksht": "[GT suggested with a laugh that",
+        "english": "it"
+      },
+      {
+        "kiksht": "in the last form could be",
+        "english": "powers.] [GT 6/10/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Nachaikłámidaxdix akw'áłq iladamba.",
+        "english": "He moved the basket over onto the table. [GT 6/ 10/99]"
+      }
+    ]
+  },
   "-kag̲wámx": {
     "root": "-kag̲wámx",
     "partOfSpeech": "n",
@@ -11484,6 +11548,38 @@
     ],
     "notes": [
       "Literally means \"have an odor to\" or, with -kw \"around,\" \"have one's odor go around in;\" see -ŁA."
+    ]
+  },
+  "-l-ŁA-kw'a": {
+    "root": "-l-ŁA-kw'a",
+    "partOfSpeech": "vb",
+    "definition": "smell, get scent of",
+    "forms": [
+      {
+        "kiksht": "galilłakw'achk",
+        "english": "he got scent of food (lit. \"of it[i-]) [WTI.1i.5; GT, MMc 6/3]"
+      }
+    ]
+  },
+  "-l-ŁA-kw'a-mit": {
+    "root": "-l-ŁA-kw'a-mit",
+    "partOfSpeech": "vb",
+    "definition": "cause to smell, make smell, let smell",
+    "forms": [
+      {
+        "kiksht": "chalgiłakw'amit",
+        "english": "he is mak- ing her smell (something)"
+      },
+      {
+        "kiksht": "ichianłakw'amit",
+        "english": "he let her smell it[i- ] [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Chialłakw'amit ilibum.",
+        "english": "He is making her smell of the apples. [Dyk]"
+      }
     ]
   },
   "-ladas": {
@@ -15985,6 +16081,21 @@
       }
     ]
   },
+  "-x-ŁA-it": {
+    "root": "-x-ŁA-it",
+    "partOfSpeech": "vb",
+    "definition": "die",
+    "forms": [
+      {
+        "kiksht": "iłxłáit",
+        "english": "they died [GT, MMc 1/14/99]"
+      },
+      {
+        "kiksht": "gałxłáit",
+        "english": "they died [WTI.3.4]"
+      }
+    ]
+  },
   "-xa-IMA": {
     "root": "-xa-IMA",
     "partOfSpeech": "vb",
@@ -17230,6 +17341,28 @@
       "i-qik'ílalakwł"
     ]
   },
+  "-xl-ŁA-kw'a-mit": {
+    "root": "-xl-ŁA-kw'a-mit",
+    "partOfSpeech": "vb",
+    "definition": "smell",
+    "forms": [
+      {
+        "kiksht": "aixenłakw'ámanit",
+        "english": "he is try- ing to get the scent of her; he is smelling her"
+      },
+      {
+        "kiksht": "imxenłakw'amit!",
+        "english": "smell it[i-]!"
+      },
+      {
+        "kiksht": "iginxelłakw'amit",
+        "english": "I smelt it[i-] (as to put one's nose down to get a scent) [Dyk]"
+      }
+    ],
+    "notes": [
+      "Literally means \"cause oneself to smell;\" see -l-ła-kw'a-mit."
+    ]
+  },
   "-xm-GA-mida-pa": {
     "root": "-xm-GA-mida-pa",
     "partOfSpeech": "vb",
@@ -17311,6 +17444,21 @@
       {
         "kiksht": "Enxaxemgapx anxuxa.",
         "english": "I will work on myself/on my clothes. [Dyk]"
+      }
+    ]
+  },
+  "-xm-ŁA-ma-kw": {
+    "root": "-xm-ŁA-ma-kw",
+    "partOfSpeech": "vb",
+    "definition": "rebuke for not having helped, give someone a hard time for not having helped",
+    "forms": [
+      {
+        "kiksht": "chixemłámagwax",
+        "english": "he is re- buking him"
+      },
+      {
+        "kiksht": "ichaxemłámakwachk",
+        "english": "I rebuked him [Dyk]"
       }
     ]
   },
@@ -17429,6 +17577,85 @@
       }
     ]
   },
+  "-ŁA-kw": {
+    "root": "-ŁA-kw",
+    "partOfSpeech": "vb",
+    "definition": "heal, become healed",
+    "forms": [
+      {
+        "kiksht": "yułankwł",
+        "english": "it[i-] is healing up"
+      },
+      {
+        "kiksht": "yułákwt",
+        "english": "it[i-] (cut, bruise, disease) is healed"
+      },
+      {
+        "kiksht": "iyułakwa",
+        "english": "it[i-] healed up"
+      },
+      {
+        "kiksht": "iyułakwa",
+        "english": "it[i-] healed up in her [Dyk]"
+      }
+    ]
+  },
+  "-ŁA-kw'a-mit": {
+    "root": "-ŁA-kw'a-mit",
+    "partOfSpeech": "vb",
+    "definition": "make smell, make stink",
+    "forms": [
+      {
+        "kiksht": "chiułakw'amit",
+        "english": "he is making it smell (for instance, garbage) [Dyk]"
+      }
+    ]
+  },
+  "-ŁA-kwa-mit": {
+    "root": "-ŁA-kwa-mit",
+    "partOfSpeech": "vb",
+    "definition": "heal",
+    "forms": [
+      {
+        "kiksht": "chiułakwamit",
+        "english": "he's healing it [GT, MMc 6/4/98]"
+      },
+      {
+        "kiksht": "chiułakwamit",
+        "english": "it[i-] (medicine) has it[i-] healed"
+      },
+      {
+        "kiksht": "chiułakwámalit",
+        "english": "it[i-] is healing it[i-]"
+      },
+      {
+        "kiksht": "ichiułakwamit",
+        "english": "it[i-] healed it[i-]"
+      },
+      {
+        "kiksht": "gachiułakwámalit",
+        "english": "it[i-] is healing it[i-] (regularly) [Dyk]"
+      }
+    ]
+  },
+  "-ŁA-mit": {
+    "root": "-ŁA-mit",
+    "partOfSpeech": "vb",
+    "definition": "move, take (someone) along when moving",
+    "forms": [
+      {
+        "kiksht": "chiułamit",
+        "english": "he has him moved; he is taking him along when moving"
+      },
+      {
+        "kiksht": "chiakłámalit",
+        "english": "he is moving him to a different places on it[a-] (for instance, a truck) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-k-ŁAYU, -k-ŁAIW-it"
+    ]
+  },
   "-ł-gl-KWSHTX̲": {
     "root": "-ł-gl-KWSHTX̲",
     "partOfSpeech": "vb",
@@ -17536,6 +17763,25 @@
     ],
     "notes": [
       "Means to stain or dye cloth or basket by soaking material in color- ing. This verb literally means \"cause (-mit) it (-ł-) to go (-uya-; compare aluya \"she will go,\" under verb -i-) into (-l-).\""
+    ]
+  },
+  "-ł-n-ŁA-kw": {
+    "root": "-ł-n-ŁA-kw",
+    "partOfSpeech": "vb",
+    "definition": "shiver",
+    "forms": [
+      {
+        "kiksht": "łnenłagwax",
+        "english": "I'm shivering [Spilyay/sick]"
+      },
+      {
+        "kiksht": "łinłagwax",
+        "english": "he's shiver- ing"
+      },
+      {
+        "kiksht": "łitłagwax",
+        "english": "he was shivering [GT, MMc 1/15/99]"
+      }
     ]
   },
   "-ł-q'l-DIWA": {
@@ -59815,5 +60061,10 @@
     "seeAlso": [
       "i-xala"
     ]
+  },
+  "łablat": {
+    "root": "łablat",
+    "partOfSpeech": "adv",
+    "definition": "much, many, lots"
   }
 }

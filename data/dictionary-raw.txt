@@ -16549,3 +16549,68 @@ Examples: Qatgi gayu¬aitam isk’ulya aicxÅp. “Coyote landed somewhat short
 Forms: aligem¬aida “he’ll wait for him” aliagem¬aida “he’ll wait for her” a¬igem¬aida “they’ll wait for him” [GT 1/14/99]
 Examples: K’aya a©a anigem¬aida. “I won’t wait for him any longer” Daq¬ yat¬qdix nanigem¬aida. “I waited for him yesterday a long time.” [GT, MMc 12/30/97]
 See also: -gm- ̨T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-k-ÒA-it [vb] ride (horse), get on (horse or vehicle), get on board, board
+Examples: Anik¬aida ichkiutan. “I will ride my horse.” [CLL8] A©a ugwa¬aitam i-bus-ba. “Get on the bus!” [CLL10] Inik¬aid i-bus. “I got on the bus.” Igik¬Åit i-bus. “He got on the bus.” Iyugwa¬Åit i-busba. “He got on the bus.” Inak¬Åit akˆutan. “I got on the mare.” [GT 1/15/99]
+
+-x-ÒA-it [vb] die
+Forms: i¬x¬Åit “they died” [GT, MMc 1/14/99] ga¬x¬Åit “they died” [WTI.3.4]
+
+-ÒA-kw [vb] heal, become healed
+Forms: yu¬ankw¬ “it[i-] is healing up” yu¬Åkwt “it[i-] (cut, bruise, disease) is healed” iyu¬akwa “it[i-] healed up” iyu¬akwa “it[i-] healed up in her” [Dyk]
+
+-¬-n-ÒA-kw [vb] shiver
+Forms: ¬nen¬agwax “I’m shivering” [Spilyay/sick] ¬in¬agwax “he’s shiver- ing” ¬it¬agwax “he was shivering” [GT, MMc 1/15/99]
+
+-ÒA-kwa-mit [vb] heal
+Forms: chiu¬akwamit “he’s healing it” [GT, MMc 6/4/98] chiu¬akwamit “it[i-] (medicine) has it[i-] healed” chiu¬akwÅmalit “it[i-] is healing it[i-]” ichiu¬akwamit “it[i-] healed it[i-]” gachiu¬akwÅmalit “it[i-] is healing it[i-] (regularly)” [Dyk]
+
+-l-ÒA-kw’a [vb] smell, get scent of
+Forms: galil¬akw’achk “he got scent of food (lit. “of it[i-])” [WTI.1i.5; GT, MMc 6/3]
+
+-ÒA-kw’a-mit [vb] make smell, make stink
+Forms: chiu¬akw’amit “he is making it smell (for instance, garbage)” [Dyk]
+
+-l-ÒA-kw’a-mit [vb] cause to smell, make smell, let smell
+Forms: chalgi¬akw’amit “he is mak- ing her smell (something)” ichian¬akw’amit “he let her smell it[i- ]” [Dyk]
+Examples: Chial¬akw’amit ilibum. “He is making her smell of the apples.” [Dyk]
+
+-xl-ÒA-kw’a-mit [vb] smell
+Forms: aixen¬akw’Åmanit “he is try- ing to get the scent of her; he is smelling her” imxen¬akw’amit! “smell it[i-]!” iginxel¬akw’amit “I smelt it[i-] (as to put one’s nose down to get a scent)” [Dyk]
+Notes: Literally means “cause oneself to smell;” see -l-¬a-kw’a-mit.
+
+-xm-ÒA-ma-kw [vb] rebuke for not having helped, give someone a hard time for not having helped
+Forms: chixem¬Åmagwax “he is re- buking him” ichaxem¬Åmakwachk “I rebuked him” [Dyk]
+
+-ÒA-mit [vb] move, take (someone) along when moving
+Forms: chiu¬amit “he has him moved; he is taking him along when moving” chiak¬Åmalit “he is moving him to a different places on it[a-] (for instance, a truck)” [Dyk]
+See also: -k-ÒAYU, -k-ÒAIW-it
+
+-k-ÒA-mit [vb] change, move onto
+Forms: nachdik¬Åmida “he changed it, he moved it[it-] (onto something else)” nakdik¬Åmida “she moved it[it-] over, she changed it” nachdenk¬Åmida “he moved it[it-] onto me” [GT suggested with a laugh that “it” in the last form could be “powers.”] [GT 6/10/99]
+Examples: Nachaik¬Åmidaxdix akw’Å¬q iladamba. “He moved the basket over onto the table.” [GT 6/ 10/99]
+
+¬ablat [adv] much, many, lots
+
+
+
+
+
+
+
+
+
