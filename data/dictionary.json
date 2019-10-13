@@ -5724,6 +5724,36 @@
       }
     ]
   },
+  "-a-k'-ŁMA": {
+    "root": "-a-k'-ŁMA",
+    "partOfSpeech": "vb",
+    "definition": "do for the last time",
+    "forms": [
+      {
+        "kiksht": "chiak'łmat",
+        "english": "he is doing it[i-] for the last time"
+      },
+      {
+        "kiksht": "yaxak'łmat",
+        "english": "he is doing for the last time, his last time"
+      },
+      {
+        "kiksht": "yaxak'atłmat",
+        "english": "he was doing for the last time"
+      },
+      {
+        "kiksht": "iyaxak'łma",
+        "english": "he did himself for the last time"
+      },
+      {
+        "kiksht": "igaxak'łma",
+        "english": "she did herself for the last time"
+      }
+    ],
+    "seeAlso": [
+      "it-kałmagwax"
+    ]
+  },
   "-a-k-LA-qw": {
     "root": "-a-k-LA-qw",
     "partOfSpeech": "vb",
@@ -10629,6 +10659,63 @@
       "-ŁA-mit"
     ]
   },
+  "-k-ŁMA": {
+    "root": "-k-ŁMA",
+    "partOfSpeech": "vb",
+    "definition": "be next to, have next to , put next to",
+    "forms": [
+      {
+        "kiksht": "chiakłmat",
+        "english": "he has it[i-] next to her"
+      },
+      {
+        "kiksht": "chiakłmnił",
+        "english": "he is putting it[i- ] next to her (several times, or regu- larly)"
+      },
+      {
+        "kiksht": "ichiakłmá",
+        "english": "he put it[i-] next to her"
+      },
+      {
+        "kiksht": "yaxagatłmát",
+        "english": "he was next to her (next in turn, next in line)"
+      },
+      {
+        "kiksht": "yakłmat",
+        "english": "he is next to her (as on a bench) [Dyk]"
+      }
+    ]
+  },
+  "-k-ŁMA-kw": {
+    "root": "-k-ŁMA-kw",
+    "partOfSpeech": "vb",
+    "definition": "do for the last time, have for the last time, take farewell of, take one's leave",
+    "forms": [
+      {
+        "kiksht": "alaxaigatłmagwachgwayaxdix",
+        "english": "she will live to see for the last time"
+      },
+      {
+        "kiksht": "chaikłmágwaxix",
+        "english": "he is doing it[a-], enjoying it for the last time"
+      },
+      {
+        "kiksht": "yaxagátłmagwax",
+        "english": "he was taking fare- well of her"
+      },
+      {
+        "kiksht": "ixikłmagwaxix",
+        "english": "he is enjoying himself for the last time; he is here for the last time"
+      },
+      {
+        "kiksht": "ixigatłmágwaxix",
+        "english": "he was here for the last time [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-kałmagwax"
+    ]
+  },
   "-kag̲wámx": {
     "root": "-kag̲wámx",
     "partOfSpeech": "n",
@@ -13374,6 +13461,32 @@
     ],
     "seeAlso": [
       "-a-gl- G̲AYA, -a-xl- G̲AYA"
+    ]
+  },
+  "-sh-i-k-ŁM-nił-ix": {
+    "root": "-sh-i-k-ŁM-nił-ix",
+    "partOfSpeech": "vb",
+    "definition": "cry loud",
+    "forms": [
+      {
+        "kiksht": "akshikłemniłayaxdix",
+        "english": "she will cry"
+      },
+      {
+        "kiksht": "kshikłemniłix",
+        "english": "she is crying"
+      },
+      {
+        "kiksht": "chshikłemniłix",
+        "english": "he is crying"
+      },
+      {
+        "kiksht": "ikshikłemniłchgix",
+        "english": "she cried [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ish-káłmniłix"
     ]
   },
   "-sh-i-n-GWIYA-dix": {
@@ -17804,6 +17917,27 @@
       }
     ]
   },
+  "-xi-x-ŁM-kw'-dix": {
+    "root": "-xi-x-ŁM-kw'-dix",
+    "partOfSpeech": "vb",
+    "definition": "cure oneself with heat, put heat on one's back",
+    "forms": [
+      {
+        "kiksht": "anxixłmkw'ayaxdix",
+        "english": "I'm go- ing to cure myself with heat, put heat on my back"
+      },
+      {
+        "kiksht": "nxixłmkw'dix",
+        "english": "I'm put- ting heat on my back"
+      }
+    ],
+    "notes": [
+      "This involved sitting or lying by the stove or fire with one's back to it to put heat on one's back. Appar- ently this was a form of cure."
+    ],
+    "seeAlso": [
+      "-k-ŁMA"
+    ]
+  },
   "-xl-CHM-l-it": {
     "root": "-xl-CHM-l-it",
     "partOfSpeech": "vb",
@@ -18350,6 +18484,41 @@
     ],
     "seeAlso": [
       "-n-Q'NA, -xn-Q'NAN, -n- Q'NAN"
+    ]
+  },
+  "-xn-ŁM-chm": {
+    "root": "-xn-ŁM-chm",
+    "partOfSpeech": "vb",
+    "definition": "fish with spear, prepare to spear",
+    "forms": [
+      {
+        "kiksht": "alixenłemchma",
+        "english": "he will fish with spear"
+      },
+      {
+        "kiksht": "enxenłemchem",
+        "english": "I am poised to spear"
+      },
+      {
+        "kiksht": "ixenłemchem",
+        "english": "he is poised to spear; he is fishing with spear"
+      },
+      {
+        "kiksht": "ixitłemchem",
+        "english": "he was fishing with spear"
+      },
+      {
+        "kiksht": "igixenłemchem",
+        "english": "he fished with spear"
+      },
+      {
+        "kiksht": "ninxenłemchem",
+        "english": "I was waiting to spear (last season)"
+      },
+      {
+        "kiksht": "ninxitłemchem",
+        "english": "I was waiting to spear (last week) [Dyk]"
+      }
     ]
   },
   "-ániwat": {
@@ -18964,6 +19133,14 @@
         "kiksht": "Gałgwułem walxayu.",
         "english": "They speared the seal. [WTI.4.1]"
       }
+    ]
+  },
+  "-ŁMA": {
+    "root": "-ŁMA",
+    "partOfSpeech": "vb",
+    "definition": "do/put next",
+    "notes": [
+      "[It is not clear whether this is simply an alternate form of -łm or a distinct root.]"
     ]
   },
   "-ł-gl-KWSHTX̲": {
@@ -45751,6 +45928,26 @@
       "dałal, i-k'iłel"
     ]
   },
+  "i- -łpálumit": {
+    "root": "i- -łpálumit",
+    "partOfSpeech": "adj n",
+    "definition": "red",
+    "forms": [
+      {
+        "kiksht": "iyałpálumit",
+        "english": "he is red"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Mtgiuqmit iyałpálumit.",
+        "english": "You 2 can see that he is red. [WTI.4.9]"
+      }
+    ],
+    "seeAlso": [
+      "dałbål"
+    ]
+  },
   "i-'ish'ish": {
     "root": "i-'ish'ish",
     "partOfSpeech": "n",
@@ -58455,6 +58652,12 @@
       }
     ]
   },
+  "ił-łpuksh": {
+    "root": "ił-łpuksh",
+    "partOfSpeech": "n",
+    "definition": "branch of tree, limb of tree",
+    "forms": []
+  },
   "iłac'imam iłk'ílagwadit": {
     "root": "iłac'imam iłk'ílagwadit",
     "partOfSpeech": "n",
@@ -61599,6 +61802,11 @@
       "id-mał, małn, k'amałmt, it-k'umałmt"
     ]
   },
+  "wi-łq": {
+    "root": "wi-łq",
+    "partOfSpeech": "n",
+    "definition": "body, flesh"
+  },
   "wá-chaqchaq": {
     "root": "wá-chaqchaq",
     "partOfSpeech": "n",
@@ -62005,6 +62213,14 @@
     "definition": "point to them/it!",
     "seeAlso": [
       "-l-QTI"
+    ]
+  },
+  "łemxwlémt": {
+    "root": "łemxwlémt",
+    "partOfSpeech": "adv",
+    "definition": "in Sahaptin",
+    "seeAlso": [
+      "i-łemxwlixul"
     ]
   },
   "łenxilax": {
@@ -62673,6 +62889,22 @@
     "definition": "go tell them!",
     "seeAlso": [
       "-LXAM"
+    ]
+  },
+  "łnenłagwax": {
+    "root": "łnenłagwax",
+    "partOfSpeech": "vb",
+    "definition": "I have chills, I'm shivering",
+    "seeAlso": [
+      "-ł-n-ŁA-kw"
+    ]
+  },
+  "łpål": {
+    "root": "łpål",
+    "partOfSpeech": "part",
+    "definition": "reddish",
+    "seeAlso": [
+      "dałbål"
     ]
   },
   "łáglalitix": {

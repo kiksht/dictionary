@@ -17261,3 +17261,59 @@ See also: -LXAM
 -ÒM [vb] strike, stab, spear
 Forms: andu¬maya “I’ll spear them” endu¬emni¬ “I am spearing them” chiu¬emni¬ “he is spearing it[i-] (now and again, every now and then)” chiu¬emnu¬ “he is spearing it[i-] (right along, as when fish are thick)” [Note: “According to Phillip Kahclamat, the last can hardly be used for anything but to spear fish. The other may be used as while fish- ing he struck a rock instead.”] chiu¬émt “he has it[i-] speared” chiu¬emdix “he is striking it (once)” inyu¬ém “I stabbed, speared him (once)” chiu¬emix “he struck him” nichdu¬emnu¬, nichdu¬emni¬ “he was spearing them (last season)” nichtt¬emnu¬, nichtt¬emni¬ “he was spearing them (last week)” gachu¬émx “he speared her” gachu¬emni¬ “he speared her (several times; regularly)” gachdu¬emnu¬ “he spears them (regularly)” gachdu¬emni¬ “he spears them (con- sidered as a bunch) (regularly)” achi ̈¬mama “he’ll go to spear him” chiu¬émdixba “at, to a place where he spreared it[i-], a place where it struck” [Note from Dyk: “The case of -nu¬ may be the only example I have of -l-¬ without an element between. Here contrasting with ni¬: every now and then; nu¬ ‘right along, continu- ously.’ -l-¬ may actually be a continu- ous repetitive, or iterative.”] [Dyk]
 Examples: PalalÅi iqw’Ånixmax chiu¬emnu¬. “He is spearing lots of steelhead.” Kˆnuwa chiu¬emni¬ iqw’Ånixmax. “He is unable to spear the steel head, is trying and can’t.” [Dyk] Gachiu¬em ik’auwan. “He speared the white salmon.” [WTI.1g.3] Ga¬gwu¬em walxayu. “They speared the seal.” [WTI.4.1]
+
+
+
+
+
+
+
+
+
+-xn-ÒM-chm [vb] fish with spear, prepare to spear
+Forms: alixen¬emchma “he will fish with spear” enxen¬emchem “I am poised to spear” ixen¬emchem “he is poised to spear; he is fishing with spear” ixit¬emchem “he was fishing with spear” igixen¬emchem “he fished with spear” ninxen¬emchem “I was waiting to spear (last season)” ninxit¬emchem “I was waiting to spear (last week)” [Dyk]
+
+-xi-x-ÒM-kw’-dix [vb] cure oneself with heat, put heat on one’s back
+Forms: anxix¬mkw’ayaxdix “I’m go- ing to cure myself with heat, put heat on my back” nxix¬mkw’dix “I’m put- ting heat on my back”
+Notes: This involved sitting or lying by the stove or fire with one’s back to it to put heat on one’s back. Appar- ently this was a form of cure.
+See also: -k-ÒMA
+
+-sh-i-k-ÒM-ni¬-ix [vb] cry loud
+Forms: akshik¬emni¬ayaxdix “she will cry” kshik¬emni¬ix “she is crying” chshik¬emni¬ix “he is crying” ikshik¬emni¬chgix “she cried” [Dyk]
+See also: ish-kÅ¬mni¬ix
+
+-ÒMA [vb] do/put next
+Notes: [It is not clear whether this is simply an alternate form of -¬m or a distinct root.]
+
+-a-k’-ÒMA [vb] do for the last time
+Forms: chiak’¬mat “he is doing it[i-] for the last time” yaxak’¬mat “he is doing for the last time, his last time” yaxak’at¬mat “he was doing for the last time” iyaxak’¬ma “he did himself for the last time” igaxak’¬ma “she did herself for the last time”
+See also: it-ka¬magwax
+
+-k-ÒMA [vb] be next to, have next to , put next to
+Forms: chiak¬mat “he has it[i-] next to her” chiak¬mni¬ “he is putting it[i- ] next to her (several times, or regu- larly)” ichiak¬mÅ “he put it[i-] next to her” yaxagat¬mÅt “he was next to her (next in turn, next in line)” yak¬mat “he is next to her (as on a bench)” [Dyk]
+
+-k-ÒMA-kw [vb] do for the last time, have for the last time, take farewell of, take one’s leave
+Forms: alaxaigat¬magwachgwayaxdix “she will live to see for the last time” chaik¬mÅgwaxix “he is doing it[a-], enjoying it for the last time” yaxagÅt¬magwax “he was taking fare- well of her” ixik¬magwaxix “he is enjoying himself for the last time; he is here for the last time” ixigat¬mÅgwaxix “he was here for the last time” [Dyk]
+See also: it-ka¬magwax
+
+¬emxwlémt [adv] in Sahaptin
+See also: i-¬emxwlixul
+
+¬nen¬agwax [vb] I have chills, I’m shivering
+See also: -¬-n-ÒA-kw
+
+¬pål [part] reddish
+See also: da¬bål
+
+i- -¬pÅlumit [adj n] red
+Forms: iya¬pÅlumit “he is red”
+Examples: Mtgiuqmit iya¬pÅlumit. “You 2 can see that he is red.” [WTI.4.9]
+See also: da¬bål
+
+i¬-¬puksh [n] branch of tree, limb of tree
+Forms: Does not change for plural.
+
+wi-¬q [n] body, flesh
+
+
+
