@@ -15356,3 +15356,39 @@ Notes: Generally implies shoving or pointing down into a hole.
 
 -k-KWT-kw [vb] rub on
 Forms: chiagukwtgwÅx “he is rub- bing it[i-] on her” chiagatkwtgwax “he was rubbing it[i-] on her” chiagukwtgwÅlchk “he is rubbing it[i- ] on her (several times, continually)” ichiagukwtkwÅchk “he rubbed it[i-] on her (several times)” ganshgigukwtgwÅchwkwaxix “we rubbed it[i-] on it[i-] (a place) (sev- eral times)” yuxukwtgwax “she is rubbing it[i-] on herself” yagukwtgwachkux “it[i-] is, has been (several times) rubbed on her” ayagukwtgwachkuxida “it[i-] will be rubbed on her (several times)” iyagukwtgwachkuxit “it[i-] became rubbed on her” [Dyk]
+
+
+
+
+
+
+
+
+
+
+-l-KWT-kw [vb] stick into back and forth, shove in and out, poke around inside
+Forms: chailukwtgwax “he is shoving it[a-] in and out of it[i-]” chialukwtgwax “he is pointing, stick- ing it[i-] into it[a-] back and forth” chiaitkwtgwÅx “he was sticking it[i-] into it[a-] back and forth” gachialukwtkwÅchk “he stuck it[i-] back and forth into it[a-]” chalk’ikwtgwax “he is poking around inside of it[a-]” chaitk’ikwtgwax “he was poking around inside of it[a-]” ichalk’ikwtkwachk “he poked around inside of it[a-]” yaxlukwtgwÅx “she is poking it[i-] back and forth in her- self” galixluktkwachk “he stuck it[i-] into himself and worked it back and forth” [Dyk]
+
+-i-©l-KWT-pa [vb] stick out from
+Forms: galixi©itkwtbaix “he stuck himself out (of a hole or opening)” ganxi©itkwtbaix “I stuck myself out (of a hole or opening)” [Dyk]
+
+-l-KWT-wulx [vb] shove up into, point up inside
+Forms: chialukwdwulxt “he has it[i-] inside of it[a-] pointing up” chailukwdwulxdix “he has it[a-] shoved up into it[i-] (hole)” [Dyk] it-kwt¬a’am [n] dew, wetness on grass or leaves after rain
+
+-KWTÒP [vb] miss (in shooting, throwing)
+Forms: aniukt¬baninx¬a “I will miss him (continually)” achdukwt¬bninx¬a “he will miss them (all) (for instance, fish with spear)” niukt¬baninx¬ “I am missing him” chiukwt¬bninx¬ “he is missing him (continually)” chdukwt¬bninx¬ “he is missing them (continually) (for instance, fish with spear)” niukt¬bani¬ “I am missing him (every time)” chiukwt¬bnˆ¬ “he is missing him (every now and then)” chdukwt¬beni¬ “he is missing them (every time)” niukt¬px “I am missing him (once)” chi ̈kwt¬pt “he has him missed (for instance, with a rock)” chdukwt¬px “he has them missed” chitkwt¬px “he had him missed” ichiukwt¬ba, ichiukwt¬pa “he missed him” ichdukwt¬pa “he missed them” chdukwt¬bninx¬chk “he missed them (all) (for instance, fish with spear)” niniukt¬baninx¬chk “I had missed him (continually)” niniukt¬baninx¬ “I was missing him (continually)” yukwt¬px “he is missed” ik’ˆkwt¬beninx¬ “he is missing” [Dyk]
+
+-KWTÒWA [vb] sneak, have sneak, make sneak
+Forms: chiukwt¬wat “he has him sneaking (as when commanding a dog to sneak up on a victim)” [Dyk]
+
+-x-KWTÒWA [vb] sneak, sneak about, sneak away
+Forms: ixkwt¬wanan “he is sneaking about” uxakwt¬wat “they are sneak- ing away” uxatkwt¬wat “they are sneaking (this way, as a group)” uxatkwt¬wayut “they are sneaking (this way, individuallly)” [Dyk]
+
+-KWTÒWA-qw [vb] make to sneak up, cause to sneak up
+Forms: yukwt¬waqux “he has been made to sneak up” yukwt¬wÅqwt “he is being made to sneak up” [Dyk]
+
+-k-KWTÒWA-qw [vb] make to sneak up on, cause to sneak up on
+Forms: chiakkwt¬waqwt “he is mak- ing him sneak up on her” akkwt¬waqux “she has been made to sneak up on her” [Dyk]
+
+-x-k-KWTÒWA-qw [vb] sneak up on
+Forms: alaxatgatkt¬wa©wa “she will sneak up on us 2 (distant future)” yaxakkwt¬waqt “he is sneaking up on her” uxaxak’ikwt¬wanan “they are sneaking up on one another” niguxaxak’ikwt¬wanan “they were sneaking up on one another (last season)” niguxatxatk’ikwt¬wanan “they were sneaking up on one an- other (last week)” [first -t- incompre- hensible] igaxagitkwt¬wanan “she was sneaking up on her” nishxangitkwt¬wanan “they 2 were sneaking up on me” [GT 6/4/98]

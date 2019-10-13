@@ -4371,6 +4371,115 @@
       }
     ]
   },
+  "-KWTŁP": {
+    "root": "-KWTŁP",
+    "partOfSpeech": "vb",
+    "definition": "miss (in shooting, throwing)",
+    "forms": [
+      {
+        "kiksht": "aniuktłbaninxła",
+        "english": "I will miss him (continually)"
+      },
+      {
+        "kiksht": "achdukwtłbninxła",
+        "english": "he will miss them (all) (for instance, fish with spear)"
+      },
+      {
+        "kiksht": "niuktłbaninxł",
+        "english": "I am missing him"
+      },
+      {
+        "kiksht": "chiukwtłbninxł",
+        "english": "he is missing him (continually)"
+      },
+      {
+        "kiksht": "chdukwtłbninxł",
+        "english": "he is missing them (continually) (for instance, fish with spear)"
+      },
+      {
+        "kiksht": "niuktłbanił",
+        "english": "I am missing him (every time)"
+      },
+      {
+        "kiksht": "chiukwtłbníł",
+        "english": "he is missing him (every now and then)"
+      },
+      {
+        "kiksht": "chdukwtłbenił",
+        "english": "he is missing them (every time)"
+      },
+      {
+        "kiksht": "niuktłpx",
+        "english": "I am missing him (once)"
+      },
+      {
+        "kiksht": "chiúkwtłpt",
+        "english": "he has him missed (for instance, with a rock)"
+      },
+      {
+        "kiksht": "chdukwtłpx",
+        "english": "he has them missed"
+      },
+      {
+        "kiksht": "chitkwtłpx",
+        "english": "he had him missed"
+      },
+      {
+        "kiksht": "ichiukwtłba, ichiukwtłpa",
+        "english": "he missed him"
+      },
+      {
+        "kiksht": "ichdukwtłpa",
+        "english": "he missed them"
+      },
+      {
+        "kiksht": "chdukwtłbninxłchk",
+        "english": "he missed them (all) (for instance, fish with spear)"
+      },
+      {
+        "kiksht": "niniuktłbaninxłchk",
+        "english": "I had missed him (continually)"
+      },
+      {
+        "kiksht": "niniuktłbaninxł",
+        "english": "I was missing him (continually)"
+      },
+      {
+        "kiksht": "yukwtłpx",
+        "english": "he is missed"
+      },
+      {
+        "kiksht": "ik'íkwtłbeninxł",
+        "english": "he is missing [Dyk]"
+      }
+    ]
+  },
+  "-KWTŁWA": {
+    "root": "-KWTŁWA",
+    "partOfSpeech": "vb",
+    "definition": "sneak, have sneak, make sneak",
+    "forms": [
+      {
+        "kiksht": "chiukwtłwat",
+        "english": "he has him sneaking (as when commanding a dog to sneak up on a victim) [Dyk]"
+      }
+    ]
+  },
+  "-KWTŁWA-qw": {
+    "root": "-KWTŁWA-qw",
+    "partOfSpeech": "vb",
+    "definition": "make to sneak up, cause to sneak up",
+    "forms": [
+      {
+        "kiksht": "yukwtłwaqux",
+        "english": "he has been made to sneak up"
+      },
+      {
+        "kiksht": "yukwtłwáqwt",
+        "english": "he is being made to sneak up [Dyk]"
+      }
+    ]
+  },
   "-KWŁ": {
     "root": "-KWŁ",
     "partOfSpeech": "vb",
@@ -7286,6 +7395,21 @@
       "it-kmak'áq"
     ]
   },
+  "-i-g̲l-KWT-pa": {
+    "root": "-i-g̲l-KWT-pa",
+    "partOfSpeech": "vb",
+    "definition": "stick out from",
+    "forms": [
+      {
+        "kiksht": "galixig̲itkwtbaix",
+        "english": "he stuck himself out (of a hole or opening)"
+      },
+      {
+        "kiksht": "ganxig̲itkwtbaix",
+        "english": "I stuck myself out (of a hole or opening) [Dyk]"
+      }
+    ]
+  },
   "-i-l-BWA-mit": {
     "root": "-i-l-BWA-mit",
     "partOfSpeech": "vb",
@@ -8267,6 +8391,21 @@
       {
         "kiksht": "iyagukwtgwachkuxit",
         "english": "it[i-] became rubbed on her [Dyk]"
+      }
+    ]
+  },
+  "-k-KWTŁWA-qw": {
+    "root": "-k-KWTŁWA-qw",
+    "partOfSpeech": "vb",
+    "definition": "make to sneak up on, cause to sneak up on",
+    "forms": [
+      {
+        "kiksht": "chiakkwtłwaqwt",
+        "english": "he is mak- ing him sneak up on her"
+      },
+      {
+        "kiksht": "akkwtłwaqux",
+        "english": "she has been made to sneak up on her [Dyk]"
       }
     ]
   },
@@ -9313,6 +9452,64 @@
     ],
     "notes": [
       "Generally implies shoving or pointing down into a hole."
+    ]
+  },
+  "-l-KWT-kw": {
+    "root": "-l-KWT-kw",
+    "partOfSpeech": "vb",
+    "definition": "stick into back and forth, shove in and out, poke around inside",
+    "forms": [
+      {
+        "kiksht": "chailukwtgwax",
+        "english": "he is shoving it[a-] in and out of it[i-]"
+      },
+      {
+        "kiksht": "chialukwtgwax",
+        "english": "he is pointing, stick- ing it[i-] into it[a-] back and forth"
+      },
+      {
+        "kiksht": "chiaitkwtgwáx",
+        "english": "he was sticking it[i-] into it[a-] back and forth"
+      },
+      {
+        "kiksht": "gachialukwtkwáchk",
+        "english": "he stuck it[i-] back and forth into it[a-]"
+      },
+      {
+        "kiksht": "chalk'ikwtgwax",
+        "english": "he is poking around inside of it[a-]"
+      },
+      {
+        "kiksht": "chaitk'ikwtgwax",
+        "english": "he was poking around inside of it[a-]"
+      },
+      {
+        "kiksht": "ichalk'ikwtkwachk",
+        "english": "he poked around inside of it[a-]"
+      },
+      {
+        "kiksht": "yaxlukwtgwáx",
+        "english": "she is poking it[i-] back and forth in her- self"
+      },
+      {
+        "kiksht": "galixluktkwachk",
+        "english": "he stuck it[i-] into himself and worked it back and forth [Dyk]"
+      }
+    ]
+  },
+  "-l-KWT-wulx": {
+    "root": "-l-KWT-wulx",
+    "partOfSpeech": "vb",
+    "definition": "shove up into, point up inside",
+    "forms": [
+      {
+        "kiksht": "chialukwdwulxt",
+        "english": "he has it[i-] inside of it[a-] pointing up"
+      },
+      {
+        "kiksht": "chailukwdwulxdix",
+        "english": "he has it[a-] shoved up into it[i-] (hole) [Dyk] it-kwtła'am [n] dew, wetness on grass or leaves after rain"
+      }
     ]
   },
   "-l-KWŁI": {
@@ -12338,6 +12535,29 @@
       "i-qaukshlit, i-qakwshlit"
     ]
   },
+  "-x-KWTŁWA": {
+    "root": "-x-KWTŁWA",
+    "partOfSpeech": "vb",
+    "definition": "sneak, sneak about, sneak away",
+    "forms": [
+      {
+        "kiksht": "ixkwtłwanan",
+        "english": "he is sneaking about"
+      },
+      {
+        "kiksht": "uxakwtłwat",
+        "english": "they are sneak- ing away"
+      },
+      {
+        "kiksht": "uxatkwtłwat",
+        "english": "they are sneaking (this way, as a group)"
+      },
+      {
+        "kiksht": "uxatkwtłwayut",
+        "english": "they are sneaking (this way, individuallly) [Dyk]"
+      }
+    ]
+  },
   "-x-KWŁI": {
     "root": "-x-KWŁI",
     "partOfSpeech": "vb",
@@ -12688,6 +12908,41 @@
     ],
     "notes": [
       "This verb appears to have meant originally to eat at other than a set or customary time, and then presumably took on the meaning \"eat lunch\" because Anglo-American \"lunch\" seemed like a \"between- times\" meal to the original Wasco schedule."
+    ]
+  },
+  "-x-k-KWTŁWA-qw": {
+    "root": "-x-k-KWTŁWA-qw",
+    "partOfSpeech": "vb",
+    "definition": "sneak up on",
+    "forms": [
+      {
+        "kiksht": "alaxatgatktłwag̲wa",
+        "english": "she will sneak up on us 2 (distant future)"
+      },
+      {
+        "kiksht": "yaxakkwtłwaqt",
+        "english": "he is sneaking up on her"
+      },
+      {
+        "kiksht": "uxaxak'ikwtłwanan",
+        "english": "they are sneaking up on one another"
+      },
+      {
+        "kiksht": "niguxaxak'ikwtłwanan",
+        "english": "they were sneaking up on one another (last season)"
+      },
+      {
+        "kiksht": "niguxatxatk'ikwtłwanan",
+        "english": "they were sneaking up on one an- other (last week) [first -t- incompre- hensible]"
+      },
+      {
+        "kiksht": "igaxagitkwtłwanan",
+        "english": "she was sneaking up on her"
+      },
+      {
+        "kiksht": "nishxangitkwtłwanan",
+        "english": "they 2 were sneaking up on me [GT 6/4/98]"
+      }
     ]
   },
   "-x-l-GAYA-kw": {
