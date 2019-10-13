@@ -15318,3 +15318,41 @@ Forms: anxaxelkw¬ichgwa “I will give the message” [GT 1/15/99] alixaxelkw¬
 -xl-KWÒI [vb] tell each other, tell one another, spread the news, spread the word
 Forms: gaduxwikw¬ichk “they told one another, they spread the news” [WTI.1d.8] galuxwikw¬ichk “they told one another about her” gatgenxelkw¬ichk “they told one another about me” [Dyk] aduxikw¬ichgwa “they will tell about him” [GT, MMc 1/15/99]
 See also: -KWÒI
+
+
+
+
+
+
+
+
+i-kw¬ilal [n] membrum virile
+See also: i-k’alxix
+
+-x-KWSH-it [vb] go to bed
+Forms: anxukshida “I’ll go to bed” alixukshida. “he’ll go to bed” enxukshlit “I am going to bed” ixukwshlit “he is going to bed” ˆxukshit “he is in bed” emxukshit! “go to bed!” emxatkwshit! “come to bed!” inxukshit “I just went to bed” igixukshit “he just went to bed” galixukshlit “he is in the habit of going to bed” galixukshlit “he is in the habit of going to bed” ixukwshidamt “he is going to bed, is going there to bed” ixatkwshidamt “he is coming to bed” inxukshitam “I went to bed” inxatkwshitam “I came to bed” igixukshitam “he went to bed” nigixatkwshitam “he came to bed” yaxaglkwshlit “he is going to bed for her (as when Indian doctor went to bed intending to dream of his patients)” yaxagmukshit “he is in bed next to her” [Dyk]
+Examples: Atxukshida atxushtka. “Let’s go to bed and make love.” Ganxukshlit dikÅ. “I sleep here.” P’ala galaxukshit. “She lay quietly.” [Dyk]
+Notes: Refers to going to bed with the intention of sleeping. Cannot be used of animals.
+See also: i-qaukshlit, i-qakwshlit
+
+i¬-kwshkw’iÅn [n] old hard pitch, dried [HS 6/23/56], soft pitch [PK 8/ 9/55], chewing gum (of pitch) [HS 5/ 23/54, PK 8/9/55, GT, MMc 6/4/98]
+Examples: Òkshigumdlgix i¬kwshkw’ian itqw¬iba qw’ap. “They 2 are burying pitch near the house.” [Dyk]
+
+-¬-gl-KWSHT ̨ [vb] scrape hide
+Forms: ¬agelkwshtxalal “she is scrap- ing a hide” a¬a©lushktxa “she will scrape a hide” [PK]
+See also: i-k’ikwshtxalal
+
+i-kwshxat [n] mouth, beak
+Forms: ishkwshxat “2 mouths” [Wa] itkwshxatksh [Dyk], itkwshxatuksh [Wa] “mouths” ikw’sxat “small mouth”
+
+-l-KWT [vb] put on, put onto
+Forms: chialukwdni¬ “he is putting it[i-] on her” shnxlukwdni¬ “I am putting them 2 (for instance, pants) on (myself)” shixlukwdni¬ “he is putting them 2 on (himself)” [Dyk, who notes that last 2 forms might be from root -kwdi.]
+Notes: The root -kwt-, which appar- ently has the basic meaning “place, put,” is a part of many stems but apparently does not occur by itself. Sometimes, unpredictably, the -w- is omitted, so that it becomes simply - kt.
+See also: -KWT
+
+-l-KWT-chu [vb] shove into, point down into
+Forms: chial ̈kwtchx “he has it[i-] shoved in it[a-], he has it[i-] inside of it[a-] pointing down” chialuktch¬ “he is shoving it[i-] in it[a-]” chailuktchxix “he has it[a-] shoved in it[i-] (a hole)” chiaitkwtchx “he had it[i-] shoved into it[a-]” ichialukwctchu “he shoved it[i-] into it[a-]; he pointed it[i-] down into it[a- ]” ichailuktchu “he shoved it[a-] into it[i-]” ichailuktchuix “he shoved it[a- ] into it[i-] (a hole)” nichaitktchuix “he shoved it[a-] into it[i-] (a hole)” gachil ̈ktchuxix, gachil ̈ktchuix “he shoved it[i-] into it[i-] (a hole)” gaqtiluktchuix “they were shoved into it[i-] (a hole)” [Dyk]
+Notes: Generally implies shoving or pointing down into a hole.
+
+-k-KWT-kw [vb] rub on
+Forms: chiagukwtgwÅx “he is rub- bing it[i-] on her” chiagatkwtgwax “he was rubbing it[i-] on her” chiagukwtgwÅlchk “he is rubbing it[i- ] on her (several times, continually)” ichiagukwtkwÅchk “he rubbed it[i-] on her (several times)” ganshgigukwtgwÅchwkwaxix “we rubbed it[i-] on it[i-] (a place) (sev- eral times)” yuxukwtgwax “she is rubbing it[i-] on herself” yagukwtgwachkux “it[i-] is, has been (several times) rubbed on her” ayagukwtgwachkuxida “it[i-] will be rubbed on her (several times)” iyagukwtgwachkuxit “it[i-] became rubbed on her” [Dyk]

@@ -8227,6 +8227,49 @@
       "Unless -u- precedes or the directional -t- follows, the -k- rela- tional prefix disappears before the initial -k- of the root -kim. When -t- is used, however, -k- appears as -x-, as is usual before -t-. When -u- pre- cedes, -k- becomes -gwa- or -ga-, as is usual after -u-."
     ]
   },
+  "-k-KWT-kw": {
+    "root": "-k-KWT-kw",
+    "partOfSpeech": "vb",
+    "definition": "rub on",
+    "forms": [
+      {
+        "kiksht": "chiagukwtgwáx",
+        "english": "he is rub- bing it[i-] on her"
+      },
+      {
+        "kiksht": "chiagatkwtgwax",
+        "english": "he was rubbing it[i-] on her"
+      },
+      {
+        "kiksht": "chiagukwtgwálchk",
+        "english": "he is rubbing it[i- ] on her (several times, continually)"
+      },
+      {
+        "kiksht": "ichiagukwtkwáchk",
+        "english": "he rubbed it[i-] on her (several times)"
+      },
+      {
+        "kiksht": "ganshgigukwtgwáchwkwaxix",
+        "english": "we rubbed it[i-] on it[i-] (a place) (sev- eral times)"
+      },
+      {
+        "kiksht": "yuxukwtgwax",
+        "english": "she is rubbing it[i-] on herself"
+      },
+      {
+        "kiksht": "yagukwtgwachkux",
+        "english": "it[i-] is, has been (several times) rubbed on her"
+      },
+      {
+        "kiksht": "ayagukwtgwachkuxida",
+        "english": "it[i-] will be rubbed on her (several times)"
+      },
+      {
+        "kiksht": "iyagukwtgwachkuxit",
+        "english": "it[i-] became rubbed on her [Dyk]"
+      }
+    ]
+  },
   "-k-xa-IMA-wulx": {
     "root": "-k-xa-IMA-wulx",
     "partOfSpeech": "vb",
@@ -9195,6 +9238,81 @@
     ],
     "seeAlso": [
       "-l-KA-łx"
+    ]
+  },
+  "-l-KWT": {
+    "root": "-l-KWT",
+    "partOfSpeech": "vb",
+    "definition": "put on, put onto",
+    "forms": [
+      {
+        "kiksht": "chialukwdnił",
+        "english": "he is putting it[i-] on her"
+      },
+      {
+        "kiksht": "shnxlukwdnił",
+        "english": "I am putting them 2 (for instance, pants) on (myself)"
+      },
+      {
+        "kiksht": "shixlukwdnił",
+        "english": "he is putting them 2 on (himself) [Dyk, who notes that last 2 forms might be from root -kwdi.]"
+      }
+    ],
+    "notes": [
+      "The root -kwt-, which appar- ently has the basic meaning \"place, put,\" is a part of many stems but apparently does not occur by itself. Sometimes, unpredictably, the -w- is omitted, so that it becomes simply - kt."
+    ],
+    "seeAlso": [
+      "-KWT"
+    ]
+  },
+  "-l-KWT-chu": {
+    "root": "-l-KWT-chu",
+    "partOfSpeech": "vb",
+    "definition": "shove into, point down into",
+    "forms": [
+      {
+        "kiksht": "chialúkwtchx",
+        "english": "he has it[i-] shoved in it[a-], he has it[i-] inside of it[a-] pointing down"
+      },
+      {
+        "kiksht": "chialuktchł",
+        "english": "he is shoving it[i-] in it[a-]"
+      },
+      {
+        "kiksht": "chailuktchxix",
+        "english": "he has it[a-] shoved in it[i-] (a hole)"
+      },
+      {
+        "kiksht": "chiaitkwtchx",
+        "english": "he had it[i-] shoved into it[a-]"
+      },
+      {
+        "kiksht": "ichialukwctchu",
+        "english": "he shoved it[i-] into it[a-]; he pointed it[i-] down into it[a- ]"
+      },
+      {
+        "kiksht": "ichailuktchu",
+        "english": "he shoved it[a-] into it[i-]"
+      },
+      {
+        "kiksht": "ichailuktchuix",
+        "english": "he shoved it[a- ] into it[i-] (a hole)"
+      },
+      {
+        "kiksht": "nichaitktchuix",
+        "english": "he shoved it[a-] into it[i-] (a hole)"
+      },
+      {
+        "kiksht": "gachilúktchuxix, gachilúktchuix",
+        "english": "he shoved it[i-] into it[i-] (a hole)"
+      },
+      {
+        "kiksht": "gaqtiluktchuix",
+        "english": "they were shoved into it[i-] (a hole) [Dyk]"
+      }
+    ],
+    "notes": [
+      "Generally implies shoving or pointing down into a hole."
     ]
   },
   "-l-KWŁI": {
@@ -12117,6 +12235,109 @@
       }
     ]
   },
+  "-x-KWSH-it": {
+    "root": "-x-KWSH-it",
+    "partOfSpeech": "vb",
+    "definition": "go to bed",
+    "forms": [
+      {
+        "kiksht": "anxukshida",
+        "english": "I'll go to bed"
+      },
+      {
+        "kiksht": "alixukshida.",
+        "english": "he'll go to bed"
+      },
+      {
+        "kiksht": "enxukshlit",
+        "english": "I am going to bed"
+      },
+      {
+        "kiksht": "ixukwshlit",
+        "english": "he is going to bed"
+      },
+      {
+        "kiksht": "íxukshit",
+        "english": "he is in bed"
+      },
+      {
+        "kiksht": "emxukshit!",
+        "english": "go to bed!"
+      },
+      {
+        "kiksht": "emxatkwshit!",
+        "english": "come to bed!"
+      },
+      {
+        "kiksht": "inxukshit",
+        "english": "I just went to bed"
+      },
+      {
+        "kiksht": "igixukshit",
+        "english": "he just went to bed"
+      },
+      {
+        "kiksht": "galixukshlit",
+        "english": "he is in the habit of going to bed"
+      },
+      {
+        "kiksht": "galixukshlit",
+        "english": "he is in the habit of going to bed"
+      },
+      {
+        "kiksht": "ixukwshidamt",
+        "english": "he is going to bed, is going there to bed"
+      },
+      {
+        "kiksht": "ixatkwshidamt",
+        "english": "he is coming to bed"
+      },
+      {
+        "kiksht": "inxukshitam",
+        "english": "I went to bed"
+      },
+      {
+        "kiksht": "inxatkwshitam",
+        "english": "I came to bed"
+      },
+      {
+        "kiksht": "igixukshitam",
+        "english": "he went to bed"
+      },
+      {
+        "kiksht": "nigixatkwshitam",
+        "english": "he came to bed"
+      },
+      {
+        "kiksht": "yaxaglkwshlit",
+        "english": "he is going to bed for her (as when Indian doctor went to bed intending to dream of his patients)"
+      },
+      {
+        "kiksht": "yaxagmukshit",
+        "english": "he is in bed next to her [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Atxukshida atxushtka.",
+        "english": "Let's go to bed and make love."
+      },
+      {
+        "kiksht": "Ganxukshlit diká.",
+        "english": "I sleep here."
+      },
+      {
+        "kiksht": "P'ala galaxukshit.",
+        "english": "She lay quietly. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to going to bed with the intention of sleeping. Cannot be used of animals."
+    ],
+    "seeAlso": [
+      "i-qaukshlit, i-qakwshlit"
+    ]
+  },
   "-x-KWŁI": {
     "root": "-x-KWŁI",
     "partOfSpeech": "vb",
@@ -13783,6 +14004,24 @@
     ],
     "seeAlso": [
       "yániwadix"
+    ]
+  },
+  "-ł-gl-KWSHTX̲": {
+    "root": "-ł-gl-KWSHTX̲",
+    "partOfSpeech": "vb",
+    "definition": "scrape hide",
+    "forms": [
+      {
+        "kiksht": "łagelkwshtxalal",
+        "english": "she is scrap- ing a hide"
+      },
+      {
+        "kiksht": "ałag̲lushktxa",
+        "english": "she will scrape a hide [PK]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ikwshtxalal"
     ]
   },
   "-ł-k-BWA": {
@@ -46032,6 +46271,33 @@
       "Borrowed from English."
     ]
   },
+  "i-kwshxat": {
+    "root": "i-kwshxat",
+    "partOfSpeech": "n",
+    "definition": "mouth, beak",
+    "forms": [
+      {
+        "kiksht": "ishkwshxat",
+        "english": "2 mouths [Wa] itkwshxatksh [Dyk], itkwshxatuksh [Wa]"
+      },
+      {
+        "kiksht": "",
+        "english": "mouths ikw'sxa"
+      },
+      {
+        "kiksht": "t",
+        "english": "small mouth"
+      }
+    ]
+  },
+  "i-kwłilal": {
+    "root": "i-kwłilal",
+    "partOfSpeech": "n",
+    "definition": "membrum virile",
+    "seeAlso": [
+      "i-k'alxix"
+    ]
+  },
   "i-kxalal": {
     "root": "i-kxalal",
     "partOfSpeech": "n",
@@ -51664,6 +51930,17 @@
     ],
     "seeAlso": [
       "i-kupi, ił-kupi"
+    ]
+  },
+  "ił-kwshkw'ián": {
+    "root": "ił-kwshkw'ián",
+    "partOfSpeech": "n",
+    "definition": "old hard pitch, dried [HS 6/23/56], soft pitch [PK 8/ 9/55], chewing gum (of pitch) [HS 5/ 23/54, PK 8/9/55, GT, MMc 6/4/98]",
+    "examples": [
+      {
+        "kiksht": "Łkshigumdlgix iłkwshkw'ian itqwłiba qw'ap.",
+        "english": "They 2 are burying pitch near the house. [Dyk]"
+      }
     ]
   },
   "ił-kálaikalai": {
