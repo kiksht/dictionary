@@ -6002,6 +6002,32 @@
       "a-l-IMA-łx"
     ]
   },
+  "-a-x-ŁTQ": {
+    "root": "-a-x-ŁTQ",
+    "partOfSpeech": "vb",
+    "definition": "kick",
+    "forms": [
+      {
+        "kiksht": "anxłtg̲lal",
+        "english": "I am kicking"
+      },
+      {
+        "kiksht": "aixłtg̲lal",
+        "english": "he is kicking"
+      },
+      {
+        "kiksht": "axłtg̲lal",
+        "english": "she is kicking"
+      },
+      {
+        "kiksht": "aixatłtg̲lál",
+        "english": "he was kicked [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁTQ"
+    ]
+  },
   "-a-xi-LXUŁ": {
     "root": "-a-xi-LXUŁ",
     "partOfSpeech": "vb",
@@ -10714,6 +10740,54 @@
     ],
     "seeAlso": [
       "it-kałmagwax"
+    ]
+  },
+  "-k-ŁTQ": {
+    "root": "-k-ŁTQ",
+    "partOfSpeech": "vb",
+    "definition": "kick",
+    "forms": [
+      {
+        "kiksht": "chigełtg̲lál",
+        "english": "he is kicking him"
+      },
+      {
+        "kiksht": "ichakłtq",
+        "english": "he kicked her"
+      },
+      {
+        "kiksht": "ichłkłtq",
+        "english": "he kicked them/it"
+      },
+      {
+        "kiksht": "ichukwáłtq",
+        "english": "he kicked them"
+      },
+      {
+        "kiksht": "nichakłtq",
+        "english": "he kicked her (last sea- son)"
+      },
+      {
+        "kiksht": "nichakatłtq",
+        "english": "he kicked her (last week)"
+      },
+      {
+        "kiksht": "igełtqix",
+        "english": "he is kicked, has been kicked"
+      },
+      {
+        "kiksht": "shgełtqix",
+        "english": "they 2 are kicked, have been kicked [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Chshxłtg̲lal ishp'áu.",
+        "english": "He's kicking the ball. [GT 6/9/99]"
+      }
+    ],
+    "seeAlso": [
+      "a-kałtq"
     ]
   },
   "-kag̲wámx": {
@@ -19171,6 +19245,89 @@
     "definition": "do/put next",
     "notes": [
       "[It is not clear whether this is simply an alternate form of -łm or a distinct root.]"
+    ]
+  },
+  "-ŁQW": {
+    "root": "-ŁQW",
+    "partOfSpeech": "vb",
+    "definition": "win, beat",
+    "forms": [
+      {
+        "kiksht": "chiulłq",
+        "english": "he is beating him"
+      },
+      {
+        "kiksht": "chdulłq",
+        "english": "he is beating them"
+      },
+      {
+        "kiksht": "qnułqwt",
+        "english": "I am being beaten"
+      },
+      {
+        "kiksht": "igilłq",
+        "english": "he is winning"
+      },
+      {
+        "kiksht": "ugwagilłq",
+        "english": "they are winning"
+      },
+      {
+        "kiksht": "igíłqwt",
+        "english": "he is in the lead"
+      },
+      {
+        "kiksht": "igikiłq",
+        "english": "he won"
+      },
+      {
+        "kiksht": "nułqux",
+        "english": "I am beaten, defeated"
+      },
+      {
+        "kiksht": "yułqúx",
+        "english": "he is beaten, has been beaten"
+      },
+      {
+        "kiksht": "yułg̲uxit",
+        "english": "he got beat"
+      },
+      {
+        "kiksht": "ichułq",
+        "english": "he beat her"
+      },
+      {
+        "kiksht": "ichułg̲wa",
+        "english": "he won from her"
+      },
+      {
+        "kiksht": "ichaixułq",
+        "english": "he won it[a-] from him"
+      },
+      {
+        "kiksht": "ichaxkiłq",
+        "english": "he won (something) from her"
+      },
+      {
+        "kiksht": "gashdułquxit",
+        "english": "they 2 were beaten [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "åsht igikiłq",
+        "english": "he finally won"
+      },
+      {
+        "kiksht": "åsht gashdułquxit",
+        "english": "they 2 were finally beaten [Dyk]"
+      }
+    ],
+    "notes": [
+      "The continuative suffix -l- goes before this root."
+    ],
+    "seeAlso": [
+      "-ŁKW, i-gilłq, i-gugwakiłq"
     ]
   },
   "-ŁQŁ": {
@@ -52897,6 +53054,36 @@
       "-(i)-xl-łla-ma-(ix)"
     ]
   },
+  "i-ługma": {
+    "root": "i-ługma",
+    "partOfSpeech": "n",
+    "definition": "gambling bone, handgame stick",
+    "forms": [],
+    "examples": [
+      {
+        "kiksht": "Iługma amshxshgama.",
+        "english": "You will gamble at bones. [WTI.4.7]"
+      }
+    ],
+    "seeAlso": [
+      "i-ługmax"
+    ]
+  },
+  "i-ługmax": {
+    "root": "i-ługmax",
+    "partOfSpeech": "n",
+    "definition": "bone game, stick game [Dyk]; gambling bone, stick-game bone [GT, MMc]",
+    "examples": [
+      {
+        "kiksht": "ixt iługmax",
+        "english": "one gambling bone"
+      },
+      {
+        "kiksht": "łablát itługmax",
+        "english": "lots of gam- bling bones [GT, MMc 6/3/98]"
+      }
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -55362,6 +55549,23 @@
     ],
     "seeAlso": [
       "wa-ixtksh, ish-ixtkisht, ish- łtkisht"
+    ]
+  },
+  "ish-łtkisht": {
+    "root": "ish-łtkisht",
+    "partOfSpeech": "n",
+    "definition": "ladder",
+    "forms": [
+      {
+        "kiksht": "idłtkisht",
+        "english": "ladders [GT 6/5/ 98]"
+      }
+    ],
+    "notes": [
+      "Means the same as ish-íxtksh. [GT 6/5/98]"
+    ],
+    "seeAlso": [
+      "ish-íxtksh"
     ]
   },
   "ishdimam": {
@@ -61702,6 +61906,17 @@
       }
     ]
   },
+  "wa-łtki": {
+    "root": "wa-łtki",
+    "partOfSpeech": "n",
+    "definition": "mussel shell",
+    "forms": [
+      {
+        "kiksht": "iłłtki",
+        "english": "mussel shells"
+      }
+    ]
+  },
   "wi-'ísh": {
     "root": "wi-'ísh",
     "partOfSpeech": "n",
@@ -62978,19 +63193,42 @@
   "łq'ap": {
     "root": "łq'ap",
     "partOfSpeech": "part",
-    "definition": "meet in passing, meet",
+    "definition": "fit for, in time",
     "examples": [
       {
-        "kiksht": "Łq'ap ichuxa.",
-        "english": "He met her. [Dyk]"
+        "kiksht": "K'aya maika łq'ap dauya.",
+        "english": "You are not fit for this. [WTI.10.5]"
       },
       {
-        "kiksht": "Iłag̲wnmixba ag̲a łq'ap galigug̲wámx qw'ábixix g̲wnmabet ishk'ichax.",
-        "english": "At the fifth time he reached close enough, about five steps off. [WTI.1m.2]"
+        "kiksht": "Łq'ap gasixldi.",
+        "english": "He put it[ish-] nicely around himself. [WTI.13.3]"
+      },
+      {
+        "kiksht": "Aqiuxwa łq'upłq'up ikaimak łq'an itg̲iłpa łixad iłgwałilx.",
+        "english": "Tanned elkhide will be cut up into pieces enough for moccasins for each per- son. [WTII.2.2]"
+      },
+      {
+        "kiksht": "Tqix enduxt anxitqłáxida shmanix łq'ap pu aniugmak'ínuaba ichlx dauya k'málalidix.",
+        "english": "I want to know if I will be in time to change my land (if I wait until) this fall. [WTIII.1.1]"
+      },
+      {
+        "kiksht": "Gachdúksdamit watułba łq'ap gachuxa.",
+        "english": "He was cooking them over a fire he had fixed just right. [Bear and Crane L]"
+      }
+    ]
+  },
+  "łq'up": {
+    "root": "łq'up",
+    "partOfSpeech": "part",
+    "definition": "cut, cut up, cut in pieces",
+    "examples": [
+      {
+        "kiksht": "Łq'up gagiux igakwal.",
+        "english": "She cut up an eel. [WTI.1a2]"
       }
     ],
-    "notes": [
-      "This word formerly meant specifically \"meet in passing;\" now it refers to meeting in general. [Dyk]"
+    "seeAlso": [
+      "tłq'up"
     ]
   },
   "łqa": {
@@ -63165,6 +63403,55 @@
     "definition": "count them!",
     "seeAlso": [
       "-qła"
+    ]
+  },
+  "łshktgiqux": {
+    "root": "łshktgiqux",
+    "partOfSpeech": "vb",
+    "definition": "it covers them 2",
+    "seeAlso": [
+      "-k-TKI-qw"
+    ]
+  },
+  "łshxelg̲iłxal": {
+    "root": "łshxelg̲iłxal",
+    "partOfSpeech": "vb",
+    "definition": "it is crying",
+    "seeAlso": [
+      "-sh-xl- G̲IŁX̲"
+    ]
+  },
+  "łsk'lútk": {
+    "root": "łsk'lútk",
+    "partOfSpeech": "vb",
+    "definition": "look at it!"
+  },
+  "łtxnit": {
+    "root": "łtxnit",
+    "partOfSpeech": "vb",
+    "definition": "it is drifting towards us 2",
+    "examples": [
+      {
+        "kiksht": "Łtxnit daułax iłk'ashkash.",
+        "english": "This child is drifting towards us. [WTI.1a1] [said of Coyote, disguised as a baby in a cradleboard, drifting toward the Swallow sisters]"
+      }
+    ],
+    "seeAlso": [
+      "-NI"
+    ]
+  },
+  "ługwak'ánq": {
+    "root": "ługwak'ánq",
+    "partOfSpeech": "vb",
+    "definition": "it fits them",
+    "examples": [
+      {
+        "kiksht": "Katkadmax ługwak'ánq iłchqwá.",
+        "english": "Every now and then the water comes up in time to use them (literally, 'fits them') [fishing-scaf- folds]. [WTII.7.1]"
+      }
+    ],
+    "seeAlso": [
+      "-k-K'A-qw"
     ]
   },
   "łáglalitix": {
