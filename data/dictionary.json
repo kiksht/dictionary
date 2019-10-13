@@ -200,6 +200,12 @@
       "yalxcheg̲ix"
     ]
   },
+  "(w)i-mxach": {
+    "root": "(w)i-mxach",
+    "partOfSpeech": "n",
+    "definition": "comet [Dyk], shoot- ing star [PK 8/1/53]",
+    "forms": []
+  },
   "(w)i-łala": {
     "root": "(w)i-łala",
     "partOfSpeech": "n",
@@ -6635,6 +6641,106 @@
       }
     ]
   },
+  "-NA-chkw": {
+    "root": "-NA-chkw",
+    "partOfSpeech": "vb",
+    "definition": "catch fish when they are plentiful",
+    "forms": [
+      {
+        "kiksht": "atgiunachgwa",
+        "english": "they will catch them"
+      },
+      {
+        "kiksht": "tgiunachkwt",
+        "english": "they are catching them"
+      },
+      {
+        "kiksht": "itgiunáchk",
+        "english": "they caught them [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "id-náchk, wi-nachk"
+    ]
+  },
+  "-NA-tłx": {
+    "root": "-NA-tłx",
+    "partOfSpeech": "vb",
+    "definition": "wipe, clean",
+    "forms": [
+      {
+        "kiksht": "achiunatłxa",
+        "english": "he will clean her, wipe her [Dyk]"
+      },
+      {
+        "kiksht": "niunantłx",
+        "english": "I am wiping it[i-] [GT, MMc 1/15/99]"
+      },
+      {
+        "kiksht": "chiunántłx",
+        "english": "he is cleaning, wiping him"
+      },
+      {
+        "kiksht": "chiunátłxt",
+        "english": "he is cleaning, wiping him; he has him wiped, cleaned"
+      },
+      {
+        "kiksht": "ichiunátłx",
+        "english": "he wiped him"
+      },
+      {
+        "kiksht": "ichłainatłx",
+        "english": "he wiped her with it (for example, towel)"
+      },
+      {
+        "kiksht": "ichainatłxix",
+        "english": "he wiped it[a-] on it[i-] (for example, floor)"
+      },
+      {
+        "kiksht": "ik'inantłx",
+        "english": "he is wiping, cleaning"
+      },
+      {
+        "kiksht": "yaxáinantłx",
+        "english": "he is wiping himself on it[a-]"
+      },
+      {
+        "kiksht": "yaxáitnantłx",
+        "english": "he was wiping himself on it[a-]"
+      },
+      {
+        "kiksht": "iyaxainatłx",
+        "english": "he wiped himself on it[a- ]"
+      },
+      {
+        "kiksht": "igixinatłx",
+        "english": "he wiped himself on it[i-] (for example, on his clothes)"
+      },
+      {
+        "kiksht": "igaixínatłx",
+        "english": "he wiped himself with it[a-] (for example, towel)"
+      },
+      {
+        "kiksht": "igixinatłx",
+        "english": "he wiped himself with it[i-]"
+      },
+      {
+        "kiksht": "yunatłxix",
+        "english": "he has been wiped"
+      },
+      {
+        "kiksht": "idnatłxix",
+        "english": "he had been wiped [Dyk]"
+      },
+      {
+        "kiksht": "galaixinatłx",
+        "english": "he wiped it[a-] on him- self [WTI.1m.7]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'inatłxamat, i- k'inantłxmat, ił-k'inántłxmat, i- qixinantłx"
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -7036,6 +7142,28 @@
     ],
     "seeAlso": [
       "a-l-IMA-łx"
+    ]
+  },
+  "-a-x-t-NA-kw": {
+    "root": "-a-x-t-NA-kw",
+    "partOfSpeech": "vb",
+    "definition": "talk in one's sleep (as a result of a nightmare), be spooked in one's sleep, have a night- mare",
+    "forms": [
+      {
+        "kiksht": "aixdnagwax",
+        "english": "he is talking in his sleep"
+      },
+      {
+        "kiksht": "igaixdnakwachk",
+        "english": "he talked in his sleep [Dyk]"
+      },
+      {
+        "kiksht": "aixatnagwax",
+        "english": "he was talking in his sleep, was spooked [GT 1/12/99]"
+      }
+    ],
+    "seeAlso": [
+      "a-kádnagwax"
     ]
   },
   "-a-x-ŁTQ": {
@@ -10141,6 +10269,60 @@
     ],
     "seeAlso": [
       "it-kmak'áq"
+    ]
+  },
+  "-i-gm-NA-pa": {
+    "root": "-i-gm-NA-pa",
+    "partOfSpeech": "vb",
+    "definition": "frown at, scowl at, glance angrily or contemptuously out of the corner of one's eyes at, give a dirty look to",
+    "forms": [
+      {
+        "kiksht": "chiagemnanpł",
+        "english": "he is scowling at her"
+      },
+      {
+        "kiksht": "chigemnanpł",
+        "english": "he is scowling at him"
+      },
+      {
+        "kiksht": "chigemnápx",
+        "english": "he is giving him a frown, dirty look"
+      },
+      {
+        "kiksht": "ichigemnaba",
+        "english": "he frowned at him"
+      },
+      {
+        "kiksht": "nichiagmadnaba",
+        "english": "he frowned at her (last week)"
+      },
+      {
+        "kiksht": "nichigmadnaba",
+        "english": "he frowned at him (last week)"
+      },
+      {
+        "kiksht": "yaxemnanpł",
+        "english": "she is glancing angrily out of the corner of her eyes"
+      },
+      {
+        "kiksht": "ixemnanpł",
+        "english": "he is frowning, scowling"
+      },
+      {
+        "kiksht": "nigixmadnaba",
+        "english": "he frowned (last week, once)"
+      },
+      {
+        "kiksht": "nigixmadnanpł",
+        "english": "he was frowning (last week)"
+      },
+      {
+        "kiksht": "yagemnápx",
+        "english": "she is glanced at angrily [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-kmánanpł"
     ]
   },
   "-i-g̲l-KWT-pa": {
@@ -14844,6 +15026,24 @@
     ],
     "notes": [
       "Implies looking about while standing still, not going in search of something or someone."
+    ]
+  },
+  "-s-i-NA-kw'": {
+    "root": "-s-i-NA-kw'",
+    "partOfSpeech": "vb",
+    "definition": "give a dirty look, give a dirty glance [Dyk], snap one's eyes at [GT, MMc 1/12/99]",
+    "forms": [
+      {
+        "kiksht": "aksinankw'ła",
+        "english": "she will give him a dirty look [GT, MMc 1/12/99]"
+      },
+      {
+        "kiksht": "ksainankw'ł",
+        "english": "she is giving her a dirty glance [Dyk]"
+      }
+    ],
+    "notes": [
+      "Means to give a dirty look out of the corner of one's eyes and then look away again."
     ]
   },
   "-s-k'-MI-tłkw": {
@@ -48947,6 +49147,17 @@
       "mała"
     ]
   },
+  "i- -mxt": {
+    "root": "i- -mxt",
+    "partOfSpeech": "adj n",
+    "definition": "sick",
+    "notes": [
+      "Alternate form of root -mqt."
+    ],
+    "seeAlso": [
+      "i- -chg̲emem, -mqt, wi-mqt"
+    ]
+  },
   "i- -múlgixix": {
     "root": "i- -múlgixix",
     "partOfSpeech": "adj n",
@@ -66131,6 +66342,17 @@
     ],
     "seeAlso": [
       "i-tł'axwi"
+    ]
+  },
+  "wa-mxch": {
+    "root": "wa-mxch",
+    "partOfSpeech": "n",
+    "definition": "core (of apple, etc.)",
+    "forms": [
+      {
+        "kiksht": "wamxch, wamxchmax",
+        "english": "cores [Dyk]"
+      }
     ]
   },
   "wa-łala": {
