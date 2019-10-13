@@ -3347,6 +3347,40 @@
       "i-k'íxalal"
     ]
   },
+  "-K'MANAN": {
+    "root": "-K'MANAN",
+    "partOfSpeech": "vb",
+    "definition": "taste, try, test",
+    "forms": [
+      {
+        "kiksht": "chłuk'manan",
+        "english": "he is tasting it, trying it, testing it"
+      },
+      {
+        "kiksht": "chełk'manan",
+        "english": "he was tasting it"
+      },
+      {
+        "kiksht": "icłuk'mananmchk",
+        "english": "he tasted it"
+      },
+      {
+        "kiksht": "ixk'manan",
+        "english": "he is tasting himself"
+      },
+      {
+        "kiksht": "igik'manan",
+        "english": "he is tasting something"
+      },
+      {
+        "kiksht": "yuk'mánanix",
+        "english": "it[i-] is tasted, someone tasted it [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-gik'manan"
+    ]
+  },
   "-KA": {
     "root": "-KA",
     "partOfSpeech": "vb",
@@ -12688,6 +12722,17 @@
       }
     ]
   },
+  "-ł-xl-x-t-K'MA": {
+    "root": "-ł-xl-x-t-K'MA",
+    "partOfSpeech": "vb",
+    "definition": "shake water off oneself (like a dog)",
+    "forms": [
+      {
+        "kiksht": "ałixlxtk'maya",
+        "english": "he will shake water off himself [Dyk]"
+      }
+    ]
+  },
   "Agac'ia": {
     "root": "Agac'ia",
     "partOfSpeech": "place",
@@ -14283,6 +14328,14 @@
         "kiksht": "k'ish!",
         "english": "grandma! [may be used by children in direct address] [Dyk]"
       }
+    ]
+  },
+  "a-k'íxwashamat": {
+    "root": "a-k'íxwashamat",
+    "partOfSpeech": "n",
+    "definition": "plane (tool)",
+    "seeAlso": [
+      "-X̲WASHA, i-k'ixwasha, i- k'ixwashamat"
     ]
   },
   "a-kachkdama": {
@@ -43256,6 +43309,51 @@
       "i-kiximuł, -gl-XIM"
     ]
   },
+  "i-k'ixiunił": {
+    "root": "i-k'ixiunił",
+    "partOfSpeech": "n",
+    "definition": "keeping from doing wrong by good advice",
+    "forms": [
+      {
+        "kiksht": "iyak'ixiunił",
+        "english": "he is one who keeps people from doing harm by good advice [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲IWA"
+    ]
+  },
+  "i-k'ixiwalal": {
+    "root": "i-k'ixiwalal",
+    "partOfSpeech": "n",
+    "definition": "keeping from doing wrong",
+    "forms": [
+      {
+        "kiksht": "iyak'ixíwalal",
+        "english": "he is one who keeps people from fighting, from doing wrong [Dyk]"
+      }
+    ],
+    "notes": [
+      "Means the same as i-k'ixiunił."
+    ],
+    "seeAlso": [
+      "-X̲IWA, i-k'ixiunił"
+    ]
+  },
+  "i-k'ixwulxwul": {
+    "root": "i-k'ixwulxwul",
+    "partOfSpeech": "n",
+    "definition": "roping",
+    "forms": [
+      {
+        "kiksht": "iyak'ixwulxwul",
+        "english": "he is a roper [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲WUL"
+    ]
+  },
   "i-k'iładnił": {
     "root": "i-k'iładnił",
     "partOfSpeech": "n",
@@ -43368,6 +43466,18 @@
     "definition": "necklace",
     "seeAlso": [
       "-l-ŁX̲WA"
+    ]
+  },
+  "i-k'lachin": {
+    "root": "i-k'lachin",
+    "partOfSpeech": "n",
+    "definition": "salmon head gristle",
+    "forms": [],
+    "notes": [
+      "Not eaten. The name of one of Coyote's sons in certain legends, Sipáglacin, is apparently derived from this word."
+    ],
+    "seeAlso": [
+      "Sipáglacin"
     ]
   },
   "i-k'ámunak": {
@@ -43587,6 +43697,28 @@
     ],
     "seeAlso": [
       "-K'IXA"
+    ]
+  },
+  "i-k'íxwasha": {
+    "root": "i-k'íxwasha",
+    "partOfSpeech": "n",
+    "definition": "scratching",
+    "forms": [
+      {
+        "kiksht": "iyak'ixwasha",
+        "english": "he is a scratcher (to relieve itch) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲WASHA"
+    ]
+  },
+  "i-k'íxwashamat": {
+    "root": "i-k'íxwashamat",
+    "partOfSpeech": "n",
+    "definition": "planer, draw knife",
+    "seeAlso": [
+      "-X̲WASHA, i-k'ixwasha, a- k'ixwashamat"
     ]
   },
   "i-k'íxwixwi": {
@@ -48135,6 +48267,11 @@
       "it-qiława"
     ]
   },
+  "it-k'małmadit": {
+    "root": "it-k'małmadit",
+    "partOfSpeech": "n",
+    "definition": "underwear"
+  },
   "it-k'áicimum": {
     "root": "it-k'áicimum",
     "partOfSpeech": "n",
@@ -50700,6 +50837,105 @@
     "seeAlso": [
       "łixłix, i-k'iłixłix"
     ]
+  },
+  "k'ma": {
+    "root": "k'ma",
+    "partOfSpeech": "adv",
+    "definition": "but, however, neverthe- less, but still, moreover, rather",
+    "examples": [
+      {
+        "kiksht": "K'ma dan amaiguxa?",
+        "english": "What will you blame her for?"
+      },
+      {
+        "kiksht": "K'ma yaxka nitqmit.",
+        "english": "That's the one I saw, he is the one I saw."
+      },
+      {
+        "kiksht": "k'ma naqi ałxlułat",
+        "english": "not only a pestle"
+      },
+      {
+        "kiksht": "k'ma maik(a) imiwaq",
+        "english": "rather you are the one who killed him"
+      },
+      {
+        "kiksht": "Dauya ikala idialálamax k'ma dnux (dnu, nux, nu) ixat ikala idiat'úlalamax.",
+        "english": "This man is a singer, but yet the other man is a better singer. [Dyk]"
+      },
+      {
+        "kiksht": "Ishenquq k'ma nait'ax inshqitaqłq.",
+        "english": "But I for my part have left behind a fishline. [WTI.1b1]"
+      }
+    ],
+    "seeAlso": [
+      "k'mag̲a, k'madnux"
+    ]
+  },
+  "k'madnux": {
+    "root": "k'madnux",
+    "partOfSpeech": "conj",
+    "definition": "nevertheless, just the same, but",
+    "examples": [
+      {
+        "kiksht": "K'madnux yumt.",
+        "english": "Never- theless, just the same, he is growing. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "k'ma, k'mag̲a"
+    ]
+  },
+  "k'mag̲a": {
+    "root": "k'mag̲a",
+    "partOfSpeech": "conj",
+    "definition": "but now, and, and also",
+    "examples": [
+      {
+        "kiksht": "ikala k'mag̲a ag̲agilak",
+        "english": "a man and also a woman"
+      },
+      {
+        "kiksht": "Ixat ikala k'mag̲a naika anduya.",
+        "english": "One man and I'll go. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Apparently means about the same as mag̲a, which is almost cer- tainly a contracted form of it. A com- pound of k'ma and ag̲a."
+    ],
+    "seeAlso": [
+      "mag̲a, k'ma, ag̲a"
+    ]
+  },
+  "k'man": {
+    "root": "k'man",
+    "partOfSpeech": "conj",
+    "definition": "but",
+    "examples": [
+      {
+        "kiksht": "Qéngiska! k'man ałqdiwi isk'ulya!",
+        "english": "How is this! He's just like Coyote! [WTI.8.3]"
+      }
+    ]
+  },
+  "k'manux": {
+    "root": "k'manux",
+    "partOfSpeech": "conj",
+    "definition": "but yet, however",
+    "examples": [
+      {
+        "kiksht": "Dauya ikala idialálamax k'manux ixat ikala idiat'ulálalmax.",
+        "english": "This man is a singer, but yet the other man is a better singer. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "nux"
+    ]
+  },
+  "k'málalidix": {
+    "root": "k'málalidix",
+    "partOfSpeech": "adv",
+    "definition": "fall, autumn"
   },
   "k'ámunaq": {
     "root": "k'ámunaq",
