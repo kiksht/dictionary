@@ -15475,3 +15475,50 @@ See also: i-qikw’Ålalak, -KW’ALALA-kw -KW’ALALA lose
 -KW’ALALA-kw [vb] be lost, be ab- sent, be forgotten, make lost, cause to be lost
 Forms: alitkw’Ålalalkwida “he will be lost, absent” yukw’alalakwt “he is lost, absent, forgotten” yukw’Ålalakux “he has been lost, forgotten (implies someone has made him lost, gotten rid of him)” yalkw’Ålalakwlit “he is becoming lost in it[a-] (several times)” iyukw’Ålalakwit “he became lost (does not imply that someone caused him to be lost)” ixlkw’Ålalakwlit “he is making mistakes (literally, he is lost in himself)” chiukw’alalakwt “he is making him lost” [Dyk]
 Notes: When used with a neutral pronoun as subject, this verb means “be lost,” etc. When used with an active pronoun as subject and a neu- tral pronoun as object, as in the last form given, it means “cause to be lost, make lost.”
+
+
+
+
+
+
+
+-x-KW’ALALA-kw [vb] make oneself lost, lose oneself, get lost, stray away, forget
+Forms: alixkw’alalagwa “he’ll stray away” ixkw’Ålalalkw¬ “he is trying to lose himself” ixkw’Ålalakwt “he has himself lost; he has him lost” igixkw’alalagwa “he lost himself” igixatkw’alalagwa “he lost himself (before he came here)” [Dyk]
+Notes: Compare chiukw’alalakwt “he is making him lost.” The prefix -x- here is reflexive (“himself,” etc.).
+
+-x-KW’ALALA-kw [vb] make lost, make forget, cause to forget, be lost from, forget
+Forms: chanxkw’alalgwamit “he is making me forget her” iganxkw’alalagwa “she made me for- get her” igaixkw’alalagwa “she made him forget her” igixkw’alalagwa “she made him forget him” [Dyk] aixkw’alalakwt “he is forgetting her, has her forgotten” qixkw’alalakwt “he is forgotten” [GT, MMc 6/4/98] denshxkw’alalakwt “we’re forgetting them” inxkw’Ålalakwt “I’m forgetting him, he’s lost from me” [GT 1/15/99]
+Examples: Anxkw’Ålalakwt kiksht awawat. “I’m forgetting Wasco lan- guage.” [GT 1/15/99]
+Notes: When used transitively, this means literally “make (someone) be lost (-kw’alalakw) from (-x-) some- one.” Thus, iganxkw’alalagwa could be understood “she (-g-) made her (- a-) be lost (-kwa’lalagwa) from (-x-) me (-n-).” When used intransitively, it means literally “be lost (- kw’alalakw) from (-x-) someone.” Thus, aixkw’alalakwt could be under- stood “she (-a-) is lost (-kw’alalakwt) from (-x-) him (-i-).” The -x- here is the relational prefix “from.” -x-KW’ALALA-kw-it [vb] forget Forms: alimshxkw’alalakwida “you folks will forget him” alaixkw’alalakwida “he will forget her” alixkw’alalakwida “he will for- get him” idnxkw’Ålalakwit “I have forgotten them” iganxkw’Ålalakwit “I have forgotten her” igaixkw’Ålalakwit “he has forgotten her” nigaixatkw’alalakwit “he forgot her (last week)” [Dyk]
+Notes: This verb means literally “become (-it) lost (-kw’alala-kw) from (-x-).” Thus, alimshxkw’alalakwida can be understood “he (-i-) will (al-) become (-id-) lost (-kw’alalakw-) from (-x-) you folks (-msh-).”
+See also: -KW’ALALA-kw
+
+-KW’ALALA-qw [vb] be absent
+Forms: yukw’Ålalaqt “he is absent” [WTI.11.3]
+
+-KW’ALALA-qw-it [vb] be away from home
+Forms: antkw’Ålalaqwida “I will be away from home” [WTI.11.3]
+
+i-kw’Ålali [n] dangerous being, mon- ster
+Forms: enkw’Ålali “I’m dangerous” [Dyk]
+Notes: PK 6/20/53: “This word has fear in it.” PK 8/31/55: “irrestistable, formidable force of some nature”
+See also: i-kw’ali
+
+i-kw’ali [n] whale
+Forms: ikw’Ålimax “whales” [Dyk]
+See also: i-kw’Ålali
+
+kw’a¬Å [part] happy
+Examples: Kw’a¬Å enkiax. “I’m happy.” [GT, MMc]
+
+kw’a¬a [part] laugh, chuckle, giggle
+Examples: Kw’a¬(a) igixux. “He laughed once (as making the sound ‘ha!’).” Kw’a¬(a) idiaxadagwax. “He is happy, feeling good.” Kw’a¬akw’a¬(a) igixux. “He laughed.” [Dyk]
+
+kw’a¬i [part] glad
+Examples: Kw’a¬ˆ nixitq¬axit maikayamt wit’a. “I was glad to hear from you again.” [WTIII.4.1]
+Notes: Borrowed to or from Sahaptin kw’a¬i “glad, happy.”
+
+-kw’Å¬q [n] tightly woven root bag with round bottom
+Forms: akw’Å¬q “small root bag” ikw’Å¬q “large root bag” [Dyk] ishkw’Å¬q “2 root bags” itkw’Å¬q[HS, AF], i¬kw’a¬q [Dyk] “root bags”
+See also: i-kw’Å¬q
+

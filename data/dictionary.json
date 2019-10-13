@@ -4287,6 +4287,28 @@
       "When used with a neutral pronoun as subject, this verb means \"be lost,\" etc. When used with an active pronoun as subject and a neu- tral pronoun as object, as in the last form given, it means \"cause to be lost, make lost.\""
     ]
   },
+  "-KW'ALALA-qw": {
+    "root": "-KW'ALALA-qw",
+    "partOfSpeech": "vb",
+    "definition": "be absent",
+    "forms": [
+      {
+        "kiksht": "yukw'álalaqt",
+        "english": "he is absent [WTI.11.3]"
+      }
+    ]
+  },
+  "-KW'ALALA-qw-it": {
+    "root": "-KW'ALALA-qw-it",
+    "partOfSpeech": "vb",
+    "definition": "be away from home",
+    "forms": [
+      {
+        "kiksht": "antkw'álalaqwida",
+        "english": "I will be away from home [WTI.11.3]"
+      }
+    ]
+  },
   "-KWA": {
     "root": "-KWA",
     "partOfSpeech": "vb",
@@ -9007,6 +9029,32 @@
       }
     ]
   },
+  "-kw'áłq": {
+    "root": "-kw'áłq",
+    "partOfSpeech": "n",
+    "definition": "tightly woven root bag with round bottom",
+    "forms": [
+      {
+        "kiksht": "akw'áłq",
+        "english": "small root bag"
+      },
+      {
+        "kiksht": "ikw'áłq",
+        "english": "large root bag [Dyk]"
+      },
+      {
+        "kiksht": "ishkw'áłq",
+        "english": "2 root bags itkw'áłq[HS, AF], iłkw'ałq [Dyk]"
+      },
+      {
+        "kiksht": "",
+        "english": "root bags"
+      }
+    ],
+    "seeAlso": [
+      "i-kw'áłq"
+    ]
+  },
   "-l-CGI-ma": {
     "root": "-l-CGI-ma",
     "partOfSpeech": "vb",
@@ -12580,6 +12628,58 @@
         "kiksht": "K'aya anshkixatkw'ámida iduihamax ałqi saqw Christmas kwadáu New Year's.",
         "english": "We won't bring the cattle home until between Christ- mas and New Year's. [Wasco Conver- sation 9]"
       }
+    ]
+  },
+  "-x-KW'ALALA-kw": {
+    "root": "-x-KW'ALALA-kw",
+    "partOfSpeech": "vb",
+    "definition": "make lost, make forget, cause to forget, be lost from, forget",
+    "forms": [
+      {
+        "kiksht": "chanxkw'alalgwamit",
+        "english": "he is making me forget her"
+      },
+      {
+        "kiksht": "iganxkw'alalagwa",
+        "english": "she made me for- get her"
+      },
+      {
+        "kiksht": "igaixkw'alalagwa",
+        "english": "she made him forget her"
+      },
+      {
+        "kiksht": "igixkw'alalagwa",
+        "english": "she made him forget him [Dyk]"
+      },
+      {
+        "kiksht": "aixkw'alalakwt",
+        "english": "he is forgetting her, has her forgotten"
+      },
+      {
+        "kiksht": "qixkw'alalakwt",
+        "english": "he is forgotten [GT, MMc 6/4/98]"
+      },
+      {
+        "kiksht": "denshxkw'alalakwt",
+        "english": "we're forgetting them"
+      },
+      {
+        "kiksht": "inxkw'álalakwt",
+        "english": "I'm forgetting him, he's lost from me [GT 1/15/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Anxkw'álalakwt kiksht awawat.",
+        "english": "I'm forgetting Wasco lan- guage. [GT 1/15/99]"
+      }
+    ],
+    "notes": [
+      "When used transitively, this means literally \"make (someone) be lost (-kw'alalakw) from (-x-) some- one.\" Thus, iganxkw'alalagwa could be understood \"she (-g-) made her (- a-) be lost (-kwa'lalagwa) from (-x-) me (-n-).\" When used intransitively, it means literally \"be lost (- kw'alalakw) from (-x-) someone.\" Thus, aixkw'alalakwt could be under- stood \"she (-a-) is lost (-kw'alalakwt) from (-x-) him (-i-).\" The -x- here is the relational prefix \"from.\" -x-KW'ALALA-kw-it [vb] forget Forms: alimshxkw'alalakwida \"you folks will forget him\" alaixkw'alalakwida \"he will forget her\" alixkw'alalakwida \"he will for- get him\" idnxkw'álalakwit \"I have forgotten them\" iganxkw'álalakwit \"I have forgotten her\" igaixkw'álalakwit \"he has forgotten her\" nigaixatkw'alalakwit \"he forgot her (last week)\" [Dyk]",
+      "This verb means literally \"become (-it) lost (-kw'alala-kw) from (-x-).\" Thus, alimshxkw'alalakwida can be understood \"he (-i-) will (al-) become (-id-) lost (-kw'alalakw-) from (-x-) you folks (-msh-).\""
+    ],
+    "seeAlso": [
+      "-KW'ALALA-kw"
     ]
   },
   "-x-KWCHAN": {
@@ -46849,6 +46949,20 @@
       "wimał chilumat"
     ]
   },
+  "i-kw'ali": {
+    "root": "i-kw'ali",
+    "partOfSpeech": "n",
+    "definition": "whale",
+    "forms": [
+      {
+        "kiksht": "ikw'álimax",
+        "english": "whales [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-kw'álali"
+    ]
+  },
   "i-kw'álacincin": {
     "root": "i-kw'álacincin",
     "partOfSpeech": "n",
@@ -46861,6 +46975,23 @@
     ],
     "seeAlso": [
       "i-gwalac'inc'in, a-c'igala"
+    ]
+  },
+  "i-kw'álali": {
+    "root": "i-kw'álali",
+    "partOfSpeech": "n",
+    "definition": "dangerous being, mon- ster",
+    "forms": [
+      {
+        "kiksht": "enkw'álali",
+        "english": "I'm dangerous [Dyk]"
+      }
+    ],
+    "notes": [
+      "PK 6/20/53: \"This word has fear in it.\" PK 8/31/55: \"irrestistable, formidable force of some nature\""
+    ],
+    "seeAlso": [
+      "i-kw'ali"
     ]
   },
   "i-kwada": {
@@ -53925,6 +54056,50 @@
     ],
     "seeAlso": [
       "i-qikw'álalak, -KW'ALALA-kw -KW'ALALA lose"
+    ]
+  },
+  "kw'ała": {
+    "root": "kw'ała",
+    "partOfSpeech": "part",
+    "definition": "laugh, chuckle, giggle",
+    "examples": [
+      {
+        "kiksht": "Kw'ał(a) igixux.",
+        "english": "He laughed once (as making the sound 'ha!')."
+      },
+      {
+        "kiksht": "Kw'ał(a) idiaxadagwax.",
+        "english": "He is happy, feeling good."
+      },
+      {
+        "kiksht": "Kw'ałakw'ał(a) igixux.",
+        "english": "He laughed. [Dyk]"
+      }
+    ]
+  },
+  "kw'ałi": {
+    "root": "kw'ałi",
+    "partOfSpeech": "part",
+    "definition": "glad",
+    "examples": [
+      {
+        "kiksht": "Kw'ałí nixitqłaxit maikayamt wit'a.",
+        "english": "I was glad to hear from you again. [WTIII.4.1]"
+      }
+    ],
+    "notes": [
+      "Borrowed to or from Sahaptin kw'ałi \"glad, happy.\""
+    ]
+  },
+  "kw'ałá": {
+    "root": "kw'ałá",
+    "partOfSpeech": "part",
+    "definition": "happy",
+    "examples": [
+      {
+        "kiksht": "Kw'ałá enkiax.",
+        "english": "I'm happy. [GT, MMc]"
+      }
     ]
   },
   "kwaba": {
