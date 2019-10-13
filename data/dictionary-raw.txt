@@ -15184,3 +15184,42 @@ i¬-kwapi [n] coffee
 Forms: i¬yaxwapi “his coffee” [Dyk]
 Notes: From English (or perhaps French), probably through Chinook Jargon. Another form of the word, probably taken directly from English, is i-kupi.
 See also: i-kupi, i¬-kupi
+
+
+
+
+
+
+
+kwapt [adv] then
+Examples: Kwapt galishgluya. “Then he went to them.” [WTI.1a.1] Dan kwapt? “What else?” [GT, MMc] wit’a kwapt “again the same, the same again” a©a kwapt “and then” kwapt a©a “enough, quit now” A©a kwapt ninxatkw’a. “Then I came home.” Kwapt aga¬xuxtka a¬agulul. “Every once in a while she’ll steal their acorns from them.” ‘Qawat idmixi ̈danyuksh?’ ‘Makwsht.’ ‘ ̋achi saqw kwapt?’ ‘KwÅptka©a.’ “‘How many horses do you have?’ ‘Two.’ ‘Is that all?’ ‘That is all, only that many.’” [Dyk]
+See also: makwapt, ma©kwapt, kwÅptka©a, kwapdix, kwabÅt
+
+kwas [adv] the last, all of it
+Examples: kwas asablal “the last of the bread, that’s all the bread” Kwas en¬u©emsht i¬chqwÅ. “I’m drinking the last bit of water.” [GT 1/14/99]
+Pronunciation: Long -a-; Gladys Th- ompson and Madeline McInturff did not recognize the word when pro- nounced with a short -a-.
+
+kwat¬kwat¬ [part] stick
+Examples: Kwat¬kwat¬ am¬iluxÅyaxdixa kÅnawiqaxba wachlxba. “And you will stick it ev- erywhere in the underground lodge.” [WTI.18.5]
+
+kwatxalÅ [adv] too, too much
+
+kwaukwau [part] light, lightweight
+Examples: KwaukwÅu ikiax. “He is making himself light.” KwaukwÅu inxux. “I made myself light, I re- duced.” [Dyk]
+See also: dakwaukwau, saikwaukwau
+
+a-kwaxwalawadit [n] fingernail, toe- nail
+Notes: Alternate to a-xuxwalagwadit and a-kuxwÅlagwadit.
+See also: a-xuxwalagwadit, a- kuxwÅlagwadit
+
+i-kwaxa [n] pine nut
+Forms: itkwÅxamax “pine nuts” [Spilyay/Food]
+See also: i¬-k’askas
+
+-KWCHAN [vb] take along, get along badly
+Forms: a¬giukwchanma “he[i¬-] will take it[i-] with him” [WTII.9.1, cor- rected from a¬giukwchanma] chiukwchan “he is taking him around” ichiukwchanemchk “he took him around” [GT, MMc 6/4/98] achiukwchanma “he will take him along” achitkwchanma “he will take him along (distant future)” chiukwchÅn “he is taking him along” ichiukwchananchk “he took him along” [note reads: pro[bably] - amchk] ik’ikwchan “he is taking (someone) along” yukwchanix “he has been taken along” qiukwchan “one is taking him along, he is being taken along” ixkwchan “he is taking himself along; he is getting along badly” [latter meaning confirmed by GT, MMc 6/4/98] chiagelkwchÅn “he is taking him along for her” [not accepted by GT 6/4/98, substitutes chiagenkwchÅn] [Dyk]
+See also: -x-kwchan, i-gikwchan, i- k’ikwchan
+
+-x-KWCHAN [vb] squirm around
+Forms: alixkwchanma “he will squirm around” ixkwchÅn “he is squirming around” [GT, MMc 6/4/ 98; these forms were produced by HM and accepted, with some hesita- tion] ixatkwchÅn “he was squiriming around” [HS 7/16/54]
+See also: -KWCHAN

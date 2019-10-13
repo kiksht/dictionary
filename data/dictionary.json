@@ -4146,6 +4146,64 @@
       }
     ]
   },
+  "-KWCHAN": {
+    "root": "-KWCHAN",
+    "partOfSpeech": "vb",
+    "definition": "take along, get along badly",
+    "forms": [
+      {
+        "kiksht": "ałgiukwchanma",
+        "english": "he[ił-] will take it[i-] with him [WTII.9.1, cor- rected from ałgiukwchanma]"
+      },
+      {
+        "kiksht": "chiukwchan",
+        "english": "he is taking him around"
+      },
+      {
+        "kiksht": "ichiukwchanemchk",
+        "english": "he took him around [GT, MMc 6/4/98]"
+      },
+      {
+        "kiksht": "achiukwchanma",
+        "english": "he will take him along"
+      },
+      {
+        "kiksht": "achitkwchanma",
+        "english": "he will take him along (distant future)"
+      },
+      {
+        "kiksht": "chiukwchán",
+        "english": "he is taking him along"
+      },
+      {
+        "kiksht": "ichiukwchananchk",
+        "english": "he took him along [note reads: pro[bably] - amchk]"
+      },
+      {
+        "kiksht": "ik'ikwchan",
+        "english": "he is taking (someone) along"
+      },
+      {
+        "kiksht": "yukwchanix",
+        "english": "he has been taken along"
+      },
+      {
+        "kiksht": "qiukwchan",
+        "english": "one is taking him along, he is being taken along"
+      },
+      {
+        "kiksht": "ixkwchan",
+        "english": "he is taking himself along; he is getting along badly [latter meaning confirmed by GT, MMc 6/4/98]"
+      },
+      {
+        "kiksht": "chiagelkwchán",
+        "english": "he is taking him along for her [not accepted by GT 6/4/98, substitutes chiagenkwchán] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x-kwchan, i-gikwchan, i- k'ikwchan"
+    ]
+  },
   "-KŁ": {
     "root": "-KŁ",
     "partOfSpeech": "vb",
@@ -11413,6 +11471,28 @@
       "-KW(A), -GWA cross, pass away, cross between death and life"
     ]
   },
+  "-x-KWCHAN": {
+    "root": "-x-KWCHAN",
+    "partOfSpeech": "vb",
+    "definition": "squirm around",
+    "forms": [
+      {
+        "kiksht": "alixkwchanma",
+        "english": "he will squirm around"
+      },
+      {
+        "kiksht": "ixkwchán",
+        "english": "he is squirming around [GT, MMc 6/4/ 98; these forms were produced by HM and accepted, with some hesita- tion]"
+      },
+      {
+        "kiksht": "ixatkwchán",
+        "english": "he was squiriming around [HS 7/16/54]"
+      }
+    ],
+    "seeAlso": [
+      "-KWCHAN"
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -15075,6 +15155,17 @@
     ],
     "seeAlso": [
       "a-łxwadit"
+    ]
+  },
+  "a-kwaxwalawadit": {
+    "root": "a-kwaxwalawadit",
+    "partOfSpeech": "n",
+    "definition": "fingernail, toe- nail",
+    "notes": [
+      "Alternate to a-xuxwalagwadit and a-kuxwálagwadit."
+    ],
+    "seeAlso": [
+      "a-xuxwalagwadit, a- kuxwálagwadit"
     ]
   },
   "a-káas": {
@@ -45184,6 +45275,20 @@
       "Borrowed from English"
     ]
   },
+  "i-kwaxa": {
+    "root": "i-kwaxa",
+    "partOfSpeech": "n",
+    "definition": "pine nut",
+    "forms": [
+      {
+        "kiksht": "itkwáxamax",
+        "english": "pine nuts [Spilyay/Food]"
+      }
+    ],
+    "seeAlso": [
+      "ił-k'askas"
+    ]
+  },
   "i-kxalal": {
     "root": "i-kxalal",
     "partOfSpeech": "n",
@@ -52321,7 +52426,7 @@
         "english": "Then I came home."
       },
       {
-        "kiksht": "Kwapt agałx̲uxtka ałagulul.",
+        "kiksht": "Kwapt agałxuxtka ałagulul.",
         "english": "Every once in a while she'll steal their acorns from them."
       },
       {
@@ -52330,7 +52435,57 @@
       }
     ],
     "seeAlso": [
-      "makwapt, mag̲kwapt,kwáptkag̲a, kwapdix, kwabát"
+      "makwapt, mag̲kwapt, kwáptkag̲a, kwapdix, kwabát"
+    ]
+  },
+  "kwas": {
+    "root": "kwas",
+    "partOfSpeech": "adv",
+    "definition": "the last, all of it",
+    "examples": [
+      {
+        "kiksht": "kwas asablal",
+        "english": "the last of the bread, that's all the bread"
+      },
+      {
+        "kiksht": "Kwas enług̲emsht iłchqwá.",
+        "english": "I'm drinking the last bit of water. [GT 1/14/99]"
+      }
+    ],
+    "pronunciation": "Long -a-; Gladys Th- ompson and Madeline McInturff did not recognize the word when pro- nounced with a short -a-."
+  },
+  "kwatxalá": {
+    "root": "kwatxalá",
+    "partOfSpeech": "adv",
+    "definition": "too, too much"
+  },
+  "kwatłkwatł": {
+    "root": "kwatłkwatł",
+    "partOfSpeech": "part",
+    "definition": "stick",
+    "examples": [
+      {
+        "kiksht": "Kwatłkwatł amłiluxáyaxdixa kánawiqaxba wachlxba.",
+        "english": "And you will stick it ev- erywhere in the underground lodge. [WTI.18.5]"
+      }
+    ]
+  },
+  "kwaukwau": {
+    "root": "kwaukwau",
+    "partOfSpeech": "part",
+    "definition": "light, lightweight",
+    "examples": [
+      {
+        "kiksht": "Kwaukwáu ikiax.",
+        "english": "He is making himself light."
+      },
+      {
+        "kiksht": "Kwaukwáu inxux.",
+        "english": "I made myself light, I re- duced. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dakwaukwau, saikwaukwau"
     ]
   },
   "kánawi": {
