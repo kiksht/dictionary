@@ -18899,6 +18899,25 @@
       }
     ]
   },
+  "-łiap'ucken": {
+    "root": "-łiap'ucken",
+    "partOfSpeech": "n",
+    "definition": "hummingbird",
+    "forms": [
+      {
+        "kiksht": "iłiap'ucken",
+        "english": "(male) hum- mingbird"
+      },
+      {
+        "kiksht": "ałiap'ucken",
+        "english": "(female) hummingbird"
+      },
+      {
+        "kiksht": "iłiap'uckenks",
+        "english": "hum- mingbirds [Dyk]"
+      }
+    ]
+  },
   "Agac'ia": {
     "root": "Agac'ia",
     "partOfSpeech": "place",
@@ -19118,6 +19137,11 @@
     "root": "See also: -",
     "partOfSpeech": "See also: - ",
     "definition": "See also: -X̲"
+  },
+  "See also: -ł-k-TŁ": {
+    "root": "See also: -ł-k-TŁ",
+    "partOfSpeech": "See also: -¬-k-TÒ",
+    "definition": "See also: -ł-k-TŁQ"
   },
   "See also: iqdenitkwchk, iłkshtka": {
     "root": "See also: iqdenitkwchk, iłkshtka",
@@ -45320,6 +45344,20 @@
       "ánana"
     ]
   },
+  "i- -łignini": {
+    "root": "i- -łignini",
+    "partOfSpeech": "adj n",
+    "definition": "busy",
+    "forms": [
+      {
+        "kiksht": "ichłignini",
+        "english": "I am busy [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łignini"
+    ]
+  },
   "i-'ish'ish": {
     "root": "i-'ish'ish",
     "partOfSpeech": "n",
@@ -56509,6 +56547,17 @@
       "a-laish, ił-laish"
     ]
   },
+  "it-łg̲wúl": {
+    "root": "it-łg̲wúl",
+    "partOfSpeech": "n",
+    "definition": "white and swollen ap- pearance of a cut as after treatment",
+    "examples": [
+      {
+        "kiksht": "Idiałg̲wúl txiluxt.",
+        "english": "(The cut) becomes white and swollen in him. [Dyk]"
+      }
+    ]
+  },
   "itgachaxelqwłimax akłmín": {
     "root": "itgachaxelqwłimax akłmín",
     "partOfSpeech": "n",
@@ -61271,6 +61320,14 @@
       "inat"
     ]
   },
+  "Łiak'álaimadix": {
+    "root": "Łiak'álaimadix",
+    "partOfSpeech": "place",
+    "definition": "His Stepping- stone Place",
+    "notes": [
+      "A place in Wasco country."
+    ]
+  },
   "ł-iaxaluksh": {
     "root": "ł-iaxaluksh",
     "partOfSpeech": "n",
@@ -61668,6 +61725,98 @@
       "-SHTX̲W"
     ]
   },
+  "łgiuxt": {
+    "root": "łgiuxt",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is doing to it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "łgiuxulal": {
+    "root": "łgiuxulal",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] keeps telling him",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "łgiuxúlalix": {
+    "root": "łgiuxúlalix",
+    "partOfSpeech": "vb",
+    "definition": "they are trying to make it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "łgiwag̲wa": {
+    "root": "łgiwag̲wa",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] kills it[i-]",
+    "seeAlso": [
+      "-WA-qw"
+    ]
+  },
+  "łglalam": {
+    "root": "łglalam",
+    "partOfSpeech": "vb",
+    "definition": "they sing",
+    "seeAlso": [
+      "-k-LALAM"
+    ]
+  },
+  "łgnukwul": {
+    "root": "łgnukwul",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] knows me",
+    "seeAlso": [
+      "-KL"
+    ]
+  },
+  "łgnúxt": {
+    "root": "łgnúxt",
+    "partOfSpeech": "vb",
+    "definition": "it does me",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "łgup": {
+    "root": "łgup",
+    "partOfSpeech": "part",
+    "definition": "burst",
+    "examples": [
+      {
+        "kiksht": "Iyawan łgup galixuxwax.",
+        "english": "His belly burst. [WTI.1m.5]"
+      }
+    ],
+    "seeAlso": [
+      "łkup"
+    ]
+  },
+  "łgutxmít": {
+    "root": "łgutxmít",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] sets it[a-] up",
+    "seeAlso": [
+      "-TX(WI), -TX-mit"
+    ]
+  },
+  "łgwap": {
+    "root": "łgwap",
+    "partOfSpeech": "part",
+    "definition": "burst out [WTI.17.12], burst [GT 1/14/99]",
+    "examples": [
+      {
+        "kiksht": "Łgwap galikchax.",
+        "english": "He burst out crying. [WTI.17.12]"
+      }
+    ],
+    "seeAlso": [
+      "tłgwap"
+    ]
+  },
   "łgágelgat": {
     "root": "łgágelgat",
     "partOfSpeech": "vb",
@@ -61682,6 +61831,140 @@
     "definition": "they call him, they summon him",
     "seeAlso": [
       "-gl-KIM"
+    ]
+  },
+  "łg̲a": {
+    "root": "łg̲a",
+    "partOfSpeech": "adv",
+    "definition": "perhaps, maybe, I think",
+    "examples": [
+      {
+        "kiksht": "Itsháwashlalamax gacháwichmaq qawat łg̲a łun chi lakt.",
+        "english": "He heard something like three or four Indian songs. [WTIV.4.1]"
+      }
+    ],
+    "seeAlso": [
+      "łga, łka"
+    ]
+  },
+  "łg̲iwitam": {
+    "root": "łg̲iwitam",
+    "partOfSpeech": "vb",
+    "definition": "they are sleeping",
+    "seeAlso": [
+      "-QIU, -QIW-it"
+    ]
+  },
+  "łg̲up": {
+    "root": "łg̲up",
+    "partOfSpeech": "part",
+    "definition": "shoot",
+    "examples": [
+      {
+        "kiksht": "Łg̲up ichshux ishg̲wálala.",
+        "english": "He shot the gun."
+      },
+      {
+        "kiksht": "Łg̲ub ichikux ich'ánk.",
+        "english": "He shot the deer. [GT, MMc 6/5/98]"
+      }
+    ],
+    "notes": [
+      "An augmentative (\"talking big,\" opposite of \"talking small\") version of łk'up."
+    ],
+    "seeAlso": [
+      "łk'up"
+    ]
+  },
+  "łg̲utłqdiksh": {
+    "root": "łg̲utłqdiksh",
+    "partOfSpeech": "num",
+    "definition": "they eight",
+    "seeAlso": [
+      "g̲utłqt"
+    ]
+  },
+  "łid": {
+    "root": "łid",
+    "partOfSpeech": "vb",
+    "definition": "give it to them!",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "łigelgat": {
+    "root": "łigelgat",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is holding it[i-]",
+    "examples": [
+      {
+        "kiksht": "Gigad ixt inag̲un, digad ixt inag̲un iłakshén łigelgat.",
+        "english": "He[ił-] holds in his hand one sturgeon on that side and one sturgeon on this side. [WTI.1d.1]"
+      }
+    ],
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "łigitłqix": {
+    "root": "łigitłqix",
+    "partOfSpeech": "vb",
+    "definition": "it is finished",
+    "examples": [
+      {
+        "kiksht": "Qw'ap ag̲a łigitłqix.",
+        "english": "It is nearly finished. [PK 7/17/56]"
+      }
+    ]
+  },
+  "łiglaitix": {
+    "root": "łiglaitix",
+    "partOfSpeech": "vb",
+    "definition": "they sit on it[i-]",
+    "examples": [
+      {
+        "kiksht": "Łiglaitix iknimba.",
+        "english": "They are sitting in a canoe. [WTI.4.2]"
+      }
+    ],
+    "seeAlso": [
+      "-LA-it"
+    ]
+  },
+  "łignini": {
+    "root": "łignini",
+    "partOfSpeech": "adv",
+    "definition": "busy, keep from doing",
+    "examples": [
+      {
+        "kiksht": "Łignini ichiux.",
+        "english": "She kept him from doing (as by giving him something else to do.) [Dyk]"
+      },
+      {
+        "kiksht": "Dayayamt łignini anxatxa.",
+        "english": "From now on I'll be busy. [PK]"
+      },
+      {
+        "kiksht": "K'aya nait'ax anuya, łignini nkiax.",
+        "english": "I can't go, I'm busy. [GT, MMc]"
+      }
+    ],
+    "seeAlso": [
+      "i- -ignini"
+    ]
+  },
+  "łig̲élpx": {
+    "root": "łig̲élpx",
+    "partOfSpeech": "vb",
+    "definition": "it is going out from him, it is flowing from him",
+    "examples": [
+      {
+        "kiksht": "Iłqawulqt łig̲élpx.",
+        "english": "Blood is flowing from him. [WTI.1c.7]"
+      }
+    ],
+    "seeAlso": [
+      "-PA"
     ]
   },
   "łáglalitix": {
