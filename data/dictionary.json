@@ -7055,6 +7055,142 @@
       "ish-kányagwamat"
     ]
   },
+  "-P G̲NA": {
+    "root": "-P G̲NA",
+    "partOfSpeech": "vb",
+    "definition": "call, call by name, name, pronounce, call upon, appoint, say of",
+    "forms": [
+      {
+        "kiksht": "gachupg̲na",
+        "english": "he called her"
+      },
+      {
+        "kiksht": "gachshupg̲na",
+        "english": "he called them 2"
+      },
+      {
+        "kiksht": "aqmdupg̲naya",
+        "english": "someone will call you 2, you 2 will be called"
+      },
+      {
+        "kiksht": "yamupg̲nat",
+        "english": "I have you called"
+      },
+      {
+        "kiksht": "yamdupg̲nat",
+        "english": "I have you 2 called"
+      },
+      {
+        "kiksht": "yamshupg̲nat",
+        "english": "I have you folks called"
+      },
+      {
+        "kiksht": "qmupg̲nat",
+        "english": "we 2 have you called"
+      },
+      {
+        "kiksht": "qmdupg̲nat",
+        "english": "we 2 have you 2 called"
+      },
+      {
+        "kiksht": "qmshupg̲nat",
+        "english": "we 2 have you folks called"
+      },
+      {
+        "kiksht": "chnshupg̲nanan",
+        "english": "he is calling us by name"
+      },
+      {
+        "kiksht": "chlxupg̲naiwanan",
+        "english": "he is calling us each one"
+      },
+      {
+        "kiksht": "ichnshupg̲náiwananamchk",
+        "english": "he called us each by name"
+      },
+      {
+        "kiksht": "nachnshupg̲nanama",
+        "english": "he called us by name"
+      },
+      {
+        "kiksht": "nichnshupg̲nánamchk",
+        "english": "he finished calling us by name"
+      },
+      {
+        "kiksht": "nichnshupg̲náiwanan",
+        "english": "he was calling each one of us by name"
+      },
+      {
+        "kiksht": "achnshupg̲naiwananma",
+        "english": "he will call us each by name"
+      },
+      {
+        "kiksht": "achupg̲nananma",
+        "english": "he will call her by name"
+      },
+      {
+        "kiksht": "nupg̲nat",
+        "english": "I am called, pronounced"
+      },
+      {
+        "kiksht": "ik'ipgnanan",
+        "english": "he is calling"
+      },
+      {
+        "kiksht": "igak'ipg̲na",
+        "english": "he called"
+      },
+      {
+        "kiksht": "igixtk'ipg̲na",
+        "english": "he called (over there)"
+      },
+      {
+        "kiksht": "gachnshupg̲naiwananemchk",
+        "english": "he called each one of us"
+      },
+      {
+        "kiksht": "gaqnshupg̲náiwananamchk",
+        "english": "we were each one of us called, someone called each one of us"
+      },
+      {
+        "kiksht": "gachnshupg̲naiwananamx",
+        "english": "he called us each one by name (as in roll call, all in one call)"
+      },
+      {
+        "kiksht": "gaqnshupg̲náiwananamx",
+        "english": "one called each one of us by name, we were each called by name (as in school, prison; by order)"
+      },
+      {
+        "kiksht": "gachnshupg̲nananamx",
+        "english": "he called us by names (not by order) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Yupg̲nat ayak'auk'au.",
+        "english": "He is, has been, pronounced a mur- derer."
+      },
+      {
+        "kiksht": "Shtupg̲nat ishtak'amla.",
+        "english": "They 2 are called bad, pronounced guilty."
+      },
+      {
+        "kiksht": "Iyupg̲naxit ayak'auk'au.",
+        "english": "He came to be called a murderer. [Dyk]"
+      },
+      {
+        "kiksht": "Aqmdupqnaya",
+        "english": "Iskw'álacincin ishdimam."
+      },
+      {
+        "kiksht": "",
+        "english": "People will say of you, 'The swallows have come.' [WTI.1a6]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ipg̲nanan, i- k'ipg̲náiwanan"
+    ]
+  },
   "-PA": {
     "root": "-PA",
     "partOfSpeech": "vb",
@@ -15590,6 +15726,14 @@
       "pcx, dapchix"
     ]
   },
+  "-pichish": {
+    "root": "-pichish",
+    "partOfSpeech": "n",
+    "definition": "peaches",
+    "notes": [
+      "Borrowed from English. No prefix is given."
+    ]
+  },
   "-q'l-PA": {
     "root": "-q'l-PA",
     "partOfSpeech": "vb",
@@ -16807,6 +16951,17 @@
       {
         "kiksht": "ashemxélglagwachkwa",
         "english": "you will take care of yourself [Spilyay/ Healthy Nations]"
+      }
+    ]
+  },
+  "-sh-xl-PILA-wulx": {
+    "root": "-sh-xl-PILA-wulx",
+    "partOfSpeech": "vb",
+    "definition": "stick out one's chest and stomach",
+    "forms": [
+      {
+        "kiksht": "shixelpílawelxt",
+        "english": "he is sticking out his chest and stomach [Dyk]"
       }
     ]
   },
@@ -26425,6 +26580,11 @@
     "seeAlso": [
       "wi-pán, a-bánaxa, i-bánaxa"
     ]
+  },
+  "a-píps": {
+    "root": "a-píps",
+    "partOfSpeech": "n",
+    "definition": "small redheaded wood- pecker [Dyk], blackheaded wood- pecker [HS 6/23/56]"
   },
   "a-łashqw'imliq": {
     "root": "a-łashqw'imliq",
@@ -58216,6 +58376,34 @@
       "i-q'aicglit"
     ]
   },
+  "i-pg̲ulx": {
+    "root": "i-pg̲ulx",
+    "partOfSpeech": "n",
+    "definition": "down, down feathers",
+    "forms": []
+  },
+  "i-piglit": {
+    "root": "i-piglit",
+    "partOfSpeech": "n",
+    "definition": "wipik ground, ground where wipik grows",
+    "seeAlso": [
+      "wi-pik"
+    ]
+  },
+  "i-pikcha": {
+    "root": "i-pikcha",
+    "partOfSpeech": "n",
+    "definition": "picture",
+    "forms": [
+      {
+        "kiksht": "ipíkchamax",
+        "english": "pictures [HS 6/ 23/56]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English"
+    ]
+  },
   "i-pápakwun": {
     "root": "i-pápakwun",
     "partOfSpeech": "n",
@@ -58225,6 +58413,17 @@
         "kiksht": "itpápakwun",
         "english": "claws [Bear and Crane F]"
       }
+    ]
+  },
+  "i-pík": {
+    "root": "i-pík",
+    "partOfSpeech": "n",
+    "definition": "pickaxe",
+    "notes": [
+      "Borrowed from English."
+    ],
+    "seeAlso": [
+      "i-kw'aikw'ai"
     ]
   },
   "i-shmiwa": {
@@ -63004,6 +63203,14 @@
     "definition": "weeds",
     "seeAlso": [
       "ił-pchéx"
+    ]
+  },
+  "it-pinałx": {
+    "root": "it-pinałx",
+    "partOfSpeech": "n",
+    "definition": "hazelbush, hazelbush rope",
+    "seeAlso": [
+      "i-binatłx"
     ]
   },
   "it-łg̲wúl": {
@@ -70384,6 +70591,14 @@
     "partOfSpeech": "n",
     "definition": "bag"
   },
+  "wa-pích": {
+    "root": "wa-pích",
+    "partOfSpeech": "n",
+    "definition": "food cache",
+    "notes": [
+      "Food gathered up and stored for winter use."
+    ]
+  },
   "wa-łala": {
     "root": "wa-łala",
     "partOfSpeech": "n",
@@ -70673,12 +70888,28 @@
       }
     ]
   },
+  "wi-pik": {
+    "root": "wi-pik",
+    "partOfSpeech": "n",
+    "definition": "an edible plant [Dyk], Wyethia amplexicaukis [DF]",
+    "seeAlso": [
+      "i-piglit"
+    ]
+  },
   "wi-pán": {
     "root": "wi-pán",
     "partOfSpeech": "n",
     "definition": "wild celery",
     "notes": [
       "Refers to the edible stem of the plant before it seeds; see a- pánag̲naq."
+    ]
+  },
+  "wi-píł": {
+    "root": "wi-píł",
+    "partOfSpeech": "n",
+    "definition": "nighthawk",
+    "seeAlso": [
+      "i-p'iu"
     ]
   },
   "wi-łq": {
