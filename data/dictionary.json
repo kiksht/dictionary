@@ -10342,6 +10342,20 @@
       "i-kmánanpł"
     ]
   },
+  "-i-gm-NANIT": {
+    "root": "-i-gm-NANIT",
+    "partOfSpeech": "vb",
+    "definition": "pity and wish well to someone seriously ill",
+    "forms": [
+      {
+        "kiksht": "chaigemnanit",
+        "english": "he is pitying her, talking to her and wishing her well [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-kmananit"
+    ]
+  },
   "-i-g̲l-KWT-pa": {
     "root": "-i-g̲l-KWT-pa",
     "partOfSpeech": "vb",
@@ -14779,6 +14793,40 @@
       {
         "kiksht": "iłnag̲un",
         "english": "sturgeon [plural] [Dyk]"
+      }
+    ]
+  },
+  "-namdatx": {
+    "root": "-namdatx",
+    "partOfSpeech": "n",
+    "definition": "spouse of grandchild, grandchild-in-law",
+    "forms": [
+      {
+        "kiksht": "ichnamdatx",
+        "english": "my granddaughter's husband"
+      },
+      {
+        "kiksht": "agnamdatx",
+        "english": "my grandson's wife [Relatives]"
+      }
+    ]
+  },
+  "-nanuksh": {
+    "root": "-nanuksh",
+    "partOfSpeech": "n",
+    "definition": "otter",
+    "forms": [
+      {
+        "kiksht": "inanuksh",
+        "english": "male otter"
+      },
+      {
+        "kiksht": "ananuksh",
+        "english": "female otter"
+      },
+      {
+        "kiksht": "inanukshmax",
+        "english": "otters [Dyk]"
       }
     ]
   },
@@ -62867,6 +62915,38 @@
       "i-natchkanlit, Iłianatchkanix, i-gabnashq"
     ]
   },
+  "ił-nanaq": {
+    "root": "ił-nanaq",
+    "partOfSpeech": "n",
+    "definition": "nest",
+    "forms": [
+      {
+        "kiksht": "iłnánag̲max",
+        "english": "nests [Dyk]"
+      }
+    ]
+  },
+  "ił-nanax": {
+    "root": "ił-nanax",
+    "partOfSpeech": "n",
+    "definition": "snoring",
+    "forms": [
+      {
+        "kiksht": "iłgánanax",
+        "english": "she is snoring, is a snorer [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Iłgánanax atqiu.",
+        "english": "She was snoring as she was sleeping."
+      },
+      {
+        "kiksht": "Wapul iłyánanax.",
+        "english": "He snored all night. [Dyk]"
+      }
+    ]
+  },
   "ił-łpuksh": {
     "root": "ił-łpuksh",
     "partOfSpeech": "n",
@@ -65908,6 +65988,230 @@
     "definition": "she went to him",
     "seeAlso": [
       "-I"
+    ]
+  },
+  "naika": {
+    "root": "naika",
+    "partOfSpeech": "pron",
+    "definition": "I, me",
+    "notes": [
+      "Independent personal pro- noun."
+    ]
+  },
+  "naikengi": {
+    "root": "naikengi",
+    "partOfSpeech": "pron",
+    "definition": "by myself"
+  },
+  "nailadaulx": {
+    "root": "nailadaulx",
+    "partOfSpeech": "vb",
+    "definition": "she jumped up into him",
+    "seeAlso": [
+      "-TA, -WULX"
+    ]
+  },
+  "naima": {
+    "root": "naima",
+    "partOfSpeech": "pron",
+    "definition": "only I, only me"
+  },
+  "nait'a": {
+    "root": "nait'a",
+    "partOfSpeech": "pron",
+    "definition": "I also, me also"
+  },
+  "nait'ax": {
+    "root": "nait'ax",
+    "partOfSpeech": "pron",
+    "definition": "I also, me also"
+  },
+  "naixlútk": {
+    "root": "naixlútk",
+    "partOfSpeech": "vb",
+    "definition": "he saved it[a-] for him- self",
+    "seeAlso": [
+      "-TK"
+    ]
+  },
+  "naixútk": {
+    "root": "naixútk",
+    "partOfSpeech": "vb",
+    "definition": "he hid her",
+    "seeAlso": [
+      "-x-TK, -TK"
+    ]
+  },
+  "nak'aima": {
+    "root": "nak'aima",
+    "partOfSpeech": "pron",
+    "definition": "by myself, I alone, me alone"
+  },
+  "nakim": {
+    "root": "nakim",
+    "partOfSpeech": "vb",
+    "definition": "she said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "nakta": {
+    "root": "nakta",
+    "partOfSpeech": "vb",
+    "definition": "she ran on [WTI.12.1], she ran off [WTI.18.3]",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "naktaitam": {
+    "root": "naktaitam",
+    "partOfSpeech": "vb",
+    "definition": "she ran until she arrived",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "naktáaaa": {
+    "root": "naktáaaa",
+    "partOfSpeech": "vb",
+    "definition": "she ran and ran",
+    "notes": [
+      "The lengthening of the vowel -a indicates continuing action."
+    ],
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "namduxa": {
+    "root": "namduxa",
+    "partOfSpeech": "vb",
+    "definition": "you did them",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "namen": {
+    "root": "namen",
+    "partOfSpeech": "pron",
+    "definition": "whole, complete, en- tire",
+    "forms": [],
+    "examples": [
+      {
+        "kiksht": "ichaqwsh namen",
+        "english": "the whole pine tree"
+      },
+      {
+        "kiksht": "námenmax ilibum",
+        "english": "whole apples (not cut up)"
+      },
+      {
+        "kiksht": "Namen luq' ichiux.",
+        "english": "He swallowed him in one whole piece. [Dyk]"
+      },
+      {
+        "kiksht": "Qushtíaxa namen ixt igunat kwaba iag̲ichxutpa yuxwáxt.",
+        "english": "In fact one whole salmon is lying in his quiver. [WTI.1i.6]"
+      },
+      {
+        "kiksht": "Qushtíaxa namenmax iłgwałilx ałalxus.",
+        "english": "In truth it was all people's eyeballs. [WTI.4.4]"
+      }
+    ]
+  },
+  "namialuda": {
+    "root": "namialuda",
+    "partOfSpeech": "vb",
+    "definition": "you gave it[i-] to her",
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "namigima": {
+    "root": "namigima",
+    "partOfSpeech": "vb",
+    "definition": "you told him",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "namshuya": {
+    "root": "namshuya",
+    "partOfSpeech": "vb",
+    "definition": "you folks went",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "namugwaya": {
+    "root": "namugwaya",
+    "partOfSpeech": "vb",
+    "definition": "you flew",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "namyuxa": {
+    "root": "namyuxa",
+    "partOfSpeech": "vb",
+    "definition": "you did it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "nanqw'atłg̲uxit": {
+    "root": "nanqw'atłg̲uxit",
+    "partOfSpeech": "vb",
+    "definition": "she choked, she was choked",
+    "seeAlso": [
+      "-n-QW'ATŁ-qw"
+    ]
+  },
+  "nanshgug̲iglaya": {
+    "root": "nanshgug̲iglaya",
+    "partOfSpeech": "vb",
+    "definition": "we saw them",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "nanshkílaba": {
+    "root": "nanshkílaba",
+    "partOfSpeech": "vb",
+    "definition": "we dug it[i-] out",
+    "seeAlso": [
+      "-LA-pa"
+    ]
+  },
+  "nanugwaya": {
+    "root": "nanugwaya",
+    "partOfSpeech": "vb",
+    "definition": "I flew",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "nanłg̲elglaya": {
+    "root": "nanłg̲elglaya",
+    "partOfSpeech": "vb",
+    "definition": "I saw it",
+    "seeAlso": [
+      "-g̲l-KL"
+    ]
+  },
+  "nałenxelmuxma": {
+    "root": "nałenxelmuxma",
+    "partOfSpeech": "vb",
+    "definition": "I ate them",
+    "seeAlso": [
+      "-xl-MUX̲"
+    ]
+  },
+  "nałgima": {
+    "root": "nałgima",
+    "partOfSpeech": "vb",
+    "definition": "they said",
+    "seeAlso": [
+      "-KIM"
     ]
   },
   "qengi": {
