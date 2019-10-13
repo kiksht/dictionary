@@ -5075,6 +5075,17 @@
       "it-qálagwadit"
     ]
   },
+  "-LA-pa": {
+    "root": "-LA-pa",
+    "partOfSpeech": "vb",
+    "definition": "dig up",
+    "forms": [
+      {
+        "kiksht": "gaqndulapax",
+        "english": "one dug us two (not including you) up [WTI.5.2]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -10417,6 +10428,28 @@
     "partOfSpeech": "vb",
     "definition": "tell story to Examples: nilxik'áłx \"I'm telling him a story\" nalxik'áłx \"I'm telling her a story\" nanilxik'ałxa \"I told him a story\" nachnlxik'ałxa \"he told me a story\" [GT, MMc 1/12/99]"
   },
+  "-l-xi-LA-kw": {
+    "root": "-l-xi-LA-kw",
+    "partOfSpeech": "vb",
+    "definition": "mix with, mix up with",
+    "forms": [
+      {
+        "kiksht": "ichialxílagwa",
+        "english": "he mixed it[i-] up with it[a-]"
+      },
+      {
+        "kiksht": "igailxílakwit",
+        "english": "it[a-] was mixed with it[i-], became mixed with it"
+      },
+      {
+        "kiksht": "igilxílakwit",
+        "english": "it[i-] was mixed with it[i-], became mixed with it [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qik'ílalakwł"
+    ]
+  },
   "-n-GA-kw": {
     "root": "-n-GA-kw",
     "partOfSpeech": "vb",
@@ -10656,6 +10689,17 @@
       "-CHXA, -qi-CHXA"
     ]
   },
+  "-qi-LA-kw": {
+    "root": "-qi-LA-kw",
+    "partOfSpeech": "vb",
+    "definition": "sing love songs",
+    "forms": [
+      {
+        "kiksht": "iqílagwax",
+        "english": "he's singing love songs [GT, MMc 6/4/98]"
+      }
+    ]
+  },
   "-s-BNA": {
     "root": "-s-BNA",
     "partOfSpeech": "vb",
@@ -10862,6 +10906,29 @@
     ],
     "notes": [
       "Implies looking about while standing still, not going in search of something or someone."
+    ]
+  },
+  "-s-k'i-LA-pa": {
+    "root": "-s-k'i-LA-pa",
+    "partOfSpeech": "vb",
+    "definition": "tip over",
+    "forms": [
+      {
+        "kiksht": "cełsk'ilalpł",
+        "english": "he is tipping them over"
+      },
+      {
+        "kiksht": "icsak'ílaba",
+        "english": "he just tipped it[a-] over"
+      },
+      {
+        "kiksht": "isixílaba",
+        "english": "he just tipped himself over (backward)"
+      },
+      {
+        "kiksht": "sak'ilpax",
+        "english": "it[a-] is tipped over and lying [Dyk]"
+      }
     ]
   },
   "-s-l-CGI": {
@@ -11383,6 +11450,33 @@
       {
         "kiksht": "chalglagwachkux",
         "english": "she is tended [Dyk]"
+      }
+    ]
+  },
+  "-sh-l-LA-kw": {
+    "root": "-sh-l-LA-kw",
+    "partOfSpeech": "vb",
+    "definition": "hit with both fists, throw one's fists at",
+    "forms": [
+      {
+        "kiksht": "ashámilagwa",
+        "english": "I'll hit you with with my fists, throw both fists at you"
+      },
+      {
+        "kiksht": "chsháilalkwł",
+        "english": "he is hitting her with his fists"
+      },
+      {
+        "kiksht": "kshilalkwł",
+        "english": "she is hitting him with her fists"
+      },
+      {
+        "kiksht": "nichshailalkwł",
+        "english": "he was hitting her with his fists (last season)"
+      },
+      {
+        "kiksht": "nichshaidlakwt",
+        "english": "he was hitting her with his fists (once) (last week) [Dyk]"
       }
     ]
   },
@@ -13625,6 +13719,21 @@
       "Refers to getting up from lying down."
     ]
   },
+  "-x-LA-mit": {
+    "root": "-x-LA-mit",
+    "partOfSpeech": "vb",
+    "definition": "train (as for a race), make to train",
+    "forms": [
+      {
+        "kiksht": "axlamit!",
+        "english": "train her (as for a race)!"
+      },
+      {
+        "kiksht": "achaxlamida",
+        "english": "he will make her train [GT 6/4/98]"
+      }
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -14958,6 +15067,25 @@
       }
     ]
   },
+  "-xi-LA-kw": {
+    "root": "-xi-LA-kw",
+    "partOfSpeech": "vb",
+    "definition": "shake in",
+    "forms": [
+      {
+        "kiksht": "aixílagwax",
+        "english": "he is shaking it[a- ] in himself"
+      },
+      {
+        "kiksht": "yaxáilagwax",
+        "english": "he is shaking himself in it[a-]"
+      },
+      {
+        "kiksht": "ixílagwax",
+        "english": "he is shaking it[i-] in himself; he is shaking himself in it[i-] [Dyk]"
+      }
+    ]
+  },
   "-xi-LA-l-it": {
     "root": "-xi-LA-l-it",
     "partOfSpeech": "vb",
@@ -15315,6 +15443,11 @@
       "-KWŁI"
     ]
   },
+  "-xl-LA-kw": {
+    "root": "-xl-LA-kw",
+    "partOfSpeech": "vb",
+    "definition": "move about in itself, mix up"
+  },
   "-xl-YA-mit": {
     "root": "-xl-YA-mit",
     "partOfSpeech": "vb",
@@ -15369,6 +15502,28 @@
         "kiksht": "Anshxengiglaya qengi adasq'ú idáit.",
         "english": "We will understand what Wasco ways are. [Museum 5]"
       }
+    ]
+  },
+  "-xl-xi-LA-kw": {
+    "root": "-xl-xi-LA-kw",
+    "partOfSpeech": "vb",
+    "definition": "mix all up",
+    "forms": [
+      {
+        "kiksht": "ichaxelxílagwa",
+        "english": "he mixed it[a-] up"
+      },
+      {
+        "kiksht": "axelxilakwt",
+        "english": "it[a-] (for instance, different kinds of acorns, ag̲ulul) is all mixed up"
+      },
+      {
+        "kiksht": "axelxílaguxlit",
+        "english": "they[a-] are becoming all mixed up, are being caused to be all mixed up [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qik'ílalakwł"
     ]
   },
   "-xm-GA-mida-pa": {

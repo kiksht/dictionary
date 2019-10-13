@@ -15755,3 +15755,44 @@ Notes: This verb is constructed in two different ways. When used sim- ply in the
 
 -l-LA-kw [vb] move about within, mix in
 Forms: ch¬lk’ˆlalkw¬ “he is mixing something in it” [Dyk]
+
+
+
+
+
+
+
+-l-xi-LA-kw [vb] mix with, mix up with
+Forms: ichialxˆlagwa “he mixed it[i-] up with it[a-]” igailxˆlakwit “it[a-] was mixed with it[i-], became mixed with it” igilxˆlakwit “it[i-] was mixed with it[i-], became mixed with it” [Dyk]
+See also: i-qik’ˆlalakw¬
+
+-qi-LA-kw [vb] sing love songs
+Forms: iqˆlagwax “he’s singing love songs” [GT, MMc 6/4/98]
+
+-sh-l-LA-kw [vb] hit with both fists, throw one’s fists at
+Forms: ashÅmilagwa “I’ll hit you with with my fists, throw both fists at you” chshÅilalkw¬ “he is hitting her with his fists” kshilalkw¬ “she is hitting him with her fists” nichshailalkw¬ “he was hitting her with his fists (last season)” nichshaidlakwt “he was hitting her with his fists (once) (last week)” [Dyk]
+
+-xi-LA-kw [vb] sing of one whom one has slept with
+Forms: ixˆlagwa “he is singing of one whom he has slept with” [Dyk]
+See also: i-qˆlagwax
+
+-xi-LA-kw [vb] shake in
+Forms: aixˆlagwax “he is shaking it[a- ] in himself” yaxÅilagwax “he is shaking himself in it[a-]” ixˆlagwax “he is shaking it[i-] in himself; he is shaking himself in it[i-]” [Dyk]
+
+-xl-LA-kw [vb] move about in itself, mix up
+
+-xl-xi-LA-kw [vb] mix all up
+Forms: ichaxelxˆlagwa “he mixed it[a-] up” axelxilakwt “it[a-] (for instance, different kinds of acorns, a©ulul) is all mixed up” axelxˆlaguxlit “they[a-] are becoming all mixed up, are being caused to be all mixed up” [Dyk]
+See also: i-qik’ˆlalakw¬
+
+-x-LA-mit [vb] erase, demolish, oblit- erate
+Forms: axlamit! “erase it[a-]!” achaxlÅmida “he will demolish it[a-]” chixlamit “he is erasing it[i-]” ixlÅmitix “it[i-] has been erased” [PK] See also: -x-YA-mit
+
+-x-LA-mit [vb] train (as for a race), make to train
+Forms: axlamit! “train her (as for a race)!” achaxlamida “he will make her train” [GT 6/4/98]
+
+-LA-pa [vb] dig up
+Forms: gaqndulapax “one dug us two (not including you) up” [WTI.5.2]
+
+-s-k’i-LA-pa [vb] tip over
+Forms: ce¬sk’ilalp¬ “he is tipping them over” icsak’ˆlaba “he just tipped it[a-] over” isixˆlaba “he just tipped himself over (backward)” sak’ilpax “it[a-] is tipped over and lying” [Dyk]
