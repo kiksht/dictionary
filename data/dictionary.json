@@ -3247,6 +3247,106 @@
       "-TK, -KITK"
     ]
   },
+  "-K'IXA": {
+    "root": "-K'IXA",
+    "partOfSpeech": "vb",
+    "definition": "swim",
+    "forms": [
+      {
+        "kiksht": "nukw'íxalal",
+        "english": "I'm swimming [GT 6/3/98]"
+      },
+      {
+        "kiksht": "yuk'wíxalal, yukw'ixat",
+        "english": "he is swimming"
+      },
+      {
+        "kiksht": "yukw'ixa",
+        "english": "he swam"
+      },
+      {
+        "kiksht": "iłukw'ixa",
+        "english": "they swam (as a group)"
+      },
+      {
+        "kiksht": "iłukw'ixayu",
+        "english": "they swam (individually)"
+      },
+      {
+        "kiksht": "niyuk'ixa",
+        "english": "he swam (last season)"
+      },
+      {
+        "kiksht": "niyuk'ixalal",
+        "english": "he was swimming about (last season)"
+      },
+      {
+        "kiksht": "niyuk'íxalalmchk",
+        "english": "he swam about (last season)"
+      },
+      {
+        "kiksht": "nigitk'ixa",
+        "english": "he swam (last week)"
+      },
+      {
+        "kiksht": "nigitk'ixalal",
+        "english": "he was swimming about (last week)"
+      },
+      {
+        "kiksht": "nigitk'íxalalmchk",
+        "english": "he swam about (last week)"
+      },
+      {
+        "kiksht": "gayukw'íx§nił",
+        "english": "he swims (as every day)"
+      },
+      {
+        "kiksht": "gałukw'ixayux",
+        "english": "they (each) swam"
+      },
+      {
+        "kiksht": "yukw'ixáchkwt",
+        "english": "he has swum up out of water"
+      },
+      {
+        "kiksht": "iyukw'ixapchk",
+        "english": "he swam from water, ashore"
+      },
+      {
+        "kiksht": "yalk'ixakwt",
+        "english": "he is swimming around inside of it[a-]"
+      },
+      {
+        "kiksht": "aliglk'íxaqgwagwayaxdix",
+        "english": "he will swim across it[i-]"
+      },
+      {
+        "kiksht": "igiglk'ixaqkwagwix",
+        "english": "he swam across it[i-]"
+      },
+      {
+        "kiksht": "chiukw'íxamit",
+        "english": "he is making him swim"
+      },
+      {
+        "kiksht": "tgatk'íaiwidamt",
+        "english": "they arrive swim- ming [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Nagwatx itk'íxaulxmx",
+        "english": "I wish he would swim up. [Dyk]"
+      },
+      {
+        "kiksht": "Ag̲a kwapt gayukw'ixa iłaxnimyamt.",
+        "english": "Now then he swam toward his canoe. [WTI.1d.2]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'íxalal"
+    ]
+  },
   "-KA": {
     "root": "-KA",
     "partOfSpeech": "vb",
@@ -7097,6 +7197,21 @@
       "-TŁI, i-k'itłinan"
     ]
   },
+  "-k'iwaxmat": {
+    "root": "-k'iwaxmat",
+    "partOfSpeech": "n",
+    "definition": "lamp, light, torch, light bulb, light fixture, something with which to make light",
+    "forms": [],
+    "examples": [
+      {
+        "kiksht": "Wax anłuxwa iłk'iwaxmat awachi kwaish, qengi ch'ala?",
+        "english": "Shall I light the light now or after a while, what do you say? [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "wax, ił-k'iwax, i-k'iwaxmat"
+    ]
+  },
   "-k'álamat": {
     "root": "-k'álamat",
     "partOfSpeech": "n",
@@ -8245,6 +8360,17 @@
     ],
     "seeAlso": [
       "-l-GA-xit"
+    ]
+  },
+  "-l-K'IX̲": {
+    "root": "-l-K'IX̲",
+    "partOfSpeech": "vb",
+    "definition": "serve a guest with food",
+    "forms": [
+      {
+        "kiksht": "ichalk'ix",
+        "english": "he served her [Dyk]"
+      }
     ]
   },
   "-l-KA-pq": {
@@ -43043,6 +43169,93 @@
       "wax, ił-k'iwax, i-k'íwaxmat"
     ]
   },
+  "i-k'iwish": {
+    "root": "i-k'iwish",
+    "partOfSpeech": "n",
+    "definition": "scolding, rebuking",
+    "forms": [
+      {
+        "kiksht": "ichak'iwish",
+        "english": "she is a rebuker, a scold [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "iyak'amla ik'iwish",
+        "english": "a bad scolding [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "'wish"
+    ]
+  },
+  "i-k'ixacha": {
+    "root": "i-k'ixacha",
+    "partOfSpeech": "n",
+    "definition": "biting, bite",
+    "forms": [
+      {
+        "kiksht": "iyak'íxacha",
+        "english": "he bites, is a biter (for instance, a dog who always bites people) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x-CHA, i-k'ixachalal"
+    ]
+  },
+  "i-k'ixachalal": {
+    "root": "i-k'ixachalal",
+    "partOfSpeech": "n",
+    "definition": "biting",
+    "forms": [
+      {
+        "kiksht": "iyak'íxachalal",
+        "english": "his biting [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-x-CHA, i-k'ixacha"
+    ]
+  },
+  "i-k'ixagwiłqł": {
+    "root": "i-k'ixagwiłqł",
+    "partOfSpeech": "n",
+    "definition": "throwing away",
+    "forms": [
+      {
+        "kiksht": "iyak'ixagwilqł",
+        "english": "he is a thrower away of things"
+      }
+    ],
+    "seeAlso": [
+      "-x-GWI-qw"
+    ]
+  },
+  "i-k'ixauxaumat": {
+    "root": "i-k'ixauxaumat",
+    "partOfSpeech": "n",
+    "definition": "scraper, some- thing to scrape with",
+    "seeAlso": [
+      "xauxau"
+    ]
+  },
+  "i-k'iximnił": {
+    "root": "i-k'iximnił",
+    "partOfSpeech": "n",
+    "definition": "inviting, calling over",
+    "forms": [
+      {
+        "kiksht": "iyak'iximnił, iyaxik'iximnił",
+        "english": "he is an inviter, one who invites people [Dyk]"
+      }
+    ],
+    "notes": [
+      "Means the same as i-kiximuł"
+    ],
+    "seeAlso": [
+      "i-kiximuł, -gl-XIM"
+    ]
+  },
   "i-k'iładnił": {
     "root": "i-k'iładnił",
     "partOfSpeech": "n",
@@ -43360,6 +43573,34 @@
     ],
     "seeAlso": [
       "-LA"
+    ]
+  },
+  "i-k'íxalal": {
+    "root": "i-k'íxalal",
+    "partOfSpeech": "n",
+    "definition": "swimming",
+    "forms": [
+      {
+        "kiksht": "ichak'íxalal",
+        "english": "her swimming; she is a swimmer [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-K'IXA"
+    ]
+  },
+  "i-k'íxwixwi": {
+    "root": "i-k'íxwixwi",
+    "partOfSpeech": "n",
+    "definition": "sniffing, smelling",
+    "forms": [
+      {
+        "kiksht": "iyak'íxwixwi",
+        "english": "he is a sniffer, smeller (for instance, a dog) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "xwi"
     ]
   },
   "i-k'íława": {
@@ -47852,6 +48093,38 @@
     ],
     "seeAlso": [
       "tg̲iwam"
+    ]
+  },
+  "it-k'iwax": {
+    "root": "it-k'iwax",
+    "partOfSpeech": "n",
+    "definition": "flower, blossom",
+    "forms": [
+      {
+        "kiksht": "itk'iwax",
+        "english": "flower"
+      },
+      {
+        "kiksht": "itk'iwaxmax",
+        "english": "flowers [Dyk]"
+      },
+      {
+        "kiksht": "itk'iwax",
+        "english": "flowers [MMc 7/30/96]"
+      },
+      {
+        "kiksht": "Madeline McInturff suggested ak'iwax for",
+        "english": "flower but was unsure of its correctness."
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Sukwítk itk'iwax.",
+        "english": "Look at the flowers. [MMc 7/30/96]"
+      }
+    ],
+    "seeAlso": [
+      "wax, ish-iak'iwax"
     ]
   },
   "it-k'iława": {

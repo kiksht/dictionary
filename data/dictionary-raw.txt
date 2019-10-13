@@ -14909,3 +14909,56 @@ See also: wax, i-k’iwax
 
 
 
+
+it-k’iwax [n] flower, blossom
+Forms: itk’iwax “flower” itk’iwaxmax “flowers” [Dyk] itk’iwax “flowers” [MMc 7/30/96] Madeline McInturff suggested ak’iwax for “flower” but was unsure of its correctness.
+Examples: Sukwˆtk itk’iwax. “Look at the flowers.” [MMc 7/30/96]
+See also: wax, ish-iak’iwax
+
+-k’iwaxmat [n] lamp, light, torch, light bulb, light fixture, something with which to make light
+Forms: Gladys Thompson says that this word must be used with i- prefix: ik’iwaxmat; she rejects i¬k’iwaxmat, but according to Dyk both ik’iwaxmat and i¬k’iwaxmat are possible and apparently mean the same.
+Examples: Wax an¬uxwa i¬k’iwaxmat awachi kwaish, qengi ch’ala? “Shall I light the light now or after a while, what do you say?” [Dyk]
+See also: wax, i¬-k’iwax, i-k’iwaxmat
+
+i-k’iwish [n] scolding, rebuking
+Forms: ichak’iwish “she is a rebuker, a scold” [Dyk]
+Examples: iyak’amla ik’iwish “a bad scolding” [Dyk]
+See also: ‘wish
+
+-K’IXA [vb] swim
+Forms: nukw’ˆxalal “I’m swimming” [GT 6/3/98] yuk’wˆxalal, yukw’ixat “he is swimming” yukw’ixa “he swam” i¬ukw’ixa “they swam (as a group)” i¬ukw’ixayu “they swam (individually)” niyuk’ixa “he swam (last season)” niyuk’ixalal “he was swimming about (last season)” niyuk’ˆxalalmchk “he swam about (last season)” nigitk’ixa “he swam (last week)” nigitk’ixalal “he was swimming about (last week)” nigitk’ˆxalalmchk “he swam about (last week)” gayukw’ˆx§ni¬ “he swims (as every day)” ga¬ukw’ixayux “they (each) swam” yukw’ixÅchkwt “he has swum up out of water” iyukw’ixapchk “he swam from water, ashore” yalk’ixakwt “he is swimming around inside of it[a-]” aliglk’ˆxaqgwagwayaxdix “he will swim across it[i-]” igiglk’ixaqkwagwix “he swam across it[i-]” chiukw’ˆxamit “he is making him swim” tgatk’ˆaiwidamt “they arrive swim- ming” [Dyk]
+Examples: Nagwatx itk’ˆxaulxmx “I wish he would swim up.” [Dyk] A©a kwapt gayukw’ixa i¬axnimyamt. “Now then he swam toward his canoe.” [WTI.1d.2]
+See also: i-k’ˆxalal
+
+i-k’ixacha [n] biting, bite
+Forms: iyak’ˆxacha “he bites, is a biter (for instance, a dog who always bites people)” [Dyk]
+See also: -x-CHA, i-k’ixachalal
+
+i-k’ixachalal [n] biting
+Forms: iyak’ˆxachalal “his biting” [Dyk]
+See also: -x-CHA, i-k’ixacha
+
+i-k’ixagwi¬q¬ [n] throwing away
+Forms: iyak’ixagwilq¬ “he is a thrower away of things”
+See also: -x-GWI-qw
+
+i-k’ˆxalal [n] swimming
+Forms: ichak’ˆxalal “her swimming; she is a swimmer” [Dyk]
+See also: -K’IXA
+
+i-k’iximni¬ [n] inviting, calling over
+Forms: iyak’iximni¬, iyaxik’iximni¬ “he is an inviter, one who invites people” [Dyk]
+Notes: Means the same as i-kiximu¬
+See also: i-kiximu¬, -gl-XIM
+
+i-k’ˆxwixwi [n] sniffing, smelling
+Forms: iyak’ˆxwixwi “he is a sniffer, smeller (for instance, a dog)” [Dyk]
+See also: xwi
+
+-l-K’I ̨ [vb] serve a guest with food
+Forms: ichalk’ix “he served her” [Dyk]
+
+i-k’ixauxaumat [n] scraper, some- thing to scrape with
+See also: xauxau
+
+
