@@ -19776,4 +19776,58 @@ Notes: An arrow made of rushes tipped with hardwood, mostly used by children or 
 Forms: chiupsnaq¬kwt “he has it[i-] put across” ixpsnalq¬k “he is putting himself across” ik’ipsnalq¬k “he is putting (something) across” chiakpsnaq¬kwt “he has it[i-] put across on it[a-]” chialpsnaq¬kwt “he has it[i-] put across in it[a-]” dinpsnaq¬kwt, dinpsnaq¬kux “they are put across, have been put across in it[i-]” dinpsnaq¬guxlit, dinpsnaq¬gulit “they are being put across in it[i-]” idinpsnaq¬guxit, idinpsnaq¬kwit “they were put across in it[i-]” [Dyk]
 See also: i-k’ipsnalq¬k
 
--PSQÒA [vb] stretch
+
+
+
+
+
+
+
+
+
+-PSQÒA [vb] stretch, stretch out, tighten, take up slack
+Forms: iupsq¬at “he is stretched” upsq¬at “she is stretched” upsq¬axnit, upsq¬axlit “she is stretch- ing, tightening (repeatedly; as a rope on a boat to shore that tightens with the waves)” iyupq¬axit “he became stretched” nigitpsq¬at “he was stretched (state, condition)” nigitpsq¬axit “it tightened up (as a rope tightens on being wetted)” gayupsq¬axit “he was stretched” chiupsq¬at “he has the slack of it[i-] taken up” chdupsq¬alal “he has taken up the slack on them 2” sixlpsq¬agwax “he is stretching him- self” cilpsq¬agwax he is stretching it[i-] (as when in a sack, stretching it with hands and feet)” chiupsq¬agwax “he is stretching something that can stretch itself[?] (as by putting sticks in it to keep it stretched)” ik’ipsq¬alal “he is stretching (some- thing)” chiupsq¬amat “he has it[i-] stretched (as a rope across a can- yon)” chiupsq¬amit “he has it[i-] stretched (as a skin)” ichupsq¬ama “he stretched it[a-] (as across a can- yon)” ichupsq¬amit “he stretched it[a-] (as a hat, etc., or as a skin that could shrink) ichaikpsq¬amit “he stretched it[a-] on it[i-]” igaixpsq¬amit “he stretched it[a-] on himself” alatxatpsq¬amaya “we 2 will tighten her on us so that she’ll stretch” [Dyk]
+
+-s-l-PSQÒA-kw [vb] stretch arms and legs
+
+i-pstamat [n] augur, corkscrew
+See also: it-kipshdamat
+
+a-ps ̈q [n] rabbit hawk
+Forms: itpsuquks [HS 7/22/54], itpsuqmax [JT] “rabbit hawks”
+
+i¬-psh [n] foot
+Forms: itpsh “feet” (as measure- ment) i¬képsh “my foot” itképsh “my two feet” itkepshmax “my feet; my toes [Dyk]; my feet [MMc 12/22/97; GT 12/29/97]” idmˆpsh “your feet” i¬mˆps “your (little) foot” idmipsmax “your (little) feet” [Dyk]
+See also: wa-psh
+
+wa-psh [n] toe
+Forms: aképsh “my toe” itkepshmax “my toes” [Dyk] itepsh “feet, toes” [DykGr 95]
+Examples: icha©Åi¬ aképsh “big toe” icak’Åic aképsh “little toe” [MMc 12/ 22/97, GT 12/29/97]
+See also: i¬-psh
+
+wa-pshap [n] strand(s) (of rope)
+Forms: Does not change for plural.
+
+it-pshim [n] laughing and making fun of what one has done to woman [Dyk], bragging against the opposite sex [HS 8/8/56]
+Forms: idiapshˆm “he is one who laughs at what he has done to women”
+See also: -x-PSHIM
+
+-x-PSHIM [vb] laugh and make fun at what one has done to women, brag against the opposite sex
+Forms: ixpshˆm “he is laughing and making fun at what he has done to women” [Dyk]
+See also: it-pshim
+
+-PSHT [vb] make fire with fire drill
+
+-a-gl-PSHT [vb] make a fire for, light a fire for, drill for
+Forms: chaiglupsht “he is making a fire for him” aiglupshdix “it[i-] is drilled, has been drilled” [Dyk] Notes: Refers to making a fire by friction with a fire drill
+
+-a-x-PSHT [vb] make fire by twirling sticks
+Forms: alamxpshta “you will make fire by twirling sticks” [WTIV.4.2]
+
+-a-xl-PSHT [vb] make a fire by fric- tion, light a fire
+Forms: alamxlupsht “you’ll light a fire” aixlupsht “he is making, light- ing a fire” amxlupsht! “make a fire!” galaixlupsht “he made a fire” [Dyk]
+Notes: Refers to making a fire by friction with a fire drill.
+
+it-pshudit [n] sturgeon line, large heavy fish line, mostly used for stur- geon
+
+-PSHU [vb] hide

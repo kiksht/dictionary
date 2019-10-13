@@ -7568,6 +7568,16 @@
       }
     ]
   },
+  "-PSHT": {
+    "root": "-PSHT",
+    "partOfSpeech": "vb",
+    "definition": "make fire with fire drill"
+  },
+  "-PSHU": {
+    "root": "-PSHU",
+    "partOfSpeech": "vb",
+    "definition": "hide"
+  },
   "-PSNA-qłkw": {
     "root": "-PSNA-qłkw",
     "partOfSpeech": "vb",
@@ -7613,7 +7623,85 @@
   "-PSQŁA": {
     "root": "-PSQŁA",
     "partOfSpeech": "vb",
-    "definition": "stretch"
+    "definition": "stretch, stretch out, tighten, take up slack",
+    "forms": [
+      {
+        "kiksht": "iupsqłat",
+        "english": "he is stretched"
+      },
+      {
+        "kiksht": "upsqłat",
+        "english": "she is stretched"
+      },
+      {
+        "kiksht": "upsqłaxnit, upsqłaxlit",
+        "english": "she is stretch- ing, tightening (repeatedly; as a rope on a boat to shore that tightens with the waves)"
+      },
+      {
+        "kiksht": "iyupqłaxit",
+        "english": "he became stretched"
+      },
+      {
+        "kiksht": "nigitpsqłat",
+        "english": "he was stretched (state, condition)"
+      },
+      {
+        "kiksht": "nigitpsqłaxit",
+        "english": "it tightened up (as a rope tightens on being wetted)"
+      },
+      {
+        "kiksht": "gayupsqłaxit",
+        "english": "he was stretched"
+      },
+      {
+        "kiksht": "chiupsqłat",
+        "english": "he has the slack of it[i-] taken up"
+      },
+      {
+        "kiksht": "chdupsqłalal",
+        "english": "he has taken up the slack on them 2"
+      },
+      {
+        "kiksht": "sixlpsqłagwax",
+        "english": "he is stretching him- self cilpsqłagwax he is stretching it[i-]"
+      },
+      {
+        "kiksht": "(as when in a sack, stretching it with hands and feet)\" chiupsqłagwax",
+        "english": ""
+      },
+      {
+        "kiksht": "chiupsqłagwax",
+        "english": "he is stretching something that can stretch itself[?] (as by putting sticks in it to keep it stretched)"
+      },
+      {
+        "kiksht": "ik'ipsqłalal",
+        "english": "he is stretching (some- thing)"
+      },
+      {
+        "kiksht": "chiupsqłamat",
+        "english": "he has it[i-] stretched (as a rope across a can- yon)"
+      },
+      {
+        "kiksht": "chiupsqłamit",
+        "english": "he has it[i-] stretched (as a skin)"
+      },
+      {
+        "kiksht": "ichupsqłama",
+        "english": "he stretched it[a-] (as across a can- yon)"
+      },
+      {
+        "kiksht": "ichupsqłamit",
+        "english": "he stretched it[a-] (as a hat, etc., or as a skin that could shrink) ichaikpsqłamit \"he stretched it[a-] on it[i-]"
+      },
+      {
+        "kiksht": "igaixpsqłamit",
+        "english": "he stretched it[a-] on himself"
+      },
+      {
+        "kiksht": "alatxatpsqłamaya",
+        "english": "we 2 will tighten her on us so that she'll stretch [Dyk]"
+      }
+    ]
   },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
@@ -7691,6 +7779,21 @@
       {
         "kiksht": "yagitchk'wayamitix",
         "english": "he had been put face down [Dyk]"
+      }
+    ]
+  },
+  "-a-gl-PSHT": {
+    "root": "-a-gl-PSHT",
+    "partOfSpeech": "vb",
+    "definition": "make a fire for, light a fire for, drill for",
+    "forms": [
+      {
+        "kiksht": "chaiglupsht",
+        "english": "he is making a fire for him"
+      },
+      {
+        "kiksht": "aiglupshdix",
+        "english": "it[i-] is drilled, has been drilled [Dyk] Notes: Refers to making a fire by friction with a fire drill"
       }
     ]
   },
@@ -8076,6 +8179,17 @@
       }
     ]
   },
+  "-a-x-PSHT": {
+    "root": "-a-x-PSHT",
+    "partOfSpeech": "vb",
+    "definition": "make fire by twirling sticks",
+    "forms": [
+      {
+        "kiksht": "alamxpshta",
+        "english": "you will make fire by twirling sticks [WTIV.4.2]"
+      }
+    ]
+  },
   "-a-x-t-NA-kw": {
     "root": "-a-x-t-NA-kw",
     "partOfSpeech": "vb",
@@ -8199,6 +8313,32 @@
         "kiksht": "alamxelgiłxa",
         "english": "you will make fire [WTIV.4.2]"
       }
+    ]
+  },
+  "-a-xl-PSHT": {
+    "root": "-a-xl-PSHT",
+    "partOfSpeech": "vb",
+    "definition": "make a fire by fric- tion, light a fire",
+    "forms": [
+      {
+        "kiksht": "alamxlupsht",
+        "english": "you'll light a fire"
+      },
+      {
+        "kiksht": "aixlupsht",
+        "english": "he is making, light- ing a fire"
+      },
+      {
+        "kiksht": "amxlupsht!",
+        "english": "make a fire!"
+      },
+      {
+        "kiksht": "galaixlupsht",
+        "english": "he made a fire [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to making a fire by friction with a fire drill."
     ]
   },
   "-ash-k'-IMA-chu": {
@@ -16681,6 +16821,11 @@
       "-s-l-PQ'"
     ]
   },
+  "-s-l-PSQŁA-kw": {
+    "root": "-s-l-PSQŁA-kw",
+    "partOfSpeech": "vb",
+    "definition": "stretch arms and legs"
+  },
   "-s-n-CK'IAX̲TŁ": {
     "root": "-s-n-CK'IAX̲TŁ",
     "partOfSpeech": "vb",
@@ -20212,6 +20357,20 @@
     "root": "-x-PCHA-kw",
     "partOfSpeech": "vb",
     "definition": "hold over head"
+  },
+  "-x-PSHIM": {
+    "root": "-x-PSHIM",
+    "partOfSpeech": "vb",
+    "definition": "laugh and make fun at what one has done to women, brag against the opposite sex",
+    "forms": [
+      {
+        "kiksht": "ixpshím",
+        "english": "he is laughing and making fun at what he has done to women [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-pshim"
+    ]
   },
   "-x-YA-mit": {
     "root": "-x-YA-mit",
@@ -26999,6 +27158,17 @@
     "definition": "light arrow",
     "notes": [
       "An arrow made of rushes tipped with hardwood, mostly used by children or for small game"
+    ]
+  },
+  "a-psúq": {
+    "root": "a-psúq",
+    "partOfSpeech": "n",
+    "definition": "rabbit hawk",
+    "forms": [
+      {
+        "kiksht": "itpsuquks [HS 7/22/54], itpsuqmax [JT]",
+        "english": "rabbit hawks"
+      }
     ]
   },
   "a-pác'akas": {
@@ -58864,6 +59034,14 @@
     "partOfSpeech": "n",
     "definition": "brace and bit"
   },
+  "i-pstamat": {
+    "root": "i-pstamat",
+    "partOfSpeech": "n",
+    "definition": "augur, corkscrew",
+    "seeAlso": [
+      "it-kipshdamat"
+    ]
+  },
   "i-pápakwun": {
     "root": "i-pápakwun",
     "partOfSpeech": "n",
@@ -63687,6 +63865,25 @@
       "i-binatłx"
     ]
   },
+  "it-pshim": {
+    "root": "it-pshim",
+    "partOfSpeech": "n",
+    "definition": "laughing and making fun of what one has done to woman [Dyk], bragging against the opposite sex [HS 8/8/56]",
+    "forms": [
+      {
+        "kiksht": "idiapshím",
+        "english": "he is one who laughs at what he has done to women"
+      }
+    ],
+    "seeAlso": [
+      "-x-PSHIM"
+    ]
+  },
+  "it-pshudit": {
+    "root": "it-pshudit",
+    "partOfSpeech": "n",
+    "definition": "sturgeon line, large heavy fish line, mostly used for stur- geon"
+  },
   "it-płxat": {
     "root": "it-płxat",
     "partOfSpeech": "n",
@@ -65367,6 +65564,44 @@
     "definition": "forest",
     "seeAlso": [
       "it-pchexmax"
+    ]
+  },
+  "ił-psh": {
+    "root": "ił-psh",
+    "partOfSpeech": "n",
+    "definition": "foot",
+    "forms": [
+      {
+        "kiksht": "itpsh",
+        "english": "feet"
+      },
+      {
+        "kiksht": "(as measure- ment) iłképsh",
+        "english": "my foot"
+      },
+      {
+        "kiksht": "itképsh",
+        "english": "my two feet"
+      },
+      {
+        "kiksht": "itkepshmax",
+        "english": "my feet; my toes [Dyk]; my feet [MMc 12/22/97; GT 12/29/97]"
+      },
+      {
+        "kiksht": "idmípsh",
+        "english": "your feet"
+      },
+      {
+        "kiksht": "iłmíps",
+        "english": "your (little) foot"
+      },
+      {
+        "kiksht": "idmipsmax",
+        "english": "your (little) feet [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "wa-psh"
     ]
   },
   "ił-páp": {
@@ -71115,6 +71350,44 @@
     "root": "wa-pqwál",
     "partOfSpeech": "n",
     "definition": "fine feathers, plume feathers"
+  },
+  "wa-psh": {
+    "root": "wa-psh",
+    "partOfSpeech": "n",
+    "definition": "toe",
+    "forms": [
+      {
+        "kiksht": "aképsh",
+        "english": "my toe"
+      },
+      {
+        "kiksht": "itkepshmax",
+        "english": "my toes [Dyk]"
+      },
+      {
+        "kiksht": "itepsh",
+        "english": "feet, toes [DykGr 95]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "ichag̲áił aképsh",
+        "english": "big toe"
+      },
+      {
+        "kiksht": "icak'áic aképsh",
+        "english": "little toe [MMc 12/ 22/97, GT 12/29/97]"
+      }
+    ],
+    "seeAlso": [
+      "ił-psh"
+    ]
+  },
+  "wa-pshap": {
+    "root": "wa-pshap",
+    "partOfSpeech": "n",
+    "definition": "strand(s) (of rope)",
+    "forms": []
   },
   "wa-páł": {
     "root": "wa-páł",
