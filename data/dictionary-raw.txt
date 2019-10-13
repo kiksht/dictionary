@@ -18075,3 +18075,65 @@ See also: -KÒ
 
 miuxulal [vb] you are doing it[i-]
 See also: - ̨
+
+
+
+
+
+
+
+
+
+
+
+
+
+-i-k-MIXTK [vb] tell stories about someone behind her/his back
+Forms: chingadmixtglal “he’s telling stories about me behind my back” nigmixtglal “I’m telling stories about him behind his back” anigmixtglalma “I’ll tell stories about him behind his back” ichingmˆxtk “he told stories about me behind my back” [GT, MMc 6/9/99]
+See also: it-kamixtglal
+
+i-shmiwa [n] mallard duck
+Forms: ishshmiwa “2 mallard ducks”
+
+i-mk’Åchk [n] rainbow
+Examples: Imk’Åchk yutxwilal. “There’s a rainbow.” [MMc 1/12/99]
+Notes: When there was a rainbow, old people said that somebody was born. [MMc 1/12/99]
+
+i-mk’ut¬xnan [n] having a running nose, having a drippy nose
+Forms: iyamk’ut¬xnan “his nose is running, his nose is dripping” [Dyk]
+
+mla [part] turn down, reject, dislike the looks of
+Examples: Mla iniux. “I turned him down, did not like the looks of him.” Mla chiuxt. “he dislikes him/it[i-]” [means he refuses him something, or refuses to take something because it doesn’t suit him, refuses to buy something] [Dyk] Mla niuxt. “I don’t want it[i-], don’t want to buy it (when someone is trying to sell you some- thing).” Mla nuxt. “I don’t want her (as when someone offers you his daughter to marry, whom no one else wants).” [PK]
+Notes: Undoubtedly related to the prefix -mla “bad(ly).” See grammar.
+See also: k’imlamax
+
+i-mlagimak [n] giving out badly, distributing badly
+Forms: imimlagimak “you don’t give out well” (for instance, a bad Indian trader) [GT, MMc 1/12/99]
+See also: -MA-kw, i-mlamak
+
+i-mlailit [n] dirt, filth, uncleanness
+Forms: iyamlailit “he is filthy, dirty” [Dyk]
+Examples: Iyamlailit isxiluqmit. “It is a dirty window.” [Dyk]
+
+id-mlakw¬ilal [n] mistreating one’s family
+Forms: idiamlakw¬ilal “he is one who does not treat his family right” [Dyk]
+Notes: Said of a head of a household not treating his family right, by not providing for them, etc.
+See also: -KWÒI
+
+-MLAL [vb] buy
+Forms: achiumlalma “he will buy it[i- ]” chiumlal “he is buying it[i-]” ichiumlal “he bought it[i-]” ichiumlalamchk “he bought it[i-] (several times)” naidemlal “I was buying it[a-] for him” naixademlal “I was buying it[a-] from him” yumlalemtix “it[i-] has been bought” igimlalmamt “he is going shopping” [Dyk] anaixemlalma “I will buy her from him” [WTII.1.1]
+Examples: Ka’as ilibum inyumlal. “I bought more than enough apples.” [Dyk]
+
+-xl-gi-MLAL [vb] shop, go shopping
+Forms: anxelgˆmlalma “I will go shopping” [Spilyay Conversation]
+Notes: Literally “buy (-mlal) some- thing (-gi-) for-oneself (-xl-).”
+See also: -MLAL
+
+i-mlalemxach [n] something to make one vomit, making nauseous
+Forms: ichamlalemxach “something [of feminine gender grammatically] to make one vomit” iyamlalemxach “something [of masculine gender gramatically] to make one vomit” [Dyk]
+Examples: palalÅi imlalemxach “lots of puking stuff” [Dyk]
+See also: emlala, damlalÅ
+
+i-mlamak [n] distributing badly, giving out badly
+Forms: imimlamak “you are a bad distributer”
+See also: -MA-kw, i-mlagimak

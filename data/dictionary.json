@@ -6134,6 +6134,55 @@
       "This root means \"borrow\" when used with the relational prefix - x- (\"from\") and \"lend\" when used with the relational prefix -l- (\"to\"), as in the first and second examples above respectively."
     ]
   },
+  "-MLAL": {
+    "root": "-MLAL",
+    "partOfSpeech": "vb",
+    "definition": "buy",
+    "forms": [
+      {
+        "kiksht": "achiumlalma",
+        "english": "he will buy it[i- ]"
+      },
+      {
+        "kiksht": "chiumlal",
+        "english": "he is buying it[i-]"
+      },
+      {
+        "kiksht": "ichiumlal",
+        "english": "he bought it[i-]"
+      },
+      {
+        "kiksht": "ichiumlalamchk",
+        "english": "he bought it[i-] (several times)"
+      },
+      {
+        "kiksht": "naidemlal",
+        "english": "I was buying it[a-] for him"
+      },
+      {
+        "kiksht": "naixademlal",
+        "english": "I was buying it[a-] from him"
+      },
+      {
+        "kiksht": "yumlalemtix",
+        "english": "it[i-] has been bought"
+      },
+      {
+        "kiksht": "igimlalmamt",
+        "english": "he is going shopping [Dyk]"
+      },
+      {
+        "kiksht": "anaixemlalma",
+        "english": "I will buy her from him [WTII.1.1]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ka'as ilibum inyumlal.",
+        "english": "I bought more than enough apples. [Dyk]"
+      }
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -9670,6 +9719,32 @@
         "kiksht": "chiaglálakwdix",
         "english": "he is pay- ing no attention to her [Dyk]"
       }
+    ]
+  },
+  "-i-k-MIXTK": {
+    "root": "-i-k-MIXTK",
+    "partOfSpeech": "vb",
+    "definition": "tell stories about someone behind her/his back",
+    "forms": [
+      {
+        "kiksht": "chingadmixtglal",
+        "english": "he's telling stories about me behind my back"
+      },
+      {
+        "kiksht": "nigmixtglal",
+        "english": "I'm telling stories about him behind his back"
+      },
+      {
+        "kiksht": "anigmixtglalma",
+        "english": "I'll tell stories about him behind his back"
+      },
+      {
+        "kiksht": "ichingmíxtk",
+        "english": "he told stories about me behind my back [GT, MMc 6/9/99]"
+      }
+    ],
+    "seeAlso": [
+      "it-kamixtglal"
     ]
   },
   "-i-l-BWA-mit": {
@@ -19979,6 +20054,23 @@
         "kiksht": "Anshxengiglaya qengi adasq'ú idáit.",
         "english": "We will understand what Wasco ways are. [Museum 5]"
       }
+    ]
+  },
+  "-xl-gi-MLAL": {
+    "root": "-xl-gi-MLAL",
+    "partOfSpeech": "vb",
+    "definition": "shop, go shopping",
+    "forms": [
+      {
+        "kiksht": "anxelgímlalma",
+        "english": "I will go shopping [Spilyay Conversation]"
+      }
+    ],
+    "notes": [
+      "Literally \"buy (-mlal) some- thing (-gi-) for-oneself (-xl-).\""
+    ],
+    "seeAlso": [
+      "-MLAL"
     ]
   },
   "-xl-xi-LA-kw": {
@@ -54945,6 +55037,100 @@
       }
     ]
   },
+  "i-mk'utłxnan": {
+    "root": "i-mk'utłxnan",
+    "partOfSpeech": "n",
+    "definition": "having a running nose, having a drippy nose",
+    "forms": [
+      {
+        "kiksht": "iyamk'utłxnan",
+        "english": "his nose is running, his nose is dripping [Dyk]"
+      }
+    ]
+  },
+  "i-mk'áchk": {
+    "root": "i-mk'áchk",
+    "partOfSpeech": "n",
+    "definition": "rainbow",
+    "examples": [
+      {
+        "kiksht": "Imk'áchk yutxwilal.",
+        "english": "There's a rainbow. [MMc 1/12/99]"
+      }
+    ],
+    "notes": [
+      "When there was a rainbow, old people said that somebody was born. [MMc 1/12/99]"
+    ]
+  },
+  "i-mlagimak": {
+    "root": "i-mlagimak",
+    "partOfSpeech": "n",
+    "definition": "giving out badly, distributing badly",
+    "forms": [
+      {
+        "kiksht": "imimlagimak",
+        "english": "you don't give out well (for instance, a bad Indian trader) [GT, MMc 1/12/99]"
+      }
+    ],
+    "seeAlso": [
+      "-MA-kw, i-mlamak"
+    ]
+  },
+  "i-mlailit": {
+    "root": "i-mlailit",
+    "partOfSpeech": "n",
+    "definition": "dirt, filth, uncleanness",
+    "forms": [
+      {
+        "kiksht": "iyamlailit",
+        "english": "he is filthy, dirty [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Iyamlailit isxiluqmit.",
+        "english": "It is a dirty window. [Dyk]"
+      }
+    ]
+  },
+  "i-mlalemxach": {
+    "root": "i-mlalemxach",
+    "partOfSpeech": "n",
+    "definition": "something to make one vomit, making nauseous",
+    "forms": [
+      {
+        "kiksht": "ichamlalemxach",
+        "english": "something [of feminine gender grammatically] to make one vomit"
+      },
+      {
+        "kiksht": "iyamlalemxach",
+        "english": "something [of masculine gender gramatically] to make one vomit [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "palalái imlalemxach",
+        "english": "lots of puking stuff [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "emlala, damlalá"
+    ]
+  },
+  "i-mlamak": {
+    "root": "i-mlamak",
+    "partOfSpeech": "n",
+    "definition": "distributing badly, giving out badly",
+    "forms": [
+      {
+        "kiksht": "imimlamak",
+        "english": "you are a bad distributer"
+      }
+    ],
+    "seeAlso": [
+      "-MA-kw, i-mlagimak"
+    ]
+  },
   "i-mísht": {
     "root": "i-mísht",
     "partOfSpeech": "n",
@@ -54967,6 +55153,17 @@
     ],
     "seeAlso": [
       "i-gwálamisht"
+    ]
+  },
+  "i-shmiwa": {
+    "root": "i-shmiwa",
+    "partOfSpeech": "n",
+    "definition": "mallard duck",
+    "forms": [
+      {
+        "kiksht": "ishshmiwa",
+        "english": "2 mallard ducks"
+      }
     ]
   },
   "i-ładat": {
@@ -55556,6 +55753,23 @@
         "kiksht": "itgamiqshumax",
         "english": "their mus- taches [WTIV.4.3]"
       }
+    ]
+  },
+  "id-mlakwłilal": {
+    "root": "id-mlakwłilal",
+    "partOfSpeech": "n",
+    "definition": "mistreating one's family",
+    "forms": [
+      {
+        "kiksht": "idiamlakwłilal",
+        "english": "he is one who does not treat his family right [Dyk]"
+      }
+    ],
+    "notes": [
+      "Said of a head of a household not treating his family right, by not providing for them, etc."
+    ],
+    "seeAlso": [
+      "-KWŁI"
     ]
   },
   "id-máł": {
@@ -63932,6 +64146,35 @@
     "definition": "you are taking it[i-] along",
     "seeAlso": [
       "-KŁ"
+    ]
+  },
+  "mla": {
+    "root": "mla",
+    "partOfSpeech": "part",
+    "definition": "turn down, reject, dislike the looks of",
+    "examples": [
+      {
+        "kiksht": "Mla iniux.",
+        "english": "I turned him down, did not like the looks of him."
+      },
+      {
+        "kiksht": "Mla chiuxt.",
+        "english": "he dislikes him/it[i-] [means he refuses him something, or refuses to take something because it doesn't suit him, refuses to buy something] [Dyk]"
+      },
+      {
+        "kiksht": "Mla niuxt.",
+        "english": "I don't want it[i-], don't want to buy it (when someone is trying to sell you some- thing)."
+      },
+      {
+        "kiksht": "Mla nuxt.",
+        "english": "I don't want her (as when someone offers you his daughter to marry, whom no one else wants). [PK]"
+      }
+    ],
+    "notes": [
+      "Undoubtedly related to the prefix -mla \"bad(ly).\" See grammar."
+    ],
+    "seeAlso": [
+      "k'imlamax"
     ]
   },
   "qengi": {
