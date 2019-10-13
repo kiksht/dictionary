@@ -15796,3 +15796,46 @@ Forms: gaqndulapax “one dug us two (not including you) up” [WTI.5.2]
 
 -s-k’i-LA-pa [vb] tip over
 Forms: ce¬sk’ilalp¬ “he is tipping them over” icsak’ˆlaba “he just tipped it[a-] over” isixˆlaba “he just tipped himself over (backward)” sak’ilpax “it[a-] is tipped over and lying” [Dyk]
+
+
+
+
+
+
+
+
+-x-LA-q¬q [vb] open, open for
+Forms: construction 1: achÅxlaq¬qa “he will open it[a-] [referring to waskÅn ‘box’]” [WTI.9.11] naxlalq¬q “I am opening it[a-] (box, can)” chaxlalq¬q “he is opening it[a-]” chixlalq¬q “he is opening it[i-] (as taking off a lid)” chuxwalalq¬q “he is opening them/it (for instance, a house)” chuxÅlaq¬qt “he has it/them open, has opened it/them, is leaving it/them open” chixlaq¬qt “he has it[i-] open, has opened it, is leaving it open” ichaxlaq¬q “he opened it[a-] (box)” nichixlaq¬q “he opened it[i-]” nichixlalq¬q “he was opening it[i-] (several times or several things)” gachaxlaq¬q “he opened it[a-]; he opened it[a-] for her” nichixlaq¬qam “he went to open it[i- ]” nichixatlaq¬qam “he came to open it[i-]” gachixlaq¬qam “he went to open it[i-]” gachixat¬aq¬qam “he came to open it[i-]” chanxlaq¬q “he is opening it[a-] for me” chiuxwalalq¬q “he is opening it[i-] for them, he is opening it which belongs to them” chaixlalq¬q “he is opening it[a-] (door, box) for him” ichaixlaq¬q “he opened it[a-] for him” gachaixlaq¬q “he opened it[a-] for him” gachiuxalaq¬q “he opened it[i-] for them” gachuxalaq¬q “he opened them for themselves; he opened it[a-] for them” construction 2: anxlalq¬q “I am open- ing it[a-] (door)” [GT wanted to sub- stitute naxlalq¬q] aixlaq¬q “he is opening it[a-]” [interpreted as im- perative by GT 12/29/97] igaixlaq¬q “he opened it[a-]” ixlÅq¬qix “it[i-] (lid, package) has been opened” aixlÅq¬qix “it[a-] belonging to him has been opened, it has been opened for him” [last three forms recognized by GT 12/29/97] [Dyk]
+Notes: This verb can apparently be constructed two ways: with an active subject pronoun and a neutral pro- noun as direct object (construction 1), or with neutral pronouns express- ing both subject and object (con- struction 2); in the latter case, the first pronoun expresses the agent (the one doing the opening), and the second one, which expresses the object opened, is, gramatically, the object of the relational -x. Construc- tion 1 is apparently more common.
+
+-a-k-LA-qw [vb] steer
+Forms: chaiglÅlq “he is steering him” aixlÅlq “he is steering” aixlÅqwt “he is steering” aixadlalq “he was steer- ing” igaixlÅq “he steered” [Dyk] Notes: Apparently refers to steering a boat with paddle or oar.
+
+-k-LA-qw [vb] give extra, give over and above
+Forms: ichakgilaq “he gave her something extra (as when, after she had paid for what she bought and received it, he gave her something extra free of charge)” igixgilaq “he gave extra” gachakgilalq “he always gives her something extra” chiaglaqwt “he has it[i-] given to her over and above” [Dyk]
+
+-k-LA-yu [vb] scatter
+Forms: iglayut “it[i-] is scattering (for instance, an apple, scattering into pieces)” i¬xdlayu “they scattered (in this direction)” ga¬glayu “they (for instance, birds, or rocks from an explosion) scattered” yagilayu “they[i-] scattered, hurled towards her” [Dyk]
+
+-a¬-gm-LA-yu-¬x [vb] get out on the floor a bunch at a time to dance
+Forms: ninsha¬gmatlayul¬x “we, a bunch at a time, got out on the floor to dance” ada¬gemlÅyul¬xma “they, a bunch at a time, will get out on the floor to dance” [Dyk]
+
+la [adv] for a long time, for quite a while
+Examples: La ¬©alÅ igix¬l. “After a long time the iron finally became heated (as of a difficult time trying to heat it)” Galiglalamchk la p’ala galixux. “He sang for a time and then stopped.” [Dyk]
+Pronunciation: The -a- in this word is usually pronounced long.
+
+la’ax [part] put something over on, deceive
+Examples: La’ax inxux. “I put one over on myself (for instance, by say- ing something I shouldn’t have).” La’ax ichiux. “He put one over on him.” [Dyk]
+See also: ailÅx, laxlax, dala’ax, i- k’ila’ax
+
+i-la’la’ [n] cape
+
+i-la’ui’ui [n] crown of head
+
+i-laba [n] rubber
+Notes: Borrowed from English.
+
+Å-labap [n] screech owl
+Forms: idlabÅp “screech owls” [Dyk]
+
+a-labasgwi [n] cracker

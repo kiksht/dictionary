@@ -5177,6 +5177,33 @@
       }
     ]
   },
+  "-a-k-LA-qw": {
+    "root": "-a-k-LA-qw",
+    "partOfSpeech": "vb",
+    "definition": "steer",
+    "forms": [
+      {
+        "kiksht": "chaiglálq",
+        "english": "he is steering him"
+      },
+      {
+        "kiksht": "aixlálq",
+        "english": "he is steering"
+      },
+      {
+        "kiksht": "aixláqwt",
+        "english": "he is steering"
+      },
+      {
+        "kiksht": "aixadlalq",
+        "english": "he was steer- ing"
+      },
+      {
+        "kiksht": "igaixláq",
+        "english": "he steered [Dyk] Notes: Apparently refers to steering a boat with paddle or oar."
+      }
+    ]
+  },
   "-a-k-xa-DEM-kw": {
     "root": "-a-k-xa-DEM-kw",
     "partOfSpeech": "vb",
@@ -5418,6 +5445,21 @@
       {
         "kiksht": "ichiashk'ímawlx",
         "english": "he turned (it[i-]?) bottom side up [Dyk]"
+      }
+    ]
+  },
+  "-ał-gm-LA-yu-łx": {
+    "root": "-ał-gm-LA-yu-łx",
+    "partOfSpeech": "vb",
+    "definition": "get out on the floor a bunch at a time to dance",
+    "forms": [
+      {
+        "kiksht": "ninshałgmatlayulłx",
+        "english": "we, a bunch at a time, got out on the floor to dance"
+      },
+      {
+        "kiksht": "adałgemláyulłxma",
+        "english": "they, a bunch at a time, will get out on the floor to dance [Dyk]"
       }
     ]
   },
@@ -8999,6 +9041,52 @@
     ],
     "seeAlso": [
       "i-kalagwamat, i- kagílagwamat, it-kagílagwadit, it- kálagwadit, it-qálagwadit"
+    ]
+  },
+  "-k-LA-qw": {
+    "root": "-k-LA-qw",
+    "partOfSpeech": "vb",
+    "definition": "give extra, give over and above",
+    "forms": [
+      {
+        "kiksht": "ichakgilaq",
+        "english": "he gave her something extra (as when, after she had paid for what she bought and received it, he gave her something extra free of charge)"
+      },
+      {
+        "kiksht": "igixgilaq",
+        "english": "he gave extra"
+      },
+      {
+        "kiksht": "gachakgilalq",
+        "english": "he always gives her something extra"
+      },
+      {
+        "kiksht": "chiaglaqwt",
+        "english": "he has it[i-] given to her over and above [Dyk]"
+      }
+    ]
+  },
+  "-k-LA-yu": {
+    "root": "-k-LA-yu",
+    "partOfSpeech": "vb",
+    "definition": "scatter",
+    "forms": [
+      {
+        "kiksht": "iglayut",
+        "english": "it[i-] is scattering (for instance, an apple, scattering into pieces)"
+      },
+      {
+        "kiksht": "iłxdlayu",
+        "english": "they scattered (in this direction)"
+      },
+      {
+        "kiksht": "gałglayu",
+        "english": "they (for instance, birds, or rocks from an explosion) scattered"
+      },
+      {
+        "kiksht": "yagilayu",
+        "english": "they[i-] scattered, hurled towards her [Dyk]"
+      }
     ]
   },
   "-k-gi-LA-kw": {
@@ -13734,6 +13822,124 @@
       }
     ]
   },
+  "-x-LA-qłq": {
+    "root": "-x-LA-qłq",
+    "partOfSpeech": "vb",
+    "definition": "open, open for",
+    "forms": [
+      {
+        "kiksht": "construction 1: acháxlaqłqa",
+        "english": "he will open it[a-] [referring to waskán 'box'] [WTI.9.11]"
+      },
+      {
+        "kiksht": "naxlalqłq",
+        "english": "I am opening it[a-] (box, can)"
+      },
+      {
+        "kiksht": "chaxlalqłq",
+        "english": "he is opening it[a-]"
+      },
+      {
+        "kiksht": "chixlalqłq",
+        "english": "he is opening it[i-] (as taking off a lid)"
+      },
+      {
+        "kiksht": "chuxwalalqłq",
+        "english": "he is opening them/it (for instance, a house)"
+      },
+      {
+        "kiksht": "chuxálaqłqt",
+        "english": "he has it/them open, has opened it/them, is leaving it/them open"
+      },
+      {
+        "kiksht": "chixlaqłqt",
+        "english": "he has it[i-] open, has opened it, is leaving it open"
+      },
+      {
+        "kiksht": "ichaxlaqłq",
+        "english": "he opened it[a-] (box)"
+      },
+      {
+        "kiksht": "nichixlaqłq",
+        "english": "he opened it[i-]"
+      },
+      {
+        "kiksht": "nichixlalqłq",
+        "english": "he was opening it[i-] (several times or several things)"
+      },
+      {
+        "kiksht": "gachaxlaqłq",
+        "english": "he opened it[a-]; he opened it[a-] for her"
+      },
+      {
+        "kiksht": "nichixlaqłqam",
+        "english": "he went to open it[i- ]"
+      },
+      {
+        "kiksht": "nichixatlaqłqam",
+        "english": "he came to open it[i-]"
+      },
+      {
+        "kiksht": "gachixlaqłqam",
+        "english": "he went to open it[i-]"
+      },
+      {
+        "kiksht": "gachixatłaqłqam",
+        "english": "he came to open it[i-]"
+      },
+      {
+        "kiksht": "chanxlaqłq",
+        "english": "he is opening it[a-] for me"
+      },
+      {
+        "kiksht": "chiuxwalalqłq",
+        "english": "he is opening it[i-] for them, he is opening it which belongs to them"
+      },
+      {
+        "kiksht": "chaixlalqłq",
+        "english": "he is opening it[a-] (door, box) for him"
+      },
+      {
+        "kiksht": "ichaixlaqłq",
+        "english": "he opened it[a-] for him"
+      },
+      {
+        "kiksht": "gachaixlaqłq",
+        "english": "he opened it[a-] for him"
+      },
+      {
+        "kiksht": "gachiuxalaqłq",
+        "english": "he opened it[i-] for them"
+      },
+      {
+        "kiksht": "gachuxalaqłq",
+        "english": "he opened them for themselves; he opened it[a-] for them"
+      },
+      {
+        "kiksht": "construction 2: anxlalqłq",
+        "english": "I am open- ing it[a-] (door) [GT wanted to sub- stitute naxlalqłq]"
+      },
+      {
+        "kiksht": "aixlaqłq",
+        "english": "he is opening it[a-] [interpreted as im- perative by GT 12/29/97]"
+      },
+      {
+        "kiksht": "igaixlaqłq",
+        "english": "he opened it[a-]"
+      },
+      {
+        "kiksht": "ixláqłqix",
+        "english": "it[i-] (lid, package) has been opened"
+      },
+      {
+        "kiksht": "aixláqłqix",
+        "english": "it[a-] belonging to him has been opened, it has been opened for him [last three forms recognized by GT 12/29/97] [Dyk]"
+      }
+    ],
+    "notes": [
+      "This verb can apparently be constructed two ways: with an active subject pronoun and a neutral pro- noun as direct object (construction 1), or with neutral pronouns express- ing both subject and object (con- struction 2); in the latter case, the first pronoun expresses the agent (the one doing the opening), and the second one, which expresses the object opened, is, gramatically, the object of the relational -x. Construc- tion 1 is apparently more common."
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -17921,6 +18127,11 @@
     "root": "a-kíutan",
     "partOfSpeech": "n",
     "definition": "horse, mare"
+  },
+  "a-labasgwi": {
+    "root": "a-labasgwi",
+    "partOfSpeech": "n",
+    "definition": "cracker"
   },
   "a-mulal": {
     "root": "a-mulal",
@@ -48295,6 +48506,24 @@
       "it- -mał"
     ]
   },
+  "i-la'la'": {
+    "root": "i-la'la'",
+    "partOfSpeech": "n",
+    "definition": "cape"
+  },
+  "i-la'ui'ui": {
+    "root": "i-la'ui'ui",
+    "partOfSpeech": "n",
+    "definition": "crown of head"
+  },
+  "i-laba": {
+    "root": "i-laba",
+    "partOfSpeech": "n",
+    "definition": "rubber",
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -55820,6 +56049,40 @@
       }
     ]
   },
+  "la": {
+    "root": "la",
+    "partOfSpeech": "adv",
+    "definition": "for a long time, for quite a while",
+    "examples": [
+      {
+        "kiksht": "La łg̲alá igixłl.",
+        "english": "After a long time the iron finally became heated (as of a difficult time trying to heat it)"
+      },
+      {
+        "kiksht": "Galiglalamchk la p'ala galixux.",
+        "english": "He sang for a time and then stopped. [Dyk]"
+      }
+    ],
+    "pronunciation": "The -a- in this word is usually pronounced long."
+  },
+  "la'ax": {
+    "root": "la'ax",
+    "partOfSpeech": "part",
+    "definition": "put something over on, deceive",
+    "examples": [
+      {
+        "kiksht": "La'ax inxux.",
+        "english": "I put one over on myself (for instance, by say- ing something I shouldn't have)."
+      },
+      {
+        "kiksht": "La'ax ichiux.",
+        "english": "He put one over on him. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ailáx, laxlax, dala'ax, i- k'ila'ax"
+    ]
+  },
   "qengi": {
     "root": "qengi",
     "partOfSpeech": "pron",
@@ -56454,6 +56717,17 @@
     ],
     "seeAlso": [
       "-s-x-C'IŁX̲A-kw"
+    ]
+  },
+  "á-labap": {
+    "root": "á-labap",
+    "partOfSpeech": "n",
+    "definition": "screech owl",
+    "forms": [
+      {
+        "kiksht": "idlabáp",
+        "english": "screech owls [Dyk]"
+      }
     ]
   },
   "áaana": {
