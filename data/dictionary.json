@@ -4400,58 +4400,39 @@
   "-KWŁI": {
     "root": "-KWŁI",
     "partOfSpeech": "vb",
-    "definition": "stretch",
+    "definition": "speak, talk, tell, tell about",
     "forms": [
       {
-        "kiksht": "chiukwułnił",
-        "english": "he is stretching it[i-] (for instance, a wire from one pole to another)"
+        "kiksht": "chiukwłilal",
+        "english": "he is telling about him"
       },
       {
-        "kiksht": "chiukwłit",
-        "english": "he has it[i-] stretched"
+        "kiksht": "yukwłichkux",
+        "english": "he has been told about [Dyk]"
       },
       {
-        "kiksht": "ichiukwłi",
-        "english": "he stretched it[i-] (for instance, a wire in the air between two poles)"
+        "kiksht": "achiukwłílalma",
+        "english": "he will tell about him"
       },
       {
-        "kiksht": "ichiukwłima, ichiukwłimit",
-        "english": "he stretched it[i-]"
+        "kiksht": "achitkwłílalma",
+        "english": "he will tell about him (distant future)"
       },
       {
-        "kiksht": "yukwłít",
-        "english": "it[i-] (for instance, telephone wire) is stretched"
+        "kiksht": "ikwłílalemchk!",
+        "english": "tell about him! [PK 1956]"
       },
       {
-        "kiksht": "ik'íkwłit",
-        "english": "he is stretching (something)"
+        "kiksht": "emtxelkwłilal",
+        "english": "you 2 are speaking to each other [WTI.2.20]"
       },
       {
-        "kiksht": "ixkwłit",
-        "english": "he has himself stretched"
-      },
-      {
-        "kiksht": "with -x-",
-        "english": "from, across"
-      },
-      {
-        "kiksht": ": chiaxkwłit",
-        "english": "he has it[i-] stretched from it[a-] (for instance, tied to one end and stretched from there)"
-      },
-      {
-        "kiksht": "iaxkwłit",
-        "english": "it[i-] is stretched from it[a-]"
-      },
-      {
-        "kiksht": "aixkwłidix",
-        "english": "it[a-] is stretched, extended across it[i-] (a place) (for instance, a log put across a stream) [Dyk]"
+        "kiksht": "łxaxikwłilal łkiax",
+        "english": "they are telling to one another [Dyk]; they're gossiping to one another [GT 6/4/98]"
       }
     ],
-    "notes": [
-      "This root is used with the relational prefix -x- to mean \"stretch from\" or \"stretch across,\" as in the last three forms given."
-    ],
     "seeAlso": [
-      "i-kwłilal, -KŁI"
+      "it-qikwłilal, -p'alawu, wawa"
     ]
   },
   "-KŁ": {
@@ -9216,6 +9197,53 @@
       "-l-KA-łx"
     ]
   },
+  "-l-KWŁI": {
+    "root": "-l-KWŁI",
+    "partOfSpeech": "vb",
+    "definition": "tell (someone) about",
+    "forms": [
+      {
+        "kiksht": "chialkwłilal",
+        "english": "he is telling her about him"
+      },
+      {
+        "kiksht": "chilkwłilal",
+        "english": "he is telling him about him"
+      },
+      {
+        "kiksht": "yalkwłíchk!",
+        "english": "tell her about him!"
+      },
+      {
+        "kiksht": "inshgialkwłichk",
+        "english": "we told her about him"
+      },
+      {
+        "kiksht": "inshgilkwłichk",
+        "english": "we told him aobut him"
+      },
+      {
+        "kiksht": "ichimlkwłichk",
+        "english": "he told you about him"
+      },
+      {
+        "kiksht": "iqimlkwłichk",
+        "english": "one told you about him, you were told about him"
+      },
+      {
+        "kiksht": "nichaitkwłichk",
+        "english": "he told him about her"
+      },
+      {
+        "kiksht": "iyamlkwłichk",
+        "english": "I told you about him, her"
+      },
+      {
+        "kiksht": "yalkwłichkux",
+        "english": "he has been told about to her, she has been told about him"
+      }
+    ]
+  },
   "-l-gi-KSHT-im": {
     "root": "-l-gi-KSHT-im",
     "partOfSpeech": "vb",
@@ -12089,6 +12117,25 @@
       }
     ]
   },
+  "-x-KWŁI": {
+    "root": "-x-KWŁI",
+    "partOfSpeech": "vb",
+    "definition": "tell",
+    "forms": [
+      {
+        "kiksht": "axatkwłilal",
+        "english": "she was telling"
+      },
+      {
+        "kiksht": "igixkwłichk",
+        "english": "he told [Dyk]"
+      },
+      {
+        "kiksht": "mxkwłilálmchk!",
+        "english": "tell! [PK 1956]"
+      }
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",
@@ -12532,6 +12579,49 @@
     ],
     "notes": [
       "Apparently refers mostly to shooting with bow and arrow."
+    ]
+  },
+  "-x-l-KWŁI": {
+    "root": "-x-l-KWŁI",
+    "partOfSpeech": "vb",
+    "definition": "tell (to)",
+    "forms": [
+      {
+        "kiksht": "aqshxamulkwłichkwa",
+        "english": "we will tell you; you will be told"
+      },
+      {
+        "kiksht": "atxilkwłichkwa",
+        "english": "we 2 will tell him"
+      },
+      {
+        "kiksht": "ixilkwłilal",
+        "english": "he is telling him"
+      },
+      {
+        "kiksht": "yaxalkwłilal",
+        "english": "he is telling her"
+      },
+      {
+        "kiksht": "yaxaitkwłilal",
+        "english": "he was telling her"
+      },
+      {
+        "kiksht": "axaitkwłilal",
+        "english": "she was telling him, her"
+      },
+      {
+        "kiksht": "iyaxamlkwłichk",
+        "english": "I told you"
+      },
+      {
+        "kiksht": "igixámlkwłichk",
+        "english": "he told you"
+      },
+      {
+        "kiksht": "iyaxalkwłichk",
+        "english": "he told her [Dyk]"
+      }
     ]
   },
   "-x-x-IMA-kw": {
@@ -13101,6 +13191,29 @@
       "i-kaxichx, -k-xi-CHU, -xi-CHU"
     ]
   },
+  "-xa-xl-KWŁI-chkw": {
+    "root": "-xa-xl-KWŁI-chkw",
+    "partOfSpeech": "vb",
+    "definition": "give message, deliver message",
+    "forms": [
+      {
+        "kiksht": "anxaxelkwłichgwa",
+        "english": "I will give the message [GT 1/15/99]"
+      },
+      {
+        "kiksht": "alixaxelkwłichgwa",
+        "english": "he will deliver the mssage [MMc 6/10/99]"
+      },
+      {
+        "kiksht": "enxaxelkwłichkwt",
+        "english": "I'm giving the message"
+      },
+      {
+        "kiksht": "[GT 6/10/99} nanxáxelkwłichgwa",
+        "english": "I gave the mes- sage [GT 1/15/99]"
+      }
+    ]
+  },
   "-xi-CHU": {
     "root": "-xi-CHU",
     "partOfSpeech": "vb",
@@ -13436,6 +13549,32 @@
         "kiksht": "gashxitgáyuwam",
         "english": "they 2 came to fight [Dyk]"
       }
+    ]
+  },
+  "-xl-KWŁI": {
+    "root": "-xl-KWŁI",
+    "partOfSpeech": "vb",
+    "definition": "tell each other, tell one another, spread the news, spread the word",
+    "forms": [
+      {
+        "kiksht": "gaduxwikwłichk",
+        "english": "they told one another, they spread the news [WTI.1d.8]"
+      },
+      {
+        "kiksht": "galuxwikwłichk",
+        "english": "they told one another about her"
+      },
+      {
+        "kiksht": "gatgenxelkwłichk",
+        "english": "they told one another about me [Dyk]"
+      },
+      {
+        "kiksht": "aduxikwłichgwa",
+        "english": "they will tell about him [GT, MMc 1/15/99]"
+      }
+    ],
+    "seeAlso": [
+      "-KWŁI"
     ]
   },
   "-xl-YA-mit": {

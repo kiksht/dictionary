@@ -15285,3 +15285,36 @@ Notes: Literally, “stretch under.” So, chaik’mkw¬ni¬ “he is measuring 
 
 -k’m-KWÒI [vb] become slivered in, be slivered in
 Forms: ink’emkw¬it “I have a sliver from it[i-] (literally, ‘it is slivered in me’)” ink’matkw¬it “I got a sliver from it[i-] (literally, ‘it was slivered in me’)” yak’emkw¬ixlit “she is getting full of slivers from it[i-] (literally, ‘it is becoming slivered in her’)” igink’emkw¬ixit “I got full of slivers from it[i-] (literally, ‘it became sliv- ered in me’)” [Dyk]
+
+
+
+
+
+
+
+
+
+
+
+-KWÒI [vb] speak, talk, tell, tell about
+Forms: chiukw¬ilal “he is telling about him” yukw¬ichkux “he has been told about” [Dyk] achiukw¬ˆlalma “he will tell about him” achitkw¬ˆlalma “he will tell about him (distant future)” ikw¬ˆlalemchk! “tell about him!” [PK 1956] emtxelkw¬ilal “you 2 are speaking to each other” [WTI.2.20] ¬xaxikw¬ilal ¬kiax “they are telling to one another [Dyk]; they’re gossiping to one another [GT 6/4/98]”
+See also: it-qikw¬ilal, -p’alawu, wawa
+
+-l-KWÒI [vb] tell (someone) about
+Forms: chialkw¬ilal “he is telling her about him” chilkw¬ilal “he is telling him about him” yalkw¬ˆchk! “tell her about him!” inshgialkw¬ichk “we told her about him” inshgilkw¬ichk “we told him aobut him” ichimlkw¬ichk “he told you about him” iqimlkw¬ichk “one told you about him, you were told about him” nichaitkw¬ichk “he told him about her” iyamlkw¬ichk “I told you about him, her” yalkw¬ichkux “he has been told about to her, she has been told about him”
+
+-xl-KWÒI [vb] tell about
+Forms: alixelkw¬ichgwa “he will talk about that, tell him something he saw” alixitkw¬ichgwa “he will talk about that, tell him something he saw (distant future)” [PK 8/57] ixelkw¬ilal “he told him about (what he saw, what happened, for instance on a trip he just came back from); he’s telling news” [GT 1/12/99]
+
+-x-KWÒI [vb] tell
+Forms: axatkw¬ilal “she was telling” igixkw¬ichk “he told” [Dyk] mxkw¬ilÅlmchk! “tell!” [PK 1956]
+
+-x-l-KWÒI [vb] tell (to)
+Forms: aqshxamulkw¬ichkwa “we will tell you; you will be told” atxilkw¬ichkwa “we 2 will tell him” ixilkw¬ilal “he is telling him” yaxalkw¬ilal “he is telling her” yaxaitkw¬ilal “he was telling her” axaitkw¬ilal “she was telling him, her” iyaxamlkw¬ichk “I told you” igixÅmlkw¬ichk “he told you” iyaxalkw¬ichk “he told her” [Dyk]
+
+-xa-xl-KWÒI-chkw [vb] give message, deliver message
+Forms: anxaxelkw¬ichgwa “I will give the message” [GT 1/15/99] alixaxelkw¬ichgwa “he will deliver the mssage” [MMc 6/10/99] enxaxelkw¬ichkwt “I’m giving the message” [GT 6/10/99} nanxÅxelkw¬ichgwa “I gave the mes- sage” [GT 1/15/99]
+
+-xl-KWÒI [vb] tell each other, tell one another, spread the news, spread the word
+Forms: gaduxwikw¬ichk “they told one another, they spread the news” [WTI.1d.8] galuxwikw¬ichk “they told one another about her” gatgenxelkw¬ichk “they told one another about me” [Dyk] aduxikw¬ichgwa “they will tell about him” [GT, MMc 1/15/99]
+See also: -KWÒI
