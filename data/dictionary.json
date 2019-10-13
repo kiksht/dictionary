@@ -19366,6 +19366,11 @@
       }
     ]
   },
+  "-x-PCHA-kw": {
+    "root": "-x-PCHA-kw",
+    "partOfSpeech": "vb",
+    "definition": "hold over head"
+  },
   "-x-YA-mit": {
     "root": "-x-YA-mit",
     "partOfSpeech": "vb",
@@ -26088,6 +26093,31 @@
       "Gotten from soda springs and mixed with deer grease to make red paint. [Dyk] Used in legend times to bring people back to life. [PK] Used for \"war-paint,\" when people got ready to dance [GT, MMc 12/30/97] -NXA set in upright position"
     ]
   },
+  "a-pchguwag̲washt": {
+    "root": "a-pchguwag̲washt",
+    "partOfSpeech": "n",
+    "definition": "scalp",
+    "forms": [
+      {
+        "kiksht": "ayapchgwag̲washt",
+        "english": "his scalp"
+      },
+      {
+        "kiksht": "(may mean either his own or one he has taken\" idyapchgwag̲washt",
+        "english": ""
+      },
+      {
+        "kiksht": "idyapchgwag̲washt",
+        "english": "his scalps (ones he has taken) [HS 8/8/ 56]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Algailtłamidagwayaxdix apchguwag̲washt.",
+        "english": "We will do the scalp dance. [PK]"
+      }
+    ]
+  },
   "a-pác'akas": {
     "root": "a-pác'akas",
     "partOfSpeech": "n",
@@ -26100,6 +26130,17 @@
     "root": "a-pán",
     "partOfSpeech": "n",
     "definition": "mushroom variety, grow- ing on ground"
+  },
+  "a-pánag̲naq": {
+    "root": "a-pánag̲naq",
+    "partOfSpeech": "n",
+    "definition": "seed stalk of wild celery",
+    "notes": [
+      "Not edible; the edible stem of wild celery is wipán."
+    ],
+    "seeAlso": [
+      "wi-pán, a-bánaxa, i-bánaxa"
+    ]
   },
   "a-łashqw'imliq": {
     "root": "a-łashqw'imliq",
@@ -57804,6 +57845,96 @@
       }
     ]
   },
+  "i-paq'a": {
+    "root": "i-paq'a",
+    "partOfSpeech": "n",
+    "definition": "flat head, flattened head"
+  },
+  "i-paq'páq'umat": {
+    "root": "i-paq'páq'umat",
+    "partOfSpeech": "n",
+    "definition": "slingshot"
+  },
+  "i-paqpaqumat": {
+    "root": "i-paqpaqumat",
+    "partOfSpeech": "n",
+    "definition": "slingshot",
+    "seeAlso": [
+      "i-paq'paq'umat"
+    ]
+  },
+  "i-payut": {
+    "root": "i-payut",
+    "partOfSpeech": "n",
+    "definition": "Paiute",
+    "forms": [
+      {
+        "kiksht": "iłpayut, itpayut",
+        "english": "Paiutes [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "ipayut ikala",
+        "english": "Paiute man"
+      },
+      {
+        "kiksht": "payut idalx",
+        "english": "Paiute country"
+      },
+      {
+        "kiksht": "páyutba wilx",
+        "english": "country where Paiutes are [Dyk]"
+      }
+    ]
+  },
+  "i-pås": {
+    "root": "i-pås",
+    "partOfSpeech": "n",
+    "definition": "pear",
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
+  "i-pcéxumit": {
+    "root": "i-pcéxumit",
+    "partOfSpeech": "n",
+    "definition": "green, greenness, being green",
+    "examples": [
+      {
+        "kiksht": "Iłapcéxumit iłchqwá.",
+        "english": "The water is green. [DykGr 130]"
+      }
+    ],
+    "seeAlso": [
+      "pcex"
+    ]
+  },
+  "i-pck'ílauya": {
+    "root": "i-pck'ílauya",
+    "partOfSpeech": "n",
+    "definition": "kingfisher",
+    "forms": [
+      {
+        "kiksht": "ishpsk'ílauya",
+        "english": "2 kingfishers [HS 7/21/56]"
+      }
+    ],
+    "seeAlso": [
+      "i-ch'almu"
+    ]
+  },
+  "i-pápakwun": {
+    "root": "i-pápakwun",
+    "partOfSpeech": "n",
+    "definition": "paws",
+    "forms": [
+      {
+        "kiksht": "itpápakwun",
+        "english": "claws [Bear and Crane F]"
+      }
+    ]
+  },
   "i-shmiwa": {
     "root": "i-shmiwa",
     "partOfSpeech": "n",
@@ -60587,6 +60718,14 @@
       "is-masen"
     ]
   },
+  "ish-pchg̲iusht": {
+    "root": "ish-pchg̲iusht",
+    "partOfSpeech": "n",
+    "definition": "whirlwind",
+    "seeAlso": [
+      "ish-pchg̲iuxt"
+    ]
+  },
   "ish-íxtksh": {
     "root": "ish-íxtksh",
     "partOfSpeech": "n",
@@ -62553,6 +62692,14 @@
       "it-k'umałemt"
     ]
   },
+  "it-pchexmax": {
+    "root": "it-pchexmax",
+    "partOfSpeech": "n",
+    "definition": "weeds",
+    "seeAlso": [
+      "ił-pchéx"
+    ]
+  },
   "it-łg̲wúl": {
     "root": "it-łg̲wúl",
     "partOfSpeech": "n",
@@ -64220,6 +64367,22 @@
     "definition": "puberty dance",
     "notes": [
       "Gladys Thompson, Madeline McInturff [12/30/97]: \"like a com- ing-out thing...when she first be- comes a young lady, then she's avail- able to be married\""
+    ]
+  },
+  "ił-pchéx": {
+    "root": "ił-pchéx",
+    "partOfSpeech": "n",
+    "definition": "forest",
+    "seeAlso": [
+      "it-pchexmax"
+    ]
+  },
+  "ił-páp": {
+    "root": "ił-páp",
+    "partOfSpeech": "n",
+    "definition": "pop, soda",
+    "notes": [
+      "Borrowed from English."
     ]
   },
   "ił-łpuksh": {
@@ -69052,6 +69215,79 @@
       "ił-k'ipámispamis"
     ]
   },
+  "paq'": {
+    "root": "paq'",
+    "partOfSpeech": "part",
+    "definition": "puff (on pipe, cigarette)",
+    "examples": [
+      {
+        "kiksht": "Paq' chuxt.",
+        "english": "He is puffing (on) it[a-]."
+      },
+      {
+        "kiksht": "Paq'paq' chuxt.",
+        "english": "He is puffing on it[a-] (repeatedly). [Dyk]"
+      }
+    ]
+  },
+  "patł": {
+    "root": "patł",
+    "partOfSpeech": "part",
+    "definition": "fill, full, plenty, lots",
+    "forms": [
+      {
+        "kiksht": "patłpatł",
+        "english": "full (referring to several objects, for instance sacks) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Patł guxt at'iwat iłchqwá engi.",
+        "english": "She is filling the bucket with water. [GT, MMc]"
+      },
+      {
+        "kiksht": "Ag̲a patł galixux.",
+        "english": "Then he became full."
+      },
+      {
+        "kiksht": "kánawa dan patł",
+        "english": "plenty, full of everything"
+      },
+      {
+        "kiksht": "Patł ałqiuxwa.",
+        "english": "It will fill him up."
+      },
+      {
+        "kiksht": "shit'ix patł",
+        "english": "half full [Dyk]"
+      }
+    ]
+  },
+  "paund": {
+    "root": "paund",
+    "partOfSpeech": "part",
+    "definition": "weigh",
+    "examples": [
+      {
+        "kiksht": "Paund ichiux.",
+        "english": "He weighed him. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English \"pound.\""
+    ]
+  },
+  "paxemt": {
+    "root": "paxemt",
+    "partOfSpeech": "part",
+    "definition": "war-dance",
+    "examples": [
+      {
+        "kiksht": "Paxemt emxúx.",
+        "english": "You are war-dancing. [PK 6/26/56]"
+      }
+    ]
+  },
   "pał": {
     "root": "pał",
     "partOfSpeech": "part",
@@ -69081,6 +69317,37 @@
     ],
     "seeAlso": [
       "pał"
+    ]
+  },
+  "pcex": {
+    "root": "pcex",
+    "partOfSpeech": "part",
+    "definition": "green, get green, make green",
+    "examples": [
+      {
+        "kiksht": "Pcex ikiaxix.",
+        "english": "It is getting green (as in springtime). [PK]"
+      }
+    ],
+    "seeAlso": [
+      "-pchix, dapchix, i-psxumit"
+    ]
+  },
+  "pchexpchex": {
+    "root": "pchexpchex",
+    "partOfSpeech": "part",
+    "definition": "bruise, get bruised",
+    "examples": [
+      {
+        "kiksht": "Pchexpchxe ixtkiax.",
+        "english": "He got bruised. [GT, MMc 12/29/97]"
+      }
+    ],
+    "notes": [
+      "Related to dapchåx \"blue;\" apparently the reference is to getting \"black and blue.\""
+    ],
+    "seeAlso": [
+      "dapchåx"
     ]
   },
   "qengi": {
@@ -69798,6 +70065,14 @@
       }
     ]
   },
+  "wa-papa": {
+    "root": "wa-papa",
+    "partOfSpeech": "n",
+    "definition": "boiled soup of Chinook salmon that has been fermented in the ground for a couple of days",
+    "notes": [
+      "According to Phillip Kahclamat, eaten more by Cascades people than by Wishrams."
+    ]
+  },
   "wa-páł": {
     "root": "wa-páł",
     "partOfSpeech": "n",
@@ -70090,6 +70365,14 @@
         "kiksht": "winpumax",
         "english": "fleas [Dyk]"
       }
+    ]
+  },
+  "wi-pán": {
+    "root": "wi-pán",
+    "partOfSpeech": "n",
+    "definition": "wild celery",
+    "notes": [
+      "Refers to the edible stem of the plant before it seeds; see a- pánag̲naq."
     ]
   },
   "wi-łq": {
