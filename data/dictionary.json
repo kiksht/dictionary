@@ -5472,6 +5472,33 @@
       "i-lkchal, i-k'alkchix"
     ]
   },
+  "-LULA-mit": {
+    "root": "-LULA-mit",
+    "partOfSpeech": "vb",
+    "definition": "counterfeit, forge, fake, deceive",
+    "forms": [
+      {
+        "kiksht": "chiululamit",
+        "english": "he is faking it[i- ]"
+      },
+      {
+        "kiksht": "ichiulúlamit",
+        "english": "he faked, forged..."
+      },
+      {
+        "kiksht": "chialulamit",
+        "english": "he is deceiving her with him"
+      },
+      {
+        "kiksht": "chiniklulamit",
+        "english": "he was deceiv- ing me with him"
+      },
+      {
+        "kiksht": "ixlúlamit",
+        "english": "he is a freak [Dyk]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -6690,6 +6717,40 @@
     ],
     "seeAlso": [
       "-CHU"
+    ]
+  },
+  "-gi-LUMA": {
+    "root": "-gi-LUMA",
+    "partOfSpeech": "vb",
+    "definition": "shout to, call out to",
+    "forms": [
+      {
+        "kiksht": "inigíluma",
+        "english": "I shouted to him"
+      },
+      {
+        "kiksht": "inugwíluma",
+        "english": "I shouted to them"
+      },
+      {
+        "kiksht": "inigidluma",
+        "english": "I shouted to her (over there)"
+      },
+      {
+        "kiksht": "gashgílumniłchk",
+        "english": "they 2 shouted to him (several times)"
+      },
+      {
+        "kiksht": "uxwílumat",
+        "english": "they are shouting to one another [Dyk]"
+      },
+      {
+        "kiksht": "chigilumnił",
+        "english": "he shouted to him repeatedly [PK 5/ 12/57"
+      }
+    ],
+    "seeAlso": [
+      "-LUMA shout, call"
     ]
   },
   "-gian": {
@@ -8297,6 +8358,29 @@
       "i-chukdenił, i-chukdidix"
     ]
   },
+  "-i-LUMA": {
+    "root": "-i-LUMA",
+    "partOfSpeech": "vb",
+    "definition": "shout up, holler up",
+    "examples": [
+      {
+        "kiksht": "Chilumat wimał.",
+        "english": "He's hollering up the river."
+      },
+      {
+        "kiksht": "[idiomatic term for",
+        "english": "loon]"
+      },
+      {
+        "kiksht": "Shgilumat wimał.",
+        "english": "They 2 are hollering up the river."
+      },
+      {
+        "kiksht": "[",
+        "english": "two loons] [Dyk]"
+      }
+    ]
+  },
   "-i-gi-LA-ix": {
     "root": "-i-gi-LA-ix",
     "partOfSpeech": "vb",
@@ -8567,6 +8651,21 @@
     ],
     "seeAlso": [
       "- G̲WA"
+    ]
+  },
+  "-i-x-luma": {
+    "root": "-i-x-luma",
+    "partOfSpeech": "vb",
+    "definition": "shout through",
+    "forms": [
+      {
+        "kiksht": "chixlumat",
+        "english": "he is shouting through it[i-]"
+      },
+      {
+        "kiksht": "chixdlumat",
+        "english": "he was shouting through it[i-] [Dyk]"
+      }
     ]
   },
   "-i-xl-KIŁX̲": {
@@ -9653,6 +9752,33 @@
       {
         "kiksht": "Iglálam idit.",
         "english": "He comes along sing- ing. [Dyk]"
+      }
+    ]
+  },
+  "-k-LUMA": {
+    "root": "-k-LUMA",
+    "partOfSpeech": "vb",
+    "definition": "shout, yell, call out, sing out",
+    "forms": [
+      {
+        "kiksht": "amshgluma",
+        "english": "you folks will shout [WTI.1k.1]"
+      },
+      {
+        "kiksht": "galigluma",
+        "english": "he shouted"
+      },
+      {
+        "kiksht": "anxdlúmama",
+        "english": "I will come to shout"
+      },
+      {
+        "kiksht": "inxdlumam",
+        "english": "I came to shout"
+      },
+      {
+        "kiksht": "inglumam",
+        "english": "I went to shout [Dyk]"
       }
     ]
   },
@@ -14868,6 +14994,24 @@
         "kiksht": "alamxelkchwaya",
         "english": "you will let her fall [WTI.5.2]"
       }
+    ]
+  },
+  "-x-LULA-mit": {
+    "root": "-x-LULA-mit",
+    "partOfSpeech": "vb",
+    "definition": "be a freak",
+    "forms": [
+      {
+        "kiksht": "ixlúlamit",
+        "english": "he is a freak"
+      },
+      {
+        "kiksht": "shxlúlamit",
+        "english": "they 2 are freaks [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "it-qigilúlamit"
     ]
   },
   "-x-NI": {
@@ -55825,6 +55969,25 @@
       "i-lkau, ił-qiginxachwamat"
     ]
   },
+  "ił-luk'max": {
+    "root": "ił-luk'max",
+    "partOfSpeech": "n",
+    "definition": "divorce, divorced, separated, being grass widow(er)",
+    "forms": [
+      {
+        "kiksht": "iłyáluk'max",
+        "english": "he is divorced; divorced man; grass widower"
+      },
+      {
+        "kiksht": "iłgáluk'max",
+        "english": "she is divorced; di- vorced woman; grass widow"
+      },
+      {
+        "kiksht": "iłłáluk'max",
+        "english": "separated person [Dyk] -LULA be fake, be strange"
+      }
+    ]
+  },
   "ił-lá": {
     "root": "ił-lá",
     "partOfSpeech": "n",
@@ -58050,6 +58213,114 @@
       "-k-SHGIWA"
     ]
   },
+  "luk'": {
+    "root": "luk'",
+    "partOfSpeech": "part",
+    "definition": "make straight, be straight",
+    "examples": [
+      {
+        "kiksht": "Luk' ichiux.",
+        "english": "He made it[i- ] straight."
+      },
+      {
+        "kiksht": "Daluk' iyuya.",
+        "english": "He went straight, upright."
+      },
+      {
+        "kiksht": "Shailuk' iyuya.",
+        "english": "He went without taking anything with him. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dalúk', shailuk', i-giluk'mat"
+    ]
+  },
+  "lulu": {
+    "root": "lulu",
+    "partOfSpeech": "part",
+    "definition": "bunch together, bunch up, come together",
+    "examples": [
+      {
+        "kiksht": "Lulu aluxatxa.",
+        "english": "They will get bunched up (distant future)."
+      },
+      {
+        "kiksht": "Lulu galuxaxax.",
+        "english": "They bunched up, came together."
+      },
+      {
+        "kiksht": "Lulú ichiux.",
+        "english": "He made it[i-] round, put it together, bunched it up."
+      },
+      {
+        "kiksht": "Łulu iguxwax.",
+        "english": "They got together in a crowd."
+      },
+      {
+        "kiksht": "Qushdiaxa lulu galuxwax.",
+        "english": "Perhaps, I presume, they must have bunched up. [Dyk]"
+      },
+      {
+        "kiksht": "Aik'áu ganshxuxwax lulu.",
+        "english": "We got together in a bunch. [WTIV.2.12]"
+      }
+    ],
+    "seeAlso": [
+      "sailulu"
+    ]
+  },
+  "luq'": {
+    "root": "luq'",
+    "partOfSpeech": "part",
+    "definition": "swallow, eat",
+    "examples": [
+      {
+        "kiksht": "Luq' inyux ig̲iwaq.",
+        "english": "I ate, swallowed the meat."
+      },
+      {
+        "kiksht": "Luq' nitxax ig̲iwaq.",
+        "english": "I wish I were eating meat."
+      },
+      {
+        "kiksht": "Luq' nitxax nagwatx pu inxelmux ig̲iwaq.",
+        "english": "I would like to swallow meat."
+      }
+    ],
+    "seeAlso": [
+      "i-giluq'"
+    ]
+  },
+  "lux": {
+    "root": "lux",
+    "partOfSpeech": "part",
+    "definition": "blind, cover up",
+    "examples": [
+      {
+        "kiksht": "Lux ixa isxíluqmit!",
+        "english": "Pull down the shade! (literally 'blind the window! Cover up the window!')"
+      },
+      {
+        "kiksht": "Luxlúx ikiax.",
+        "english": "He is becoming blind."
+      },
+      {
+        "kiksht": "Luxlux ichiux",
+        "english": "He covered him up. [Dyk]"
+      },
+      {
+        "kiksht": "Luxlux galixátx.",
+        "english": "He went blind."
+      },
+      {
+        "kiksht": "Luxlux ikiax isxiluqmit.",
+        "english": "The windows are blind. [PK 6/29/56]"
+      }
+    ],
+    "notes": [
+      "It is not clear whether this is the same word as lux \"bake under- ground.\""
+    ]
+  },
   "qengi": {
     "root": "qengi",
     "partOfSpeech": "pron",
@@ -58672,6 +58943,14 @@
     ],
     "notes": [
       "Refers to the bridal gifts given by the groom to the bride's parents, who then distributed them among relatives."
+    ]
+  },
+  "wi-lukt": {
+    "root": "wi-lukt",
+    "partOfSpeech": "n",
+    "definition": "bay",
+    "notes": [
+      "Refers to a long narrow bay or indentation, not backwater."
     ]
   },
   "wi-lx": {
