@@ -4309,6 +4309,17 @@
       }
     ]
   },
+  "-KW'ANXA": {
+    "root": "-KW'ANXA",
+    "partOfSpeech": "vb",
+    "definition": "grow",
+    "forms": [
+      {
+        "kiksht": "yukw'anxat",
+        "english": "it[i-] is growing (of food growing on trees) [WTI.17.8]"
+      }
+    ]
+  },
   "-KWA": {
     "root": "-KWA",
     "partOfSpeech": "vb",
@@ -16823,6 +16834,14 @@
     ],
     "seeAlso": [
       "a-łxwadit"
+    ]
+  },
+  "a-kw'atauyas": {
+    "root": "a-kw'atauyas",
+    "partOfSpeech": "n",
+    "definition": "buckskin coat, buckskin shirt",
+    "notes": [
+      "According to Phillip Kahclamat, this was a buckskin coat with fringes."
     ]
   },
   "a-kwaxwalawadit": {
@@ -46963,6 +46982,39 @@
       "i-kw'álali"
     ]
   },
+  "i-kw'anmax": {
+    "root": "i-kw'anmax",
+    "partOfSpeech": "n",
+    "definition": "being in the habit, having habits",
+    "forms": [
+      {
+        "kiksht": "iyakw'anmax",
+        "english": "he is one who has habits (either good or bad) [PK]"
+      }
+    ],
+    "notes": [
+      "Phillip Kahclamat's note on this word: \"You do one thing—get away with it—you know you gonna get away with it again—you enjoy getting away with it, one thing—you think you can do it again. kw'ankw'an: after you done, shouting victoriously.\""
+    ]
+  },
+  "i-kw'aqwa": {
+    "root": "i-kw'aqwa",
+    "partOfSpeech": "n",
+    "definition": "grizzly bear"
+  },
+  "i-kw'ashumit": {
+    "root": "i-kw'ashumit",
+    "partOfSpeech": "n",
+    "definition": "cowardice, fearful- ness",
+    "forms": [
+      {
+        "kiksht": "iyakw'ashumit",
+        "english": "he is a cow- ard, always scared [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kw'ash, i-gikw'ashkw'ash"
+    ]
+  },
   "i-kw'álacincin": {
     "root": "i-kw'álacincin",
     "partOfSpeech": "n",
@@ -54056,6 +54108,115 @@
     ],
     "seeAlso": [
       "i-qikw'álalak, -KW'ALALA-kw -KW'ALALA lose"
+    ]
+  },
+  "kw'an": {
+    "root": "kw'an",
+    "partOfSpeech": "part",
+    "definition": "be in the habit, have the habit",
+    "examples": [
+      {
+        "kiksht": "Kw'an ikiax.",
+        "english": "He is in the habit, has the habit. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Phillip Kahclamat on this word: \"Take a horse, he'll do some- thing and get away with it; he knows he can do it and get away with it again. Do it once/get away with it; you'll do it again, get away with it.\" See PK's comment on i-kw'anmax."
+    ],
+    "seeAlso": [
+      "i-kw'anmax"
+    ]
+  },
+  "kw'anmax": {
+    "root": "kw'anmax",
+    "partOfSpeech": "part",
+    "definition": "[expression of dis- gust]",
+    "examples": [
+      {
+        "kiksht": "Kw'anmax aqduxwa daudaich idelxam.",
+        "english": "Ah, those people! [HS 1951]"
+      },
+      {
+        "kiksht": "[Note from David French (?):",
+        "english": "Hiram Smith did not believe this could be rendered in English. It is an expression of disgust, as 'Ah, those people!"
+      },
+      {
+        "kiksht": "",
+        "english": "Pfui on those people!' Connotations of 'let them do it themselves, I won't do it for them' in explanation by analogous situa- tion. (But this explanation seems to refer more to Coyote's motivation than to sense of word itself, or more to part {of the statement} after kw'anmax.)]"
+      }
+    ]
+  },
+  "kw'ap": {
+    "root": "kw'ap",
+    "partOfSpeech": "part",
+    "definition": "break to small pieces",
+    "seeAlso": [
+      "gup, gwap"
+    ]
+  },
+  "kw'ash": {
+    "root": "kw'ash",
+    "partOfSpeech": "part",
+    "definition": "overcome, outdo",
+    "examples": [
+      {
+        "kiksht": "Kw'ash inyux.",
+        "english": "I overcame him, outdid him. [Dyk]"
+      }
+    ]
+  },
+  "kw'ashka": {
+    "root": "kw'ashka",
+    "partOfSpeech": "interj",
+    "definition": "don't!, stop!",
+    "examples": [
+      {
+        "kiksht": "Kw'ashka naq(i) amiwag̲wa.",
+        "english": "Don't kill him!"
+      },
+      {
+        "kiksht": "Kw'ashka amíwag̲wa.",
+        "english": "Don't! You might kill him!"
+      },
+      {
+        "kiksht": "Ya kw'ashka!",
+        "english": "Hey! Don't!"
+      }
+    ],
+    "notes": [
+      "A cry of warning."
+    ]
+  },
+  "kw'ashkw'ash": {
+    "root": "kw'ashkw'ash",
+    "partOfSpeech": "part",
+    "definition": "frighten, intimi- date",
+    "examples": [
+      {
+        "kiksht": "Kw'ashkw'ash niúxt.",
+        "english": "I'm intimidating, frightening him."
+      },
+      {
+        "kiksht": "Kw'ashkw'ash chiuxt.",
+        "english": "He's intimidat- ing, frightening him. [PK 8/31/55]"
+      }
+    ],
+    "seeAlso": [
+      "kw'ash, i-gikw'ashkw'ash"
+    ]
+  },
+  "kw'atkw'at": {
+    "root": "kw'atkw'at",
+    "partOfSpeech": "part",
+    "definition": "pluck out, pick",
+    "examples": [
+      {
+        "kiksht": "Igixanxshkam kw'atkw'at idipiq.",
+        "english": "He got away from me and his feathers became plucked. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kw'utkw'ut"
     ]
   },
   "kw'ała": {
