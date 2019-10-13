@@ -15729,3 +15729,29 @@ Notes: Used only with plural sub- jects. For singular subjects, use -xi- ¬a-l-i
 
 -i-gi-LA-ix [vb] land (boat, in boat)
 Forms: anaigilayaxdix “I will land it[a-] (boat); I will land her (in a boat)” anxigˆlayaxdix “I will land myself” ga¬xigilaix “they landed themselves” aigˆladix “it[a-] (boat) is landed; she is landed (in a boat)” shtigiladix, shigiladix “they 2 are landed” ga¬igˆlaxidix “they became landed, they suddenly landed” [Dyk]
+
+
+
+
+
+
+
+
+
+-LA-kw [vb] strike, hit
+Examples: galishˆlakwit “it[i-] struck against them 2” [WTI.2.23]
+See also: it-qÅlagwadit
+
+-k-LA-kw [vb] cover with
+Forms: shgaiglalkw¬ “they 2 are cov- ering him with it[a-]” qashglalkw¬ “someone is covering them two with it[a-], they 2 are being covered with it[a-]” aiglakwt “he is covered with it[a-]” shdiglakwt “he is covered with them 2” ashglakwt “they 2 are cov- ered with it[a-]” ga¬gakgˆlagwa “they covered her” [Dyk]
+See also: i-kalagwamat, i- kagˆlagwamat, it-kagˆlagwadit, it- kÅlagwadit, it-qÅlagwadit
+
+-k-gi-LA-kw [vb] cover over, put out of sight
+Forms: achakgˆlagwa “he will cover her, put her out of sight” chakgilalkw¬ “he is covering her” shgikgilalkw¬ “they 2 are covering him” chikgilakwt “he has him cov- ered” ichakgˆlagwa “he covered her” ichakgˆlalkw¬chk “he covered her (several time, or with several cov- ers)” ga¬gakgˆlagwa “they covered her” ikgilakwt “he is covered” akgilakwt “she is covered (for in- stance, the sun by clouds)” shkgilakwt “they 2 are covered” akgilakux “she is covered, has been covered” igakgˆlakwit “she became covered (for instance, the sun by clouds)” igakgˆlaguxit “she became covered (as with a blanket)” ixgˆlalkw¬ “he is covering himself” ixgilakwt “he has himself covered” ichakgˆlakwam “he went to cover her” ichagatgˆlakwam “he came to cover her” ichakgˆlalkw¬am “he went to cover her (several times, or with several covers)” ichagatgˆlalkw¬am “he came to cover her (several times, or with several covers)” [Dyk]
+
+-l-LA-kw [vb] hit, hit with
+Forms: “hit”: yÅilakwlit “it[i-] (for instance, a swinging branch) is hit- ting her” yailakwt “she is hit with it[i-]” iyÅilguxit “she became hit with it[i-]” iyÅilakwit “it[i-] (for instance, something that dropped, or a rock thrown up by passing car) hit her” igilxilakwit “it[i-] struck us” “hit with”: chiailalkw¬ “he is hitting her with it[i-]” ich¬ailagwa “he threw them at her (all at once)” iniÅilagwa “I hit her with it[i-]” inˆlagwa “I hit him with it[i-]” iqˆlagwa “he was hit with it[i-]” nichiÅidlagwa “he hit her with it[i-] (once, by throwing) (last week)” nichiailalkw¬ “he was hitting her with it[i-] (by throwing) (last season)” gachi¬ˆlagwa “he hit them with it[i-]” galixˆlagwa “he bumped against him, hit himself against him (once)” [Dyk]
+Notes: This verb is constructed in two different ways. When used sim- ply in the sense “hit,” both the thing hitting and the thing or person hit are expressed by neutral pronouns; the second pronoun is object of the relational prefix -l- (which often appears in its alternate form -i-). When used to mean “hit with,” the person or thing hitting is expressed with an active pronoun, the person or thing hit with a neutral pronoun, and the thing with which the person or thing is hit is expressed with a neutral pronoun which is the object of the relational prefix -l- (which likewise often appears in its alternate form -i-). Always in the first construc- tion and usually in the second con- struction, this verb refers to being hit unintentionally or accidentally, not on purpose.
+
+-l-LA-kw [vb] move about within, mix in
+Forms: ch¬lk’ˆlalkw¬ “he is mixing something in it” [Dyk]

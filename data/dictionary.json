@@ -5061,6 +5061,20 @@
       "Used only with plural sub- jects. The suffix -ix is used only the present tense, the ga- tense when it means \"last year\" (that is, when it is used with the -t- directional), and the ni- tense (only when it means \"were doing...\"). For singular subjects, use - ła-it."
     ]
   },
+  "-LA-kw": {
+    "root": "-LA-kw",
+    "partOfSpeech": "vb",
+    "definition": "strike, hit",
+    "examples": [
+      {
+        "kiksht": "galishílakwit",
+        "english": "it[i-] struck against them 2 [WTI.2.23]"
+      }
+    ],
+    "seeAlso": [
+      "it-qálagwadit"
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -8942,6 +8956,123 @@
       }
     ]
   },
+  "-k-LA-kw": {
+    "root": "-k-LA-kw",
+    "partOfSpeech": "vb",
+    "definition": "cover with",
+    "forms": [
+      {
+        "kiksht": "shgaiglalkwł",
+        "english": "they 2 are cov- ering him with it[a-]"
+      },
+      {
+        "kiksht": "qashglalkwł",
+        "english": "someone is covering them two with it[a-], they 2 are being covered with it[a-]"
+      },
+      {
+        "kiksht": "aiglakwt",
+        "english": "he is covered with it[a-]"
+      },
+      {
+        "kiksht": "shdiglakwt",
+        "english": "he is covered with them 2"
+      },
+      {
+        "kiksht": "ashglakwt",
+        "english": "they 2 are cov- ered with it[a-]"
+      },
+      {
+        "kiksht": "gałgakgílagwa",
+        "english": "they covered her [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-kalagwamat, i- kagílagwamat, it-kagílagwadit, it- kálagwadit, it-qálagwadit"
+    ]
+  },
+  "-k-gi-LA-kw": {
+    "root": "-k-gi-LA-kw",
+    "partOfSpeech": "vb",
+    "definition": "cover over, put out of sight",
+    "forms": [
+      {
+        "kiksht": "achakgílagwa",
+        "english": "he will cover her, put her out of sight"
+      },
+      {
+        "kiksht": "chakgilalkwł",
+        "english": "he is covering her"
+      },
+      {
+        "kiksht": "shgikgilalkwł",
+        "english": "they 2 are covering him"
+      },
+      {
+        "kiksht": "chikgilakwt",
+        "english": "he has him cov- ered"
+      },
+      {
+        "kiksht": "ichakgílagwa",
+        "english": "he covered her"
+      },
+      {
+        "kiksht": "ichakgílalkwłchk",
+        "english": "he covered her (several time, or with several cov- ers)"
+      },
+      {
+        "kiksht": "gałgakgílagwa",
+        "english": "they covered her"
+      },
+      {
+        "kiksht": "ikgilakwt",
+        "english": "he is covered"
+      },
+      {
+        "kiksht": "akgilakwt",
+        "english": "she is covered (for in- stance, the sun by clouds)"
+      },
+      {
+        "kiksht": "shkgilakwt",
+        "english": "they 2 are covered"
+      },
+      {
+        "kiksht": "akgilakux",
+        "english": "she is covered, has been covered"
+      },
+      {
+        "kiksht": "igakgílakwit",
+        "english": "she became covered (for instance, the sun by clouds)"
+      },
+      {
+        "kiksht": "igakgílaguxit",
+        "english": "she became covered (as with a blanket)"
+      },
+      {
+        "kiksht": "ixgílalkwł",
+        "english": "he is covering himself"
+      },
+      {
+        "kiksht": "ixgilakwt",
+        "english": "he has himself covered"
+      },
+      {
+        "kiksht": "ichakgílakwam",
+        "english": "he went to cover her"
+      },
+      {
+        "kiksht": "ichagatgílakwam",
+        "english": "he came to cover her"
+      },
+      {
+        "kiksht": "ichakgílalkwłam",
+        "english": "he went to cover her (several times, or with several covers)"
+      },
+      {
+        "kiksht": "ichagatgílalkwłam",
+        "english": "he came to cover her (several times, or with several covers) [Dyk]"
+      }
+    ]
+  },
   "-k-xa-IMA-wulx": {
     "root": "-k-xa-IMA-wulx",
     "partOfSpeech": "vb",
@@ -10134,6 +10265,17 @@
       {
         "kiksht": "yalkwłichkux",
         "english": "he has been told about to her, she has been told about him"
+      }
+    ]
+  },
+  "-l-LA-kw": {
+    "root": "-l-LA-kw",
+    "partOfSpeech": "vb",
+    "definition": "move about within, mix in",
+    "forms": [
+      {
+        "kiksht": "chłlk'ílalkwł",
+        "english": "he is mixing something in it [Dyk]"
       }
     ]
   },
