@@ -14659,3 +14659,59 @@ See also: -NUÒM, i-dak’inu¬max
 -K’INWA-pa [vb] have in place of, exchange, replace; trade
 Forms: chiuk’inwapx “he has it[i-] in place of something else” yuk’inwapx “he is replaced” [Dyk]
 See also: -gm-K’INWA-pa, -x-gm- K’INWA-pa, i-kmak’inwalp¬
+
+
+
+
+
+-gm-K’INWA-pa [vb] change, ex- change, interchange, replace, trade
+Forms: aniugmak’ˆnuaba “I will change it[i-]” [WTIII.1.1] achiagemk’ˆnwaba “he will exchange it[i-] with it[a-]” achi ̈gmak’inwaba “he will exchange it[i-] with it[i-]” [sic Dyk; one would expect this to mean rather “he will exchange it[i-] with them {-u-}. GT, MMc 6/4/98 were unable to clarify this.] anshgiugmak’ˆnwaba “we will ex- change it[i-]” ichiugmak’ˆnwapam “he went to trade it[i-]” ichiugmatk’ˆnwapam “he came to trade it[i-]” nagemgik’inwapx “I have exchanged something for it[a-], I have replaced it with something else” chixemk’inwapx “he has it[i-] ex- changed with the other” ninixemk’inwaba “I exchanged, inter- changed, it[i-] for it[i-]” [Dyk] ninixmatk’ˆnuaba “I changed it[i-]” [WTIII.1.1] shxemk’inwapx “they 2 are interchanged” ixemk’ˆnwapxlit “it[i-] is becoming interchanged with it[i-]” igixemk’ˆnwapxit “it[i-] became interchanged” [Dyk]
+See also: -K’INWA-pa, -x-gm-K’INWA- pa
+
+-x-gm-K’INWA-pa [vb] trade with, exchange, be in place of
+Forms: ayaxagmatk’ˆnwaba “he will trade with her (distant future)” anxigemk’ˆnwaba “I will trade with him” alixangemk’ˆnwaba “he will trade with me” ayaxagemk’ˆnwaba “he will trade with her” alaxÅigemk’inwaba “she will trade with him” nxigemk’inwapx “I am trading with him; I am in place of him, in exchange for him” nxigemk’inwlp¬ “I’m trading with him (continuously)” yaxagemk’ˆnwapx “he is in place of her” [Dyk]
+See also: -K’INWA-pa, -gm-K’INWA-pa
+
+-k’ipamispamis [n] doing pamispamis, doctoring by blowing breath onto
+See also: May apparently be used with either i- or i¬- prefix: ik’ipamispamis, i¬k’ipamispamis.
+See also: pamispamis
+
+i-k’ipchxalal [n] sewing
+Forms: iyak’ipchxalal “he is a sewer; his sewing” [Dyk]
+Examples: I¬shat ichak’ipchxalal. “She is a shirt sewer.” [Dyk]
+See also: -PCH ̨
+
+i-k’ip©nÅiwanan [n] calling the roll
+Forms: iyak’ip©nÅiwanan “he is one who calls the roll, he is a roll-caller” [Dyk]
+See also: -P ̋NA, i-k’ip©nanan
+
+i-k’ip©nanan [n] calling, calling out names, calling by name
+Forms: iyak’ip©nanan “he is one who calls out names” [Dyk]
+See also: -P ̋NA, i-k’ip©nÅiwanan
+
+i-k’ipsnalq¬k [n] putting across
+Forms: iyak’ˆpsnalq¬k “he is one who puts things across” [Dyk]
+See also: -PSNA-q¬kw
+
+i-k’ipsq¬alal [n] stretching, tighten- ing
+Forms: iyak’ipsq¬alal “he is a stretcher, one who stretches” [Dyk]
+See also: -PSQÒA
+
+i-k’ipshulit [n] hiding (things)
+Forms: iyak’ipshulit “he is a hider of things” [Dyk]
+See also: -PSHU-t
+
+i-k’ip’alaulal [n] talking about
+Forms: ichak’ip’Ålaulal “she is one who talks about people, things” [Dyk]
+See also: -P’ALAU-lal
+
+i-k’ip’e¬p’e¬mat [n] something to flatten with
+See also: p’e¬
+
+i-k’iq¬a [n] counting
+Forms: iyak’iq¬a “he is a counter” [Dyk]
+See also: -QÒA
+
+i-k’iqwaqwa [n] coughing
+Forms: iyak’iqwaqwa “he is a cougher” [Dyk]
+See also: qwa, wa-qwaxtk

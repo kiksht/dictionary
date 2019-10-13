@@ -5715,6 +5715,68 @@
       }
     ]
   },
+  "-gm-K'INWA-pa": {
+    "root": "-gm-K'INWA-pa",
+    "partOfSpeech": "vb",
+    "definition": "change, ex- change, interchange, replace, trade",
+    "forms": [
+      {
+        "kiksht": "aniugmak'ínuaba",
+        "english": "I will change it[i-] [WTIII.1.1]"
+      },
+      {
+        "kiksht": "achiagemk'ínwaba",
+        "english": "he will exchange it[i-] with it[a-]"
+      },
+      {
+        "kiksht": "achiúgmak'inwaba",
+        "english": "he will exchange it[i-] with it[i-]"
+      },
+      {
+        "kiksht": "[sic Dyk; one would expect this to mean rather",
+        "english": "he will exchange it[i-] with them {-u-}. GT, MMc 6/4/98 were unable to clarify this.] anshgiugmak'ínwaba \"we will ex- change it[i-]"
+      },
+      {
+        "kiksht": "ichiugmak'ínwapam",
+        "english": "he went to trade it[i-]"
+      },
+      {
+        "kiksht": "ichiugmatk'ínwapam",
+        "english": "he came to trade it[i-]"
+      },
+      {
+        "kiksht": "nagemgik'inwapx",
+        "english": "I have exchanged something for it[a-], I have replaced it with something else"
+      },
+      {
+        "kiksht": "chixemk'inwapx",
+        "english": "he has it[i-] ex- changed with the other"
+      },
+      {
+        "kiksht": "ninixemk'inwaba",
+        "english": "I exchanged, inter- changed, it[i-] for it[i-] [Dyk]"
+      },
+      {
+        "kiksht": "ninixmatk'ínuaba",
+        "english": "I changed it[i-] [WTIII.1.1]"
+      },
+      {
+        "kiksht": "shxemk'inwapx",
+        "english": "they 2 are interchanged"
+      },
+      {
+        "kiksht": "ixemk'ínwapxlit",
+        "english": "it[i-] is becoming interchanged with it[i-]"
+      },
+      {
+        "kiksht": "igixemk'ínwapxit",
+        "english": "it[i-] became interchanged [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-K'INWA-pa, -x-gm-K'INWA- pa"
+    ]
+  },
   "-gm-xa-GA-pa": {
     "root": "-gm-xa-GA-pa",
     "partOfSpeech": "vb",
@@ -6916,6 +6978,15 @@
         "kiksht": "itk'imuwaquksh",
         "english": "water liz- ards [Dyk]"
       }
+    ]
+  },
+  "-k'ipamispamis": {
+    "root": "-k'ipamispamis",
+    "partOfSpeech": "n",
+    "definition": "doing pamispamis, doctoring by blowing breath onto",
+    "seeAlso": [
+      "May apparently be used with either i- or ił- prefix: ik'ipamispamis, iłk'ipamispamis.",
+      "pamispamis"
     ]
   },
   "-k'álamat": {
@@ -10862,6 +10933,48 @@
     ],
     "notes": [
       "Literally means \"throw (- chim) oneself (-x-) at (-gl-).\" The -m- is omitted before the suffix -ł-."
+    ]
+  },
+  "-x-gm-K'INWA-pa": {
+    "root": "-x-gm-K'INWA-pa",
+    "partOfSpeech": "vb",
+    "definition": "trade with, exchange, be in place of",
+    "forms": [
+      {
+        "kiksht": "ayaxagmatk'ínwaba",
+        "english": "he will trade with her (distant future)"
+      },
+      {
+        "kiksht": "anxigemk'ínwaba",
+        "english": "I will trade with him"
+      },
+      {
+        "kiksht": "alixangemk'ínwaba",
+        "english": "he will trade with me"
+      },
+      {
+        "kiksht": "ayaxagemk'ínwaba",
+        "english": "he will trade with her"
+      },
+      {
+        "kiksht": "alaxáigemk'inwaba",
+        "english": "she will trade with him"
+      },
+      {
+        "kiksht": "nxigemk'inwapx",
+        "english": "I am trading with him; I am in place of him, in exchange for him"
+      },
+      {
+        "kiksht": "nxigemk'inwlpł",
+        "english": "I'm trading with him (continuously)"
+      },
+      {
+        "kiksht": "yaxagemk'ínwapx",
+        "english": "he is in place of her [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-K'INWA-pa, -gm-K'INWA-pa"
     ]
   },
   "-x-gn-K'ANQUT": {
@@ -42214,6 +42327,146 @@
     ],
     "seeAlso": [
       "-NUŁM, i-k'ínułmax"
+    ]
+  },
+  "i-k'ip'alaulal": {
+    "root": "i-k'ip'alaulal",
+    "partOfSpeech": "n",
+    "definition": "talking about",
+    "forms": [
+      {
+        "kiksht": "ichak'ip'álaulal",
+        "english": "she is one who talks about people, things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-P'ALAU-lal"
+    ]
+  },
+  "i-k'ip'ełp'ełmat": {
+    "root": "i-k'ip'ełp'ełmat",
+    "partOfSpeech": "n",
+    "definition": "something to flatten with",
+    "seeAlso": [
+      "p'eł"
+    ]
+  },
+  "i-k'ipchxalal": {
+    "root": "i-k'ipchxalal",
+    "partOfSpeech": "n",
+    "definition": "sewing",
+    "forms": [
+      {
+        "kiksht": "iyak'ipchxalal",
+        "english": "he is a sewer; his sewing [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Iłshat ichak'ipchxalal.",
+        "english": "She is a shirt sewer. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-PCHX̲"
+    ]
+  },
+  "i-k'ipg̲nanan": {
+    "root": "i-k'ipg̲nanan",
+    "partOfSpeech": "n",
+    "definition": "calling, calling out names, calling by name",
+    "forms": [
+      {
+        "kiksht": "iyak'ipg̲nanan",
+        "english": "he is one who calls out names [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-P G̲NA, i-k'ipg̲náiwanan"
+    ]
+  },
+  "i-k'ipg̲náiwanan": {
+    "root": "i-k'ipg̲náiwanan",
+    "partOfSpeech": "n",
+    "definition": "calling the roll",
+    "forms": [
+      {
+        "kiksht": "iyak'ipg̲náiwanan",
+        "english": "he is one who calls the roll, he is a roll-caller [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-P G̲NA, i-k'ipg̲nanan"
+    ]
+  },
+  "i-k'ipshulit": {
+    "root": "i-k'ipshulit",
+    "partOfSpeech": "n",
+    "definition": "hiding (things)",
+    "forms": [
+      {
+        "kiksht": "iyak'ipshulit",
+        "english": "he is a hider of things [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-PSHU-t"
+    ]
+  },
+  "i-k'ipsnalqłk": {
+    "root": "i-k'ipsnalqłk",
+    "partOfSpeech": "n",
+    "definition": "putting across",
+    "forms": [
+      {
+        "kiksht": "iyak'ípsnalqłk",
+        "english": "he is one who puts things across [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-PSNA-qłkw"
+    ]
+  },
+  "i-k'ipsqłalal": {
+    "root": "i-k'ipsqłalal",
+    "partOfSpeech": "n",
+    "definition": "stretching, tighten- ing",
+    "forms": [
+      {
+        "kiksht": "iyak'ipsqłalal",
+        "english": "he is a stretcher, one who stretches [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-PSQŁA"
+    ]
+  },
+  "i-k'iqwaqwa": {
+    "root": "i-k'iqwaqwa",
+    "partOfSpeech": "n",
+    "definition": "coughing",
+    "forms": [
+      {
+        "kiksht": "iyak'iqwaqwa",
+        "english": "he is a cougher [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "qwa, wa-qwaxtk"
+    ]
+  },
+  "i-k'iqła": {
+    "root": "i-k'iqła",
+    "partOfSpeech": "n",
+    "definition": "counting",
+    "forms": [
+      {
+        "kiksht": "iyak'iqła",
+        "english": "he is a counter [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-QŁA"
     ]
   },
   "i-k'iładnił": {
