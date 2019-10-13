@@ -5599,6 +5599,132 @@
     "partOfSpeech": "n",
     "definition": "dipnet"
   },
+  "-MA-kw": {
+    "root": "-MA-kw",
+    "partOfSpeech": "vb",
+    "definition": "give out, distribute",
+    "forms": [
+      {
+        "kiksht": "achiumagwa",
+        "english": "he will distrib- ute them[i-]"
+      },
+      {
+        "kiksht": "achiumalgma",
+        "english": "he will distribute them[i-] (at various times)"
+      },
+      {
+        "kiksht": "chiumákwt",
+        "english": "he is distributing them[i- ]; he has them distributed"
+      },
+      {
+        "kiksht": "chiumalk",
+        "english": "he is distributing them[i-]"
+      },
+      {
+        "kiksht": "chialmalk",
+        "english": "he is distributing them[i-] to them[a-]"
+      },
+      {
+        "kiksht": "chiaxmálk",
+        "english": "he is dis- tributing them[i-] which belong to her"
+      },
+      {
+        "kiksht": "iłxelmakwt",
+        "english": "they are distribut- ing them[i-] to one another"
+      },
+      {
+        "kiksht": "yumákwt",
+        "english": "they[i-] are distributed around"
+      },
+      {
+        "kiksht": "yumakux",
+        "english": "they[i-] have been distributed, passed out, given away [Dyk]"
+      },
+      {
+        "kiksht": "iniumak",
+        "english": "I gave it[i-] away, distributed it"
+      },
+      {
+        "kiksht": "niumalk",
+        "english": "I am giving it[i-] away, distributing it"
+      },
+      {
+        "kiksht": "łmak!",
+        "english": "give them out! [PK 6/18-19/ 56]"
+      },
+      {
+        "kiksht": "nałdumagwa",
+        "english": "they gave them out (yesterday)"
+      },
+      {
+        "kiksht": "anshkdumagwalma",
+        "english": "we're getting ready to give them out"
+      },
+      {
+        "kiksht": "endumalk",
+        "english": "I'm giving them out (right now)"
+      },
+      {
+        "kiksht": "chdumalk",
+        "english": "he is giving them out"
+      },
+      {
+        "kiksht": "kdumalk",
+        "english": "she is giving them out"
+      },
+      {
+        "kiksht": "entkdumalk",
+        "english": "we 2 are giving them out"
+      },
+      {
+        "kiksht": "łkdumalk",
+        "english": "they are giving them out"
+      },
+      {
+        "kiksht": "niłktmak",
+        "english": "they gave them out (long ago) [JM 7/29/ 54]"
+      },
+      {
+        "kiksht": "ixelgimalk",
+        "english": "he is distributing [Dyk]"
+      },
+      {
+        "kiksht": "aqiawimagwa",
+        "english": "they will be distributed to them [WTII.2.2]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Saqw chiumákwt.",
+        "english": "He is distributing them[i-] all; he has them all distributed. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-gimak, i-qigimak, it- qigimak, i-gimalk, i-mlamak, i- mlagimak"
+    ]
+  },
+  "-MA-qw": {
+    "root": "-MA-qw",
+    "partOfSpeech": "vb",
+    "definition": "refer to someone dead",
+    "forms": [
+      {
+        "kiksht": "ik'imalq",
+        "english": "he is referring to someone dead"
+      },
+      {
+        "kiksht": "chumalq",
+        "english": "he is refer- ring to her who is dead"
+      },
+      {
+        "kiksht": "icúmalqemchk",
+        "english": "he referred to her who is dead [Dyk]"
+      }
+    ],
+    "notes": [
+      "Probably means referring to someone dead by another name, since the dead person's name cannot be used until it is given to someone else. Compare shimsha in Sahaptin."
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -12629,6 +12755,58 @@
       "wa-łutk"
     ]
   },
+  "-l-ŁX̲WA": {
+    "root": "-l-ŁX̲WA",
+    "partOfSpeech": "vb",
+    "definition": "put around neck, have around neck, harness",
+    "forms": [
+      {
+        "kiksht": "aqłilłxwaya",
+        "english": "one will put them around him [WTII.3.1]"
+      },
+      {
+        "kiksht": "chłalłxwat",
+        "english": "he has it around her neck"
+      },
+      {
+        "kiksht": "ichłalłxwá",
+        "english": "he put it around her neck, he put it (a necklace) on her"
+      },
+      {
+        "kiksht": "alixelłxwaya",
+        "english": "he will put it[i-] around his own neck"
+      },
+      {
+        "kiksht": "aqixelłxwaya",
+        "english": "someone will put it[i-] around his own neck"
+      },
+      {
+        "kiksht": "ixelłxunił",
+        "english": "he is putting it[i-] around his own neck"
+      },
+      {
+        "kiksht": "dixelłxuníł",
+        "english": "he is putting them around his own neck"
+      },
+      {
+        "kiksht": "idxelłxwa",
+        "english": "he put them around his own neck [Dyk]"
+      },
+      {
+        "kiksht": "amawik'íłxwaya",
+        "english": "you harness them, you put something around their neck [HS 7/2/56; PK 6/28/57]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Yalłxwát iłashimálq.",
+        "english": "She has their sea-shell around her neck. [WTIV.3.3]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'iłxwalalmat"
+    ]
+  },
   "-ladas": {
     "root": "-ladas",
     "partOfSpeech": "n",
@@ -18704,6 +18882,20 @@
     ],
     "seeAlso": [
       "-xl-MUX̲, -ŁX̲LM"
+    ]
+  },
+  "-xi-gi-MA-kw": {
+    "root": "-xi-gi-MA-kw",
+    "partOfSpeech": "vb",
+    "definition": "hold a giveaway, have a giveaway",
+    "forms": [
+      {
+        "kiksht": "aluxigímagwa",
+        "english": "they'll have a giveaway [as before a powwow, or of rations] [GT 12/30/97]"
+      }
+    ],
+    "seeAlso": [
+      "i-gimak"
     ]
   },
   "-xi-t-I": {
@@ -53966,6 +54158,14 @@
     ],
     "seeAlso": [
       "-ŁX̲LM, -x-ŁX̲LM, it-łxlém"
+    ]
+  },
+  "i-łxwiya": {
+    "root": "i-łxwiya",
+    "partOfSpeech": "n",
+    "definition": "canoe",
+    "notes": [
+      "Big passenger boat with turned up prow. [PK 6/26/57]"
     ]
   },
   "iagluxtix": {
