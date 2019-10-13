@@ -5882,6 +5882,133 @@
       "-MQT"
     ]
   },
+  "-MICHK'I": {
+    "root": "-MICHK'I",
+    "partOfSpeech": "vb",
+    "definition": "pick up, pick out, find and pick up, gather",
+    "forms": [
+      {
+        "kiksht": "amichk'i!",
+        "english": "pick it[a-] up, if you find it!"
+      },
+      {
+        "kiksht": "amichk'inanimchk!",
+        "english": "pick them[i-] up!"
+      },
+      {
+        "kiksht": "achiumichk'ia",
+        "english": "he will find and pick it[i-] up"
+      },
+      {
+        "kiksht": "chiumichk'inan",
+        "english": "he is finding and picking them[i-] up (as when looking for arrowheads); he is picking them up (as ilibum \"apples"
+      },
+      {
+        "kiksht": ")\" ichiumichk'i",
+        "english": ""
+      },
+      {
+        "kiksht": "ichiumichk'i",
+        "english": "he found and picked it[i-] up"
+      },
+      {
+        "kiksht": "aixmichk'it",
+        "english": "he has found it[a-] belonging to himself and picked it up (for instance, his old shoes that he once lost or threw away)"
+      },
+      {
+        "kiksht": "ixmichk'it",
+        "english": "he has found it[i-] belong- ing to himself and picked it up"
+      },
+      {
+        "kiksht": "ik'imichk'inan",
+        "english": "he is finding and picking up"
+      },
+      {
+        "kiksht": "yumchk'it",
+        "english": "it[i-] is found and picked up"
+      },
+      {
+        "kiksht": "dumichk'it, tkmichk'it",
+        "english": "they are found and picked up"
+      },
+      {
+        "kiksht": "idumichk'ixit",
+        "english": "they be- came found and picked up [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Iłk'álamat gachłumichk'i [gachłumichki].",
+        "english": "He gathered stones. [WTI.1d.5] Gakdúmichk'i [gakdúmichki]"
+      },
+      {
+        "kiksht": "uxaq'íwalal.",
+        "english": "She found the fish. [WTI.5.5]"
+      }
+    ]
+  },
+  "-MILA": {
+    "root": "-MILA",
+    "partOfSpeech": "vb",
+    "definition": "scold",
+    "forms": [
+      {
+        "kiksht": "łgiumila",
+        "english": "he[ił-] scolds him [WTI.1d.4]"
+      }
+    ]
+  },
+  "-MIMTU(M)": {
+    "root": "-MIMTU(M)",
+    "partOfSpeech": "vb",
+    "definition": "pay a doctor's fee",
+    "forms": [
+      {
+        "kiksht": "achialmímduma",
+        "english": "he will pay it[i-] (e.g., idala) to her as a doctor's fee"
+      },
+      {
+        "kiksht": "chiumímtuł",
+        "english": "he is paying it[i-]"
+      },
+      {
+        "kiksht": "chiumimdumt",
+        "english": "he has paid it[i-]"
+      },
+      {
+        "kiksht": "chialmimdumt",
+        "english": "he has paid it[i-] to her"
+      },
+      {
+        "kiksht": "chalgimimtuł",
+        "english": "he is paying her"
+      },
+      {
+        "kiksht": "qdalmimdumt",
+        "english": "she has been giving her her doctor's fee"
+      },
+      {
+        "kiksht": "qdaitmimdumt",
+        "english": "she had been giving her her doctor's fee [corrected from Dyk's card: qdiatmimdumt; these forms not rec- ognized by GT, MMc 6/3/98]"
+      },
+      {
+        "kiksht": "ichialmimtum",
+        "english": "he paid it[i-] to her [Dyk]"
+      },
+      {
+        "kiksht": "anilgimimduma",
+        "english": "I'm going to pay him (but don't know what I'm going to pay) [PK 9/1/55]"
+      },
+      {
+        "kiksht": "yalmimtum!",
+        "english": "pay it[i-] to her!"
+      },
+      {
+        "kiksht": "ilmimtum!",
+        "english": "pay it to him! [PK 8/8/ 56]"
+      }
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -8988,6 +9115,29 @@
     ],
     "seeAlso": [
       "-QMIT"
+    ]
+  },
+  "-g̲l-xa-MICHK'I-pa": {
+    "root": "-g̲l-xa-MICHK'I-pa",
+    "partOfSpeech": "vb",
+    "definition": "pick out, sort out",
+    "forms": [
+      {
+        "kiksht": "nig̲lxámichk'ipx",
+        "english": "I'm sorting them[i-] (for instance, ilibum) out"
+      },
+      {
+        "kiksht": "anig̲lxámichk'iba",
+        "english": "I will sort them[i-] out [PK 8/13/56]"
+      },
+      {
+        "kiksht": "chig̲nxamíchk'ipx",
+        "english": "he is picking out [corrected from original chg̲nxamíchk'ipx]"
+      },
+      {
+        "kiksht": "nachig̲nxamík'iba",
+        "english": "he picked them[i-] out (yesterday) [HS 8/24/56] id-midas [n] legging"
+      }
     ]
   },
   "-g̲m-CHX̲U-kw": {
@@ -13456,6 +13606,35 @@
       {
         "kiksht": "idlíunanksh, idlíunan",
         "english": "cougars [Dyk]"
+      }
+    ]
+  },
+  "-mimlusht": {
+    "root": "-mimlusht",
+    "partOfSpeech": "n",
+    "definition": "dead person, ghost, corpse",
+    "forms": [
+      {
+        "kiksht": "iłmimlusht",
+        "english": "dead person, ghost"
+      },
+      {
+        "kiksht": "amimlusht",
+        "english": "(female) dead person; she is a ghost idmimlusht [Dyk], idmímlushdiksh [AF 12/29/ 52, GT, MMc 12/30/97]"
+      },
+      {
+        "kiksht": "",
+        "english": "dead people, ghosts, corpses"
+      },
+      {
+        "kiksht": "iłmimlusht",
+        "english": "dead things [WTI.14.4]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Shgigemudelqix imimlusht itbuquxba.",
+        "english": "They 2 are burying him, a dead person, at the mountain."
       }
     ]
   },
@@ -54574,6 +54753,21 @@
     "partOfSpeech": "n",
     "definition": "small berries growing close to the ground"
   },
+  "i-mig̲wulqwul": {
+    "root": "i-mig̲wulqwul",
+    "partOfSpeech": "n",
+    "definition": "condition in old horses where the gums grow over the teeth",
+    "forms": [
+      {
+        "kiksht": "yámig̲ulqwul",
+        "english": "he (a horse) has his gums growing over his teeth"
+      },
+      {
+        "kiksht": "ichámig̲wulqwul",
+        "english": "she (a horse) has her gums growing over her teeth [Dyk]"
+      }
+    ]
+  },
   "i-ładat": {
     "root": "i-ładat",
     "partOfSpeech": "n",
@@ -60740,6 +60934,14 @@
     "root": "ił-mian",
     "partOfSpeech": "n",
     "definition": "shale rock"
+  },
+  "ił-mín": {
+    "root": "ił-mín",
+    "partOfSpeech": "n",
+    "definition": "oil organs in fish",
+    "notes": [
+      "Refers to 2 fat, long and white roe-like organs in fish, from which fish grease and oil can be obtained. [Dyk] Used to be dried and cooked and eaten. [MMc 12/30/97] People dried salmon and then put in pit with covering (of leaves or tulis tightly woven) for storage. [GT] -MINA wash face"
+    ]
   },
   "ił-łpuksh": {
     "root": "ił-łpuksh",
