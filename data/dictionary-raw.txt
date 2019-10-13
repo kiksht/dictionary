@@ -19447,3 +19447,51 @@ Forms: chiaxnyankw¬ “he is wrap- ping it[i-] up around it[a-]” chiaxadenyan
 
 -x-qi-NYA-kw [vb] roll, wrap
 Forms: achaxqinyagwa “he will wrap it” ichaxqinyagwax “he wrapped it” [MMc 12/22/97] axqinyakwt “it[a-]’s wrapped around and around” ixqinyakwt “it[i-] is wrapped” [Dyk]
+
+
+
+
+
+
+
+-xi-NYA-kw [vb] wrap up, roll up, twist up within itself
+Forms: anaixˆnyagwa “I’ll roll it[i-] up” nichixidnyagwa “he rolled it[i-] up” caxˆnyankw¬ “he is rolling it[a-] up” chixidnyankw¬ “he was wrap- ping it[i-] up in itself” nxinyakwt “I am rolled up (twisted up in myself)” axinyakwt “she is rolled up” shxinyakwt “they 2 are rolled up” axidnyakwt “she was rolled up” igixxinyagwa “it[i-] rolled itself up” shxinyukux “they 2 have been rolled up” ixˆnyakwlit “it[i-] always folds, rolls up (becomes folded up)” ixˆyaguxlit “it[i-] becomes rolled up” igixˆnyakwit “it[i-] rolls up, folds up (as paper flattened out rolls itself up again)” igixˆnyaguxit “it[i-] got rolled, folded, buckled up (implies someone or something have forced it to roll up)” nigixidnyakwit “it rolled itself up” [Dyk] P
+
+-PA [vb] go out, come out, emerge, leave, rise (of sun)
+Forms: anshubaiwa “we (not includ- ing you) will go out (individually, or in groups)” yulp¬ “he is going out (several times); he goes out” yupx “he is out, he is going out” adelp¬ “she comes out (several times)” atpx “she is coming out” tgepx, dupx “they are going out” igatpa “she came out this way; it[a-] (sun, a©a¬ax) rose” gayupa “he went out” ga¬upa “they went out” [Dyk]
+Examples: A©a gayupa; gali¬gl ̈q¬q. “Now he went out; he left them.” [WTI.1c.12] Ga¬a©elba aq¬Ålgi¬xal. “They went out of the sweathouse.” [WTI.4.13] A©a¬Åx ulp¬. “The sun is rising.” Atpx a©a¬ax. “The sun is rising.” qama a©a¬ax alitbaya “where the sun will rise” a©a¬axyamt ulp¬ “towards the rising sun” [Dyk] Ga¬xelmux; nawit ga¬©elba. “They ate it; at once it went out through them.” [WTI.4.5]
+Notes: Refers to almost any kind of motion out. Opposite is -pq. Fre- quently occurs in verbs as secondary root (position 9); but can be used as primary root.
+
+-q’l-PA [vb] grow, grow out of
+Forms: aiq’elpdix “it[a-] is growing out of it[i-] (ground)” ¬enq’lepx “it (for instance, hair) is growing out on me” ¬enq’itpx “it (for instance, hair) is growing out of me this way; it was growing out of me” niq’elpx “I am growing out from him; my ancestor” [Dyk]
+Examples: Daxka diq’elpdix wilxba. “They (plants) are growing out of the ground.” [PK 5/?/55]
+
+i-pa’a¬ [n] cave
+Forms: itpÅ’a¬max “caves”
+
+a-pÅc’akas [n] oldtime straight wood pipe, pipestem, cigarette holder
+Notes: Originally referred to a tradi- tional straight pipe made of wood; meaning apparently later extended to “pipestem” and “cigarette holder.” Does not refer to pipe with elbow.
+
+i- -pachi [adj n] being a loner, being a lone wolf, refusing to talk or associ- ate with others
+Forms: iyapachi “he is a lone wolf, he doesn’t talk or associate with others” [Dyk]
+
+palalÅi [adv] plenty, lots (of), much, many
+Examples: palalÅi it©ulul “lots of acorns” PalalÅi ichiux. “He made lots of them[i-].” [Dyk]
+
+pa¬ [part] fill, full of
+Examples: Idiaqwit diluxt pa¬ itk’Åmunak. “His legs are full of pieces of wood.” [WTI.1e.1]
+Notes: This word is found in this form in Wishram Texts. Contempo- rary Wasco speakers have been tran- scribed as saying pat¬.
+See also: pat¬
+
+wa-pÅ¬ [n] bag
+
+pa¬max [part] in great number
+Examples: Iqwˆaqwiamax i¬l ̈xt i¬Åkshnba pa¬max. “Rings were on her fingers in great number.” [WTI.13.6]
+See also: pa¬
+
+pamispamis [part] doctor by blowing onto
+Examples: Pamispamis giuxt. “She is doctoring him by performing pamispamis.” [Dyk]
+Notes: Same as Sahaptin.
+See also: i¬-k’ipÅmispamis
+
+a-pÅn [n] mushroom variety, grow- ing on ground

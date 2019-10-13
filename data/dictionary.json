@@ -7055,6 +7055,82 @@
       "ish-kányagwamat"
     ]
   },
+  "-PA": {
+    "root": "-PA",
+    "partOfSpeech": "vb",
+    "definition": "go out, come out, emerge, leave, rise (of sun)",
+    "forms": [
+      {
+        "kiksht": "anshubaiwa",
+        "english": "we (not includ- ing you) will go out (individually, or in groups)"
+      },
+      {
+        "kiksht": "yulpł",
+        "english": "he is going out (several times); he goes out"
+      },
+      {
+        "kiksht": "yupx",
+        "english": "he is out, he is going out"
+      },
+      {
+        "kiksht": "adelpł",
+        "english": "she comes out (several times)"
+      },
+      {
+        "kiksht": "atpx",
+        "english": "she is coming out"
+      },
+      {
+        "kiksht": "tgepx, dupx",
+        "english": "they are going out"
+      },
+      {
+        "kiksht": "igatpa",
+        "english": "she came out this way; it[a-] (sun, ag̲ałax) rose"
+      },
+      {
+        "kiksht": "gayupa",
+        "english": "he went out"
+      },
+      {
+        "kiksht": "gałupa",
+        "english": "they went out [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ag̲a gayupa; galiłglúqłq.",
+        "english": "Now he went out; he left them. [WTI.1c.12]"
+      },
+      {
+        "kiksht": "Gałag̲elba aqłálgiłxal.",
+        "english": "They went out of the sweathouse. [WTI.4.13]"
+      },
+      {
+        "kiksht": "Ag̲ałáx ulpł.",
+        "english": "The sun is rising."
+      },
+      {
+        "kiksht": "Atpx ag̲ałax.",
+        "english": "The sun is rising."
+      },
+      {
+        "kiksht": "qama ag̲ałax alitbaya",
+        "english": "where the sun will rise"
+      },
+      {
+        "kiksht": "ag̲ałaxyamt ulpł",
+        "english": "towards the rising sun [Dyk]"
+      },
+      {
+        "kiksht": "Gałxelmux; nawit gałg̲elba.",
+        "english": "They ate it; at once it went out through them. [WTI.4.5]"
+      }
+    ],
+    "notes": [
+      "Refers to almost any kind of motion out. Opposite is -pq. Fre- quently occurs in verbs as secondary root (position 9); but can be used as primary root."
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -15245,6 +15321,35 @@
       "Refers to a relationship of man to man or woman to woman who are both common spouses of the same mate. May also refer to a man who has stolen one's wife. Used only with 3rd person prefixes."
     ]
   },
+  "-q'l-PA": {
+    "root": "-q'l-PA",
+    "partOfSpeech": "vb",
+    "definition": "grow, grow out of",
+    "forms": [
+      {
+        "kiksht": "aiq'elpdix",
+        "english": "it[a-] is growing out of it[i-] (ground)"
+      },
+      {
+        "kiksht": "łenq'lepx",
+        "english": "it (for instance, hair) is growing out on me"
+      },
+      {
+        "kiksht": "łenq'itpx",
+        "english": "it (for instance, hair) is growing out of me this way; it was growing out of me"
+      },
+      {
+        "kiksht": "niq'elpx",
+        "english": "I am growing out from him; my ancestor [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Daxka diq'elpdix wilxba.",
+        "english": "They (plants) are growing out of the ground. [PK 5/?/55]"
+      }
+    ]
+  },
   "-q'l-ŁX̲I": {
     "root": "-q'l-ŁX̲I",
     "partOfSpeech": "vb",
@@ -21319,6 +21424,73 @@
       }
     ]
   },
+  "-xi-NYA-kw": {
+    "root": "-xi-NYA-kw",
+    "partOfSpeech": "vb",
+    "definition": "wrap up, roll up, twist up within itself",
+    "forms": [
+      {
+        "kiksht": "anaixínyagwa",
+        "english": "I'll roll it[i-] up"
+      },
+      {
+        "kiksht": "nichixidnyagwa",
+        "english": "he rolled it[i-] up"
+      },
+      {
+        "kiksht": "caxínyankwł",
+        "english": "he is rolling it[a-] up"
+      },
+      {
+        "kiksht": "chixidnyankwł",
+        "english": "he was wrap- ping it[i-] up in itself"
+      },
+      {
+        "kiksht": "nxinyakwt",
+        "english": "I am rolled up (twisted up in myself)"
+      },
+      {
+        "kiksht": "axinyakwt",
+        "english": "she is rolled up"
+      },
+      {
+        "kiksht": "shxinyakwt",
+        "english": "they 2 are rolled up"
+      },
+      {
+        "kiksht": "axidnyakwt",
+        "english": "she was rolled up"
+      },
+      {
+        "kiksht": "igixxinyagwa",
+        "english": "it[i-] rolled itself up"
+      },
+      {
+        "kiksht": "shxinyukux",
+        "english": "they 2 have been rolled up"
+      },
+      {
+        "kiksht": "ixínyakwlit",
+        "english": "it[i-] always folds, rolls up (becomes folded up)"
+      },
+      {
+        "kiksht": "ixíyaguxlit",
+        "english": "it[i-] becomes rolled up"
+      },
+      {
+        "kiksht": "igixínyakwit",
+        "english": "it[i-] rolls up, folds up (as paper flattened out rolls itself up again)"
+      },
+      {
+        "kiksht": "igixínyaguxit",
+        "english": "it[i-] got rolled, folded, buckled up (implies someone or something have forced it to roll up)"
+      },
+      {
+        "kiksht": "nigixidnyakwit",
+        "english": "it rolled itself up [Dyk] P"
+      }
+    ]
+  },
   "-xi-gi-MA-kw": {
     "root": "-xi-gi-MA-kw",
     "partOfSpeech": "vb",
@@ -25915,6 +26087,19 @@
     "notes": [
       "Gotten from soda springs and mixed with deer grease to make red paint. [Dyk] Used in legend times to bring people back to life. [PK] Used for \"war-paint,\" when people got ready to dance [GT, MMc 12/30/97] -NXA set in upright position"
     ]
+  },
+  "a-pác'akas": {
+    "root": "a-pác'akas",
+    "partOfSpeech": "n",
+    "definition": "oldtime straight wood pipe, pipestem, cigarette holder",
+    "notes": [
+      "Originally referred to a tradi- tional straight pipe made of wood; meaning apparently later extended to \"pipestem\" and \"cigarette holder.\" Does not refer to pipe with elbow."
+    ]
+  },
+  "a-pán": {
+    "root": "a-pán",
+    "partOfSpeech": "n",
+    "definition": "mushroom variety, grow- ing on ground"
   },
   "a-łashqw'imliq": {
     "root": "a-łashqw'imliq",
@@ -50183,6 +50368,17 @@
       "nex, shainexnex, it- -nexnex"
     ]
   },
+  "i- -pachi": {
+    "root": "i- -pachi",
+    "partOfSpeech": "adj n",
+    "definition": "being a loner, being a lone wolf, refusing to talk or associ- ate with others",
+    "forms": [
+      {
+        "kiksht": "iyapachi",
+        "english": "he is a lone wolf, he doesn't talk or associate with others [Dyk]"
+      }
+    ]
+  },
   "i- -ánana": {
     "root": "i- -ánana",
     "partOfSpeech": "adj n",
@@ -57595,6 +57791,17 @@
     ],
     "seeAlso": [
       "i-gánansisi"
+    ]
+  },
+  "i-pa'ał": {
+    "root": "i-pa'ał",
+    "partOfSpeech": "n",
+    "definition": "cave",
+    "forms": [
+      {
+        "kiksht": "itpá'ałmax",
+        "english": "caves"
+      }
     ]
   },
   "i-shmiwa": {
@@ -68813,6 +69020,69 @@
       "pał, patł"
     ]
   },
+  "palalái": {
+    "root": "palalái",
+    "partOfSpeech": "adv",
+    "definition": "plenty, lots (of), much, many",
+    "examples": [
+      {
+        "kiksht": "palalái itg̲ulul",
+        "english": "lots of acorns"
+      },
+      {
+        "kiksht": "Palalái ichiux.",
+        "english": "He made lots of them[i-]. [Dyk]"
+      }
+    ]
+  },
+  "pamispamis": {
+    "root": "pamispamis",
+    "partOfSpeech": "part",
+    "definition": "doctor by blowing onto",
+    "examples": [
+      {
+        "kiksht": "Pamispamis giuxt.",
+        "english": "She is doctoring him by performing pamispamis. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Same as Sahaptin."
+    ],
+    "seeAlso": [
+      "ił-k'ipámispamis"
+    ]
+  },
+  "pał": {
+    "root": "pał",
+    "partOfSpeech": "part",
+    "definition": "fill, full of",
+    "examples": [
+      {
+        "kiksht": "Idiaqwit diluxt pał itk'ámunak.",
+        "english": "His legs are full of pieces of wood. [WTI.1e.1]"
+      }
+    ],
+    "notes": [
+      "This word is found in this form in Wishram Texts. Contempo- rary Wasco speakers have been tran- scribed as saying patł."
+    ],
+    "seeAlso": [
+      "patł"
+    ]
+  },
+  "pałmax": {
+    "root": "pałmax",
+    "partOfSpeech": "part",
+    "definition": "in great number",
+    "examples": [
+      {
+        "kiksht": "Iqwíaqwiamax iłlúxt iłákshnba pałmax.",
+        "english": "Rings were on her fingers in great number. [WTI.13.6]"
+      }
+    ],
+    "seeAlso": [
+      "pał"
+    ]
+  },
   "qengi": {
     "root": "qengi",
     "partOfSpeech": "pron",
@@ -69527,6 +69797,11 @@
         "english": "fish stomachs [Dyk]"
       }
     ]
+  },
+  "wa-páł": {
+    "root": "wa-páł",
+    "partOfSpeech": "n",
+    "definition": "bag"
   },
   "wa-łala": {
     "root": "wa-łala",
