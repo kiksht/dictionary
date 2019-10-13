@@ -15702,3 +15702,30 @@ See also: -ÒA-it
 -LA-it-(ix) [vb] sit, live
 Forms: dailaitix “they are sitting in it[a-]” daklaitix “they are sitting on it[a-]” dagmlaitix “they are sitting by it[a-]/her, beside it/her” dagilaitix “they are sitting because of her, for her” daxlaitix “they are sitting on the edge of it[a-]” dask’emlaitix “they are sitting under it[a-]” ¬engemlaitix “they are living by me” digemlaitix “they are sitting by him, waiting for him” ¬aglaitix “they are sitting on it[a-], living on it” ¬xiglaitix “we are sitting on, living on it[i-]” anshidlÅidayaxtix “we will sit in it[i-] (a place, as hole, jail, etc.)” ensha¬ˆlaitix “we were sitting in it (sand, water)” dailaitix “they are sitting in it[a-]” da¬ˆlaitix “they are sitting in it” idailait “they sat on it[a- ]” da¬ˆlaitix “they lived in it[i-] (a place)” nimshidlÅidixix “you folks were in jail”
 Notes: Used only with plural sub- jects. The suffix -ix is used only the present tense, the ga- tense when it means “last year” (that is, when it is used with the -t- directional), and the ni- tense (only when it means “were doing...”). For singular subjects, use - ¬a-it.
+
+
+
+
+
+
+
+
+
+-gi-LA-it [vb] treat (as Indian doc- tor), doctor
+Forms: anagˆlaida “I will doctor her” ayagˆlaida “he will doctor her; let him doctor her” anshagilaida “we will doctor her” anshagidlaida “we will doctor her (distant future)” yugwilalit, yugˆlalit “he is doctoring; he is doctoring them” shdugwilalit “they 2 are doctoring; they 2 are doctoring them” enshagˆdlalit “we were doctoring her” ninshagilait “we doctored her (once) (last season)” ninshagˆlalit “we were doctoring her (last week)” ninshagidlait “we doc- tored her (last week)” ninshagˆdlalit “we were doctoring her (last week)” galigilait “he doctored him” gayagilait “he doctored her” gayugwilait “he doctored them” gadigilait “they doctored him” chiagˆlaimit “he is making him doctor her” igilaitix “he is doctored, has been doctored” [Dyk] amugwilaida “you will treat her” [WTI.1c4] gayugwˆlaitam “he went to treat her” [WTI.1c4] amagilaida “you will treat her” [WTI.1c5] alugwˆlaida “she will doctor” [WTII.4.3] ishtugwilait “they 2 have doctored” [WTII.4.4]
+See also: it-kˆlalit, i-xilalidix
+
+-¬-k-LA-it [vb] smooth hair on
+Forms: ch¬iglalit “he is smoothing his hair down on him” ¬ixlalit “he is smoothing his hair down on himself” ich¬aglait “he smoothed her hair” [Dyk]
+Notes: Refers to a caress-like motion of smoothing down hair with one’s hand. The -¬- object pronoun refers to hair (i¬-nat¬xat).
+
+-xi-LA-it-(ix) [vb] live, dwell, sit
+Forms: emshxilait! “sit!” anshxˆlaida “we will live, sit” anshxˆdlaida “we will live, sit (distant future)” emshxˆlaitix “you are living, sitting” enshxˆlaitix “we are living, sitting” uxˆlaitix “they are living, sitting” ¬xˆlaitix “they are dwelling, living, sitting” enshxˆdlaitix “we were living there” i¬xilait “they sat” nanshxˆlaida “we lived, sat” nanshxˆdlaida “we lived, sat (over there)” ninshxilait “we lived, sat (last season)” ninshxidlait “we lived, sat (last week)” ninshxilaitix “we were living, sitting (last season)” ninshxidlaitix “we were living, sitting (last week)” nimshxilait “you folks lived, sat (last season)” nimshxidlait “you folks lived, sat (last week)” nimshxilaitix “you folks were living, sitting (last season)” nimshxidlaitix “you folks were living, sitting (last week)” ni¬xilait “they lived, sat (last season)” ni¬xidlait “they lived, sat (last week)” ni¬xilaitix “they were living, sitting (last season)” ni¬xidlaitix “they were living, sitting (last week)” ganshxilait “we lived, sat” gamshxilait “you folks lived, sat” [Dyk] galxˆdlalit “we were sitting around” [WTI.11.13] ga¬xilait “they lived, sat” galixilait “they[i-] (of animals, birds, etc.) sat, landed, alighted” ganshxˆdlaitix “we were living” uxwˆlaidixax “they are living here and there (as in a house here and a house there)” chuxwˆlaimit “he is making them sit, has them seated” [Dyk]
+Examples: Diawimaxåx uxwˆlaitix. “They are all well off again (as after an illness or shortage of food).” [Dyk] Notes: Used only with plural sub- jects. (The one apparent exception above, galixilait, has a subject plural in meaning.) The suffix -ix is used only in the present tense, the ga- tense when it means “last year” (that is, when it is used with the -t- direc- tional), and the ni- tense (only when it means “were doing...”). For singu- lar subjects, use -¬a-it.
+
+-xi-LA-l-it [vb] sit down
+Forms: anshxilÅlidma “we will sit down (at times)” mshxˆlalit “you folks are sitting down” ¬xˆlalit “they are sitting down” inshxilalitemchk “we sat down (several times)” ninshxilalit “we sat down (one at a time; at several times; at different places) (last season)” ninshxidlalit “we sat down (one at a time; at sev- eral times; at different places) (last week)” nimshxilalit “we sat down (one at a time; at several times; at different places) (last season)” nimshxidlalit “we sat down (one at a time; at several times; at different places) (last week)”
+Notes: Used only with plural sub- jects. For singular subjects, use -xi- ¬a-l-it.
+
+-i-gi-LA-ix [vb] land (boat, in boat)
+Forms: anaigilayaxdix “I will land it[a-] (boat); I will land her (in a boat)” anxigˆlayaxdix “I will land myself” ga¬xigilaix “they landed themselves” aigˆladix “it[a-] (boat) is landed; she is landed (in a boat)” shtigiladix, shigiladix “they 2 are landed” ga¬igˆlaxidix “they became landed, they suddenly landed” [Dyk]

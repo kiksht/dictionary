@@ -6127,6 +6127,104 @@
     "definition": "mink",
     "forms": []
   },
+  "-gi-LA-it": {
+    "root": "-gi-LA-it",
+    "partOfSpeech": "vb",
+    "definition": "treat (as Indian doc- tor), doctor",
+    "forms": [
+      {
+        "kiksht": "anagílaida",
+        "english": "I will doctor her"
+      },
+      {
+        "kiksht": "ayagílaida",
+        "english": "he will doctor her; let him doctor her"
+      },
+      {
+        "kiksht": "anshagilaida",
+        "english": "we will doctor her"
+      },
+      {
+        "kiksht": "anshagidlaida",
+        "english": "we will doctor her (distant future)"
+      },
+      {
+        "kiksht": "yugwilalit, yugílalit",
+        "english": "he is doctoring; he is doctoring them"
+      },
+      {
+        "kiksht": "shdugwilalit",
+        "english": "they 2 are doctoring; they 2 are doctoring them"
+      },
+      {
+        "kiksht": "enshagídlalit",
+        "english": "we were doctoring her"
+      },
+      {
+        "kiksht": "ninshagilait",
+        "english": "we doctored her (once) (last season)"
+      },
+      {
+        "kiksht": "ninshagílalit",
+        "english": "we were doctoring her (last week)"
+      },
+      {
+        "kiksht": "ninshagidlait",
+        "english": "we doc- tored her (last week)"
+      },
+      {
+        "kiksht": "ninshagídlalit",
+        "english": "we were doctoring her (last week)"
+      },
+      {
+        "kiksht": "galigilait",
+        "english": "he doctored him"
+      },
+      {
+        "kiksht": "gayagilait",
+        "english": "he doctored her"
+      },
+      {
+        "kiksht": "gayugwilait",
+        "english": "he doctored them"
+      },
+      {
+        "kiksht": "gadigilait",
+        "english": "they doctored him"
+      },
+      {
+        "kiksht": "chiagílaimit",
+        "english": "he is making him doctor her"
+      },
+      {
+        "kiksht": "igilaitix",
+        "english": "he is doctored, has been doctored [Dyk]"
+      },
+      {
+        "kiksht": "amugwilaida",
+        "english": "you will treat her [WTI.1c4]"
+      },
+      {
+        "kiksht": "gayugwílaitam",
+        "english": "he went to treat her [WTI.1c4]"
+      },
+      {
+        "kiksht": "amagilaida",
+        "english": "you will treat her [WTI.1c5]"
+      },
+      {
+        "kiksht": "alugwílaida",
+        "english": "she will doctor [WTII.4.3]"
+      },
+      {
+        "kiksht": "ishtugwilait",
+        "english": "they 2 have doctored [WTII.4.4]"
+      }
+    ],
+    "seeAlso": [
+      "it-kílalit, i-xilalidix"
+    ]
+  },
   "-gian": {
     "root": "-gian",
     "partOfSpeech": "n",
@@ -7703,6 +7801,37 @@
     ],
     "seeAlso": [
       "i-chukdenił, i-chukdidix"
+    ]
+  },
+  "-i-gi-LA-ix": {
+    "root": "-i-gi-LA-ix",
+    "partOfSpeech": "vb",
+    "definition": "land (boat, in boat)",
+    "forms": [
+      {
+        "kiksht": "anaigilayaxdix",
+        "english": "I will land it[a-] (boat); I will land her (in a boat)"
+      },
+      {
+        "kiksht": "anxigílayaxdix",
+        "english": "I will land myself"
+      },
+      {
+        "kiksht": "gałxigilaix",
+        "english": "they landed themselves"
+      },
+      {
+        "kiksht": "aigíladix",
+        "english": "it[a-] (boat) is landed; she is landed (in a boat)"
+      },
+      {
+        "kiksht": "shtigiladix, shigiladix",
+        "english": "they 2 are landed"
+      },
+      {
+        "kiksht": "gałigílaxidix",
+        "english": "they became landed, they suddenly landed [Dyk]"
+      }
     ]
   },
   "-i-gl-KIŁX̲": {
@@ -14542,6 +14671,193 @@
       }
     ]
   },
+  "-xi-LA-it-(ix)": {
+    "root": "-xi-LA-it-(ix)",
+    "partOfSpeech": "vb",
+    "definition": "live, dwell, sit",
+    "forms": [
+      {
+        "kiksht": "emshxilait!",
+        "english": "sit!"
+      },
+      {
+        "kiksht": "anshxílaida",
+        "english": "we will live, sit"
+      },
+      {
+        "kiksht": "anshxídlaida",
+        "english": "we will live, sit (distant future)"
+      },
+      {
+        "kiksht": "emshxílaitix",
+        "english": "you are living, sitting"
+      },
+      {
+        "kiksht": "enshxílaitix",
+        "english": "we are living, sitting"
+      },
+      {
+        "kiksht": "uxílaitix",
+        "english": "they are living, sitting"
+      },
+      {
+        "kiksht": "łxílaitix",
+        "english": "they are dwelling, living, sitting"
+      },
+      {
+        "kiksht": "enshxídlaitix",
+        "english": "we were living there"
+      },
+      {
+        "kiksht": "iłxilait",
+        "english": "they sat"
+      },
+      {
+        "kiksht": "nanshxílaida",
+        "english": "we lived, sat"
+      },
+      {
+        "kiksht": "nanshxídlaida",
+        "english": "we lived, sat (over there)"
+      },
+      {
+        "kiksht": "ninshxilait",
+        "english": "we lived, sat (last season)"
+      },
+      {
+        "kiksht": "ninshxidlait",
+        "english": "we lived, sat (last week)"
+      },
+      {
+        "kiksht": "ninshxilaitix",
+        "english": "we were living, sitting (last season)"
+      },
+      {
+        "kiksht": "ninshxidlaitix",
+        "english": "we were living, sitting (last week)"
+      },
+      {
+        "kiksht": "nimshxilait",
+        "english": "you folks lived, sat (last season)"
+      },
+      {
+        "kiksht": "nimshxidlait",
+        "english": "you folks lived, sat (last week)"
+      },
+      {
+        "kiksht": "nimshxilaitix",
+        "english": "you folks were living, sitting (last season)"
+      },
+      {
+        "kiksht": "nimshxidlaitix",
+        "english": "you folks were living, sitting (last week)"
+      },
+      {
+        "kiksht": "niłxilait",
+        "english": "they lived, sat (last season)"
+      },
+      {
+        "kiksht": "niłxidlait",
+        "english": "they lived, sat (last week)"
+      },
+      {
+        "kiksht": "niłxilaitix",
+        "english": "they were living, sitting (last season)"
+      },
+      {
+        "kiksht": "niłxidlaitix",
+        "english": "they were living, sitting (last week)"
+      },
+      {
+        "kiksht": "ganshxilait",
+        "english": "we lived, sat"
+      },
+      {
+        "kiksht": "gamshxilait",
+        "english": "you folks lived, sat [Dyk]"
+      },
+      {
+        "kiksht": "galxídlalit",
+        "english": "we were sitting around [WTI.11.13]"
+      },
+      {
+        "kiksht": "gałxilait",
+        "english": "they lived, sat"
+      },
+      {
+        "kiksht": "galixilait",
+        "english": "they[i-] (of animals, birds, etc.) sat, landed, alighted"
+      },
+      {
+        "kiksht": "ganshxídlaitix",
+        "english": "we were living"
+      },
+      {
+        "kiksht": "uxwílaidixax",
+        "english": "they are living here and there (as in a house here and a house there)"
+      },
+      {
+        "kiksht": "chuxwílaimit",
+        "english": "he is making them sit, has them seated [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Diawimaxåx uxwílaitix.",
+        "english": "They are all well off again (as after an illness or shortage of food). [Dyk]"
+      },
+      {
+        "kiksht": "Notes: Used only with plural sub- jects. (The one apparent exception above, galixilait, has a subject plural in meaning.) The suffix -ix is used only in the present tense, the ga- tense when it means",
+        "english": "last year"
+      },
+      {
+        "kiksht": "(that is, when it is used with the -t- direc- tional), and the ni- tense (only when it means",
+        "english": "were doing...). For singu- lar subjects, use -ła-it."
+      }
+    ]
+  },
+  "-xi-LA-l-it": {
+    "root": "-xi-LA-l-it",
+    "partOfSpeech": "vb",
+    "definition": "sit down",
+    "forms": [
+      {
+        "kiksht": "anshxilálidma",
+        "english": "we will sit down (at times)"
+      },
+      {
+        "kiksht": "mshxílalit",
+        "english": "you folks are sitting down"
+      },
+      {
+        "kiksht": "łxílalit",
+        "english": "they are sitting down"
+      },
+      {
+        "kiksht": "inshxilalitemchk",
+        "english": "we sat down (several times)"
+      },
+      {
+        "kiksht": "ninshxilalit",
+        "english": "we sat down (one at a time; at several times; at different places) (last season)"
+      },
+      {
+        "kiksht": "ninshxidlalit",
+        "english": "we sat down (one at a time; at sev- eral times; at different places) (last week)"
+      },
+      {
+        "kiksht": "nimshxilalit",
+        "english": "we sat down (one at a time; at several times; at different places) (last season)"
+      },
+      {
+        "kiksht": "nimshxidlalit",
+        "english": "we sat down (one at a time; at several times; at different places) (last week)"
+      }
+    ],
+    "notes": [
+      "Used only with plural sub- jects. For singular subjects, use -xi- ła-l-it."
+    ]
+  },
   "-xi-t-I": {
     "root": "-xi-t-I",
     "partOfSpeech": "vb",
@@ -15092,6 +15408,28 @@
         "kiksht": "chłakbwalal",
         "english": "he is putting feathers on it[a-] (arrow) [Dyk] See also: ił-kabwalal"
       }
+    ]
+  },
+  "-ł-k-LA-it": {
+    "root": "-ł-k-LA-it",
+    "partOfSpeech": "vb",
+    "definition": "smooth hair on",
+    "forms": [
+      {
+        "kiksht": "chłiglalit",
+        "english": "he is smoothing his hair down on him"
+      },
+      {
+        "kiksht": "łixlalit",
+        "english": "he is smoothing his hair down on himself"
+      },
+      {
+        "kiksht": "ichłaglait",
+        "english": "he smoothed her hair [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a caress-like motion of smoothing down hair with one's hand. The -ł- object pronoun refers to hair (ił-natłxat)."
     ]
   },
   "-ł-k-xa-DEM-kw": {
