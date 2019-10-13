@@ -19403,3 +19403,47 @@ Notes: Means to line something with things placed up and down (for ex- ample, bo
 -NXA-kw [vb] set up around, line with
 Forms: chianxankw¬, chiainxankw¬ “he is lining it[a-] with it[i-]” ichainxagwaix “he set it[a-] around in it[a-], he lined it[i-] with it[a-]” chainxakwdix “he has it[i-] lined with it[a-]” nichaidenxaukwt “he had it[i-] lined with it[a-]” nigaidenxaukwt “she had it[i-] lined with it[a-], she had it[a-] lined with it[a-]” nichangˆnxaugwa “he lined it[a-]” nichanginxaukwt “he had it[a-] lined” ainxakwt “it[i-] is lined with it[a-]” shtinxakwt “it[i-] is lined with them 2” inginxaukwt “it[i-] is lined (as with a blanket, hide, etc.)” aidenxÅukwt “it[i-] was lined with it[a-]” yaidenxaukwt “it[a-] was lined with it[i-]” niyanxaukwt “it[a-] was lined with it[i-]” nigaitginxaukwt “it[a-] was lined” nigaidenxÅukwt “it[i-] was lined with it[a-]” ainxakux “it[i-] has been lined with it[a-]” igawiginxakwit, igawiginxachxit “they became lined” ixenginxankw¬ “he is lining himself; he is lining something with something” [Dyk]
 Notes: Means to line something by putting something around, as op- posed to -nxa-chu, which means to line by putting things up and down (as boards).
+
+
+
+
+
+
+
+
+-k-NXDA [vb] wind, wrap, cover over, rub over
+Forms: chaigenxdÅt “he has it[i-] wound with it[a-], he has it[a-] wound around it[i-]” chaigenxdenˆ¬ “he is winding it[i-] (again and again) with it[a-]” chaigenxdalal, chaigenxdanan “he is winding him with it[a-],; he is rubbing him with it[a-] all over” [-lal expresses the idea of “all over” more clearly than does - nan] chaigadenxdat “he had it[i-] wound with it[a-]” chikginxdat “he has it[i-] wound” ixk’inxdanan “he is winding on himself” aixenxdanan “he is winding it[a-] on himself” ixatk’inxdanan “he was winding” aigenxdat “he is wound with it[a-]” ikginxdat “he is wound” [Dyk] a-nxwushtxwusht [n] pheasant Forms: idnxwushtxwusht “pheas- ants” [Dyk]
+
+i-nxanash [n] fish trap
+Notes: Made of sticks placed across a stream.
+
+i¬-nxiÅmksh [n] puberty dance
+Notes: Gladys Thompson, Madeline McInturff [12/30/97]: “like a com- ing-out thing...when she first be- comes a young lady, then she’s avail- able to be married”
+
+i-nxˆamxul [n] war-whoop
+Forms: ichanxiamxulmax “her loud shouts” inxˆamxulumax “war whoops” [WTIV.2.5]
+Examples: Inxiamxulmax chiuxt. “He is shouting loud.” A©a kwapt qidau ganshk¬uwax inxˆamxulumax. “Now then thus we followed them—with war-whoops.” [WTIV.2.5]
+
+i-nxˆst [n] snipe
+Notes: Refers to the genuine snipe that people hunt, in contrast to igÅnasisi.
+See also: i-gÅnansisi
+
+-NYA [vb] wrap
+
+-NYA-kw [vb] roll up inside, wrap up in, twist up inside
+Forms: chianyankw¬ “he is twisting it[i-] inside of it[a-]” aik’ ̃yaukwdix “she is lying over it[i-]” [Dyk]
+Notes: Another form of -inyakw, with no difference in meaning.
+See also: ish-kÅnyagwamat
+
+-i-NYA-kw [vb] roll up inside, wrap up in, twist up inside
+Forms: chiainyankw¬ “he is twisting it[i-] inside of it[a-]” [Dyk]
+Examples: Another form of -nya-kw, with no difference in meaning.
+
+-n-xi-NYA-kw [vb] wrap up in, roll up in
+Forms: chdanxˆnyankw¬ “he is wrap- ping them in it[a-]” ainxinyakwt “it[a-] is rolled up in it[i-]” aitxinyakwt, aitxidenyakwt “it[a-] was rolled up in it[i-]” [Dyk]
+
+-x-NYA-kw [vb] wrap up around, roll up around
+Forms: chiaxnyankw¬ “he is wrap- ping it[i-] up around it[a-]” chiaxadenyankw¬ “he was wrapping it[i-] up around it[a-]” chixk’inyankw¬ “he is wrapping it[i-] (for instance, tobacco), wrapping something around it[i-]” aixnyÅkwt “it[a-] is wrapped around him” aixadenyakwt “it[a-] was wrapped around him” [Dyk]
+
+-x-qi-NYA-kw [vb] roll, wrap
+Forms: achaxqinyagwa “he will wrap it” ichaxqinyagwax “he wrapped it” [MMc 12/22/97] axqinyakwt “it[a-]’s wrapped around and around” ixqinyakwt “it[i-] is wrapped” [Dyk]

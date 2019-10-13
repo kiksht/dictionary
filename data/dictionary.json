@@ -7029,6 +7029,32 @@
       "Means to line something by putting something around, as op- posed to -nxa-chu, which means to line by putting things up and down (as boards)."
     ]
   },
+  "-NYA": {
+    "root": "-NYA",
+    "partOfSpeech": "vb",
+    "definition": "wrap"
+  },
+  "-NYA-kw": {
+    "root": "-NYA-kw",
+    "partOfSpeech": "vb",
+    "definition": "roll up inside, wrap up in, twist up inside",
+    "forms": [
+      {
+        "kiksht": "chianyankwł",
+        "english": "he is twisting it[i-] inside of it[a-]"
+      },
+      {
+        "kiksht": "aik' ̃yaukwdix",
+        "english": "she is lying over it[i-] [Dyk]"
+      }
+    ],
+    "notes": [
+      "Another form of -inyakw, with no difference in meaning."
+    ],
+    "seeAlso": [
+      "ish-kányagwamat"
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -10465,6 +10491,18 @@
       }
     ]
   },
+  "-i-NYA-kw": {
+    "root": "-i-NYA-kw",
+    "partOfSpeech": "vb",
+    "definition": "roll up inside, wrap up in, twist up inside",
+    "forms": [
+      {
+        "kiksht": "chiainyankwł",
+        "english": "he is twisting it[i-] inside of it[a-] [Dyk]"
+      }
+    ],
+    "examples": []
+  },
   "-i-gi-LA-ix": {
     "root": "-i-gi-LA-ix",
     "partOfSpeech": "vb",
@@ -12173,6 +12211,61 @@
     ],
     "seeAlso": [
       "i-kamitłqdit"
+    ]
+  },
+  "-k-NXDA": {
+    "root": "-k-NXDA",
+    "partOfSpeech": "vb",
+    "definition": "wind, wrap, cover over, rub over",
+    "forms": [
+      {
+        "kiksht": "chaigenxdát",
+        "english": "he has it[i-] wound with it[a-], he has it[a-] wound around it[i-]"
+      },
+      {
+        "kiksht": "chaigenxdeníł",
+        "english": "he is winding it[i-] (again and again) with it[a-]"
+      },
+      {
+        "kiksht": "chaigenxdalal, chaigenxdanan",
+        "english": "he is winding him with it[a-],; he is rubbing him with it[a-] all over"
+      },
+      {
+        "kiksht": "[-lal expresses the idea of",
+        "english": "all over more clearly than does - nan]"
+      },
+      {
+        "kiksht": "chaigadenxdat",
+        "english": "he had it[i-] wound with it[a-]"
+      },
+      {
+        "kiksht": "chikginxdat",
+        "english": "he has it[i-] wound"
+      },
+      {
+        "kiksht": "ixk'inxdanan",
+        "english": "he is winding on himself"
+      },
+      {
+        "kiksht": "aixenxdanan",
+        "english": "he is winding it[a-] on himself"
+      },
+      {
+        "kiksht": "ixatk'inxdanan",
+        "english": "he was winding"
+      },
+      {
+        "kiksht": "aigenxdat",
+        "english": "he is wound with it[a-]"
+      },
+      {
+        "kiksht": "ikginxdat",
+        "english": "he is wound [Dyk] a-nxwushtxwusht [n]"
+      },
+      {
+        "kiksht": "pheasant Forms: idnxwushtxwusht",
+        "english": "pheas- ants [Dyk]"
+      }
     ]
   },
   "-k-gi-LA-kw": {
@@ -15046,6 +15139,25 @@
     ],
     "seeAlso": [
       "-K'NAM, -n-K'NAM"
+    ]
+  },
+  "-n-xi-NYA-kw": {
+    "root": "-n-xi-NYA-kw",
+    "partOfSpeech": "vb",
+    "definition": "wrap up in, roll up in",
+    "forms": [
+      {
+        "kiksht": "chdanxínyankwł",
+        "english": "he is wrap- ping them in it[a-]"
+      },
+      {
+        "kiksht": "ainxinyakwt",
+        "english": "it[a-] is rolled up in it[i-]"
+      },
+      {
+        "kiksht": "aitxinyakwt, aitxidenyakwt",
+        "english": "it[a-] was rolled up in it[i-] [Dyk]"
+      }
     ]
   },
   "-nag̲un": {
@@ -19122,6 +19234,33 @@
       "gixáninagwamt, i- kanagwamat"
     ]
   },
+  "-x-NYA-kw": {
+    "root": "-x-NYA-kw",
+    "partOfSpeech": "vb",
+    "definition": "wrap up around, roll up around",
+    "forms": [
+      {
+        "kiksht": "chiaxnyankwł",
+        "english": "he is wrap- ping it[i-] up around it[a-]"
+      },
+      {
+        "kiksht": "chiaxadenyankwł",
+        "english": "he was wrapping it[i-] up around it[a-]"
+      },
+      {
+        "kiksht": "chixk'inyankwł",
+        "english": "he is wrapping it[i-] (for instance, tobacco), wrapping something around it[i-]"
+      },
+      {
+        "kiksht": "aixnyákwt",
+        "english": "it[a-] is wrapped around him"
+      },
+      {
+        "kiksht": "aixadenyakwt",
+        "english": "it[a-] was wrapped around him [Dyk]"
+      }
+    ]
+  },
   "-x-YA-mit": {
     "root": "-x-YA-mit",
     "partOfSpeech": "vb",
@@ -19613,6 +19752,29 @@
       {
         "kiksht": "iguxwidlaxit",
         "english": "they took up for one another (over there) [Dyk]"
+      }
+    ]
+  },
+  "-x-qi-NYA-kw": {
+    "root": "-x-qi-NYA-kw",
+    "partOfSpeech": "vb",
+    "definition": "roll, wrap",
+    "forms": [
+      {
+        "kiksht": "achaxqinyagwa",
+        "english": "he will wrap it"
+      },
+      {
+        "kiksht": "ichaxqinyagwax",
+        "english": "he wrapped it [MMc 12/22/97]"
+      },
+      {
+        "kiksht": "axqinyakwt",
+        "english": "it[a-]'s wrapped around and around"
+      },
+      {
+        "kiksht": "ixqinyakwt",
+        "english": "it[i-] is wrapped [Dyk]"
       }
     ]
   },
@@ -57391,6 +57553,50 @@
     "partOfSpeech": "n",
     "definition": "carbuncle"
   },
+  "i-nxanash": {
+    "root": "i-nxanash",
+    "partOfSpeech": "n",
+    "definition": "fish trap",
+    "notes": [
+      "Made of sticks placed across a stream."
+    ]
+  },
+  "i-nxíamxul": {
+    "root": "i-nxíamxul",
+    "partOfSpeech": "n",
+    "definition": "war-whoop",
+    "forms": [
+      {
+        "kiksht": "ichanxiamxulmax",
+        "english": "her loud shouts"
+      },
+      {
+        "kiksht": "inxíamxulumax",
+        "english": "war whoops [WTIV.2.5]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Inxiamxulmax chiuxt.",
+        "english": "He is shouting loud."
+      },
+      {
+        "kiksht": "Ag̲a kwapt qidau ganshkłuwax inxíamxulumax.",
+        "english": "Now then thus we followed them—with war-whoops. [WTIV.2.5]"
+      }
+    ]
+  },
+  "i-nxíst": {
+    "root": "i-nxíst",
+    "partOfSpeech": "n",
+    "definition": "snipe",
+    "notes": [
+      "Refers to the genuine snipe that people hunt, in contrast to igánasisi."
+    ],
+    "seeAlso": [
+      "i-gánansisi"
+    ]
+  },
   "i-shmiwa": {
     "root": "i-shmiwa",
     "partOfSpeech": "n",
@@ -63799,6 +64005,14 @@
     "definition": "hair on head (human only)",
     "seeAlso": [
       "i-natłxat, wa-natłxat"
+    ]
+  },
+  "ił-nxiámksh": {
+    "root": "ił-nxiámksh",
+    "partOfSpeech": "n",
+    "definition": "puberty dance",
+    "notes": [
+      "Gladys Thompson, Madeline McInturff [12/30/97]: \"like a com- ing-out thing...when she first be- comes a young lady, then she's avail- able to be married\""
     ]
   },
   "ił-łpuksh": {
