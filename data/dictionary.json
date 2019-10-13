@@ -10538,6 +10538,25 @@
       "i-qik'ílalakwł"
     ]
   },
+  "-ladas": {
+    "root": "-ladas",
+    "partOfSpeech": "n",
+    "definition": "dish, plate",
+    "forms": [
+      {
+        "kiksht": "aladas",
+        "english": "(smaller) dish"
+      },
+      {
+        "kiksht": "iladas",
+        "english": "(larger) dish"
+      },
+      {
+        "kiksht": "iłladas",
+        "english": "dishes [Dyk]"
+      }
+    ]
+  },
   "-n-GA-kw": {
     "root": "-n-GA-kw",
     "partOfSpeech": "vb",
@@ -18132,6 +18151,61 @@
     "root": "a-labasgwi",
     "partOfSpeech": "n",
     "definition": "cracker"
+  },
+  "a-labat": {
+    "root": "a-labat",
+    "partOfSpeech": "n",
+    "definition": "support post in summer house, post with notch to hold a house beam",
+    "forms": [
+      {
+        "kiksht": "iłlabat",
+        "english": "support posts"
+      }
+    ],
+    "notes": [
+      "See drawing below. See also drawing under entry i-q'ipaqłq."
+    ],
+    "seeAlso": [
+      "i-q'iqaqłq"
+    ]
+  },
+  "a-lachemni": {
+    "root": "a-lachemni",
+    "partOfSpeech": "n",
+    "definition": "chimney",
+    "notes": [
+      "Though this word sounds like English \"chimney,\" the -la- shows that it was borrowed from the French word la cheminé, almost certainly via Chinook Jargon. The French -ch- usually represents the \"sh\" sound, so the -ch- in this word may reflect English influence, or else a dialectical French pronunciation. Compare a- lashmni."
+    ],
+    "seeAlso": [
+      "a-lashmni"
+    ]
+  },
+  "a-laish": {
+    "root": "a-laish",
+    "partOfSpeech": "n",
+    "definition": "rice",
+    "notes": [
+      "Borrowed from English. Alice Florendo used the prefix a- with this word, Phillip Kahclamat used the prefix it-, Gladys Thompson [6/4/98] used prefix ił-: iłláish."
+    ],
+    "seeAlso": [
+      "it-laish, ił-laish"
+    ]
+  },
+  "a-lágamin": {
+    "root": "a-lágamin",
+    "partOfSpeech": "n",
+    "definition": "lakamiin, stew with flour dumplings and salmon and/or meat",
+    "notes": [
+      "Probably borrowed from Sahaptin. From Chinook Jargon, ulti- mately from French la camine \"oven.\""
+    ]
+  },
+  "a-lái": {
+    "root": "a-lái",
+    "partOfSpeech": "n",
+    "definition": "rye",
+    "notes": [
+      "Borrowed from English."
+    ]
   },
   "a-mulal": {
     "root": "a-mulal",
@@ -48524,6 +48598,53 @@
       "Borrowed from English."
     ]
   },
+  "i-labiush": {
+    "root": "i-labiush",
+    "partOfSpeech": "n",
+    "definition": "hoe",
+    "seeAlso": [
+      "i-lablish"
+    ]
+  },
+  "i-lablagwilal": {
+    "root": "i-lablagwilal",
+    "partOfSpeech": "n",
+    "definition": "lumber carrier",
+    "notes": [
+      "This word was made up by Phillip Kahclamat from ilablash \"board, lumber\" and -gwi \"carry.\""
+    ]
+  },
+  "i-lablish": {
+    "root": "i-lablish",
+    "partOfSpeech": "n",
+    "definition": "hoe",
+    "seeAlso": [
+      "i-labiush"
+    ]
+  },
+  "i-lablit": {
+    "root": "i-lablit",
+    "partOfSpeech": "n",
+    "definition": "bridle",
+    "notes": [
+      "Phillip Kahclamat [8/11/54] said this word was from Chinook Jargon and was no longer used. He pronounced it -lablít and did not give a prefix. Hiram Smith 7/2/56 said the word was \"Lower Wasco\" (prob- ably Clackamas?). The word is from French (almost certainly via Chinook Jargon); the original French word is la bride; in the transition to Jargon and Wasco, the r became -l-, as the nearest sound available in Wasco."
+    ]
+  },
+  "i-ladám": {
+    "root": "i-ladám",
+    "partOfSpeech": "n",
+    "definition": "table",
+    "forms": [
+      {
+        "kiksht": "iłladam",
+        "english": "tables [GT, MMc]"
+      }
+    ],
+    "notes": [
+      "Related to Warm Springs latáam. Both probably borrowed from French through Chinook Jar- gon."
+    ],
+    "pronunciation": "Pronunciation varies between iladám and iládam."
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -48848,6 +48969,14 @@
     "definition": "stirrups",
     "seeAlso": [
       "wa-ixtkísht, id-íxtksh"
+    ]
+  },
+  "id-lainz": {
+    "root": "id-lainz",
+    "partOfSpeech": "n",
+    "definition": "lines (in harness)",
+    "notes": [
+      "Borrowed from English."
     ]
   },
   "id-náchk": {
@@ -54079,6 +54208,14 @@
       "-ł-KTŁQ"
     ]
   },
+  "ił-laish": {
+    "root": "ił-laish",
+    "partOfSpeech": "n",
+    "definition": "rice",
+    "notes": [
+      "Borrowed from English. Alice Florendo used the prefix a- with this word, Phillip Kahclamat used the prefix it-, Gladys Thompson [6/4/98] used prefix ił-: iłláish."
+    ]
+  },
   "ił-lá": {
     "root": "ił-lá",
     "partOfSpeech": "n",
@@ -56081,6 +56218,32 @@
     ],
     "seeAlso": [
       "ailáx, laxlax, dala'ax, i- k'ila'ax"
+    ]
+  },
+  "labláp": {
+    "root": "labláp",
+    "partOfSpeech": "part",
+    "definition": "boil, bubble",
+    "examples": [
+      {
+        "kiksht": "Labláp ikiax.",
+        "english": "It[i-] is boil- ing."
+      },
+      {
+        "kiksht": "Lablap chiuxt ig̲iwaq.",
+        "english": "He is boiling the meat. [Dyk]"
+      }
+    ]
+  },
+  "lag̲ebaya": {
+    "root": "lag̲ebaya",
+    "partOfSpeech": "interj",
+    "definition": "darn!",
+    "notes": [
+      "A cuss word used to accom- pany the gesture called k'itłxau. Re- lated in form to qalaqbaya."
+    ],
+    "seeAlso": [
+      "qalaqbaya, k'itłxau"
     ]
   },
   "qengi": {
