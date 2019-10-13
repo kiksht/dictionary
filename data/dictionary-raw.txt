@@ -18169,3 +18169,69 @@ See also: i-yamqtimix, -MQT
 i-mqtxat [n] unconsciousness, being unconscious
 Examples: Iyamqtxat yat¬qt. “He was a long time unconscious.” [Dyk]
 See also: -MQT
+
+
+
+
+
+
+
+
+-MQU [vb] spit, vomit
+See also: -M ̋U, -M ̋W
+
+-MQU-it [vb] spit, spit out
+Forms: chium©wilit “he is spitting it[i-] out” [Dyk]
+Examples: A©a kwapt gach ̈mquit ak¬mˆn isk’ulya, gachu¬ada. “Now then Coyote spat out the moon, he threw it away.” [WTI.9.9]
+
+-M ̋W-it [vb] spit, spit out
+Examples: Ch¬um©wilit i¬qawulqt. “He is spitting out blood.” [WTI.1c.7]
+Notes: An alternate form of -mqu-it
+
+-¬-MQU-it [vb] spit
+Forms: ch¬um©wilit “he is spitting” ich¬umqwit “he spat” in¬igmqwit “I spat on him” in¬ask’emqwit “I spat under” in¬ask’mademqwit “I spat under (over there)” ¬um©witix “it has been spat” [Dyk]
+
+-MQU-qw [vb] throw up, vomit, puke
+Forms: ichiumquq “he vomited it[i-]” ichidemquq “he vomited it[i-] (over there)” igikgimquq “she vomited on him” igem©ulq¬ “he is vomiting” igigemquq “he vomited” nigigemquq “he vomited (last season)” nigigemqulq¬ “he was vomiting (last season)” nigigem©ulq¬chk “he vom- ited (several times, last season)” nigixdemquq “he vomited (last week)” nigixdem©ulq¬ “he was voimiting (last week)” nigixdem©ulq¬chk “he vomited (sev- eral times, last week)” galigem©ulq¬ “he vomits (every day)” [Dyk]
+
+-M ̋U-qw-mit [vb] cause to vomit
+Forms: gachium©u©mit “he caused him to vomit” [WTI.18.9]
+See also: ax
+
+i-mst’iwiq [n] serviceberry bush
+See also: i-mst’ˆwiqlit, id-aimsht’iwix, a-mshtiu
+
+i-mst’ˆwiqlit [n] grove of service- berry bushes
+See also: i-mst’iwiq
+
+a-mshtiu [n] service berry
+Forms: idemshtiu “service berries” -MT, -MDA grow
+
+-MT [vb] grow, grow up
+Forms: yumt “he is growing” ayumda “he will grow” tgemt “they are growing” iyumt “he grew” [Wasco Conversation 15] gay ̈mt “he grew up” [WTI.12.2]
+Examples: Tai it’ukdi nduqmit kÅnawi dan yumt. “I enjoy seeing everything grow.” Kw’ankw’an ukakiax idak’ˆwulal idat’ˆ¬x dumt ibiaxi kwadÅu waqwÅ¬. “The root diggers are happy that there’s a lot of bitterroot and biscuitroot growing.” [Wasco Conversation 15]
+See also: -MDA-mit, i- -dumt
+
+-MDA-mit [vb] raise, bring up
+Forms: achumdÅmida “he will raise her” numdamit “I’m raising her” [PK]
+Examples: Anshup’Ålaulalma bama pu idlxam aqugixudinma iduihamax bama pu agtiumdÅmida. “We will talk about helping people start a livestock business (lit. “...raise cattle.”).” [Wasco Conversation 11]
+Notes: Derived from -mt “raise, make grow.” The suffix -mit is causative: that is, it indicates the cause or mo- tive power of some action. So, since - mt means “grow,” -mdamit means “cause to grow”—in other words, “raise” or “bring up.”
+See also: -MT
+
+mtgiuqmit [vb] you 2 see him
+See also: -QMIT
+
+mtk¬alux [vb] you two do it on her!
+See also: - ̨
+
+mtk¬gelga [vb] get it (you two)!
+See also: -gl-GA
+
+mttxuit [vb] stand up (you two)!
+See also: -TX(WI)-it
+
+wa-mt¬’uxi [n] ear
+Forms: idemt¬’uxi “(two) ears” idemt¬’ ̈ximax “ears”
+See also: i-t¬’axwi
+
+i¬-mu [n] clay

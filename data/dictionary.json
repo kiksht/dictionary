@@ -5599,6 +5599,34 @@
     "partOfSpeech": "n",
     "definition": "dipnet"
   },
+  "-M G̲U-qw-mit": {
+    "root": "-M G̲U-qw-mit",
+    "partOfSpeech": "vb",
+    "definition": "cause to vomit",
+    "forms": [
+      {
+        "kiksht": "gachiumg̲ug̲mit",
+        "english": "he caused him to vomit [WTI.18.9]"
+      }
+    ],
+    "seeAlso": [
+      "ax"
+    ]
+  },
+  "-M G̲W-it": {
+    "root": "-M G̲W-it",
+    "partOfSpeech": "vb",
+    "definition": "spit, spit out",
+    "examples": [
+      {
+        "kiksht": "Chłumg̲wilit iłqawulqt.",
+        "english": "He is spitting out blood. [WTI.1c.7]"
+      }
+    ],
+    "notes": [
+      "An alternate form of -mqu-it"
+    ]
+  },
   "-MA-kw": {
     "root": "-MA-kw",
     "partOfSpeech": "vb",
@@ -5880,6 +5908,33 @@
     ],
     "seeAlso": [
       "-MQT"
+    ]
+  },
+  "-MDA-mit": {
+    "root": "-MDA-mit",
+    "partOfSpeech": "vb",
+    "definition": "raise, bring up",
+    "forms": [
+      {
+        "kiksht": "achumdámida",
+        "english": "he will raise her"
+      },
+      {
+        "kiksht": "numdamit",
+        "english": "I'm raising her [PK]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Anshup'álaulalma bama pu idlxam aqugixudinma iduihamax bama pu agtiumdámida.",
+        "english": "We will talk about helping people start a livestock business (lit. \"...raise cattle.).\" [Wasco Conversation 11]"
+      }
+    ],
+    "notes": [
+      "Derived from -mt \"raise, make grow.\" The suffix -mit is causative: that is, it indicates the cause or mo- tive power of some action. So, since - mt means \"grow,\" -mdamit means \"cause to grow\"—in other words, \"raise\" or \"bring up.\""
+    ],
+    "seeAlso": [
+      "-MT"
     ]
   },
   "-MICHK'I": {
@@ -6352,6 +6407,126 @@
     ],
     "seeAlso": [
       "wi-mqt, -MAQT"
+    ]
+  },
+  "-MQU": {
+    "root": "-MQU",
+    "partOfSpeech": "vb",
+    "definition": "spit, vomit",
+    "seeAlso": [
+      "-M G̲U, -M G̲W"
+    ]
+  },
+  "-MQU-it": {
+    "root": "-MQU-it",
+    "partOfSpeech": "vb",
+    "definition": "spit, spit out",
+    "forms": [
+      {
+        "kiksht": "chiumg̲wilit",
+        "english": "he is spitting it[i-] out [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ag̲a kwapt gachúmquit akłmín isk'ulya, gachułada.",
+        "english": "Now then Coyote spat out the moon, he threw it away. [WTI.9.9]"
+      }
+    ]
+  },
+  "-MQU-qw": {
+    "root": "-MQU-qw",
+    "partOfSpeech": "vb",
+    "definition": "throw up, vomit, puke",
+    "forms": [
+      {
+        "kiksht": "ichiumquq",
+        "english": "he vomited it[i-]"
+      },
+      {
+        "kiksht": "ichidemquq",
+        "english": "he vomited it[i-] (over there)"
+      },
+      {
+        "kiksht": "igikgimquq",
+        "english": "she vomited on him"
+      },
+      {
+        "kiksht": "igemg̲ulqł",
+        "english": "he is vomiting"
+      },
+      {
+        "kiksht": "igigemquq",
+        "english": "he vomited"
+      },
+      {
+        "kiksht": "nigigemquq",
+        "english": "he vomited (last season)"
+      },
+      {
+        "kiksht": "nigigemqulqł",
+        "english": "he was vomiting (last season)"
+      },
+      {
+        "kiksht": "nigigemg̲ulqłchk",
+        "english": "he vom- ited (several times, last season)"
+      },
+      {
+        "kiksht": "nigixdemquq",
+        "english": "he vomited (last week)"
+      },
+      {
+        "kiksht": "nigixdemg̲ulqł",
+        "english": "he was voimiting (last week)"
+      },
+      {
+        "kiksht": "nigixdemg̲ulqłchk",
+        "english": "he vomited (sev- eral times, last week)"
+      },
+      {
+        "kiksht": "galigemg̲ulqł",
+        "english": "he vomits (every day) [Dyk]"
+      }
+    ]
+  },
+  "-MT": {
+    "root": "-MT",
+    "partOfSpeech": "vb",
+    "definition": "grow, grow up",
+    "forms": [
+      {
+        "kiksht": "yumt",
+        "english": "he is growing"
+      },
+      {
+        "kiksht": "ayumda",
+        "english": "he will grow"
+      },
+      {
+        "kiksht": "tgemt",
+        "english": "they are growing"
+      },
+      {
+        "kiksht": "iyumt",
+        "english": "he grew [Wasco Conversation 15]"
+      },
+      {
+        "kiksht": "gayúmt",
+        "english": "he grew up [WTI.12.2]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Tai it'ukdi nduqmit kánawi dan yumt.",
+        "english": "I enjoy seeing everything grow."
+      },
+      {
+        "kiksht": "Kw'ankw'an ukakiax idak'íwulal idat'íłx dumt ibiaxi kwadáu waqwáł.",
+        "english": "The root diggers are happy that there's a lot of bitterroot and biscuitroot growing. [Wasco Conversation 15]"
+      }
+    ],
+    "seeAlso": [
+      "-MDA-mit, i- -dumt"
     ]
   },
   "-a-gi-LXUŁ": {
@@ -21321,6 +21496,37 @@
       "-x-TŁX̲UM, -ŁX̲LM, -xl-MUX̲"
     ]
   },
+  "-ł-MQU-it": {
+    "root": "-ł-MQU-it",
+    "partOfSpeech": "vb",
+    "definition": "spit",
+    "forms": [
+      {
+        "kiksht": "chłumg̲wilit",
+        "english": "he is spitting"
+      },
+      {
+        "kiksht": "ichłumqwit",
+        "english": "he spat"
+      },
+      {
+        "kiksht": "inłigmqwit",
+        "english": "I spat on him"
+      },
+      {
+        "kiksht": "inłask'emqwit",
+        "english": "I spat under"
+      },
+      {
+        "kiksht": "inłask'mademqwit",
+        "english": "I spat under (over there)"
+      },
+      {
+        "kiksht": "łumg̲witix",
+        "english": "it has been spat [Dyk]"
+      }
+    ]
+  },
   "-ł-gl-KWSHTX̲": {
     "root": "-ł-gl-KWSHTX̲",
     "partOfSpeech": "vb",
@@ -23963,6 +24169,17 @@
       {
         "kiksht": "idmelqwtanksh",
         "english": "cheeks [Dyk]"
+      }
+    ]
+  },
+  "a-mshtiu": {
+    "root": "a-mshtiu",
+    "partOfSpeech": "n",
+    "definition": "service berry",
+    "forms": [
+      {
+        "kiksht": "idemshtiu",
+        "english": "service berries -MT, -MDA grow"
       }
     ]
   },
@@ -55362,6 +55579,22 @@
       "-MQT"
     ]
   },
+  "i-mst'iwiq": {
+    "root": "i-mst'iwiq",
+    "partOfSpeech": "n",
+    "definition": "serviceberry bush",
+    "seeAlso": [
+      "i-mst'íwiqlit, id-aimsht'iwix, a-mshtiu"
+    ]
+  },
+  "i-mst'íwiqlit": {
+    "root": "i-mst'íwiqlit",
+    "partOfSpeech": "n",
+    "definition": "grove of service- berry bushes",
+    "seeAlso": [
+      "i-mst'iwiq"
+    ]
+  },
   "i-mísht": {
     "root": "i-mísht",
     "partOfSpeech": "n",
@@ -61602,6 +61835,11 @@
     "partOfSpeech": "n",
     "definition": "eyelashes"
   },
+  "ił-mu": {
+    "root": "ił-mu",
+    "partOfSpeech": "n",
+    "definition": "clay"
+  },
   "ił-mín": {
     "root": "ił-mín",
     "partOfSpeech": "n",
@@ -64413,6 +64651,38 @@
       "k'imlamax"
     ]
   },
+  "mtgiuqmit": {
+    "root": "mtgiuqmit",
+    "partOfSpeech": "vb",
+    "definition": "you 2 see him",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "mtkłalux": {
+    "root": "mtkłalux",
+    "partOfSpeech": "vb",
+    "definition": "you two do it on her!",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "mtkłgelga": {
+    "root": "mtkłgelga",
+    "partOfSpeech": "vb",
+    "definition": "get it (you two)!",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "mttxuit": {
+    "root": "mttxuit",
+    "partOfSpeech": "vb",
+    "definition": "stand up (you two)!",
+    "seeAlso": [
+      "-TX(WI)-it"
+    ]
+  },
   "qengi": {
     "root": "qengi",
     "partOfSpeech": "pron",
@@ -65055,6 +65325,24 @@
     ],
     "seeAlso": [
       "ił-iamalks"
+    ]
+  },
+  "wa-mtł'uxi": {
+    "root": "wa-mtł'uxi",
+    "partOfSpeech": "n",
+    "definition": "ear",
+    "forms": [
+      {
+        "kiksht": "idemtł'uxi",
+        "english": "(two) ears"
+      },
+      {
+        "kiksht": "idemtł'úximax",
+        "english": "ears"
+      }
+    ],
+    "seeAlso": [
+      "i-tł'axwi"
     ]
   },
   "wa-łala": {
