@@ -4207,6 +4207,86 @@
       "i-gikw'alksht, it- gikw'alkshtxat"
     ]
   },
+  "-KW'A-l-kw-ł": {
+    "root": "-KW'A-l-kw-ł",
+    "partOfSpeech": "vb",
+    "definition": "hang [intransitive]",
+    "forms": [
+      {
+        "kiksht": "ukw'alkwł",
+        "english": "it[a-] is hanging"
+      },
+      {
+        "kiksht": "yalkw'alkwł",
+        "english": "it[i-] is hanging in it[a-]"
+      },
+      {
+        "kiksht": "aixkw'alkwł",
+        "english": "it[a-] is hanging from it[i-]"
+      },
+      {
+        "kiksht": "iaxkw'ayulkwł",
+        "english": "they (for in- stance, apples, ilibum) are each hanging from it[a-]"
+      },
+      {
+        "kiksht": "igaixkw'alkwłixit",
+        "english": "it[a-] became hung from it[i-] (as when something fell and became hung) [Dyk]"
+      }
+    ]
+  },
+  "-KW'A-l-kw-ł-amit": {
+    "root": "-KW'A-l-kw-ł-amit",
+    "partOfSpeech": "vb",
+    "definition": "hang [transi- tive]",
+    "forms": [
+      {
+        "kiksht": "chiukw'alkwłamit",
+        "english": "he has it[i- ] hanging"
+      },
+      {
+        "kiksht": "indukw'alkwłamit",
+        "english": "I hung them [Dyk]"
+      }
+    ]
+  },
+  "-KW'ALALA-kw": {
+    "root": "-KW'ALALA-kw",
+    "partOfSpeech": "vb",
+    "definition": "be lost, be ab- sent, be forgotten, make lost, cause to be lost",
+    "forms": [
+      {
+        "kiksht": "alitkw'álalalkwida",
+        "english": "he will be lost, absent"
+      },
+      {
+        "kiksht": "yukw'alalakwt",
+        "english": "he is lost, absent, forgotten"
+      },
+      {
+        "kiksht": "yukw'álalakux",
+        "english": "he has been lost, forgotten (implies someone has made him lost, gotten rid of him)"
+      },
+      {
+        "kiksht": "yalkw'álalakwlit",
+        "english": "he is becoming lost in it[a-] (several times)"
+      },
+      {
+        "kiksht": "iyukw'álalakwit",
+        "english": "he became lost (does not imply that someone caused him to be lost)"
+      },
+      {
+        "kiksht": "ixlkw'álalakwlit",
+        "english": "he is making mistakes (literally, he is lost in himself)"
+      },
+      {
+        "kiksht": "chiukw'alalakwt",
+        "english": "he is making him lost [Dyk]"
+      }
+    ],
+    "notes": [
+      "When used with a neutral pronoun as subject, this verb means \"be lost,\" etc. When used with an active pronoun as subject and a neu- tral pronoun as object, as in the last form given, it means \"cause to be lost, make lost.\""
+    ]
+  },
   "-KWA": {
     "root": "-KWA",
     "partOfSpeech": "vb",
@@ -8908,6 +8988,25 @@
       "i- -k'aic"
     ]
   },
+  "-kw'akwa": {
+    "root": "-kw'akwa",
+    "partOfSpeech": "n",
+    "definition": "grizzly bear",
+    "forms": [
+      {
+        "kiksht": "ikw'akwa",
+        "english": "(male) grizzly bear"
+      },
+      {
+        "kiksht": "akw'akwa",
+        "english": "(female) grizzly bear"
+      },
+      {
+        "kiksht": "iłkw'áukwayuksh, iłkw'áukwamax",
+        "english": "grizzly bears [Dyk]"
+      }
+    ]
+  },
   "-l-CGI-ma": {
     "root": "-l-CGI-ma",
     "partOfSpeech": "vb",
@@ -12440,6 +12539,47 @@
     ],
     "seeAlso": [
       "-KW'A-l-kw-ł"
+    ]
+  },
+  "-x-KW'A-mit": {
+    "root": "-x-KW'A-mit",
+    "partOfSpeech": "vb",
+    "definition": "bring home, take home, send home",
+    "forms": [
+      {
+        "kiksht": "anixkw'ámida",
+        "english": "I will take him home"
+      },
+      {
+        "kiksht": "anixatkw'ámida",
+        "english": "I will bring him home; I will take him home (dis- tant future)"
+      },
+      {
+        "kiksht": "iyamxkw'amit",
+        "english": "I sent/ took you home"
+      },
+      {
+        "kiksht": "inixkw'amit",
+        "english": "I sent/ took him home"
+      },
+      {
+        "kiksht": "nanaxkw'ámida",
+        "english": "I sent/took her home"
+      },
+      {
+        "kiksht": "nachaxatkw'ámida",
+        "english": "he brought her home, sent her home (this way)"
+      },
+      {
+        "kiksht": "nagenxatkw'ámida",
+        "english": "she brought me home, sent me home (this way) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "K'aya anshkixatkw'ámida iduihamax ałqi saqw Christmas kwadáu New Year's.",
+        "english": "We won't bring the cattle home until between Christ- mas and New Year's. [Wasco Conver- sation 9]"
+      }
     ]
   },
   "-x-KWCHAN": {
@@ -46695,6 +46835,34 @@
       "ił-kupi, ił-kwapi"
     ]
   },
+  "i-kw'aikw'ai": {
+    "root": "i-kw'aikw'ai",
+    "partOfSpeech": "n",
+    "definition": "loon",
+    "forms": [
+      {
+        "kiksht": "itkw'aikw'ayuksh",
+        "english": "loons [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "wimał chilumat"
+    ]
+  },
+  "i-kw'álacincin": {
+    "root": "i-kw'álacincin",
+    "partOfSpeech": "n",
+    "definition": "swallow (bird)",
+    "forms": [
+      {
+        "kiksht": "iskw'álacincin",
+        "english": "2 swallows [WTI.1a6]"
+      }
+    ],
+    "seeAlso": [
+      "i-gwalac'inc'in, a-c'igala"
+    ]
+  },
   "i-kwada": {
     "root": "i-kwada",
     "partOfSpeech": "n",
@@ -53731,6 +53899,32 @@
         "kiksht": "Kushtk alanxilxułama.",
         "english": "I will go dip-netting before breakfast. [Dyk]"
       }
+    ]
+  },
+  "kw'alalak": {
+    "root": "kw'alalak",
+    "partOfSpeech": "part",
+    "definition": "drunk, get drunk, crazy, make crazy, act crazy, insane, nutty",
+    "examples": [
+      {
+        "kiksht": "Qushtíaxa kw'álalak [kw'álalaq] shknuxt.",
+        "english": "Truly they 2 are making me crazy. [WTI.1b2]"
+      },
+      {
+        "kiksht": "kw'alalák ikala",
+        "english": "a nutty fellow [Dyk]"
+      },
+      {
+        "kiksht": "Kw'alalák ikiax.",
+        "english": "He is drunk, he is getting drunk. [Dyk; GT, MMc]"
+      },
+      {
+        "kiksht": "Kwapt ag̲a kw'álalag emkiax.",
+        "english": "That's enough of being bratty. [Spilyay/ KidTalk]"
+      }
+    ],
+    "seeAlso": [
+      "i-qikw'álalak, -KW'ALALA-kw -KW'ALALA lose"
     ]
   },
   "kwaba": {
