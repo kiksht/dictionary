@@ -4135,6 +4135,78 @@
       }
     ]
   },
+  "-KW'A": {
+    "root": "-KW'A",
+    "partOfSpeech": "vb",
+    "definition": "go back, return, go home",
+    "forms": [
+      {
+        "kiksht": "anshkw'amida",
+        "english": "I will take them 2 home [WTI.1b.3]"
+      }
+    ]
+  },
+  "-KW'A-it-ix(it)": {
+    "root": "-KW'A-it-ix(it)",
+    "partOfSpeech": "vb",
+    "definition": "be left over",
+    "forms": [
+      {
+        "kiksht": "dukw'aitix",
+        "english": "they are left over [WTIII.4.1]"
+      },
+      {
+        "kiksht": "alma adukw'áidixida",
+        "english": "it/they will be left over"
+      },
+      {
+        "kiksht": "nadukw'ádixida",
+        "english": "it/they was/ were left over"
+      },
+      {
+        "kiksht": "gadukw'áidixit",
+        "english": "it/ they was/were left over"
+      },
+      {
+        "kiksht": "dukw'áidixit, dukw'aitix",
+        "english": "it/they is/ are left over [GT 1/15/99]"
+      }
+    ]
+  },
+  "-KW'A-ksht": {
+    "root": "-KW'A-ksht",
+    "partOfSpeech": "vb",
+    "definition": "try, try out",
+    "forms": [
+      {
+        "kiksht": "chiukw'alksht",
+        "english": "he is trying him out"
+      },
+      {
+        "kiksht": "chitkw'álksht",
+        "english": "he was try- ing him out"
+      },
+      {
+        "kiksht": "chiukw'aksht",
+        "english": "he has him tried out"
+      },
+      {
+        "kiksht": "igikw'alksht",
+        "english": "he is trying"
+      },
+      {
+        "kiksht": "yukw'akshdix",
+        "english": "he has been tried [Dyk]"
+      },
+      {
+        "kiksht": "endukw'alksht",
+        "english": "I'm trying them (as when seeing whether berries or roots are ripe) [PK]"
+      }
+    ],
+    "seeAlso": [
+      "i-gikw'alksht, it- gikw'alkshtxat"
+    ]
+  },
   "-KWA": {
     "root": "-KWA",
     "partOfSpeech": "vb",
@@ -12241,6 +12313,133 @@
     ],
     "notes": [
       "-KW(A), -GWA cross, pass away, cross between death and life"
+    ]
+  },
+  "-x-KW'A": {
+    "root": "-x-KW'A",
+    "partOfSpeech": "vb",
+    "definition": "go home, come home, return",
+    "forms": [
+      {
+        "kiksht": "alaxkw'aya",
+        "english": "she will go home"
+      },
+      {
+        "kiksht": "aluxwakw'aya",
+        "english": "they will go home"
+      },
+      {
+        "kiksht": "ałxkw'áyuwa",
+        "english": "they will each go home"
+      },
+      {
+        "kiksht": "ixkw'át",
+        "english": "he is going home"
+      },
+      {
+        "kiksht": "ixatkw'at",
+        "english": "he is coming home"
+      },
+      {
+        "kiksht": "inxkw'a",
+        "english": "I went home"
+      },
+      {
+        "kiksht": "inxatkw'a",
+        "english": "I came home"
+      },
+      {
+        "kiksht": "nanxatkw'aya",
+        "english": "I came home"
+      },
+      {
+        "kiksht": "ganxkw'á",
+        "english": "I went home"
+      },
+      {
+        "kiksht": "gamxkw'a",
+        "english": "you went home"
+      },
+      {
+        "kiksht": "galixkw'a",
+        "english": "he went home"
+      },
+      {
+        "kiksht": "galaxkw'a",
+        "english": "she went home"
+      },
+      {
+        "kiksht": "gatxkw'a",
+        "english": "we 2 (you and I) went home"
+      },
+      {
+        "kiksht": "gantxkw'a",
+        "english": "we 2 (not including you) went home"
+      },
+      {
+        "kiksht": "gashxkw'á",
+        "english": "they 2 went home"
+      },
+      {
+        "kiksht": "galxkw'aya",
+        "english": "we (including you) went home"
+      },
+      {
+        "kiksht": "gałxkw'aya, galuxwakw'á",
+        "english": "they went home"
+      },
+      {
+        "kiksht": "galuxwakw'aiyu",
+        "english": "they each went home"
+      },
+      {
+        "kiksht": "galuxwatkw'aiyu",
+        "english": "they each came home"
+      },
+      {
+        "kiksht": "galuxkw'áiyunił",
+        "english": "they each go home at the usual time"
+      },
+      {
+        "kiksht": "galixkw'enił",
+        "english": "he goes home (regu- larly) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ag̲a anxkw'aya.",
+        "english": "I'll go home now."
+      },
+      {
+        "kiksht": "Łaichka nałxkw'aiwa.",
+        "english": "They each went home."
+      },
+      {
+        "kiksht": "Ag̲a kwapt ninxatkw'a.",
+        "english": "Then I came home."
+      },
+      {
+        "kiksht": "Gashxkw'á itqwłiba.",
+        "english": "They 2 went home."
+      },
+      {
+        "kiksht": "K'aya kanawi galuxwak'ayu.",
+        "english": "Not all went home. [Dyk]"
+      }
+    ]
+  },
+  "-x-KW'A-kw": {
+    "root": "-x-KW'A-kw",
+    "partOfSpeech": "vb",
+    "definition": "dangle",
+    "forms": [
+      {
+        "kiksht": "iłxkw'áiulkł",
+        "english": "they dangled [WTII.10.3]"
+      }
+    ],
+    "seeAlso": [
+      "-KW'A-l-kw-ł"
     ]
   },
   "-x-KWCHAN": {
@@ -53761,6 +53960,81 @@
     ],
     "seeAlso": [
       "dakwaukwau, saikwaukwau"
+    ]
+  },
+  "kwul": {
+    "root": "kwul",
+    "partOfSpeech": "adv",
+    "definition": "quickly, fast",
+    "examples": [
+      {
+        "kiksht": "Kwul mia!",
+        "english": "Go quickly!"
+      },
+      {
+        "kiksht": "Kwul alidia.",
+        "english": "He will come fast."
+      },
+      {
+        "kiksht": "Kwul íwixa!",
+        "english": "Do it fast this way! [Dyk]"
+      }
+    ],
+    "notes": [
+      "Apparently means the same as kwlt. Compare kwldix also."
+    ],
+    "seeAlso": [
+      "kwultkwult, kwuldix"
+    ]
+  },
+  "kwuldix": {
+    "root": "kwuldix",
+    "partOfSpeech": "adv",
+    "definition": "quickly, fast, in a short time, in a little while",
+    "examples": [
+      {
+        "kiksht": "Kwuldix awa!",
+        "english": "Follow her quickly!"
+      },
+      {
+        "kiksht": "Ichiux pu kwuldix.",
+        "english": "He should have done it quickly."
+      },
+      {
+        "kiksht": "Kwuldix alídia.",
+        "english": "He will come in a short time, in a little while (but the action of his coming may be slow; compare Kwlt alidia 'he will come quickly') [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "kwul, kwult, kwuldix"
+    ]
+  },
+  "kwulkwul": {
+    "root": "kwulkwul",
+    "partOfSpeech": "part",
+    "definition": "shelter",
+    "examples": [
+      {
+        "kiksht": "Saqw kwulkwul idiapiqba gachixlux.",
+        "english": "He sheltered them com- pletely under his wings. [WTI.4.6]"
+      }
+    ]
+  },
+  "kwultkwult": {
+    "root": "kwultkwult",
+    "partOfSpeech": "adv",
+    "definition": "quickly, fast, in a hurry, hurriedly, hurry up",
+    "examples": [
+      {
+        "kiksht": "Kwultkwult mia!",
+        "english": "Walk faster!"
+      }
+    ],
+    "notes": [
+      "Often used by itself as a quasi-command: kwultkwult! \"hurry up!\""
+    ],
+    "seeAlso": [
+      "kwul, kwal, kwaldix, kwuldix"
     ]
   },
   "kánawi": {

@@ -15392,3 +15392,44 @@ Forms: chiakkwt¬waqwt “he is mak- ing him sneak up on her” akkwt¬waqux “
 
 -x-k-KWTÒWA-qw [vb] sneak up on
 Forms: alaxatgatkt¬wa©wa “she will sneak up on us 2 (distant future)” yaxakkwt¬waqt “he is sneaking up on her” uxaxak’ikwt¬wanan “they are sneaking up on one another” niguxaxak’ikwt¬wanan “they were sneaking up on one another (last season)” niguxatxatk’ikwt¬wanan “they were sneaking up on one an- other (last week)” [first -t- incompre- hensible] igaxagitkwt¬wanan “she was sneaking up on her” nishxangitkwt¬wanan “they 2 were sneaking up on me” [GT 6/4/98]
+
+
+
+
+
+
+
+kwul [adv] quickly, fast
+Examples: Kwul mia! “Go quickly!” Kwul alidia. “He will come fast.” Kwul ˆwixa! “Do it fast this way!” [Dyk]
+Notes: Apparently means the same as kwlt. Compare kwldix also.
+See also: kwultkwult, kwuldix
+
+kwuldix [adv] quickly, fast, in a short time, in a little while
+Examples: Kwuldix awa! “Follow her quickly!” Ichiux pu kwuldix. “He should have done it quickly.” Kwuldix alˆdia. “He will come in a short time, in a little while (but the action of his coming may be slow; compare Kwlt alidia ‘he will come quickly’)” [Dyk]
+See also: kwul, kwult, kwuldix
+
+kwulkwul [part] shelter
+Examples: Saqw kwulkwul idiapiqba gachixlux. “He sheltered them com- pletely under his wings.” [WTI.4.6]
+
+kwultkwult [adv] quickly, fast, in a hurry, hurriedly, hurry up
+Examples: Kwultkwult mia! “Walk faster!”
+Notes: Often used by itself as a quasi-command: kwultkwult! “hurry up!”
+See also: kwul, kwal, kwaldix, kwuldix
+
+-KW’A [vb] go back, return, go home
+Forms: anshkw’amida “I will take them 2 home” [WTI.1b.3]
+
+-x-KW’A [vb] go home, come home, return
+Forms: alaxkw’aya “she will go home” aluxwakw’aya “they will go home” a¬xkw’Åyuwa “they will each go home” ixkw’Åt “he is going home” ixatkw’at “he is coming home” inxkw’a “I went home” inxatkw’a “I came home” nanxatkw’aya “I came home” ganxkw’Å “I went home” gamxkw’a “you went home” galixkw’a “he went home” galaxkw’a “she went home” gatxkw’a “we 2 (you and I) went home” gantxkw’a “we 2 (not including you) went home” gashxkw’Å “they 2 went home” galxkw’aya “we (including you) went home” ga¬xkw’aya, galuxwakw’Å “they went home” galuxwakw’aiyu “they each went home” galuxwatkw’aiyu “they each came home” galuxkw’Åiyuni¬ “they each go home at the usual time” galixkw’eni¬ “he goes home (regu- larly)” [Dyk]
+Examples: A©a anxkw’aya. “I’ll go home now.” Òaichka na¬xkw’aiwa. “They each went home.” A©a kwapt ninxatkw’a. “Then I came home.” Gashxkw’Å itqw¬iba. “They 2 went home.” K’aya kanawi galuxwak’ayu. “Not all went home.” [Dyk]
+
+-KW’A-it-ix(it) [vb] be left over
+Forms: dukw’aitix “they are left over” [WTIII.4.1] alma adukw’Åidixida “it/they will be left over” nadukw’Ådixida “it/they was/ were left over” gadukw’Åidixit “it/ they was/were left over” dukw’Åidixit, dukw’aitix “it/they is/ are left over” [GT 1/15/99]
+
+-KW’A-ksht [vb] try, try out
+Forms: chiukw’alksht “he is trying him out” chitkw’Ålksht “he was try- ing him out” chiukw’aksht “he has him tried out” igikw’alksht “he is trying” yukw’akshdix “he has been tried” [Dyk] endukw’alksht “I’m trying them (as when seeing whether berries or roots are ripe)” [PK]
+See also: i-gikw’alksht, it- gikw’alkshtxat
+
+-x-KW’A-kw [vb] dangle
+Forms: i¬xkw’Åiulk¬ “they dangled” [WTII.10.3]
+See also: -KW’A-l-kw-¬
