@@ -7131,6 +7131,234 @@
       "Refers to almost any kind of motion out. Opposite is -pq. Fre- quently occurs in verbs as secondary root (position 9); but can be used as primary root."
     ]
   },
+  "-PCHK": {
+    "root": "-PCHK",
+    "partOfSpeech": "vb",
+    "definition": "move out of water, move from water, move away from water, move ashore",
+    "forms": [
+      {
+        "kiksht": "yupchkt",
+        "english": "he is going from water"
+      },
+      {
+        "kiksht": "łupchkt",
+        "english": "it is going from water, they are going from water"
+      },
+      {
+        "kiksht": "tgepchkt, dupchkt",
+        "english": "they are going from water"
+      },
+      {
+        "kiksht": "yulpchk",
+        "english": "he goes away from water"
+      },
+      {
+        "kiksht": "łtpchkt, łitpchkt",
+        "english": "they are coming from water"
+      },
+      {
+        "kiksht": "yupchkdix",
+        "english": "it[i-] (a trail) leads away from wa- ter"
+      },
+      {
+        "kiksht": "iyupchga",
+        "english": "he went from water"
+      },
+      {
+        "kiksht": "yaglúpchkt",
+        "english": "he is going out of water to her"
+      },
+      {
+        "kiksht": "gayaglúpchk",
+        "english": "he went out of water to her"
+      },
+      {
+        "kiksht": "iyug̲wípchk",
+        "english": "he went from them out of water"
+      },
+      {
+        "kiksht": "iyugmápchk",
+        "english": "he went along beside them from water"
+      },
+      {
+        "kiksht": "chialupchgamit",
+        "english": "he has him made to go ashore to her [Dyk]"
+      },
+      {
+        "kiksht": "ixatpchkdix",
+        "english": "he's coming out of water"
+      },
+      {
+        "kiksht": "ixupchkdix",
+        "english": "he's going from water [GT, MMc 12/30/97]"
+      }
+    ],
+    "notes": [
+      "Opposite of -ŁX̲."
+    ]
+  },
+  "-PCHX̲": {
+    "root": "-PCHX̲",
+    "partOfSpeech": "vb",
+    "definition": "sew, sew up, lace",
+    "forms": [
+      {
+        "kiksht": "anyupchxa",
+        "english": "I'm going to sew [MS:LT 7/14/53]"
+      },
+      {
+        "kiksht": "chupchxalal",
+        "english": "he is sewing her up [DykGr 54]"
+      },
+      {
+        "kiksht": "ichupchxa",
+        "english": "he sewed it[a-] up"
+      },
+      {
+        "kiksht": "itchupchxa, itchupchx",
+        "english": "he sewed it[i- ] up"
+      },
+      {
+        "kiksht": "chupchxalal",
+        "english": "he is sewing it[a-] up"
+      },
+      {
+        "kiksht": "chupchxt",
+        "english": "he has it[a-] sewed up"
+      },
+      {
+        "kiksht": "ichupchxálalemchk",
+        "english": "he sewed it[a-] up (several times)"
+      },
+      {
+        "kiksht": "chalk'ípchxalal",
+        "english": "he is sewing for her"
+      },
+      {
+        "kiksht": "ik'ipchxalal",
+        "english": "he is sewing, lacing"
+      },
+      {
+        "kiksht": "igik'ipchx",
+        "english": "he sewed"
+      },
+      {
+        "kiksht": "ailixlk'ipchxaya",
+        "english": "he'll sew (especially with needle)"
+      },
+      {
+        "kiksht": "ixlk'ípchxalal",
+        "english": "he is sewing"
+      },
+      {
+        "kiksht": "yupchxix",
+        "english": "it[i-] is sewed up"
+      },
+      {
+        "kiksht": "upchxix",
+        "english": "it[a-] is sewed up"
+      },
+      {
+        "kiksht": "shdupchxix",
+        "english": "they 2 are sewed up"
+      },
+      {
+        "kiksht": "shdik'upchxix, shik'upchxix",
+        "english": "they 2 are sewed up on it[i-] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ipchxalal"
+    ]
+  },
+  "-PGIU": {
+    "root": "-PGIU",
+    "partOfSpeech": "vb",
+    "definition": "wade",
+    "forms": [
+      {
+        "kiksht": "ganshúpgiux",
+        "english": "we waded [WTIV.2.17]"
+      }
+    ],
+    "seeAlso": [
+      "-PGWI"
+    ]
+  },
+  "-PGWI": {
+    "root": "-PGWI",
+    "partOfSpeech": "vb",
+    "definition": "wade",
+    "forms": [
+      {
+        "kiksht": "gayupgwí",
+        "english": "he waded"
+      },
+      {
+        "kiksht": "gayupgwilal",
+        "english": "he waded about"
+      },
+      {
+        "kiksht": "ganshupgwiux",
+        "english": "we each one, one at a time, waded"
+      },
+      {
+        "kiksht": "anupgwílalama",
+        "english": "I'll wade around"
+      },
+      {
+        "kiksht": "iyupgwi",
+        "english": "he waded"
+      },
+      {
+        "kiksht": "yupgwílalamchk",
+        "english": "he just waded about"
+      },
+      {
+        "kiksht": "yupgwilal",
+        "english": "he is wading about"
+      },
+      {
+        "kiksht": "tkpgwilal, dupgwilal",
+        "english": "they are wading about"
+      },
+      {
+        "kiksht": "tkpgwíyupgwitix",
+        "english": "they are being made to wade, have been made to wade"
+      },
+      {
+        "kiksht": "iyupgwixit",
+        "english": "he was made to wade"
+      },
+      {
+        "kiksht": "iyalpgwixit",
+        "english": "he was made to wade in it[a-]"
+      },
+      {
+        "kiksht": "aglpgwitix",
+        "english": "she has been waded to, (someone) has been made to wade to her"
+      },
+      {
+        "kiksht": "chiupgwimit, chiupgwimat",
+        "english": "he is making him wade"
+      },
+      {
+        "kiksht": "chiupgwímalal",
+        "english": "he is making him wade about"
+      },
+      {
+        "kiksht": "ichiupgwima",
+        "english": "he made him wade"
+      },
+      {
+        "kiksht": "ichiupgwimat",
+        "english": "he made him wade (as when one helps a child wade across a steam) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-PGIU"
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -7517,6 +7745,25 @@
       {
         "kiksht": "gadalimałxixit",
         "english": "they fell into the water [WTI.4.2]"
+      }
+    ]
+  },
+  "-a-l-PCH G̲WA G̲IU-łx": {
+    "root": "-a-l-PCH G̲WA G̲IU-łx",
+    "partOfSpeech": "vb",
+    "definition": "yawn",
+    "forms": [
+      {
+        "kiksht": "ailpchg̲wág̲iułxt",
+        "english": "he is yawn- ing"
+      },
+      {
+        "kiksht": "aitpchg̲wág̲iułxt",
+        "english": "he was yawn- ing"
+      },
+      {
+        "kiksht": "ailpchg̲wag̲iulłx",
+        "english": "he is yawning (repeatedly) [Dyk]"
       }
     ]
   },
@@ -15319,6 +15566,28 @@
     ],
     "notes": [
       "Refers to a relationship of man to man or woman to woman who are both common spouses of the same mate. May also refer to a man who has stolen one's wife. Used only with 3rd person prefixes."
+    ]
+  },
+  "-pchix": {
+    "root": "-pchix",
+    "partOfSpeech": "adj",
+    "definition": "green",
+    "forms": [
+      {
+        "kiksht": "iłpchíx",
+        "english": "it's green (used only of timber)"
+      },
+      {
+        "kiksht": "iłpcháx",
+        "english": "it is green again [emphatic]"
+      },
+      {
+        "kiksht": "itpchixmax",
+        "english": "green plants [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "pcx, dapchix"
     ]
   },
   "-q'l-PA": {
@@ -26115,6 +26384,21 @@
       {
         "kiksht": "Algailtłamidagwayaxdix apchguwag̲washt.",
         "english": "We will do the scalp dance. [PK]"
+      }
+    ]
+  },
+  "a-pg̲liu": {
+    "root": "a-pg̲liu",
+    "partOfSpeech": "n",
+    "definition": "trout",
+    "forms": [
+      {
+        "kiksht": "apg̲líumax",
+        "english": "trout [plural]"
+      },
+      {
+        "kiksht": "ipg̲liu, ikala ipg̲liu",
+        "english": "male trout [Dyk] Apparently apg̲liu is the usual form."
       }
     ]
   },
@@ -57924,6 +58208,14 @@
       "i-ch'almu"
     ]
   },
+  "i-péch": {
+    "root": "i-péch",
+    "partOfSpeech": "n",
+    "definition": "buttocks, rear end",
+    "seeAlso": [
+      "i-q'aicglit"
+    ]
+  },
   "i-pápakwun": {
     "root": "i-pápakwun",
     "partOfSpeech": "n",
@@ -60724,6 +61016,20 @@
     "definition": "whirlwind",
     "seeAlso": [
       "ish-pchg̲iuxt"
+    ]
+  },
+  "ish-pchg̲iuxt": {
+    "root": "ish-pchg̲iuxt",
+    "partOfSpeech": "n",
+    "definition": "whirlwind",
+    "forms": [
+      {
+        "kiksht": "ishiapchg̲iuxt",
+        "english": "he is a whirl- wind [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ish-pchg̲iusht"
     ]
   },
   "ish-íxtksh": {
