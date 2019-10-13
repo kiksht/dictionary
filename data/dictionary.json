@@ -16436,6 +16436,28 @@
       "a-psuq"
     ]
   },
+  "-punash": {
+    "root": "-punash",
+    "partOfSpeech": "n",
+    "definition": "older sibling, older brother, older sister",
+    "forms": [
+      {
+        "kiksht": "ichpunash",
+        "english": "my older brother"
+      },
+      {
+        "kiksht": "akpunash",
+        "english": "my older sister"
+      },
+      {
+        "kiksht": "punash",
+        "english": "older brother! older sister! [Relatives]"
+      }
+    ],
+    "seeAlso": [
+      "p'unash"
+    ]
+  },
   "-płqau": {
     "root": "-płqau",
     "partOfSpeech": "adj",
@@ -24517,6 +24539,32 @@
       "Refers to a caress-like motion of smoothing down hair with one's hand. The -ł- object pronoun refers to hair (ił-natłxat)."
     ]
   },
+  "-ł-k-PUSHTEM": {
+    "root": "-ł-k-PUSHTEM",
+    "partOfSpeech": "vb",
+    "definition": "braid (a bride)",
+    "examples": [
+      {
+        "kiksht": "amłakpúshtema",
+        "english": "(you will) braid her! [GT 6/9/99]"
+      },
+      {
+        "kiksht": "ałkłakpúshtema",
+        "english": "they're going to braid her"
+      },
+      {
+        "kiksht": "nałkłakpúshtema",
+        "english": "they braided her"
+      },
+      {
+        "kiksht": "ałkługapúshtema",
+        "english": "they're going to braid (them? her?) [GT 1/14/99]"
+      }
+    ],
+    "seeAlso": [
+      "i-kap'ushtem"
+    ]
+  },
   "-ł-k-xa-DEM-kw": {
     "root": "-ł-k-xa-DEM-kw",
     "partOfSpeech": "vb",
@@ -27466,6 +27514,42 @@
         "kiksht": "itpsuquks [HS 7/22/54], itpsuqmax [JT]",
         "english": "rabbit hawks"
       }
+    ]
+  },
+  "a-pxadit": {
+    "root": "a-pxadit",
+    "partOfSpeech": "n",
+    "definition": "alder",
+    "forms": [
+      {
+        "kiksht": "apxáditmax",
+        "english": "alders"
+      },
+      {
+        "kiksht": "iłpxadit",
+        "english": "alder poles"
+      }
+    ],
+    "seeAlso": [
+      "i-pxaditlit"
+    ]
+  },
+  "a-pxliu": {
+    "root": "a-pxliu",
+    "partOfSpeech": "n",
+    "definition": "fat",
+    "forms": [
+      {
+        "kiksht": "ayapxliu",
+        "english": "his fat; he is fat"
+      },
+      {
+        "kiksht": "adapxlíumax",
+        "english": "they are fat ones [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-pxliu, ił-pxliu"
     ]
   },
   "a-pác'akas": {
@@ -59380,6 +59464,28 @@
       "i-buipui"
     ]
   },
+  "i-pxaditlit": {
+    "root": "i-pxaditlit",
+    "partOfSpeech": "n",
+    "definition": "alder grove",
+    "seeAlso": [
+      "a-pxadit"
+    ]
+  },
+  "i-pxlíu": {
+    "root": "i-pxlíu",
+    "partOfSpeech": "n",
+    "definition": "fat (of meat) [HS 7/3/54], tallow [Dyk]",
+    "forms": [
+      {
+        "kiksht": "imipxliu",
+        "english": "you're fat [HS 7/ 3/54]"
+      }
+    ],
+    "seeAlso": [
+      "a-pxliu, ił-pxliu"
+    ]
+  },
   "i-pápakwun": {
     "root": "i-pápakwun",
     "partOfSpeech": "n",
@@ -64187,6 +64293,20 @@
       "it-k'umałemt"
     ]
   },
+  "it-p'aisxádagwax": {
+    "root": "it-p'aisxádagwax",
+    "partOfSpeech": "adj n",
+    "definition": "sin-minded person, untrustworthy person, thor- oughly evil person",
+    "forms": [
+      {
+        "kiksht": "idiap'aisxádagwax",
+        "english": "he is an evil person [GT, MMc 6/5/98]"
+      }
+    ],
+    "seeAlso": [
+      "it-baisxádagwax, it- t'uxadagwax"
+    ]
+  },
   "it-pchexmax": {
     "root": "it-pchexmax",
     "partOfSpeech": "n",
@@ -64228,6 +64348,17 @@
     "definition": "mountains",
     "seeAlso": [
       "it-puqux"
+    ]
+  },
+  "it-puqux": {
+    "root": "it-puqux",
+    "partOfSpeech": "n",
+    "definition": "mountains",
+    "examples": [
+      {
+        "kiksht": "Itpuquxyamt gaqíułada wit'ax ip'ishxash.",
+        "english": "Skunk was again dragged to the mountains. [WTI.2.6] See also: it-pug̲umax"
+      }
     ]
   },
   "it-płxat": {
@@ -65904,6 +66035,23 @@
       "Gladys Thompson, Madeline McInturff [12/30/97]: \"like a com- ing-out thing...when she first be- comes a young lady, then she's avail- able to be married\""
     ]
   },
+  "ił-p'aiskwa": {
+    "root": "ił-p'aiskwa",
+    "partOfSpeech": "n",
+    "definition": "blanket",
+    "forms": [
+      {
+        "kiksht": "itp'aiskwa",
+        "english": "blankets [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to an Anglo-style blan- ket."
+    ],
+    "seeAlso": [
+      "ił-p'asiskwa"
+    ]
+  },
   "ił-pchéx": {
     "root": "ił-pchéx",
     "partOfSpeech": "n",
@@ -65965,6 +66113,28 @@
     ],
     "seeAlso": [
       "wa-pul, ił-pulix"
+    ]
+  },
+  "ił-pulix": {
+    "root": "ił-pulix",
+    "partOfSpeech": "n",
+    "definition": "shady place",
+    "forms": [
+      {
+        "kiksht": "łiapúlixba",
+        "english": "in a shady place [PK 1956]"
+      }
+    ],
+    "seeAlso": [
+      "ił-pul"
+    ]
+  },
+  "ił-pxliu": {
+    "root": "ił-pxliu",
+    "partOfSpeech": "n",
+    "definition": "pitch (that has turned white on exposure to air)",
+    "seeAlso": [
+      "a-pxliu, i-pxliu"
     ]
   },
   "ił-páp": {
@@ -70959,6 +71129,28 @@
       "Pu is a modal particle, used with a verb where English uses the auxiliary verbs listed as possible translations. It indicates possibility or potentiality."
     ]
   },
+  "punash": {
+    "root": "punash",
+    "partOfSpeech": "n",
+    "definition": "older sibling!, older brother!, older sister!",
+    "seeAlso": [
+      "-punash, p'unash"
+    ]
+  },
+  "pxi": {
+    "root": "pxi",
+    "partOfSpeech": "part",
+    "definition": "spit",
+    "examples": [
+      {
+        "kiksht": "Pxi itiłumqwit.",
+        "english": "He spat pxi. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Apparently onomatopoeic (a word resembling in sound what it means)."
+    ]
+  },
   "qengi": {
     "root": "qengi",
     "partOfSpeech": "pron",
@@ -71765,6 +71957,66 @@
     "partOfSpeech": "n",
     "definition": "strand(s) (of rope)",
     "forms": []
+  },
+  "wa-pul": {
+    "root": "wa-pul",
+    "partOfSpeech": "n",
+    "definition": "night, all night, night and day [in plural form]",
+    "forms": [
+      {
+        "kiksht": "wapulmax",
+        "english": "nights, day and night"
+      },
+      {
+        "kiksht": "(as in",
+        "english": "work all night and day"
+      },
+      {
+        "kiksht": ") abulmax",
+        "english": "nights [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Gayuyá waaapul.",
+        "english": "He went all night. [WTI.3.12]"
+      },
+      {
+        "kiksht": "kachag wapul",
+        "english": "in the middle of the night [WTI.6.3]"
+      },
+      {
+        "kiksht": "dauwa wapul",
+        "english": "this night, tonight"
+      },
+      {
+        "kiksht": "aixt awapul",
+        "english": "one night"
+      },
+      {
+        "kiksht": "makwsht wapul",
+        "english": "2 nights"
+      },
+      {
+        "kiksht": "wapulmax",
+        "english": "nights, day and night"
+      },
+      {
+        "kiksht": "(as in",
+        "english": "work all night and day) [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ił-pul, ił-pulix"
+    ]
+  },
+  "wa-pxá": {
+    "root": "wa-pxá",
+    "partOfSpeech": "n",
+    "definition": "death camas, poisonous camas",
+    "notes": [
+      "A bitter, poisonous root, look- ing like camas, onion-like, with white flowers; the white flowers distinguish it from the edible camas, a-g̲amwa."
+    ]
   },
   "wa-páł": {
     "root": "wa-páł",

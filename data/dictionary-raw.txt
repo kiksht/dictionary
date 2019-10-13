@@ -19894,3 +19894,68 @@ i¬-pul [n] shade, shadow [Dyk], evening twilight [HS 7/8/54, 7/23/ 54], reflect
 Examples: ¬un i¬bulmax “3 evenings” [HS 7/8/54, 7/23/54]
 Notes: Refers to time between dusk and dark. Chuishdix means “evening in general.” [HS 7/8/54, 7/23/54]
 See also: wa-pul, i¬-pulix
+
+
+
+
+
+
+
+
+
+wa-pul [n] night, all night, night and day [in plural form]
+Forms: wapulmax “nights, day and night” (as in “work all night and day”) abulmax “nights” [Dyk]
+Examples: GayuyÅ waaapul. “He went all night.” [WTI.3.12] kachag wapul “in the middle of the night” [WTI.6.3] dauwa wapul “this night, tonight” aixt awapul “one night” makwsht wapul “2 nights” wapulmax “nights, day and night” (as in “work all night and day”) [Dyk]
+See also: i¬-pul, i¬-pulix
+
+i¬-pulix [n] shady place
+Forms: ¬iap ̈lixba “in a shady place” [PK 1956]
+See also: i¬-pul
+
+-punash [n] older sibling, older brother, older sister
+Forms: ichpunash “my older brother” akpunash “my older sister” punash “older brother! older sister!” [Relatives]
+See also: p’unash
+
+punash [n] older sibling!, older brother!, older sister!
+See also: -punash, p’unash
+
+it-puqux [n] mountains
+Examples: Itpuquxyamt gaqˆu¬ada wit’ax ip’ishxash. “Skunk was again dragged to the mountains.” [WTI.2.6] See also: it-pu©umax
+
+-¬-k-PUSHTEM [vb] braid (a bride)
+Examples: am¬akp ̈shtema “(you will) braid her!” [GT 6/9/99] a¬k¬akp ̈shtema “they’re going to braid her” na¬k¬akp ̈shtema “they braided her” a¬k¬ugap ̈shtema “they’re going to braid (them? her?)” [GT 1/14/99]
+See also: i-kap’ushtem
+
+wa-pxÅ [n] death camas, poisonous camas
+Notes: A bitter, poisonous root, look- ing like camas, onion-like, with white flowers; the white flowers distinguish it from the edible camas, a-©amwa.
+
+a-pxadit [n] alder
+Forms: apxÅditmax “alders” i¬pxadit “alder poles”
+See also: i-pxaditlit
+
+i-pxaditlit [n] alder grove
+See also: a-pxadit
+
+a-pxliu [n] fat
+Forms: ayapxliu “his fat; he is fat” adapxlˆumax “they are fat ones” [Dyk]
+See also: i-pxliu, i¬-pxliu
+
+i¬-pxliu [n] pitch (that has turned white on exposure to air)
+See also: a-pxliu, i-pxliu
+
+i-pxlˆu [n] fat (of meat) [HS 7/3/54], tallow [Dyk]
+Forms: imipxliu “you’re fat” [HS 7/ 3/54]
+See also: a-pxliu, i¬-pxliu
+
+pxi [part] spit
+Examples: Pxi iti¬umqwit. “He spat pxi.” [Dyk]
+Notes: Apparently onomatopoeic (a word resembling in sound what it means).
+
+i¬-p’aiskwa [n] blanket
+Forms: itp’aiskwa “blankets” [Dyk]
+Notes: Refers to an Anglo-style blan- ket.
+See also: i¬-p’asiskwa
+
+it-p’aisxÅdagwax [adj n] sin-minded person, untrustworthy person, thor- oughly evil person
+Forms: idiap’aisxÅdagwax “he is an evil person” [GT, MMc 6/5/98]
+See also: it-baisxÅdagwax, it- t’uxadagwax
