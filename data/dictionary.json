@@ -5706,23 +5706,47 @@
   "-MA-qw": {
     "root": "-MA-qw",
     "partOfSpeech": "vb",
-    "definition": "refer to someone dead",
+    "definition": "battle, war against",
     "forms": [
       {
-        "kiksht": "ik'imalq",
-        "english": "he is referring to someone dead"
+        "kiksht": "chiumáqwt",
+        "english": "he is battling him"
       },
       {
-        "kiksht": "chumalq",
-        "english": "he is refer- ring to her who is dead"
+        "kiksht": "ichiumaqwt",
+        "english": "he battled him"
       },
       {
-        "kiksht": "icúmalqemchk",
-        "english": "he referred to her who is dead [Dyk]"
+        "kiksht": "nichiumáqwt",
+        "english": "he battled him, was battling him"
+      },
+      {
+        "kiksht": "nichiumalq",
+        "english": "he was battling him (continually)"
+      },
+      {
+        "kiksht": "nichiumálqemchk",
+        "english": "he battled him (continually)"
+      },
+      {
+        "kiksht": "ixmaqwt",
+        "english": "he is bat- tling"
+      },
+      {
+        "kiksht": "galixmalq",
+        "english": "he battles (regu- larly)"
+      },
+      {
+        "kiksht": "galixmaqwtam",
+        "english": "he went to war"
+      },
+      {
+        "kiksht": "galixadmaqwtam",
+        "english": "he came to war [Dyk]"
       }
     ],
-    "notes": [
-      "Probably means referring to someone dead by another name, since the dead person's name cannot be used until it is given to someone else. Compare shimsha in Sahaptin."
+    "seeAlso": [
+      "i-qamaqwt"
     ]
   },
   "-a-gi-LXUŁ": {
@@ -22964,6 +22988,31 @@
     "notes": [
       "Borrowed from English."
     ]
+  },
+  "a-macis": {
+    "root": "a-macis",
+    "partOfSpeech": "n",
+    "definition": "matches",
+    "notes": [
+      "Borrowed from English."
+    ]
+  },
+  "a-malens": {
+    "root": "a-malens",
+    "partOfSpeech": "n",
+    "definition": "watermelon",
+    "forms": [],
+    "notes": [
+      "Borrowed from English \"melon.\""
+    ],
+    "seeAlso": [
+      "wádemalins"
+    ]
+  },
+  "a-maliw": {
+    "root": "a-maliw",
+    "partOfSpeech": "n",
+    "definition": "tiger lily, lilium Washingtonium"
   },
   "a-mulal": {
     "root": "a-mulal",
@@ -53998,6 +54047,28 @@
       "lux"
     ]
   },
+  "i-mail": {
+    "root": "i-mail",
+    "partOfSpeech": "n",
+    "definition": "mile",
+    "examples": [
+      {
+        "kiksht": "ixt imail",
+        "english": "one mile [PK 6/ 27/57]"
+      }
+    ],
+    "notes": [
+      "Borrowed from English; per- haps made up by Phillip Kahclamat."
+    ]
+  },
+  "i-makluni": {
+    "root": "i-makluni",
+    "partOfSpeech": "n",
+    "definition": "macaroni, spaghetti, noodles, pasta",
+    "notes": [
+      "A borrowing from English \"macaroni,\" which is in turn a bor- rowing from Italian."
+    ]
+  },
   "i-ładat": {
     "root": "i-ładat",
     "partOfSpeech": "n",
@@ -60040,6 +60111,14 @@
       }
     ]
   },
+  "ił-malk'ilak": {
+    "root": "ił-malk'ilak",
+    "partOfSpeech": "n",
+    "definition": "bag of ground salmon",
+    "seeAlso": [
+      "it-k'ilak"
+    ]
+  },
   "ił-łpuksh": {
     "root": "ił-łpuksh",
     "partOfSpeech": "n",
@@ -62370,6 +62449,135 @@
       }
     ]
   },
+  "madnux": {
+    "root": "madnux",
+    "partOfSpeech": "conj",
+    "definition": "but"
+  },
+  "mag̲a": {
+    "root": "mag̲a",
+    "partOfSpeech": "conj",
+    "definition": "but, now, and, only, just",
+    "examples": [
+      {
+        "kiksht": "mag̲a mait'ax",
+        "english": "now as for yourself"
+      },
+      {
+        "kiksht": "Ixat ikala mag̲a naika anduya.",
+        "english": "One man and I will go. [Dyk; accepted with some hesitation by GT 12/30/97]"
+      },
+      {
+        "kiksht": "Mag̲a łsxitkt.",
+        "english": "All they're doing is looking [used at one with whom one is angry]."
+      },
+      {
+        "kiksht": "[trans- lated",
+        "english": "you're in Dyk, corrected by GT, MMc]"
+      }
+    ],
+    "notes": [
+      "Probably related to ag̲a. Note from Sapir (WT p.233): \"It is possible that mag̲a is a stereotyped rapid pronunciation of k'm' ag̲a ('butno, and now'). Compare g̲áng̲adix (as well as áng̲adix), \"long ago\" (from ag̲' áng̲adix, 'now long ago').\""
+    ],
+    "seeAlso": [
+      "k'mag̲a, ag̲a"
+    ]
+  },
+  "mag̲akwapt": {
+    "root": "mag̲akwapt",
+    "partOfSpeech": "conj",
+    "definition": "but, and then",
+    "examples": [
+      {
+        "kiksht": "Mag̲akwapt qengi imyux?",
+        "english": "And then what did you do to him? [Dyk]"
+      }
+    ],
+    "notes": [
+      "This is probably a contraction of k'ma ag̲a kwapt \"but now then.\""
+    ],
+    "seeAlso": [
+      "kwapt, makwapt"
+    ]
+  },
+  "mag̲maq": {
+    "root": "mag̲maq",
+    "partOfSpeech": "part",
+    "definition": "eat hurriedly, eat in gulps, gulp down",
+    "examples": [
+      {
+        "kiksht": "Mag̲maq ixłxlém.",
+        "english": "He is eating hurriedly, eating in gulps. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "shaimag̲máq"
+    ]
+  },
+  "maika": {
+    "root": "maika",
+    "partOfSpeech": "pron",
+    "definition": "you",
+    "notes": [
+      "Independent personal pro- noun."
+    ]
+  },
+  "maima": {
+    "root": "maima",
+    "partOfSpeech": "pron",
+    "definition": "only you"
+  },
+  "mait'a": {
+    "root": "mait'a",
+    "partOfSpeech": "pron",
+    "definition": "you also"
+  },
+  "mait'ax": {
+    "root": "mait'ax",
+    "partOfSpeech": "pron",
+    "definition": "you also"
+  },
+  "mak'aima": {
+    "root": "mak'aima",
+    "partOfSpeech": "pron",
+    "definition": "by yourself, you alone"
+  },
+  "makwapt": {
+    "root": "makwapt",
+    "partOfSpeech": "conj",
+    "definition": "but",
+    "examples": [
+      {
+        "kiksht": "Gayúyamam makwapt k'aya gayuyam.",
+        "english": "He went to get there but he never got there."
+      },
+      {
+        "kiksht": "Makwapt łsxítkt!",
+        "english": "Don't stand there looking at me! [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "k'ma, kwapt, mag̲akwapt"
+    ]
+  },
+  "makwsht": {
+    "root": "makwsht",
+    "partOfSpeech": "num",
+    "definition": "two"
+  },
+  "makwshtba wigwa": {
+    "root": "makwshtba wigwa",
+    "partOfSpeech": "n",
+    "definition": "Tuesday",
+    "notes": [
+      "Found in Wishram Texts."
+    ]
+  },
+  "makwshttłiyał": {
+    "root": "makwshttłiyał",
+    "partOfSpeech": "num",
+    "definition": "twenty"
+  },
   "qengi": {
     "root": "qengi",
     "partOfSpeech": "pron",
@@ -63000,6 +63208,20 @@
       "-a-xi-LXUŁ, a-lxułat"
     ]
   },
+  "wa-mal": {
+    "root": "wa-mal",
+    "partOfSpeech": "n",
+    "definition": "marrow, nut kernel, nut meat",
+    "forms": [
+      {
+        "kiksht": "ayamal",
+        "english": "inside of a bone"
+      }
+    ],
+    "seeAlso": [
+      "ił-iamalks"
+    ]
+  },
   "wa-łala": {
     "root": "wa-łala",
     "partOfSpeech": "n",
@@ -63182,6 +63404,15 @@
     "definition": "groom, married man",
     "seeAlso": [
       "-limx"
+    ]
+  },
+  "wi-mak": {
+    "root": "wi-mak",
+    "partOfSpeech": "n",
+    "definition": "gift, giving away [this meaning and the preceding rejected by GT, 12/30/97], Saturday [only this meaning accepted by GT]",
+    "examples": [],
+    "seeAlso": [
+      "-MA-kw, i-gimak, i-qigimak, it-qigimak, i-gimalk, i-xigimak, -xi-gi- MA-kw"
     ]
   },
   "wi-mał": {

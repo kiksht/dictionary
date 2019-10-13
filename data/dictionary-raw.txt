@@ -17701,3 +17701,78 @@ See also: i-gimak
 -MA-qw [vb] refer to someone dead
 Forms: ik’imalq “he is referring to someone dead” chumalq “he is refer- ring to her who is dead” ic ̈malqemchk “he referred to her who is dead” [Dyk]
 Notes: Probably means referring to someone dead by another name, since the dead person’s name cannot be used until it is given to someone else. Compare shimsha in Sahaptin.
+
+
+
+
+
+
+-MA-qw [vb] battle, war against
+Forms: chiumÅqwt “he is battling him” ichiumaqwt “he battled him” nichiumÅqwt “he battled him, was battling him” nichiumalq “he was battling him (continually)” nichiumÅlqemchk “he battled him (continually)” ixmaqwt “he is bat- tling” galixmalq “he battles (regu- larly)” galixmaqwtam “he went to war” galixadmaqwtam “he came to war” [Dyk]
+See also: i-qamaqwt
+
+a-macis [n] matches
+Notes: Borrowed from English.
+
+madnux [conj] but
+
+ma©a [conj] but, now, and, only, just
+Examples: ma©a mait’ax “now as for yourself” Ixat ikala ma©a naika anduya. “One man and I will go.” [Dyk; accepted with some hesitation by GT 12/30/97] Ma©a ¬sxitkt. “All they’re doing is looking [used at one with whom one is angry].” [trans- lated “you’re” in Dyk, corrected by GT, MMc]
+Notes: Probably related to a©a. Note from Sapir (WT p.233): “It is possible that ma©a is a stereotyped rapid pronunciation of k’m’ a©a (‘butno, and now’). Compare ©Ån©adix (as well as Ån©adix), “long ago” (from a©’ Ån©adix, ‘now long ago’).”
+See also: k’ma©a, a©a
+
+ma©akwapt [conj] but, and then
+Examples: Ma©akwapt qengi imyux? “And then what did you do to him?” [Dyk]
+Notes: This is probably a contraction of k’ma a©a kwapt “but now then.”
+See also: kwapt, makwapt
+
+ma©maq [part] eat hurriedly, eat in gulps, gulp down
+Examples: Ma©maq ix¬xlém. “He is eating hurriedly, eating in gulps.” [Dyk]
+See also: shaima©mÅq
+
+maika [pron] you
+Notes: Independent personal pro- noun.
+
+i-mail [n] mile
+Examples: ixt imail “one mile” [PK 6/ 27/57]
+Notes: Borrowed from English; per- haps made up by Phillip Kahclamat.
+
+maima [pron] only you
+
+mait’a [pron] you also
+
+mait’ax [pron] you also
+
+wi-mak [n] gift, giving away [this meaning and the preceding rejected by GT, 12/30/97], Saturday [only this meaning accepted by GT]
+Examples: Saturday is called by this name because it was the day when rations were given out. Apparently igimak and wimak are both equally correct
+See also: -MA-kw, i-gimak, i-qigimak, it-qigimak, i-gimalk, i-xigimak, -xi-gi- MA-kw
+
+i-makluni [n] macaroni, spaghetti, noodles, pasta
+Notes: A borrowing from English “macaroni,” which is in turn a bor- rowing from Italian.
+
+mak’aima [pron] by yourself, you alone
+
+makwapt [conj] but
+Examples: Gay ̈yamam makwapt k’aya gayuyam. “He went to get there but he never got there.” Makwapt ¬sxˆtkt! “Don’t stand there looking at me!” [Dyk]
+See also: k’ma, kwapt, ma©akwapt
+
+makwsht [num] two
+
+makwshtba wigwa [n] Tuesday
+Notes: Found in Wishram Texts.
+
+makwshtt¬iya¬ [num] twenty
+
+wa-mal [n] marrow, nut kernel, nut meat
+Forms: ayamal “inside of a bone”
+See also: i¬-iamalks
+
+a-malens [n] watermelon
+Forms: Does not change for plural.
+Notes: Borrowed from English “melon.”
+See also: wÅdemalins
+
+a-maliw [n] tiger lily, lilium Washingtonium
+
+i¬-malk’ilak [n] bag of ground salmon
+See also: it-k’ilak
