@@ -5086,6 +5086,17 @@
       }
     ]
   },
+  "-LALAM": {
+    "root": "-LALAM",
+    "partOfSpeech": "vb",
+    "definition": "sing",
+    "forms": [
+      {
+        "kiksht": "chdúlalam",
+        "english": "he is singing it[it- ] (song, idlálalmax) [Dyk]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -6903,6 +6914,33 @@
       }
     ]
   },
+  "-gl-LALAM": {
+    "root": "-gl-LALAM",
+    "partOfSpeech": "vb",
+    "definition": "sing for, sing with",
+    "forms": [
+      {
+        "kiksht": "chagílalam",
+        "english": "he is singing for, with her"
+      },
+      {
+        "kiksht": "nichagéllalamchk",
+        "english": "he sang for, with her (last season)"
+      },
+      {
+        "kiksht": "nichagidlalamchk",
+        "english": "he sang for, with her (last week)"
+      },
+      {
+        "kiksht": "gachagidlalamchk",
+        "english": "he sang for, with her (last year)"
+      },
+      {
+        "kiksht": "ganagitlalamchk",
+        "english": "I sang for her (last year) [Dyk]"
+      }
+    ]
+  },
   "-gm- G̲A-it": {
     "root": "-gm- G̲A-it",
     "partOfSpeech": "vb",
@@ -7976,6 +8014,21 @@
       {
         "kiksht": "ganxig̲itkwtbaix",
         "english": "I stuck myself out (of a hole or opening) [Dyk]"
+      }
+    ]
+  },
+  "-i-k-LALA-kw-ix": {
+    "root": "-i-k-LALA-kw-ix",
+    "partOfSpeech": "vb",
+    "definition": "pay no attention to",
+    "forms": [
+      {
+        "kiksht": "iglalagwáix!",
+        "english": "pay no attention to him!"
+      },
+      {
+        "kiksht": "chiaglálakwdix",
+        "english": "he is pay- ing no attention to her [Dyk]"
       }
     ]
   },
@@ -10555,6 +10608,175 @@
         "kiksht": "iłladas",
         "english": "dishes [Dyk]"
       }
+    ]
+  },
+  "-laitix": {
+    "root": "-laitix",
+    "partOfSpeech": "n",
+    "definition": "slave",
+    "forms": [
+      {
+        "kiksht": "ilaitix",
+        "english": "(male) slave"
+      },
+      {
+        "kiksht": "alaitix",
+        "english": "(female) slave"
+      },
+      {
+        "kiksht": "iłlaitix",
+        "english": "slave"
+      },
+      {
+        "kiksht": "iłgíxltkiuksh",
+        "english": "slaves"
+      },
+      {
+        "kiksht": "enlaitix",
+        "english": "I am a slave"
+      },
+      {
+        "kiksht": "ichlaitix",
+        "english": "my (male) slave"
+      },
+      {
+        "kiksht": "aklaitix",
+        "english": "my (female) slave"
+      },
+      {
+        "kiksht": "ishlaitix",
+        "english": "2 slaves; they 2 are slaves"
+      },
+      {
+        "kiksht": "ishialaitix",
+        "english": "his 2 slaves"
+      },
+      {
+        "kiksht": "shxalaitix",
+        "english": "master and slave"
+      },
+      {
+        "kiksht": "mnalaitix",
+        "english": "I am your slave"
+      },
+      {
+        "kiksht": "chnalaitix",
+        "english": "I am his slave"
+      },
+      {
+        "kiksht": "gnalaitix",
+        "english": "I am her slave"
+      },
+      {
+        "kiksht": "emtgnalaitix",
+        "english": "I am you 2 folks' slave"
+      },
+      {
+        "kiksht": "shgnalaitix",
+        "english": "I am their slave"
+      },
+      {
+        "kiksht": "emshgnalaitix",
+        "english": "I am you folks' slave"
+      },
+      {
+        "kiksht": "tgnalaitix",
+        "english": "I am their slave"
+      },
+      {
+        "kiksht": "łgnalaitix",
+        "english": "I am their slave"
+      },
+      {
+        "kiksht": "yamalaitix",
+        "english": "you are my slave"
+      },
+      {
+        "kiksht": "chmalaitix",
+        "english": "you are his slave"
+      },
+      {
+        "kiksht": "gmalaitix",
+        "english": "you are her slave"
+      },
+      {
+        "kiksht": "qmalaitix",
+        "english": "you are our slave"
+      },
+      {
+        "kiksht": "shgmalaitix",
+        "english": "you are their (2) slave"
+      },
+      {
+        "kiksht": "tgmalaitix",
+        "english": "you are their slave"
+      },
+      {
+        "kiksht": "łgmalaitix",
+        "english": "you are their slave"
+      },
+      {
+        "kiksht": "chendalaitix",
+        "english": "we 2 (not including you) are his slaves"
+      },
+      {
+        "kiksht": "chtxalaitix",
+        "english": "we 2 (you and I) are his slaves"
+      },
+      {
+        "kiksht": "yamdalaitix",
+        "english": "you 2 are my slaves [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Enlaitix anxuxa.",
+        "english": "I'll be a slave. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Note from Sapir [WT p. 174] on ilaitix and ig̲ixltkiu: \"Of these two words for 'slave,' ilaitix belongs more properly to Lower Chinook, but has become current, probably through the medium of the Chinook jargon, in Wishram [Wasco] as well.\""
+    ],
+    "seeAlso": [
+      "id-laitiximum"
+    ]
+  },
+  "-lakas": {
+    "root": "-lakas",
+    "partOfSpeech": "n",
+    "definition": "mouse",
+    "forms": [
+      {
+        "kiksht": "ilakas",
+        "english": "(male) mouse"
+      },
+      {
+        "kiksht": "alakas",
+        "english": "(female) mouse"
+      },
+      {
+        "kiksht": "idlákasks",
+        "english": "mice [Dyk]"
+      },
+      {
+        "kiksht": "ishlakas",
+        "english": "2 mice [HS 7/17/ 51]"
+      },
+      {
+        "kiksht": "idlagásks",
+        "english": "mice [GT, MMc 6/4/ 98] [The form ilakas brought on great laughter from Gladys Thomp- son and Madeline McInturff [6/4/ 98];"
+      },
+      {
+        "kiksht": "Madeline said",
+        "english": "I think they re- ferred to them all as alakas.]"
+      },
+      {
+        "kiksht": "alagasks",
+        "english": "mice [WTSup1.1]"
+      }
+    ],
+    "seeAlso": [
+      "ił-alakásgwilit"
     ]
   },
   "-n-GA-kw": {
@@ -48645,6 +48867,27 @@
     ],
     "pronunciation": "Pronunciation varies between iladám and iládam."
   },
+  "i-laitglit": {
+    "root": "i-laitglit",
+    "partOfSpeech": "n",
+    "definition": "place of willows",
+    "seeAlso": [
+      "i-láitk, Chalaitglit, i- chalaitglit"
+    ]
+  },
+  "i-lak'achen": {
+    "root": "i-lak'achen",
+    "partOfSpeech": "n",
+    "definition": "larch, tamarack"
+  },
+  "i-láitk": {
+    "root": "i-láitk",
+    "partOfSpeech": "n",
+    "definition": "willows",
+    "seeAlso": [
+      "i-laitglit, Chalaitglit"
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -48977,6 +49220,14 @@
     "definition": "lines (in harness)",
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "id-láitiximum": {
+    "root": "id-láitiximum",
+    "partOfSpeech": "n",
+    "definition": "slavery",
+    "seeAlso": [
+      "-laitix"
     ]
   },
   "id-náchk": {
@@ -52847,6 +53098,17 @@
       "-xl-WICHA-tk"
     ]
   },
+  "it-laish": {
+    "root": "it-laish",
+    "partOfSpeech": "n",
+    "definition": "rice",
+    "notes": [
+      "Borrowed from English. Alice Florendo used the prefix a- with this word, Phillip Kahclamat used the prefix it-, Gladys Thompson [6/4/98] used prefix ił-: iłláish."
+    ],
+    "seeAlso": [
+      "a-laish, ił-laish"
+    ]
+  },
   "itgachaxelqwłimax akłmín": {
     "root": "itgachaxelqwłimax akłmín",
     "partOfSpeech": "n",
@@ -56245,6 +56507,24 @@
     "seeAlso": [
       "qalaqbaya, k'itłxau"
     ]
+  },
+  "lakt": {
+    "root": "lakt",
+    "partOfSpeech": "num",
+    "definition": "four"
+  },
+  "laktba wigwa": {
+    "root": "laktba wigwa",
+    "partOfSpeech": "n",
+    "definition": "Thursday",
+    "notes": [
+      "Literally \"fourth day.\" This was suggested by Dell Hymes, follow- ing the pattern of makwshtba wigwa, which is found in Wishram Texts for \"Tuesday.\""
+    ]
+  },
+  "lakttłiyał": {
+    "root": "lakttłiyał",
+    "partOfSpeech": "num",
+    "definition": "forty"
   },
   "qengi": {
     "root": "qengi",
