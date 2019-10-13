@@ -18137,3 +18137,35 @@ See also: emlala, damlalÅ
 i-mlamak [n] distributing badly, giving out badly
 Forms: imimlamak “you are a bad distributer”
 See also: -MA-kw, i-mlagimak
+
+
+
+
+
+i-mlaxˆalix [n] poor young unmar- ried man [Dyk], unwanted bachelor, rejected bachelor [GT 12/30/97]
+Forms: ichamlaxˆalix “her poor bach- elor”
+See also: i-xial, i-t’uxwialix
+
+i¬-mlaxutaksh [n] eyelashes
+
+i-mqt [n] being sick
+Forms: iyamqt “he is sick” [WTII.4.4]
+See also: -mqt
+
+-MQT [vb] die, be dead
+Forms: anumqda “I will die” amumqda “you will die” ayumqda “he will die” alumqda “she will die” yumqt “he is dead” [Dyk] umqt “she is dead” [GT, MMc 1/14/99] shtumqt “they 2 are dead” numqtim “I am dying” yumqtim “he is dying” dumqtim, tgmqtim “they are dying” [Dyk] ig ̈mqt “she died instantly” [apparently contrasts with igumaqt “she died,” according to GT, MMc 1/ 14/99] niy ̈mqt “he was dead” [ap- parently contrasts with niyumaqt “he died”] niyumqtim “he was dying” niyumqtimchk “he died (again and again; was trying to die; became dying)” nigidmqt “he was dead; he died (last week)” nishdumqt “they 2 were dead (last season)” nishdemqt “they 2 were dead; they 2 died (last week)” nigademqt “she was dead; she died (last week)” ganumqt “I died” [apparently the same as ganumaqt] gay ̈mqt “he died” [ap- parently the same as gayumÅqt] [Dyk] ¬umqt “it is dead” [GT, MMc 1/14/99; they reject this as a transla- tion for “they are dead,” for which they give ¬x¬ait]
+Examples: Kw’is asandi yaxatka nigidemqt. “Nine weeks ago he died.” Makwsht i¬x yaxatka galidmqt. “Two years ago he died.” Alumqdima alma atx ̈yamab§t. “She will be dying when we get there.” [implies: She will not do the dying until we get there; when we get there she will do the dying.] Alumqda alma atx ̈yamab§t. “She will die when we get there.” [implies: she will begin to die when we get there] A©iwalma umqt atx ̈yamb§t. “She will be dead by the time we get there.” Alumqdima alma agashikshignub§t aguxa. “When she gets her fits she will do the dying.” Nigadmqtˆm nixuyamb§t. “She was dying when we got there.” NigadÂqt nitxuyamb§t. “She died when we got there.” Nigadmqtˆmchk nitxuyamb§t. “She did the dying when we got there.” [GT, MMc 6/3/ 98 translate former “she died,” latter “she was dying”] Nalumqdima natxyamab§t. “When we got there she started dying.” A©iwadmqt natx ̈yamab§t. “She was already dead when we got there.” Nalumqda natx ̈yab§t. “When we got there she died.” [Dyk] K’aya numqt. “I’m not dead” [GT, MMc 1/14/99]
+Notes: There is apparently a distinc- tion in meaning between -mqt and - maqt; see the forms above and under -maqt.
+See also: wi-mqt, -MAQT
+
+wi-mqt [n] sickness, illness
+Examples: K’aya dan icha¬xpa, k’aya wimqt icha¬xpa. “There is nothing in her body, there’s no sickness in her body.” [WTI.1c4] Wimqt ikiax. “Sick- ness is going on.” [Dyk]
+See also: -MQT
+
+i-mqtim [n] dying, death, mortality
+Forms: yamqtim “his dying, his death; he is mortal” inshamqtimax “our deaths” [Dyk]
+See also: i-yamqtimix, -MQT
+
+i-mqtxat [n] unconsciousness, being unconscious
+Examples: Iyamqtxat yat¬qt. “He was a long time unconscious.” [Dyk]
+See also: -MQT

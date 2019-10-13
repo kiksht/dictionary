@@ -6183,6 +6183,177 @@
       }
     ]
   },
+  "-MQT": {
+    "root": "-MQT",
+    "partOfSpeech": "vb",
+    "definition": "die, be dead",
+    "forms": [
+      {
+        "kiksht": "anumqda",
+        "english": "I will die"
+      },
+      {
+        "kiksht": "amumqda",
+        "english": "you will die"
+      },
+      {
+        "kiksht": "ayumqda",
+        "english": "he will die"
+      },
+      {
+        "kiksht": "alumqda",
+        "english": "she will die"
+      },
+      {
+        "kiksht": "yumqt",
+        "english": "he is dead [Dyk]"
+      },
+      {
+        "kiksht": "umqt",
+        "english": "she is dead [GT, MMc 1/14/99]"
+      },
+      {
+        "kiksht": "shtumqt",
+        "english": "they 2 are dead"
+      },
+      {
+        "kiksht": "numqtim",
+        "english": "I am dying"
+      },
+      {
+        "kiksht": "yumqtim",
+        "english": "he is dying"
+      },
+      {
+        "kiksht": "dumqtim, tgmqtim",
+        "english": "they are dying [Dyk]"
+      },
+      {
+        "kiksht": "igúmqt",
+        "english": "she died instantly"
+      },
+      {
+        "kiksht": "[apparently contrasts with igumaqt",
+        "english": "she died, according to GT, MMc 1/ 14/99]"
+      },
+      {
+        "kiksht": "niyúmqt",
+        "english": "he was dead"
+      },
+      {
+        "kiksht": "[ap- parently contrasts with niyumaqt",
+        "english": "he died]"
+      },
+      {
+        "kiksht": "niyumqtim",
+        "english": "he was dying"
+      },
+      {
+        "kiksht": "niyumqtimchk",
+        "english": "he died (again and again; was trying to die; became dying)"
+      },
+      {
+        "kiksht": "nigidmqt",
+        "english": "he was dead; he died (last week)"
+      },
+      {
+        "kiksht": "nishdumqt",
+        "english": "they 2 were dead (last season)"
+      },
+      {
+        "kiksht": "nishdemqt",
+        "english": "they 2 were dead; they 2 died (last week)"
+      },
+      {
+        "kiksht": "nigademqt",
+        "english": "she was dead; she died (last week)"
+      },
+      {
+        "kiksht": "ganumqt",
+        "english": "I died [apparently the same as ganumaqt]"
+      },
+      {
+        "kiksht": "gayúmqt",
+        "english": "he died [ap- parently the same as gayumáqt] [Dyk]"
+      },
+      {
+        "kiksht": "łumqt",
+        "english": "it is dead"
+      },
+      {
+        "kiksht": "[GT, MMc 1/14/99; they reject this as a transla- tion for",
+        "english": "they are dead, for which they give łxłait]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Kw'is asandi yaxatka nigidemqt.",
+        "english": "Nine weeks ago he died."
+      },
+      {
+        "kiksht": "Makwsht iłx yaxatka galidmqt.",
+        "english": "Two years ago he died."
+      },
+      {
+        "kiksht": "Alumqdima alma atxúyamab§t.",
+        "english": "She will be dying when we get there. [implies: She will not do the dying until we get there; when we get there she will do the dying.]"
+      },
+      {
+        "kiksht": "Alumqda alma atxúyamab§t.",
+        "english": "She will die when we get there. [implies: she will begin to die when we get there]"
+      },
+      {
+        "kiksht": "Ag̲iwalma umqt atxúyamb§t.",
+        "english": "She will be dead by the time we get there."
+      },
+      {
+        "kiksht": "Alumqdima alma agashikshignub§t aguxa.",
+        "english": "When she gets her fits she will do the dying."
+      },
+      {
+        "kiksht": "Nigadmqtím nixuyamb§t.",
+        "english": "She was dying when we got there."
+      },
+      {
+        "kiksht": "NigadÂqt nitxuyamb§t.",
+        "english": "She died when we got there."
+      },
+      {
+        "kiksht": "Nigadmqtímchk nitxuyamb§t.",
+        "english": "She did the dying when we got there."
+      },
+      {
+        "kiksht": "[GT, MMc 6/3/ 98 translate former",
+        "english": "she died,"
+      },
+      {
+        "kiksht": "latter",
+        "english": "she was dying]"
+      },
+      {
+        "kiksht": "Nalumqdima natxyamab§t.",
+        "english": "When we got there she started dying."
+      },
+      {
+        "kiksht": "Ag̲iwadmqt natxúyamab§t.",
+        "english": "She was already dead when we got there."
+      },
+      {
+        "kiksht": "Nalumqda natxúyab§t.",
+        "english": "When we got there she died. [Dyk]"
+      },
+      {
+        "kiksht": "K'aya numqt.",
+        "english": "I'm not dead [GT, MMc 1/14/99]"
+      }
+    ],
+    "notes": [
+      "There is apparently a distinc- tion in meaning between -mqt and - maqt; see the forms above and under -maqt."
+    ],
+    "seeAlso": [
+      "wi-mqt, -MAQT"
+    ]
+  },
   "-a-gi-LXUŁ": {
     "root": "-a-gi-LXUŁ",
     "partOfSpeech": "vb",
@@ -55131,6 +55302,66 @@
       "-MA-kw, i-mlagimak"
     ]
   },
+  "i-mlaxíalix": {
+    "root": "i-mlaxíalix",
+    "partOfSpeech": "n",
+    "definition": "poor young unmar- ried man [Dyk], unwanted bachelor, rejected bachelor [GT 12/30/97]",
+    "forms": [
+      {
+        "kiksht": "ichamlaxíalix",
+        "english": "her poor bach- elor"
+      }
+    ],
+    "seeAlso": [
+      "i-xial, i-t'uxwialix"
+    ]
+  },
+  "i-mqt": {
+    "root": "i-mqt",
+    "partOfSpeech": "n",
+    "definition": "being sick",
+    "forms": [
+      {
+        "kiksht": "iyamqt",
+        "english": "he is sick [WTII.4.4]"
+      }
+    ],
+    "seeAlso": [
+      "-mqt"
+    ]
+  },
+  "i-mqtim": {
+    "root": "i-mqtim",
+    "partOfSpeech": "n",
+    "definition": "dying, death, mortality",
+    "forms": [
+      {
+        "kiksht": "yamqtim",
+        "english": "his dying, his death; he is mortal"
+      },
+      {
+        "kiksht": "inshamqtimax",
+        "english": "our deaths [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-yamqtimix, -MQT"
+    ]
+  },
+  "i-mqtxat": {
+    "root": "i-mqtxat",
+    "partOfSpeech": "n",
+    "definition": "unconsciousness, being unconscious",
+    "examples": [
+      {
+        "kiksht": "Iyamqtxat yatłqt.",
+        "english": "He was a long time unconscious. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-MQT"
+    ]
+  },
   "i-mísht": {
     "root": "i-mísht",
     "partOfSpeech": "n",
@@ -61366,6 +61597,11 @@
     "partOfSpeech": "n",
     "definition": "shale rock"
   },
+  "ił-mlaxutaksh": {
+    "root": "ił-mlaxutaksh",
+    "partOfSpeech": "n",
+    "definition": "eyelashes"
+  },
   "ił-mín": {
     "root": "ił-mín",
     "partOfSpeech": "n",
@@ -65051,6 +65287,24 @@
     ],
     "seeAlso": [
       "id-mał, małn, k'amałmt, it- k'umałmt"
+    ]
+  },
+  "wi-mqt": {
+    "root": "wi-mqt",
+    "partOfSpeech": "n",
+    "definition": "sickness, illness",
+    "examples": [
+      {
+        "kiksht": "K'aya dan ichałxpa, k'aya wimqt ichałxpa.",
+        "english": "There is nothing in her body, there's no sickness in her body. [WTI.1c4]"
+      },
+      {
+        "kiksht": "Wimqt ikiax.",
+        "english": "Sick- ness is going on. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-MQT"
     ]
   },
   "wi-łq": {
