@@ -6741,6 +6741,71 @@
       "i-k'inatłxamat, i- k'inantłxmat, ił-k'inántłxmat, i- qixinantłx"
     ]
   },
+  "-NAX̲TŁ": {
+    "root": "-NAX̲TŁ",
+    "partOfSpeech": "vb",
+    "definition": "look for, seek, hunt for",
+    "forms": [
+      {
+        "kiksht": "nyunaxtł",
+        "english": "I am looking for him"
+      },
+      {
+        "kiksht": "chunáxtł",
+        "english": "he is looking for her"
+      },
+      {
+        "kiksht": "giunáxtł",
+        "english": "she is looking for him"
+      },
+      {
+        "kiksht": "agiunaxtła",
+        "english": "she will look for him, hunt for him"
+      },
+      {
+        "kiksht": "chatnaxtł",
+        "english": "he sought her"
+      },
+      {
+        "kiksht": "ichunaxtłchk",
+        "english": "he just looked for her"
+      },
+      {
+        "kiksht": "igiunaxtłchk",
+        "english": "she looked for him"
+      },
+      {
+        "kiksht": "nichiunaxtłam",
+        "english": "he went to look for him"
+      },
+      {
+        "kiksht": "nichitnaxtłam",
+        "english": "he came to look for him"
+      },
+      {
+        "kiksht": "gachłunaxtłam",
+        "english": "he went to seek them"
+      },
+      {
+        "kiksht": "ik'inaxtł",
+        "english": "he is looking (for something)"
+      },
+      {
+        "kiksht": "ixtk'inaxtł",
+        "english": "he was look- ing (for something)"
+      },
+      {
+        "kiksht": "yúnaxtłix",
+        "english": "he has been looked for [Dyk]"
+      }
+    ],
+    "notes": [
+      "This root is given in this form by Dyk. In Wishram Texts, however, it always appears as -naxł."
+    ],
+    "seeAlso": [
+      "i-k'inaxtł, -NAX̲Ł"
+    ]
+  },
   "-NAX̲Ł": {
     "root": "-NAX̲Ł",
     "partOfSpeech": "vb",
@@ -6770,6 +6835,20 @@
     ],
     "seeAlso": [
       "-NA-tłx"
+    ]
+  },
+  "-NI": {
+    "root": "-NI",
+    "partOfSpeech": "vb",
+    "definition": "drift, float",
+    "examples": [
+      {
+        "kiksht": "Łtxnit daułax iłk'ashkash.",
+        "english": "This child is drifting towards us 2. [WTI.1a1]"
+      }
+    ],
+    "seeAlso": [
+      "-x-NI, -X̲UNI"
     ]
   },
   "-a-gi-LXUŁ": {
@@ -22803,6 +22882,11 @@
       "i-gikshtxul"
     ]
   },
+  "Nayaqachix": {
+    "root": "Nayaqachix",
+    "partOfSpeech": "place",
+    "definition": "Wishram winter village"
+  },
   "Notes: Refers to oak of which igaben, digging stick, is made": {
     "root": "Notes: Refers to oak of which igaben, digging stick, is made",
     "partOfSpeech": "Notes: Refers to oak of which igaben, digging stick, is made",
@@ -25069,6 +25153,52 @@
     "root": "a-naq'naq'",
     "partOfSpeech": "n",
     "definition": "windpipe, glottis"
+  },
+  "a-nemshksh": {
+    "root": "a-nemshksh",
+    "partOfSpeech": "n",
+    "definition": "women",
+    "forms": [
+      {
+        "kiksht": "anémshsksh, wanémshsksh",
+        "english": "a few women, some unknown women"
+      },
+      {
+        "kiksht": "iłnémshksh",
+        "english": "some known women"
+      },
+      {
+        "kiksht": "idnémshksh",
+        "english": "women"
+      },
+      {
+        "kiksht": "iłknémshksh",
+        "english": "my women [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "idnémshksh idelxam",
+        "english": "fe- male population [Dyk]"
+      }
+    ],
+    "notes": [
+      "In contemporary Wasco, usu- ally found only in plural; ag̲agilak is used for the singular. Idnémshksh is the regular plural of ag̲agilak for contemporary Wasco speakers."
+    ],
+    "seeAlso": [
+      "a-g̲agilak"
+    ]
+  },
+  "a-ng̲uqmat": {
+    "root": "a-ng̲uqmat",
+    "partOfSpeech": "n",
+    "definition": "fish pole",
+    "forms": [
+      {
+        "kiksht": "iłeng̲uqmat",
+        "english": "fish poles [HS] -NI float, drift"
+      }
+    ]
   },
   "a-łashqw'imliq": {
     "root": "a-łashqw'imliq",
@@ -59641,6 +59771,17 @@
       "i-kłamał, id-mał"
     ]
   },
+  "it- -nexnex": {
+    "root": "it- -nexnex",
+    "partOfSpeech": "adj n",
+    "definition": "clumsy",
+    "examples": [
+      {
+        "kiksht": "idminexnex idmikshén",
+        "english": "you are clumsy, you are a butterfin- gers [GT, MMc 5/22/96]"
+      }
+    ]
+  },
   "it- -łaqłaqwit": {
     "root": "it- -łaqłaqwit",
     "partOfSpeech": "adj n",
@@ -66408,12 +66549,52 @@
       "-x-KW'A"
     ]
   },
+  "naxux": {
+    "root": "naxux",
+    "partOfSpeech": "vb",
+    "definition": "she became, she did",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "naxuxax": {
+    "root": "naxuxax",
+    "partOfSpeech": "vb",
+    "definition": "she became",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
   "naxáilkwłichkwam": {
     "root": "naxáilkwłichkwam",
     "partOfSpeech": "vb",
     "definition": "she came to tell him",
     "seeAlso": [
       "-x-l-KWŁI"
+    ]
+  },
+  "naxłuxwait": {
+    "root": "naxłuxwait",
+    "partOfSpeech": "vb",
+    "definition": "she thought",
+    "seeAlso": [
+      "-ŁUXWA"
+    ]
+  },
+  "naya": {
+    "root": "naya",
+    "partOfSpeech": "pron",
+    "definition": "I for my part, me for my part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"you do that, I for my part do this.\""
+    ]
+  },
+  "nayax": {
+    "root": "nayax",
+    "partOfSpeech": "pron",
+    "definition": "I for my part, me for my part",
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"you do that, I for my part do this.\""
     ]
   },
   "nałenxelmuxma": {
@@ -66430,6 +66611,39 @@
     "definition": "they said",
     "seeAlso": [
       "-KIM"
+    ]
+  },
+  "negú": {
+    "root": "negú",
+    "partOfSpeech": "part",
+    "definition": "keep to oneself",
+    "examples": [
+      {
+        "kiksht": "Negú gachiux.",
+        "english": "He kept him to himself. [WTI.12.2]"
+      }
+    ]
+  },
+  "nexnex": {
+    "root": "nexnex",
+    "partOfSpeech": "part",
+    "definition": "dull, edgeless",
+    "examples": [
+      {
+        "kiksht": "Nexnex ikiax.",
+        "english": "It[i-] is becoming dull."
+      },
+      {
+        "kiksht": "Nexnex chiuxt.",
+        "english": "He is making it dull (for instance, dull- ing a knife by filing off the edge). [Dyk]"
+      },
+      {
+        "kiksht": "Nexnex akiax",
+        "english": "It[a-] is gettng dull [GT, MMc 12/30/97]"
+      }
+    ],
+    "seeAlso": [
+      "it- -nexnex, shainexnex, i- - naxnáx"
     ]
   },
   "qengi": {

@@ -18725,3 +18725,58 @@ See also: -xa-IMA
 -NA ̨Ò [vb] look for, search for
 Examples: Ga¬giunax¬ i¬a©iwam. “They looked for a medicine man.” [WTI.1c.4]
 See also: -NA ̨TÒ
+
+
+
+
+
+
+
+
+
+
+
+nax¬uxwait [vb] she thought
+See also: -ÒUXWA
+
+-NA ̨TÒ [vb] look for, seek, hunt for
+Forms: nyunaxt¬ “I am looking for him” chunÅxt¬ “he is looking for her” giunÅxt¬ “she is looking for him” agiunaxt¬a “she will look for him, hunt for him” chatnaxt¬ “he sought her” ichunaxt¬chk “he just looked for her” igiunaxt¬chk “she looked for him” nichiunaxt¬am “he went to look for him” nichitnaxt¬am “he came to look for him” gach¬unaxt¬am “he went to seek them” ik’inaxt¬ “he is looking (for something)” ixtk’inaxt¬ “he was look- ing (for something)” y ̈naxt¬ix “he has been looked for” [Dyk]
+Notes: This root is given in this form by Dyk. In Wishram Texts, however, it always appears as -nax¬.
+See also: i-k’inaxt¬, -NA ̨Ò
+
+naxux [vb] she became, she did
+See also: -x- ̨
+
+naxuxax [vb] she became
+See also: -x- ̨
+
+naya [pron] I for my part, me for my part
+Notes: Independent personal pro- noun. Usually indicates a contrast of some sort, as in “you do that, I for my part do this.”
+
+Nayaqachix [place] Wishram winter village
+
+nayax [pron] I for my part, me for my part
+Notes: Independent personal pro- noun. Usually indicates a contrast of some sort, as in “you do that, I for my part do this.”
+
+neg ̈ [part] keep to oneself
+Examples: Neg ̈ gachiux. “He kept him to himself.” [WTI.12.2]
+
+a-nemshksh [n] women
+Forms: anémshsksh, wanémshsksh “a few women, some unknown women” i¬némshksh “some known women” idnémshksh “women” i¬knémshksh “my women” [Dyk]
+Examples: idnémshksh idelxam “fe- male population” [Dyk]
+Notes: In contemporary Wasco, usu- ally found only in plural; a©agilak is used for the singular. Idnémshksh is the regular plural of a©agilak for contemporary Wasco speakers.
+See also: a-©agilak
+
+it- -nexnex [adj n] clumsy
+Examples: idminexnex idmikshén “you are clumsy, you are a butterfin- gers” [GT, MMc 5/22/96]
+
+nexnex [part] dull, edgeless
+Examples: Nexnex ikiax. “It[i-] is becoming dull.” Nexnex chiuxt. “He is making it dull (for instance, dull- ing a knife by filing off the edge).” [Dyk] Nexnex akiax “It[a-] is gettng dull” [GT, MMc 12/30/97]
+See also: it- -nexnex, shainexnex, i- - naxnÅx
+
+a-n©uqmat [n] fish pole
+Forms: i¬en©uqmat “fish poles” [HS] -NI float, drift
+
+-NI [vb] drift, float
+Examples: Òtxnit dau¬ax i¬k’ashkash. “This child is drifting towards us 2.” [WTI.1a1]
+See also: -x-NI, - ̨UNI
