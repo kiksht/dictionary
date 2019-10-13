@@ -10831,6 +10831,64 @@
       }
     ]
   },
+  "-k-MI-tłq": {
+    "root": "-k-MI-tłq",
+    "partOfSpeech": "vb",
+    "definition": "splice on, attach, lengthen, make longer",
+    "forms": [
+      {
+        "kiksht": "achikmitłg̲a",
+        "english": "he will make it[i-] longer"
+      },
+      {
+        "kiksht": "nikmitłqdix",
+        "english": "I'm length- ening it[i-], making it longer"
+      },
+      {
+        "kiksht": "chikmitłqdix",
+        "english": "he's lengthening it[i-]"
+      },
+      {
+        "kiksht": "ichikmitłq",
+        "english": "he lengthened it[i-] [GT 1/12/99]"
+      },
+      {
+        "kiksht": "chikmintłq",
+        "english": "he is attaching it[i-] to the end of it[i-], splicing it to it"
+      },
+      {
+        "kiksht": "ichiakmitłq",
+        "english": "he put an extension on it[a-], attached it[i-] to it[a-]"
+      },
+      {
+        "kiksht": "anixmitłqa",
+        "english": "I will splice it[i-] on"
+      },
+      {
+        "kiksht": "chixmitłqt",
+        "english": "he has it[i-] spliced to- gether (has attached it to itself)"
+      },
+      {
+        "kiksht": "chixmíntłq",
+        "english": "he is splicing it[i-] to- gether"
+      },
+      {
+        "kiksht": "chixmitłqt",
+        "english": "he has it[i-] spliced together"
+      },
+      {
+        "kiksht": "nixadmintłq",
+        "english": "I was splicing it[i-] on"
+      },
+      {
+        "kiksht": "ixmitłqix",
+        "english": "it[i-] has been spliced together [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-kamitłqdit"
+    ]
+  },
   "-k-gi-LA-kw": {
     "root": "-k-gi-LA-kw",
     "partOfSpeech": "vb",
@@ -13903,6 +13961,40 @@
     ],
     "notes": [
       "Implies looking about while standing still, not going in search of something or someone."
+    ]
+  },
+  "-s-k'-MI-tłkw": {
+    "root": "-s-k'-MI-tłkw",
+    "partOfSpeech": "vb",
+    "definition": "somersault, make somersault",
+    "forms": [
+      {
+        "kiksht": "csik'mintłk",
+        "english": "he is making him somersault"
+      },
+      {
+        "kiksht": "sik'mitłkux",
+        "english": "he has been made to somersault"
+      },
+      {
+        "kiksht": "sixmintłk",
+        "english": "he is somersaulting"
+      },
+      {
+        "kiksht": "sixmitłkwt",
+        "english": "he is in the act of somersaulting, has somer- saulted"
+      },
+      {
+        "kiksht": "sixatmintłk",
+        "english": "he was somer- saulting"
+      },
+      {
+        "kiksht": "nasixmitłkwa",
+        "english": "he somer- saulted [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "is-kamintłk"
     ]
   },
   "-s-k'i-LA-pa": {
@@ -17114,6 +17206,14 @@
     ],
     "seeAlso": [
       "masa, i- -mas"
+    ]
+  },
+  "-x-MI-tłq": {
+    "root": "-x-MI-tłq",
+    "partOfSpeech": "vb",
+    "definition": "splice together, attach together",
+    "notes": [
+      "Reflexive form of -k-mi-tłq. See -k-mi-tłq."
     ]
   },
   "-x-NI": {
@@ -23240,6 +23340,17 @@
     "root": "a-małtaq",
     "partOfSpeech": "n",
     "definition": "breech-clout, loincloth"
+  },
+  "a-melqwtan": {
+    "root": "a-melqwtan",
+    "partOfSpeech": "n",
+    "definition": "cheek",
+    "forms": [
+      {
+        "kiksht": "idmelqwtanksh",
+        "english": "cheeks [Dyk]"
+      }
+    ]
   },
   "a-mulal": {
     "root": "a-mulal",
@@ -47451,6 +47562,11 @@
       "mała"
     ]
   },
+  "i- -més": {
+    "root": "i- -més",
+    "partOfSpeech": "adj n",
+    "definition": "shy, bashful"
+  },
   "i- -ánana": {
     "root": "i- -ánana",
     "partOfSpeech": "adj n",
@@ -54401,6 +54517,63 @@
       "Borrowed from English."
     ]
   },
+  "i-mc'una": {
+    "root": "i-mc'una",
+    "partOfSpeech": "n",
+    "definition": "parsnip-like plant -MDA see -MT"
+  },
+  "i-mdalal": {
+    "root": "i-mdalal",
+    "partOfSpeech": "n",
+    "definition": "regalia [HS 7/15/54], women's trinkets in a pouch, as beads, shells, etc. [Dyk]"
+  },
+  "i-melxtk'ulmat": {
+    "root": "i-melxtk'ulmat",
+    "partOfSpeech": "n",
+    "definition": "tongue",
+    "forms": [
+      {
+        "kiksht": "imimelxtk'ulmat",
+        "english": "your tongue"
+      },
+      {
+        "kiksht": "imimelxtgulmat",
+        "english": "your big tongue [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Yaima imelxwtk'ulmat iximat.",
+        "english": "There is only the tongue lying down. [WTI.1m.6]"
+      }
+    ]
+  },
+  "i-mélk": {
+    "root": "i-mélk",
+    "partOfSpeech": "n",
+    "definition": "front part of upper leg"
+  },
+  "i-mélq": {
+    "root": "i-mélq",
+    "partOfSpeech": "n",
+    "definition": "thigh-bone"
+  },
+  "i-mg̲wá": {
+    "root": "i-mg̲wá",
+    "partOfSpeech": "n",
+    "definition": "having one's mouth full",
+    "examples": [
+      {
+        "kiksht": "Iyamg̲wa ixelp'álaulal.",
+        "english": "He is talking with his mouth full. [Dyk]"
+      }
+    ]
+  },
+  "i-michkán": {
+    "root": "i-michkán",
+    "partOfSpeech": "n",
+    "definition": "small berries growing close to the ground"
+  },
   "i-ładat": {
     "root": "i-ładat",
     "partOfSpeech": "n",
@@ -60549,6 +60722,25 @@
       "it-k'ilak"
     ]
   },
+  "ił-mg̲wilit": {
+    "root": "ił-mg̲wilit",
+    "partOfSpeech": "n",
+    "definition": "spitting",
+    "forms": [
+      {
+        "kiksht": "iłiamg̲wilit",
+        "english": "he is a spitter [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-ł-MQU-it, ił-k'img̲wilit -M G̲U, -M G̲W see -MQU"
+    ]
+  },
+  "ił-mian": {
+    "root": "ił-mian",
+    "partOfSpeech": "n",
+    "definition": "shale rock"
+  },
   "ił-łpuksh": {
     "root": "ił-łpuksh",
     "partOfSpeech": "n",
@@ -63160,6 +63352,20 @@
       "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"I do that, you for your part do this.\" See example."
     ]
   },
+  "mayax": {
+    "root": "mayax",
+    "partOfSpeech": "pron",
+    "definition": "you for your part",
+    "examples": [
+      {
+        "kiksht": "Naika anxkw'aya, mayax dika ámxuxa.",
+        "english": "I will go home, you for your part you stay here. [DykGr 119]"
+      }
+    ],
+    "notes": [
+      "Independent personal pro- noun. Usually indicates a contrast of some sort, as in \"I do that, you for your part do this.\" See example."
+    ]
+  },
   "mała": {
     "root": "mała",
     "partOfSpeech": "part",
@@ -63240,6 +63446,33 @@
     ],
     "seeAlso": [
       "tł'a"
+    ]
+  },
+  "mel": {
+    "root": "mel",
+    "partOfSpeech": "part",
+    "definition": "tear, pull apart, pull off",
+    "examples": [
+      {
+        "kiksht": "Mel gachiux.",
+        "english": "He tore it[i-] off, pulled it apart. [Dyk]"
+      }
+    ]
+  },
+  "menshgiqnan": {
+    "root": "menshgiqnan",
+    "partOfSpeech": "vb",
+    "definition": "you are teaching us",
+    "seeAlso": [
+      "-giqnan"
+    ]
+  },
+  "mia": {
+    "root": "mia",
+    "partOfSpeech": "vb",
+    "definition": "go!",
+    "seeAlso": [
+      "-i"
     ]
   },
   "qengi": {

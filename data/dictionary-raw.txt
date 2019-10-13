@@ -17933,3 +17933,61 @@ Notes: Borrowed from English.
 maya [pron] you for your part
 Examples: Naika anxkw’aya, maya dika Åmxuxa. “I will go home, you for your part you stay here.” [DykGr 119]
 Notes: Independent personal pro- noun. Usually indicates a contrast of some sort, as in “I do that, you for your part do this.” See example.
+
+
+
+
+
+
+
+mayax [pron] you for your part
+Examples: Naika anxkw’aya, mayax dika Åmxuxa. “I will go home, you for your part you stay here.” [DykGr 119]
+Notes: Independent personal pro- noun. Usually indicates a contrast of some sort, as in “I do that, you for your part do this.” See example.
+
+i-mc’una [n] parsnip-like plant -MDA see -MT
+
+i-mdalal [n] regalia [HS 7/15/54], women’s trinkets in a pouch, as beads, shells, etc. [Dyk]
+
+mel [part] tear, pull apart, pull off
+Examples: Mel gachiux. “He tore it[i-] off, pulled it apart.” [Dyk]
+
+i-mélk [n] front part of upper leg
+
+i-mélq [n] thigh-bone
+
+a-melqwtan [n] cheek
+Forms: idmelqwtanksh “cheeks” [Dyk]
+
+i-melxtk’ulmat [n] tongue
+Forms: imimelxtk’ulmat “your tongue” imimelxtgulmat “your big tongue” [Dyk]
+Examples: Yaima imelxwtk’ulmat iximat. “There is only the tongue lying down.” [WTI.1m.6]
+
+menshgiqnan [vb] you are teaching us
+See also: -giqnan
+
+i- -més [adj n] shy, bashful
+
+i-m©wÅ [n] having one’s mouth full
+Examples: Iyam©wa ixelp’Ålaulal. “He is talking with his mouth full.” [Dyk]
+
+i¬-m©wilit [n] spitting
+Forms: i¬iam©wilit “he is a spitter” [Dyk]
+See also: -¬-MQU-it, i¬-k’im©wilit -M ̋U, -M ̋W see -MQU
+
+-s-k’-MI-t¬kw [vb] somersault, make somersault
+Forms: csik’mint¬k “he is making him somersault” sik’mit¬kux “he has been made to somersault” sixmint¬k “he is somersaulting” sixmit¬kwt “he is in the act of somersaulting, has somer- saulted” sixatmint¬k “he was somer- saulting” nasixmit¬kwa “he somer- saulted” [Dyk]
+See also: is-kamint¬k
+
+-k-MI-t¬q [vb] splice on, attach, lengthen, make longer
+Forms: achikmit¬©a “he will make it[i-] longer” nikmit¬qdix “I’m length- ening it[i-], making it longer” chikmit¬qdix “he’s lengthening it[i-]” ichikmit¬q “he lengthened it[i-]” [GT 1/12/99] chikmint¬q “he is attaching it[i-] to the end of it[i-], splicing it to it” ichiakmit¬q “he put an extension on it[a-], attached it[i-] to it[a-]” anixmit¬qa “I will splice it[i-] on” chixmit¬qt “he has it[i-] spliced to- gether (has attached it to itself)” chixmˆnt¬q “he is splicing it[i-] to- gether” chixmit¬qt “he has it[i-] spliced together” nixadmint¬q “I was splicing it[i-] on” ixmit¬qix “it[i-] has been spliced together” [Dyk]
+See also: i-kamit¬qdit
+
+-x-MI-t¬q [vb] splice together, attach together
+Notes: Reflexive form of -k-mi-t¬q. See -k-mi-t¬q.
+
+mia [vb] go!
+See also: -i
+
+i¬-mian [n] shale rock
+
+i-michkÅn [n] small berries growing close to the ground
