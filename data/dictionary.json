@@ -161,6 +161,14 @@
       "i-kxalal"
     ]
   },
+  "(w)i-lxchaq": {
+    "root": "(w)i-lxchaq",
+    "partOfSpeech": "n",
+    "definition": "dew, frost",
+    "seeAlso": [
+      "yalxcheg̲ix"
+    ]
+  },
   "- -'adau": {
     "root": "- -'adau",
     "partOfSpeech": "n",
@@ -5497,6 +5505,20 @@
         "kiksht": "ixlúlamit",
         "english": "he is a freak [Dyk]"
       }
+    ]
+  },
+  "-LXAM": {
+    "root": "-LXAM",
+    "partOfSpeech": "vb",
+    "definition": "say to, tell",
+    "forms": [
+      {
+        "kiksht": "gagiulxam",
+        "english": "she said to him, she told him"
+      }
+    ],
+    "seeAlso": [
+      "i-k'ilxamnił, i-lxamnił"
     ]
   },
   "-a-gl- G̲AYA": {
@@ -11071,6 +11093,36 @@
       }
     ]
   },
+  "-l-LX": {
+    "root": "-l-LX",
+    "partOfSpeech": "vb",
+    "definition": "thrust through, thrust into",
+    "forms": [
+      {
+        "kiksht": "achialulxma",
+        "english": "he will thrust it[i-] through, into it[a-]"
+      },
+      {
+        "kiksht": "chialúlxt",
+        "english": "he has it[i-] thrust through it[a-]"
+      },
+      {
+        "kiksht": "chilk'ílxt",
+        "english": "he has something thrust through it[i-]"
+      },
+      {
+        "kiksht": "ichilk'ílx",
+        "english": "he thrust something through it[i-]"
+      },
+      {
+        "kiksht": "inilk'ílx",
+        "english": "I thrust something through it[i-] [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "shilulxix"
+    ]
+  },
   "-l-gi-KSHT-im": {
     "root": "-l-gi-KSHT-im",
     "partOfSpeech": "vb",
@@ -11540,6 +11592,36 @@
     ],
     "seeAlso": [
       "wa-limx, wi-límx, ish-límx, id-limxauyuks, i-limxamum"
+    ]
+  },
+  "-lxakwshdait": {
+    "root": "-lxakwshdait",
+    "partOfSpeech": "vb",
+    "definition": "not answer, not talk back to, pay no attention to",
+    "forms": [
+      {
+        "kiksht": "ichialxakwshdait",
+        "english": "he made him not talk back to, not answer, pay no attention to, her"
+      },
+      {
+        "kiksht": "ixilxakwshdait",
+        "english": "he has himself not answering him"
+      },
+      {
+        "kiksht": "ixilkwshdalit",
+        "english": "he is not answering him (at different times)"
+      },
+      {
+        "kiksht": "igixilxakwshdait",
+        "english": "he did not talk back to him"
+      },
+      {
+        "kiksht": "igaxailxakwshdait",
+        "english": "she did not talk back to him [Dyk]"
+      }
+    ],
+    "notes": [
+      "Refers to a refusal to answer or respond because the other is con- sidered unreasonable, not out of fear. This is undoubtedly a compound stem, but it is not yet clear what its analysis is."
     ]
   },
   "-líunan": {
@@ -50193,6 +50275,20 @@
     "partOfSpeech": "n",
     "definition": "earthworm [Dyk], angle- worm [PK 8/8/55]"
   },
+  "i-lxamnił": {
+    "root": "i-lxamnił",
+    "partOfSpeech": "n",
+    "definition": "telling, being a messen- ger",
+    "forms": [
+      {
+        "kiksht": "iyalxamnił",
+        "english": "he is a messenger (for instance, a person sent to tell people to come to meetings) [AM 7/ 5/54]"
+      }
+    ],
+    "seeAlso": [
+      "-LXAM"
+    ]
+  },
   "i-láitk": {
     "root": "i-láitk",
     "partOfSpeech": "n",
@@ -50214,6 +50310,20 @@
         "kiksht": "itlámitusks",
         "english": "op- ponents [tentatively suggested by GT 6/4/98]"
       }
+    ]
+  },
+  "i-lúx": {
+    "root": "i-lúx",
+    "partOfSpeech": "n",
+    "definition": "being willing",
+    "examples": [
+      {
+        "kiksht": "Iyalúx ikala.",
+        "english": "He is a will- ing fellow. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "lux"
     ]
   },
   "iagluxtix": {
@@ -58294,31 +58404,37 @@
   "lux": {
     "root": "lux",
     "partOfSpeech": "part",
-    "definition": "blind, cover up",
+    "definition": "be willing",
     "examples": [
       {
-        "kiksht": "Lux ixa isxíluqmit!",
-        "english": "Pull down the shade! (literally 'blind the window! Cover up the window!')"
-      },
-      {
-        "kiksht": "Luxlúx ikiax.",
-        "english": "He is becoming blind."
-      },
-      {
-        "kiksht": "Luxlux ichiux",
-        "english": "He covered him up. [Dyk]"
-      },
-      {
-        "kiksht": "Luxlux galixátx.",
-        "english": "He went blind."
-      },
-      {
-        "kiksht": "Luxlux ikiax isxiluqmit.",
-        "english": "The windows are blind. [PK 6/29/56]"
+        "kiksht": "Lux enkiax.",
+        "english": "I am willing. [Dyk]"
       }
     ],
-    "notes": [
-      "It is not clear whether this is the same word as lux \"bake under- ground.\""
+    "seeAlso": [
+      "i-lúx"
+    ]
+  },
+  "luxlúx": {
+    "root": "luxlúx",
+    "partOfSpeech": "part",
+    "definition": "steal",
+    "examples": [
+      {
+        "kiksht": "At'at'áłia ikauxau idelxam luxlúx shktuxt.",
+        "english": "At'at'ałia and Owl are stealing people. [WTI.1j.1]"
+      }
+    ]
+  },
+  "luxw": {
+    "root": "luxw",
+    "partOfSpeech": "part",
+    "definition": "roast",
+    "examples": [
+      {
+        "kiksht": "Luxw akduxwa.",
+        "english": "She would roast them. [WTI.18.2]"
+      }
     ]
   },
   "qengi": {
@@ -58864,6 +58980,17 @@
       }
     ]
   },
+  "wa-lxayu": {
+    "root": "wa-lxayu",
+    "partOfSpeech": "n",
+    "definition": "seal",
+    "forms": [
+      {
+        "kiksht": "walxáyumax",
+        "english": "seals [Dyk]"
+      }
+    ]
+  },
   "wi-'ísh": {
     "root": "wi-'ísh",
     "partOfSpeech": "n",
@@ -58959,17 +59086,17 @@
     "definition": "earth, ground, land, year",
     "forms": [
       {
-        "kiksht": "iłélx",
+        "kiksht": "iłélx",
         "english": "years"
       },
       {
-        "kiksht": "wilxmax̲",
+        "kiksht": "wilxmax",
         "english": "lands"
       }
     ],
     "examples": [
       {
-        "kiksht": "Wilxpa nux̲t.",
+        "kiksht": "Wilxpa nuxt.",
         "english": "I'm sitting on the ground."
       },
       {
@@ -58981,12 +59108,12 @@
         "english": "this year; this ground"
       },
       {
-        "kiksht": "Iwi'iwi gachiux̲ix saqw' wilx igunat.",
-        "english": "The Chinook salmon looked carefully over all the land."
+        "kiksht": "Iwi'iwi gachiuxix saqw' wilx igunat.",
+        "english": "The Chinook salmon looked care- fully over all the land."
       },
       {
-        "kiksht": "We:lx wilx igix̲ux̲ix.",
-        "english": "Ground, ground it made itself (as when after the snow melts,ground appears everywhere) [Dyk]"
+        "kiksht": "We:lx wilx igixuxix.",
+        "english": "Ground, ground it made itself (as when after the snow melts, ground appears everywhere) [Dyk]"
       }
     ],
     "seeAlso": [
