@@ -18780,3 +18780,95 @@ Forms: i¬en©uqmat “fish poles” [HS] -NI float, drift
 -NI [vb] drift, float
 Examples: Òtxnit dau¬ax i¬k’ashkash. “This child is drifting towards us 2.” [WTI.1a1]
 See also: -x-NI, - ̨UNI
+
+
+
+
+
+
+
+
+
+
+-x-NI [vb] float, drift
+Forms: yuxnˆt “he is floating (in that direction)” itxnˆt “he was floating; he is floating (in this direction)” yuxninan “he is floating about” duxninan, tekxninan “they are float- ing about” shduxninan “they 2 are floating about” [*shuxninan is not acceptable] yuxnˆnanamchk “he floated about” yuxwnˆchkwt “it is floating to the surface” yagenxnˆt “he is drifting to her” shdagelxnˆt, shagelxnˆt “they 2 are floating to her” yagenxnˆchkwt “he is floating up to the surface toward her” ixxnˆt “he is drifting away from him” [Dyk] iyugwaxnipchk “it washed ashore” [PK 9/13/56] duxnipck “early whites” [literally “they float ashore”] [DF:?] gayuxuni “he drifted along” [WTI.1a1] [said of Coyote after he turned himself into a piece of wood for Swallow sisters to pick up] galuxuni “she drifted downstream” uxuni. “she is drifting downstream” [WTI.4.16]
+See also: -NI, - ̨UNI
+
+niamtxulal [vb] I told you 2
+See also: nimxatxulal
+
+nichiux ̈lalemni¬ [vb] it[i-] always did him
+Examples: Ik’makÅn nichiux ̈lalemni¬ isk’ulia. “Coyote always got angry.” [WTSup1.2]
+See also: - ̨
+
+nichixitpshut [vb] he secretly killed him
+See also: -xl-PSHU-t
+
+nichtamni¬ [vb] he used to bring them
+
+nicht ̈chxmalmanˆ¬ [vb] he used to boil it[it-]
+See also: -CHXM
+
+nichtudinni¬ [vb] he used to kill them
+See also: -DINA
+
+nicht ̈k¬ [vb] he took them
+See also: -KÒ
+
+nichtushilÅlemni¬ [vb] he used to roast them in ashes
+See also: -SHI
+
+nicht ̈shtx [vb] he packed them on his back
+See also: -SHT ̨W
+
+nichuxadwaix [vb] he headed it[it-] off
+See also: -x-WA-ix
+
+nigaixalakwdix [vb] [meaning uncer- tain]
+Examples: May laktix nigat©uit makwsht dindin ik’un shit’ix nigaixalakwdix sitkumsun ichxÅn ichinxima. “Yesterday, May 4th, at 2:30 P.M. my son passed away.” [WTIII.3.1]
+See also: nigaixat¬’akwdix
+
+nigaixat¬’akwdix [vb] it’s past
+
+nigalgaxit [vb] it[a-] got stuck in her
+See also: -KA
+
+nigat©uit [vb] [meaning uncertain]
+Examples: May laktix nigat©uit makwsht dindin ik’un shit’ix nigaixalakwdix sitkumsun ichxÅn ichinxima. “Yesterday, May 4th, at 2:30 P.M. my son passed away.” [WTIII.3.1]
+
+nigaxtkiax [vb] she was
+See also: -XTKIA ̨
+
+nigaxa¬xum [vb] it[a-] came to an end
+See also: -x-Ò ̨UM
+
+nigem¬uxwan [vb] I like it[i-], I care for it[i-]
+See also: -gm-ÒUXWA(N)
+
+nigidimam [vb] it[i-] arrived [WTIII.2.1], he arrived [WTIII.4.1]
+See also: -I, -d-I-mam
+
+nigigitga [vb] she got it[i-]
+See also: -gl-GA
+
+nigikatxtk [vb] he has been stealing
+See also: -k-XTK
+
+nigikim [vb] he said
+See also: -KIM
+
+nigil©eltaq¬q [vb] it[i-] ran away from us
+See also: -©l-TA-q¬q
+
+nigimlutam [vb] she sent it[i-] to you
+Examples: AkxÅn nigˆmlutam ich’axwi. “My daughter wrote you.” [WTIII.2.1]
+See also: -T
+
+nigiqw’Ålalemni¬ [vb] he used to go hunting
+See also: -QW’A
+
+nigiti [vb] he came
+See also: -I
+
+nigitwaq [vb] she killed him
+See also: -WA-qw

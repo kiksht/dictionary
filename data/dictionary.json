@@ -18711,7 +18711,7 @@
       },
       {
         "kiksht": "duxninan, tekxninan",
-        "english": "they are floating about"
+        "english": "they are float- ing about"
       },
       {
         "kiksht": "shduxninan",
@@ -18738,7 +18738,7 @@
         "english": "he is floating up to the surface toward her"
       },
       {
-        "kiksht": "ix̲xnít",
+        "kiksht": "ixxnít",
         "english": "he is drifting away from him [Dyk]"
       },
       {
@@ -18747,10 +18747,14 @@
       },
       {
         "kiksht": "duxnipck",
-        "english": "early whites [literally \"they float ashore\"] [DF:?]"
+        "english": "early whites"
       },
       {
-        "kiksht": "gayux̲uni",
+        "kiksht": "[literally",
+        "english": "they float ashore] [DF:?]"
+      },
+      {
+        "kiksht": "gayuxuni",
         "english": "he drifted along [WTI.1a1] [said of Coyote after he turned himself into a piece of wood for Swallow sisters to pick up]"
       },
       {
@@ -66644,6 +66648,229 @@
     ],
     "seeAlso": [
       "it- -nexnex, shainexnex, i- - naxnáx"
+    ]
+  },
+  "niamtxulal": {
+    "root": "niamtxulal",
+    "partOfSpeech": "vb",
+    "definition": "I told you 2",
+    "seeAlso": [
+      "nimxatxulal"
+    ]
+  },
+  "nichiuxúlalemnił": {
+    "root": "nichiuxúlalemnił",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] always did him",
+    "examples": [
+      {
+        "kiksht": "Ik'makán nichiuxúlalemnił isk'ulia.",
+        "english": "Coyote always got angry. [WTSup1.2]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "nichixitpshut": {
+    "root": "nichixitpshut",
+    "partOfSpeech": "vb",
+    "definition": "he secretly killed him",
+    "seeAlso": [
+      "-xl-PSHU-t"
+    ]
+  },
+  "nichtamnił": {
+    "root": "nichtamnił",
+    "partOfSpeech": "vb",
+    "definition": "he used to bring them"
+  },
+  "nichtudinnił": {
+    "root": "nichtudinnił",
+    "partOfSpeech": "vb",
+    "definition": "he used to kill them",
+    "seeAlso": [
+      "-DINA"
+    ]
+  },
+  "nichtushilálemnił": {
+    "root": "nichtushilálemnił",
+    "partOfSpeech": "vb",
+    "definition": "he used to roast them in ashes",
+    "seeAlso": [
+      "-SHI"
+    ]
+  },
+  "nichtúchxmalmaníł": {
+    "root": "nichtúchxmalmaníł",
+    "partOfSpeech": "vb",
+    "definition": "he used to boil it[it-]",
+    "seeAlso": [
+      "-CHXM"
+    ]
+  },
+  "nichtúkł": {
+    "root": "nichtúkł",
+    "partOfSpeech": "vb",
+    "definition": "he took them",
+    "seeAlso": [
+      "-KŁ"
+    ]
+  },
+  "nichtúshtx": {
+    "root": "nichtúshtx",
+    "partOfSpeech": "vb",
+    "definition": "he packed them on his back",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "nichuxadwaix": {
+    "root": "nichuxadwaix",
+    "partOfSpeech": "vb",
+    "definition": "he headed it[it-] off",
+    "seeAlso": [
+      "-x-WA-ix"
+    ]
+  },
+  "nigaixalakwdix": {
+    "root": "nigaixalakwdix",
+    "partOfSpeech": "vb",
+    "definition": "[meaning uncer- tain]",
+    "examples": [
+      {
+        "kiksht": "May laktix nigatg̲uit makwsht dindin ik'un shit'ix nigaixalakwdix sitkumsun ichxán ichinxima.",
+        "english": "Yesterday, May 4th, at 2:30 P.M. my son passed away. [WTIII.3.1]"
+      }
+    ],
+    "seeAlso": [
+      "nigaixatł'akwdix"
+    ]
+  },
+  "nigaixatł'akwdix": {
+    "root": "nigaixatł'akwdix",
+    "partOfSpeech": "vb",
+    "definition": "it's past"
+  },
+  "nigalgaxit": {
+    "root": "nigalgaxit",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] got stuck in her",
+    "seeAlso": [
+      "-KA"
+    ]
+  },
+  "nigatg̲uit": {
+    "root": "nigatg̲uit",
+    "partOfSpeech": "vb",
+    "definition": "[meaning uncertain]",
+    "examples": [
+      {
+        "kiksht": "May laktix nigatg̲uit makwsht dindin ik'un shit'ix nigaixalakwdix sitkumsun ichxán ichinxima.",
+        "english": "Yesterday, May 4th, at 2:30 P.M. my son passed away. [WTIII.3.1]"
+      }
+    ]
+  },
+  "nigaxałxum": {
+    "root": "nigaxałxum",
+    "partOfSpeech": "vb",
+    "definition": "it[a-] came to an end",
+    "seeAlso": [
+      "-x-ŁX̲UM"
+    ]
+  },
+  "nigaxtkiax": {
+    "root": "nigaxtkiax",
+    "partOfSpeech": "vb",
+    "definition": "she was",
+    "seeAlso": [
+      "-XTKIAX̲"
+    ]
+  },
+  "nigemłuxwan": {
+    "root": "nigemłuxwan",
+    "partOfSpeech": "vb",
+    "definition": "I like it[i-], I care for it[i-]",
+    "seeAlso": [
+      "-gm-ŁUXWA(N)"
+    ]
+  },
+  "nigidimam": {
+    "root": "nigidimam",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] arrived [WTIII.2.1], he arrived [WTIII.4.1]",
+    "seeAlso": [
+      "-I, -d-I-mam"
+    ]
+  },
+  "nigigitga": {
+    "root": "nigigitga",
+    "partOfSpeech": "vb",
+    "definition": "she got it[i-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "nigikatxtk": {
+    "root": "nigikatxtk",
+    "partOfSpeech": "vb",
+    "definition": "he has been stealing",
+    "seeAlso": [
+      "-k-XTK"
+    ]
+  },
+  "nigikim": {
+    "root": "nigikim",
+    "partOfSpeech": "vb",
+    "definition": "he said",
+    "seeAlso": [
+      "-KIM"
+    ]
+  },
+  "nigilg̲eltaqłq": {
+    "root": "nigilg̲eltaqłq",
+    "partOfSpeech": "vb",
+    "definition": "it[i-] ran away from us",
+    "seeAlso": [
+      "-g̲l-TA-qłq"
+    ]
+  },
+  "nigimlutam": {
+    "root": "nigimlutam",
+    "partOfSpeech": "vb",
+    "definition": "she sent it[i-] to you",
+    "examples": [
+      {
+        "kiksht": "Akxán nigímlutam ich'axwi.",
+        "english": "My daughter wrote you. [WTIII.2.1]"
+      }
+    ],
+    "seeAlso": [
+      "-T"
+    ]
+  },
+  "nigiqw'álalemnił": {
+    "root": "nigiqw'álalemnił",
+    "partOfSpeech": "vb",
+    "definition": "he used to go hunting",
+    "seeAlso": [
+      "-QW'A"
+    ]
+  },
+  "nigiti": {
+    "root": "nigiti",
+    "partOfSpeech": "vb",
+    "definition": "he came",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "nigitwaq": {
+    "root": "nigitwaq",
+    "partOfSpeech": "vb",
+    "definition": "she killed him",
+    "seeAlso": [
+      "-WA-qw"
     ]
   },
   "qengi": {
