@@ -13574,6 +13574,36 @@
       }
     ]
   },
+  "-sh-k'-ŁQŁ": {
+    "root": "-sh-k'-ŁQŁ",
+    "partOfSpeech": "vb",
+    "definition": "hammer, blacksmith",
+    "forms": [
+      {
+        "kiksht": "kshik'ułqł",
+        "english": "she is hammering it[i-]"
+      },
+      {
+        "kiksht": "ikshik'ułqł",
+        "english": "she hammered it[i- ]"
+      },
+      {
+        "kiksht": "ichshik'ułqł",
+        "english": "he hammered it[i-]"
+      },
+      {
+        "kiksht": "shixułqł",
+        "english": "he is blacksmithing"
+      },
+      {
+        "kiksht": "shik'ułqłix",
+        "english": "it[i-] is hammered [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ish-kałqł"
+    ]
+  },
   "-sh-k-DI-pa": {
     "root": "-sh-k-DI-pa",
     "partOfSpeech": "vb",
@@ -19141,6 +19171,33 @@
     "definition": "do/put next",
     "notes": [
       "[It is not clear whether this is simply an alternate form of -łm or a distinct root.]"
+    ]
+  },
+  "-ŁQŁ": {
+    "root": "-ŁQŁ",
+    "partOfSpeech": "vb",
+    "definition": "pound, grind",
+    "forms": [
+      {
+        "kiksht": "chiułqł",
+        "english": "he is pounding it[a-] (for instance, acorn)"
+      },
+      {
+        "kiksht": "ichiak'ułqł",
+        "english": "he was pounding on it[a-]"
+      },
+      {
+        "kiksht": "axlk'iłqł",
+        "english": "she is pounding up [Dyk]"
+      },
+      {
+        "kiksht": "axlk'iłqł",
+        "english": "pounded material (including roots)"
+      },
+      {
+        "kiksht": "nalaxelk'iłqła",
+        "english": "she pounded roots yesterday [PK 8/9/55]"
+      }
     ]
   },
   "-ł-gl-KWSHTX̲": {
@@ -45948,6 +46005,17 @@
       "dałbål"
     ]
   },
+  "i- -łqdax": {
+    "root": "i- -łqdax",
+    "partOfSpeech": "adj n",
+    "definition": "long",
+    "examples": [
+      {
+        "kiksht": "Ałánałxat ichałqdax.",
+        "english": "Her hair [was] long. [WTI.13.6]"
+      }
+    ]
+  },
   "i-'ish'ish": {
     "root": "i-'ish'ish",
     "partOfSpeech": "n",
@@ -62905,6 +62973,198 @@
     "definition": "reddish",
     "seeAlso": [
       "dałbål"
+    ]
+  },
+  "łq'ap": {
+    "root": "łq'ap",
+    "partOfSpeech": "part",
+    "definition": "meet in passing, meet",
+    "examples": [
+      {
+        "kiksht": "Łq'ap ichuxa.",
+        "english": "He met her. [Dyk]"
+      },
+      {
+        "kiksht": "Iłag̲wnmixba ag̲a łq'ap galigug̲wámx qw'ábixix g̲wnmabet ishk'ichax.",
+        "english": "At the fifth time he reached close enough, about five steps off. [WTI.1m.2]"
+      }
+    ],
+    "notes": [
+      "This word formerly meant specifically \"meet in passing;\" now it refers to meeting in general. [Dyk]"
+    ]
+  },
+  "łqa": {
+    "root": "łqa",
+    "partOfSpeech": "adv",
+    "definition": "must, must have, finally",
+    "examples": [
+      {
+        "kiksht": "Łg̲a diká yaxt'a.",
+        "english": "He must have stayed here."
+      },
+      {
+        "kiksht": "Digwichix łg̲a yaxka.",
+        "english": "It must be he."
+      },
+      {
+        "kiksht": "K'aya łqa nałdimama.",
+        "english": "They must have come."
+      },
+      {
+        "kiksht": "Diká łqa yaxt'a.",
+        "english": "He's here! (as when unexpectedly seen when it was thought he had gone away with the others)"
+      },
+      {
+        "kiksht": "Ag̲a łqa nachiuxa!",
+        "english": "He fi- nally did it!"
+      },
+      {
+        "kiksht": "Qidau łqa.",
+        "english": "That must have been the way."
+      },
+      {
+        "kiksht": "Qushdiaxa łg̲a inumqt.",
+        "english": "I must have died."
+      },
+      {
+        "kiksht": "Łga pu qama ayuya.",
+        "english": "Oh, the worthless per- son goes nowhere."
+      },
+      {
+        "kiksht": "[This is a some- what",
+        "english": "cleaned up version of PK's translation; he said this sentence was very difficult to translate and this was the closest he could come.]"
+      },
+      {
+        "kiksht": "Alidímama łqa.",
+        "english": "He must be arriving here."
+      },
+      {
+        "kiksht": "Anuya alma łqa kadux.",
+        "english": "Gee, I must be going tomorrow (as when unexpectedly finding one's things packed)."
+      },
+      {
+        "kiksht": "Łqa pu ichiwaq.",
+        "english": "He in- tended to kill him, must have in- tended to kill him (but didn't)."
+      },
+      {
+        "kiksht": "Łqa ikiax dika.",
+        "english": "He must be here."
+      },
+      {
+        "kiksht": "Qidau łqa ichiux.",
+        "english": "He must have done it[i-] that way."
+      },
+      {
+        "kiksht": "Qidau łqa pu ichiux.",
+        "english": "That way he had intended to do it[i- ]."
+      },
+      {
+        "kiksht": "Łqa ichiwaq.",
+        "english": "He must have killed him. [Dyk]"
+      }
+    ],
+    "notes": [
+      "Łg̲a and łqa are two variants of the same word."
+    ],
+    "seeAlso": [
+      "łg̲a"
+    ]
+  },
+  "łqan": {
+    "root": "łqan",
+    "partOfSpeech": "part",
+    "definition": "unknown",
+    "examples": [
+      {
+        "kiksht": "K'aya ganig̲itkel dan iaxliu iyułmax, qengi łqán iyalgwilit.",
+        "english": "I have not seen what they call an iyułmax, I do not know what it looks like. [WTII.10.3]"
+      }
+    ]
+  },
+  "łqtłá": {
+    "root": "łqtłá",
+    "partOfSpeech": "vb",
+    "definition": "touch them/it!",
+    "seeAlso": [
+      "-QTŁA"
+    ]
+  },
+  "łqun": {
+    "root": "łqun",
+    "partOfSpeech": "adv",
+    "definition": "don't know, unknown, uncertain",
+    "examples": [
+      {
+        "kiksht": "dan łqun",
+        "english": "I don't know what"
+      },
+      {
+        "kiksht": "shan łqun",
+        "english": "I don't know who"
+      },
+      {
+        "kiksht": "qanchipt łqun",
+        "english": "I don't know how much"
+      },
+      {
+        "kiksht": "qanchix łqun",
+        "english": "I don't know when"
+      },
+      {
+        "kiksht": "yaxya łqun pu",
+        "english": "perhaps that would do [Dyk]"
+      },
+      {
+        "kiksht": "Łqun qengi aniuxwa iakwshxat aniluxa.",
+        "english": "Don't know what I'll do to make him a mouth. [WTI.1d.7]"
+      }
+    ],
+    "seeAlso": [
+      "qaxłkun"
+    ]
+  },
+  "łqushdiaxa": {
+    "root": "łqushdiaxa",
+    "partOfSpeech": "adv",
+    "definition": "really, truly",
+    "examples": [
+      {
+        "kiksht": "Gagilqłaxit łqushdiaxa saqw gadixelmux itshdag̲ulul.",
+        "english": "She saw that he had eaten all their acorns. [Raccoon G]"
+      }
+    ],
+    "seeAlso": [
+      "qushdiaxa"
+    ]
+  },
+  "łqusht": {
+    "root": "łqusht",
+    "partOfSpeech": "adv",
+    "definition": "indeed, truly",
+    "examples": [
+      {
+        "kiksht": "Łqusht ag̲a imi washo-xul!",
+        "english": "So, now you are a Washo speaker!"
+      },
+      {
+        "kiksht": "K'aya łqusht ayuya.",
+        "english": "He does not want to go! (but was expected to)"
+      },
+      {
+        "kiksht": "Łqusht waxshamba.",
+        "english": "That must have been at Waxsham. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "qusht"
+    ]
+  },
+  "łqła": {
+    "root": "łqła",
+    "partOfSpeech": "vb",
+    "definition": "count them!",
+    "seeAlso": [
+      "-qła"
     ]
   },
   "łáglalitix": {
