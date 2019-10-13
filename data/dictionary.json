@@ -18718,6 +18718,26 @@
       "Apparently means literally something like \"[his/her blood] fell out;\" compare -a-k-xa-DEM-kw."
     ]
   },
+  "-ł-k-ŁKA-xit": {
+    "root": "-ł-k-ŁKA-xit",
+    "partOfSpeech": "vb",
+    "definition": "be finished",
+    "forms": [
+      {
+        "kiksht": "ałshxúłgaxida",
+        "english": "it[ish-] will be finished [WTII.7.2]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ałigútłixida isik'enxat.",
+        "english": "The woven bag will be finished. [GT 1/14/99]"
+      }
+    ],
+    "seeAlso": [
+      "-ł-x-ŁKA"
+    ]
+  },
   "-ł-l-u-YA-mit": {
     "root": "-ł-l-u-YA-mit",
     "partOfSpeech": "vb",
@@ -18797,6 +18817,20 @@
     ],
     "seeAlso": [
       "a-q'adíwamat"
+    ]
+  },
+  "-ł-x-ŁKA": {
+    "root": "-ł-x-ŁKA",
+    "partOfSpeech": "vb",
+    "definition": "finish, come to an end",
+    "forms": [
+      {
+        "kiksht": "ałixułgwa",
+        "english": "it[i-] would finish, come to an end [WTII.10.1]"
+      }
+    ],
+    "seeAlso": [
+      "-ł-x-ŁKA-xit, -ŁKA"
     ]
   },
   "-ł-xl-CHKCH-kw": {
@@ -21219,6 +21253,16 @@
         "english": "bows -ŁAYU, -ŁAIW- move"
       }
     ]
+  },
+  "a-łilt'it": {
+    "root": "a-łilt'it",
+    "partOfSpeech": "n",
+    "definition": "tea kettle"
+  },
+  "a-łiłxumat": {
+    "root": "a-łiłxumat",
+    "partOfSpeech": "n",
+    "definition": "string attached to net so that when fish got in it would jerk string to let person know it was there See also: i-łixumat"
   },
   "a-łágagwli": {
     "root": "a-łágagwli",
@@ -52210,6 +52254,17 @@
       "łemxwlémt"
     ]
   },
+  "i-łixumat": {
+    "root": "i-łixumat",
+    "partOfSpeech": "n",
+    "definition": "cord used as reinforce- ment for wooden fishnet hoop",
+    "notes": [
+      "It is not clear whether this word is i-łixumat or ił-ixumat. The former has been chosen here by (very uncertain) analogy with a- łilxumat."
+    ],
+    "seeAlso": [
+      "a-łilxumat"
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -61965,6 +62020,172 @@
     ],
     "seeAlso": [
       "-PA"
+    ]
+  },
+  "łik": {
+    "root": "łik",
+    "partOfSpeech": "part",
+    "definition": "hate, reject, wish away, want (someone) to leave, want (someone) to go away",
+    "examples": [
+      {
+        "kiksht": "Łik nuxt.",
+        "english": "I want her to go away, to leave (me). [Dyk]"
+      }
+    ]
+  },
+  "łil": {
+    "root": "łil",
+    "partOfSpeech": "part",
+    "definition": "blacken, darken, put marks on",
+    "examples": [
+      {
+        "kiksht": "Łilłíl iqixux.",
+        "english": "He himself up all black."
+      },
+      {
+        "kiksht": "Łil ichiux.",
+        "english": "He made him black, put dark marks on him."
+      },
+      {
+        "kiksht": "Łil ichiuxix.",
+        "english": "He put a mark on the ground. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dałál, shaiłal"
+    ]
+  },
+  "łiluxt": {
+    "root": "łiluxt",
+    "partOfSpeech": "vb",
+    "definition": "it is on him",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
+  "łiluxtix": {
+    "root": "łiluxtix",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is done to it[i-]",
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "łilwulxt": {
+    "root": "łilwulxt",
+    "partOfSpeech": "vb",
+    "definition": "he is swollen",
+    "examples": [
+      {
+        "kiksht": "Gachig̲elkel isk'ulya iálaitix ixguqénk saqw łilwulxt isiaxus.",
+        "english": "Coyote saw that his older slave was all swollen up in his eyes. [WTI.6.3]"
+      }
+    ],
+    "seeAlso": [
+      "-ł-l-WULX"
+    ]
+  },
+  "łinqw'íayut": {
+    "root": "łinqw'íayut",
+    "partOfSpeech": "vb",
+    "definition": "they are each cling- ing to it[i-]",
+    "examples": [
+      {
+        "kiksht": "Gaqiglga ishkán namn iłk'álamat łinqw'iyayut.",
+        "english": "The cedar was taken with pebbles all clinging to it. [WTI.4.14]"
+      }
+    ],
+    "seeAlso": [
+      "-QW'IA"
+    ]
+  },
+  "łiqw'": {
+    "root": "łiqw'",
+    "partOfSpeech": "part",
+    "definition": "sniffle, draw backward through the nose",
+    "examples": [
+      {
+        "kiksht": "Łiqw'łiqw' ikiax.",
+        "english": "He is sniffling. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-k'iłiqw'łiqw"
+    ]
+  },
+  "łix": {
+    "root": "łix",
+    "partOfSpeech": "part",
+    "definition": "move",
+    "examples": [
+      {
+        "kiksht": "Łixłix chiuxt.",
+        "english": "He's moving him. [Dyk]"
+      }
+    ],
+    "pronunciation": "-i- tends to be long",
+    "seeAlso": [
+      "dałíx"
+    ]
+  },
+  "łixt": {
+    "root": "łixt",
+    "partOfSpeech": "num",
+    "definition": "one",
+    "examples": [],
+    "seeAlso": [
+      "ixt, dixt, aixt"
+    ]
+  },
+  "łixw": {
+    "root": "łixw",
+    "partOfSpeech": "part",
+    "definition": "stretch, expand",
+    "examples": [
+      {
+        "kiksht": "Łixw ikiax.",
+        "english": "He is stretch- ing; it[i-] is expanding, stretching."
+      },
+      {
+        "kiksht": "Łixw igiux.",
+        "english": "She stretched it[i-]. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "dałíxw, i-k'iłixwłixw, i- k'iłixwmat, łuxwłuxw"
+    ]
+  },
+  "łixłix": {
+    "root": "łixłix",
+    "partOfSpeech": "part",
+    "definition": "jealous",
+    "examples": [
+      {
+        "kiksht": "Łixłix chiuxt.",
+        "english": "He's jealous of him. [GT, MMc 6/4/98]"
+      }
+    ]
+  },
+  "łka": {
+    "root": "łka",
+    "partOfSpeech": "adv",
+    "definition": "perhaps, maybe, appar- ently",
+    "examples": [
+      {
+        "kiksht": "Naqi łka iyag̲áił imiuqapk inag̲un.",
+        "english": "You do not seem to have steamed a large sturgeon. [WTI.1d.8]"
+      }
+    ],
+    "seeAlso": [
+      "łga, łg̲a"
+    ]
+  },
+  "łkdukel": {
+    "root": "łkdukel",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] knows it[it-]",
+    "seeAlso": [
+      "-KL"
     ]
   },
   "łáglalitix": {
