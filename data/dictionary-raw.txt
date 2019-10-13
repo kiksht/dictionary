@@ -18381,3 +18381,71 @@ See also: i¬-mutan, a-mudÅn k’ishtx
 
 i¬-mutan [n] leader for catching sturgeon
 See also: a-mutan
+
+
+
+
+
+
+
+
+
+-MUTXM [vb] play, play with, make play, help play
+Forms: achiumutxma “he will play with him” chium ̈txemx “he is play- ing; he is making him play” itchiumutxemchk “he played with him” chiÅnmutxemchk “he played with him in it[a-]” nxmutxemx “I am playing” ixmutxemx “he is playing” ixinmutxemx “he is playing in it[i-], with it[i-]” ik’ˆmutxemx “he is play- ing (with something)” yumutxmix “he has been played with” chiumutxemx “he is making him play, helping him play” shxmutxemx “they 2 are playing together” aixénmutxemx “he is playing with it[a-]” [Dyk]
+Examples: K’ashwalk’ashwal ¬xmutxemx. “They are playing see- saw.” Q’Åpsululu ¬xmutxemx. “They are playing hide and seek.” Q’Åpsululu ¬xadmutxemx. “They were playing hide and seek.” [Dyk]
+
+-x-MUTXM [vb] play
+Forms: anxmutxma “I will play” enxmutxemx “I am playing” ixmutxemx “he is playing” ¬xmuxemx “they are playing” nanxmutxma “I played” [GT, MMc 1/ 12/99]
+Examples: It’ukdix emtxmutxemchk! “Play nicely you two!” [Dyk]
+See also: i-kˆmutxmat
+
+mut’a [n] uncle! [address], father’s brother!
+See also: i-mut
+
+wˆ-muwa [n] worm
+Forms: i¬muaksh [Dyk], i¬emwÅksh [GT 12/30/97] “worms” ichamuwa, ichawˆmuwa “her worm”
+Notes: This is probably simply an alternative form of wi-mwa, but note the different plural.
+See also: wi-mwa
+
+a-muxen [n] stovepipe reed [PK 7/ 10/55]
+Notes: A hollow reed like weed, grooved all around, that grows in creeks.
+Pronunciation: Åmuxen, amuxén
+
+i¬-muxti [n] saliva, spit
+
+-xl-MU ̨ [vb] eat
+Forms: achenxelmuxma “he will eat me” alinxˆdmuxma “I will eat him (distant future)” iyamxelmux “I ate you” imenxelmux “you ate me” ichixelmux “he ate him up” igaixelmux “he ate her” gayuximux “they ate him”
+Examples: Demxelmux idmi¬xlém! “Eat your food!” [Dyk] Gala¬xelmux walxus. “They ate the eyeballs.” [WTI.4.4]
+Notes: Not used in the present tense. Compare -xl-lax.
+See also: -xl-LA ̨, -Ò ̨LM
+
+muxt [vb] you live, you dwell, you sit
+See also: - ̨T
+
+a-muxuxan [n] chin
+Forms: ayÅmuxuxan “his chin” [Dyk]
+See also: a-muxwan, i-muxwan
+
+a-muxwan [n] tall grass, bear grass
+
+a-muxwan [n] chin
+Forms: amimuxwan “your chin” ayamuxwan “his chin” [HS 6/23/56]
+See also: a-muxuxan, i-muxwan
+
+i-muxwan [n] chin
+Forms: imimuxwan “your chin” [HS 12/26/52]
+See also: a-muxwan, a-muxuxan -MUYA see -mui
+
+id-muya [n] wrestling
+Forms: idiamuya “he is a wrestler” [Dyk]
+See also: -MUI
+
+wi-mwa [n] maggot, worm
+Forms: wamwa “maggots”
+See also: wˆ-muwa, i¬-mwaksh
+
+i¬-mwaksh [n] moth larvae in clothes, furs, etc.
+Notes: An alternate plural form of wi-mwa, apparently with a special- ized meaning.
+
+-mwatwash [n] Modoc, Pit River
+Forms: amwatwash “Modoc woman, Pit River woman” imwatwash “Modoc man, Pit River man” [HS 7/ 3/52]

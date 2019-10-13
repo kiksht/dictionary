@@ -6555,6 +6555,75 @@
       "id-muya,-MUYA"
     ]
   },
+  "-MUTXM": {
+    "root": "-MUTXM",
+    "partOfSpeech": "vb",
+    "definition": "play, play with, make play, help play",
+    "forms": [
+      {
+        "kiksht": "achiumutxma",
+        "english": "he will play with him"
+      },
+      {
+        "kiksht": "chiumútxemx",
+        "english": "he is play- ing; he is making him play"
+      },
+      {
+        "kiksht": "itchiumutxemchk",
+        "english": "he played with him"
+      },
+      {
+        "kiksht": "chiánmutxemchk",
+        "english": "he played with him in it[a-]"
+      },
+      {
+        "kiksht": "nxmutxemx",
+        "english": "I am playing"
+      },
+      {
+        "kiksht": "ixmutxemx",
+        "english": "he is playing"
+      },
+      {
+        "kiksht": "ixinmutxemx",
+        "english": "he is playing in it[i-], with it[i-]"
+      },
+      {
+        "kiksht": "ik'ímutxemx",
+        "english": "he is play- ing (with something)"
+      },
+      {
+        "kiksht": "yumutxmix",
+        "english": "he has been played with"
+      },
+      {
+        "kiksht": "chiumutxemx",
+        "english": "he is making him play, helping him play"
+      },
+      {
+        "kiksht": "shxmutxemx",
+        "english": "they 2 are playing together"
+      },
+      {
+        "kiksht": "aixénmutxemx",
+        "english": "he is playing with it[a-] [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "K'ashwalk'ashwal łxmutxemx.",
+        "english": "They are playing see- saw."
+      },
+      {
+        "kiksht": "Q'ápsululu łxmutxemx.",
+        "english": "They are playing hide and seek."
+      },
+      {
+        "kiksht": "Q'ápsululu łxadmutxemx.",
+        "english": "They were playing hide and seek. [Dyk]"
+      }
+    ]
+  },
   "-MUŁX̲I": {
     "root": "-MUŁX̲I",
     "partOfSpeech": "vb",
@@ -14243,6 +14312,21 @@
       "-yamulgix, i- -múlgixix"
     ]
   },
+  "-mwatwash": {
+    "root": "-mwatwash",
+    "partOfSpeech": "n",
+    "definition": "Modoc, Pit River",
+    "forms": [
+      {
+        "kiksht": "amwatwash",
+        "english": "Modoc woman, Pit River woman"
+      },
+      {
+        "kiksht": "imwatwash",
+        "english": "Modoc man, Pit River man [HS 7/ 3/52]"
+      }
+    ]
+  },
   "-múlalish": {
     "root": "-múlalish",
     "partOfSpeech": "n",
@@ -18170,6 +18254,42 @@
       "i-k'íminankwł, i- qixnmínankwł ipéłx"
     ]
   },
+  "-x-MUTXM": {
+    "root": "-x-MUTXM",
+    "partOfSpeech": "vb",
+    "definition": "play",
+    "forms": [
+      {
+        "kiksht": "anxmutxma",
+        "english": "I will play"
+      },
+      {
+        "kiksht": "enxmutxemx",
+        "english": "I am playing"
+      },
+      {
+        "kiksht": "ixmutxemx",
+        "english": "he is playing"
+      },
+      {
+        "kiksht": "łxmuxemx",
+        "english": "they are playing"
+      },
+      {
+        "kiksht": "nanxmutxma",
+        "english": "I played [GT, MMc 1/ 12/99]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "It'ukdix emtxmutxemchk!",
+        "english": "Play nicely you two! [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "i-kímutxmat"
+    ]
+  },
   "-x-MUYA": {
     "root": "-x-MUYA",
     "partOfSpeech": "vb",
@@ -20566,6 +20686,57 @@
     ],
     "seeAlso": [
       "i-qímiq'ut"
+    ]
+  },
+  "-xl-MUX̲": {
+    "root": "-xl-MUX̲",
+    "partOfSpeech": "vb",
+    "definition": "eat",
+    "forms": [
+      {
+        "kiksht": "achenxelmuxma",
+        "english": "he will eat me"
+      },
+      {
+        "kiksht": "alinxídmuxma",
+        "english": "I will eat him (distant future)"
+      },
+      {
+        "kiksht": "iyamxelmux",
+        "english": "I ate you"
+      },
+      {
+        "kiksht": "imenxelmux",
+        "english": "you ate me"
+      },
+      {
+        "kiksht": "ichixelmux",
+        "english": "he ate him up"
+      },
+      {
+        "kiksht": "igaixelmux",
+        "english": "he ate her"
+      },
+      {
+        "kiksht": "gayuximux",
+        "english": "they ate him"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Demxelmux idmiłxlém!",
+        "english": "Eat your food! [Dyk]"
+      },
+      {
+        "kiksht": "Galałxelmux walxus.",
+        "english": "They ate the eyeballs. [WTI.4.4]"
+      }
+    ],
+    "notes": [
+      "Not used in the present tense. Compare -xl-lax."
+    ],
+    "seeAlso": [
+      "-xl-LAX̲, -ŁX̲LM"
     ]
   },
   "-xl-YA-mit": {
@@ -24504,6 +24675,47 @@
     ],
     "seeAlso": [
       "ił-mutan, a-mudán k'ishtx"
+    ]
+  },
+  "a-muxen": {
+    "root": "a-muxen",
+    "partOfSpeech": "n",
+    "definition": "stovepipe reed [PK 7/ 10/55]",
+    "notes": [
+      "A hollow reed like weed, grooved all around, that grows in creeks."
+    ],
+    "pronunciation": "ámuxen, amuxén"
+  },
+  "a-muxuxan": {
+    "root": "a-muxuxan",
+    "partOfSpeech": "n",
+    "definition": "chin",
+    "forms": [
+      {
+        "kiksht": "ayámuxuxan",
+        "english": "his chin [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-muxwan, i-muxwan"
+    ]
+  },
+  "a-muxwan": {
+    "root": "a-muxwan",
+    "partOfSpeech": "n",
+    "definition": "chin",
+    "forms": [
+      {
+        "kiksht": "amimuxwan",
+        "english": "your chin"
+      },
+      {
+        "kiksht": "ayamuxwan",
+        "english": "his chin [HS 6/23/56]"
+      }
+    ],
+    "seeAlso": [
+      "a-muxuxan, i-muxwan"
     ]
   },
   "a-mísg̲ag̲a": {
@@ -55997,6 +56209,20 @@
       "amut"
     ]
   },
+  "i-muxwan": {
+    "root": "i-muxwan",
+    "partOfSpeech": "n",
+    "definition": "chin",
+    "forms": [
+      {
+        "kiksht": "imimuxwan",
+        "english": "your chin [HS 12/26/52]"
+      }
+    ],
+    "seeAlso": [
+      "a-muxwan, a-muxuxan -MUYA see -mui"
+    ]
+  },
   "i-mísht": {
     "root": "i-mísht",
     "partOfSpeech": "n",
@@ -56672,6 +56898,20 @@
         "kiksht": "idiamulmulmax",
         "english": "he has things falling off of him, skin peeling off, scabs peeling off, is scabby [GT, MMc 12/30/97]"
       }
+    ]
+  },
+  "id-muya": {
+    "root": "id-muya",
+    "partOfSpeech": "n",
+    "definition": "wrestling",
+    "forms": [
+      {
+        "kiksht": "idiamuya",
+        "english": "he is a wrestler [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "-MUI"
     ]
   },
   "id-máł": {
@@ -62296,6 +62536,19 @@
       "a-mutan"
     ]
   },
+  "ił-muxti": {
+    "root": "ił-muxti",
+    "partOfSpeech": "n",
+    "definition": "saliva, spit"
+  },
+  "ił-mwaksh": {
+    "root": "ił-mwaksh",
+    "partOfSpeech": "n",
+    "definition": "moth larvae in clothes, furs, etc.",
+    "notes": [
+      "An alternate plural form of wi-mwa, apparently with a special- ized meaning."
+    ]
+  },
   "ił-mín": {
     "root": "ił-mín",
     "partOfSpeech": "n",
@@ -65191,6 +65444,22 @@
       "-KSHT-ix"
     ]
   },
+  "mut'a": {
+    "root": "mut'a",
+    "partOfSpeech": "n",
+    "definition": "uncle! [address], father's brother!",
+    "seeAlso": [
+      "i-mut"
+    ]
+  },
+  "muxt": {
+    "root": "muxt",
+    "partOfSpeech": "vb",
+    "definition": "you live, you dwell, you sit",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
   "muła": {
     "root": "muła",
     "partOfSpeech": "part",
@@ -66114,6 +66383,20 @@
       "-MQT"
     ]
   },
+  "wi-mwa": {
+    "root": "wi-mwa",
+    "partOfSpeech": "n",
+    "definition": "maggot, worm",
+    "forms": [
+      {
+        "kiksht": "wamwa",
+        "english": "maggots"
+      }
+    ],
+    "seeAlso": [
+      "wí-muwa, ił-mwaksh"
+    ]
+  },
   "wi-łq": {
     "root": "wi-łq",
     "partOfSpeech": "n",
@@ -66125,6 +66408,27 @@
     "definition": "fireweed",
     "notes": [
       "\"They really burn when they get on you, have stickers on them.\" [GT 12/29/97]"
+    ]
+  },
+  "wí-muwa": {
+    "root": "wí-muwa",
+    "partOfSpeech": "n",
+    "definition": "worm",
+    "forms": [
+      {
+        "kiksht": "iłmuaksh [Dyk], iłemwáksh [GT 12/30/97]",
+        "english": "worms"
+      },
+      {
+        "kiksht": "ichamuwa, ichawímuwa",
+        "english": "her worm"
+      }
+    ],
+    "notes": [
+      "This is probably simply an alternative form of wi-mwa, but note the different plural."
+    ],
+    "seeAlso": [
+      "wi-mwa"
     ]
   },
   "x-C'IŁX̲A-kw": {
