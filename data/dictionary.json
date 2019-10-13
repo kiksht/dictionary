@@ -18384,6 +18384,24 @@
       }
     ]
   },
+  "-ŁAT'A": {
+    "root": "-ŁAT'A",
+    "partOfSpeech": "vb",
+    "definition": "sling, throw",
+    "notes": [
+      "[This root is un- doubtedly related to -łada.]",
+      "Related to -łada."
+    ],
+    "examples": [
+      {
+        "kiksht": "Gaqiułat'áulx.",
+        "english": "One slung it[i-] up into the air. [WTI.4.14]"
+      }
+    ],
+    "seeAlso": [
+      "-ŁADA"
+    ]
+  },
   "-ŁATA-qw": {
     "root": "-ŁATA-qw",
     "partOfSpeech": "vb",
@@ -18582,6 +18600,21 @@
       }
     ]
   },
+  "-ł-xl-xa-ŁAT'A": {
+    "root": "-ł-xl-xa-ŁAT'A",
+    "partOfSpeech": "vb",
+    "definition": "dry hands and face by sucking up the water and then spitting it out",
+    "forms": [
+      {
+        "kiksht": "łixelxáłat'at",
+        "english": "he is drying his hands and face, etc."
+      },
+      {
+        "kiksht": "iłixelxáłat'a",
+        "english": "he dried his hands and face, etc. [Dyk]"
+      }
+    ]
+  },
   "-łak": {
     "root": "-łak",
     "partOfSpeech": "n",
@@ -18598,6 +18631,24 @@
     ],
     "seeAlso": [
       "ałak"
+    ]
+  },
+  "-łatxan": {
+    "root": "-łatxan",
+    "partOfSpeech": "n",
+    "definition": "man's sister's child, nephew, niece; man's brother's daughter [recent usage]",
+    "forms": [
+      {
+        "kiksht": "iyałatxan",
+        "english": "his sister's son, his nephew"
+      },
+      {
+        "kiksht": "ayałatxan",
+        "english": "his sister's daughter, his niece [Relatives]"
+      }
+    ],
+    "notes": [
+      "Originally this term referred only to the child (of either gender) of a man's sister. Today at Warm Springs, it is also used to refer to a man's sister's daughter, where -wulx would have been used earlier. Alice Florendo said that -łatxan could also refer to stepchildren."
     ]
   },
   "Agac'ia": {
@@ -20873,6 +20924,17 @@
     "definition": "onion-like root, amulal amumda [vb] you will grow",
     "seeAlso": [
       "-MT"
+    ]
+  },
+  "a-łashqw'imliq": {
+    "root": "a-łashqw'imliq",
+    "partOfSpeech": "n",
+    "definition": "Clackamas people",
+    "notes": [
+      "HS on 7/27/56 corrected this to ił-gashqw'imliq"
+    ],
+    "seeAlso": [
+      "gayashqw'imliq, ił- gashqw'imliq, Gayashqw'imliq Wimał -ŁATA see -ŁADA"
     ]
   },
   "a-łágagwli": {
@@ -51808,6 +51870,24 @@
       }
     ]
   },
+  "i-łapt'ala": {
+    "root": "i-łapt'ala",
+    "partOfSpeech": "n",
+    "definition": "point of an arrow [?] [Dyk], arrowhead [WTI.12.10]",
+    "forms": [
+      {
+        "kiksht": "itłapt'alamax",
+        "english": "points [Dyk]"
+      },
+      {
+        "kiksht": "iłapt'álamax",
+        "english": "arrowheads [WTI.12.10]"
+      }
+    ],
+    "notes": [
+      "A note from Sapir says that i- łapt'ala and i-xamitłqdit both mean \"arrowhead(s)\" without apparent difference in meaning."
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -54438,6 +54518,20 @@
     ],
     "seeAlso": [
       "-u-k'-XAYU-kw"
+    ]
+  },
+  "it- -łaqłaqwit": {
+    "root": "it- -łaqłaqwit",
+    "partOfSpeech": "adj n",
+    "definition": "bow-legged",
+    "forms": [
+      {
+        "kiksht": "idiałaqłaqwit",
+        "english": "he is bow- legged [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łaq', i-qwít, ish- -tł'iwaqwit"
     ]
   },
   "it-address": {
@@ -60972,6 +61066,64 @@
     "definition": "black in places, black here and there",
     "seeAlso": [
       "łal, dałál"
+    ]
+  },
+  "łaq'": {
+    "root": "łaq'",
+    "partOfSpeech": "part",
+    "definition": "turn, bend, crook, there and back, making a round-trip",
+    "examples": [
+      {
+        "kiksht": "Łaq' ichiux.",
+        "english": "He bent it[i- ]."
+      },
+      {
+        "kiksht": "łaq' ik'ámunaq",
+        "english": "bent stick"
+      },
+      {
+        "kiksht": "wixat łaq'",
+        "english": "bend in the road"
+      },
+      {
+        "kiksht": "wixat łaq'łaq'",
+        "english": "bends in the road"
+      },
+      {
+        "kiksht": "łaq'łaq'max wixat",
+        "english": "crooked road, road with bends"
+      },
+      {
+        "kiksht": "Naika łaq'łaq'max.",
+        "english": "I am crooked. [Dyk]"
+      },
+      {
+        "kiksht": "Łaq' mxux.",
+        "english": "Turn! (as in car)"
+      },
+      {
+        "kiksht": "Łaq' chiuxt.",
+        "english": "He is bend- ing it[i-]. [LT 7/14/53]"
+      },
+      {
+        "kiksht": "Gashktáx łaq'.",
+        "english": "They 2 ran there and back [WTI.11.6], they 2 ran there and turned (without necessarily turning back) [GT, MMc 1/14/99]."
+      }
+    ],
+    "seeAlso": [
+      "aiłáq', it-łaqłaqwit i-łaq'imash Clackamas person",
+      "a-q'imash, i-q'imashxul"
+    ],
+    "notes": [
+      "Apparently means \"the ones who have the plant -q'imash:\" i-ła- q'imash, where -ła- is the plural possesive \"their.\" See a-q'imash."
+    ]
+  },
+  "łashgwulxt": {
+    "root": "łashgwulxt",
+    "partOfSpeech": "vb",
+    "definition": "they are climbing in",
+    "seeAlso": [
+      "-WULX"
     ]
   },
   "łałilxam": {

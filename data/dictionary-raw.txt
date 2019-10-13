@@ -16801,3 +16801,47 @@ Forms: it¬ana “strings” [Dyk]
 
 wa-¬ap [n] tree knot
 Forms: i¬puksh “knots” [HS 6/23/56]
+
+
+
+
+
+
+
+
+
+
+
+i-¬apt’ala [n] point of an arrow [?] [Dyk], arrowhead [WTI.12.10]
+Forms: it¬apt’alamax “points” [Dyk] i¬apt’Ålamax “arrowheads” [WTI.12.10]
+Notes: A note from Sapir says that i- ¬apt’ala and i-xamit¬qdit both mean “arrowhead(s)” without apparent difference in meaning.
+
+it- -¬aq¬aqwit [adj n] bow-legged
+Forms: idia¬aq¬aqwit “he is bow- legged” [Dyk]
+See also: ¬aq’, i-qwˆt, ish- -t¬’iwaqwit
+
+¬aq’ [part] turn, bend, crook, there and back, making a round-trip
+Examples: Òaq’ ichiux. “He bent it[i- ].” ¬aq’ ik’Åmunaq “bent stick” wixat ¬aq’ “bend in the road” wixat ¬aq’¬aq’ “bends in the road” ¬aq’¬aq’max wixat “crooked road, road with bends” Naika ¬aq’¬aq’max. “I am crooked.” [Dyk] Òaq’ mxux. “Turn! (as in car)” Òaq’ chiuxt. “He is bend- ing it[i-].” [LT 7/14/53] GashktÅx ¬aq’. “They 2 ran there and back [WTI.11.6], they 2 ran there and turned (without necessarily turning back) [GT, MMc 1/14/99].”
+See also: ai¬Åq’, it-¬aq¬aqwit i-¬aq’imash Clackamas person
+Notes: Apparently means “the ones who have the plant -q’imash:” i-¬a- q’imash, where -¬a- is the plural possesive “their.” See a-q’imash.
+See also: a-q’imash, i-q’imashxul
+
+¬ashgwulxt [vb] they are climbing in
+See also: -WULX
+
+a-¬ashqw’imliq [n] Clackamas people
+Notes: HS on 7/27/56 corrected this to i¬-gashqw’imliq
+See also: gayashqw’imliq, i¬- gashqw’imliq, Gayashqw’imliq Wima¬ -ÒATA see -ÒADA
+
+-¬atxan [n] man’s sister’s child, nephew, niece; man’s brother’s daughter [recent usage]
+Forms: iya¬atxan “his sister’s son, his nephew” aya¬atxan “his sister’s daughter, his niece” [Relatives]
+Notes: Originally this term referred only to the child (of either gender) of a man’s sister. Today at Warm Springs, it is also used to refer to a man’s sister’s daughter, where -wulx would have been used earlier. Alice Florendo said that -¬atxan could also refer to stepchildren.
+
+-ÒAT’A [vb] sling, throw
+Notes: [This root is un- doubtedly related to -¬ada.]
+Examples: Gaqiu¬at’Åulx. “One slung it[i-] up into the air.” [WTI.4.14]
+Notes: Related to -¬ada.
+See also: -ÒADA
+
+-¬-xl-xa-ÒAT’A [vb] dry hands and face by sucking up the water and then spitting it out
+Forms: ¬ixelxÅ¬at’at “he is drying his hands and face, etc.” i¬ixelxÅ¬at’a “he dried his hands and face, etc.” [Dyk]
