@@ -19859,3 +19859,38 @@ Notes: This refers only to bitterness of taste, not bitter feeling [HS].
 
 -a-x-PU [vb] enclose, close it (door)
 Forms: “enclose”: chaxb ̈t “he has it[a-] enclosed” chaixb ̈t “he has it[i- ] enclosed” ichaixbu “he enclosed it[i-]” igaixbu “she enclosed it[i-]” nigaixbu “she enclosed it[i-] (last season)” nigaixatbu “she enclosed it[i-] (last week)” [Dyk] aixb ̈! “shut him out!” [PK 7/12/56] “close it”: anxbuni¬ “I am closing it” aixbuni¬ “he is closing it” aixb ̈t “he has it closed” aixatbut “he had it closed” igaixbu “he closed it” nigaixbu “he closed it (last season)” nigaixatbu “he closed it (last week)” [Dyk] aixatbuix “close it (door)” [PK 7/12/56] [The -a- in these latter examples may be a fixed pronoun representing aqÅbudit “door.”]
+
+
+
+
+
+
+
+
+-x-PU [vb] close, shut in, enclose
+Forms: ixb ̈! “close it[i-]!” anixbwaya “I will close it[i-]” nixbuni¬ “I am closing it[i-]” chixb ̈t “he has it[i-] closed” chaxb ̈t “he has it[a-] closed” gachixbu “he closed it” gachuxwabu “he closed them” icˆxbumam “he went to close it[i-]” icixatb ̈mama “he came to close it[i- ]” igik’ixbu “he closed” ixb ̈t “it[i-] is closed” with passive suffix -xit: aluxwab ̈xida “they will be closed; they will close themselves” aluxwatb ̈xwida “they will be closed (distant future); they will close them- selves” ixatbuxlit “it[i-] was being closed (continually opened and closed); it was opening and closing itself” igixbuxit “it[i-] was suddenly closed (as by wind); it closed itself (as anus after defecation)” nigixbuxit “it[i-] was closed; it closed itself (last season)” nigixatbuxit “it[i- ] was closed; it closed itself (last week)” [Dyk] uxab ̈walalamchk “tell someone to shut them (doors or baskets)” cuxabuwalal “he is shut- ting them” [PK 7/31/56] with relational prefixes: ichanlxabu “he closed it[a-] for me” aixlxabut “he has it[a-] closed for himself” inxbuni¬ “I am closing myself with it[i-]” [Dyk]
+Examples: Ichuxabu it-store. “He closed the store.” Yaxka Sam kwaba ¬awixabut. “It’s him, Sam, in there shut in with the others.” Yawixabut. “He’s shut (in house, itqw¬ˆ) by him- self.” [PK 7/12/56]
+
+-x-PU [vb] close with, enclose with, cover with
+Forms: chdaxbut “he closed it[a-] with them (for instance, hands, leaves), he has it enclosed with them” chdaxatbut “he closed it[a-] with them” daxbut “it[a-] is enclosed with them (for instance, leaves)” dixbut “it[i-] is enclosed with them” [Dyk] Examples:  ̋wnma itk’Ålamat gaqtaxpu. “It [sweathouse] was cov- ered with five stones.” [WTI.4.10] Dak gaqt ̈x itk’Ålamat daxput aq¬Ålgi¬xal. “They removed the stones which were covering the sweathouse.” [WTI.4.13]
+
+pu [part] blow
+Examples: Pu ichiux. “He blew on him.” Pup ̈ ichiux. “He blew on him (several times).” Pupu ikiax. “He has been blown on.” [Dyk]
+
+pu [part] could, might, can, would
+Examples: K’aya qengi ga¬kux pu; k’aya dan engi ¬q’up pu ga¬giaxux. “They could not do anything to her; there was no means to cut it from her.” [WT1.1c.3]
+Notes: Pu is a modal particle, used with a verb where English uses the auxiliary verbs listed as possible translations. It indicates possibility or potentiality.
+
+i-puchmat [n] cropper
+
+it-pu©umax [n] mountains
+See also: it-puqux
+
+i-puipui [n] bluish squirrel that lives among rocks along the Columbia
+Notes: Presumably the same as i- buipui
+See also: i-buipui
+
+i¬-pul [n] shade, shadow [Dyk], evening twilight [HS 7/8/54, 7/23/ 54], reflection [WTI.3.11], umbrella [PK 1956]
+Examples: ¬un i¬bulmax “3 evenings” [HS 7/8/54, 7/23/54]
+Notes: Refers to time between dusk and dark. Chuishdix means “evening in general.” [HS 7/8/54, 7/23/54]
+See also: wa-pul, i¬-pulix

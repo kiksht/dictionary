@@ -20619,6 +20619,37 @@
       "it-pshim"
     ]
   },
+  "-x-PU": {
+    "root": "-x-PU",
+    "partOfSpeech": "vb",
+    "definition": "close with, enclose with, cover with",
+    "forms": [
+      {
+        "kiksht": "chdaxbut",
+        "english": "he closed it[a-] with them (for instance, hands, leaves), he has it enclosed with them"
+      },
+      {
+        "kiksht": "chdaxatbut",
+        "english": "he closed it[a-] with them"
+      },
+      {
+        "kiksht": "daxbut",
+        "english": "it[a-] is enclosed with them (for instance, leaves)"
+      },
+      {
+        "kiksht": "dixbut",
+        "english": "it[i-] is enclosed with them [Dyk]"
+      },
+      {
+        "kiksht": "Examples:  G̲wnma itk'álamat gaqtaxpu.",
+        "english": "It [sweathouse] was cov- ered with five stones. [WTI.4.10]"
+      },
+      {
+        "kiksht": "Dak gaqtúx itk'álamat daxput aqłálgiłxal.",
+        "english": "They removed the stones which were covering the sweathouse. [WTI.4.13]"
+      }
+    ]
+  },
   "-x-YA-mit": {
     "root": "-x-YA-mit",
     "partOfSpeech": "vb",
@@ -59333,6 +59364,22 @@
       "This refers only to bitterness of taste, not bitter feeling [HS]."
     ]
   },
+  "i-puchmat": {
+    "root": "i-puchmat",
+    "partOfSpeech": "n",
+    "definition": "cropper"
+  },
+  "i-puipui": {
+    "root": "i-puipui",
+    "partOfSpeech": "n",
+    "definition": "bluish squirrel that lives among rocks along the Columbia",
+    "notes": [
+      "Presumably the same as i- buipui"
+    ],
+    "seeAlso": [
+      "i-buipui"
+    ]
+  },
   "i-pápakwun": {
     "root": "i-pápakwun",
     "partOfSpeech": "n",
@@ -64175,6 +64222,14 @@
     "partOfSpeech": "n",
     "definition": "sturgeon line, large heavy fish line, mostly used for stur- geon"
   },
+  "it-pug̲umax": {
+    "root": "it-pug̲umax",
+    "partOfSpeech": "n",
+    "definition": "mountains",
+    "seeAlso": [
+      "it-puqux"
+    ]
+  },
   "it-płxat": {
     "root": "it-płxat",
     "partOfSpeech": "n",
@@ -65893,6 +65948,23 @@
     ],
     "seeAlso": [
       "wa-psh"
+    ]
+  },
+  "ił-pul": {
+    "root": "ił-pul",
+    "partOfSpeech": "n",
+    "definition": "shade, shadow [Dyk], evening twilight [HS 7/8/54, 7/23/ 54], reflection [WTI.3.11], umbrella [PK 1956]",
+    "examples": [
+      {
+        "kiksht": "łun iłbulmax",
+        "english": "3 evenings [HS 7/8/54, 7/23/54]"
+      }
+    ],
+    "notes": [
+      "Refers to time between dusk and dark. Chuishdix means \"evening in general.\" [HS 7/8/54, 7/23/54]"
+    ],
+    "seeAlso": [
+      "wa-pul, ił-pulix"
     ]
   },
   "ił-páp": {
@@ -70871,6 +70943,20 @@
     ],
     "seeAlso": [
       "dapchåx"
+    ]
+  },
+  "pu": {
+    "root": "pu",
+    "partOfSpeech": "part",
+    "definition": "could, might, can, would",
+    "examples": [
+      {
+        "kiksht": "K'aya qengi gałkux pu; k'aya dan engi łq'up pu gałgiaxux.",
+        "english": "They could not do anything to her; there was no means to cut it from her. [WT1.1c.3]"
+      }
+    ],
+    "notes": [
+      "Pu is a modal particle, used with a verb where English uses the auxiliary verbs listed as possible translations. It indicates possibility or potentiality."
     ]
   },
   "qengi": {
