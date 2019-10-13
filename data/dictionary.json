@@ -11493,6 +11493,173 @@
       "-KWCHAN"
     ]
   },
+  "-x-KWCHKW": {
+    "root": "-x-KWCHKW",
+    "partOfSpeech": "vb",
+    "definition": "return, give back, take back, bring back, send back",
+    "forms": [
+      {
+        "kiksht": "chixkwchkwt",
+        "english": "he has it[i-] returned"
+      },
+      {
+        "kiksht": "chixkwchkwł",
+        "english": "he is re- turning it[i-]"
+      },
+      {
+        "kiksht": "chixátkwchkwt",
+        "english": "he had it[i-] returned; he has it returned (in this direction)"
+      },
+      {
+        "kiksht": "chixátkwchkwł",
+        "english": "he was returning it[i-]; he is return- ing it (in this direction)"
+      },
+      {
+        "kiksht": "ichixatkwchkwa",
+        "english": "he returned it[i-] (in this direction)"
+      },
+      {
+        "kiksht": "enshkłxátkwchkwt",
+        "english": "we were returning it[i-]; we are re- turning it (in this direction)"
+      },
+      {
+        "kiksht": "nichixkwchkwa",
+        "english": "he brought it[i-] back (last season)"
+      },
+      {
+        "kiksht": "nichixkwchkwt",
+        "english": "he had it[i-] returned (last season)"
+      },
+      {
+        "kiksht": "nichixkwchkwł",
+        "english": "he was returning it[i- ] (last season)"
+      },
+      {
+        "kiksht": "nichixatkwchkwa",
+        "english": "he brought it[i-] back (last week)"
+      },
+      {
+        "kiksht": "nichixatkwchkwt",
+        "english": "he had it[i-] re- turned (last week)"
+      },
+      {
+        "kiksht": "nichixatkwchkwł",
+        "english": "he was returning it[i-] (last week)"
+      },
+      {
+        "kiksht": "ixkwchkwíx",
+        "english": "it[i-] is returned, given back [Dyk]"
+      },
+      {
+        "kiksht": "gachixkwchkwł",
+        "english": "he returns it[i-] (every day) [DykGr 59]"
+      },
+      {
+        "kiksht": "with -l-",
+        "english": "to"
+      },
+      {
+        "kiksht": ": amanelxakwchgwaya",
+        "english": "you will give it[a-] back to me [WTI.2.4]"
+      },
+      {
+        "kiksht": "namanelxakwchgwaya",
+        "english": "you gave it[a-] back to me"
+      },
+      {
+        "kiksht": "adamelxakwchgwaya",
+        "english": "I will give it[a-] back to you"
+      },
+      {
+        "kiksht": "achdemelxakwchgwaya",
+        "english": "he will give them back to you"
+      },
+      {
+        "kiksht": "akanelxakwchgwaya",
+        "english": "she will give it back to me [GT, MMc 1/12/99]"
+      },
+      {
+        "kiksht": "anitxakwchgwa!",
+        "english": "give it[a-] back to me!"
+      },
+      {
+        "kiksht": "ailxakwchgwa",
+        "english": "give it[a-] back to him!"
+      },
+      {
+        "kiksht": "ilxakwchgwa!",
+        "english": "give it[i-] back to him! [Spilyay/KidTalk]"
+      },
+      {
+        "kiksht": "anilxaukwchkwaya",
+        "english": "I'll give it[i-] back to him"
+      },
+      {
+        "kiksht": "anailxaukwchkwaya",
+        "english": "I'll give it[a-] back to him"
+      },
+      {
+        "kiksht": "amanelxaukwchgwaya",
+        "english": "you'll give it[a-] back to me"
+      },
+      {
+        "kiksht": "chialxaukwchkwt",
+        "english": "he is giving it[i-] back to her (on the way to give it back to her; handing it back; has it returned to her)"
+      },
+      {
+        "kiksht": "chailxaukwchkwł",
+        "english": "he is giving it[a-] back to him"
+      },
+      {
+        "kiksht": "chialxaukwchkwł",
+        "english": "he is returning it[i-] to her (forcing it back, insistently)"
+      },
+      {
+        "kiksht": "chialxaukwchkwnił",
+        "english": "he usually gives it[i-] back to her"
+      },
+      {
+        "kiksht": "nichialxaukwchkwa",
+        "english": "he returned it[i- ] to her (last season)"
+      },
+      {
+        "kiksht": "nichialxaukwchkwł",
+        "english": "he was returning it[i-] to her (last season)"
+      },
+      {
+        "kiksht": "nichialxaukwchkwt",
+        "english": "he had it[i-] returned to her (last season)"
+      },
+      {
+        "kiksht": "nichiaitxaukwchkwa",
+        "english": "he returned it[i-] to her (last week)"
+      },
+      {
+        "kiksht": "nichiaitxaukwchkwł",
+        "english": "he was return- ing it[i-] to her (last week)"
+      },
+      {
+        "kiksht": "nichiaitxaukwchkwt",
+        "english": "he had it[i-] returned to her (last week)"
+      },
+      {
+        "kiksht": "nichaitxaukwchkwa",
+        "english": "he gave it[a-] back to him (last week)"
+      },
+      {
+        "kiksht": "gachilxaukwchkwa",
+        "english": "he returned it[i-] to him"
+      },
+      {
+        "kiksht": "yaxalxaukwchkwt",
+        "english": "he is giving himself back to her, returning to her, coming back to her"
+      },
+      {
+        "kiksht": "yalxakwchkwix",
+        "english": "it[i-] is returned to her, given back to her [Dyk]"
+      }
+    ]
+  },
   "-x-NI": {
     "root": "-x-NI",
     "partOfSpeech": "vb",

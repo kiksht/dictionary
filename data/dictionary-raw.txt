@@ -15223,3 +15223,13 @@ See also: -x-kwchan, i-gikwchan, i- k’ikwchan
 -x-KWCHAN [vb] squirm around
 Forms: alixkwchanma “he will squirm around” ixkwchÅn “he is squirming around” [GT, MMc 6/4/ 98; these forms were produced by HM and accepted, with some hesita- tion] ixatkwchÅn “he was squiriming around” [HS 7/16/54]
 See also: -KWCHAN
+
+
+
+
+
+
+
+
+-x-KWCHKW [vb] return, give back, take back, bring back, send back
+Forms: chixkwchkwt “he has it[i-] returned” chixkwchkw¬ “he is re- turning it[i-]” chixÅtkwchkwt “he had it[i-] returned; he has it returned (in this direction)” chixÅtkwchkw¬ “he was returning it[i-]; he is return- ing it (in this direction)” ichixatkwchkwa “he returned it[i-] (in this direction)” enshk¬xÅtkwchkwt “we were returning it[i-]; we are re- turning it (in this direction)” nichixkwchkwa “he brought it[i-] back (last season)” nichixkwchkwt “he had it[i-] returned (last season)” nichixkwchkw¬ “he was returning it[i- ] (last season)” nichixatkwchkwa “he brought it[i-] back (last week)” nichixatkwchkwt “he had it[i-] re- turned (last week)” nichixatkwchkw¬ “he was returning it[i-] (last week)” ixkwchkwˆx “it[i-] is returned, given back” [Dyk] gachixkwchkw¬ “he returns it[i-] (every day)” [DykGr 59] with -l- “to”: amanelxakwchgwaya “you will give it[a-] back to me” [WTI.2.4] namanelxakwchgwaya “you gave it[a-] back to me” adamelxakwchgwaya “I will give it[a-] back to you” achdemelxakwchgwaya “he will give them back to you” akanelxakwchgwaya “she will give it back to me” [GT, MMc 1/12/99] anitxakwchgwa! “give it[a-] back to me!” ailxakwchgwa “give it[a-] back to him!” ilxakwchgwa! “give it[i-] back to him!” [Spilyay/KidTalk] anilxaukwchkwaya “I’ll give it[i-] back to him” anailxaukwchkwaya “I’ll give it[a-] back to him” amanelxaukwchgwaya “you’ll give it[a-] back to me” chialxaukwchkwt “he is giving it[i-] back to her (on the way to give it back to her; handing it back; has it returned to her)” chailxaukwchkw¬ “he is giving it[a-] back to him” chialxaukwchkw¬ “he is returning it[i-] to her (forcing it back, insistently)” chialxaukwchkwni¬ “he usually gives it[i-] back to her” nichialxaukwchkwa “he returned it[i- ] to her (last season)” nichialxaukwchkw¬ “he was returning it[i-] to her (last season)” nichialxaukwchkwt “he had it[i-] returned to her (last season)” nichiaitxaukwchkwa “he returned it[i-] to her (last week)” nichiaitxaukwchkw¬ “he was return- ing it[i-] to her (last week)” nichiaitxaukwchkwt “he had it[i-] returned to her (last week)” nichaitxaukwchkwa “he gave it[a-] back to him (last week)” gachilxaukwchkwa “he returned it[i-] to him” yaxalxaukwchkwt “he is giving himself back to her, returning to her, coming back to her” yalxakwchkwix “it[i-] is returned to her, given back to her” [Dyk]
