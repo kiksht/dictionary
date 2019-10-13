@@ -9299,6 +9299,20 @@
       "i-qaładadix"
     ]
   },
+  "-i-x-ŁX̲-ix": {
+    "root": "-i-x-ŁX̲-ix",
+    "partOfSpeech": "vb",
+    "definition": "go from camp to gather food (roots, berries)",
+    "forms": [
+      {
+        "kiksht": "aixułxdix",
+        "english": "she is going from camp to gather food [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "ik'iłxnił, i-qałxálalix"
+    ]
+  },
   "-i-xl-KIŁX̲": {
     "root": "-i-xl-KIŁX̲",
     "partOfSpeech": "vb",
@@ -9373,6 +9387,45 @@
     ],
     "notes": [
       "Borrowed from English."
+    ]
+  },
+  "-k'a-ŁX̲I": {
+    "root": "-k'a-ŁX̲I",
+    "partOfSpeech": "vb",
+    "definition": "crawl, crawl on, crawl over",
+    "forms": [
+      {
+        "kiksht": "nk'áłxilal",
+        "english": "I am crawling about"
+      },
+      {
+        "kiksht": "ik'ałxilal",
+        "english": "he is crawling about"
+      },
+      {
+        "kiksht": "igałxilal",
+        "english": "he is crawling about [With -g- substituted for -k'-, this word refers to something fierce or enormous; or else is contemptu- ous, as of a drunk.]"
+      },
+      {
+        "kiksht": "ik'ałxit",
+        "english": "he is crawling"
+      },
+      {
+        "kiksht": "igik'ałxi",
+        "english": "he crawled"
+      },
+      {
+        "kiksht": "chuk'alximit",
+        "english": "he is making her crawl, he is helping her to crawl"
+      },
+      {
+        "kiksht": "aik'atłxigwax",
+        "english": "she was crawling about on it[i-]"
+      },
+      {
+        "kiksht": "aikatłxíkwt",
+        "english": "she was crawl- ing past over it[i-] [Dyk]"
+      }
     ]
   },
   "-k'ak'aps": {
@@ -19737,6 +19790,37 @@
       "-ŁUXWA(N) think, feel"
     ]
   },
+  "-ŁX̲": {
+    "root": "-ŁX̲",
+    "partOfSpeech": "vb",
+    "definition": "go towards water, go to- wards fire",
+    "examples": [
+      {
+        "kiksht": "Galułxa wímałyamt.",
+        "english": "She went to the river. [Dyk]"
+      },
+      {
+        "kiksht": "Gadag̲lułx aknimiamt.",
+        "english": "They got out of the canoe [into the water]. [WTI.6.2]"
+      }
+    ],
+    "notes": [
+      "Usually used as a secondary root, but may also be used as a pri- mary root, as in the examples above. Opposite of -pchk."
+    ],
+    "seeAlso": [
+      "-PCHK"
+    ]
+  },
+  "-ŁX̲-pa": {
+    "root": "-ŁX̲-pa",
+    "partOfSpeech": "vb",
+    "definition": "flow out"
+  },
+  "-ŁX̲I": {
+    "root": "-ŁX̲I",
+    "partOfSpeech": "vb",
+    "definition": "crawl"
+  },
   "-ł-gl-KWSHTX̲": {
     "root": "-ł-gl-KWSHTX̲",
     "partOfSpeech": "vb",
@@ -22374,6 +22458,29 @@
     "root": "a-łux",
     "partOfSpeech": "n",
     "definition": "birthmark"
+  },
+  "a-łxapłxap": {
+    "root": "a-łxapłxap",
+    "partOfSpeech": "n",
+    "definition": "some kind of orna- ments",
+    "notes": [
+      "Note from Sapir, WT, p.169: \"No explanation of this term was given. Probably some sort of beads or other ornament is referred to.\" i-łxaxumax [n] goose"
+    ],
+    "forms": []
+  },
+  "a-łxwadit": {
+    "root": "a-łxwadit",
+    "partOfSpeech": "n",
+    "definition": "fingernail, toenail",
+    "forms": [
+      {
+        "kiksht": "itłxwadit",
+        "english": "nails [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "a-kuxwalagwadit"
+    ]
   },
   "a-łágagwli": {
     "root": "a-łágagwli",
@@ -63963,6 +64070,62 @@
       "-WIT"
     ]
   },
+  "łuxt": {
+    "root": "łuxt",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is",
+    "seeAlso": [
+      "-X̲T"
+    ]
+  },
+  "łuxunit": {
+    "root": "łuxunit",
+    "partOfSpeech": "vb",
+    "definition": "it is drifting along",
+    "seeAlso": [
+      "-X̲-U-NI"
+    ]
+  },
+  "łuxwán": {
+    "root": "łuxwán",
+    "partOfSpeech": "interj",
+    "definition": "don't know, un- known, uncertain, perhaps, maybe",
+    "examples": [
+      {
+        "kiksht": "Łuxwan.",
+        "english": "I don't know."
+      },
+      {
+        "kiksht": "łuxwan dan",
+        "english": "I don't know what"
+      },
+      {
+        "kiksht": "łuxwan shan",
+        "english": "I don't know who; someone"
+      },
+      {
+        "kiksht": "Ag̲a łuxwan ukst.",
+        "english": "Now I think it[a-] is done. [Dyk]"
+      }
+    ],
+    "notes": [
+      "This word is very often used as a response to a question where English would use \"I don't know.\" Some relationship to the root -łuxwa \"think\" is possible."
+    ]
+  },
+  "łuxwłuxw": {
+    "root": "łuxwłuxw",
+    "partOfSpeech": "part",
+    "definition": "stretch",
+    "examples": [
+      {
+        "kiksht": "Łuxwłuxw ikiax.",
+        "english": "He is stretched out. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łixw"
+    ]
+  },
   "łuxłúx": {
     "root": "łuxłúx",
     "partOfSpeech": "part",
@@ -63978,6 +64141,44 @@
       }
     ]
   },
+  "łxalguxt": {
+    "root": "łxalguxt",
+    "partOfSpeech": "vb",
+    "definition": "they are doing with one another about us",
+    "examples": [
+      {
+        "kiksht": "C'um łxalguxt.",
+        "english": "They are uncertain as to who we are, they are arguing about who we are. [WTIV.2.13]"
+      }
+    ],
+    "seeAlso": [
+      "-X̲"
+    ]
+  },
+  "łxdat": {
+    "root": "łxdat",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is running this way",
+    "seeAlso": [
+      "-k-TA"
+    ]
+  },
+  "łxelp'álawulal": {
+    "root": "łxelp'álawulal",
+    "partOfSpeech": "vb",
+    "definition": "they are talking to one another",
+    "seeAlso": [
+      "-xl-P'ALAWU-lal"
+    ]
+  },
+  "łxelqłat": {
+    "root": "łxelqłat",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] knows",
+    "seeAlso": [
+      "-xl-QŁA"
+    ]
+  },
   "łáglalitix": {
     "root": "łáglalitix",
     "partOfSpeech": "vb",
@@ -63990,6 +64191,22 @@
     ],
     "seeAlso": [
       "-LA-it"
+    ]
+  },
+  "łúxwunit": {
+    "root": "łúxwunit",
+    "partOfSpeech": "vb",
+    "definition": "it is flowing",
+    "seeAlso": [
+      "-X-NI"
+    ]
+  },
+  "łúyamnił": {
+    "root": "łúyamnił",
+    "partOfSpeech": "vb",
+    "definition": "they arrive (repeat- edly, periodically)",
+    "seeAlso": [
+      "-I, -I-am"
     ]
   }
 }
