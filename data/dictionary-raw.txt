@@ -16896,3 +16896,100 @@ Notes: This is a word for “that” or “these” used with nouns beginning wi
 
 ¬axdauaich [pron] those (few known)
 Notes: Refers to a few people known to speaker and/or hearer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a-¬axit [n] bow
+Forms: i¬¬axit [Dyk], it¬axit [HS 7/4/ 51, 7/24/51, 8/15/51] “bows” -ÒAYU, -ÒAIW- move
+
+-k-ÒAYU [vb] move, move away
+Forms: alixt¬Åyuwa, alixt¬aiwa “he will move away (distant future)” alakt¬aiwa “she will move away” ik¬ayut “he is moving (for instance, his camp to another place)” ik¬aiwamt “he is going there to move away” ixt¬aiwamt “he is coming to move away” ik¬Åiwalal “he is moving about (from place to place)” ixt¬ayut “he is moving this way” igik¬ayu “he moved away” nalak¬Åyuwa, nalak¬aiwa “she moved away” ¬xt¬aiwamt “they are coming to move away, they were coming to move away” i¬xt¬aiwam “they came to move away” igixt¬aiwam “he came to move away” igik¬aiwam “he went to move away” nigik¬ayu “he moved away (last season)” nigik¬ayut “he was moving away (last season)” nigixt¬ayu “he moved away (last week)” nigixt¬ayut “he was moving away (last week)” ni¬k¬ayu “they moved away (last season)” [Dyk]
+Examples: Qushdˆaxa ga¬k¬ayux. “They must have moved away.” [Dyk]
+Notes: The difference between this verb and -k-¬aiw-it (=k¬ayu-it) is that the latter means to move and settle down, whereas this verb refers sim- ply to the fact of moving.
+See also: -ÒA-mit
+
+-k-ÒAIW-it [n] move to settle down, get to a place to settle there
+Forms: ik¬Åiwidamt “he is getting there to settle” ixt¬aiwidamt “he is coming here to settle” nigixt¬Åiwitam “he came to settle here” [Dyk]
+Notes: The difference between this verb (-k¬a-yu-it) and -k¬a-yu appears to be that this verb means to move and settle down, whereas -k¬ayu appears focused solely on the act of moving.
+See also: -ÒA-mit
+
+¬chg ̈qt [n] they are singing a medi- cine song
+Examples: Òchg ̈qt ¬glalam. “They [the Thunder brothers] are singing their medicine song.” [WTI.11.2]
+
+¬dit [vb] he[i¬-] is coming
+See also: -I
+
+¬elqti [vb] point to them/it!
+See also: -l-QTI
+
+-¬em [n] mother’s brother, (mater- nal) uncle
+Forms: ich¬ém “my (maternal) uncle” iya¬ém “his (maternal) uncle” i¬yalémksh “his (maternal) uncles” a¬em “(maternal) uncle!” [Relatives] See also: a¬em
+
+i-¬emxwlixul [n] Sahaptin language
+Forms: iya¬emxwlixul “he is a Sahaptin speaker” [Dyk]
+See also: ¬emxwlémt
+
+(w)a-¬énqan [n] charcoal
+
+¬enxilax [vb] I am eating them
+See also: -xi-LA ̨
+
+¬ex [part] tickle, itch [Dyk], scratch [LT 7/14/53]
+Examples: Òex nkiax. “I’m itching.” Òex¬ex ikiax. “He is tickling, itching.” Òex¬ex enkixax. “I’m tickling myself.” Òex¬ex chuxt. “He is tickling her.” [Dyk]
+See also: t¬ix
+
+¬ex¬ex [part] make rustling noise (as when going through brush)
+
+¬ga [adv] by chance, perhaps, per- chance
+Examples: A©a ¬ga pu qama mta uxuq’ˆwalal nu©w amtktuxwal? “By what right, perchance, will you keep the fish to yourselves?” [WTI.1a6]
+See also: ¬ka, ¬©a
+
+¬gÅgelgat [vb] he[i¬-] is holding it[a-]
+See also: -gl-GA
+
+¬gala [adv] long time, for a long time
+Examples: Fuuuu yat¬aqdix gachiux alÅlala ¬gala kwadau p’alÅa gachiux. “He did fuuuu on him for quite some time before he let him come to rest.” [WTI.1m.4]
+
+¬gap [part] grab
+Examples: Ògab ixa. “Grab it!” [MMc 1/14/99] Ògap ga¬gigelga wilx. “They took a country for themselves.” [WTIV.1.4]
+
+¬gatqwam [vb] he[i¬-] comes
+
+¬gelxtxulal [vb] he[i¬-] is telling us
+See also: - ̨U-lal
+
+¬genshtglal [vb] he[i¬-] is copulating with me
+See also: -SHTK
+
+¬gˆgelximu¬ [vb] they call him, they summon him
+See also: -gl-KIM
+
+¬giubˆchema [vb] he[i¬-] obtains it[i-] (fish)
+See also: -BICHEM(A)
+
+¬giumila [vb] he[i¬-] scolds him
+See also: -MILA
+
+¬giuqmit [vb] they see him
+See also: -QMIT
+
+¬giuqtilal [vb] he[i¬-] is pointing to him
+See also: -QTI
+
+¬giushtx [vb] he[i¬-] carries it[i-] on his back
+See also: -SHT ̨W

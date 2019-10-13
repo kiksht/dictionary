@@ -179,6 +179,11 @@
       "-a-xi-LXUŁ, a-xilxułx"
     ]
   },
+  "(w)a-łénqan": {
+    "root": "(w)a-łénqan",
+    "partOfSpeech": "n",
+    "definition": "charcoal"
+  },
   "(w)i-káq": {
     "root": "(w)i-káq",
     "partOfSpeech": "n",
@@ -10445,6 +10450,122 @@
       }
     ]
   },
+  "-k-ŁAIW-it": {
+    "root": "-k-ŁAIW-it",
+    "partOfSpeech": "n",
+    "definition": "move to settle down, get to a place to settle there",
+    "forms": [
+      {
+        "kiksht": "ikłáiwidamt",
+        "english": "he is getting there to settle"
+      },
+      {
+        "kiksht": "ixtłaiwidamt",
+        "english": "he is coming here to settle"
+      },
+      {
+        "kiksht": "nigixtłáiwitam",
+        "english": "he came to settle here [Dyk]"
+      }
+    ],
+    "notes": [
+      "The difference between this verb (-kła-yu-it) and -kła-yu appears to be that this verb means to move and settle down, whereas -kłayu appears focused solely on the act of moving."
+    ],
+    "seeAlso": [
+      "-ŁA-mit"
+    ]
+  },
+  "-k-ŁAYU": {
+    "root": "-k-ŁAYU",
+    "partOfSpeech": "vb",
+    "definition": "move, move away",
+    "forms": [
+      {
+        "kiksht": "alixtłáyuwa, alixtłaiwa",
+        "english": "he will move away (distant future)"
+      },
+      {
+        "kiksht": "alaktłaiwa",
+        "english": "she will move away"
+      },
+      {
+        "kiksht": "ikłayut",
+        "english": "he is moving (for instance, his camp to another place)"
+      },
+      {
+        "kiksht": "ikłaiwamt",
+        "english": "he is going there to move away"
+      },
+      {
+        "kiksht": "ixtłaiwamt",
+        "english": "he is coming to move away"
+      },
+      {
+        "kiksht": "ikłáiwalal",
+        "english": "he is moving about (from place to place)"
+      },
+      {
+        "kiksht": "ixtłayut",
+        "english": "he is moving this way"
+      },
+      {
+        "kiksht": "igikłayu",
+        "english": "he moved away"
+      },
+      {
+        "kiksht": "nalakłáyuwa, nalakłaiwa",
+        "english": "she moved away"
+      },
+      {
+        "kiksht": "łxtłaiwamt",
+        "english": "they are coming to move away, they were coming to move away"
+      },
+      {
+        "kiksht": "iłxtłaiwam",
+        "english": "they came to move away"
+      },
+      {
+        "kiksht": "igixtłaiwam",
+        "english": "he came to move away"
+      },
+      {
+        "kiksht": "igikłaiwam",
+        "english": "he went to move away"
+      },
+      {
+        "kiksht": "nigikłayu",
+        "english": "he moved away (last season)"
+      },
+      {
+        "kiksht": "nigikłayut",
+        "english": "he was moving away (last season)"
+      },
+      {
+        "kiksht": "nigixtłayu",
+        "english": "he moved away (last week)"
+      },
+      {
+        "kiksht": "nigixtłayut",
+        "english": "he was moving away (last week)"
+      },
+      {
+        "kiksht": "niłkłayu",
+        "english": "they moved away (last season) [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Qushdíaxa gałkłayux.",
+        "english": "They must have moved away. [Dyk]"
+      }
+    ],
+    "notes": [
+      "The difference between this verb and -k-łaiw-it (=kłayu-it) is that the latter means to move and settle down, whereas this verb refers sim- ply to the fact of moving."
+    ],
+    "seeAlso": [
+      "-ŁA-mit"
+    ]
+  },
   "-kag̲wámx": {
     "root": "-kag̲wámx",
     "partOfSpeech": "n",
@@ -18755,6 +18876,29 @@
       "Originally this term referred only to the child (of either gender) of a man's sister. Today at Warm Springs, it is also used to refer to a man's sister's daughter, where -wulx would have been used earlier. Alice Florendo said that -łatxan could also refer to stepchildren."
     ]
   },
+  "-łem": {
+    "root": "-łem",
+    "partOfSpeech": "n",
+    "definition": "mother's brother, (mater- nal) uncle",
+    "forms": [
+      {
+        "kiksht": "ichłém",
+        "english": "my (maternal) uncle"
+      },
+      {
+        "kiksht": "iyałém",
+        "english": "his (maternal) uncle"
+      },
+      {
+        "kiksht": "iłyalémksh",
+        "english": "his (maternal) uncles"
+      },
+      {
+        "kiksht": "ałem",
+        "english": "(maternal) uncle! [Relatives] See also: ałem"
+      }
+    ]
+  },
   "Agac'ia": {
     "root": "Agac'ia",
     "partOfSpeech": "place",
@@ -21039,6 +21183,17 @@
     ],
     "seeAlso": [
       "gayashqw'imliq, ił- gashqw'imliq, Gayashqw'imliq Wimał -ŁATA see -ŁADA"
+    ]
+  },
+  "a-łaxit": {
+    "root": "a-łaxit",
+    "partOfSpeech": "n",
+    "definition": "bow",
+    "forms": [
+      {
+        "kiksht": "iłłaxit [Dyk], itłaxit [HS 7/4/ 51, 7/24/51, 8/15/51]",
+        "english": "bows -ŁAYU, -ŁAIW- move"
+      }
     ]
   },
   "a-łágagwli": {
@@ -52003,6 +52158,20 @@
       "i- -xagiuldamit"
     ]
   },
+  "i-łemxwlixul": {
+    "root": "i-łemxwlixul",
+    "partOfSpeech": "n",
+    "definition": "Sahaptin language",
+    "forms": [
+      {
+        "kiksht": "iyałemxwlixul",
+        "english": "he is a Sahaptin speaker [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "łemxwlémt"
+    ]
+  },
   "iagluxtix": {
     "root": "iagluxtix",
     "partOfSpeech": "vb",
@@ -61330,6 +61499,189 @@
     "definition": "ten",
     "notes": [
       "This is the form used with ił- prefix nouns. The forms of -łilxam are formed by adding the appropri- ate possessive prefix to the stem."
+    ]
+  },
+  "łchgúqt": {
+    "root": "łchgúqt",
+    "partOfSpeech": "n",
+    "definition": "they are singing a medi- cine song",
+    "examples": [
+      {
+        "kiksht": "Łchgúqt łglalam.",
+        "english": "They [the Thunder brothers] are singing their medicine song. [WTI.11.2]"
+      }
+    ]
+  },
+  "łdit": {
+    "root": "łdit",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is coming",
+    "seeAlso": [
+      "-I"
+    ]
+  },
+  "łelqti": {
+    "root": "łelqti",
+    "partOfSpeech": "vb",
+    "definition": "point to them/it!",
+    "seeAlso": [
+      "-l-QTI"
+    ]
+  },
+  "łenxilax": {
+    "root": "łenxilax",
+    "partOfSpeech": "vb",
+    "definition": "I am eating them",
+    "seeAlso": [
+      "-xi-LAX̲"
+    ]
+  },
+  "łex": {
+    "root": "łex",
+    "partOfSpeech": "part",
+    "definition": "tickle, itch [Dyk], scratch [LT 7/14/53]",
+    "examples": [
+      {
+        "kiksht": "Łex nkiax.",
+        "english": "I'm itching."
+      },
+      {
+        "kiksht": "Łexłex ikiax.",
+        "english": "He is tickling, itching."
+      },
+      {
+        "kiksht": "Łexłex enkixax.",
+        "english": "I'm tickling myself."
+      },
+      {
+        "kiksht": "Łexłex chuxt.",
+        "english": "He is tickling her. [Dyk]"
+      }
+    ],
+    "seeAlso": [
+      "tłix"
+    ]
+  },
+  "łexłex": {
+    "root": "łexłex",
+    "partOfSpeech": "part",
+    "definition": "make rustling noise (as when going through brush)"
+  },
+  "łga": {
+    "root": "łga",
+    "partOfSpeech": "adv",
+    "definition": "by chance, perhaps, per- chance",
+    "examples": [
+      {
+        "kiksht": "Ag̲a łga pu qama mta uxuq'íwalal nug̲w amtktuxwal?",
+        "english": "By what right, perchance, will you keep the fish to yourselves? [WTI.1a6]"
+      }
+    ],
+    "seeAlso": [
+      "łka, łg̲a"
+    ]
+  },
+  "łgala": {
+    "root": "łgala",
+    "partOfSpeech": "adv",
+    "definition": "long time, for a long time",
+    "examples": [
+      {
+        "kiksht": "Fuuuu yatłaqdix gachiux alálala łgala kwadau p'aláa gachiux.",
+        "english": "He did fuuuu on him for quite some time before he let him come to rest. [WTI.1m.4]"
+      }
+    ]
+  },
+  "łgap": {
+    "root": "łgap",
+    "partOfSpeech": "part",
+    "definition": "grab",
+    "examples": [
+      {
+        "kiksht": "Łgab ixa.",
+        "english": "Grab it! [MMc 1/14/99]"
+      },
+      {
+        "kiksht": "Łgap gałgigelga wilx.",
+        "english": "They took a country for themselves. [WTIV.1.4]"
+      }
+    ]
+  },
+  "łgatqwam": {
+    "root": "łgatqwam",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] comes"
+  },
+  "łgelxtxulal": {
+    "root": "łgelxtxulal",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is telling us",
+    "seeAlso": [
+      "-X̲U-lal"
+    ]
+  },
+  "łgenshtglal": {
+    "root": "łgenshtglal",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is copulating with me",
+    "seeAlso": [
+      "-SHTK"
+    ]
+  },
+  "łgiubíchema": {
+    "root": "łgiubíchema",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] obtains it[i-] (fish)",
+    "seeAlso": [
+      "-BICHEM(A)"
+    ]
+  },
+  "łgiumila": {
+    "root": "łgiumila",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] scolds him",
+    "seeAlso": [
+      "-MILA"
+    ]
+  },
+  "łgiuqmit": {
+    "root": "łgiuqmit",
+    "partOfSpeech": "vb",
+    "definition": "they see him",
+    "seeAlso": [
+      "-QMIT"
+    ]
+  },
+  "łgiuqtilal": {
+    "root": "łgiuqtilal",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is pointing to him",
+    "seeAlso": [
+      "-QTI"
+    ]
+  },
+  "łgiushtx": {
+    "root": "łgiushtx",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] carries it[i-] on his back",
+    "seeAlso": [
+      "-SHTX̲W"
+    ]
+  },
+  "łgágelgat": {
+    "root": "łgágelgat",
+    "partOfSpeech": "vb",
+    "definition": "he[ił-] is holding it[a-]",
+    "seeAlso": [
+      "-gl-GA"
+    ]
+  },
+  "łgígelximuł": {
+    "root": "łgígelximuł",
+    "partOfSpeech": "vb",
+    "definition": "they call him, they summon him",
+    "seeAlso": [
+      "-gl-KIM"
     ]
   },
   "łáglalitix": {
