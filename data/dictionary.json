@@ -25342,6 +25342,28 @@
       }
     ]
   },
+  "a-nk'utck'uc": {
+    "root": "a-nk'utck'uc",
+    "partOfSpeech": "n",
+    "definition": "hunchback",
+    "forms": [
+      {
+        "kiksht": "ayank'uck'uc",
+        "english": "he is a hunch- back, he has a hunchback [Dyk]"
+      }
+    ]
+  },
+  "a-ntixwa": {
+    "root": "a-ntixwa",
+    "partOfSpeech": "n",
+    "definition": "buzzard, turkey buz- zard",
+    "forms": [
+      {
+        "kiksht": "antíxwamax, idntíxwamax",
+        "english": "buzzards [DykGr 111] Intixwa may be used to refer to a male buzzard; it appears, however, that antixwa is the usual contemporary term for the bird regardless of gender."
+      }
+    ]
+  },
   "a-łashqw'imliq": {
     "root": "a-łashqw'imliq",
     "partOfSpeech": "n",
@@ -56969,6 +56991,16 @@
       "-xi-NIM, i-qinim"
     ]
   },
+  "i-nshxala": {
+    "root": "i-nshxala",
+    "partOfSpeech": "n",
+    "definition": "oriole"
+  },
+  "i-ntłaxtłax": {
+    "root": "i-ntłaxtłax",
+    "partOfSpeech": "n",
+    "definition": "carbuncle"
+  },
   "i-shmiwa": {
     "root": "i-shmiwa",
     "partOfSpeech": "n",
@@ -57649,6 +57681,21 @@
       {
         "kiksht": "idnáwaitkmax",
         "english": "gill nets [Dyk]"
+      }
+    ]
+  },
+  "id-ntł'atł'aiyuksh": {
+    "root": "id-ntł'atł'aiyuksh",
+    "partOfSpeech": "n",
+    "definition": "eyelashes",
+    "examples": [
+      {
+        "kiksht": "icháchg idiantł'atł'aiyuksh",
+        "english": "icicles"
+      },
+      {
+        "kiksht": "(literally",
+        "english": "frost's eyelashes)"
       }
     ]
   },
@@ -59247,6 +59294,17 @@
     "definition": "spectacle case, eyeglass case",
     "seeAlso": [
       "is-kusmatbama"
+    ]
+  },
+  "is-ntxust": {
+    "root": "is-ntxust",
+    "partOfSpeech": "n",
+    "definition": "arrow notch",
+    "examples": [
+      {
+        "kiksht": "Isgantxust nsalxulal.",
+        "english": "I am putting her notch on an arrow. [Dyk]"
+      }
     ]
   },
   "ish- -ditł'i": {
@@ -62278,6 +62336,21 @@
     ],
     "seeAlso": [
       "-ł-gi-xi-WA"
+    ]
+  },
+  "ił- -ntłuxtłuxaksh": {
+    "root": "ił- -ntłuxtłuxaksh",
+    "partOfSpeech": "adj n",
+    "definition": "spotted",
+    "forms": [
+      {
+        "kiksht": "iłgantłuxtłuxaksh",
+        "english": "she is spotted"
+      },
+      {
+        "kiksht": "iłyantłuxtłuxaksh",
+        "english": "he is spotted [Dyk]; spotted horse, pinto [CJ 8/7/52, HS 8/22/54]"
+      }
     ]
   },
   "ił-'ishałx": {
@@ -67638,6 +67711,159 @@
       "-X̲"
     ]
   },
+  "nixaima": {
+    "root": "nixaima",
+    "partOfSpeech": "vb",
+    "definition": "he lay down",
+    "seeAlso": [
+      "-xa-IMA"
+    ]
+  },
+  "nixelgakwax": {
+    "root": "nixelgakwax",
+    "partOfSpeech": "vb",
+    "definition": "he turned around",
+    "seeAlso": [
+      "-xl-KA-kw"
+    ]
+  },
+  "nixelxadamidagwa": {
+    "root": "nixelxadamidagwa",
+    "partOfSpeech": "vb",
+    "definition": "he brought himself to",
+    "seeAlso": [
+      "-ch-l-xa-TA-kw, -xl-xa-TA-kw"
+    ]
+  },
+  "nixenk'anqut": {
+    "root": "nixenk'anqut",
+    "partOfSpeech": "vb",
+    "definition": "he fished with hook and line",
+    "seeAlso": [
+      "-xn-K'ANQUT"
+    ]
+  },
+  "nixenk'áng̲utam": {
+    "root": "nixenk'áng̲utam",
+    "partOfSpeech": "vb",
+    "definition": "he went fishing with hook and line",
+    "seeAlso": [
+      "-xn-K'ANQUT"
+    ]
+  },
+  "nixentłichu": {
+    "root": "nixentłichu",
+    "partOfSpeech": "vb",
+    "definition": "he put it[i-] down over himself",
+    "seeAlso": [
+      "-xn-TŁI-chu"
+    ]
+  },
+  "nixgilúichatk": {
+    "root": "nixgilúichatk",
+    "partOfSpeech": "vb",
+    "definition": "he listened to him",
+    "seeAlso": [
+      "-xl-WICHA-tk"
+    ]
+  },
+  "nixlgáulx": {
+    "root": "nixlgáulx",
+    "partOfSpeech": "vb",
+    "definition": "he got up",
+    "seeAlso": [
+      "-xl-GA-wulx"
+    ]
+  },
+  "nixlúichatk": {
+    "root": "nixlúichatk",
+    "partOfSpeech": "vb",
+    "definition": "he listened",
+    "seeAlso": [
+      "-xl-WICHA-tk"
+    ]
+  },
+  "nixqw'á": {
+    "root": "nixqw'á",
+    "partOfSpeech": "vb",
+    "definition": "he went hunting",
+    "seeAlso": [
+      "-x-QW'A"
+    ]
+  },
+  "nixtłagwa": {
+    "root": "nixtłagwa",
+    "partOfSpeech": "vb",
+    "definition": "he passed by it[i-]",
+    "seeAlso": [
+      "-x-TŁA-kw"
+    ]
+  },
+  "nixutk": {
+    "root": "nixutk",
+    "partOfSpeech": "vb",
+    "definition": "he hid him",
+    "seeAlso": [
+      "-x-TK"
+    ]
+  },
+  "nixux": {
+    "root": "nixux",
+    "partOfSpeech": "vb",
+    "definition": "he became, he made him- self",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "nixuxix": {
+    "root": "nixuxix",
+    "partOfSpeech": "vb",
+    "definition": "it became",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "nixuxwax": {
+    "root": "nixuxwax",
+    "partOfSpeech": "vb",
+    "definition": "he became, he was",
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "nixuxwaxix": {
+    "root": "nixuxwaxix",
+    "partOfSpeech": "vb",
+    "definition": "it became",
+    "examples": [
+      {
+        "kiksht": "Daxapxáp nixuxwaxix.",
+        "english": "It became dark. [WTIV.2.11]"
+      }
+    ],
+    "seeAlso": [
+      "-x-X̲"
+    ]
+  },
+  "nixwaxitx": {
+    "root": "nixwaxitx",
+    "partOfSpeech": "vb",
+    "definition": "he dashed off",
+    "seeAlso": [
+      "-x-WA-xit"
+    ]
+  },
+  "nixwuaxit": {
+    "root": "nixwuaxit",
+    "partOfSpeech": "vb",
+    "definition": "he was scared away",
+    "notes": [
+      "This is probably a mistran- scription for nixwaxit."
+    ],
+    "seeAlso": [
+      "-x-WA"
+    ]
+  },
   "nixyawibam": {
     "root": "nixyawibam",
     "partOfSpeech": "n",
@@ -67647,6 +67873,46 @@
     ],
     "seeAlso": [
       "Nixyawi"
+    ]
+  },
+  "nixímaxidemx": {
+    "root": "nixímaxidemx",
+    "partOfSpeech": "vb",
+    "definition": "he fell down dead",
+    "seeAlso": [
+      "-x-IMA-xit"
+    ]
+  },
+  "nixímaxitx": {
+    "root": "nixímaxitx",
+    "partOfSpeech": "vb",
+    "definition": "he lay",
+    "seeAlso": [
+      "-x-IMA-xit"
+    ]
+  },
+  "nixłuxwait": {
+    "root": "nixłuxwait",
+    "partOfSpeech": "vb",
+    "definition": "he thought",
+    "seeAlso": [
+      "-ŁUXWA, -x-ŁUXWA-it"
+    ]
+  },
+  "niyamqitłq": {
+    "root": "niyamqitłq",
+    "partOfSpeech": "vb",
+    "definition": "I left you",
+    "seeAlso": [
+      "nindałqitłq, -g̲l-QŁQ"
+    ]
+  },
+  "niyúyamnił": {
+    "root": "niyúyamnił",
+    "partOfSpeech": "vb",
+    "definition": "he used to arrive",
+    "seeAlso": [
+      "-I, -I-am"
     ]
   },
   "niłgémtx": {
@@ -68408,6 +68674,26 @@
       "(w)a-nałxat, i-natłxat, ił- natłxat"
     ]
   },
+  "wa-nkw'ix": {
+    "root": "wa-nkw'ix",
+    "partOfSpeech": "n",
+    "definition": "pus that comes out of the eyes from certain diseases",
+    "forms": [
+      {
+        "kiksht": "ayankw'ix",
+        "english": "he has pus com- ing out of his eyes [Dyk]"
+      }
+    ]
+  },
+  "wa-nkwat": {
+    "root": "wa-nkwat",
+    "partOfSpeech": "n",
+    "definition": "landing place",
+    "forms": [],
+    "notes": [
+      "A small indentation or bay in a river or lake used as a landing place."
+    ]
+  },
   "wa-łala": {
     "root": "wa-łala",
     "partOfSpeech": "n",
@@ -68684,6 +68970,17 @@
     ],
     "seeAlso": [
       "id-náchk, -NA-chkw"
+    ]
+  },
+  "wi-npu": {
+    "root": "wi-npu",
+    "partOfSpeech": "n",
+    "definition": "flea",
+    "forms": [
+      {
+        "kiksht": "winpumax",
+        "english": "fleas [Dyk]"
+      }
     ]
   },
   "wi-łq": {
