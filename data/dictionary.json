@@ -5148,6 +5148,74 @@
       }
     ]
   },
+  "-LGWIA": {
+    "root": "-LGWIA",
+    "partOfSpeech": "vb",
+    "definition": "spread, spread out",
+    "forms": [
+      {
+        "kiksht": "yulgwiat",
+        "english": "it[i-] is spread"
+      },
+      {
+        "kiksht": "yulgwíadix",
+        "english": "it[i-] (a place) is spread out (for instance, a cleared place for sitting, sleeping, etc.)"
+      },
+      {
+        "kiksht": "aigilgwiat",
+        "english": "it[a-] is spread out for him"
+      },
+      {
+        "kiksht": "aigitlgwiat",
+        "english": "it[a-] was spread out for him"
+      },
+      {
+        "kiksht": "iyulgwíaxit",
+        "english": "he was spread out, caused to be spread out"
+      }
+    ]
+  },
+  "-LGWIA-mit": {
+    "root": "-LGWIA-mit",
+    "partOfSpeech": "vb",
+    "definition": "spread, spread out, cause to be spread out",
+    "forms": [
+      {
+        "kiksht": "chiulgwiamit",
+        "english": "he has it[i-] spread"
+      },
+      {
+        "kiksht": "chaxitłgwíamit",
+        "english": "he had it[a-] spread out for itself"
+      },
+      {
+        "kiksht": "chenxilgwíamit",
+        "english": "he has me spread out for himself"
+      },
+      {
+        "kiksht": "aixitlgwíamit",
+        "english": "he had it[a-] spread out for himself"
+      },
+      {
+        "kiksht": "aqaxilgwíamida",
+        "english": "it[a-] will be spread out for some- one [Dyk]"
+      },
+      {
+        "kiksht": "gachiulgwíamit",
+        "english": "he caused it[i-] to be spread out, he spread it out [WTI.7.1]"
+      },
+      {
+        "kiksht": "nyulgwiamit",
+        "english": "I am spreading it[i-] out (like a bread) [MMc 12/29/97]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Ikaba gachiulgwíamit.",
+        "english": "He caused ice to be spread out. [WTI.7.1]"
+      }
+    ]
+  },
   "-a-gl- G̲AYA": {
     "root": "-a-gl- G̲AYA",
     "partOfSpeech": "vb",
@@ -15773,6 +15841,57 @@
     ],
     "notes": [
       "Used only with plural sub- jects. For singular subjects, use -xi- ła-l-it."
+    ]
+  },
+  "-xi-LAX̲": {
+    "root": "-xi-LAX̲",
+    "partOfSpeech": "vb",
+    "definition": "eat",
+    "forms": [
+      {
+        "kiksht": "inxilax",
+        "english": "I am eating it[i-]"
+      },
+      {
+        "kiksht": "inxidlax",
+        "english": "I was eating it[i-]"
+      },
+      {
+        "kiksht": "aixidlax",
+        "english": "he was eating it[a-]"
+      },
+      {
+        "kiksht": "niginxilax",
+        "english": "I was eating it[i-] (last season)"
+      },
+      {
+        "kiksht": "niginxidlax",
+        "english": "I was eating it[i-] (last week)"
+      },
+      {
+        "kiksht": "nignxilax",
+        "english": "she was eating me (last season)"
+      },
+      {
+        "kiksht": "nignxidlax",
+        "english": "she was eating me (last week)"
+      },
+      {
+        "kiksht": "galinxidlax",
+        "english": "I was eating it[i-] [Dyk]"
+      }
+    ],
+    "examples": [
+      {
+        "kiksht": "Dan imxilax?",
+        "english": "What are you eating? [AF 1/2/53]"
+      }
+    ],
+    "notes": [
+      "Occurs only in present, ni- and ga-+directional -t (past of a year ago) tenses. Compare -xl-mux."
+    ],
+    "seeAlso": [
+      "-xl-MUX̲, -ŁX̲LM"
     ]
   },
   "-xi-t-I": {
@@ -49213,7 +49332,27 @@
   "i-laxlax": {
     "root": "i-laxlax",
     "partOfSpeech": "n",
-    "definition": "poison"
+    "definition": "fish scales"
+  },
+  "i-lexlex": {
+    "root": "i-lexlex",
+    "partOfSpeech": "n",
+    "definition": "fish scales",
+    "forms": []
+  },
+  "i-lgulit": {
+    "root": "i-lgulit",
+    "partOfSpeech": "n",
+    "definition": "looks, appearance",
+    "examples": [
+      {
+        "kiksht": "Ichyálpt alidímama, qadash naika dåwi ichélgulit—qidau iyálgulit ichyálpt naiká dåwi.",
+        "english": "My trading partner will come, looking just like me—thus my trading partner's appearance is, like me. [WTI.8.1]"
+      }
+    ],
+    "seeAlso": [
+      "i-lgwilit"
+    ]
   },
   "i-láitk": {
     "root": "i-láitk",
@@ -51640,6 +51779,14 @@
         "kiksht": "iłshkí, iłshkimax",
         "english": "paddles [GT, MMc 1/12/99]"
       }
+    ]
+  },
+  "ish-lepqtit": {
+    "root": "ish-lepqtit",
+    "partOfSpeech": "vb",
+    "definition": "bowstring",
+    "seeAlso": [
+      "is-elpqtit"
     ]
   },
   "ish-íxtksh": {
@@ -54923,6 +55070,14 @@
     "partOfSpeech": "n",
     "definition": "second-grade kinnickkinnick"
   },
+  "ił-lém": {
+    "root": "ił-lém",
+    "partOfSpeech": "n",
+    "definition": "whiskey",
+    "notes": [
+      "Borrowed from English \"rum.\""
+    ]
+  },
   "ił-lá": {
     "root": "ił-lá",
     "partOfSpeech": "n",
@@ -57077,6 +57232,29 @@
       "ailáx, la'ax, i-k'ilaxlax, -sh- tł'itł'i"
     ]
   },
+  "laxw": {
+    "root": "laxw",
+    "partOfSpeech": "part",
+    "definition": "tip, rock",
+    "examples": [
+      {
+        "kiksht": "Laxw igaxux.",
+        "english": "She tipped to one side."
+      },
+      {
+        "kiksht": "Laxwláxw igaxux.",
+        "english": "She tipped from side to side, rocked."
+      },
+      {
+        "kiksht": "Laxw gachiux.",
+        "english": "He tipped it[i-]. [Dyk]"
+      },
+      {
+        "kiksht": "laxw ag̲ałax",
+        "english": "afternoon, near sundown [PK 8/29/55, HS 7/10/51; GT, MMc 1/12/99; translation sup- plied by GT, MMc]"
+      }
+    ]
+  },
   "laxwlaxw": {
     "root": "laxwlaxw",
     "partOfSpeech": "part",
@@ -57089,6 +57267,40 @@
     ],
     "seeAlso": [
       "luxlux, sailuxlux, sailuxluxix, dalaxwláxw"
+    ]
+  },
+  "lep": {
+    "root": "lep",
+    "partOfSpeech": "part",
+    "definition": "underwater, go underwa- ter, duck underwater, dip, submerge",
+    "examples": [
+      {
+        "kiksht": "Lep igixux.",
+        "english": "He ducked himself."
+      },
+      {
+        "kiksht": "Leplép chduxt itk'itit.",
+        "english": "He is dipping the clothes. [Dyk]"
+      },
+      {
+        "kiksht": "Gayaxalimałx, lep galixux.",
+        "english": "He threw himself into the river, he went under- water. [WTI.1b2]"
+      },
+      {
+        "kiksht": "Leb ałgatxa ac'emna.",
+        "english": "He will drive the staging- pole under water. [WTII.7.2]"
+      }
+    ],
+    "seeAlso": [
+      "daláp, dalabláp, i-k'íleblep, ailap"
+    ]
+  },
+  "lgushgiwal": {
+    "root": "lgushgiwal",
+    "partOfSpeech": "vb",
+    "definition": "we (including you) are travelling",
+    "seeAlso": [
+      "-k-SHGIWA"
     ]
   },
   "qengi": {
@@ -57557,6 +57769,25 @@
     "root": "wa-lapten",
     "partOfSpeech": "n",
     "definition": "wheat"
+  },
+  "wa-lemlem": {
+    "root": "wa-lemlem",
+    "partOfSpeech": "n",
+    "definition": "decayed wood, rotten wood"
+  },
+  "wa-léxłx": {
+    "root": "wa-léxłx",
+    "partOfSpeech": "n",
+    "definition": "staging [for fishing]",
+    "forms": [
+      {
+        "kiksht": "ish-élxłxmax",
+        "english": "stagings [WTII.7.1]"
+      }
+    ],
+    "notes": [
+      "Refers to the constructed platform from which people fished."
+    ]
   },
   "wi-'ísh": {
     "root": "wi-'ísh",
